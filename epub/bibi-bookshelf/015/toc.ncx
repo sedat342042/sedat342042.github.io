@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+<head><meta name="uid" content="{3F6A4690-8DF0-4B63-85B5-EA7F5BBC993A}"/></head>
+<docTitle><text>Victoria Bosnyac - Pericadı e</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="{A28453D8-1B27-47C2-B9E1-276B2F4899B9}"><navLabel><text>Birinci Bölüm</text></navLabel><content src="main.xhtml#caption2"/></navPoint>
+<navPoint playOrder="2" id="{CB350BEC-4167-4A13-B718-9826D4A73185}"><navLabel><text>Beşinci Bölüm</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="3" id="{F5A063B9-D7EA-497F-AABB-D570E3293C84}"><navLabel><text>Onuncu Bölüm</text></navLabel><content src="main-2.xhtml"/></navPoint>
+<navPoint playOrder="4" id="{C10F5D27-CD9A-4DB7-9B6A-6D805CFD3134}"><navLabel><text>On Birinci Bölüm</text></navLabel><content src="main-3.xhtml"/></navPoint>
+<navPoint playOrder="5" id="{061D662B-FF9A-4985-9D0C-059FCEB000DE}"><navLabel><text>On İkinci Bölüm</text></navLabel><content src="main-4.xhtml"/></navPoint>
+<navPoint playOrder="6" id="{9E3992A8-734B-4117-954D-72FC05E21647}"><navLabel><text>On Üç Buçukuncu Bölüm</text></navLabel><content src="main-5.xhtml"/></navPoint>
+<navPoint playOrder="7" id="{060BA8A4-1CE4-4F35-BCB4-F18A8947ADDD}"><navLabel><text>Sonsöz</text></navLabel><content src="main-6.xhtml"/></navPoint>
+</navMap></ncx>
