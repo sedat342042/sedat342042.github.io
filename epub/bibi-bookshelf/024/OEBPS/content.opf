@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Auster, Paul">Paul Auster</dc:creator>
+<dc:identifier id="uuid">{4DA10D58-2581-4008-A361-F7C48E17B459}</dc:identifier>
+    <dc:date>1993-12-27T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Şans Müziği, tüm Amerika kıtasına yayılan geniş bir alandan başlayıp Pennsylvania'daki bir çayırlıkta iki kişinin ördüğü duvarda noktalanıyor. O iki kişinin bu işe nasıl bulaştıkları, işin koşulları, tümüyle şansa bağlı bir gelişme. Ancak Paul Auster'ın dünyasında şans, kimi zaman kazaya, kimi zaman yazgıya, kimi zaman da iradeye benzeyen değişken ve güçlü bir öge. Gerilimle coşkuyu aynı anda aktaran Şans Müziği, her türlü kötülüğe ve haksızlığa uğrarken, bunların karşısında bizim de yapabileceğimiz küçük, ama değerli şeylerin öyküsü. Buroman, Paul Auster'in, Amerika'nın en özgün ve şaşırtıcı düş gücüne sahip yazarlarından biri olma yolundaki somut adımlarından birisi.
+&lt;/p&gt;</dc:description>
+    <meta content="Şans Muziği" name="calibre:title_sort"/>
+    <meta content="{&quot;Paul Auster&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  <dc:title>Şans Muziği</dc:title>
+<dc:subject>Amerikan Edebiyatı</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">62bb4e1d-d972-468b-968a-19c6e2ca4613</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755104430</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/28206.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0002_split1.xhtml" id="id" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="id"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

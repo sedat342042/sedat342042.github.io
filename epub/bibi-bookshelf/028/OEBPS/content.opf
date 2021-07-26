@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Auster, Paul">Paul Auster</dc:creator>
+<dc:identifier id="uuid">{501F8024-8A2A-48BA-B730-5F62BA508A3C}</dc:identifier>
+    <dc:date>1997-12-27T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-12-28</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Can Yayınları arasında çıkan kitaplarıyla tanıdığınız Paul Auster'dan ilginç bir anı-roman daha sunuyoruz. Yalnızlığın Keşfi adlı bu anı-romanın Görünmeyen Bir Adamın Portresi başlıklı bölümünde, yazar, babasının ölümünden sonraki duygularını ve anılarını anlatıyor. İkinci bölüm olan Anı Kitabı'nda ise mercek kendi babalık konumuna çevriliyor. Kendisinden ve gerçeklerden kaçan, 'varolmama'yı seçen babasının düz ve yavan kişiliği ile dünyayı sorgulayan ve onu kavramaya çalışan kendisi, romanın yaşamsal eksinini oluşturuyor. Yazar, baba-oğul söylencelerine yaptığı göndermelerle bu ilişkiyi yeniden irdelerken, yaşam, ölüm, bellek, dil üzerine de düşünmekte, öykülemenin ve yazmanın doğasındaki müthiş yalnızlığı keşfetmeye çalışmaktadır.&lt;/p&gt;</dc:description>
+    <meta content="Yalnızlığın Keşfi" name="calibre:title_sort"/>
+    <meta content="{&quot;Paul Auster&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Yalnızlığın Keşfi</dc:title>
+<dc:subject>Amerikan Edebiyatı</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">4cc9d548-ea96-43ff-9c3e-d4fccef90120</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755103204</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

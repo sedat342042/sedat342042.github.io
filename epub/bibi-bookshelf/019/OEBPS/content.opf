@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+<dc:identifier id="pub-id">urn:isbn:9789750721366</dc:identifier>
+    <dc:date>2000-01-14T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="aut">Stefan Zweig</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-12-21</dc:date>
+    <dc:description>&lt;p&gt;Rastlantı sonucu eline geçidiği bir kitapla satrancın inceliklerini öğrenerek bu oyunu bir tutkuya dönüştüren ve giderek bu tutkusu yüzünden beyin hummasına yakalanan Dr. B.'nin öyküsüdür görünüşte Satranç. Ama derinlerde bir veda mektubudur aslında.
+Stefan Zweig'ın Brezilya'da sürgündeyken yazdığı ve Şubat 1942'deki intiharından birkaç ay önce tamamladığı Satranç, Avrupa kültürünün nasyonal sosyalist tehlike altında yok oluşuna işaret eder.
+Avrupa kültürüne elveda derken yaşama da veda etmeyi seçen Zweig'ın son yapıtı Satranç, gerilimli kurgusu ve kahramanın ruhsal gelgitlerinin işlendiği dokusuyla, kısa ama her bakımdan etkileyici olağanüstü bir uzun öyküdür.&lt;/p&gt;</dc:description>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Satranç(Can)"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Stefan Zweig&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Satranç(Can)</dc:title>
+<dc:subject>Öykü</dc:subject>
+<dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">cb5f264d-95bc-4b39-bfb1-6b374386051d</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750721366</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/foreword.xhtml" id="forewordxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd-Light.ttf" id="font__GillSansStd-Lightttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="forewordxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+  </spine>
+</package>

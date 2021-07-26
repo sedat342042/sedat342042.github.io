@@ -1,0 +1,233 @@
+.after-bq {
+  display: block;
+  font-family: "Berling LT Std Roman";
+  font-size: 0.88889em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  text-indent: 1.5em;
+  margin: 1em 0 0;
+}
+.aut {
+  display: block;
+  font-family: "GoudyCatTReg";
+  font-size: 1.62963em;
+  line-height: 1.2;
+  margin-bottom: 0;
+}
+.calibre {
+  height: auto;
+  width: 100%;
+}
+.calibre1 {
+  display: block;
+  font-family: "Gill Sans Std";
+  font-size: 0.66667em;
+}
+.calibre2 {
+  font-style: italic;
+}
+.calibre3 {
+  font-size: 1.09091em;
+  line-height: 1.2;
+}
+.calibre4 {
+  display: block;
+  font-size: 0.5em;
+}
+.calibre5 {
+  font-size: 1.125em;
+}
+.calibre6 {
+  height: auto;
+  width: auto;
+}
+.calibre7 {
+  display: block;
+  font-family: "Gill Sans Std";
+  font-size: 0.66667em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.3em;
+  text-indent: 0;
+  margin: 0;
+}
+.calibre8 {
+  display: block;
+  list-style-type: disc;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.calibre9 {
+  display: list-item;
+  font-family: "Gill Sans Std";
+  font-size: 0.66667em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.3em;
+  list-style-type: none;
+}
+.calibre10 {
+  display: block;
+  font-family: "Berling LT Std Roman";
+  font-size: 1.25926em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  padding-top: 3em;
+  text-align: center;
+  margin: 0.67em 0;
+}
+.calibre11 {
+  display: block;
+  font-family: "Berling LT Std Roman";
+  font-size: 0.88889em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.calibre12 {
+  display: block;
+  margin: 0.9em 1em 0;
+}
+.calibre13 {
+  display: block;
+  font-family: "Gill Sans Std";
+  font-size: 0.88889em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 300;
+  line-height: 1.2;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.copy {
+  display: block;
+}
+.cover-container {
+  display: block;
+  max-width: 450px;
+  margin: 0 auto;
+}
+.date {
+  display: block;
+  font-family: "Gill Sans Std";
+  font-size: 0.88889em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 300;
+  line-height: 1.2;
+  text-align: right;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.epub-typecover {
+  display: block;
+  font-size: 1.125em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.extra-indent {
+  display: block;
+  margin: 0.9em 1em 0 0.75em;
+}
+.isbn {
+  display: block;
+  font-family: "Gill Sans Std";
+  font-size: 0.66667em;
+  margin: 0.8em 0 0;
+}
+.italic {
+  display: block;
+  font-family: "Gill Sans Std";
+  font-size: 0.88889em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: 300;
+  line-height: 1.2;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.logo {
+  display: block;
+  margin: 3em auto 0;
+}
+.margin-top {
+  display: block;
+  margin-top: 1.8em;
+}
+.no-indent {
+  display: block;
+  margin: 0.9em 1em 0 0;
+}
+.press {
+  display: block;
+  margin: 0.8em 0 0;
+}
+.publisher {
+  display: block;
+  margin-top: 2em;
+}
+.seri {
+  display: block;
+  font-family: "Gill Sans Std";
+  font-size: 1em;
+  line-height: 1.2;
+  margin-top: 3.5em;
+}
+.si-backref {
+  color: #000;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+.si-footnote {
+  display: block;
+  font-family: "Gill Sans Std";
+  font-size: 0.66667em;
+  margin-bottom: 0.3em;
+}
+.si-footnotes {
+  display: block;
+  margin: 4em 0 1em;
+}
+.si-noteref {
+  color: #7A7A7A;
+  font-size: 0.75em;
+  padding-left: 0.1em;
+  text-decoration: none;
+  vertical-align: super;
+}
+.title {
+  display: block;
+  font-size: 1.125em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+  margin: 0 5pt;
+}
+.trans {
+  display: block;
+  font-family: "Gill Sans Std";
+  font-size: 0.88889em;
+  line-height: 1.5em;
+  margin-top: 1.5em;
+}
+.work {
+  display: block;
+  font-family: "GoudyCatTReg";
+  font-size: 1.77778em;
+  line-height: 1.2;
+  margin-top: 0.3em;
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750721205" name="dtb:uid"/>
+      <meta content="1" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Bir Kadının Yaşamından 24 Saat</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Çevirmenin önsözü</text>
+         </navLabel>
+         <content src="Text/preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Bir Kadının Yaşamından 24 Saat</text>
+         </navLabel>
+         <content src="Text/chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Bir Yüreğin Ölümü</text>
+         </navLabel>
+         <content src="Text/chapter3.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Yakıcı Sır</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>OYUN ARKADAŞI</text>
+				</navLabel>
+				<content src="Text/5-1.html#toc_marker-1-1"/>
+			</navPoint>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>ÇABUCAK DOSTLUK</text>
+				</navLabel>
+				<content src="Text/5-2.html#toc_marker-1-2"/>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>ÜÇ SESLİ TÜRKÜ</text>
+				</navLabel>
+				<content src="Text/5-3.html#toc_marker-1-3"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>SALDIRI</text>
+				</navLabel>
+				<content src="Text/5-4.html#toc_marker-1-4"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>FİLLER</text>
+				</navLabel>
+				<content src="Text/5-5.html#toc_marker-1-5"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>AVCI ATEŞİ</text>
+				</navLabel>
+				<content src="Text/5-6.html#toc_marker-1-6"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>YAKICI SIR</text>
+				</navLabel>
+				<content src="Text/5-7.html#toc_marker-1-7"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>SUSUŞ</text>
+				</navLabel>
+				<content src="Text/5-8.html#toc_marker-1-8"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>YALANCILAR</text>
+				</navLabel>
+				<content src="Text/5-9.html#toc_marker-1-9"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>AY IŞIĞINDA İZLER</text>
+				</navLabel>
+				<content src="Text/5-10.html#toc_marker-1-10"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>SALDIRI</text>
+				</navLabel>
+				<content src="Text/5-11.html#toc_marker-1-11"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>FIRTINA</text>
+				</navLabel>
+				<content src="Text/5-12.html#toc_marker-1-12"/>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>İLK KAVRAYIŞ</text>
+				</navLabel>
+				<content src="Text/5-13.html#toc_marker-1-13"/>
+			</navPoint>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>ŞAŞIRTICI FIRTINA</text>
+				</navLabel>
+				<content src="Text/5-14.html#toc_marker-1-14"/>
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>SON RÜYA</text>
+				</navLabel>
+				<content src="Text/5-15.html#toc_marker-1-15"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>Çocuk Bakıcısı</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>Prater’de İlkyaz</text>
+			</navLabel>
+			<content src="Text/7.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>Yalnız İki İnsan</text>
+			</navLabel>
+			<content src="Text/8.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>Masalımsı Bir Gece</text>
+			</navLabel>
+			<content src="Text/9.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>Karlarda</text>
+			</navLabel>
+			<content src="Text/10.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>Unutulmayacak Bir İnsan</text>
+			</navLabel>
+			<content src="Text/11.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>Kadın ve Doğa</text>
+			</navLabel>
+			<content src="Text/12.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint24" playOrder="24">
+			<navLabel>
+				<text>Yürüyüş</text>
+			</navLabel>
+			<content src="Text/13.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>Bir Yaz Öyküsü</text>
+			</navLabel>
+			<content src="Text/14.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>Bilinmeyen Bir Kadının Mektubu</text>
+			</navLabel>
+			<content src="Text/15.html#toc_marker-11"/>
+		</navPoint>
+	</navMap>
+</ncx>

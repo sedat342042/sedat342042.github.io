@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kürtler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Cemal, Hasan">Hasan Cemal</dc:creator>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:contributor opf:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:087f3105-da29-4a97-a862-819cbfeb42f2</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6a64ef41-2a63-49f1-8617-6fbda75b4e75</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:087f3105-da29-4a97-a862-819cbfeb42f2</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF.xhtml" id="ITHAF.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ONSOZ.xhtml" id="ONSOZ.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ONSOZ-1.xhtml" id="ONSOZ-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER.xhtml" id="KURTLER.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-1.xhtml" id="KURTLER-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-2.xhtml" id="KURTLER-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-3.xhtml" id="KURTLER-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-4.xhtml" id="KURTLER-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-5.xhtml" id="KURTLER-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-6.xhtml" id="KURTLER-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-7.xhtml" id="KURTLER-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-8.xhtml" id="KURTLER-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-9.xhtml" id="KURTLER-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-10.xhtml" id="KURTLER-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-11.xhtml" id="KURTLER-11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KURTLER-12.xhtml" id="KURTLER-12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/FOTOGRAFLAR.xhtml" id="FOTOGRAFLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/01_fmt.jpeg" id="x01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/02_fmt.jpeg" id="x02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dklogo_fmt.jpeg" id="dklogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/harita_fmt.jpeg" id="harita_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC01_fmt.jpeg" id="HC01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC02_fmt.jpeg" id="HC02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC03_fmt.jpeg" id="HC03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC04_fmt.jpeg" id="HC04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC05_fmt.jpeg" id="HC05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC06_fmt.jpeg" id="HC06_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC07_fmt.jpeg" id="HC07_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC08_fmt.jpeg" id="HC08_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC09_fmt.jpeg" id="HC09_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC10_fmt.jpeg" id="HC10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC11_fmt.jpeg" id="HC11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC12_fmt.jpeg" id="HC12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC13a_fmt.jpeg" id="HC13a_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC14_fmt.jpeg" id="HC14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC15_fmt.jpeg" id="HC15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC16_fmt.jpeg" id="HC16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC17_fmt.jpeg" id="HC17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC18_fmt.jpeg" id="HC18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC19_fmt.jpeg" id="HC19_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC20_fmt.jpeg" id="HC20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC21_fmt.jpeg" id="HC21_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC22_fmt.jpeg" id="HC22_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC24_fmt.jpeg" id="HC24_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC25_fmt.jpeg" id="HC25_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC26_fmt.jpeg" id="HC26_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon2a_fmt.jpeg" id="icon2a_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ithaf_fmt.jpeg" id="ithaf_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uu3oBOVwGHVFXxjUxHdzOW6" media-type="image/jpeg"/>
+    <item href="Fonts/HelveticaNeueLTStd-Cn.ttf" id="HelveticaNeueLTStd-Cn.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/HelveticaNeueLTStd-Cn0001.ttf" id="HelveticaNeueLTStd-Cn0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif6BetaItalic.ttf" id="Serif6BetaItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif6BetaItalic0001.ttf" id="Serif6BetaItalic0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaBold.ttf" id="Serif12BetaBold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaBold0001.ttf" id="Serif12BetaBold0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaRoman.ttf" id="Serif12BetaRoman.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaRoman0001.ttf" id="Serif12BetaRoman0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSans.ttc" id="GillSans.ttc" media-type="application/x-font-truetype-collection"/>
+    <item href="Fonts/GillSans0001.ttc" id="GillSans0001.ttc" media-type="application/x-font-truetype-collection"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="ITHAF.xhtml"/>
+    <itemref idref="ONSOZ.xhtml"/>
+    <itemref idref="ONSOZ-1.xhtml"/>
+    <itemref idref="KURTLER.xhtml"/>
+    <itemref idref="KURTLER-1.xhtml"/>
+    <itemref idref="KURTLER-2.xhtml"/>
+    <itemref idref="KURTLER-3.xhtml"/>
+    <itemref idref="KURTLER-4.xhtml"/>
+    <itemref idref="KURTLER-5.xhtml"/>
+    <itemref idref="KURTLER-6.xhtml"/>
+    <itemref idref="KURTLER-7.xhtml"/>
+    <itemref idref="KURTLER-8.xhtml"/>
+    <itemref idref="KURTLER-9.xhtml"/>
+    <itemref idref="KURTLER-10.xhtml"/>
+    <itemref idref="KURTLER-11.xhtml"/>
+    <itemref idref="KURTLER-12.xhtml"/>
+    <itemref idref="FOTOGRAFLAR.xhtml"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
