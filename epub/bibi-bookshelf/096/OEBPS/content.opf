@@ -1,0 +1,63 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="PrimaryID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Man's Search for Meaning</dc:title>
+    <dc:language>en-US</dc:language>
+    <dc:identifier id="PrimaryID" opf:scheme="ISBN">978-0-8070-1428-8</dc:identifier>
+    <dc:creator opf:file-as="Frankl, Viktor E." opf:role="aut">Viktor E. Frankl</dc:creator>
+    <dc:publisher>Beacon Press</dc:publisher>
+    <dc:date opf:event="publication">2006</dc:date>
+    <dc:rights>Copyright © 2006 by Viktor E. Frankl</dc:rights>
+    <meta content="cover-image" name="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-03-31</dc:date>
+  <description xmlns="http://purl.org/dc/elements/1.1/">&lt;p&gt;Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Between 1942 and 1945 Frankl labored in four different camps, including Auschwitz, while his parents, brother, and pregnant wife perished. Based on his own experience and the experiences of others he treated later in his practice, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. Frankl's theory-known as logotherapy, from the Greek word logos ("meaning")-holds that our primary drive in life is not pleasure, as Freud maintained, but the discovery and pursuit of what we personally find meaningful.&lt;br&gt;&lt;br&gt;At the time of Frankl's death in 1997, &lt;i&gt;Man's Search for Meaning&lt;/i&gt; had sold more than 10 million copies in twenty-four languages. A 1991 reader survey for the Library of Congress that asked readers to name a "book that made a...</description>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Fran_9780807014288_epub_cvi_r1.htm" id="cvi" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_fm1_r1.htm" id="fm1" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_tp_r1.htm" id="tp" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_ded_r1.htm" id="ded" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_toc_r1.htm" id="toc" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_frw_r1.htm" id="frw" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_prf_r1.htm" id="prf" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_p01_r1.htm" id="p01" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_c01_r1.htm" id="c01" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_p02_r1.htm" id="p02" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_c02_r1.htm" id="c02" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_p03_r1.htm" id="p03" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_c03_r1.htm" id="c03" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_aft_r1.htm" id="aft" media-type="application/xhtml+xml"/>
+    <item href="Text/Fran_9780807014288_epub_cop_r1.htm" id="cop" media-type="application/xhtml+xml"/>
+    <item href="Styles/Fran_9780807014288_epub_css_r1.css" id="css" media-type="text/css"/>
+    <item href="Images/Fran_9780807014288_epub_001_r1.jpg" id="f001" media-type="image/jpeg"/>
+    <item href="Images/Fran_9780807014288_epub_cvi_r1.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="Images/Fran_9780807014288_epub_tp_r1.jpg" id="ftp" media-type="image/jpeg"/>
+    <item href="Fonts/CharisSILB.ttf" id="font1" media-type="application/x-font-ttf"/>
+    <item href="Fonts/CharisSILBI.ttf" id="font2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/CharisSILI.ttf" id="font3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/CharisSILR.ttf" id="font4" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cvi" linear="no"/>
+    <itemref idref="fm1" linear="yes"/>
+    <itemref idref="tp" linear="yes"/>
+    <itemref idref="ded" linear="yes"/>
+    <itemref idref="toc" linear="yes"/>
+    <itemref idref="frw" linear="yes"/>
+    <itemref idref="prf" linear="yes"/>
+    <itemref idref="p01" linear="yes"/>
+    <itemref idref="c01" linear="yes"/>
+    <itemref idref="p02" linear="yes"/>
+    <itemref idref="c02" linear="yes"/>
+    <itemref idref="p03" linear="yes"/>
+    <itemref idref="c03" linear="yes"/>
+    <itemref idref="aft" linear="yes"/>
+    <itemref idref="cop" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="Text/Fran_9780807014288_epub_toc_r1.htm" title="Table of Contents" type="toc"/>
+    <reference href="Text/Fran_9780807014288_epub_cvi_r1.htm" title="Cover" type="cover"/>
+    <reference href="Text/Fran_9780807014288_epub_cop_r1.htm" title="Copyright" type="copyright-page"/>
+  </guide>
+</package>

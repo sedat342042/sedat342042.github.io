@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta content="Evrenin Ötesi" name="calibre:title_sort" />
+    <dc:language>tr</dc:language>
+    <dc:creator opf:file-as="Revis, Beth" opf:role="aut">Beth Revis</dc:creator>
+    <meta content="2013-02-13T20:34:31+00:00" name="calibre:timestamp" />
+    <dc:title>Evrenin Ötesi</dc:title>
+    <meta name="cover" content="cover" />
+    <dc:date>2013-02-12T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.18) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c6d94b16-3375-4b1d-8599-5a48a9877c07</dc:identifier>
+    <dc:identifier opf:scheme="calibre">c6d94b16-3375-4b1d-8599-5a48a9877c07</dc:identifier>
+    <meta content="0.7.1" name="Sigil version" />
+    <dc:date opf:event="modification">2013-04-06</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Images/main-1.png" id="id1" media-type="image/png" />
+    <item href="Text/main-1.xhtml" id="id2" media-type="application/xhtml+xml" />
+    <item href="Text/main-2.xhtml" id="id3" media-type="application/xhtml+xml" />
+    <item href="Text/main-3.xhtml" id="id4" media-type="application/xhtml+xml" />
+    <item href="Text/main-4.xhtml" id="id5" media-type="application/xhtml+xml" />
+    <item href="Text/main-5.xhtml" id="id6" media-type="application/xhtml+xml" />
+    <item href="Text/main-6.xhtml" id="id7" media-type="application/xhtml+xml" />
+    <item href="Text/main-7.xhtml" id="id8" media-type="application/xhtml+xml" />
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="id0" />
+    <itemref idref="id2" />
+    <itemref idref="id3" />
+    <itemref idref="id4" />
+    <itemref idref="id5" />
+    <itemref idref="id6" />
+    <itemref idref="id7" />
+    <itemref idref="id8" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

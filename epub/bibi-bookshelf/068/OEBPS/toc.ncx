@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="awp2012-10-30T10:47:06Z" name="dtb:uid"/>
+<meta content="1" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Ozan Beedle'in Hikayeleri</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>Giriş</text>
+</navLabel>
+<content src="Text/004.html"/>
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>Dipnotlar Üzerine Bir Not</text>
+</navLabel>
+<content src="Text/005.html"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>1) BÜYÜCÜ VE ZIPLAYAN KAZAN</text>
+</navLabel>
+<content src="Text/006.html"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>2) İYİ KADER ÇEŞMESİ</text>
+</navLabel>
+<content src="Text/010.html"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>3) SİHİRBAZIN KILLI KALBİ</text>
+</navLabel>
+<content src="Text/017.html"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>4) BABBITTY RABBITTY VE  KIKIRDAYAN KÜTÜĞÜ</text>
+</navLabel>
+<content src="Text/020.html"/>
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>5) ÜÇ KARDEŞİN HİKAYESİ</text>
+</navLabel>
+<content src="Text/025.html"/>
+</navPoint>
+</navMap>
+</ncx>

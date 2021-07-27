@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Auster, Paul">Paul Auster</dc:creator>
+<dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;Paul Auster'ın yeni romanının iki kahramanı var; biri evsiz-barksız, sarhoş, yarı-deli Willy, öbürü de kendi insanlığımız konusunda ondan pek çok şey öğreneceğimiz bir köpek: Kemik Bey. Bir köpeğin gözünden, onun düşüncelerine girerek dünyayı, yaşamı, insan ilişkilerini işleyen Paul Auster, kimi yerde eğlendirici, kimi yerde de trajik ve hüzünlü bir anlatımla her zamanki dil ustalığıyla, sözcüklere yüklediği enerjiyle, yalın ama yoğun yorumuyla bizi alışılmadık yollardan insanlığımızla yüzyüze getiriyor; yaşamlarımızın, ilkelerimizin kimi zaman nasıl da çürük ve dayanıksız temellere oturduğunu kanıtlarken, belleğimizin derinlerine gömdüğümüz eski ve kalıcı değerleri, günümüzün hızlı ve acımasız akışı içinde nasıl da unuttuğumuzu nostaljik yolculuklarla anımsatıyor. Willy ile Kemik Bey'in, yaşamın son durağı olan Timbuktu'ya doğru çıktıkları yolculuğu, yaşam felsefesini yansıtan bir izlek gibi kullanan Paul Auster, bütün romanlarında yaptığı gibi bu kitabına da katmış kendisini; dahası, Willy'de olduğu kadar, Kemik Bey'de de ondan izler bulmak olası. Yazar, bizi insan türünün çerçevesi dışına çıkararak, kendimize yepyeni bir gözle bakmamızı sağlıyor. &lt;br&gt;Hangi konuda yazmayı seçerse seçsin, nasıl bir masal uydurursa uydursun, büyüsünü koruyor, bizi de o büyünün içine katıyor.&lt;br&gt;&lt;/div&gt;</dc:description>
+    <dc:date>1999-03-02T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4399e847-ce11-42d8-b6d4-abad494e3deb</dc:identifier>
+    <dc:date opf:event="modification">2015-03-29</dc:date>
+    <meta content="Timbuktu" name="calibre:title_sort"/>
+    <meta content="2015-03-10T14:22:54.720000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Paul Auster&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  <dc:title>Timbuktu</dc:title>
+<dc:subject>Çağdaş Edebiyat</dc:subject>
+<dc:subject>Yetişkin</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f7add866-8546-4f4c-99ca-7b6617e30a4d</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755109510</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/timbuktu_1.htm" id="timbuktu_1.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/timbuktu_2.htm" id="timbuktu_2.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/timbuktu_3.htm" id="timbuktu_3.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="timbuktu_1.htm"/>
+    <itemref idref="timbuktu_2.htm"/>
+    <itemref idref="timbuktu_3.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

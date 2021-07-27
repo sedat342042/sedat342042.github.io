@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="awp2012-10-04T17:24:22Z" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Harry Potter ve Felsefe Taşı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM: SAĞ KALAN ÇOCUK</text>
+      </navLabel>
+      <content src="Text/003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM: YOK OLAN CAM</text>
+      </navLabel>
+      <content src="Text/005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM: HİÇ KİMSEDEN MEKTUPLAR</text>
+      </navLabel>
+      <content src="Text/007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM: ANAHTARLARIN BEKÇİSİ</text>
+      </navLabel>
+      <content src="Text/009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM: DIAGON YOLU</text>
+      </navLabel>
+      <content src="Text/011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>ALTINCI BÖLÜM: PERON DOKUZ ÜÇ ÇEYREK'TEN YOLCULUK</text>
+      </navLabel>
+      <content src="Text/013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>YEDİNCİ BÖLÜM: SEÇMEN ŞAPKA</text>
+      </navLabel>
+      <content src="Text/015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>SEKİZİNCİ BÖLÜM: İKSİR USTASI</text>
+      </navLabel>
+      <content src="Text/017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>DOKUZUNCU BÖLÜM: GECE YARISI DÜELLOSU</text>
+      </navLabel>
+      <content src="Text/019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>ONUNCU BÖLÜM: CADILAR BAYRAMI</text>
+      </navLabel>
+      <content src="Text/021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>ON BİRİNCİ BÖLÜM: QUIDDITCH</text>
+      </navLabel>
+      <content src="Text/023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>ON İKİNCİ BÖLÜM: KELİD AYNASI</text>
+      </navLabel>
+      <content src="Text/025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>ON ÜÇÜNCÜ BÖLÜM: NICOLAS FLAMEL</text>
+      </navLabel>
+      <content src="Text/027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>ON DÖRDÜNCÜ BÖLÜM: NORVEÇ PÜTÜRLÜSÜ NORBERT</text>
+      </navLabel>
+      <content src="Text/029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>ON BEŞİNCİ BÖLÜM: YASAK ORMAN</text>
+      </navLabel>
+      <content src="Text/031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>ON ALTINCI BÖLÜM: KAPAĞIN ALTINDA</text>
+      </navLabel>
+      <content src="Text/033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>ON YEDİNCİ BÖLÜM: İKİ YÜZLÜ ADAM</text>
+      </navLabel>
+      <content src="Text/035.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
