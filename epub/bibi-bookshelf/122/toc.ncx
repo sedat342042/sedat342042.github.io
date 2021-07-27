@@ -1,0 +1,1029 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="cdf61d48-f79c-4736-8d9d-5ec3a61d72c0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.43)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tanrılar okulu</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Ops/001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Ops/003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Bu kitap</text>
+      </navLabel>
+      <content src="Ops/003.html#ncx220"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Bölüm I</text>
+      </navLabel>
+      <content src="Ops/007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>Dreamer ile Karşılaşma</text>
+      </navLabel>
+      <content src="Ops/007.html#ncx251"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>1 Dreamer ile karşılaşma</text>
+      </navLabel>
+      <content src="Ops/007.html#ncx252"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>2 Çalışmak esarettir</text>
+      </navLabel>
+      <content src="Ops/014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>3 "Ben bir kadınım..."</text>
+      </navLabel>
+      <content src="Ops/018.html#ncx352"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>4 Ölmekte olan bir tür</text>
+      </navLabel>
+      <content src="Ops/020.html#ncx367"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>5 Uyanış</text>
+      </navLabel>
+      <content src="Ops/022.html#ncx383"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>6 Geçmişi değiştirmek</text>
+      </navLabel>
+      <content src="Ops/026.html#ncx408"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>7 Kişinin kendisini içinde bağışlaması</text>
+      </navLabel>
+      <content src="Ops/027.html#ncx433"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>8 Kendini gözlemleme kendini düzeltmedir</text>
+      </navLabel>
+      <content src="Ops/029.html#ncx450"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>9 "Ölüm çözüm değildir"</text>
+      </navLabel>
+      <content src="Ops/033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-15" playOrder="15">
+      <navLabel>
+        <text>10 İyileşme içten gelir</text>
+      </navLabel>
+      <content src="Ops/037.html#ncx539"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-16" playOrder="16">
+      <navLabel>
+        <text>11 Ev sahipleri</text>
+      </navLabel>
+      <content src="Ops/039.html#ncx557"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-17" playOrder="17">
+      <navLabel>
+        <text>12 Judith, "Sinyorina"</text>
+      </navLabel>
+      <content src="Ops/041.html#ncx571"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-18" playOrder="18">
+      <navLabel>
+        <text>13 Teşekkürler Luisa!</text>
+      </navLabel>
+      <content src="Ops/044.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-19" playOrder="19">
+      <navLabel>
+        <text>Bölüm II</text>
+      </navLabel>
+      <content src="Ops/048.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-20" playOrder="20">
+      <navLabel>
+        <text>Lupelius</text>
+      </navLabel>
+      <content src="Ops/048.html#ncx622"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-21" playOrder="21">
+      <navLabel>
+        <text>1 Okulla karşılaşma</text>
+      </navLabel>
+      <content src="Ops/048.html#ncx623"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-22" playOrder="22">
+      <navLabel>
+        <text>2 Dünya bir masaldır</text>
+      </navLabel>
+      <content src="Ops/049.html#ncx640"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-23" playOrder="23">
+      <navLabel>
+        <text>3 Altüst etmeyi öğrenmek için bir Okul</text>
+      </navLabel>
+      <content src="Ops/051.html#ncx658"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-24" playOrder="24">
+      <navLabel>
+        <text>4 Lupelius</text>
+      </navLabel>
+      <content src="Ops/055.html#ncx696"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-25" playOrder="25">
+      <navLabel>
+        <text>5 Peder S. ile buluşma</text>
+      </navLabel>
+      <content src="Ops/059.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-26" playOrder="26">
+      <navLabel>
+        <text>6 Lupelius'un öğretisi</text>
+      </navLabel>
+      <content src="Ops/064.html#ncx765"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-27" playOrder="27">
+      <navLabel>
+        <text>7 "Asklepios'a bir horoz ada"</text>
+      </navLabel>
+      <content src="Ops/067.html#ncx788"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-28" playOrder="28">
+      <navLabel>
+        <text>8 Kişinin özde kendisini öldürmesi yasaktır</text>
+      </navLabel>
+      <content src="Ops/069.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-29" playOrder="29">
+      <navLabel>
+        <text>9 Tanrılar Okulu</text>
+      </navLabel>
+      <content src="Ops/071.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-30" playOrder="30">
+      <navLabel>
+        <text>10 Mea Culpa</text>
+      </navLabel>
+      <content src="Ops/074.html#ncx843"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-31" playOrder="31">
+      <navLabel>
+        <text>11 Durumlar ve olaylar I</text>
+      </navLabel>
+      <content src="Ops/077.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-32" playOrder="32">
+      <navLabel>
+        <text>12 Durumlar ve olaylar II</text>
+      </navLabel>
+      <content src="Ops/080.html#ncx897"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-33" playOrder="33">
+      <navLabel>
+        <text>13 "İşe Tanrı katın!"</text>
+      </navLabel>
+      <content src="Ops/085.html#ncx941"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-34" playOrder="34">
+      <navLabel>
+        <text>14 Uyanık kalma sanatı</text>
+      </navLabel>
+      <content src="Ops/087.html#ncx967"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-35" playOrder="35">
+      <navLabel>
+        <text>15 Kötü alışkanlıklar</text>
+      </navLabel>
+      <content src="Ops/090.html#ncx987"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-36" playOrder="36">
+      <navLabel>
+        <text>16 "Sen bunun altından kalkamayacaksın!"</text>
+      </navLabel>
+      <content src="Ops/092.html#ncx1015"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-37" playOrder="37">
+      <navLabel>
+        <text>17 "İnançlarını altüst et!"</text>
+      </navLabel>
+      <content src="Ops/097.html#ncx1041"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-38" playOrder="38">
+      <navLabel>
+        <text>18 Narcissos sendromu</text>
+      </navLabel>
+      <content src="Ops/099.html#ncx1066"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-39" playOrder="39">
+      <navLabel>
+        <text>19 İnsan saklanamaz</text>
+      </navLabel>
+      <content src="Ops/104.html#ncx1110"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-40" playOrder="40">
+      <navLabel>
+        <text>Bölüm III</text>
+      </navLabel>
+      <content src="Ops/108.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-41" playOrder="41">
+      <navLabel>
+        <text>Beden</text>
+      </navLabel>
+      <content src="Ops/108.html#ncx1142"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-42" playOrder="42">
+      <navLabel>
+        <text>1 "Dünya sensin"</text>
+      </navLabel>
+      <content src="Ops/108.html#ncx1143"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-43" playOrder="43">
+      <navLabel>
+        <text>2 Psikolojik cüceler</text>
+      </navLabel>
+      <content src="Ops/110.html#ncx1158"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-44" playOrder="44">
+      <navLabel>
+        <text>3 Bir ıstırap ezgisi</text>
+      </navLabel>
+      <content src="Ops/113.html#ncx1183"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-45" playOrder="45">
+      <navLabel>
+        <text>4 Beden yalan söyleyemez</text>
+      </navLabel>
+      <content src="Ops/116.html#ncx1207"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-46" playOrder="46">
+      <navLabel>
+        <text>5 "Azla yetin!"</text>
+      </navLabel>
+      <content src="Ops/118.html#ncx1236"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-47" playOrder="47">
+      <navLabel>
+        <text>6 Açlık olmayan bir dünya</text>
+      </navLabel>
+      <content src="Ops/122.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-48" playOrder="48">
+      <navLabel>
+        <text>7 Dünyayı düşleyen bedendir</text>
+      </navLabel>
+      <content src="Ops/127.html#ncx1309"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-49" playOrder="49">
+      <navLabel>
+        <text>8 İçte savaş olmazsa dışta da savaş olmaz</text>
+      </navLabel>
+      <content src="Ops/130.html#ncx1335"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-50" playOrder="50">
+      <navLabel>
+        <text>9 Düşünce kaderdir</text>
+      </navLabel>
+      <content src="Ops/135.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-51" playOrder="51">
+      <navLabel>
+        <text>Bölüm IV</text>
+      </navLabel>
+      <content src="Ops/137.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-52" playOrder="52">
+      <navLabel>
+        <text>Antagonist Yasası</text>
+      </navLabel>
+      <content src="Ops/137.html#ncx1404"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-53" playOrder="53">
+      <navLabel>
+        <text>1 Koşu</text>
+      </navLabel>
+      <content src="Ops/137.html#ncx1405"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-54" playOrder="54">
+      <navLabel>
+        <text>2 Ana caddenin bekçileri</text>
+      </navLabel>
+      <content src="Ops/141.html#ncx1433"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-55" playOrder="55">
+      <navLabel>
+        <text>3 Duvarlar</text>
+      </navLabel>
+      <content src="Ops/143.html#ncx1448"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-56" playOrder="56">
+      <navLabel>
+        <text>4 Antagonist Yasası</text>
+      </navLabel>
+      <content src="Ops/145.html#ncx1459"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-57" playOrder="57">
+      <navLabel>
+        <text>5 Düşmanını sev</text>
+      </navLabel>
+      <content src="Ops/147.html#ncx1473"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-58" playOrder="58">
+      <navLabel>
+        <text>6 İçinde gülümsemeyi öğren</text>
+      </navLabel>
+      <content src="Ops/149.html#ncx1489"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-59" playOrder="59">
+      <navLabel>
+        <text>7 St. James'teki suit</text>
+      </navLabel>
+      <content src="Ops/152.html#ncx1527"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-60" playOrder="60">
+      <navLabel>
+        <text>8 Horoz ötmeden önce</text>
+      </navLabel>
+      <content src="Ops/154.html#ncx1542"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-61" playOrder="61">
+      <navLabel>
+        <text>9 Dreamer ile akşam yemeğinde</text>
+      </navLabel>
+      <content src="Ops/156.html#ncx1561"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-62" playOrder="62">
+      <navLabel>
+        <text>10 Dürüst olmayan yönetici</text>
+      </navLabel>
+      <content src="Ops/159.html#ncx1579"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-63" playOrder="63">
+      <navLabel>
+        <text>11 Kurban daima suçludur</text>
+      </navLabel>
+      <content src="Ops/161.html#ncx1594"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-64" playOrder="64">
+      <navLabel>
+        <text>12 Biletler</text>
+      </navLabel>
+      <content src="Ops/168.html#ncx1655"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-65" playOrder="65">
+      <navLabel>
+        <text>13 Dreamer ile tiyatroda</text>
+      </navLabel>
+      <content src="Ops/173.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-66" playOrder="66">
+      <navLabel>
+        <text>14 Sefiller</text>
+      </navLabel>
+      <content src="Ops/175.html#ncx1707"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-67" playOrder="67">
+      <navLabel>
+        <text>Bölüm V</text>
+      </navLabel>
+      <content src="Ops/180.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-68" playOrder="68">
+      <navLabel>
+        <text>Elveda New York</text>
+      </navLabel>
+      <content src="Ops/180.html#ncx1739"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-69" playOrder="69">
+      <navLabel>
+        <text>1 Manhattan sokaklarında</text>
+      </navLabel>
+      <content src="Ops/180.html#ncx1740"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-70" playOrder="70">
+      <navLabel>
+        <text>2 Düş'ün araçları</text>
+      </navLabel>
+      <content src="Ops/185.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-71" playOrder="71">
+      <navLabel>
+        <text>3 Yalan</text>
+      </navLabel>
+      <content src="Ops/187.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-72" playOrder="72">
+      <navLabel>
+        <text>4 Elveda New York</text>
+      </navLabel>
+      <content src="Ops/190.html#ncx1831"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-73" playOrder="73">
+      <navLabel>
+        <text>5 Sevgi bağımlı değildir</text>
+      </navLabel>
+      <content src="Ops/194.html#ncx1857"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-74" playOrder="74">
+      <navLabel>
+        <text>6 Hem düşleyip hem bağımlı olamazsın</text>
+      </navLabel>
+      <content src="Ops/196.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-75" playOrder="75">
+      <navLabel>
+        <text>7 İkinci el bir gelecek</text>
+      </navLabel>
+      <content src="Ops/198.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-76" playOrder="76">
+      <navLabel>
+        <text>8 Şeyh ile akşam yemeğinde</text>
+      </navLabel>
+      <content src="Ops/201.html#ncx1914"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-77" playOrder="77">
+      <navLabel>
+        <text>9 Hastalığa kaçış</text>
+      </navLabel>
+      <content src="Ops/204.html#ncx1931"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-78" playOrder="78">
+      <navLabel>
+        <text>10 Örümcek ve Avı</text>
+      </navLabel>
+      <content src="Ops/207.html#ncx1962"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-79" playOrder="79">
+      <navLabel>
+        <text>11 Yaşamın sobesi</text>
+      </navLabel>
+      <content src="Ops/210.html#ncx1985"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-80" playOrder="80">
+      <navLabel>
+        <text>12 Şişe</text>
+      </navLabel>
+      <content src="Ops/215.html#ncx2022"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-81" playOrder="81">
+      <navLabel>
+        <text>13 Gerçek yoksullar</text>
+      </navLabel>
+      <content src="Ops/216.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-82" playOrder="82">
+      <navLabel>
+        <text>14 Korku çürümüş sevgidir</text>
+      </navLabel>
+      <content src="Ops/218.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-83" playOrder="83">
+      <navLabel>
+        <text>15 Çözüm yukarıdan gelir</text>
+      </navLabel>
+      <content src="Ops/221.html#ncx2079"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-84" playOrder="84">
+      <navLabel>
+        <text>Bölüm VI</text>
+      </navLabel>
+      <content src="Ops/226.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-85" playOrder="85">
+      <navLabel>
+        <text>Kuveyt Şehrinde</text>
+      </navLabel>
+      <content src="Ops/226.html#ncx2115"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-86" playOrder="86">
+      <navLabel>
+        <text>1 "Ekonomi budur!"</text>
+      </navLabel>
+      <content src="Ops/226.html#ncx2116"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-87" playOrder="87">
+      <navLabel>
+        <text>2 'Düş'ü unutmak</text>
+      </navLabel>
+      <content src="Ops/228.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-88" playOrder="88">
+      <navLabel>
+        <text>3 Endişelenmek hayvan içgüdüsüdür</text>
+      </navLabel>
+      <content src="Ops/230.html#ncx2143"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-89" playOrder="89">
+      <navLabel>
+        <text>4 Kaçış sadece pek az sayıdaki insan içindir</text>
+      </navLabel>
+      <content src="Ops/235.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-90" playOrder="90">
+      <navLabel>
+        <text>5 İnanmadan program yapmak</text>
+      </navLabel>
+      <content src="Ops/239.html#ncx2206"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-91" playOrder="91">
+      <navLabel>
+        <text>6 Ajanda/Günlük</text>
+      </navLabel>
+      <content src="Ops/243.html#ncx2248"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-92" playOrder="92">
+      <navLabel>
+        <text>7 "Alo, ben kimim?"</text>
+      </navLabel>
+      <content src="Ops/245.html#ncx2269"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-93" playOrder="93">
+      <navLabel>
+        <text>8 Mekanikliğe takılan çelmeler</text>
+      </navLabel>
+      <content src="Ops/250.html#ncx2308"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-94" playOrder="94">
+      <navLabel>
+        <text>9 Kendimizi yenmek</text>
+      </navLabel>
+      <content src="Ops/253.html#ncx2327"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-95" playOrder="95">
+      <navLabel>
+        <text>10 'Düş', var olan en gerçek şeydir</text>
+      </navLabel>
+      <content src="Ops/257.html#ncx2354"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-96" playOrder="96">
+      <navLabel>
+        <text>11 Heleonore</text>
+      </navLabel>
+      <content src="Ops/262.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-97" playOrder="97">
+      <navLabel>
+        <text>12 Evlat edinme</text>
+      </navLabel>
+      <content src="Ops/264.html#ncx2405"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-98" playOrder="98">
+      <navLabel>
+        <text>Bölüm VII</text>
+      </navLabel>
+      <content src="Ops/269.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-99" playOrder="99">
+      <navLabel>
+        <text>İtalya'ya geri dönüş</text>
+      </navLabel>
+      <content src="Ops/269.html#ncx2433"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-100" playOrder="100">
+      <navLabel>
+        <text>1 Anlaşmadaki özel madde</text>
+      </navLabel>
+      <content src="Ops/269.html#ncx2434"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-101" playOrder="101">
+      <navLabel>
+        <text>2 Keyifsiz bir uyanış</text>
+      </navLabel>
+      <content src="Ops/271.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-102" playOrder="102">
+      <navLabel>
+        <text>3 Cehalet her zaman elini tutacak kadar yakındır</text>
+      </navLabel>
+      <content src="Ops/273.html#ncx2467"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-103" playOrder="103">
+      <navLabel>
+        <text>4 Geçmişe dönüş</text>
+      </navLabel>
+      <content src="Ops/274.html#ncx2478"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-104" playOrder="104">
+      <navLabel>
+        <text>5 Psikolojik kirlenme</text>
+      </navLabel>
+      <content src="Ops/276.html#ncx2492"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-105" playOrder="105">
+      <navLabel>
+        <text>6 Balinanın karnında</text>
+      </navLabel>
+      <content src="Ops/279.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-106" playOrder="106">
+      <navLabel>
+        <text>7 Kaza</text>
+      </navLabel>
+      <content src="Ops/280.html#ncx2519"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-107" playOrder="107">
+      <navLabel>
+        <text>8 Mektup. Tepetaklak olmuş bir Kral Midas</text>
+      </navLabel>
+      <content src="Ops/282.html#ncx2539"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-108" playOrder="108">
+      <navLabel>
+        <text>9 "Dans et, Tanrı aşkına, daaans!"</text>
+      </navLabel>
+      <content src="Ops/283.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-109" playOrder="109">
+      <navLabel>
+        <text>10 "Yalnızca tehdit edildiğin zaman canlı ve içten oluyorsun!"</text>
+      </navLabel>
+      <content src="Ops/284.html#ncx2605"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-110" playOrder="110">
+      <navLabel>
+        <text>11 İyileşme içten gelir</text>
+      </navLabel>
+      <content src="Ops/287.html#ncx2625"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-111" playOrder="111">
+      <navLabel>
+        <text>12 Adaletsizliğe övgü</text>
+      </navLabel>
+      <content src="Ops/289.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-112" playOrder="112">
+      <navLabel>
+        <text>13 Dünya düşüncelerimizle yaratılır</text>
+      </navLabel>
+      <content src="Ops/292.html#ncx2672"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-113" playOrder="113">
+      <navLabel>
+        <text>14 Geçmiş tozdur</text>
+      </navLabel>
+      <content src="Ops/295.html#ncx2693"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-114" playOrder="114">
+      <navLabel>
+        <text>15 İrade ve olasılık</text>
+      </navLabel>
+      <content src="Ops/297.html#ncx2712"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-115" playOrder="115">
+      <navLabel>
+        <text>Bölüm VIII</text>
+      </navLabel>
+      <content src="Ops/303.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-116" playOrder="116">
+      <navLabel>
+        <text>Dreamer'la Şanghay'da</text>
+      </navLabel>
+      <content src="Ops/303.html#ncx2758"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-117" playOrder="117">
+      <navLabel>
+        <text>1 Mükemmellik kendisini asla tekrarlamaz</text>
+      </navLabel>
+      <content src="Ops/303.html#ncx2759"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-118" playOrder="118">
+      <navLabel>
+        <text>2 İnsan aklı silahla kuşanmıştır</text>
+      </navLabel>
+      <content src="Ops/307.html#ncx2788"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-119" playOrder="119">
+      <navLabel>
+        <text>3 Yalan söyleyen hayvan</text>
+      </navLabel>
+      <content src="Ops/311.html#ncx2820"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-120" playOrder="120">
+      <navLabel>
+        <text>5 Buda'nın babası</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx2868"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-121" playOrder="121">
+      <navLabel>
+        <text>6 Bağımlı olduğun şey gerçek değildir</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx2884"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-122" playOrder="122">
+      <navLabel>
+        <text>7 Vizyon ve gerçeklik birdir</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx2903"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-123" playOrder="123">
+      <navLabel>
+        <text>8 Ücretli çalışanlar</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx2917"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-124" playOrder="124">
+      <navLabel>
+        <text>9 "Sadece sevdiğin şeyi yap!"</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx2936"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-125" playOrder="125">
+      <navLabel>
+        <text>10 Korkunç ve harikulade yön</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx2959"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-126" playOrder="126">
+      <navLabel>
+        <text>11 Aşık olmak</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx2982"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-127" playOrder="127">
+      <navLabel>
+        <text>12 "Ben senim!"</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx3019"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-128" playOrder="128">
+      <navLabel>
+        <text>13 Evren Bir' e doğru demektir</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx3038"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-129" playOrder="129">
+      <navLabel>
+        <text>14 Kral ülke, ülke kraldır</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx3057"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-130" playOrder="130">
+      <navLabel>
+        <text>15 Gerçeklik, düş + zamandır</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx3081"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-131" playOrder="131">
+      <navLabel>
+        <text>Bölüm IX</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx3160"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-132" playOrder="132">
+      <navLabel>
+        <text>Oyun</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx3161"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-133" playOrder="133">
+      <navLabel>
+        <text>1 İnanmak görmektir</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx3163"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-134" playOrder="134">
+      <navLabel>
+        <text>2 Değiştir şu hayatını!!!</text>
+      </navLabel>
+      <content src="Ops/313.html#ncx3187"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-135" playOrder="135">
+      <navLabel>
+        <text>3 Ödeme</text>
+      </navLabel>
+      <content src="Ops/316.html#ncx3212"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-136" playOrder="136">
+      <navLabel>
+        <text>4 Yay da, ok da, hedef tahtası da biziz</text>
+      </navLabel>
+      <content src="Ops/318.html#ncx3242"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-137" playOrder="137">
+      <navLabel>
+        <text>5 "Seni özgürleştirmeye geldim!''</text>
+      </navLabel>
+      <content src="Ops/321.html#ncx3261"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-138" playOrder="138">
+      <navLabel>
+        <text>6 Rolleri oynamak</text>
+      </navLabel>
+      <content src="Ops/325.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-139" playOrder="139">
+      <navLabel>
+        <text>7 Dönüş yolu</text>
+      </navLabel>
+      <content src="Ops/327.html#ncx3317"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-140" playOrder="140">
+      <navLabel>
+        <text>8 "Hazır değilsin!"</text>
+      </navLabel>
+      <content src="Ops/328.html#ncx3326"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-141" playOrder="141">
+      <navLabel>
+        <text>9 Kestirme yol</text>
+      </navLabel>
+      <content src="Ops/331.html#ncx3353"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-142" playOrder="142">
+      <navLabel>
+        <text>10 Zamanı sıkıştırmak</text>
+      </navLabel>
+      <content src="Ops/335.html#ncx3393"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-143" playOrder="143">
+      <navLabel>
+        <text>11 Diğerleri seni ele verir</text>
+      </navLabel>
+      <content src="Ops/337.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-144" playOrder="144">
+      <navLabel>
+        <text>12 Kasıtlı yapılan rol oyunu. Rol yapma sanatı</text>
+      </navLabel>
+      <content src="Ops/340.html#ncx3430"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-145" playOrder="145">
+      <navLabel>
+        <text>13 'Karşılaşmalar oyunu'</text>
+      </navLabel>
+      <content src="Ops/343.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-146" playOrder="146">
+      <navLabel>
+        <text>14 Yeni paradigma</text>
+      </navLabel>
+      <content src="Ops/344.html#ncx3467"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-147" playOrder="147">
+      <navLabel>
+        <text>15 Tekrar gösterim</text>
+      </navLabel>
+      <content src="Ops/349.html#ncx3509"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-148" playOrder="148">
+      <navLabel>
+        <text>16 Dünyadan beklemek</text>
+      </navLabel>
+      <content src="Ops/352.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-149" playOrder="149">
+      <navLabel>
+        <text>17 "Bu kitap ebedidir!"</text>
+      </navLabel>
+      <content src="Ops/354.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-150" playOrder="150">
+      <navLabel>
+        <text>Bölüm X</text>
+      </navLabel>
+      <content src="Ops/355.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-151" playOrder="151">
+      <navLabel>
+        <text>Okul</text>
+      </navLabel>
+      <content src="Ops/355.html#ncx3555"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-152" playOrder="152">
+      <navLabel>
+        <text>1 Dikey vizyon</text>
+      </navLabel>
+      <content src="Ops/355.html#ncx3556"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-153" playOrder="153">
+      <navLabel>
+        <text>2 Pragmatik düşleyenler için bir okul</text>
+      </navLabel>
+      <content src="Ops/358.html#ncx3583"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-154" playOrder="154">
+      <navLabel>
+        <text>3 Düşlenen düş</text>
+      </navLabel>
+      <content src="Ops/363.html#ncx3618"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-155" playOrder="155">
+      <navLabel>
+        <text>4 Taşınabilir cennet</text>
+      </navLabel>
+      <content src="Ops/364.html#ncx3627"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-156" playOrder="156">
+      <navLabel>
+        <text>5 En büyük ekonomik gerçek</text>
+      </navLabel>
+      <content src="Ops/365.html#ncx3637"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-157" playOrder="157">
+      <navLabel>
+        <text>6 Sahip olmak, 'olmak'tır</text>
+      </navLabel>
+      <content src="Ops/368.html#ncx3663"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-158" playOrder="158">
+      <navLabel>
+        <text>7 Üniversite, 'birliğe doğru' demektir</text>
+      </navLabel>
+      <content src="Ops/371.html#ncx3682"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-159" playOrder="159">
+      <navLabel>
+        <text>8 Okul'un doğuşu</text>
+      </navLabel>
+      <content src="Ops/372.html#ncx3698"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-160" playOrder="160">
+      <navLabel>
+        <text>9 Okul'un Misyonu</text>
+      </navLabel>
+      <content src="Ops/374.html#ncx3710"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-161" playOrder="161">
+      <navLabel>
+        <text>10 İnanmadan inanmak</text>
+      </navLabel>
+      <content src="Ops/380.html#ncx3755"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-162" playOrder="162">
+      <navLabel>
+        <text>11 Yapmanın sırrı</text>
+      </navLabel>
+      <content src="Ops/385.html#ncx3797"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-163" playOrder="163">
+      <navLabel>
+        <text>12 Geçmiş yalandır</text>
+      </navLabel>
+      <content src="Ops/389.html#ncx3823"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-164" playOrder="164">
+      <navLabel>
+        <text>13 Bulunduğun yer, içinde olduğun durumdur</text>
+      </navLabel>
+      <content src="Ops/391.html#ncx3838"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-165" playOrder="165">
+      <navLabel>
+        <text>14 Önce Kral ol, Krallık arkasından gelecektir</text>
+      </navLabel>
+      <content src="Ops/394.html#ncx3863"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-166" playOrder="166">
+      <navLabel>
+        <text>15 Banka</text>
+      </navLabel>
+      <content src="Ops/396.html#ncx3881"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-167" playOrder="167">
+      <navLabel>
+        <text>16 Para gerçek değildir</text>
+      </navLabel>
+      <content src="Ops/398.html#ncx3908"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-168" playOrder="168">
+      <navLabel>
+        <text>17 İnan, sonra gör</text>
+      </navLabel>
+      <content src="Ops/401.html#ncx3929"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-169" playOrder="169">
+      <navLabel>
+        <text>18 Müzayede</text>
+      </navLabel>
+      <content src="Ops/403.html#ncx3946"/>
+    </navPoint>
+  </navMap>
+</ncx>

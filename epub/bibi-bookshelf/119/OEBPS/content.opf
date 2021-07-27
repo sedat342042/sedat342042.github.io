@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:69dd7632-8537-40e3-ad38-c7cc9df93563</dc:identifier>
+    <dc:title>Osmanlı Dünyası ve Avrupa, 1300-1700</dc:title>
+    <dc:creator opf:role="aut">Daniel Goffman</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:date opf:event="modification">2014-10-14</dc:date>
+    <dc:date opf:event="publication">2004-04-01</dc:date>
+    <dc:publisher>Kitap Yayınevi</dc:publisher>
+    <dc:type>Tarih, Osmanlı tarihi</dc:type>
+    <dc:identifier opf:scheme="ISBN">975-8704-59-1</dc:identifier>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="danielgoffman.jpg" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/cnot.htm" id="cnot.htm" media-type="application/xhtml+xml" />
+    <item href="Text/toc.htm" id="toc.htm" media-type="application/xhtml+xml" />
+    <item href="Text/onsoz.htm" id="onsoz.htm" media-type="application/xhtml+xml" />
+    <item href="Text/tesekkur.htm" id="tesekkur.htm" media-type="application/xhtml+xml" />
+    <item href="Text/kronoloji.htm" id="kronoloji.htm" media-type="application/xhtml+xml" />
+    <item href="Text/hanedanlar.htm" id="hanedanlar.htm" media-type="application/xhtml+xml" />
+    <item href="Text/01.htm" id="x01.htm" media-type="application/xhtml+xml" />
+    <item href="Text/part1.htm" id="part1.htm" media-type="application/xhtml+xml" />
+    <item href="Text/e1.htm" id="e1.htm" media-type="application/xhtml+xml" />
+    <item href="Text/02.htm" id="x02.htm" media-type="application/xhtml+xml" />
+    <item href="Text/e2.htm" id="e2.htm" media-type="application/xhtml+xml" />
+    <item href="Text/03.htm" id="x03.htm" media-type="application/xhtml+xml" />
+    <item href="Text/e3.htm" id="e3.htm" media-type="application/xhtml+xml" />
+    <item href="Text/04.htm" id="x04.htm" media-type="application/xhtml+xml" />
+    <item href="Text/part2.htm" id="part2.htm" media-type="application/xhtml+xml" />
+    <item href="Text/e4.htm" id="e4.htm" media-type="application/xhtml+xml" />
+    <item href="Text/05.htm" id="x05.htm" media-type="application/xhtml+xml" />
+    <item href="Text/e5.htm" id="e5.htm" media-type="application/xhtml+xml" />
+    <item href="Text/06.htm" id="x06.htm" media-type="application/xhtml+xml" />
+    <item href="Text/e6.htm" id="e6.htm" media-type="application/xhtml+xml" />
+    <item href="Text/07.htm" id="x07.htm" media-type="application/xhtml+xml" />
+    <item href="Text/08.htm" id="x08.htm" media-type="application/xhtml+xml" />
+    <item href="Text/okumaoneri.htm" id="okumaoneri.htm" media-type="application/xhtml+xml" />
+    <item href="Text/notlar.htm" id="notlar.htm" media-type="application/xhtml+xml" />
+    <item href="Styles/epub.css" id="epub.css" media-type="text/css" />
+    <item href="Fonts/CharisSILB.ttf" id="CharisSILB.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/CharisSILBI.ttf" id="CharisSILBI.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/CharisSILI.ttf" id="CharisSILI.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/CharisSILR.ttf" id="CharisSILR.ttf" media-type="application/x-font-ttf" />
+    <item href="Images/danielgoffman.jpg" id="danielgoffman.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/telif.htm" id="telif.htm" media-type="application/xhtml+xml" />
+    <item href="Images/Fleuron1.svg" id="Fleuron1.svg" media-type="image/svg+xml" />
+    <item href="Images/title.jpg" id="title.jpg" media-type="image/jpeg" />
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/Hanedan2.svg" id="Hanedan2.svg" media-type="image/svg+xml" />
+    <item href="Images/01.png" id="x01.png" media-type="image/png" />
+    <item href="Images/02.png" id="x02.png" media-type="image/png" />
+    <item href="Images/03.png" id="x03.png" media-type="image/png" />
+    <item href="Images/04.png" id="x04.png" media-type="image/png" />
+    <item href="Images/05.png" id="x05.png" media-type="image/png" />
+    <item href="Images/06.png" id="x06.png" media-type="image/png" />
+    <item href="Images/07.png" id="x07.png" media-type="image/png" />
+    <item href="Images/09.png" id="x09.png" media-type="image/png" />
+    <item href="Images/11.png" id="x11.png" media-type="image/png" />
+    <item href="Images/12.png" id="x12.png" media-type="image/png" />
+    <item href="Images/13.png" id="x13.png" media-type="image/png" />
+    <item href="Images/14.png" id="x14.png" media-type="image/png" />
+    <item href="Images/15.png" id="x15.png" media-type="image/png" />
+    <item href="Images/16.png" id="x16.png" media-type="image/png" />
+    <item href="Images/17.png" id="x17.png" media-type="image/png" />
+    <item href="Images/18.png" id="x18.png" media-type="image/png" />
+    <item href="Images/19.png" id="x19.png" media-type="image/png" />
+    <item href="Images/20.png" id="x20.png" media-type="image/png" />
+    <item href="Images/21.png" id="x21.png" media-type="image/png" />
+    <item href="Images/22.png" id="x22.png" media-type="image/png" />
+    <item href="Images/23.png" id="x23.png" media-type="image/png" />
+    <item href="Images/24.png" id="x24.png" media-type="image/png" />
+    <item href="Images/25.png" id="x25.png" media-type="image/png" />
+    <item href="Images/26.png" id="x26.png" media-type="image/png" />
+    <item href="Images/27.png" id="x27.png" media-type="image/png" />
+    <item href="Images/28.png" id="x28.png" media-type="image/png" />
+    <item href="Images/29.png" id="x29.png" media-type="image/png" />
+    <item href="Images/30.png" id="x30.png" media-type="image/png" />
+    <item href="Images/31.png" id="x31.png" media-type="image/png" />
+    <item href="Images/32.png" id="x32.png" media-type="image/png" />
+    <item href="Images/33.png" id="x33.png" media-type="image/png" />
+    <item href="Images/34.png" id="x34.png" media-type="image/png" />
+    <item href="Images/35.png" id="x35.png" media-type="image/png" />
+    <item href="Images/36.png" id="x36.png" media-type="image/png" />
+    <item href="Images/37.png" id="x37.png" media-type="image/png" />
+    <item href="Images/38.png" id="x38.png" media-type="image/png" />
+    <item href="Images/39.png" id="x39.png" media-type="image/png" />
+    <item href="Images/08.png" id="x08.png" media-type="image/png" />
+    <item href="Images/10.png" id="x10.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="title.xhtml" />
+    <itemref idref="telif.htm" />
+    <itemref idref="toc.htm" />
+    <itemref idref="onsoz.htm" />
+    <itemref idref="tesekkur.htm" />
+    <itemref idref="kronoloji.htm" />
+    <itemref idref="hanedanlar.htm" />
+    <itemref idref="x01.htm" />
+    <itemref idref="part1.htm" />
+    <itemref idref="e1.htm" />
+    <itemref idref="x02.htm" />
+    <itemref idref="e2.htm" />
+    <itemref idref="x03.htm" />
+    <itemref idref="e3.htm" />
+    <itemref idref="x04.htm" />
+    <itemref idref="part2.htm" />
+    <itemref idref="e4.htm" />
+    <itemref idref="x05.htm" />
+    <itemref idref="e5.htm" />
+    <itemref idref="x06.htm" />
+    <itemref idref="e6.htm" />
+    <itemref idref="x07.htm" />
+    <itemref idref="x08.htm" />
+    <itemref idref="okumaoneri.htm" />
+    <itemref idref="notlar.htm" />
+    <itemref idref="cnot.htm" linear="no" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+    <reference href="Text/toc.htm" title="Table Of Contents" type="toc" />
+    <reference href="Text/telif.htm" title="Copyright Page" type="copyright-page" />
+    <reference href="Text/title.xhtml" title="start" type="start" />
+  </guide>
+</package>

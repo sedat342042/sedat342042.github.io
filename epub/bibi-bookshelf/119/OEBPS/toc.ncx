@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:69dd7632-8537-40e3-ad38-c7cc9df93563" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Telif Sayfası</text>
+      </navLabel>
+      <content src="Text/telif.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/toc.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/tesekkur.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>OLAYLARIN KRONOLOJİSİ</text>
+      </navLabel>
+      <content src="Text/kronoloji.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>1300-1700 Arasında Osmanlı Hanedanı</text>
+      </navLabel>
+      <content src="Text/hanedanlar.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM: GİRİŞ OSMANLI MERKEZLİ BAKIŞ VE BATI</text>
+      </navLabel>
+      <content src="Text/01.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>BİRİNCİ AYRIM OSMANLI DÜNYASINDA DEVLET VE TOPLUM</text>
+      </navLabel>
+      <content src="Text/part1.htm"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Kubad’ın Yetişme Yılları</text>
+        </navLabel>
+        <content src="Text/e1.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM OSMANLI DEVLETİNİN KURULUŞU</text>
+        </navLabel>
+        <content src="Text/02.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Kubad İstanbul’da</text>
+        </navLabel>
+        <content src="Text/e2.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM DENEYİMLİ YÖNETİM</text>
+        </navLabel>
+        <content src="Text/03.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Kubad Topkapı Sarayında</text>
+        </navLabel>
+        <content src="Text/e3.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>DÖRDÜNCÜ BÖLÜM HİZİPÇİLİK VE BAŞKALDIRMA</text>
+        </navLabel>
+        <content src="Text/04.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>İKİNCİ AYRIM AKDENİZ VE AVRUPA DÜNYALARINDA OSMANLI İMPARATORLUĞU</text>
+      </navLabel>
+      <content src="Text/part2.htm"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Kubad Venedik'te</text>
+        </navLabel>
+        <content src="Text/e4.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>BEŞİNCİ BÖLÜM OSMANLI-VENEDİK ÇIKAR BİRLİĞİ</text>
+        </navLabel>
+        <content src="Text/05.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>İki Dünya Arasında Kubad</text>
+        </navLabel>
+        <content src="Text/e5.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>ALTINCI BÖLÜM TİCARET VE DİYASPORALAR</text>
+        </navLabel>
+        <content src="Text/06.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Kubad'ın Başına Kurtulmalık Konması</text>
+        </navLabel>
+        <content src="Text/e6.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>YEDİNCİ BÖLÜM AVRUPA'DA DEĞİŞEN KONUMLAR</text>
+        </navLabel>
+        <content src="Text/07.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>SEKİZİNCİ BÖLÜM SONUÇ: DAHA GENİŞ BİR BATI DÜNYASI</text>
+        </navLabel>
+        <content src="Text/08.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Okuma Önerileri</text>
+      </navLabel>
+      <content src="Text/okumaoneri.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

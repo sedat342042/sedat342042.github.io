@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <dc:publisher />
+    <dc:language />
+    <dc:creator />
+    <dc:title>yolda</dc:title>
+    <dc:contributor>Online Media Technologies Ltd.</dc:contributor>
+    <dc:identifier id="bookid" opf:scheme="uuid">eb43d2be-9de6-4b83-9315-db0e9a2d70bc</dc:identifier>
+    <meta name="cover" content="id1000" />
+    <meta content="0.7.1" name="Sigil version" />
+    <dc:date opf:event="modification">2013-04-11</dc:date>
+  </metadata>
+  <manifest>
+    <opf:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/cover.xhtml" id="cover" media-type="application/xhtml+xml" />
+    <item href="Text/content_5.xhtml" id="content_5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/content_6.xhtml" id="content_6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/content_7.xhtml" id="content_7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/image1.jpg" id="id1000" media-type="image/jpeg" />
+    <item href="Text/content_1.xhtml" id="content_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/content_3.xhtml" id="content_3.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" />
+    <itemref idref="content_1.xhtml" />
+    <itemref idref="content_3.xhtml" />
+    <itemref idref="content_5.xhtml" />
+    <itemref idref="content_6.xhtml" />
+    <itemref idref="content_7.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/book_toc.xhtml#maintoc" title="Table of Contents" type="toc" />
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

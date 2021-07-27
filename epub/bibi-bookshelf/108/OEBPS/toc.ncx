@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="b6c555d8-afab-4d18-8d8c-a421ce44a231" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hobbit</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BÖLÜM 1: BEKLENMEDİK BİR PARTİ</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BÖLÜM 2: KUYU KEBABI</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BÖLÜM 3: KISA BİR DİNLENME</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>BÖLÜM 4: TEPENİN ÜSTÜNDE, TEPENİN ALTINDA</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>BÖLÜM 5: KARANLIKTAKİ BİLMECELER</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>BÖLÜM 6: YAĞMURDAN KAÇ, DOLUYA TUTUL</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>BÖLÜM 7: TUHAF PANSİYON</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BÖLÜM 8: SİNEKLER VE ÖRÜMCEKLER</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>BÖLÜM 9: FIÇILARLA KAÇIŞ</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>BÖLÜM 10: SICAK BİR KARŞILAMA</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>BÖLÜM 11: KAPININ EŞİĞİNDE</text>
+      </navLabel>
+      <content src="Text/Section0016.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>BÖLÜM 12: İÇERDEN SIZAN BİLGİLER</text>
+      </navLabel>
+      <content src="Text/Section0017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>BÖLÜM 13: EVDE YOKUZ</text>
+      </navLabel>
+      <content src="Text/Section0018.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>BÖLÜM 14: SU VE ATEŞ</text>
+      </navLabel>
+      <content src="Text/Section0019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>BÖLÜM 15: FIRTINA GELİYOR</text>
+      </navLabel>
+      <content src="Text/Section0020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>BÖLÜM 16: GECEDE BİR HIRSIZ</text>
+      </navLabel>
+      <content src="Text/Section0021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>BÖLÜM 17: FIRTINA KOPUYOR</text>
+      </navLabel>
+      <content src="Text/Section0022.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>BÖLÜM 18: DÖNÜŞ YOLCULUĞU</text>
+      </navLabel>
+      <content src="Text/Section0023.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>BÖLÜM 19: SON AŞAMA</text>
+      </navLabel>
+      <content src="Text/Section0024.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
