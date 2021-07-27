@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>en</dc:language>
+    <dc:title>Arkadaşım Korku</dc:title>
+    <dc:contributor opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2021-07-27T19:01:46.760223+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">db6e9174-6abc-4dea-bba3-501eb7f0b059</dc:identifier>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">MobiBook</dc:creator>
+  </metadata>
+  <manifest>
+    <item id="id1" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="index-1_1.jpg" media-type="image/jpeg"/>
+    <item id="id29" href="index-2_1.jpg" media-type="image/jpeg"/>
+    <item id="id33" href="index-3_1.jpg" media-type="image/jpeg"/>
+    <item id="id32" href="index-4_1.jpg" media-type="image/jpeg"/>
+    <item id="id21" href="index-5_1.jpg" media-type="image/jpeg"/>
+    <item id="id2" href="index-6_1.jpg" media-type="image/jpeg"/>
+    <item id="id27" href="index-7_1.jpg" media-type="image/jpeg"/>
+    <item id="id18" href="index-8_1.jpg" media-type="image/jpeg"/>
+    <item id="id8" href="index-9_1.jpg" media-type="image/jpeg"/>
+    <item id="id15" href="index-10_1.jpg" media-type="image/jpeg"/>
+    <item id="id25" href="index-11_1.jpg" media-type="image/jpeg"/>
+    <item id="id31" href="index-12_1.jpg" media-type="image/jpeg"/>
+    <item id="id20" href="index-13_1.jpg" media-type="image/jpeg"/>
+    <item id="id9" href="index-14_1.jpg" media-type="image/jpeg"/>
+    <item id="id10" href="index-15_1.jpg" media-type="image/jpeg"/>
+    <item id="id23" href="index-16_1.jpg" media-type="image/jpeg"/>
+    <item id="id37" href="index-17_1.jpg" media-type="image/jpeg"/>
+    <item id="id35" href="index-18_1.jpg" media-type="image/jpeg"/>
+    <item id="id22" href="index-19_1.jpg" media-type="image/jpeg"/>
+    <item id="id13" href="index-20_1.jpg" media-type="image/jpeg"/>
+    <item id="id6" href="index-21_1.jpg" media-type="image/jpeg"/>
+    <item id="id36" href="index-22_1.jpg" media-type="image/jpeg"/>
+    <item id="id14" href="index-23_1.jpg" media-type="image/jpeg"/>
+    <item id="id24" href="index-24_1.jpg" media-type="image/jpeg"/>
+    <item id="id12" href="index-25_1.jpg" media-type="image/jpeg"/>
+    <item id="id19" href="index-26_1.jpg" media-type="image/jpeg"/>
+    <item id="id7" href="index-27_1.jpg" media-type="image/jpeg"/>
+    <item id="id16" href="index-28_1.jpg" media-type="image/jpeg"/>
+    <item id="id34" href="index-29_1.jpg" media-type="image/jpeg"/>
+    <item id="id30" href="index-30_1.jpg" media-type="image/jpeg"/>
+    <item id="id5" href="index-31_1.jpg" media-type="image/jpeg"/>
+    <item id="id11" href="index-32_1.jpg" media-type="image/jpeg"/>
+    <item id="id28" href="index-33_1.jpg" media-type="image/jpeg"/>
+    <item id="id3" href="index-34_1.jpg" media-type="image/jpeg"/>
+    <item id="id26" href="index-35_1.jpg" media-type="image/jpeg"/>
+    <item id="id4" href="index-36_1.jpg" media-type="image/jpeg"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id1"/>
+  </spine>
+</package>
