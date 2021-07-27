@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Aile İçi Eğitim</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Canan, İbrahim">İbrahim Canan</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">40c3bace-f556-481a-b8a8-ccf6e2631e45</dc:identifier>
+    <dc:date>2013-08-12T21:00:00+00:00</dc:date>
+    <dc:publisher>Işık Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">69372e9f-6203-46e1-8179-b436c18730e6</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/aile_ici_egitim.html" id="aile_ici_egitim" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-1.html" id="aile_ici_egitim-1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-2.html" id="aile_ici_egitim-2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-3.html" id="aile_ici_egitim-3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-4.html" id="aile_ici_egitim-4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-5.html" id="aile_ici_egitim-5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-6.html" id="aile_ici_egitim-6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-7.html" id="aile_ici_egitim-7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-8.html" id="aile_ici_egitim-8" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-9.html" id="aile_ici_egitim-9" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-10.html" id="aile_ici_egitim-10" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-11.html" id="aile_ici_egitim-11" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-12.html" id="aile_ici_egitim-12" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-13.html" id="aile_ici_egitim-13" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-14.html" id="aile_ici_egitim-14" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-15.html" id="aile_ici_egitim-15" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-16.html" id="aile_ici_egitim-16" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/aile_ici_egitim-17.html" id="aile_ici_egitim-17" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="OEBPS/images/2522.jpg" id="x2522.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="aile_ici_egitim"/>
+    <itemref idref="aile_ici_egitim-1"/>
+    <itemref idref="aile_ici_egitim-2"/>
+    <itemref idref="aile_ici_egitim-3"/>
+    <itemref idref="aile_ici_egitim-4"/>
+    <itemref idref="aile_ici_egitim-5"/>
+    <itemref idref="aile_ici_egitim-6"/>
+    <itemref idref="aile_ici_egitim-7"/>
+    <itemref idref="aile_ici_egitim-8"/>
+    <itemref idref="aile_ici_egitim-9"/>
+    <itemref idref="aile_ici_egitim-10"/>
+    <itemref idref="aile_ici_egitim-11"/>
+    <itemref idref="aile_ici_egitim-12"/>
+    <itemref idref="aile_ici_egitim-13"/>
+    <itemref idref="aile_ici_egitim-14"/>
+    <itemref idref="aile_ici_egitim-15"/>
+    <itemref idref="aile_ici_egitim-16"/>
+    <itemref idref="aile_ici_egitim-17"/>
+  </spine>
+  <guide>
+    <reference href="OEBPS/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

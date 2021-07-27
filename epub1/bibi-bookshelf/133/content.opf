@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>OMERZEN</dc:publisher>
+    <meta name="calibre:title_sort" content="İnsanlığa Lanet"/>
+    <dc:language>tr</dc:language>
+    <dc:creator opf:file-as="Sözlük, İnci" opf:role="aut">İnci Sözlük</dc:creator>
+    <meta name="calibre:timestamp" content="2014-02-06T23:09:08.303000+00:00"/>
+    <dc:title>İnsanlığa Lanet</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2014-02-05T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.22.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6f857a8b-cb11-4ca4-8c4b-cbb0d3ec5ef0</dc:identifier>
+    <dc:identifier opf:scheme="calibre">6f857a8b-cb11-4ca4-8c4b-cbb0d3ec5ef0</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OPS/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

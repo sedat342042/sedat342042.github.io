@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Anar, İhsan Oktay">İhsan Oktay Anar</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f881b6db-fa49-4925-a1dc-fd8a42e15c43</dc:identifier>
+    <dc:date>2014-01-01T11:18:32+00:00</dc:date>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;“Bütün zamanların kahramanı olan bir insanın hikayesidir bu. O hem herkes hem de hiç kimsedir. Dünyadan alacağını tahsil etmeye gelmiştir. Çünkü, Tanrı dahil herkesin ona borcu vardır. Vebaline girilen tüyü bitmedik yetim işte odur. Kadim zamanlardan beri hakkı yendiğine göre, sonlu ama sınırsız bir evrenin engin ve derin merkezi olarak insan olmanın, “olmasa da olur” halini icrâ etmesinde hiçbir sakınca yoktur. Romantik bir insafsızlığın bakir tacizcisi olmak sonuna kadar hakkıdır. Sıradanlığın üst insanıdır o. Asiliğiyle asilleşememesi umrunda bile değildir. Onun umrunda olan tek şey, sadece ve sadece kendini algılamak, kendi küçük âlemine sığan kainatı kabul etmektir. Çünkü bilmektedir ki, gerçek bilgelik de zaten budur.” Arka Kapak&lt;/p&gt;</dc:description>
+    <meta content="Galîz Kahraman" name="calibre:title_sort"/>
+    <meta content="{&quot;İhsan Oktay Anar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <dc:date opf:event="modification">2014-10-30</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:title>Galîz Kahraman</dc:title>
+<dc:subject>Tarihi Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">74a6d77b-9b91-4a4b-af80-1dff18849fa0</dc:identifier>
+<dc:identifier opf:scheme="AMAZON">9750514181</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">O3hnngEACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750514180</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:f881b6db-fa49-4925-a1dc-fd8a42e15c43</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">20410869</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/KitapAdi.xhtml" id="KitapAdi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Iletisim.xhtml" id="Iletisim.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Baslik.xhtml" id="Baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BirinciBolum.xhtml" id="BirinciBolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ArkaKapak.xhtml" id="ArkaKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/SevinOkyayElestiri.xhtml" id="SevinOkyayElestiri.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KoraySaridoganElestiri.xhtml" id="KoraySaridoganElestiri.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Format.css" id="Format.css" media-type="text/css"/>
+    <item href="Images/arka kapak.jpg" id="arka_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/ihsanresim.jpg" id="ihsanresim.jpg" media-type="image/jpeg"/>
+    <item href="Images/iletisim.png" id="iletisim.png" media-type="image/png"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="KitapAdi.xhtml"/>
+    <itemref idref="Iletisim.xhtml"/>
+    <itemref idref="Baslik.xhtml"/>
+    <itemref idref="BirinciBolum.xhtml"/>
+    <itemref idref="ArkaKapak.xhtml"/>
+    <itemref idref="SevinOkyayElestiri.xhtml"/>
+    <itemref idref="KoraySaridoganElestiri.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Baslik.xhtml" title="Title Page" type="title-page"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

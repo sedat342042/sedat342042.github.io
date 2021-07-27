@@ -1,0 +1,45 @@
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:normal;src:url(../Fonts/ALEGREYA-REGULAR.OTF)}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:bold;src:url(../Fonts/ALEGREYA-BOLD.OTF)}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:bold;src:url(../Fonts/ALEGREYA-BOLDITALIC.OTF)}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:normal;src:url(../Fonts/ALEGREYA-ITALIC.OTF)}
+@font-face{font-family:"TR Adine";font-style:normal;font-weight:normal;src:url(../Fonts/TR ADINE.TTF)}
+@font-face{font-family:"TR AydinArtLiteOrta";font-style:normal;font-weight:normal;src:url(../Fonts/TR AYDINARTLITEORTA.TTF)}
+
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+p{text-indent:1.4em;margin-left:0;line-height:110%;margin-right:0;text-align:justify;margin-top:.5em;margin-bottom:.5em;font-family:Alegreya,monospace;font-size:109%}
+.p0{text-indent:0;margin-left:0;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:3.5em;margin-bottom:0}
+.p2{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p3{text-indent:0;margin-left:0;text-align:center;margin-top:5.5em}
+.p5{text-indent:0;margin-left:0;text-align:center;margin-bottom:0}
+.p6{text-indent:0;margin-left:0;text-align:center}
+.p7{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:1.5em;margin-bottom:0}
+.p8{text-indent:0;margin-left:0;text-align:center;margin-top:3.5em}
+.p9{text-indent:0;margin-left:2.4em;margin-top:0;margin-bottom:0}
+.p10{text-indent:0;margin-left:2.4em;margin-top:0}
+.p11{text-indent:0;margin-left:0;text-align:center;margin-top:1em}
+.p12{text-indent:0;margin-left:0;line-height:100%;margin-top:0;margin-bottom:0}
+.p13{text-indent:0}
+.p14{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:1em;margin-bottom:0}
+
+h1{text-indent:0;margin-left:0;line-height:108%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.75em;margin-bottom:1.5em;font-family:Alegreya,monospace;font-size:145%;font-weight:bold}
+.h11{text-indent:0}
+.t2{font-size:4em;line-height:100%;font-style:italic}
+.t3{font-size:1.5em;line-height:100%}
+.t4{font-size:.92em;line-height:110%}
+.t5{font-size:.92em;line-height:110%;font-weight:bold}
+.t6{font-size:.67em;line-height:110%}
+.t7{font-size:.75em;line-height:110%}
+.t9{font-size:1.2em;line-height:100%;font-style:italic}
+.t10{font-size:1.2em;line-height:100%}
+.t11{font-family:"TR Adine";font-size:2.2em;line-height:110%}
+.t12{font-style:italic}
+.t13{font-size:.65em;line-height:110%;vertical-align:super}
+.t14{color:blue}
+.t15{font-weight:bold}
+.t16{font-size:.65em;line-height:110%;font-style:italic;vertical-align:super}
+.t17{font-family:Calibri,sans-serif;font-size:.54em;line-height:100%;vertical-align:super}
+.t18{font-family:Calibri,sans-serif;font-size:.83em;line-height:100%}
+.t19{font-size:2em;line-height:100%;font-style:italic}
+.t20{font-size:1em;line-height:100%}
