@@ -1,0 +1,850 @@
+@font-face {
+	font-family:"Adobe Garamond Pro Bold";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/AGaramondPro-Bold.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Italic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Italic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Regular.otf");
+}
+@font-face {
+	font-family:"Roboto Slab";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/RobotoSlab-Bold.ttf");
+}
+@font-face {
+	font-family:"Roboto Slab";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/RobotoSlab-Regular.ttf");
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/TimesNewRomanPS-ItalicMT.ttf");
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../Fonts/TimesNewRomanPS-ItalicMT.ttf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+a._idGenColorInherit {
+	color:inherit;
+}
+p.baslangic-cmle1-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:0.792em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.368;
+	margin-bottom:3px;
+	margin-left:32px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.baslangic-cmle2-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:0.708em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.412;
+	margin-bottom:29px;
+	margin-left:32px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.baslangic-cumle3-ALT-bosluk-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:0.792em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.368;
+	margin-bottom:29px;
+	margin-left:32px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+h1.bolm-baslik1-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.083em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:0;
+	margin-bottom:100px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:always;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+h1.bolm-baslik2-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.083em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:0;
+	margin-bottom:0;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:always;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.dipnot-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.875em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.333;
+	margin-bottom:0;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.genel-baslik1-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1.417em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.412;
+	margin-bottom:100px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.genel-baslik2-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.417;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:20px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.genel-baslik3-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.417;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:20px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.genel-baslik3-boslksz-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.417;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.genel-baslik4-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.125em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.259;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:20px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ifa-baslik1-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:4.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ifa-baslik2-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ithaf1-UST-bosluk-100-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.125em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.259;
+	margin-bottom:1px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:100px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.knye-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.333;
+	margin-bottom:0;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.knye-UST-boslk-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.333;
+	margin-bottom:0;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:11px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+h1.knye-baslik1-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1.042em;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.knye-baslik2-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1.042em;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.knye-baslik3-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1.042em;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.metin-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.125em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.259;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.metin-iceriden-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.125em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.259;
+	margin-bottom:8px;
+	margin-left:32px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.metin-roboto-css {
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.417;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.metin-roboto-UST-boslk-css {
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.417;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:11px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.metin-roboto-iceriden-css {
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.417;
+	margin-bottom:8px;
+	margin-left:32px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.metin-yeni-sayfa-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.125em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.259;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.resim-0px-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.resim-16px-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:20px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.sekil-aciklamalari-24px-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.875em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.333;
+	margin-bottom:28px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.sekil-aciklamalari-8px-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.875em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.333;
+	margin-bottom:8px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+h1.yazar-baslik1-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#080808;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.5;
+	margin-bottom:16px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:always;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.yazar-baslik2-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Roboto Slab", serif;
+	font-size:1.125em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.259;
+	margin-bottom:11px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.yazar-metin-css {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.125em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.259;
+	margin-bottom:0;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.yazar-metin-UST-boslk-css {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.125em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.259;
+	margin-bottom:0;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:11px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.bold-css {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.dipnot-no-css {
+	vertical-align:super;
+}
+span.hyperlink-css {
+	color:#4f5cd6;
+	text-decoration:underline;
+}
+em.italic-css {
+	font-style:italic;
+	font-weight:normal;
+}
+span.roboto-bold-css {
+	font-family:"Roboto Slab", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.times-italic-css {
+	font-family:"Times New Roman", serif;
+	font-style:italic;
+	font-weight:normal;
+}
+em._idGenCharOverride-1 {
+	font-family:"Adobe Garamond Pro";
+}
+span._idGenCharOverride-2 {
+	font-size:58%;
+}
+img._idGenObjectAttribute-1 {
+	width:21.78%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+img._idGenObjectAttribute-2 {
+	width:31.25%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+img._idGenObjectAttribute-3 {
+	width:100.00%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+hr.HorizontalRule-1 {
+	border-bottom:none;
+	border-left:none;
+	border-right:none;
+	border-top:solid #000000 1px;
+}

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:8c3582c4-6245-433f-9ace-91b5a13a8bc3" />
+    <meta name="dtb:depth" content="4" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Kütübü Sitte 15. Cilt</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>YALAN (14. Ciltten Devam)</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm" />
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Peygamberler Günah İşler Mi?</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_1" />
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Peygamberler Büyük-Küçük Günahlardan Masum Mudurlar?</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_2" />
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Peygamberlerin Sözlerinin Hatadan Masuniyyeti:</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_3" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Peygamberlerin İşledikleri Hatadan Masuniyyeti:</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_4" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>ÜÇÜNCÜ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_5" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>KİBİR VE UCUB BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_6" />
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Bencillik Girdabı</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_7" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>KEBAİR BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_8" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>LİBAS (GİYECEKLER) BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_9" />
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>BİRİNCİ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_10" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>İKİNCİ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_11" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>ÜÇÜNCÜ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_12" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>DÖRDÜNCÜ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_13" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>BEŞİNCİ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_14" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>ALTINCI FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_15" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>LUKATA (BULUNTULAR) BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_16" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>LİAN BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_17" />
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>BİRİNCİ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_18" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>İKİNCİ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_19" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>LAKÎT BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_20" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>OYUN VE EĞLENCE BÖLÜMÜ[227]</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_21" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>LANETLEME VE SÖVME BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_22" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>MEV'İZELER BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_23" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>MUZARAA (ZİRAÎ ORTAKLIK) BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_24" />
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>BİRİNCİ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_25" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>İKİNCİ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_26" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>MEDH BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_27" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>MİZAH VE ŞAKALAŞMA BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_28" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>ÖLÜM BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_29" />
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>BİRİNCİ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_30" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>İKİNCİ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_31" />
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>BİRİNCİ FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_32" />
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>İKİNCİ FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_33" />
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>ÜÇÜNCÜ FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_34" />
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>DÖRDÜNCÜ FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_35" />
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>BEŞİNCİ FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_36" />
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>ALTINCI FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_37" />
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>YEDİNCİ FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_38" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>ÜÇÜNCÜ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_39" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>MESCİDLER BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_40" />
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>BİRİNCİ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_41" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>İKİNCİ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_42" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>PEYGAMBERLİK BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_43" />
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>BİRİNCİ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_44" />
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>İKİNCİ FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_45" />
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>ÜÇÜNCÜ FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_46" />
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>DÖRDÜNCÜ FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_47" />
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>BEŞİNCİ FASIL</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_48" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>İKİNCİ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_49" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>ÜÇÜNCÜ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_50" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>DÖRDÜNCÜ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_51" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>BEŞİNCİ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_52" />
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>Hane-i Saadette İş Atölyesi:</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_53" />
+          <navPoint id="navPoint-55" playOrder="55">
+            <navLabel>
+              <text>İKİNCİ FASIL</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_54" />
+          </navPoint>
+          <navPoint id="navPoint-56" playOrder="56">
+            <navLabel>
+              <text>ÜÇÜNCÜ FASIL</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_55" />
+          </navPoint>
+          <navPoint id="navPoint-57" playOrder="57">
+            <navLabel>
+              <text>DÖRDÜNCÜ FASIL</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_56" />
+          </navPoint>
+          <navPoint id="navPoint-58" playOrder="58">
+            <navLabel>
+              <text>BEŞİNCİ FASIL</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_57" />
+          </navPoint>
+          <navPoint id="navPoint-59" playOrder="59">
+            <navLabel>
+              <text>ALTINCI FASIL</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_58" />
+          </navPoint>
+          <navPoint id="navPoint-60" playOrder="60">
+            <navLabel>
+              <text>YEDİNCİ FASIL</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_59" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>NİKAH BÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_60" />
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>BİRİNCİ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_61" />
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>Hıyarü'l-Büluğ (Büluğda Muhayyerlik Hakkı)</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_62" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>İKİNCİ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_63" />
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>Meselenin İktisadî Yönü:</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_64" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>ÜÇÜNCÜ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_65" />
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>DÖRDÜNCÜ FASIL</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_66" />
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>İKİNCİ BAB</text>
+        </navLabel>
+        <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_67" />
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>Dikkat:</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_68" />
+        </navPoint>
+        <navPoint id="navPoint-70" playOrder="70">
+          <navLabel>
+            <text>Özet Olarak Mut'a Nikahı</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_69" />
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>Nikahın Mana Ve Ciddiyeti</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_70" />
+        </navPoint>
+        <navPoint id="navPoint-72" playOrder="72">
+          <navLabel>
+            <text>Mut'a Nikahı</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_71" />
+        </navPoint>
+        <navPoint id="navPoint-73" playOrder="73">
+          <navLabel>
+            <text>Sünnetteki Durum</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_72" />
+        </navPoint>
+        <navPoint id="navPoint-74" playOrder="74">
+          <navLabel>
+            <text>Muhataba Ve Şartlara Göre Farklılık Ve Tedric:</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_73" />
+        </navPoint>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>Mut'a Nikahı Meselesinin İç Yüzü</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_74" />
+        </navPoint>
+        <navPoint id="navPoint-76" playOrder="76">
+          <navLabel>
+            <text>1) Mut'a Cahiliye Devrinin Nikahıdır</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_75" />
+        </navPoint>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>2) Hz. Peygamber'in Bidayetteki Ruhsatı</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_76" />
+        </navPoint>
+        <navPoint id="navPoint-78" playOrder="78">
+          <navLabel>
+            <text>3) Mut'anın Neshi</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_77" />
+          <navPoint id="navPoint-79" playOrder="79">
+            <navLabel>
+              <text>Yasak Nerede Ve Ne Zaman Kondu?</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_78" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>4- Yasaklayıcı Rivayetler</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_79" />
+        </navPoint>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>5- Hz. Ömer'in Yasaklama Hadisesi</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_80" />
+          <navPoint id="navPoint-82" playOrder="82">
+            <navLabel>
+              <text>Yasak Hz. Ömer'in İçtihadı Değildir:</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_81" />
+          </navPoint>
+          <navPoint id="navPoint-83" playOrder="83">
+            <navLabel>
+              <text>Mut'anın Haram Olduğuna Dair Kur'anî Delil</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_82" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text>6- Alimlerin İcmaı</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_83" />
+          <navPoint id="navPoint-85" playOrder="85">
+            <navLabel>
+              <text>Mut'a Nikahının Cezası</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_84" />
+          </navPoint>
+          <navPoint id="navPoint-86" playOrder="86">
+            <navLabel>
+              <text>Mut'anın Feci Mahzurlarından Bazıları</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_85" />
+          </navPoint>
+          <navPoint id="navPoint-87" playOrder="87">
+            <navLabel>
+              <text>Bazı Sahabelerin Birkısım Hadisleri İşitmemiş Olmaları</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_86" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-88" playOrder="88">
+          <navLabel>
+            <text>7- Şiî Kaynaklarına Göre Mut'a</text>
+          </navLabel>
+          <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_87" />
+          <navPoint id="navPoint-89" playOrder="89">
+            <navLabel>
+              <text>Not:</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_88" />
+          </navPoint>
+          <navPoint id="navPoint-90" playOrder="90">
+            <navLabel>
+              <text>Tarif Ve Tavsif</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_89" />
+          </navPoint>
+          <navPoint id="navPoint-91" playOrder="91">
+            <navLabel>
+              <text>Onlar Da Ayıbın Farkındalar</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_90" />
+          </navPoint>
+          <navPoint id="navPoint-92" playOrder="92">
+            <navLabel>
+              <text>Şia'nın Mut'ayı Tecviz Edişinin Bir Sebebi</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_91" />
+          </navPoint>
+          <navPoint id="navPoint-93" playOrder="93">
+            <navLabel>
+              <text>Şiî Tavır</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_92" />
+          </navPoint>
+          <navPoint id="navPoint-94" playOrder="94">
+            <navLabel>
+              <text>Bir Soru Ve Cevabı</text>
+            </navLabel>
+            <content src="Text/K%C3%BCt%C3%BCb%C3%BC%20Sitte%2015.%20Cilt.htm#sigil_toc_id_93" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

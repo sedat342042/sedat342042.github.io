@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Auster, Paul">Paul Auster</dc:creator>
+<dc:date>2000-01-29T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750721144</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor id="translator">Seçkin Selvi</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-07-16</dc:date>
+    <dc:description>&lt;p&gt;Daha önce Ay Sarayı, Yalnızlığın Keşfi, Son Şeyler Ülkesinde, Şans Müziği, Kırmızı Defter adlı kitaplarını yayınladığımız Paul Auster'in son romanı simgesel bir ad taşıyor: LEVIATHAN (Tevrat'taki efsane ejderi). Leviathan, bir kadının bulduğu bir adres defterinden kendisine bir kimlik seçmesiyle başlıyor. Ya da birden, hiç beklenmedik, sarsıcı bir ölümle. Ya da Aaron oturup en sevdiği arkadaşı Benjamin Sachs'ın öyküsünü anlatmaya başlayınca. Aaron, evliliğini kıskandığı, zekasına hayran olduğu Sachs'ın öyküsünü anlatmak istiyor, çünkü Sachs'la ilgili soruşturmayı yürütenler onun için bir öykü uydurmadan önce kendisi doğruyu yakalamak istiyor. Belki bir kaza sonucu balkondan düşen ya da bilerek kendisi atlayan Sachs ortadan kaybolmuştur. Arada bir ortaya çıkarak deli saçması şeyler söyleyip sır olur. İlk kitaplarından bu yana bize rastlantı ile yazgının toslaştığı dünyalar yaratan, insanlardan uzak kahramanların ardısıra bizi gizemli, yürek burkucu yolculuklara çıkanan Paul Auster, bu yedinci romanında dostluk ve ihaneti, cinsel tutku ve yabancılaşmayı konu alıyor. Amerika'nın en özgün yazarlarından biri olan Paul Auster'dan bir polisiye gerilimine sahip ürpertici, ürpertici olduğu kadar eğlendirici, iç gıdıklayıcı ve içten içe yankılanan bir roman.&lt;/p&gt;</dc:description>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Leviathan"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Paul Auster&quot;: &quot;&quot;}"/>
+  <dc:title>Leviathan</dc:title>
+<dc:subject>Polisiye</dc:subject>
+<dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">30cf6247-ed5a-45a8-a8ea-d9646fe7d5d2</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750721144</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/works.xhtml" id="worksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dedication.xhtml" id="dedicationxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraph.xhtml" id="epigraphxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/acknowledgments.xhtml" id="acknowledgmentsxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="worksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="dedicationxhtml"/>
+    <itemref idref="epigraphxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="acknowledgmentsxhtml"/>
+  </spine>
+</package>

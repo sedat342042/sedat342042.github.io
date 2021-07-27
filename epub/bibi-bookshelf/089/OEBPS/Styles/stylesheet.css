@@ -1,0 +1,324 @@
+.apple-style-span {
+  color: rgb(51, 51, 51);
+  font-family: Tahoma, Arial, Helvetica, Verdana;
+  line-height: 18px;
+}
+.apple-style-span1 {
+  color: #333;
+  font-family: Tahoma, Arial, Helvetica, Verdana;
+}
+.apple-style-span2 {
+  font-size: 0.75em;
+  line-height: 1.2;
+}
+.bold {
+  font-weight: bold;
+}
+.calibre {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre_ {
+  display: block;
+  text-indent: 0;
+  margin: 2em 0 0 2em;
+}
+.calibre_1 {
+  display: block;
+  text-indent: 0;
+  margin: 0 0 0 2em;
+}
+.calibre_2 {
+  color: gray;
+  display: block;
+  height: 2px;
+  text-indent: 31%;
+  border: currentColor inset 1px;
+  margin: 0.5em auto;
+}
+.calibre_3 {
+  display: block;
+  text-indent: 0;
+  margin: 8pt 0 0 2em;
+}
+.calibre_4 {
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  margin: 0.5em 0;
+}
+.calibre_5 {
+  color: rgb(51, 51, 51);
+}
+.calibre_6 {
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0.5em 0;
+}
+.calibre_7 {
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  text-indent: 0;
+  margin: 0.5em 0;
+}
+.calibre_8 {
+  height: 64px;
+  vertical-align: baseline;
+  width: 57px;
+}
+.calibre_9 {
+  display: block;
+  text-align: justify;
+  text-indent: 2em;
+  margin: 8pt 0 0 2em;
+}
+.calibre_10 {
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0.5em 0 0.5em 19pt;
+}
+.calibre_rescale_ {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-indent: 1.5em;
+}
+.calibre1 {
+  display: table-row;
+  vertical-align: middle;
+}
+.calibre2 {
+  display: block;
+}
+.calibre3 {
+  color: white;
+}
+.calibre4 {
+  display: block;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-indent: 1.5em;
+}
+.calibre5 {
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.calibre6 {
+  display: block;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.calibre7 {
+  -webkit-text-stroke-width: 0;
+  color: rgb(51, 51, 51);
+  display: inline;
+  float: none;
+  font-family: Tahoma, Arial, Helvetica, Verdana;
+  font-size: 0.75em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  line-height: 1.2;
+  text-align: start;
+  text-indent: 0;
+  text-transform: none;
+  white-space: normal;
+  word-spacing: 0;
+}
+.calibre8 {
+  -webkit-text-stroke-width: 0;
+  color: rgb(51, 51, 51);
+  display: block;
+  font-family: Tahoma, Arial, Helvetica, Verdana;
+  font-size: 0.75em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  line-height: 1.2;
+  orphans: auto;
+  text-align: start;
+  text-indent: 0;
+  text-transform: none;
+  white-space: normal;
+  widows: auto;
+  word-spacing: 0;
+}
+.calibre9 {
+  -webkit-text-stroke-width: 0;
+  color: rgb(51, 51, 51);
+  font-family: Tahoma, Arial, Helvetica, Verdana;
+  font-size: 0.75em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  letter-spacing: normal;
+  line-height: 1.2;
+  outline-color: initial;
+  outline-style: initial;
+  outline-width: 0;
+  text-align: start;
+  text-indent: 0;
+  text-transform: none;
+  vertical-align: top;
+  white-space: normal;
+  word-spacing: 0;
+  padding: 0;
+  border: initial initial 0;
+  margin: 0;
+}
+.calibre10 {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: justify;
+  margin: 0 5pt;
+}
+.calibre11 {
+  font-size: 1.25em;
+  line-height: 1.2;
+}
+.calibre12 {
+  font-size: 0.75em;
+}
+.calibre13 {
+  font-size: 0.75em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre14 {
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre15 {
+  font-size: 1.375em;
+  line-height: 1.2;
+}
+.calibre16 {
+  font-size: 1.125em;
+  line-height: 1.2;
+}
+.calibre17 {
+  font-size: 0.75em;
+  line-height: 1.2;
+  vertical-align: sub;
+}
+.cbj_author {
+  display: table-cell;
+  text-align: center;
+  vertical-align: inherit;
+  padding: 1px;
+}
+.cbj_banner {
+  -webkit-border-radius: 8px;
+  background: #eee;
+  color: black;
+  display: block;
+  text-indent: 1.5em;
+  padding: 1em;
+  border: black solid thin;
+  margin: 0.5em 1em;
+}
+.cbj_comments {
+  display: block;
+  font-family: sans-serif;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-indent: 1.5em;
+}
+.cbj_content {
+  display: table-cell;
+  font-family: sans-serif;
+  text-align: left;
+  vertical-align: inherit;
+  width: 67%;
+  padding: 1px;
+}
+.cbj_footer {
+  display: block;
+  font-family: sans-serif;
+  font-size: 0.75em;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-align: center;
+}
+.cbj_header {
+  border-collapse: separate;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+  width: 100%;
+}
+.cbj_label {
+  display: table-cell;
+  font-family: sans-serif;
+  text-align: right;
+  vertical-align: inherit;
+  width: 33%;
+  padding: 1px;
+}
+.cbj_title {
+  display: table-cell;
+  font-size: 1.375em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+  vertical-align: inherit;
+  padding: 1px;
+}
+.italic {
+  font-style: italic;
+}
+.metadata_divider {
+  color: gray;
+  display: block;
+  height: 2px;
+  width: 90%;
+  border-top: white solid 0;
+  border-right: white solid 0;
+  border-bottom: black solid 1px;
+  border-left: white solid 0;
+  margin: 0.5em auto 0.5em 5%;
+}
+.title {
+  line-height: 1.2;
+}
+.underline {
+  text-decoration: underline;
+}
+h1 {
+  font-size: 1em;
+}

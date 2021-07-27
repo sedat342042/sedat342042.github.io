@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:40cfe102-fcc3-46ff-872b-d99a0724b631"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>İnsanın Fabrika Ayarları-II: İlişkiler ve Stres</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İnsanın Fabrika Ayarları-II: İlişkiler ve Stres</text>
+      </navLabel>
+      <content src="Text/insanin-fabrika-ayarlari-2-iliskiler-ve-stres.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Biyografi</text>
+        </navLabel>
+        <content src="Text/insanin-fabrika-ayarlari-2-iliskiler-ve-stres-1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>İthaf</text>
+        </navLabel>
+        <content src="Text/insanin-fabrika-ayarlari-2-iliskiler-ve-stres-2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Bir Bakışta İFA</text>
+        </navLabel>
+        <content src="Text/insanin-fabrika-ayarlari-2-iliskiler-ve-stres-3.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>İFA-3: OLUMLU ve ZENGİN SOSYAL İLİŞKİLER</text>
+      </navLabel>
+      <content src="Text/insanin-fabrika-ayarlari-2-iliskiler-ve-stres-4.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Neden “Yalnız” Olmuyor?</text>
+        </navLabel>
+        <content src="Text/insanin-fabrika-ayarlari-2-iliskiler-ve-stres-5.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>İFA-4: DÜŞÜK STRESLİ BİR YAŞAM</text>
+      </navLabel>
+      <content src="Text/insanin-fabrika-ayarlari-2-iliskiler-ve-stres-6.xhtml"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Düşük Stresli Bir Yaşam</text>
+        </navLabel>
+        <content src="Text/insanin-fabrika-ayarlari-2-iliskiler-ve-stres-7.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

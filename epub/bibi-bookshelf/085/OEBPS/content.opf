@@ -1,0 +1,81 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Gaiman, Neil">Neil Gaiman</dc:creator>
+<dc:identifier id="uuid">{08A09979-9DD8-403F-94B7-BD77A10A5A7A}</dc:identifier>
+    <meta name="cover" content="kap.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2015-09-20T21:00:00+00:00</dc:date>
+  <dc:title>Amerikan Tanrıları</dc:title>
+<meta name="calibre:title_sort" content="Amerikan Tanrıları"/>
+<dc:publisher>İnkilâp Kitabevi</dc:publisher>
+<meta name="calibre:rating" content="6.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;HAZIRLANIN… FIRTINA YAKLAŞIYOR…
+
+Yarattığı kahramanlar ve atmosferlerle hayal gücünüzü şenlendiren Neil Gaiman, Amerikan Tanrıları'nda size hem tanıdık hem de tamamen yabancı bir dünyanın kapılarını aralıyor…
+
+Amerika'da tanrılar ve mitolojik yaratıklarla yapacağınız bu müthiş yolculuk başınızı döndürecek…
+
+Geçmişte birtakım kirli işlere bulaşmış olan Gölge, cezasını tamamlamak üzeredir. Artık tek istediği, eşi Laura'yla birlikte sessiz sakin bir yaşam sürmek ve beladan mümkün mertebe uzak durmaktır. Ta ki, eşinin korkunç bir kazada hayatını kaybettiğini öğrenene kadar.
+
+Cenazeye gitmek üzere bindiği uçakta bir adamla tanışır. İsminin Çarşamba olduğunu söyleyen bu düzgün giyimli, yaşlı adam, Gölge hakkında hiç kimsenin, hattâ kendisinin bile bilmediği şeyler anlatır ve... onu yaklaşan fırtınaya karşı uyarır. Bundan böyle artık hiçbir şey eskisi gibi olmayacaktır, çünkü günlük hayatın o sakin yüzeyinin altında, Amerika'nın ruhunu ele geçirmek için büyük bir savaş kopmak üzeredir. 
+
+“Amerikan Tanrıları bir tür mucize. Okunması gereken çok önemli bir kitap…” Jonathan Carroll
+
+"Gizem, hiciv, seks, dehşet, şiirsel anlatı –Amerikan Tanrıları tüm bu unsurları bir araya getirerek okuyucuyu avucunun içine alıyor.” The Washington Post
+&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Neil Gaiman&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">97a9e44c-7201-4710-83c4-66dfbb34d63e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053751083</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id48" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id49" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id50" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id51" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id52" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id53" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id54" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id55" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id56" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="id57" media-type="application/xhtml+xml"/>
+    <item href="Text/main-11.xhtml" id="id58" media-type="application/xhtml+xml"/>
+    <item href="Text/main-12.xhtml" id="id59" media-type="application/xhtml+xml"/>
+    <item href="Text/main-13.xhtml" id="id60" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id61" media-type="text/css"/>
+    <item href="toc.ncx" id="id62" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/kap.jpg" id="kap.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id62">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+    <itemref idref="id57"/>
+    <itemref idref="id58"/>
+    <itemref idref="id59"/>
+    <itemref idref="id60"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

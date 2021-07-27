@@ -1,0 +1,96 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Gaiman, Neil">Neil Gaiman</dc:creator>
+<dc:date>2013-06-02T21:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Karanlık, korkutucu ve büyülü dünyalara eğlence, mizah ve samimiyetle bambaşka bir tat kazandıran Neil Gaiman, bu kez okurunu, yeryüzü üzerinde söylenegelen tüm öykülerin sahibi örümcek-tanrı Anansi'nin ve çocuklarının macerasına kulak vermeye çağırıyor.
+
+Her şey Şişko Charlie'nin, ölen babasının aslında bir tanrı olduğunu öğrenmesiyle başlar. Bu yetmezmiş gibi Şişko Charlie, Örümcek adında gizemli bir kardeşi olduğunu da öğrenir. Artık hiçbir şey eskisi gibi olmayacaktır; insanlar için de, tanrılar için de...
+
+
+Sayfa Sayısı: 384
+Baskı Yılı: 2013
+Dili: Türkçe
+Yayınevi: İthaki Yayınları&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">bd786d51-f7d2-41e6-99c6-c5336299adec</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-10-19</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <meta content="2014-06-08T17:56:23+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="Anansi Çocukları" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Neil Gaiman&quot;: &quot;&quot;}"/>
+  <dc:title>Anansi Çocukları</dc:title>
+<dc:subject>Fantastik</dc:subject>
+<dc:subject>Gizem</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">219d6192-279a-45e8-a606-1f204b3dd1c0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053752981</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/jacket.xhtml" id="calibre_jacket" media-type="application/xhtml+xml"/>
+    <item href="Text/part0002.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/part0003.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/part0004.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/part0005.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/part0006.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/part0007.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/part0008.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/part0009.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/part0010.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/part0011.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/part0012.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/part0013.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/part0014.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/part0015.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/part0016.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/part0017.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/part0018.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/part0019.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/part0020.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/part0021.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/part0022.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/part0023.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/00003.jpeg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="../fonts/Tahoma-Bold.ttf" id="font" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Tahoma.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="../fonts.css" id="font_embed" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="calibre_jacket"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

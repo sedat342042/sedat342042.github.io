@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>YAYGIN ANNE BABA TUTUMLARI
+Prof. Dr. Haluk Yavuzer</text>
+			</navLabel>
+			<content src="Text/annebabatutumlarimetin-4.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>YAYGIN ANNE BABA TUTUMLARI</text>
+				</navLabel>
+				<content src="Text/annebabatutumlarimetin-4.html#toc_marker-1-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>KÜLTÜR VE GENÇLİK SORUNLARI
+Prof. Dr. Özcan Köknel</text>
+			</navLabel>
+			<content src="Text/annebabatutumlarimetin-4.html#toc_marker-2"/>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>KÜLTÜR VE GENÇLİK SORUNLARI</text>
+				</navLabel>
+				<content src="Text/annebabatutumlarimetin-4.html#toc_marker-2-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>ERGENİN TEMEL GELİŞİM ÖZELLİKLERİ
+Prof. Dr. Adnan KULAKSIZOĞLU</text>
+			</navLabel>
+			<content src="Text/annebabatutumlarimetin-4.html#toc_marker-3"/>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>Ergenin Temel Gelişim Özellikleri</text>
+				</navLabel>
+				<content src="Text/annebabatutumlarimetin-4.html#toc_marker-3-1"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>KAYNAKÇA</text>
+				</navLabel>
+				<content src="Text/annebabatutumlarimetin-5.html#toc_marker-3-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>ÇOCUKLARA İMAN ÖĞRETİMİ VE İBADET EĞİTİMİ
+Prof. Dr. Halis AYHAN</text>
+			</navLabel>
+			<content src="Text/annebabatutumlarimetin-5.html#toc_marker-4"/>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>ÇOCUKLARDA İMAN ÖĞRETİMİ VE İBADET EĞİTİMİ</text>
+				</navLabel>
+				<content src="Text/annebabatutumlarimetin-5.html#toc_marker-4-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>ÇOCUKTA SORUMLULUK BİLİNCİNİN ÖNEMİ VE AİLEDE KAZANDIRILMASI
+Prof. Dr. Abdurrahman Dodurgalı</text>
+			</navLabel>
+			<content src="Text/annebabatutumlarimetin-5.html#toc_marker-5"/>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>ÇOCUKTA SORUMLULUK BİLİNCİNİN ÖNEMİ</text>
+				</navLabel>
+				<content src="Text/annebabatutumlarimetin-5.html#toc_marker-5-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>KARAKTER EĞİTİMİ: ANNE-BABALAR İÇİN STRATEJİLER
+Prof. Dr. Halil EKŞİ</text>
+			</navLabel>
+			<content src="Text/annebabatutumlarimetin-5.html#toc_marker-6"/>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>KARAKTER EĞİTİMİ</text>
+				</navLabel>
+				<content src="Text/annebabatutumlarimetin-5.html#toc_marker-6-1"/>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>Giriş</text>
+				</navLabel>
+				<content src="Text/annebabatutumlarimetin-5.html#toc_marker-6-2"/>
+			</navPoint>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>KAYNAKÇA</text>
+				</navLabel>
+				<content src="Text/annebabatutumlarimetin-5.html#toc_marker-6-3"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

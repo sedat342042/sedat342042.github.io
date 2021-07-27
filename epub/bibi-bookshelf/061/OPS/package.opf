@@ -1,0 +1,146 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" xml:lang="en">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">The Killing Forest</dc:title>
+    <dc:creator id="creator">Sara Blaedel</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:identifier id="pub-id">9781455581535</dc:identifier>
+    <meta property="identifier-type" refines="#pub-id" scheme="onix:codelist5">02</meta>
+    <dc:source>9781455581535</dc:source>
+    <meta property="dcterms:modified">2016-01-05T08:14:05Z</meta>
+    <dc:date>2016-02-02</dc:date>
+    <dc:publisher>Grand Central Publishing</dc:publisher>
+    <dc:rights>Copyright © 2016 by Sara Blaedel</dc:rights>
+    <dc:description>Sara Blaedel, author of the #1 international bestseller &lt;i&gt;The Forgotten Girls&lt;/i&gt;&amp;#8212;which was roundly praised as "gripping" with "uncompromising realism" (&lt;i&gt;Washington Post&lt;/i&gt;) and "tautly suspenseful" (&lt;i&gt;BookPage&lt;/i&gt;)&amp;#8212;returns with the thrilling next book in her series featuring police investigator Louise Rick.&lt;br&gt;&lt;p&gt;&lt;b&gt;THE KILLING FOREST&lt;/b&gt;&lt;p&gt;Following an extended leave, Louise Rick returns to work at the Special Search Agency, an elite unit of the National Police Department. She's assigned a case involving a fifteen-year-old who vanished a week earlier. When Louise realizes that the missing teenager is the son of a butcher from Hvalsoe, she seizes the opportunity to combine the search for the teen with her personal investigation of her boyfriend's long-ago death . . . &lt;p&gt;Louise's investigation takes her on a journey back through time. She reconnects with figures from her past, including Kim, the principal investigator at the Holbaek Police Department, her former...</dc:description>
+</metadata>
+<manifest>
+    <item href="TOC.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="images/9781455581535_cover_epub.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+    <item href="s001-BookTitlePage-01.xhtml" id="s001" media-type="application/xhtml+xml"/>
+    <item href="s002-BriefTOC-01.xhtml" id="s002" media-type="application/xhtml+xml"/>
+    <item href="s003-Chapter-001.xhtml" id="s003" media-type="application/xhtml+xml"/>
+    <item href="s004-Chapter-002.xhtml" id="s004" media-type="application/xhtml+xml"/>
+    <item href="s005-Chapter-003.xhtml" id="s005" media-type="application/xhtml+xml"/>
+    <item href="s006-Chapter-004.xhtml" id="s006" media-type="application/xhtml+xml"/>
+    <item href="s007-Chapter-005.xhtml" id="s007" media-type="application/xhtml+xml"/>
+    <item href="s008-Chapter-006.xhtml" id="s008" media-type="application/xhtml+xml"/>
+    <item href="s009-Chapter-007.xhtml" id="s009" media-type="application/xhtml+xml"/>
+    <item href="s010-Chapter-008.xhtml" id="s010" media-type="application/xhtml+xml"/>
+    <item href="s011-Chapter-009.xhtml" id="s011" media-type="application/xhtml+xml"/>
+    <item href="s012-Chapter-010.xhtml" id="s012" media-type="application/xhtml+xml"/>
+    <item href="s013-Chapter-011.xhtml" id="s013" media-type="application/xhtml+xml"/>
+    <item href="s014-Chapter-012.xhtml" id="s014" media-type="application/xhtml+xml"/>
+    <item href="s015-Chapter-013.xhtml" id="s015" media-type="application/xhtml+xml"/>
+    <item href="s016-Chapter-014.xhtml" id="s016" media-type="application/xhtml+xml"/>
+    <item href="s017-Chapter-015.xhtml" id="s017" media-type="application/xhtml+xml"/>
+    <item href="s018-Chapter-016.xhtml" id="s018" media-type="application/xhtml+xml"/>
+    <item href="s019-Chapter-017.xhtml" id="s019" media-type="application/xhtml+xml"/>
+    <item href="s020-Chapter-018.xhtml" id="s020" media-type="application/xhtml+xml"/>
+    <item href="s021-Chapter-019.xhtml" id="s021" media-type="application/xhtml+xml"/>
+    <item href="s022-Chapter-020.xhtml" id="s022" media-type="application/xhtml+xml"/>
+    <item href="s023-Chapter-021.xhtml" id="s023" media-type="application/xhtml+xml"/>
+    <item href="s024-Chapter-022.xhtml" id="s024" media-type="application/xhtml+xml"/>
+    <item href="s025-Chapter-023.xhtml" id="s025" media-type="application/xhtml+xml"/>
+    <item href="s026-Chapter-024.xhtml" id="s026" media-type="application/xhtml+xml"/>
+    <item href="s027-Chapter-025.xhtml" id="s027" media-type="application/xhtml+xml"/>
+    <item href="s028-Chapter-026.xhtml" id="s028" media-type="application/xhtml+xml"/>
+    <item href="s029-Chapter-027.xhtml" id="s029" media-type="application/xhtml+xml"/>
+    <item href="s030-Chapter-028.xhtml" id="s030" media-type="application/xhtml+xml"/>
+    <item href="s031-Chapter-029.xhtml" id="s031" media-type="application/xhtml+xml"/>
+    <item href="s032-Chapter-030.xhtml" id="s032" media-type="application/xhtml+xml"/>
+    <item href="s033-Chapter-031.xhtml" id="s033" media-type="application/xhtml+xml"/>
+    <item href="s034-Chapter-032.xhtml" id="s034" media-type="application/xhtml+xml"/>
+    <item href="s035-Chapter-033.xhtml" id="s035" media-type="application/xhtml+xml"/>
+    <item href="s036-Chapter-034.xhtml" id="s036" media-type="application/xhtml+xml"/>
+    <item href="s037-Chapter-035.xhtml" id="s037" media-type="application/xhtml+xml"/>
+    <item href="s038-Chapter-036.xhtml" id="s038" media-type="application/xhtml+xml"/>
+    <item href="s039-Chapter-037.xhtml" id="s039" media-type="application/xhtml+xml"/>
+    <item href="s040-Chapter-038.xhtml" id="s040" media-type="application/xhtml+xml"/>
+    <item href="s041-Chapter-039.xhtml" id="s041" media-type="application/xhtml+xml"/>
+    <item href="s042-Chapter-040.xhtml" id="s042" media-type="application/xhtml+xml"/>
+    <item href="s043-Chapter-041.xhtml" id="s043" media-type="application/xhtml+xml"/>
+    <item href="s044-Chapter-042.xhtml" id="s044" media-type="application/xhtml+xml"/>
+    <item href="s045-Chapter-043.xhtml" id="s045" media-type="application/xhtml+xml"/>
+    <item href="s046-Chapter-044.xhtml" id="s046" media-type="application/xhtml+xml"/>
+    <item href="s047-Chapter-045.xhtml" id="s047" media-type="application/xhtml+xml"/>
+    <item href="s048-Chapter-046.xhtml" id="s048" media-type="application/xhtml+xml"/>
+    <item href="s049-Chapter-047.xhtml" id="s049" media-type="application/xhtml+xml"/>
+    <item href="s050-Chapter-048.xhtml" id="s050" media-type="application/xhtml+xml"/>
+    <item href="s051-Chapter-049.xhtml" id="s051" media-type="application/xhtml+xml"/>
+    <item href="s052-Chapter-050.xhtml" id="s052" media-type="application/xhtml+xml"/>
+    <item href="s053-Chapter-051.xhtml" id="s053" media-type="application/xhtml+xml"/>
+    <item href="s054-Notes-01.xhtml" id="s054" media-type="application/xhtml+xml"/>
+    <item href="s055-AboutTheAuthor-01.xhtml" id="s055" media-type="application/xhtml+xml"/>
+    <item href="s056-AdCard-01.xhtml" id="s056" media-type="application/xhtml+xml"/>
+    <item href="s057-Intl-hbg-01.xhtml" id="s057" media-type="application/xhtml+xml"/>
+    <item href="s058-Appendix-01.xhtml" id="s058" media-type="application/xhtml+xml"/>
+    <item href="s060-InsertedCopyright-01.xhtml" id="s060" media-type="application/xhtml+xml"/>
+    <item href="images/9781455581535_online.jpg" id="images-001" media-type="image/jpeg"/>
+    <item href="images/killingforest_hctext1p_3_online.png" id="images-002" media-type="image/png"/>
+    <item href="css/9781455581535.css" id="css-001" media-type="text/css"/>
+</manifest>
+<spine page-progression-direction="ltr" toc="ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="s001" linear="yes"/>
+    <itemref idref="s002" linear="yes"/>
+    <itemref idref="s003" linear="yes"/>
+    <itemref idref="s004" linear="yes"/>
+    <itemref idref="s005" linear="yes"/>
+    <itemref idref="s006" linear="yes"/>
+    <itemref idref="s007" linear="yes"/>
+    <itemref idref="s008" linear="yes"/>
+    <itemref idref="s009" linear="yes"/>
+    <itemref idref="s010" linear="yes"/>
+    <itemref idref="s011" linear="yes"/>
+    <itemref idref="s012" linear="yes"/>
+    <itemref idref="s013" linear="yes"/>
+    <itemref idref="s014" linear="yes"/>
+    <itemref idref="s015" linear="yes"/>
+    <itemref idref="s016" linear="yes"/>
+    <itemref idref="s017" linear="yes"/>
+    <itemref idref="s018" linear="yes"/>
+    <itemref idref="s019" linear="yes"/>
+    <itemref idref="s020" linear="yes"/>
+    <itemref idref="s021" linear="yes"/>
+    <itemref idref="s022" linear="yes"/>
+    <itemref idref="s023" linear="yes"/>
+    <itemref idref="s024" linear="yes"/>
+    <itemref idref="s025" linear="yes"/>
+    <itemref idref="s026" linear="yes"/>
+    <itemref idref="s027" linear="yes"/>
+    <itemref idref="s028" linear="yes"/>
+    <itemref idref="s029" linear="yes"/>
+    <itemref idref="s030" linear="yes"/>
+    <itemref idref="s031" linear="yes"/>
+    <itemref idref="s032" linear="yes"/>
+    <itemref idref="s033" linear="yes"/>
+    <itemref idref="s034" linear="yes"/>
+    <itemref idref="s035" linear="yes"/>
+    <itemref idref="s036" linear="yes"/>
+    <itemref idref="s037" linear="yes"/>
+    <itemref idref="s038" linear="yes"/>
+    <itemref idref="s039" linear="yes"/>
+    <itemref idref="s040" linear="yes"/>
+    <itemref idref="s041" linear="yes"/>
+    <itemref idref="s042" linear="yes"/>
+    <itemref idref="s043" linear="yes"/>
+    <itemref idref="s044" linear="yes"/>
+    <itemref idref="s045" linear="yes"/>
+    <itemref idref="s046" linear="yes"/>
+    <itemref idref="s047" linear="yes"/>
+    <itemref idref="s048" linear="yes"/>
+    <itemref idref="s049" linear="yes"/>
+    <itemref idref="s050" linear="yes"/>
+    <itemref idref="s051" linear="yes"/>
+    <itemref idref="s052" linear="yes"/>
+    <itemref idref="s053" linear="yes"/>
+    <itemref idref="s054" linear="yes"/>
+    <itemref idref="s055" linear="yes"/>
+    <itemref idref="s056" linear="yes"/>
+    <itemref idref="s057" linear="yes"/>
+    <itemref idref="s058" linear="yes"/>
+    <itemref idref="toc" linear="yes"/>
+    <itemref idref="s060" linear="yes"/>
+</spine>
+</package>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="cf65ca20-2c99-4618-b11d-8ca28c757cfe" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.50.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kırık Taşlar</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kırık Taşlar üzerine</text>
+      </navLabel>
+      <content src="OEBPS/foreword.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Parçalar</text>
+      </navLabel>
+      <content src="OEBPS/part1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Herakleitos’un düşüncesi, yaşamı ve kitabı</text>
+      </navLabel>
+      <content src="OEBPS/part2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="OEBPS/notes.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="OEBPS/bibliography.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

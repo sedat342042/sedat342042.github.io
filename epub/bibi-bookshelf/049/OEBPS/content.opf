@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Auster, Paul">Paul Auster</dc:creator>
+<dc:date>2008-01-27T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750721090</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor id="translator">Seçkin Selvi</dc:contributor>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-06-09</dc:date>
+  <dc:title>Karanlıktaki Adam</dc:title>
+<meta name="calibre:title_sort" content="Karanlıktaki Adam"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;Uçsuz bucaksız Amerika kırsalının bir beyaz gecesinde daha, dünyayı kafamın içinde döndürerek yeni bir uykusuzluk nöbetiyle boğuşurken karanlıkta tek başınayım...
+72 yaşındaki eski kitap eleştirmeni August Brill, geçirdiği bir araba kazasından sonra kızı ve torunuyla birlikte oturmaktadır. Uykusuz bir gecede, anımsamak istemediği düşünceler ve olayları, karısının ölümünü, torununun erkek arkadaşının Irak'ta vahşice öldürülüşünü kafasından kovmak için, kendi kendine öyküler anlatır. ABD'nin Irak'la değil de, kendi kendisiyle savaşta olduğu bir öykü kurar. Bu hayalî ABD'de, ülke kanlı bir iç savaşa sürüklenmiştir. Gece ilerledikçe, Brill'in öyküsü gittikçe yoğunlaşacak, unutmak istedikleri bir bir geri gelecektir...
+Amerikan edebiyatının son döneminin en saygın birkaç yazarından biri olan Paul Auster, tüm dünyayla aynı günlerde yayınladığımız yeni romanı Karanlıktaki Adam'da, belki de bugüne kadarki en politik yapıtını sunuyor okurlara&lt;/p&gt;</dc:description>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Paul Auster&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">f12aa0fb-0a00-41f4-b193-04fc030b69fc</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789750721090</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dedication.xhtml" id="dedicationxhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd-Light.ttf" id="font__GillSansStd-Lightttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/x-font-ttf"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="dedicationxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+  </spine>
+</package>

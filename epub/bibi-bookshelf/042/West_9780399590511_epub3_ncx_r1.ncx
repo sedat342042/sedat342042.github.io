@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+   <head>
+      <meta content="9780399590511" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Educated</text>
+   </docTitle>
+   <navMap>
+      <navPoint id="np1" playOrder="1">
+         <navLabel>
+            <text>Cover</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_cvi_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np2" playOrder="2">
+         <navLabel>
+            <text>Title Page</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_tp_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np3" playOrder="3">
+         <navLabel>
+            <text>Copyright</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_cop_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np4" playOrder="4">
+         <navLabel>
+            <text>Contents</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_toc_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np5" playOrder="5">
+         <navLabel>
+            <text>Epigraph</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_epi_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np6" playOrder="6">
+         <navLabel>
+            <text>Author&#x2019;s Note</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_ant_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np7" playOrder="7">
+         <navLabel>
+            <text>Prologue</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_prl_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np8" playOrder="8">
+         <navLabel>
+            <text>Part One</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_p001_r1.xhtml"/>
+         <navPoint id="np9" playOrder="9">
+            <navLabel>
+               <text>Chapter 1: Choose the Good</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c001_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np10" playOrder="10">
+            <navLabel>
+               <text>Chapter 2: The Midwife</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c002_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np11" playOrder="11">
+            <navLabel>
+               <text>Chapter 3: Cream Shoes</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c003_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np12" playOrder="12">
+            <navLabel>
+               <text>Chapter 4: Apache Women</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c004_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np13" playOrder="13">
+            <navLabel>
+               <text>Chapter 5: Honest Dirt</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c005_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np14" playOrder="14">
+            <navLabel>
+               <text>Chapter 6: Shield and Buckler</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c006_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np15" playOrder="15">
+            <navLabel>
+               <text>Chapter 7: The Lord Will Provide</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c007_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np16" playOrder="16">
+            <navLabel>
+               <text>Chapter 8: Tiny Harlots</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c008_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np17" playOrder="17">
+            <navLabel>
+               <text>Chapter 9: Perfect in His Generations</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c009_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np18" playOrder="18">
+            <navLabel>
+               <text>Chapter 10: Shield of Feathers</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c010_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np19" playOrder="19">
+            <navLabel>
+               <text>Chapter 11: Instinct</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c011_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np20" playOrder="20">
+            <navLabel>
+               <text>Chapter 12: Fish Eyes</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c012_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np21" playOrder="21">
+            <navLabel>
+               <text>Chapter 13: Silence in the Churches</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c013_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np22" playOrder="22">
+            <navLabel>
+               <text>Chapter 14: My Feet No Longer Touch Earth</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c014_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np23" playOrder="23">
+            <navLabel>
+               <text>Chapter 15: No More a Child</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c015_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np24" playOrder="24">
+            <navLabel>
+               <text>Chapter 16: Disloyal Man, Disobedient Heaven</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c016_r1.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="np25" playOrder="25">
+         <navLabel>
+            <text>Part Two</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_p002_r1.xhtml"/>
+         <navPoint id="np26" playOrder="26">
+            <navLabel>
+               <text>Chapter 17: To Keep It Holy</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c017_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np27" playOrder="27">
+            <navLabel>
+               <text>Chapter 18: Blood and Feathers</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c018_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np28" playOrder="28">
+            <navLabel>
+               <text>Chapter 19: In the Beginning</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c019_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np29" playOrder="29">
+            <navLabel>
+               <text>Chapter 20: Recitals of the Fathers</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c020_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np30" playOrder="30">
+            <navLabel>
+               <text>Chapter 21: Skullcap</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c021_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np31" playOrder="31">
+            <navLabel>
+               <text>Chapter 22: What We Whispered and What We Screamed</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c022_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np32" playOrder="32">
+            <navLabel>
+               <text>Chapter 23: I&#x2019;m from Idaho</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c023_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np33" playOrder="33">
+            <navLabel>
+               <text>Chapter 24: A Knight, Errant</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c024_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np34" playOrder="34">
+            <navLabel>
+               <text>Chapter 25: The Work of Sulphur</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c025_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np35" playOrder="35">
+            <navLabel>
+               <text>Chapter 26: Waiting for Moving Water</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c026_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np36" playOrder="36">
+            <navLabel>
+               <text>Chapter 27: If I Were a Woman</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c027_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np37" playOrder="37">
+            <navLabel>
+               <text>Chapter 28: Pygmalion</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c028_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np38" playOrder="38">
+            <navLabel>
+               <text>Chapter 29: Graduation</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c029_r1.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="np39" playOrder="39">
+         <navLabel>
+            <text>Part Three</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_p003_r1.xhtml"/>
+         <navPoint id="np40" playOrder="40">
+            <navLabel>
+               <text>Chapter 30: Hand of the Almighty</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c030_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np41" playOrder="41">
+            <navLabel>
+               <text>Chapter 31: Tragedy Then Farce</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c031_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np42" playOrder="42">
+            <navLabel>
+               <text>Chapter 32: A Brawling Woman in a Wide House</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c032_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np43" playOrder="43">
+            <navLabel>
+               <text>Chapter 33: Sorcery of Physics</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c033_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np44" playOrder="44">
+            <navLabel>
+               <text>Chapter 34: The Substance of Things</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c034_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np45" playOrder="45">
+            <navLabel>
+               <text>Chapter 35: West of the Sun</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c035_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np46" playOrder="46">
+            <navLabel>
+               <text>Chapter 36: Four Long Arms, Whirling</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c036_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np47" playOrder="47">
+            <navLabel>
+               <text>Chapter 37: Gambling for Redemption</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c037_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np48" playOrder="48">
+            <navLabel>
+               <text>Chapter 38: Family</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c038_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np49" playOrder="49">
+            <navLabel>
+               <text>Chapter 39: Watching the Buffalo</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c039_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np50" playOrder="50">
+            <navLabel>
+               <text>Chapter 40: Educated</text>
+            </navLabel>
+            <content src="OEBPS/West_9780399590511_epub3_c040_r1.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="np51" playOrder="51">
+         <navLabel>
+            <text>Dedication</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_ded_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np52" playOrder="52">
+         <navLabel>
+            <text>Acknowledgments</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_ack_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np53" playOrder="53">
+         <navLabel>
+            <text>A Note on the Text</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_ant1_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np54" playOrder="54">
+         <navLabel>
+            <text>About the Author</text>
+         </navLabel>
+         <content src="OEBPS/West_9780399590511_epub3_ata_r1.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

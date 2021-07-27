@@ -1,0 +1,531 @@
+.para-dedf-ded-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    text-align: center;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-ataf {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.92em;
+    line-height: inherit;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-atat-ata-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-bottom: 5em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-au {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.58em;
+    line-height: inherit;
+    margin-bottom: 1.05em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-bmp {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    text-indent: 1em;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-bmpf {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 5em;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    }
+.para-bmt-ack-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.42em;
+    line-height: inherit;
+    margin-bottom: 5em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-bmt-au-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.42em;
+    line-height: inherit;
+    margin-bottom: 5em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-cit {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.9em;
+    line-height: inherit;
+    text-align: center;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-cn-chap-pg {
+    font-style: italic;
+    font-size: 1em;
+    line-height: inherit;
+    margin-bottom: 2.66em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-cip {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.9em;
+    line-height: inherit;
+    text-align: center;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-crtf {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.9em;
+    line-height: inherit;
+    margin-top: 0.44em;
+    text-align: center;
+    margin-bottom: 0.2em;
+    }
+.para-cipf {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.9em;
+    line-height: inherit;
+    margin-top: 0.44em;
+    text-align: center;
+    margin-bottom: 0.2em;
+    }
+.para-crtf-crt-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.9em;
+    line-height: inherit;
+    margin-top: 0.44em;
+    text-align: center;
+    margin-bottom: 0.2em;
+    }
+.para-ct {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.42em;
+    line-height: inherit;
+    margin-bottom: 5em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-epif {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: 1.7em;
+    margin-top: 2.67em;
+    margin-left: 1em;
+    margin-right: 0;
+    text-align: left;
+    margin-bottom: 0.2em;
+    }
+.para-epif-epi-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: 1.7em;
+    margin-left: 1em;
+    margin-right: 0;
+    text-align: left;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-eps {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.92em;
+    line-height: inherit;
+    margin-top: 1.54em;
+    margin-bottom: 1.54em;
+    text-align: center;
+    }
+.para-extvf {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 1.32em;
+    text-indent: -2em;
+    margin-left: 3.69em;
+    margin-right: 0;
+    text-align: left;
+    margin-bottom: 0.2em;
+    }
+.para-extvl {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-bottom: 1.32em;
+    text-indent: -2em;
+    margin-left: 3.69em;
+    margin-right: 0;
+    text-align: left;
+    margin-top: 0;
+    }
+.para-fmp {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    text-indent: 1em;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-fmp-alt {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 1.32em;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    }
+.para-fmpf {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 5em;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    }
+.para-fmt-au-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.42em;
+    line-height: inherit;
+    margin-bottom: 2.82em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-fmt-pro-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.42em;
+    line-height: inherit;
+    margin-bottom: 5em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-fn {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.9em;
+    line-height: inherit;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-htit-htit-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    text-align: center;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-imp {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 5em;
+    text-align: center;
+    margin-bottom: 0.2em;
+    }
+.para-p {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    text-indent: 1em;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-paft {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-paft-alt {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-pf {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 5em;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    }
+.para-pf-alt {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 5em;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    }
+.para-pn-part-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.17em;
+    line-height: inherit;
+    margin-top: 4.29em;
+    text-align: center;
+    margin-bottom: 0.2em;
+    }
+.para-pub {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.9em;
+    line-height: inherit;
+    margin-top: 0.6em;
+    text-align: center;
+    margin-bottom: 0.2em;
+    }
+.para-sp {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 0;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    }
+.para-sp-alt {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 0;
+    text-align: justify;
+    margin-bottom: 0.2em;
+    }
+.para-stit {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-bottom: 5em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-tit-tit-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2.33em;
+    line-height: inherit;
+    margin-bottom: 1.71em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-torntop {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 2.63em;
+    margin-bottom: 1.32em;
+    text-align: justify;
+    }
+.para-fmt-toc-pg {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.42em;
+    line-height: inherit;
+    margin-bottom: 2.82em;
+    text-align: center;
+    margin-top: 0;
+    }
+.para-tocfm {
+    font-style: italic;
+    font-size: 0.9em;
+    line-height: inherit;
+    margin-top: 1em;
+    text-align: center;
+    margin-bottom: 0.2em;
+    }
+.para-tocpt {
+    font-weight: bold;
+    font-size: 1em;
+    line-height: inherit;
+    margin-top: 2.67em;
+    margin-bottom: 1.33em;
+    text-align: center;
+    }
+.para-toc {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.92em;
+    line-height: inherit;
+    text-align: left;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-tocbm {
+    font-style: italic;
+    font-size: 0.9em;
+    line-height: inherit;
+    margin-top: 3.67em;
+    text-align: left;
+    margin-bottom: 0.2em;
+    }
+.para-tocbm-alt {
+    font-style: italic;
+    font-size: 0.9em;
+    line-height: inherit;
+    text-align: left;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.para-socmed {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.92em;
+    line-height: inherit;
+    text-align: center;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    }
+.char-dropcap {
+    font-size: 1.8em;
+    color: #545556;
+    /* #7f8183 */
+    }
+.char-first {
+    font-weight: normal;
+    font-style: normal;
+    }
+.char-fnref {
+    font-weight: normal;
+    font-style: normal;
+    }
+.char-i {
+    font-style: italic;
+    }
+.char-sc {
+    font-weight: normal;
+    font-style: normal;
+    }
+.char-crt-sc {
+    font-weight: normal;
+    font-style: normal;
+    }
+.char-url {
+    font-weight: normal;
+    font-style: normal;
+    }
+.char-cf {
+    font-style: italic;
+    font-size: 0.75em;
+    }
+.char-dropcap-DC::first-letter {
+    font-size: 1.8em;
+    color: #545556;
+    /* #7f8183 */
+    }
+.squeeze85 {
+    margin: 0 7.5%;
+    }
+.squeeze90 {
+    margin: 0 5%;
+    }
+div.ra-torntop {
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #000;
+    }
+div.ra-tocpt {
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #000;
+    }
+div.rb-bmt-ack-pg {
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #000;
+    }
+div.rb-bmt-au-pg {
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #000;
+    }
+div.rb-ct {
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #000;
+    }
+div.rb-fmt-au-pg {
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #000;
+    }
+div.rb-fmt-pro-pg {
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #000;
+    }
+div.rb-fmt-toc-pg {
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #000;
+    }
+div.rb-tocpt {
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #000;
+    }
+.fb_0 {
+    margin-left: 0;
+    }
+.fb_2_8em {
+    margin-left: 2.8em;
+    }
+.cso_18 {
+    font-size: 1.8em;
+    }
+.cso_18-DC::first-letter {
+    font-size: 1.8em;
+    }

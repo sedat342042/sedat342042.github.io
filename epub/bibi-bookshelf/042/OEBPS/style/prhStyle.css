@@ -1,0 +1,795 @@
+/* prhStyle.css
+
+version 1.6.2
+
+Change log (changes made for Phase 2 spec update):
+    added i and b to the reset values
+    added hr.transition and div.transition for section breaks
+    changed div.footnotes to no longer have a child hr and added in border and margin to the CSS class
+    remove mobi specific textbox CSS classes
+    LLS: 11/9/2017 - Removed "em" unit from the drop caps for the zero values
+    LLS: 11/22/2017 - Added padding-top to div.footnote to account for the border
+*/
+/* --------------- reset ---------------  */
+div, span, blockquote {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    line-height: inherit;
+    text-indent: 0;
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin: 1em 0 1em 0;
+    font-weight: normal;
+    line-height: inherit;
+    }
+h1 {
+    font-size: 1.75em;
+    }
+h2 {
+    font-size: 1.5em;
+    }
+h3 {
+    font-size: 1.2em;
+    }
+h4 {
+    font-size: 1em;
+    }
+h5 {
+    font-size: 1em;
+    }
+h6 {
+    font-size: 1em;
+    }
+em, i {
+    font-style: italic;
+    }
+strong, b {
+    font-weight: bold;
+    }
+sup, .superscript {
+    font-size: 0.7em;
+    vertical-align: super;
+    line-height: 0;
+    }
+sub, .subscript {
+    font-size: 0.7em;
+    vertical-align: sub;
+    line-height: 0;
+    }
+img {
+    max-height: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: sub;
+    /* removes descender gap beneath images */
+    }
+a {
+    text-decoration: none;
+    color: #0B4085;
+    -webkit-text-fill-color: #0B4085;
+    }
+hr {
+    border-style: solid;
+    border-width: 1px;
+    border-bottom-width: 0;
+    border-radius: 2px;
+    margin: 1.8em 0 1.8em 0;
+    }
+body {
+    font-size: 1em;
+    line-height: 1.2;
+    margin: 0 2% 0 2%;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-family: Georgia, Palatino, Baskerville, "Times New Roman", serif;
+    }
+/* --------------- hyphenation suppression ---------------  */
+/*added 7.7.2015 to prevent iBooks error when auto-hyphenation is turned off.*/
+h1, h2 {
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -epub-hyphens: auto;
+    }
+/*h1, h2, h3, h4, h5, h6 {
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    hyphens: none;
+    adobe-text-layout: optimizeSpeed;
+}
+MCS: commented-out 6.4.2015 to prevent headers from running off the screen at large font sizes.
+*/
+/* --------------- allow line breaks for long words ---------------  */
+.wrappable {
+    /* http://kenneth.io/blog/2012/03/04/word-wrapping-hypernation-using-css/ */
+    /*-ms-word-break: break-all;
+        	word-break: break-all;*/
+    /* Non standard for webkit */
+    /*word-break: break-word;
+        	-webkit-hyphens: auto;
+        	-moz-hyphens: auto;
+        	-ms-hyphens: auto;*/
+    /* http://www.idpf.org/accessibility/guidelines/content/style/reference.php#css025-css3text */
+    /*-epub-word-break: break-all;
+        	-epub-hyphens: auto;*/
+    }
+/* --------------- system font classes ---------------  */
+.serif {
+    font-family: Georgia, Palatino, Baskerville, "Times New Roman", serif;
+    }
+.sans {
+    font-family: Helvetica, HelveticaNeue, "Helvetica Neue LT", Verdana, Futura, sans-serif;
+    }
+.monospace {
+    font-family: Courier, monospace;
+    }
+/* --------------- core paragraph styles ---------------  */
+p {
+    text-indent: 0;
+    text-align: justify;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0.2em;
+    padding: 0;
+    outline: 0;
+    line-height: inherit;
+    }
+p.indent {
+    text-indent: 1em;
+    }
+/* --------------- text dingbats --------------- */
+.dingbat {
+    margin: 1em 0 1em 0;
+    text-align: center;
+    }
+/* ---------------- section breaks -------------- */
+hr.transition {
+    display: block;
+    border: none;
+    margin: 0;
+    }
+div.transition {
+    margin: 1em 0;
+    text-align: center;
+    }
+/* ---------------  dynamic box & fixed box ---------------  */
+.dynamic_box {
+    display: inline-block;
+    text-align: left;
+    }
+.fixed-box-center {
+    margin-left: 10%;
+    margin-right: 10%;
+    }
+blockquote .fixed-box-center {
+    margin-left: 2%;
+    margin-right: 2%;
+    }
+.fixed-box-right {
+    margin-left: 32%;
+    }
+blockquote .fixed-box-right {
+    margin-left: 29%;
+    }
+/* ---------------  create space above paragraph ---------------  */
+p.spaceabove, div.spaceabove {
+    margin-top: 1em;
+    }
+p.morespaceabove, div.morespaceabove {
+    margin-top: 2.5em;
+    }
+.page_top_padding {
+    margin-top: 10%;
+    }
+.section_break {
+    margin: 1em 0 1em 0;
+    text-align: center;
+    }
+/* --------------- create space to the left of the paragraph --------------- */
+p.spaceleft, div.spaceleft {
+    margin-left: 1em;
+    }
+/* --------------- page breaks --------------- */
+.page_break_before {
+    page-break-before: always;
+    }
+.page_break_after {
+    page-break-after: always;
+    }
+/* --------------- hanging indents --------------- */
+p.hanging {
+    text-indent: -2em;
+    }
+p.hanging0 {
+    margin-left: 2em;
+    text-indent: -2em;
+    }
+p.hanging1 {
+    margin-left: 3em;
+    text-indent: -2em;
+    }
+p.hanging2 {
+    margin-left: 4em;
+    text-indent: -2em;
+    }
+p.hanging3 {
+    margin-left: 5em;
+    text-indent: -2em;
+    }
+p.hanging4 {
+    margin-left: 6em;
+    text-indent: -2em;
+    }
+p.hanging5 {
+    margin-left: 7em;
+    text-indent: -2em;
+    }
+p.hanging6 {
+    margin-left: 8em;
+    text-indent: -2em;
+    }
+.hanging0, .hanging1, .hanging2, .hanging3, .hanging4, .hanging5, .hanging6 {
+    text-align: left;
+    }
+/* --------------- block quotes --------------- */
+blockquote {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 8%;
+    margin-right: 8%;
+    }
+/* --------------- non-unicode fractions --------------- */
+sup.numerator {
+    font-size: 0.7em;
+    vertical-align: super;
+    line-height: 0;
+    }
+span.denominator {
+    font-size: 0.7em;
+    }
+/* --------------- lists --------------- */
+.custom_list {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    }
+.custom_list > p {
+    margin-bottom: 0.2em;
+    margin-top: 0.5em;
+    text-align: left;
+    }
+span.list_ornament {
+    display: inline-block;
+    margin: 0 0.25em 0 0;
+    text-align: right;
+    }
+p.list_ul {
+    text-indent: -1.25em;
+    margin-left: 1.25em;
+    }
+p.list_ul.center {
+    text-indent: 0;
+    margin-left: 0;
+    }
+p.list_ul span.list_ornament {
+    width: 1em;
+    }
+p.list0 {
+    text-indent: -2.25em;
+    margin-left: 2.25em;
+    }
+p.list0 span.list_ornament {
+    width: 2em;
+    }
+p.list1 {
+    text-indent: -3.25em;
+    margin-left: 3.25em;
+    }
+p.list1 span.list_ornament {
+    width: 3em;
+    }
+p.list2 {
+    text-indent: -4.25em;
+    margin-left: 4.25em;
+    }
+p.list2 span.list_ornament {
+    width: 4em;
+    }
+p.list3 {
+    text-indent: -5.25em;
+    margin-left: 5.25em;
+    }
+p.list3 span.list_ornament {
+    width: 5em;
+    }
+p.list_nonindent {
+    margin-top: 0.2em;
+    text-indent: 0;
+    }
+p.list_indent {
+    margin-top: 0.2em;
+    text-indent: 1em;
+    }
+.center > span.list_ornament {
+    text-indent: 0;
+    margin: 0;
+    width: auto;
+    display: inline;
+    }
+.center.list0 {
+    margin-left: 0;
+    text-indent: 0;
+    }
+/* --------------- images --------------- */
+.figure_cover, .figure_title {
+    text-align: center;
+    page-break-inside: avoid;
+    }
+.figure_medium, .figure_small, .figure_extrasmall, .figure_dingbat, .figure_dingbat_small, .figure_dingbat_large, .figure_dingbat_extralarge, .figure_heading {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+    }
+.figure_small_caption, .figure_medium_caption, .figure_extrasmall_caption {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    }
+.figure_border_top {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    page-break-inside: avoid;
+    }
+.figure_border_bottom {
+    text-align: center;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+    }
+.figure_fullpage_caption {
+    text-align: center;
+    page-break-before: always;
+    page-break-inside: avoid;
+    margin-bottom: 1em;
+    }
+.figure_fullspread_full, .figure_fullspread_left {
+    text-align: center;
+    page-break-before: always;
+    page-break-inside: avoid;
+    margin-bottom: 1em;
+    }
+.figure_fullpage, .figure_fullspread {
+    page-break-before: auto;
+    text-align: center;
+    page-break-inside: avoid;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    }
+.figure_fullspread_right {
+    text-align: center;
+    page-break-before: always;
+    page-break-inside: avoid;
+    page-break-after: always;
+    margin-bottom: 1em;
+    }
+.figheading {
+    margin-bottom: 0.5em;
+    }
+div.figcaption {
+    text-align: center;
+    font-size: 0.9em;
+    }
+.figcaption {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1em;
+    }
+p.figcaption {
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+    }
+.figcopyright {
+    text-align: left;
+    font-size: 0.7em;
+    }
+img.inline {
+    vertical-align: -0.075em;
+    }
+img.baseline {
+    vertical-align: baseline;
+    }
+/* --------------- squeeze classes --------------- */
+.squeeze {
+    max-width: 100%;
+    text-indent: 0;
+    }
+.squeeze-amzn {
+    display: none;
+    }
+/* --------------- dropcaps --------------- */
+/* For use with 1.2 paragraph line height */
+p.dropcaps2line::first-letter {
+    font-size: 3em;
+    line-height: 0.7;
+    float: left;
+    margin: 0 0.05em 0 0;
+    }
+p.dropcaps3line::first-letter {
+    font-size: 4.5em;
+    line-height: 0.73em;
+    float: left;
+    margin: 0 0.05em 0 0;
+    }
+/* For use with 1.4 paragraph line height */
+p.twolinedropcap::first-letter {
+    font-size: 3.65em;
+    line-height: 0.7;
+    float: left;
+    margin: 0 0.05em 0 0;
+    }
+p.threelinedropcap::first-letter {
+    font-size: 5.4em;
+    line-height: 0.73;
+    float: left;
+    margin: 0 0.05em 0 0;
+    }
+/* dedicated system font cascades for dropcaps */
+.serif-dc::first-letter {
+    font-family: Georgia, Palatino, Baskerville, "Times New Roman", serif;
+    }
+.sans-dc::first-letter {
+    font-family: Helvetica, HelveticaNeue, "Helvetica Neue LT", Verdana, Futura, sans-serif;
+    }
+.monospace-dc::first-letter {
+    font-family: Courier, monospace;
+    }
+/* --------------- stickupcaps --------------- */
+p.stickupcaps::first-letter {
+    line-height: 0;
+    padding-right: 2px;
+    }
+.stickupcaps::first-letter {
+    font-size: 3em;
+    }
+/* --------------- smallcaps --------------- */
+span.smallcaps, span.small-caps {
+    font-size: 0.85em;
+    }
+/* --------------- character styles --------------- */
+.smaller {
+    font-size: smaller;
+    }
+.xx-small {
+    font-size: xx-small;
+    }
+.x-small {
+    font-size: 0.7em;
+    }
+.medium {
+    font-size: 1em;
+    }
+.large {
+    font-size: 1.2em;
+    }
+.x-large {
+    font-size: 1.5em;
+    }
+.xx-large {
+    font-size: 2em;
+    }
+.larger {
+    font-size: larger;
+    }
+.underline {
+    text-decoration: underline;
+    }
+.overline {
+    text-decoration: overline;
+    }
+.strike, .line-through {
+    text-decoration: line-through;
+    }
+.bold {
+    font-weight: bold;
+    }
+.italic {
+    font-style: italic;
+    }
+.roman {
+    font-style: normal;
+    }
+/* --------------- default toc styles --------------- */
+div.toc_fm, div.toc_bm {
+    margin: 1.2em 0 1.2em 0;
+    }
+.toc_fm, .toc_bm {
+    font-style: italic;
+    }
+div.toc_part {
+    margin: 1.2em 0 1.2em 3%;
+    }
+div.toc_chap, div.toc_sub {
+    margin-left: 3%;
+    }
+p.toc_chap, p.toc_part, p.toc_fm, p.toc_bm, p.toc_sub {
+    text-align: left;
+    text-indent: -6%;
+    margin-left: 6%;
+    margin-bottom: 0.25em;
+    }
+p.toc_part {
+    font-size: 1.2em;
+    line-height: 1.2;
+    }
+p.toc_fm, p.toc_bm, p.toc_sub {
+    font-size: 0.9em;
+    }
+/* --------------- indexes --------------- */
+p.primary {
+    text-align: left;
+    margin-left: 5%;
+    text-indent: -5%;
+    }
+p.secondary {
+    text-align: left;
+    margin-left: 10%;
+    text-indent: -5%;
+    }
+p.tertiary {
+    text-align: left;
+    margin-left: 15%;
+    text-indent: -5%;
+    }
+p.quaternary {
+    text-align: left;
+    margin-left: 20%;
+    text-indent: -5%;
+    }
+span.indexoffset {
+    display: none;
+    }
+/* --------------- footnotes --------------- */
+div.footnote {
+    margin-top: 1em;
+    border-top: 1px solid;
+    padding-top: 0.5em;
+    }
+p.footnote {
+    font-size: 0.9em;
+    text-align: left;
+    padding-left: 2%;
+    text-indent: -2%;
+    }
+p.footnote.indent {
+    text-indent: 1em;
+    }
+/* --------------- poetry --------------- */
+.stanza {
+    margin-top: 1em;
+    }
+p.poetry0 {
+    text-align: left;
+    margin-left: 5%;
+    text-indent: -5%;
+    }
+p.poetry1 {
+    text-align: left;
+    margin-left: 10%;
+    text-indent: -5%;
+    }
+p.poetry2 {
+    text-align: left;
+    margin-left: 15%;
+    text-indent: -5%;
+    }
+p.poetry3 {
+    text-align: left;
+    margin-left: 20%;
+    text-indent: -5%;
+    }
+p.poetry4 {
+    text-align: left;
+    margin-left: 25%;
+    text-indent: -5%;
+    }
+p.poetry5 {
+    text-align: left;
+    margin-left: 30%;
+    text-indent: -5%;
+    }
+p.poetry6 {
+    text-align: left;
+    margin-left: 35%;
+    text-indent: -5%;
+    }
+span.poetryoffset {
+    display: none;
+    }
+/* --------------- default textbox styles --------------- */
+div.textbox {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 4%;
+    }
+.textbox {
+    border: 1px solid;
+    }
+/* --------------- override classes --------------- */
+/*
+ * These classes can be combined with
+ * other classes to override particular
+ * properties. As a result, they should
+ * appear near the end of this file.
+ */
+p.right, div.right {
+    text-align: right;
+    }
+p.left, div.left {
+    text-align: left;
+    }
+p.center, div.center {
+    text-align: center;
+    text-indent: 0;
+    }
+p.no_break, div.no_break {
+    page-break-before: auto;
+    }
+.small, p.small, div.small, span.small, blockquote.small {
+    font-size: 0.9em;
+    }
+blockquote.fullwidth, div.fullwidth, p.fullwidth {
+    margin-left: 0;
+    margin-right: 0;
+    }
+span.figure_inline img {
+    vertical-align: -0.075em;
+    }
+/* --------------- kf8 overrides --------------- */
+@media amzn-kf8 {
+    p.dropcaps2line::first-letter, p.twolinedropcap::first-letter {
+        font-size: 320%;
+        float: left;
+        margin-top: -0.3225em;
+        margin-bottom: -0.3245em;
+        }
+    p.dropcaps3line::first-letter, p.threelinedropcap::first-letter {
+        font-size: 480%;
+        float: left;
+        margin-top: -0.3225em;
+        margin-bottom: -0.3245em;
+        }
+    }
+/* --------------- mobi overrides --------------- */
+@media amzn-mobi {
+    h1.chapter {
+        font-size: x-large;
+        }
+    h1.subchapter {
+        font-size: large;
+        }
+    blockquote {
+        margin: 2em auto 2em auto;
+        }
+    /* indexes */
+    p.primary {
+        margin-left: auto;
+        text-indent: -5%;
+        }
+    p.secondary {
+        margin-left: auto;
+        text-indent: -10%;
+        }
+    p.tertiary {
+        margin-left: auto;
+        text-indent: -15%;
+        }
+    p.quaternary {
+        margin-left: 0;
+        text-indent: -20%;
+        }
+    span.indexoffset {
+        display: inline;
+        }
+    /* poetry */
+    p.poetry0 {
+        margin-left: auto;
+        text-indent: -5%;
+        }
+    p.poetry1 {
+        margin-left: auto;
+        text-indent: -10%;
+        }
+    p.poetry2 {
+        margin-left: auto;
+        text-indent: -15%;
+        }
+    p.poetry3 {
+        margin-left: 0;
+        text-indent: -20%;
+        }
+    p.poetry4 {
+        margin-left: 0;
+        text-indent: -25%;
+        }
+    p.poetry5 {
+        margin-left: 0;
+        text-indent: -30%;
+        }
+    p.poetry6 {
+        margin-left: 0;
+        text-indent: -35%;
+        }
+    span.poetryoffset {
+        display: inline;
+        }
+    /* hanging indents */
+    p.hanging0 {
+        padding: auto;
+        margin: auto;
+        text-indent: -1em;
+        }
+    p.hanging1 {
+        padding: auto;
+        margin: auto;
+        text-indent: -2em;
+        }
+    p.hanging2 {
+        padding: auto;
+        margin: auto;
+        text-indent: -3em;
+        }
+    p.hanging4 {
+        padding: auto;
+        margin: auto;
+        text-indent: -5em;
+        }
+    p.hanging5 {
+        padding: auto;
+        margin: auto;
+        text-indent: -6em;
+        }
+    p.hanging6 {
+        padding: auto;
+        margin: auto;
+        text-indent: -7em;
+        }
+    /* lists */
+    p.list0 {
+        margin: auto;
+        text-indent: -2em;
+        }
+    p.list1 {
+        margin: auto;
+        text-indent: -2em;
+        }
+    p.list2 {
+        margin: auto;
+        text-indent: -2em;
+        }
+    p.list3 {
+        margin: auto;
+        text-indent: -2em;
+        }
+    /* images */
+    .squeeze {
+        width: auto;
+        }
+    /*.squeeze-epub {display:none;}*/
+    /*.squeeze-amzn {display:inline;}*/
+    .mobihide {
+        display: none;
+        }
+    p.figcopyright {
+        text-align: center;
+        }
+    }

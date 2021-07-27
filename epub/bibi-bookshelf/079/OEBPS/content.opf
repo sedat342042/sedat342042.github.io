@@ -1,0 +1,154 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Ateş, Erhan">Erhan Ateş</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7f5e81dc-7589-444d-834a-be3d5f1f2bd1</dc:identifier>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2009-09-22T21:00:00+00:00</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:description>&lt;p&gt;Üçer aylık dönemlerde bebek bakımı ve beslenmesi 
+İlk günler 
+Bebeğin gelişimini destekleyen anne ve baba davranışları
+Uyku düzeni
+Büyüme yüzdeleri
+Gelişim takibi
+Aşılar
+Sünnet
+Acil durumlar&lt;/p&gt;</dc:description>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="_kapak.jpeg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Modern Bebek Bakımı"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Erhan Ateş&quot;: &quot;&quot;}"/>
+  <dc:title>Modern Bebek Bakımı</dc:title>
+<dc:subject>Sağlık</dc:subject>
+<dc:subject>Bebek Bakımı</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">65d8ffac-b4a9-49c5-84d6-f6fc7bd819b8</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786051112688</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ONSOZ_split_000.xhtml" id="ONSOZ_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ONSOZ_split_001.xhtml" id="ONSOZ_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_1.xhtml" id="BOLUM_1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_2.xhtml" id="BOLUM_2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_3.xhtml" id="BOLUM_3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_4.xhtml" id="BOLUM_4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_5.xhtml" id="BOLUM_5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_6.xhtml" id="BOLUM_6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_7.xhtml" id="BOLUM_7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_8.xhtml" id="BOLUM_8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_9.xhtml" id="BOLUM_9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_10.xhtml" id="BOLUM_10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_11.xhtml" id="BOLUM_11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_12.xhtml" id="BOLUM_12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_13.xhtml" id="BOLUM_13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_14.xhtml" id="BOLUM_14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM_15.xhtml" id="BOLUM_15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/SONSOZ.xhtml" id="SONSOZ.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Images/003Y_fmt.jpeg" id="x003Y_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/10756_fmt.jpeg" id="x10756_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/21_fmt.jpeg" id="x21_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/336_fmt.jpeg" id="x336_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/535Enterobiusvermicula_fmt.jpeg" id="x535Enterobiusvermicula_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/800pxHumanNewborn_fmt.jpeg" id="x800pxHumanNewborn_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/8698_fmt.jpeg" id="x8698_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Cardiopulm_fmt.jpeg" id="Cardiopulm_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/cark_fmt.jpeg" id="cark_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/denver_fmt.jpeg" id="denver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00269_fmt.jpeg" id="DSC00269_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00313_fmt.jpeg" id="DSC00313_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00349_fmt.jpeg" id="DSC00349_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00538_fmt.jpeg" id="DSC00538_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00553_fmt.jpeg" id="DSC00553_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00560_fmt.jpeg" id="DSC00560_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00593_fmt.jpeg" id="DSC00593_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00611_fmt.jpeg" id="DSC00611_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00689s_fmt.jpeg" id="DSC00689s_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00701_fmt.jpeg" id="DSC00701_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00732_fmt.jpeg" id="DSC00732_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DSC00757_fmt.jpeg" id="DSC00757_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt.jpeg" id="EAP_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt1.jpeg" id="EAP_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt10.jpeg" id="EAP_fmt10.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt11.jpeg" id="EAP_fmt11.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt12.jpeg" id="EAP_fmt12.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt13.jpeg" id="EAP_fmt13.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt14.jpeg" id="EAP_fmt14.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt15.jpeg" id="EAP_fmt15.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt16.jpeg" id="EAP_fmt16.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt2.jpeg" id="EAP_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt3.jpeg" id="EAP_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt4.jpeg" id="EAP_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt5.jpeg" id="EAP_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt6.jpeg" id="EAP_fmt6.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt7.jpeg" id="EAP_fmt7.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt8.jpeg" id="EAP_fmt8.jpeg" media-type="image/jpeg"/>
+    <item href="Images/EAP_fmt9.jpeg" id="EAP_fmt9.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Fertilized_410_lores_fmt.jpeg" id="Fertilized_410_lores_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/grafikler_doctor_fmt.jpeg" id="grafikler_doctor_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/grafikler_doctor_fmt1.jpeg" id="grafikler_doctor_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/grafikler_doctor_fmt2.jpeg" id="grafikler_doctor_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Helicobacter_fmt.jpeg" id="Helicobacter_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/mevlana_AA_fmt.jpeg" id="mevlana_AA_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ordek_fmt.jpeg" id="ordek_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/PAMUKCUK_fmt.jpeg" id="PAMUKCUK_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/RZFO_SD04_ErythemaToxi_fmt.jpeg" id="RZFO_SD04_ErythemaToxi_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/RZFO_SD06_Infantile_Ac_fmt.jpeg" id="RZFO_SD06_Infantile_Ac_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/RZFO_SD08_SeborrhoiecD_fmt.jpeg" id="RZFO_SD08_SeborrhoiecD_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/RZFO_SD11_DiaperDermat_fmt.jpeg" id="RZFO_SD11_DiaperDermat_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/surmeyasi_fmt.jpeg" id="surmeyasi_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/t1_fmt.jpeg" id="t1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/t2_fmt.jpeg" id="t2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/t3_fmt.jpeg" id="t3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/t4_fmt.jpeg" id="t4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/t5_fmt.jpeg" id="t5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/t6_fmt.jpeg" id="t6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/t7_fmt.jpeg" id="t7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/t8_fmt.jpeg" id="t8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/t9_fmt.jpeg" id="t9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/tarama081_fmt.jpeg" id="tarama081_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/GillSans.ttc" id="GillSans.ttc" media-type="application/octet-stream"/>
+    <item href="Fonts/GillSans0001.ttc" id="GillSans0001.ttc" media-type="application/octet-stream"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="ONSOZ_split_000.xhtml"/>
+    <itemref idref="ONSOZ_split_001.xhtml"/>
+    <itemref idref="BOLUM_1.xhtml"/>
+    <itemref idref="BOLUM_2.xhtml"/>
+    <itemref idref="BOLUM_3.xhtml"/>
+    <itemref idref="BOLUM_4.xhtml"/>
+    <itemref idref="BOLUM_5.xhtml"/>
+    <itemref idref="BOLUM_6.xhtml"/>
+    <itemref idref="BOLUM_7.xhtml"/>
+    <itemref idref="BOLUM_8.xhtml"/>
+    <itemref idref="BOLUM_9.xhtml"/>
+    <itemref idref="BOLUM_10.xhtml"/>
+    <itemref idref="BOLUM_11.xhtml"/>
+    <itemref idref="BOLUM_12.xhtml"/>
+    <itemref idref="BOLUM_13.xhtml"/>
+    <itemref idref="BOLUM_14.xhtml"/>
+    <itemref idref="BOLUM_15.xhtml"/>
+    <itemref idref="SONSOZ.xhtml"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,16 @@
+  @page {
+    margin-bottom: 10pt;
+    margin-top: 10pt;
+    margin-left: 9pt;
+    margin-right: 9pt;
+    }
+body {
+   font-family: 'Arial', sans-serif;
+   font-size: 94%;
+   text-align: justify;
+   text-indent: 22px;
+   line-height: 28px;
+}
+div#coverpage {
+	text-align: center;
+}

@@ -1,0 +1,133 @@
+@font-face {
+  font-family: "Berling LT Std Roman";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/BerlingLTStd-Roman.ttf) format("truetype");
+  }
+@font-face {
+  font-family: "Berling LT Std Roman";
+  font-weight: normal;
+  font-style: italic;
+  src: url(../Fonts/BerlingLTStd-Italic.ttf) format("truetype");
+  }
+@font-face {
+  font-family: "Gill Sans Std";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/GillSansStd.ttf) format("truetype");
+  }
+@font-face {
+  font-family: "GoudyCatTReg";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/GoudyCatTReg.ttf) format("truetype");
+  }
+/*cover*/
+.cover-container {
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+/*copyright-page*/
+.press {
+  margin-bottom: 1em;
+}
+.copyright-page .copy {
+  margin-top: 1em;
+}
+.copyright-page .publisher {
+  margin-top: 2em;
+}
+.copyright-page .pull {
+  padding-left: 0.51em;
+}
+/*titlepage*/
+.title {
+  text-align: center;
+}
+.aut {
+  margin-top: 2em;
+  font: normal normal 1.69em/1.2em "GoudyCat";
+  text-align: center;
+}
+.aut .bfl {
+  font-size: 1.2em;
+}
+.work {
+  font: normal normal 2.75em/1.2em "GoudyCat";
+  margin-top: 0.8em;
+}
+.seri {
+  font-family: "Gill Sans Std";
+  font-size: 0.92em;
+  margin-top: 3em;
+}
+.reward {
+  font-family: "Gill Sans Std";
+  font-size: 1.05em;
+  margin-top: 1.5em;
+}
+.trans {
+  font-family: "Gill Sans Std";
+  font-size: 0.83em;
+  margin-top: 2.5em;
+}
+.logo {
+  margin: 3em auto 0 auto;
+}
+/*biography*/
+.biography .trl {
+  margin-top: 2em;
+}
+/*works*/
+/*dedication*/
+.dedication .container {
+  margin-top: 6em;
+  text-align: right;
+  font: normal normal 0.83em/1.3em "Berling";
+}
+/*epigraph*/
+.epigraph .container {
+  margin-top: 6em;
+  text-align: right;
+  font: normal normal 0.83em/1.3em "Berling";
+}
+/*chapter*/
+.chapter .container {
+  margin-top: 4em;
+}
+.chapter-header {
+  text-align: center;
+  font: normal normal 1.25em/1.3em "Berling";
+  margin-bottom: 2.2em;
+}
+/*acknowledgments*/
+.acknowledgments .container {
+  margin-top: 6em;
+}
+/*common*/
+.si-noteref {
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: 0.75em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+.si-footnotes {
+  margin: 4em 0 1em;
+}
+.si-backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.1em;
+}
+.si-footnote {
+  font-family: "Gill Sans Std";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.75em;
+  margin-bottom: 0.25em;
+}

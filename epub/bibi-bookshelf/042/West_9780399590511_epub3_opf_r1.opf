@@ -1,0 +1,190 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="PrimaryID" version="3.0" xml:lang="en">
+   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <meta content="coverimg" name="cover"/>
+      <meta property="dcterms:modified">2018-01-10T17:18:21Z</meta>
+      <meta content="2018-01-10" name="created"/>
+      <meta content="Easypress PRH_prodM" name="generator"/>
+      <dc:title>Educated</dc:title>
+      <dc:creator id="creator">Tara Westover</dc:creator>
+      <meta property="role" refines="#creator" scheme="marc:relators">aut</meta>
+      <meta property="file-as" refines="#creator">Westover, Tara</meta>
+      <meta property="display-seq" refines="#creator">1</meta>
+      <dc:language>en-US</dc:language>
+      <dc:rights>Copyright © 2018 by Second Sally, Ltd.</dc:rights>
+      <dc:publisher>Random House Publishing Group</dc:publisher>
+      <dc:date>2018-02-20</dc:date>
+      <dc:identifier id="PrimaryID">9780399590511</dc:identifier>
+      <dc:source id="src-id">urn:isbn:9780399590504</dc:source>
+      <meta property="ibooks:specified-fonts">true</meta>
+   <meta content="2018-01-10" name="epubcheckdate"/><meta content="4.0.1" name="epubcheckversion"/><description xmlns="http://purl.org/dc/elements/1.1/">&lt;b&gt;An unforgettable memoir about a young girl who, kept out of school, leaves her survivalist family and goes on to earn a PhD from Cambridge University&lt;/b&gt; &lt;br&gt;&lt;b&gt;&lt;b&gt;One of . . . &lt;i&gt;The New York Times Book Review&lt;/i&gt;'s Must-Know Literary Events of 2018&lt;/b&gt;&lt;br&gt; &lt;b&gt;BBC's Books Look Ahead 2018&lt;/b&gt;&lt;br&gt; &lt;b&gt;&lt;i&gt;Stylist&lt;/i&gt;'s 20 Must-Read Books to Make Room For in 2018&lt;/b&gt;&lt;br&gt; &lt;b&gt;&lt;i&gt;Entertainment Weekly&lt;/i&gt;'s 50 Most Anticipated Books of 2018&lt;/b&gt;&lt;br&gt; &lt;b&gt;&lt;i&gt;Bustle&lt;/i&gt;'s 13 Authors You Need to Be Watching in 2018&lt;/b&gt;&lt;br&gt; &lt;b&gt;&lt;i&gt;LibraryReads&lt;/i&gt;'s February Top 10&lt;/b&gt;&lt;br&gt; &lt;b&gt;&lt;i&gt;Daily Express&lt;/i&gt;'s Must-Have New Reads&lt;/b&gt;&lt;br&gt; &lt;b&gt;&lt;i&gt;The Pool&lt;/i&gt;'s Books We're Looking Forward to in 2018&lt;/b&gt;&lt;br&gt; &lt;b&gt;&lt;i&gt;Vogue&lt;/i&gt;'s What to Read This Fall&lt;/b&gt;&lt;/b&gt;&lt;br&gt;Tara Westover was seventeen the first time she set foot in a classroom. Born to survivalists in the mountains of Idaho, she prepared for the end of the world by stockpiling home-canned peaches and sleeping with her "head-for-the-hills" bag. In the summer...</description>
+</metadata>
+   <manifest>
+      <item href="West_9780399590511_epub3_ncx_r1.ncx" id="toc" media-type="application/x-dtbncx+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_nav_r1.xhtml" id="generatedNavDoc" media-type="application/xhtml+xml" properties="nav"/>
+      <item href="OEBPS/West_9780399590511_epub3_cvi_r1.xhtml" id="cvi" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_tp_r1.xhtml" id="tp" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_cop_r1.xhtml" id="cop" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_toc_r1.xhtml" id="inlinetoc" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_epi_r1.xhtml" id="epi" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_ant_r1.xhtml" id="ant" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_prl_r1.xhtml" id="prl" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_p001_r1.xhtml" id="p001" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c001_r1.xhtml" id="c001" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c002_r1.xhtml" id="c002" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c003_r1.xhtml" id="c003" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c004_r1.xhtml" id="c004" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c005_r1.xhtml" id="c005" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c006_r1.xhtml" id="c006" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c007_r1.xhtml" id="c007" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c008_r1.xhtml" id="c008" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c009_r1.xhtml" id="c009" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c010_r1.xhtml" id="c010" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c011_r1.xhtml" id="c011" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c012_r1.xhtml" id="c012" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c013_r1.xhtml" id="c013" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c014_r1.xhtml" id="c014" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c015_r1.xhtml" id="c015" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c016_r1.xhtml" id="c016" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_p002_r1.xhtml" id="p002" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c017_r1.xhtml" id="c017" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c018_r1.xhtml" id="c018" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c019_r1.xhtml" id="c019" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c020_r1.xhtml" id="c020" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c021_r1.xhtml" id="c021" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c022_r1.xhtml" id="c022" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c023_r1.xhtml" id="c023" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c024_r1.xhtml" id="c024" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c025_r1.xhtml" id="c025" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c026_r1.xhtml" id="c026" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c027_r1.xhtml" id="c027" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c028_r1.xhtml" id="c028" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c029_r1.xhtml" id="c029" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_p003_r1.xhtml" id="p003" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c030_r1.xhtml" id="c030" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c031_r1.xhtml" id="c031" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c032_r1.xhtml" id="c032" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c033_r1.xhtml" id="c033" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c034_r1.xhtml" id="c034" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c035_r1.xhtml" id="c035" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c036_r1.xhtml" id="c036" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c037_r1.xhtml" id="c037" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c038_r1.xhtml" id="c038" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c039_r1.xhtml" id="c039" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_c040_r1.xhtml" id="c040" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_ded_r1.xhtml" id="ded" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_ack_r1.xhtml" id="ack" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_ant1_r1.xhtml" id="ant1" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/West_9780399590511_epub3_ata_r1.xhtml" id="ata" media-type="application/xhtml+xml"/>
+      <item href="OEBPS/style/West_9780399590511_epub3_css_r1.css" id="css1" media-type="text/css"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_001_cvi.jpg" id="coverimg" media-type="image/jpeg" properties="cover-image"/>
+      <item href="OEBPS/style/prhStyle.css" id="extra1" media-type="text/css"/>
+      <item href="OEBPS/style/prhStyle-media-queries.css" id="extra2" media-type="text/css"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_001_r1.jpg" id="img1" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_010_r1.jpg" id="img2" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_011_r1.jpg" id="img3" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_012_r1.jpg" id="img4" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_013_r1.jpg" id="img5" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_014_r1.jpg" id="img6" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_015_r1.jpg" id="img7" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_016_r1.jpg" id="img8" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_017_r1.jpg" id="img9" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_018_r1.jpg" id="img10" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_019_r1.jpg" id="img11" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_002_r1.jpg" id="img12" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_020_r1.jpg" id="img13" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_021_r1.jpg" id="img14" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_022_r1.jpg" id="img15" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_023_r1.jpg" id="img16" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_024_r1.jpg" id="img17" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_025_r1.jpg" id="img18" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_026_r1.jpg" id="img19" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_027_r1.jpg" id="img20" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_028_r1.jpg" id="img21" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_029_r1.jpg" id="img22" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_003_r1.jpg" id="img23" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_030_r1.jpg" id="img24" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_031_r1.jpg" id="img25" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_032_r1.jpg" id="img26" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_033_r1.jpg" id="img27" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_034_r1.jpg" id="img28" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_035_r1.jpg" id="img29" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_036_r1.jpg" id="img30" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_037_r1.jpg" id="img31" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_038_r1.jpg" id="img32" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_039_r1.jpg" id="img33" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_004_r1.jpg" id="img34" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_040_r1.jpg" id="img35" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_041_r1.jpg" id="img36" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_042_r1.jpg" id="img37" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_043_r1.jpg" id="img38" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_044_r1.jpg" id="img39" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_045_r1.jpg" id="img40" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_005_r1.jpg" id="img41" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_006_r1.jpg" id="img42" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_007_r1.jpg" id="img43" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_008_r1.jpg" id="img44" media-type="image/jpeg"/>
+      <item href="OEBPS/images/West_9780399590511_epub3_009_r1.jpg" id="img45" media-type="image/jpeg"/>
+   <item href="OEBPS/next-reads-html/next-reads.xhtml" id="next-reads_template" media-type="application/xhtml+xml"/><item href="OEBPS/next-reads-html/images/next-reads_logo.jpg" id="next-reads_image_1" media-type="image/jpeg"/><item href="OEBPS/next-reads-html/fonts/Fort-Book.otf" id="next-reads_font_1" media-type="application/vnd.ms-opentype"/><item href="OEBPS/next-reads-html/fonts/Shift-BoldItalic.otf" id="next-reads_font_2" media-type="application/vnd.ms-opentype"/><item href="OEBPS/next-reads-html/fonts/Shift-Light.otf" id="next-reads_font_3" media-type="application/vnd.ms-opentype"/></manifest>
+   <spine toc="toc">
+      <itemref idref="cvi" linear="yes"/>
+      <itemref idref="tp" linear="yes"/>
+      <itemref idref="cop" linear="yes"/>
+      <itemref idref="inlinetoc" linear="yes"/>
+      <itemref idref="epi" linear="yes"/>
+      <itemref idref="ant" linear="yes"/>
+      <itemref idref="prl" linear="yes"/>
+      <itemref idref="p001" linear="yes"/>
+      <itemref idref="c001" linear="yes"/>
+      <itemref idref="c002" linear="yes"/>
+      <itemref idref="c003" linear="yes"/>
+      <itemref idref="c004" linear="yes"/>
+      <itemref idref="c005" linear="yes"/>
+      <itemref idref="c006" linear="yes"/>
+      <itemref idref="c007" linear="yes"/>
+      <itemref idref="c008" linear="yes"/>
+      <itemref idref="c009" linear="yes"/>
+      <itemref idref="c010" linear="yes"/>
+      <itemref idref="c011" linear="yes"/>
+      <itemref idref="c012" linear="yes"/>
+      <itemref idref="c013" linear="yes"/>
+      <itemref idref="c014" linear="yes"/>
+      <itemref idref="c015" linear="yes"/>
+      <itemref idref="c016" linear="yes"/>
+      <itemref idref="p002" linear="yes"/>
+      <itemref idref="c017" linear="yes"/>
+      <itemref idref="c018" linear="yes"/>
+      <itemref idref="c019" linear="yes"/>
+      <itemref idref="c020" linear="yes"/>
+      <itemref idref="c021" linear="yes"/>
+      <itemref idref="c022" linear="yes"/>
+      <itemref idref="c023" linear="yes"/>
+      <itemref idref="c024" linear="yes"/>
+      <itemref idref="c025" linear="yes"/>
+      <itemref idref="c026" linear="yes"/>
+      <itemref idref="c027" linear="yes"/>
+      <itemref idref="c028" linear="yes"/>
+      <itemref idref="c029" linear="yes"/>
+      <itemref idref="p003" linear="yes"/>
+      <itemref idref="c030" linear="yes"/>
+      <itemref idref="c031" linear="yes"/>
+      <itemref idref="c032" linear="yes"/>
+      <itemref idref="c033" linear="yes"/>
+      <itemref idref="c034" linear="yes"/>
+      <itemref idref="c035" linear="yes"/>
+      <itemref idref="c036" linear="yes"/>
+      <itemref idref="c037" linear="yes"/>
+      <itemref idref="c038" linear="yes"/>
+      <itemref idref="c039" linear="yes"/>
+      <itemref idref="c040" linear="yes"/>
+      <itemref idref="ded" linear="yes"/>
+      <itemref idref="ack" linear="yes"/>
+      <itemref idref="ant1" linear="yes"/>
+      <itemref idref="ata" linear="yes"/>
+   <itemref idref="next-reads_template" linear="yes"/></spine>
+   <guide>
+      <reference href="OEBPS/West_9780399590511_epub3_cvi_r1.xhtml" title="Cover" type="cover"/>
+      <reference href="OEBPS/West_9780399590511_epub3_toc_r1.xhtml" title="Start" type="start"/>
+      <reference href="OEBPS/West_9780399590511_epub3_toc_r1.xhtml" title="Text" type="text"/>
+      <reference href="OEBPS/West_9780399590511_epub3_toc_r1.xhtml" title="Table of Contents" type="toc"/>
+   </guide>
+</package>

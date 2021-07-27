@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c87cc926-3641-4b37-b83a-699951bf5452</dc:identifier>
+    <dc:title>Kütübü Sitte - 17</dc:title>
+    <dc:creator opf:role="aut">İbrahim Canan</dc:creator>
+    <dc:language>en</dc:language>
+    <meta content="0.7.3" name="Sigil version" />
+    <dc:date opf:event="modification">2013-10-23</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/132-%20%C4%B0bn%20Mace%27nin%20Ziyadeleri.htm" id="x132-_İbn_Mace_nin_Ziyadeleri.htm" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="x132-_İbn_Mace_nin_Ziyadeleri.htm" />
+  </spine>
+  <guide />
+</package>

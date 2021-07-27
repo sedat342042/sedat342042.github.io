@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="585597cf-b77e-4439-9a94-32a658ff6992" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.11)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tribes: We Need You to Lead Us</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="c54f5e99-7060-424b-89af-4622b667c2b1" playOrder="1">
+      <navLabel>
+        <text>Begin Reading</text>
+      </navLabel>
+      <content src="Tribes_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d50e0abb-8575-4734-b348-662232d13b5c" playOrder="2">
+      <navLabel>
+        <text>Acknowledgments and the Story of Tribes</text>
+      </navLabel>
+      <content src="Tribes_split_010.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

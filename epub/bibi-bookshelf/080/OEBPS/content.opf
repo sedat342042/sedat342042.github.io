@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Gaiman, Neil">Neil Gaiman</dc:creator>
+<dc:identifier id="BookId">AWP-B07190B1-3672-4C6D-AD7E-6DA617BFA05D</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2007-03-12T22:00:00+00:00</dc:date>
+  <dc:title>Yıldız Tozu</dc:title>
+<meta name="calibre:title_sort" content="Yıldız Tozu"/>
+<dc:publisher>İthaki</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fantastik</dc:subject>
+<dc:subject>Aşk</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:description>&lt;p&gt;"Mucizelerle dolu bir hikaye... Gaiman yeni gelenekte bir peri masalı ortaya çıkarmak için son derece zengin bir dil, doğal bir bilgelik, iyi bir mizah ve biraz da karanlık kullanıyor."
+Publishers Weekly
+
+
+Kadim İngiltere'nin huzurlu tarlaları ve çayırlarında, bir granit çıkıntısının üzerinde 600 yıldır duran küçük bir köy vardır. Hemen doğuda köye ismini veren upuzun bir taş duvar yükselir. İşte burada, Duvar Köyü'nde, genç Tristran Thorn kalbini, akıllara zarar veren güzellikteki Victoria Forester'a kaptırır. Ve işte burada, yepyeni bir Ekim arifesinde, Tristran aşkına bir söz verir - bu öyle hızlı edilmiş bir yemindir ki, onu duvardaki tek gedikten dışarı, çayırların ötesine ve hayatının en heyecanlı macerasına yollayacaktır. 
+"Gaiman hikaye dünyasının zengin bir kaynağı ve bizler her açıdan ona sahip olduğumuz için şanslıyız."
+Stephen King
+
+
+"Yetişkinler için aşk, tehlike, arkadaşlık, büyü ve macerayla dolu bir peri masalı. Nüktedanlık ve zeki bir üslupla bezeli bu kısa roman insanda çok güzel bir memnuniyet yaratıyor." 
+Detroit Free Press
+
+
+
+Not: Başrollerini Robert De Niro, Michelle Pfeiffer, Sienna Miller, Claire Danes, Ben Barnes, Rupert Everett , Charlie Cox, Kate Magowan ile Peter O'Toole'un üstlendiği "STARDUST-Yıldız Tozu", 5 Ekim'de sinema severlerle buluşuyor.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Neil Gaiman&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">79d3105a-2e65-49c2-b5a1-8d90b6e0419e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789756902509</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Text/sunus.html" id="sunus.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/turku.html" id="turku.html" media-type="application/xhtml+xml"/>
+    <item href="Text/01.html" id="x01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/02.html" id="x02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/03.html" id="x03.html" media-type="application/xhtml+xml"/>
+    <item href="Text/04.html" id="x04.html" media-type="application/xhtml+xml"/>
+    <item href="Text/05.html" id="x05.html" media-type="application/xhtml+xml"/>
+    <item href="Text/06.html" id="x06.html" media-type="application/xhtml+xml"/>
+    <item href="Text/07.html" id="x07.html" media-type="application/xhtml+xml"/>
+    <item href="Text/08.html" id="x08.html" media-type="application/xhtml+xml"/>
+    <item href="Text/09.html" id="x09.html" media-type="application/xhtml+xml"/>
+    <item href="Text/10.html" id="x10.html" media-type="application/xhtml+xml"/>
+    <item href="Text/sonsoz.html" id="sonsoz.html" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="sunus.html"/>
+    <itemref idref="turku.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="x05.html"/>
+    <itemref idref="x06.html"/>
+    <itemref idref="x07.html"/>
+    <itemref idref="x08.html"/>
+    <itemref idref="x09.html"/>
+    <itemref idref="x10.html"/>
+    <itemref idref="sonsoz.html"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
