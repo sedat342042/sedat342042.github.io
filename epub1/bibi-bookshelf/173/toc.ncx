@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{188140D6-3D8E-44B6-A318-5711ABE44F37}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="calibre (2.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tanrının Kırbacı Atilla</text>
+  </docTitle>
+ <navMap>
+    
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="kapak.xhtml"/>
+    </navPoint>
+    
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Birinci Kitap</text>
+      </navLabel>
+      <content src="kitap1.xhtml"/>
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Kitap Üzerine</text>
+      </navLabel>
+      <content src="uzerine1.xhtml"/>
+    </navPoint>
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="kunye1.xhtml"/>
+    </navPoint> 
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="ic_kapak1.xhtml"/>
+    </navPoint>   
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Başlangıç</text>
+      </navLabel>
+      <content src="baslangic1.xhtml"/>
+    </navPoint>
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>YOL</text>
+      </navLabel>
+      <content src="1.xhtml"/>
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>1. Roma'daki Rehine</text>
+      </navLabel>
+      <content src="1_1.xhtml"/>
+    </navPoint>  
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>2. Özgürlüğe Açılan Yeraltı Mezarları</text>
+      </navLabel>
+      <content src="1_2.xhtml"/>
+    </navPoint>     
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>3. Got Ateşlerinin Altında</text>
+      </navLabel>
+      <content src="1_3.xhtml"/>
+    </navPoint> 
+           
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>4. Dünyanın Direği Parçalanıyor</text>
+      </navLabel>
+      <content src="1_4.xhtml"/>
+    </navPoint>                      
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>5. Castorius Parşömeni</text>
+      </navLabel>
+      <content src="1_5.xhtml"/>
+    </navPoint>                                             
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>6. Greka Adlı Kız</text>
+      </navLabel>
+      <content src="1_6.xhtml"/>
+    </navPoint> 
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>7. Amazon Dansı</text>
+      </navLabel>
+      <content src="1_7.xhtml"/>
+    </navPoint> 
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>8. Lanetli Sular</text>
+      </navLabel>
+      <content src="1_8.xhtml"/>
+    </navPoint>     
+           
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>9. Aetius</text>
+      </navLabel>
+      <content src="1_9.xhtml"/>
+    </navPoint>            
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>10. Kudretin Rengi</text>
+      </navLabel>
+      <content src="1_10.xhtml"/>
+    </navPoint> 
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>11. Kehribar Yolu Üzerine</text>
+      </navLabel>
+      <content src="1_11.xhtml"/>
+    </navPoint> 
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>12. Karaton Kağan</text>
+      </navLabel>
+      <content src="1_12.xhtml"/>
+    </navPoint>     
+    </navPoint> 
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>ENGİNLER</text>
+      </navLabel>
+      <content src="2.xhtml"/>
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>13. Tuna'da Sessiz Yıllar</text>
+      </navLabel>
+      <content src="2_13.xhtml"/>
+    </navPoint>
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>14. Maiotia Bataklık Denizi</text>
+      </navLabel>
+      <content src="2_14.xhtml"/>
+    </navPoint>    
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>15. Bir İmparatoriçenin Laneti</text>
+      </navLabel>
+      <content src="2_15.xhtml"/>
+    </navPoint>    
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>16. Taht Hırsızı</text>
+      </navLabel>
+      <content src="2_16.xhtml"/>
+    </navPoint>
+           
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>17. İmparatorluğun Kraliçesi</text>
+      </navLabel>
+      <content src="2_17.xhtml"/>
+    </navPoint>   
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>18. Çobanların Zamanı</text>
+      </navLabel>
+      <content src="2_18.xhtml"/>
+    </navPoint>        
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>19. Burgundların Kalleşliği</text>
+      </navLabel>
+      <content src="2_19.xhtml"/>
+    </navPoint>     
+              
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>20. Entrikalar ve Şimşekler</text>
+      </navLabel>
+      <content src="2_20.xhtml"/>
+    </navPoint> 
+                 
+    </navPoint>                
+              
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Arka Kapak</text>
+      </navLabel>
+      <content src="1arka_kapak.xhtml"/>
+    </navPoint>
+    </navPoint>
+    
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>İkinci Kitap</text>
+      </navLabel>
+      <content src="kitap2.xhtml"/>
+              
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Kitap Üzerine</text>
+      </navLabel>
+      <content src="uzerine2.xhtml"/>
+    </navPoint>
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="kunye2.xhtml"/>
+    </navPoint> 
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="ic_kapak2.xhtml"/>
+    </navPoint>   
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>ENGİNLER</text>
+      </navLabel>
+      <content src="2_2.xhtml"/>
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>21. Ren Kıyısındaki İntikam</text>
+      </navLabel>
+      <content src="2_21.xhtml"/>
+    </navPoint> 
+              
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>22. Vandallar Geliyor</text>
+      </navLabel>
+      <content src="2_22.xhtml"/>
+    </navPoint>   
+              
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>23. Kardeş Katli</text>
+      </navLabel>
+      <content src="2_23.xhtml"/>
+    </navPoint> 
+              
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>24. Konstantinopolis Depremi</text>
+      </navLabel>
+      <content src="2_24.xhtml"/>
+    </navPoint>    
+              
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>25. Hadımların Komplosu</text>
+      </navLabel>
+      <content src="2_25.xhtml"/>
+    </navPoint> 
+              
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>26. Sevgili Attila</text>
+      </navLabel>
+      <content src="2_26.xhtml"/>
+    </navPoint>  
+              
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>27. Bir Hun Ziyafeti</text>
+      </navLabel>
+      <content src="2_27.xhtml"/>
+    </navPoint> 
+              
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>28. Düşen Kartallar</text>
+      </navLabel>
+      <content src="2_28.xhtml"/>
+    </navPoint>           
+    </navPoint>   
+          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>HEDEF</text>
+      </navLabel>
+      <content src="3.xhtml"/>
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>29. De Bello Gallicio</text>
+      </navLabel>
+      <content src="3_29.xhtml"/>
+    </navPoint>   
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>30. Orleans Köprüsü</text>
+      </navLabel>
+      <content src="3_30.xhtml"/>
+    </navPoint> 
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>31. Tehdit</text>
+      </navLabel>
+      <content src="3_31.xhtml"/>
+    </navPoint> 
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>32. Frank Tahtı Uğruna Savaş</text>
+      </navLabel>
+      <content src="3_32.xhtml"/>
+    </navPoint>   
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>33. Catalaunum Ovası</text>
+      </navLabel>
+      <content src="3_33.xhtml"/>
+    </navPoint>  
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>34. İmparatorlar, Krallar ve Generaller</text>
+      </navLabel>
+      <content src="3_34.xhtml"/>
+    </navPoint>
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>35. Aquileia Leylekleri</text>
+      </navLabel>
+      <content src="3_35.xhtml"/>
+    </navPoint>
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>36. Mincio'daki Mucize</text>
+      </navLabel>
+      <content src="3_36.xhtml"/>
+    </navPoint>
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>37. Düğün Gecesi</text>
+      </navLabel>
+      <content src="3_37.xhtml"/>
+    </navPoint> 
+                
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>38. Oğullar</text>
+      </navLabel>
+      <content src="3_38.xhtml"/>
+    </navPoint>                             
+    </navPoint>            
+                    
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>EK</text>
+      </navLabel>
+      <content src="4.xhtml"/>
+                          
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="4_1.xhtml"/>
+    </navPoint>
+                        
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>ZAMAN ÇİZELGESİ</text>
+      </navLabel>
+      <content src="4_2.xhtml"/>
+    </navPoint>
+                        
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>KARAKTERLER</text>
+      </navLabel>
+      <content src="4_3.xhtml"/>
+    </navPoint>
+                        
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>KAVİMLER</text>
+      </navLabel>
+      <content src="4_4.xhtml"/>
+    </navPoint>
+                    
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>ATİLLA ZAMANINDA YER, BÖLGE VE AKARSU İSİMLERİ</text>
+      </navLabel>
+      <content src="4_5.xhtml"/>
+    </navPoint> 
+                    
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>AÇIKLAMALAR</text>
+      </navLabel>
+      <content src="4_6.xhtml"/>
+    </navPoint>   
+                        
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>KAYNAKÇA</text>
+      </navLabel>
+      <content src="4_7.xhtml"/>
+    </navPoint> 
+                        
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>SOYAĞACI</text>
+      </navLabel>
+      <content src="4_8.xhtml"/>
+    </navPoint>  
+    </navPoint>
+                    
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Arka Kapak</text>
+      </navLabel>
+      <content src="2_arka_kapak.xhtml"/>
+    </navPoint>     
+        </navPoint>        
+        
+  </navMap>
+</ncx>

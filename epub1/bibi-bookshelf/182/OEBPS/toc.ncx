@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:245ee4d2-54eb-407d-bde5-5daba4201e86" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Aşk ve Şehvet Üzerine</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>III. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Ask_ve_Sehvet_Uzerine_split_003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>IV. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Ask_ve_Sehvet_Uzerine_split_004.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

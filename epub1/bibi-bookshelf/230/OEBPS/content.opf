@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Tahir, Kemal">Kemal Tahir</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">d2a0835d-ea7f-453d-bcc8-c782cc662a08</dc:identifier>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2005-12-19T22:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Kemal Tahir, ölümünden sonra yayımlanan romanı Karılar Koğuşu'nda Malatya Cezaevi deneyimlerini, İkinci Dünya Savaşı yıllarının Türkiyesini anlatmak için kullanır. Türkiye, İkinci Dünya Savaşı'na katılacak mı? Katılacaksa Almanların yanında mı müttefiklerin yanında mı yer alacak? Savaşın belirsizliği, insanları daha büyük bir sefalete sürüklerken Murat, mahkumların seslendikleri biçimiyle İstanbullu, hapis hayatının zorlukları içinde, giderek bayağılaşan, bayağılaştıkça her şeyi yapabilen insanların yaşamına tanık olur. Bu tanıklık, "kötü yola" düşmüş kadınların, cezaevine gelmesiyle yeni bir biçim kazanır. "Ahlak ve namus kavramları, para ve güç karşısında elden ele gezer bir haldeyken tutuklu olmakla özgür olmak arasındaki fark nedir?" diye sorar kendi kendine Murat. İdama mahkum edilen Hanım, Malatya Genelevi'nden gelen Tözey, Gardiyan Şefika ve küçük mahkum Aduş... Her birinin birbirinden farklı hikayesi, Murat'ın sorgulamalarıyla birlikte, okura, Anadolu kadınının hapisanede de bitmeyen çilesini anlatıyor.
+&lt;/p&gt;</dc:description>
+    <meta content="Karılar Koğuşu" name="calibre:title_sort"/>
+    <meta content="2014-11-18T11:33:44.888000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kemal Tahir&quot;: &quot;&quot;}"/>
+  <dc:title>Karılar Koğuşu</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">236fe2cc-d78c-4535-ad28-f0a3acadcf5f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752731301</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="index_split_000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

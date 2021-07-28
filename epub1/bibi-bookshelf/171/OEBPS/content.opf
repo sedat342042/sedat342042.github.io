@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Ataman, Yekta">Yekta Ataman</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f18cbf23-90f2-47e6-a277-f1e58db00ef6</dc:identifier>
+    <dc:date>1971-01-03T22:00:00+00:00</dc:date>
+    <dc:publisher>Varlık Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Okurlarına şimdiye kadar Fransız, Amerikan, Macar, Romen, Çekoslovak ve Rus hikâyeleri antolojilerini sunmuş olan yayınevimiz şimdi de size, toplu olarak İskandinavya ülkeleri hikâyelerinden seçilmiş bir demeti sunuyor bu kitapla. İsveç, İzlanda, Danimarka ve Norveç'in en iyi hikayecilerini biyografileriyle ve en karakteristik hikayeleriyle tanıtan hu eseri Yekta Ataman titizlikle hazırlayıp dilimize çevirmiştir. Bu kitahı da bundan önceki çeviri antolojilerimiz gibi beğeneceğinizden şüphe etmiyoruz. (Arka kapak) 
+                    &lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="İskandinav Hikayeleri Antolojisi"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yekta Ataman&quot;: &quot;&quot;}"/>
+  <dc:title>İskandinav Hikayeleri Antolojisi</dc:title>
+<dc:subject>Hikaye</dc:subject>
+<dc:subject>İskandinav</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">6c7e1f78-1c8b-4dd7-b8a4-918812f4f957</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Baslik.xhtml" id="Baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Icindekiler.xhtml" id="Icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Onsoz.xhtml" id="Onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Main.xhtml" id="Main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Notlar.xhtml" id="Notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/Cover.jpg" id="Cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml"/>
+    <itemref idref="Baslik.xhtml"/>
+    <itemref idref="Icindekiler.xhtml"/>
+    <itemref idref="Onsoz.xhtml"/>
+    <itemref idref="Main.xhtml"/>
+    <itemref idref="Notlar.xhtml"/>
+  </spine>
+  <guide/>
+</package>

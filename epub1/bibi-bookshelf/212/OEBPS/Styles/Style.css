@@ -1,0 +1,49 @@
+body {
+   font-family: "Garamond", "times", "sans-serif";
+   text-indent: 20px;
+   text-align: justify;
+   margin-left: 10pt;
+   margin-right: 10pt;
+}
+
+
+h2 {
+	text-align: center;
+}
+
+p {
+    margin-top: 2pt;
+    margin-bottom: 2pt;
+}
+
+blockquote.classy {
+  font-size: 100%;
+  font-style: normal;
+  padding: 8px;
+  background-color: #faebbc;
+  border-top: 1px solid #e1cc89;
+  border-bottom: 1px solid #e1cc89;
+  margin: 15px;
+  background-image: url(../Images/quoteopen.gif);
+  background-position: top left;
+  background-repeat: no-repeat;
+  text-indent: 23px;
+  }
+  
+blockquote.classy div {
+    	display: block;
+    	background-image: url(../Images/quoteclose.gif);
+    	background-repeat: no-repeat;
+    	background-position: bottom right;
+  	}
+
+blockquote.modern {
+  font-size: 100%;
+  font-style: normal;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  padding-left: 10px;
+  border-left: 3px solid #ccc;
+} 
+

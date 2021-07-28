@@ -1,0 +1,92 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="More, Thomas">Thomas More</dc:creator>
+<dc:publisher>Kaynak Yayınları</dc:publisher>
+    <meta content="Ütopya" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;Ütopya kelimesi, Thomas More tarafından üretilmiş ve günümüze kadar
+gelmiştir. More, böylece aynı anda “İyi Yer” ve “Yok Yer”, yani “Olmayan
+Yer” anlamını taşıyan bir kinaye yapmıştır.
+1516 yılında yazılan Ütopya’da More, var olmayan bir kurgusal adada
+Ütopyalıları, onların yaşam biçimlerini, mülkiyet ilişkilerini ve aile yapılarını
+anlatır. More, Ütopya ile kendi ideal düzenini kurarken döneminin
+İngilteresine de ağır bir eleştiri getirir.
+Ütopya’da Thomas More okura, “Herşeyin herkese ait olduğu, zengin ve
+fakir kavramlarının olmadığı, insanların bütün ihtiyaçlarının karşılandığı” bir
+dünya taslağı sunar.&lt;/p&gt;</dc:description>
+    <meta content="2011-11-05T21:11:16+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2006-02-04T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4d13a98f-4401-4717-b220-65c2819b72fb</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-03-23</dc:date>
+  <dc:title>Ütopya</dc:title>
+<dc:subject>Politik</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Distopya</dc:subject>
+<dc:subject>Bilim kurgu</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Thomas More&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">12da6912-ffd7-4ae2-85c0-f5ea8f46979e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9781421806730</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015_split_000.xhtml" id="Section0015.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015_split_001.xhtml" id="Section0015.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="index_split_005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css1" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="index_split_000.html"/>
+    <itemref idref="Section0015.xhtml2"/>
+    <itemref idref="Section0015.xhtml1"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="index_split_005.html"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

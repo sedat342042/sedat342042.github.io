@@ -1,0 +1,133 @@
+/*gövde,paragraf*/
+body {
+  text-align: justify;
+  text-indent: 1em;
+  margin-left: 1.2em;
+  margin-right: 1.2em;
+  line-height: 1.2em;
+}
+p.giris {
+  font-size: small;
+  text-indent: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.2em;
+}
+p {
+  font-size: small;
+  text-indent: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.2em;
+  orphans: 2;
+  widows: 2;
+}
+p.kitap-adi {
+  font-size: large;
+  margin-top: 4em;
+  margin-bottom: 0;
+  line-height: 1em;
+  orphans: 2;
+  widows: 2;
+}
+p.yayıevi {
+  font-size: small;
+  text-indent: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1em;
+  orphans: 2;
+  widows: 2;
+}
+p.ozdeyisisim {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 10%;
+  margin-top: 3%;
+  text-align: right;
+  text-indent: 1em;
+}
+p.ozdeyis {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 10%;
+  margin-right: 0;
+  margin-top: 1em;
+  text-indent: -10%;
+}
+p.girdisiz {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 6%;
+  text-indent: 0%;
+}
+.blok {
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 2em;
+  margin-left: 8em;
+  margin-right: 4em;
+  margin-top: 0.5em;
+}
+.ortala {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+  text-indent: 0%;
+}
+/*bölüm numara, başlık*/
+h2.bölüm-no {
+  font-weight: bold;
+  text-align: center;
+  page-break-after: avoid;
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+h2.bölüm-ad {
+  font-weight: bold;
+  text-align: center;
+  page-break-after: avoid;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+/*Kitap adı, yazar, yayınevi*/
+p.yayınevi {
+  text-align: center;
+  line-height: 1.1em;
+}
+h1 {
+  font-family: "Exo", sans-serif;
+  text-align: right;
+  margin-top: 4em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  display: block;
+}
+h2.kitap-alt-adı {
+  text-align: center;
+  margin-bottom: 1em;
+}
+h2.kitap-yazar {
+  margin-top: 2em;
+  text-align: center;
+  margin-bottom: 2em;
+}
+/*logo, resim, harita*/
+p.logo {
+  margin-top: 1em;
+  text-indent: 0;
+  text-align: center;
+  margin-bottom: 0;
+}
+@font-face {
+  font-family: "Exo";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Exo-SemiBold.otf);
+  }

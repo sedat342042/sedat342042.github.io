@@ -1,0 +1,36 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre3 {
+    font-style: italic
+    }
+.scenebreak {
+    display: block;
+    page-break-before: avoid;
+    text-align: center;
+    text-indent: 0%;
+    margin: 1em 0
+    }
+.softbreak {
+    display: block;
+    page-break-before: avoid;
+    text-align: center;
+    margin: 0.5em 0 1em
+    }
+.whitespace {
+    display: block;
+    text-align: center;
+    margin: 0
+    }

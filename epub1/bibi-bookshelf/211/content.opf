@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf"><dc:title>KL-Uzak Varlıkların Yalnızlığı </dc:title>
+<dc:subject></dc:subject>
+<dc:description></dc:description>
+<dc:language>tr-TR</dc:language>
+<dc:creator opf:role="aut">Bilinmeyen yazar</dc:creator><dc:identifier id="uuid">{4FB5CA35-B5F9-4E23-9ACA-67782E6A9C40}</dc:identifier>
+</metadata>
+<manifest>
+<item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+<item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+<item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+<item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+<item href="main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+<item href="main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+<item href="main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+<item href="main-7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+<item href="main-8.xhtml" id="id8" media-type="application/xhtml+xml"/>
+<item href="main-9.xhtml" id="id9" media-type="application/xhtml+xml"/>
+<item href="main.css" id="id10" media-type="text/css"/>
+<item href="toc.ncx" id="id11" media-type="application/x-dtbncx+xml"/>
+</manifest>
+<spine toc="id11"><itemref idref="id0"/><itemref idref="id1"/><itemref idref="id2"/><itemref idref="id3"/><itemref idref="id4"/><itemref idref="id5"/><itemref idref="id6"/><itemref idref="id7"/><itemref idref="id8"/><itemref idref="id9"/></spine></package>

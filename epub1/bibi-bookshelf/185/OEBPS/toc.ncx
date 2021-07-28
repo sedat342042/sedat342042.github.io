@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:f255c846-5617-4592-97ee-af018e9f1f0e" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Eski Bahçe</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DÖNÜŞ</text>
+      </navLabel>
+      <content src="Text/E_01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ESKİ BAHÇE</text>
+      </navLabel>
+      <content src="Text/E_02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>KAR</text>
+      </navLabel>
+      <content src="Text/E_03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>NAVONA ALANI</text>
+      </navLabel>
+      <content src="Text/E_04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>GABUZZİ</text>
+      </navLabel>
+      <content src="Text/E_05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>AMERİKALI KOMŞUM WILLY</text>
+      </navLabel>
+      <content src="Text/E_06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>MOTORCU İBRAHİM’İN BAHÇELİ EVLERİ</text>
+      </navLabel>
+      <content src="Text/E_07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>CAFE BOULEVARD</text>
+      </navLabel>
+      <content src="Text/E_08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>DİSKOTEK BRAZİL</text>
+      </navLabel>
+      <content src="Text/E_09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>ESKİ LİMAN</text>
+      </navLabel>
+      <content src="Text/E_10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>HAYALET OĞUZ</text>
+      </navLabel>
+      <content src="Text/E_11.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

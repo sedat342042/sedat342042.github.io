@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Ajdukiewicz, Kazimierz">Kazimierz Ajdukiewicz</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:be59980d-e467-427e-93b6-80fefa0f63c9</dc:identifier>
+    <dc:date>2013-11-25T22:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x30bgyzd.jpg"/>
+    <meta content="Felsefeye Giriş Temel Kavramlar ve Kuramlar" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Kazimierz Ajdukiewicz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:publisher>Gündoğan Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; "&gt;Kazimierz Adjukiewicz ünlü Polonyalı mantıkçı ve felsefecidir. Dilden mantığa, felsefeden öğretime, bilimden sosyal konulara dek hemen her alanda kalem oynatmış olan Adjukiewicz çağımızın en önemli yazar ve düşünürlerindendir. &lt;/span&gt;&lt;br style="text-align: start; text-indent: 0px; "&gt;&lt;br style="text-align: start; text-indent: 0px; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; "&gt;Onun bu kitabı, yazarın görüşlerinin varlığını arka planda hissettirerek, bir dizi yanıtın savunuculuğunu yapmak yerine, okuyucuya felsefede sorulan temel sorularla ve bu sorulara verilen yanıtlarla tanıştırmayı amaçlamaktadır. Güçlü ve açık bir zihin kitabın her sayfasında işbaşındadır. Kitap yalnızca anlaşılması oldukça kolay olan bir felsefeye giriş kitabı olmakla kalmayıp, okuyucuya birkaç satır içinde bir arguman ya da öğretinin özüne nüfuz etme olanağı sağlayan olağanüstü anlaşılır bir eserdir. &lt;/span&gt;&lt;br style="text-align: start; text-indent: 0px; "&gt;&lt;br style="text-align: start; text-indent: 0px; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; "&gt;Kitabın İngilizcede yayınlanmış diğer giriş kitapları karşısındaki bir başka avantajı da Ada Avrupasının felsefe geleneğine yabancı kalmış olan Diyalektik materyalizm ve Fenomenoloji gibi öğretilerek öncelik vermesidir.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-09-18</dc:date>
+  <dc:title>Felsefeye Giriş Temel Kavramlar ve Kuramlar</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Kuram</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2ac7cdc5-d9c4-4c17-b6c9-f75c6666b28e</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:be59980d-e467-427e-93b6-80fefa0f63c9</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.html" id="onsoz.html" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.html" id="giris.html" media-type="application/xhtml+xml"/>
+    <item href="Text/I. kisim.html" id="I._kisim.html" media-type="application/xhtml+xml"/>
+    <item href="Text/001.html" id="x001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="x002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="x003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="x004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="x005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/II. kisim.html" id="II._kisim.html" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="x006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="x007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="x008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="x009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="x010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="x011.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kunye.css" id="kunye.css" media-type="text/css"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Images/30bgyzd.jpg" id="x30bgyzd.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="onsoz.html"/>
+    <itemref idref="giris.html"/>
+    <itemref idref="I._kisim.html"/>
+    <itemref idref="x001.html"/>
+    <itemref idref="x002.html"/>
+    <itemref idref="x003.html"/>
+    <itemref idref="x004.html"/>
+    <itemref idref="x005.html"/>
+    <itemref idref="II._kisim.html"/>
+    <itemref idref="x006.html"/>
+    <itemref idref="x007.html"/>
+    <itemref idref="x008.html"/>
+    <itemref idref="x009.html"/>
+    <itemref idref="x010.html"/>
+    <itemref idref="x011.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

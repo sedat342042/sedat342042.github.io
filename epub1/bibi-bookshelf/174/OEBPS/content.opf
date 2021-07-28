@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Storm, Theodor">Theodor Storm</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:1ff401d2-4983-48a7-9ea6-620ad89c9dfa</dc:identifier>
+    <dc:date>2014-04-28T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="Kapak.jpg"/>
+  <dc:title>Kır Atlı</dc:title>
+<meta name="calibre:title_sort" content="Kır Atlı"/>
+<dc:publisher>Yeşil Elma Yayıncılık</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Alman Edebiyatı</dc:subject>
+<dc:description>&lt;p&gt;Genç kız, parmağını dudaklarına götürdü; babası, niyetini öğrense, onu evden bırakmazdı; bunu çok iyi biliyordu. Fakat çabucak kendini toparladı. "Uyuyamadım, baba!" diye
+yanıt verdi; "Herkesle birlikte çayıra gidip çalışmak istiyorum; bu sabah öyle hoş bir serinlik var ki..."
+...Oda kapısını dikkatle açtı. Sokak kapısından dışarıya çıkınca, uşağın her iki hizmetçi kızı yine uyandırdığını işitti. "Böyle yalan söylemek zorunda kalmam ne kötü!" diye
+düşündü ve biraz içini çekti; "ama insan sevgilisi için ne yapmaz."
+Reinhard, elinde içki bardağı ile yerinden fırlayıp kızın karşısına dikildi. Kız, ters ters: 
+"Ne istiyorsun?" diye sordu. 
+"Gözlerini görmek!" 
+"Gözlerimden sana ne?"
+Reinhard, ateşli bakışlarla ona tepeden bakıyordu: 
+"Çok iyi biliyorum ki, onlar aldatır insanı!" 
+Kız yüzünü avuçlarının içine almış onu merakla süzüyordu.
+Reinhard, bardağını dudaklarına götürdü ve: 
+"Güzel ve günahkar gözlerin için!" diyerek içkiyi yudumladı. 
+Kız başını kaldırdı ve kırıtarak gülümsedi: 
+"Ver!.." dedi. Siyah gözlerini, onunkilerden ayırmaksızın bardakta kalanı sonuna kadar içti.
+&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Theodor Storm&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">24c6407c-36da-452b-b6ef-c402d1157536</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786054226078</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ePUB.xhtml" id="ePUB.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style(p).css" id="Style_p_.css" media-type="text/css"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Kapak.jpg" id="Kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="ePUB.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

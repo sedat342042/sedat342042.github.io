@@ -1,0 +1,105 @@
+
+body { 
+   text-align: 		justify;
+   line-height: 	25px;
+   padding: 		1px 11px 1px 11px;
+}
+
+
+
+
+
+
+a:link 		{ color:	#2995b0;	text-decoration:underline }
+a:visited 	{ color:	#b02952;	text-decoration:underline }
+a:hover 	{ color:	#94d7c3; 	text-decoration:underline } 
+
+
+
+
+.n1bosluk {
+	padding-top:	0.5em;
+	padding-bottom:	0.5em;
+    }
+
+.n2bosluk {
+	padding-top:	1em;
+	padding-bottom:	1em;
+    }
+
+.n3bosluk {
+    padding-top:	1.5em;
+    padding-bottom:	1.5em;
+    }
+
+.n4bosluk {
+    padding-top:	2em;
+    padding-bottom:	2em;
+    }
+
+
+
+.kitap-ismi		{ font-weight: 	900; 	margin-top: 2.5em;	}
+.seri-ismi		{ font-weight: 	700; 	margin-top: 0;		}
+.yazar			{ font-weight: 	700; 	margin-top: 1.5em; 	}
+.cevirmen		{ font-weight: 	400; 	margin-top: 3em; 	}
+.yayinevi		{ font-weight: 	400; 	margin-top: 3em; 	}
+.bilgi			{ font-size: 	85%; 	margin-top: 0.8em; 	text-align: center; text-indent: 0;}
+
+
+
+
+p 	{
+    text-indent: 	1em;
+    text-align: 	justify;
+    font-size: 		96%;
+    line-height:	116%;
+    margin-top:		0.4em;
+    margin-bottom:	0.4em;
+	}
+
+
+
+body { 
+    padding: 		1px 11px 1px 11px;
+	 }
+
+.dipnot	{ 
+	text-align:		justify;  
+	margin: 		7px 0 17px 100px; 
+	font-style: 	italic; 
+	font-weight:  	bold; 
+	font-size: 		75%;
+	}
+
+a:link 		{ color:	#2995b0;	text-decoration:underline }
+a:visited 	{ color:	#b02952;	text-decoration:underline }
+a:hover 	{ color:	#94d7c3; 	text-decoration:underline } 
+
+
+
+.n0bosluk {
+	padding-top:	0.2em;
+	padding-bottom:	0.2em;
+    }
+
+.n1bosluk {
+	padding-top:	0.5em;
+	padding-bottom:	0.5em;
+    }
+
+.n2bosluk {
+	padding-top:	1em;
+	padding-bottom:	1em;
+    }
+
+.n3bosluk {
+    padding-top:	1.5em;
+    padding-bottom:	1.5em;
+    }
+
+.n4bosluk {
+    padding-top:	2em;
+    padding-bottom:	2em;
+    }
+
