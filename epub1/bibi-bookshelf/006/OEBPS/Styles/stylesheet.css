@@ -1,0 +1,83 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.calibre1 {
+    display: block
+    }
+.calibre10 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre15 {
+    font-weight: bold
+    }
+.calibre17 {
+    height: 595pt;
+    width: 419pt
+    }
+.calibre3 {
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre5 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.calibre6 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre7 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre8 {
+    font-style: italic;
+    font-weight: bold
+    }
+.calibre9 {
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.sigilnotintoc {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    text-align: center
+    }
+.sigilnotintoc1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: center
+    }

@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="AWP-7BC1CDA8-8919-4E5F-B956-7BA46A6357E0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bir Aktör Hazırlanıyor</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Bir Aktör Hazırlanıyor</text>
+      </navLabel>
+      <content src="Text/001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Türkçeye Çevirenin Önsözü</text>
+      </navLabel>
+      <content src="Text/003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İkinci Basıma Not</text>
+      </navLabel>
+      <content src="Text/004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İngilizceye Çevirenin Önsözü</text>
+      </navLabel>
+      <content src="Text/005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Bölüm 1 İlk Sınama</text>
+      </navLabel>
+      <content src="Text/006.html"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/006.html#ncx60"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/006.html#ncx67"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/006.html#ncx73"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/006.html#ncx80"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/006.html#ncx82"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/006.html#ncx84"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/006.html#ncx90"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/006.html#ncx94"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Bölüm 2 Aktörlük Ne Zaman Bir Sanattır?</text>
+      </navLabel>
+      <content src="Text/007.html"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/007.html#ncx109"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/007.html#ncx150"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/007.html#ncx195"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/007.html#ncx217"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Bölüm 3 Eylem</text>
+      </navLabel>
+      <content src="Text/008.html"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/008.html#ncx264"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/008.html#ncx301"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/008.html#ncx341"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/008.html#ncx387"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/008.html#ncx398"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/009.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Bölüm 4 İmgelem</text>
+      </navLabel>
+      <content src="Text/010.html"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/010.html#ncx452"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/010.html#ncx485"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/010.html#ncx509"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/010.html#ncx550"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/010.html#ncx561"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/010.html#ncx586"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/010.html#ncx610"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Bölüm 5 Dikkatin Odaklanması</text>
+      </navLabel>
+      <content src="Text/011.html"/>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/011.html#ncx624"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/011.html#ncx636"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/011.html#ncx663"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/011.html#ncx687"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/011.html#ncx710"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/011.html#ncx739"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/011.html#ncx765"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/011.html#ncx774"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Bölüm 6 Kasların Gevşemesi</text>
+      </navLabel>
+      <content src="Text/012.html"/>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/012.html#ncx799"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/012.html#ncx818"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/012.html#ncx831"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/012.html#ncx848"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/012.html#ncx854"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/012.html#ncx872"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Bölüm 7 Birimler ve Amaçlar</text>
+      </navLabel>
+      <content src="Text/013.html"/>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/013.html#ncx895"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/013.html#ncx921"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/013.html#ncx945"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/013.html#ncx997"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Bölüm 8 İnanç ve Gerçeklik Duygusu</text>
+      </navLabel>
+      <content src="Text/014.html"/>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1047"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1065"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1076"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1095"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1116"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1165"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1178"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1199"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1225"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>10</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1260"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>11</text>
+        </navLabel>
+        <content src="Text/014.html#ncx1279"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Bölüm 9 Coşku Belleği</text>
+      </navLabel>
+      <content src="Text/015.html"/>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/015.html#ncx1300"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/015.html#ncx1324"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/015.html#ncx1348"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/015.html#ncx1355"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/015.html#ncx1395"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/015.html#ncx1447"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/015.html#ncx1472"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Bölüm 10 Duygu - Düşünce Alışverişi</text>
+      </navLabel>
+      <content src="Text/016.html"/>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/016.html#ncx1492"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/016.html#ncx1524"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/016.html#ncx1576"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/016.html#ncx1624"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/016.html#ncx1636"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/016.html#ncx1705"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>Bölüm 11 Uyarlama</text>
+      </navLabel>
+      <content src="Text/017.html"/>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/017.html#ncx1740"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/017.html#ncx1783"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/017.html#ncx1807"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/017.html#ncx1865"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>Bölüm 12 Hareket Ettirici Güçler</text>
+      </navLabel>
+      <content src="Text/018.html"/>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/018.html#ncx1907"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/018.html#ncx1970"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>Bölüm 13 Kesintisiz Çizgi</text>
+      </navLabel>
+      <content src="Text/019.html"/>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/019.html#ncx1992"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/019.html#ncx2021"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/019.html#ncx2054"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>Bölüm 14 İç Yaratıcı Davranış</text>
+      </navLabel>
+      <content src="Text/020.html"/>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/020.html#ncx2078"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/020.html#ncx2108"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>Bölüm 15 Üstün - Amaç</text>
+      </navLabel>
+      <content src="Text/021.html"/>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/021.html#ncx2146"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>Bölüm 16 Bilinçaltının Eşiğinde</text>
+      </navLabel>
+      <content src="Text/022.html"/>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/022.html#ncx2226"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/022.html#ncx2257"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/022.html#ncx2305"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/022.html#ncx2332"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/022.html#ncx2375"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/022.html#ncx2426"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/022.html#ncx2438"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/022.html#ncx2454"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

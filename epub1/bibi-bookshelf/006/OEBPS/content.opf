@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Nadolny, Sten">Sten Nadolny</dc:creator>
+<meta content="Arsızlık Tanrısı" name="calibre:title_sort"/>
+    <meta content="2013-04-18T22:13:54+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2010-04-18T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">39ea9e5e-b9cd-45ee-a725-4cf5b3ac4e64</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-04-09</dc:date>
+  <dc:title>Arsızlık Tanrısı</dc:title>
+<dc:publisher>Yurt Yayınları</dc:publisher>
+<meta name="calibre:series" content="Mitoloji Dizisi"/>
+<meta name="calibre:series_index" content="1.0"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Mitoloji</dc:subject>
+<dc:description>&lt;p&gt;Kimse gelmeyecek miydi gördüklerini görmeye? Bunların tümü, sarsıntı, kurtuluş ve ayağa kalkış, sadece kendisi için mi oluyordu? İnanılır gibi değil! Gemideki yolcular ağır, geminin Yunanlı kaptanı ise kör olmalıydı. Figür hâlâ belirgin olarak görülebiliyordu, çünkü üzerinde durduğu çıkıntının en uç noktasına gelmiş, açık kolları ve dik başıyla denize bakmaya başlamıştı...Tâcirlerin, hırsızların, hatiplerin ve güreşçilerin tanrısı, ölüler ülkesinin ruh taşıyıcısı, kanatlı şapka ve sandaletleriyle tanrıların habercisi Hermes yeniden ortaya mı çıkıyordu yoksa? Sıçrayışın, çabuk kavramanın, mutlu buluşların ve arsızlığın tanrısı geri mi geliyordu?&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Sten Nadolny&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2a5d29ce-6d5c-4cfd-9d83-968c38c40479</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789757076124</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="main-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="main-3.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

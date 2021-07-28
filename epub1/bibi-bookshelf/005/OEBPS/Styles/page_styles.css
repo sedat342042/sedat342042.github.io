@@ -1,0 +1,11 @@
+body { 
+   text-align: justify;
+   text-indent: 1em;
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+}
+
+div#coverpage {
+	text-align: center;
+}
+
