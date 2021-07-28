@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Kesey, Ken">Ken Kesey</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">187a687a-96d4-4ca9-aace-0d1af04b4ff4</dc:identifier>
+    <dc:publisher>Merkez Kitapçılık</dc:publisher>
+    <dc:date>2007-04-18T21:00:00+00:00</dc:date>
+    <meta content="Guguk Kuşu" name="calibre:title_sort"/>
+    <meta content="2013-08-29T19:25:28.023000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Guguk Kuşu</dc:title>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Psikoloji</dc:subject>
+<dc:subject>Çağdaş Edebiyat</dc:subject>
+<dc:subject>Yetişkin</dc:subject>
+<dc:description>&lt;p&gt;Büyük Hemşire, çelik kapıdaki düğmelerden birini çevirerek duvar saatini dilediği hıza ayarlayabiliyor. Kimi zaman canı her şeyi hızlandırmak istiyor; düğmeyi çeviriveriyor. Saatin akrebiyle yelkovanı yarışıyorlar sanki. Paravanlarla örtülü pencerelerde gündüz, gece birbirini kovalıyor. Bu düzmece zamanın geçmesiyle herkes birbirine giriyor. Yarım yamalak tıraş olup kahvaltı masasına balıklarına dalıyorsun, daha ağzına bir lokma koymadan öğlen oluyor, ilaç veriliyor, yerinden kalkıp dinlenme odasına giderken akşam zili çalıyor, yatağa giriyorsun, on dakika sonra gene sabah olmuş. Büyük Hemşire herkesin kırılma ya da dağılma noktasına geldiğini görünce, düğmeyi yeniden çeviriyor. Her şey eski hızına dönüyor. Fil makinesini olağan hızının on katına çıkarıp perdede herkesin akıl almaz biçimde koşuşmasını izleyen, bir süre sonra bıkan, eski düzeni geri getiren küçük bir çocuğu hatırlatıyor bana Büyük Hemşire'nin bu davranışı."
+
+Guguk Kuşu, günümüz insanının toplumla çelişkilerini ortaya koyan bir roman. Kimin dediği olacak? Toplumun mu, gönlüne göre yaşayanın mı? Bir akıl hastanesindeki özgür ruhlarla disiplin sağlamaya çalışan yönetim arasındaki mücadeleyi olağanüstü bir ustalıkla anlatan Ken Kesey, bu il yapıtıyla Amerikan 'karşıt kültürünün' efsanelerinden biri oldu. Roman 1975 yılında Milos Forman tarafından sinemaya aktarıldığında, başta delişmen dalavereci MCMurphy rolüyle şeytani ve karizmatik oyunculuğunun temellerini atan Jack Nicholson ile katı ve sadist ruhunu taş bebek güzelliğinin altında saklayan Büyük Hemşire Ratched'ı canlandıran Louise Fletcher olmak üzere, film 5 Oscar ödülü kazanarak, bir başyapıt haline geldi.
+&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ken Kesey&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">53f952a6-363d-4da2-a7ca-34c1b13da0ec</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786054505432</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Ken Kesey - One Flew Over The Cuckoo's Nest_split_001.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/Ken Kesey - One Flew Over The Cuckoo's Nest_split_002.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/Ken Kesey - One Flew Over The Cuckoo's Nest_split_004.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Ken Kesey - One Flew Over The Cuckoo's Nest_split_005.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Ken Kesey - One Flew Over The Cuckoo's Nest_split_006.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Ken Kesey - One Flew Over The Cuckoo's Nest_split_007.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Ken Kesey - One Flew Over The Cuckoo's Nest_split_008.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Images/image006.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="Section0001.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

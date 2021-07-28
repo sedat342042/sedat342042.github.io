@@ -1,0 +1,104 @@
+.WordSection {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    page: WordSection1;
+    text-indent: 1.5em
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center
+    }
+.calibre10 {
+    font-family: "Cambria", "serif"
+    }
+.calibre11 {
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre15 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre16 {
+    font-family: "Cambria", "serif";
+    font-size: 1.16667em;
+    line-height: 1.2
+    }
+.calibre17 {
+    line-height: 1.2
+    }
+.calibre18 {
+    font-family: "Cambria", "serif";
+    font-size: 0.875em;
+    line-height: 1.2
+    }
+.calibre2 {
+    font-weight: bold
+    }
+.calibre3 {
+    font-family: "Cambria", "serif";
+    font-variant: small-caps
+    }
+.calibre5 {
+    display: block
+    }
+.calibre7 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 1.5em
+    }
+.calibre8 {
+    font-style: italic
+    }
+.calibre9 {
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    font-variant: small-caps;
+    line-height: 1.2
+    }
+.font {
+    font-family: "Book Antiqua", "serif"
+    }
+.font1 {
+    font-family: "MS Gothic"
+    }

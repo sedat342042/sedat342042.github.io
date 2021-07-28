@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Kobo, Abe">Abe Kobo</dc:creator>
+    <dc:title>Kutu Adam</dc:title>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:description>Unutulmaz 'Kumların Kadını'nın yazarı Abe Kobo, günümüz Japon yazarlarının en başta gelenlerindendir. Modern çağın korkunç bir teşbihsel ifadesi olan Kutu-Adam, bize biraz Beckett'in oyunlarındaki tarzı çağrıştırıyor. Kafasını ve vücudunun üst tarafını kartondan bir kutu içine gömen bu adam, insanoğlunun hor görmesiyle bir fıçıya sığınmış alaycı bir Diyojen değildir. Bir karşıt kahramandır, kötülüğü güçsüzlük olan efsanevi bir varlıktır. Bir bakıcıdır aynı zamanda, çünkü dış dünya ile kurabildiği tek ilişki bakışı sayesinde olmaktadır. Bu belirsiz, anonim kişilik toplumsal baskılardan korunmak için kendi ile başkaları arasına bir ekran yerleştirmiştir; kutu ise, onun için hem güven verici hem de koruyucudur. Acı çekmesine ve yapayalnız olmasına rağmen mizaha ve hatta aşka da yetkindir. Kendisi de doktor olan Abe Kobo için, yıkık bir kişilik herhangi bir yolla yeniden şekillendirilebilir. Kutu-adam da, sevdiği kadın sayesinde, kendi iradesiyle boynundaki zincirden kurtulacaktır.</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor opf:role="trl">Ahmet Gürcan</dc:contributor>
+    <dc:date opf:event="publication">1993-01-01</dc:date>
+    <dc:identifier opf:scheme="ISBN">975-14-0374-X</dc:identifier>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:date opf:event="modification">2017-03-29</dc:date>
+    <meta name="Sigil version" content="0.9.7" />
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b3b4be65-3bf9-4696-aea3-3ce10e4a0d3d</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitaplari.xhtml" href="Text/kitaplari.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ti.xhtml" href="Text/ti.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1.xhtml" href="Text/1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2.xhtml" href="Text/2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4.xhtml" href="Text/4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-1.png" href="Images/main-1.png" media-type="image/png"/>
+    <item id="main-2.png" href="Images/main-2.png" media-type="image/png"/>
+    <item id="main-3.png" href="Images/main-3.png" media-type="image/png"/>
+    <item id="main-4.png" href="Images/main-4.png" media-type="image/png"/>
+    <item id="main-5.png" href="Images/main-5.png" media-type="image/png"/>
+    <item id="main-6.png" href="Images/main-6.png" media-type="image/png"/>
+    <item id="main-7.png" href="Images/main-7.png" media-type="image/png"/>
+    <item id="main-8.png" href="Images/main-8.png" media-type="image/png"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Mute.css" href="Styles/Mute.css" media-type="text/css"/>
+    <item id="literata-bold.otf" href="Fonts/literata-bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-bold-italic.otf" href="Fonts/literata-bold-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-italic.otf" href="Fonts/literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-regular.otf" href="Fonts/literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="x3.xhtml" href="Text/3.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kitaplari.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="ti.xhtml"/>
+    <itemref idref="x1.xhtml"/>
+    <itemref idref="x2.xhtml"/>
+    <itemref idref="x3.xhtml"/>
+    <itemref idref="x4.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

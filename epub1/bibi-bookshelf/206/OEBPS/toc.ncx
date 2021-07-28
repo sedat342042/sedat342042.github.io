@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>I  -  Muhyiddin İbn-i Arabi Kimdir?</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>Yaşamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-1-1"/>
+			</navPoint>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>Eserleri</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-1-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>II - Arabi  Felsefesi ve Öğretisi</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-2"/>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>Mutlak, Allah, Hakk</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-2-1"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>Yanılsama içindeyiz</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-2-2"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>İlahi bütünlük</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-2-3"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>Gönülleriyle bakanlar</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-2-4"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>Herkes gülerken arif ağlar</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-2-5"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>Arayın bulacaksınız</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-2-6"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>Kader ve sebep sonuç ilişkisi</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-2-7"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>Kaza ve kader</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-2-8"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>İnsandaki birlik hakikati</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-2-9"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>III  - Âlem ve Kainat</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-3"/>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>Ayn ve gayr</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-3-1"/>
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>İlahi boyutlar</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-3-2"/>
+			</navPoint>
+			<navPoint id="navpoint17" playOrder="17">
+				<navLabel>
+					<text>Beş ilahi boyut / Beş ilahi âlem </text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-3-3"/>
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>Nefs</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-3-4"/>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>Ölmeden önce ölme / Nefse arif olma</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-3-5"/>
+			</navPoint>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>İlahi emanet </text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-3-6"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>IV - Arabi’nin  Sevgi Anlayışı</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>V - Fasslar</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-5"/>
+			<navPoint id="navpoint23" playOrder="23">
+				<navLabel>
+					<text>Âdem kelimesindeki İlahi anlam</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-1"/>
+			</navPoint>
+			<navPoint id="navpoint24" playOrder="24">
+				<navLabel>
+					<text>Şit kelimesindeki Nefes anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-2"/>
+			</navPoint>
+			<navPoint id="navpoint25" playOrder="25">
+				<navLabel>
+					<text>Nuh kelimesindeki Subbuhiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-3"/>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>İdris kelimesindeki Kuddusiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-4"/>
+			</navPoint>
+			<navPoint id="navpoint27" playOrder="27">
+				<navLabel>
+					<text>İbrahim kelimesindeki Mühemmiye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-5"/>
+			</navPoint>
+			<navPoint id="navpoint28" playOrder="28">
+				<navLabel>
+					<text>İshak kelimesindeki Hakkiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-6"/>
+			</navPoint>
+			<navPoint id="navpoint29" playOrder="29">
+				<navLabel>
+					<text>İsmail kelimesindeki Aliyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-7"/>
+			</navPoint>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>Ya’kub kelimesindeki Ruhiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-8"/>
+			</navPoint>
+			<navPoint id="navpoint31" playOrder="31">
+				<navLabel>
+					<text>Yusuf kelimesindeki Nuriyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-9"/>
+			</navPoint>
+			<navPoint id="navpoint32" playOrder="32">
+				<navLabel>
+					<text>Hud kelimesindeki Ahadiyet anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-10"/>
+			</navPoint>
+			<navPoint id="navpoint33" playOrder="33">
+				<navLabel>
+					<text>Salih kelimesindeki  Fütuhiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-11"/>
+			</navPoint>
+			<navPoint id="navpoint34" playOrder="34">
+				<navLabel>
+					<text>Şuayb kelimesindeki Kalbiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-12"/>
+			</navPoint>
+			<navPoint id="navpoint35" playOrder="35">
+				<navLabel>
+					<text>Lut kelimesindeki Melkiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-13"/>
+			</navPoint>
+			<navPoint id="navpoint36" playOrder="36">
+				<navLabel>
+					<text>Üzeyir kelimesindeki Kaderiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-14"/>
+			</navPoint>
+			<navPoint id="navpoint37" playOrder="37">
+				<navLabel>
+					<text>İsa kelimesindeki Nebeviyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-15"/>
+			</navPoint>
+			<navPoint id="navpoint38" playOrder="38">
+				<navLabel>
+					<text>Süleyman kelimesindeki Rahmaniyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-16"/>
+			</navPoint>
+			<navPoint id="navpoint39" playOrder="39">
+				<navLabel>
+					<text>Davud kelimesindeki Vücudiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-17"/>
+			</navPoint>
+			<navPoint id="navpoint40" playOrder="40">
+				<navLabel>
+					<text>Yunus kelimesindeki Nefsiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-18"/>
+			</navPoint>
+			<navPoint id="navpoint41" playOrder="41">
+				<navLabel>
+					<text>Eyyub kelimesindeki Gaybiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-19"/>
+			</navPoint>
+			<navPoint id="navpoint42" playOrder="42">
+				<navLabel>
+					<text>Yahya kelimesindeki Celaliyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-20"/>
+			</navPoint>
+			<navPoint id="navpoint43" playOrder="43">
+				<navLabel>
+					<text>Zekeriya kelimesindeki Malikiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-21"/>
+			</navPoint>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text>İlyas kelimesindeki İnasiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-22"/>
+			</navPoint>
+			<navPoint id="navpoint45" playOrder="45">
+				<navLabel>
+					<text>Lokman kelimesindeki İhsaniyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-23"/>
+			</navPoint>
+			<navPoint id="navpoint46" playOrder="46">
+				<navLabel>
+					<text>Harun kelimesindeki İmamiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-24"/>
+			</navPoint>
+			<navPoint id="navpoint47" playOrder="47">
+				<navLabel>
+					<text>Musa kelimesindeki Ulviyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-25"/>
+			</navPoint>
+			<navPoint id="navpoint48" playOrder="48">
+				<navLabel>
+					<text>Halid kelimesindeki Samediyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-26"/>
+			</navPoint>
+			<navPoint id="navpoint49" playOrder="49">
+				<navLabel>
+					<text>Muhammed kelimesindeki Ferdiyye anlamı</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-5-27"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint50" playOrder="50">
+			<navLabel>
+				<text>VI -  Ariflerin Bilgeliği</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-6"/>
+			<navPoint id="navpoint51" playOrder="51">
+				<navLabel>
+					<text>İlk Tur: Ölümsüz Parça’nın İdraki</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-1"/>
+			</navPoint>
+			<navPoint id="navpoint52" playOrder="52">
+				<navLabel>
+					<text>İkinci Tur: Bütünsel Nefs’in İdraki</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-2"/>
+			</navPoint>
+			<navPoint id="navpoint53" playOrder="53">
+				<navLabel>
+					<text>Üçüncü Tur: İlahi Ruhun İdraki</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-3"/>
+			</navPoint>
+			<navPoint id="navpoint54" playOrder="54">
+				<navLabel>
+					<text>Dördüncü Tur: Fena Hâli “O var, başka hiçbir şey yok”</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-4"/>
+			</navPoint>
+			<navPoint id="navpoint55" playOrder="55">
+				<navLabel>
+					<text>Beşinci Tur: Zamanın İdraki</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-5"/>
+			</navPoint>
+			<navPoint id="navpoint56" playOrder="56">
+				<navLabel>
+					<text>Altıncı Tur: Beka Hâli “Ben var, başka hiçbir şey yok”</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-6"/>
+			</navPoint>
+			<navPoint id="navpoint57" playOrder="57">
+				<navLabel>
+					<text>Yedinci Tur: “Mukarrebun” Ölümsüz İnsan</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-7"/>
+			</navPoint>
+			<navPoint id="navpoint58" playOrder="58">
+				<navLabel>
+					<text>Kalp</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-8"/>
+			</navPoint>
+			<navPoint id="navpoint59" playOrder="59">
+				<navLabel>
+					<text>Zanlar</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-9"/>
+			</navPoint>
+			<navPoint id="navpoint60" playOrder="60">
+				<navLabel>
+					<text>İlk Sefer: Öz’den Cisme yolculuğu</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-10"/>
+			</navPoint>
+			<navPoint id="navpoint61" playOrder="61">
+				<navLabel>
+					<text>İkinci Sefer: Terbiye ve Görüş Seferi</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-11"/>
+			</navPoint>
+			<navPoint id="navpoint62" playOrder="62">
+				<navLabel>
+					<text>Üçüncü Sefer: Dirilme</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-12"/>
+			</navPoint>
+			<navPoint id="navpoint63" playOrder="63">
+				<navLabel>
+					<text>A’raf Ehli</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-13"/>
+			</navPoint>
+			<navPoint id="navpoint64" playOrder="64">
+				<navLabel>
+					<text>Yakin</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-14"/>
+			</navPoint>
+			<navPoint id="navpoint65" playOrder="65">
+				<navLabel>
+					<text>Hakikate İlim ile Erme</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-15"/>
+			</navPoint>
+			<navPoint id="navpoint66" playOrder="66">
+				<navLabel>
+					<text>Hakikate Ayn ile Erme</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-16"/>
+			</navPoint>
+			<navPoint id="navpoint67" playOrder="67">
+				<navLabel>
+					<text>Hakikate Hakk ile Erme</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-6-17"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint68" playOrder="68">
+			<navLabel>
+				<text>VII - Bilgeliğe Uyanış Yolculuğu</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-7"/>
+			<navPoint id="navpoint69" playOrder="69">
+				<navLabel>
+					<text>Sükut</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-7-1"/>
+			</navPoint>
+			<navPoint id="navpoint70" playOrder="70">
+				<navLabel>
+					<text>Halvet</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-7-2"/>
+			</navPoint>
+			<navPoint id="navpoint71" playOrder="71">
+				<navLabel>
+					<text>Oruç</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-7-3"/>
+			</navPoint>
+			<navPoint id="navpoint72" playOrder="72">
+				<navLabel>
+					<text>Uyanıklık ve zikir</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-7-4"/>
+			</navPoint>
+			<navPoint id="navpoint73" playOrder="73">
+				<navLabel>
+					<text>Suretten sirete</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-7-5"/>
+			</navPoint>
+			<navPoint id="navpoint74" playOrder="74">
+				<navLabel>
+					<text>Yollar</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-7-6"/>
+			</navPoint>
+			<navPoint id="navpoint75" playOrder="75">
+				<navLabel>
+					<text>Arifi nasıl biliriz?</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-7-7"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint76" playOrder="76">
+			<navLabel>
+				<text>VIII -  İbn-i Arabi’nin  Din Anlayışı</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-8"/>
+			<navPoint id="navpoint77" playOrder="77">
+				<navLabel>
+					<text>Arif için din yoktur </text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-8-1"/>
+			</navPoint>
+			<navPoint id="navpoint78" playOrder="78">
+				<navLabel>
+					<text>İtikadın Sonu: Arifler Çağı </text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-8-2"/>
+			</navPoint>
+			<navPoint id="navpoint79" playOrder="79">
+				<navLabel>
+					<text>Devre sonu</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-8-3"/>
+			</navPoint>
+			<navPoint id="navpoint80" playOrder="80">
+				<navLabel>
+					<text>Eril ve dişil enerjilerin buluşması</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-8-4"/>
+			</navPoint>
+			<navPoint id="navpoint81" playOrder="81">
+				<navLabel>
+					<text>Sonuç</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-8-5"/>
+			</navPoint>
+			<navPoint id="navpoint82" playOrder="82">
+				<navLabel>
+					<text>“İsmi ben olan rüya”</text>
+				</navLabel>
+				<content src="Text/5.html#toc_marker-8-6"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint83" playOrder="83">
+			<navLabel>
+				<text>KAYNAKÇA</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-9"/>
+		</navPoint>
+	</navMap>
+</ncx>

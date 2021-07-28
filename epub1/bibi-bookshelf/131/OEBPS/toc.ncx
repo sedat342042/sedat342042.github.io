@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Hidâyetnâme</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Sâdık Hidâyet: &quot;Garip&quot; İranlı</text>
+      </navLabel>
+      <content src="Text/giris.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Bir Eşeğin Ölüm Vakti</text>
+      </navLabel>
+      <content src="Text/bolum1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Sâdık Hidâyet ve Ölüm</text>
+      </navLabel>
+      <content src="Text/bolum2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Ölüm</text>
+      </navLabel>
+      <content src="Text/bolum3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Sâsân Kızı Pervin</text>
+      </navLabel>
+      <content src="Text/bolum4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Isfahan: Yarım Cihan</text>
+      </navLabel>
+      <content src="Text/bolum5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Nîrengistân</text>
+      </navLabel>
+      <content src="Text/bolum6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Sampinge</text>
+      </navLabel>
+      <content src="Text/bolum7.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Aysar</text>
+      </navLabel>
+      <content src="Text/bolum8.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Kafka'nın Mesajı</text>
+      </navLabel>
+      <content src="Text/bolum9.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Sâdık Hidâyet'in Mektupları(1)</text>
+      </navLabel>
+      <content src="Text/bolum10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Seçilmiş Kaynakça</text>
+      </navLabel>
+      <content src="Text/bolum11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
