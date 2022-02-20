@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Affan - PWA Mobile HTML Template">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#0134d4">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <!-- Title -->
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+    <link rel="apple-touch-icon" href="img/icons/icon-96x96.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/icons/icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="img/icons/icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/icons/icon-180x180.png">
+    <!-- CSS Libraries -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/tiny-slider.css">
+    <link rel="stylesheet" href="css/baguetteBox.min.css">
+    <link rel="stylesheet" href="css/rangeslider.css">
+    <link rel="stylesheet" href="css/vanilla-dataTables.min.css">
+    <link rel="stylesheet" href="css/apexcharts.css">
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="manifest.json">
+  </head>
+  <body>
+
+    <!-- Dark mode switching -->
+    <div class="dark-mode-switching">
+      <div class="d-flex w-100 h-100 align-items-center justify-content-center">
+        <div class="dark-mode-text text-center">
+          <svg class="bi bi-moon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M14.53 10.53a7 7 0 0 1-9.058-9.058A7.003 7.003 0 0 0 8 15a7.002 7.002 0 0 0 6.53-4.47z"></path>
+          </svg>
+          <p class="mb-0">Switching to dark mode</p>
+        </div>
+
+        </div>
+      </div>
+    </div>
+    <!-- RTL mode switching -->
+    <div class="rtl-mode-switching">
+      <div class="d-flex w-100 h-100 align-items-center justify-content-center">
+        <div class="rtl-mode-text text-center">
+          <svg class="bi bi-text-right" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M6 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm4-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+          </svg>
+          <p class="mb-0">Switching to RTL mode</p>
+        </div>
+        <div class="ltr-mode-text text-center">
+          <svg class="bi bi-text-left" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M2 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+          </svg>
+          <p class="mb-0">Switching to default mode</p>
+        </div>
+      </div>
+    </div>
+    <!-- Header Area -->
+    <div class="header-area" id="headerArea">
+      <div class="container">
+
+      </div>
+    </div>
+    <div class="page-content-wrapper py-3" id="elementsSearchList">
+      <div class="container">
+        <div class="card">
+          <div class="card-body p-3">
+            <div class="form-group mb-0">
+              <input class="form-control" id="elementsSearchInput" type="text" onkeyup="elementsSearch()" placeholder="Search">
+            </div>
+          </div>
+        </div>
+        <div class="affan-element-item">
+          <div class="element-heading-wrapper"><i class="bi bi-headphones"></i>
+            <div class="heading-text">
+              <h6 class="mb-1">Sesli Kitap Arşivi</h6><span></span>
+            </div>
+          </div>
+        </div>
+        <!-- Page Item --><a class="affan-element-item" href="https://prometheus3434.github.io/epub2/bibi/?book=1">1.000.000 Sternlik Banknot - Mark Twain<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://prometheus3434.github.io/epub2/bibi/?book=2">2890 Yılında - Jule Verne<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://prometheus3434.github.io/epub2/bibi/?book=3">Acı - Anton Çehov<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0011">Adaları Seven Adam - D.H. Lawrence<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://prometheus3434.github.io/epub3/bibi/?book=668">Adsız Kent - H.P. Lovecraft<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0014">Akla Kara - Voltaire<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0015">Aktris - Agatha Christie<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0016">Albaya Mektup - Gabriel Garcia<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0027">Agatha Christie -  On Küçük Zenci<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0017">Agatha Christie - Acı Kahve<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0018">Albert - Lev Nikolayeviç Tolstoy<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0019">Aleksey Babanın Hikayesi - İvan Turgenyev<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0020">Agatha Christie - Briç Masasında Cinayet<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=107">Agatha Christie - Cesetler Merdiveni<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0021">Agatha Christie - Elmayı Yılan Isırdı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub3/bibi/?book=48">Agatha Christie - Fare Kapanı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=77">Agatha Christie - Filler'de Hatırlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0023">Agatha Christie - Işıklar Sönünce<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=65">Agatha Christie - İskemlede Beş Ceset<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=63">Agatha Christie - Kahverengi Elbiseli Adam<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0047">Agatha Christie - Malikanenin Gizemi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=64">Agatha Christie - Miss Marple'nin Son Maceraları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0024">Agatha Christie - N veya M<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0025">Agatha Christie - Nil'de Ölüm<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0026">Agatha Christie - Noel'de Cinayet<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0028">Agatha Christie - Ölüm Büyüsü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=38">Agatha Christie - Ölüm Çığlığı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0030">Agatha Christie - Ölüm Diken Üstünde<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=37">Agatha Christie - Ölüm Meleği<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0032">Agatha Christie - Ölüm Saatleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=62">Agatha Christie - Porsuk Ağacı Cinayeti<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0034">Agatha Christie - Roger Ackroyd Cinayeti<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=81">Agatha Christie - Sessiz Tanık<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=29">Agatha Christie - Sıfıra Doğru<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0038">Agatha Christie - Sonuncu Kurban<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0039">Agatha Christie - Suç Ortakları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0040">Agatha Christie - Şampanyadaki Zehir<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=10">Ahmet Aydoğan - Schopenhauer<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub1/bibi/?book=015">Ahmet Batman - Soğuk Kahve<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://prometheus3434.github.io/epub/bibi/?book=232">Ahmet Bin Fazlan - İbn Fazlan Seyahatnamesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub3/bibi/?book=29">Ahmet Büke - Evde Kimse Yok<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=3">Ahmet Ümit - Beyoğlu Rapsodisi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=4">Ahmet Ümit - Beyoğlu'nun En Güzel Abisi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=56">Ahmet Ümit - Elveda Güzel Vatanım<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=79">Ahmet Ümit - İstanbul Hatırası<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=87">Ahmet Ümit - Kar Kokusu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=91">Ahmet Ümit - Kavim<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=97">Ahmet Ümit - Sultanı Öldürmek<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0064">Aimee Bender - Limonlu Pastanın Sıradışı Hüznü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/blm/bibi/?book=29">Alan Lightman - Bay Tanrı<i class="bi bi-chevron-right"></i></a>
+		<!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0002">Abbas Maourifi - Ölü Ruhlar<i class="bi bi-box-arrow-in-right"></i></a>		
+        <!-- Page Item --><a class="affan-element-item" href="https://prometheus3434.github.io/epub/bibi/?book=245">Albay Talat Aldemir - Hatıratım<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0089">Alberrt Hischman - Tutkular ve Çıkarlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0075">Albert Camus - Aklın İsyanı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=01">Albert Camus - Asturya'da İsyan<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0076">Albert Camus - Başkaldıran İnsan<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0077">Albert Camus - Düşüş<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=04">Albert Camus - Ecinniler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0079">Albert Camus - Mutlu Ölüm<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=06">Albert Camus - Sanatçı Ve Çağı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0081">Albert Camus - Sisifos Söylemi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=08">Albert Camus - Sürgün Ve Krallık<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=09">Albert Camus - Tersi Ve Yüzü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0084">Albert Camus - Veba<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0085">Albert Camus - Yabancı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0086">Albert Camus - Yaz<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=13">Albert Einstein - Dünyamıza Bakış<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0089">Albert O. Hirschman - Tutkular ve Çıkarlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0090">Aldous Huxley - Ada<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0091">Aldous Huxley - Cesur Yeni Dünya<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0092">Aldous Huxley - Cesur Yeni Dünyayı Ziyaret<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0093">Aldous Huxley - Kalıcı Felsefe<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0094">Aldous Huxley - Ses Sese Karşı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0099">Aleksandr Puşkin - Dubrovski<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0100">Aleksandr Puşkin - Yevgeni Onegin<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0101">Aleksandr Puşkin - Yüzbaşının Kızı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0110">Aleksandra Cavelius - Leyla<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0114">Aleksandra Dumas - Üç Silahşör<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0111">Aleksandre Dumas - Binbir Hayalet<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0112">Aleksandre Dumas - Kamelyalı Kadın<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0113">Aleksandre Dumas - Monte Christo Kontu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0114">Aleksandre Dumas - Üç Silahşör<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub/bibi/?book=032">Alesker Aleskerli - Yüz Okuma Sanatı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=16">Alexander Moseley - A'dan Z'ye Felsefe<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0115">Alfred Adler - İnsanı Aldatma Sanatı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=22">Alfred Adler - İnsanı Tanıma Sanatı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=23">Alfred Adler - Yaşamın Anlam Ve Amacı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/ars/bibi/?book=1">Ali Çimen - Tarihi Değiştiren Askerler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/ars/bibi/?book=2">Ali Çimen - Tarihi Değiştiren Bilginler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/ars/bibi/?book=3">Ali Çimen - Tarihi Değiştiren Konuşmalar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=207">Ali Karadaş - Direnişi Nasıl Dokuduk<i class="bi bi-chevron-right"></i></a>		
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=24">Ali Mert - Çöpten Kitap<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=141">Abdullah Muradoğlu - Öldüren Sır<i class="bi bi-chevron-right"></i></a>		
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=25">Ali Mithat İnan - Atatürk'ün Not Defterleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=9">Ali Osman Gündoğan - Bergson<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0127">Allyn Freaman - Liderlik Dehası<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=26">Allyn Freeman - Liderlik Dehası<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0128">Alma Katsu - Sonsuz Arzuya Uyanış<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=28">Alper Canıgüz - Cehennem Çiçeği<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=29">Alper Canıgüz - Oğullar ve Rencide Ruhlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=30">Alper Caniguz - Tatlı Rüyalar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0132">Alphonse Daudet - Değirmenimden Mektuplar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0135">Alphonse Daudet - Sapho<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0137">Amelia Nothomb - Dişi Şeytan<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=32">Amelie Couture - Kiraz'ın Şarkıları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=34">Amelie Nothomb - Kış Yolculuğu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=35">Amin Maalouf - Adriana Mater<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0140">Amin Maalouf - Afrikalı Leo<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub/bibi/?book=031">Amin Maalouf - Arapların Gözünden Haçlı Seferleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0145">Amin Maalouf - Doğu'nun Limanları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0144">Amin Maalouf - Doğudan Uzakta<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0146">Amin Maalouf - Işık Bahçeleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0147">Amin Maalouf - Ölümcül Kimlikler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0148">Amin Maalouf - Semerkant<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0149">Amin Maalouf - Tanios Kayası<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0150">Amin Maalouf - Uzaktan Aşk<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0002">Amin Maoluf - Ölü Ruhlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/blm/bibi/?book=3">Amit Goswami - Kendini Bilen Evren<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=219">Andre Clot - Muhteşem Süleyman<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=220">Andre Malraux - Umut<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=223">Andre Maurois - Çevengur<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=221">Andre Maurois - İklimler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=224">Andre Maurois - Mutlu Moskova<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=222">Andre Maurois - Şişkolarla Sıskalar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=225">Andy Marrifield - Eşeklerin Bilgeliği<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=226">Andy Weir - Marslı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=227">Angela Nanetti - Dedem Bir Kiraz Ağacı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=228">Angela Nanetti - Hikaye Ormanı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=229">Ann Chamberlin - Safiye Sultan<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=230">Anna Seghers - Ödül<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=231">Anna Seghers - Transit<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=233">Anne Mazer - Kardeşim Çizmeyi Aştı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=232">Anne Mazer - Kardeşimin Başı Dertte<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=234">Anne Mazer - Mabel Tatilde<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=237">Anne McCaffrey  - Ejder Uçuşu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=236">Anne McCaffrey - Beyaz Ejder<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=235">Anne McCaffrey - Ejder Şarkısı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=238">Anne Rice - Vittorio<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=223">Anthony Burgess - Doktor Hastalandı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=38">Anthony Burgess - Otomatik Portakal<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=39">Anthony Doerr - Göremediğimiz Tüm Işıklar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=40">Anthony Robbins - Sınırsız Güç<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=41">Anthony Ryan - Kuzgunun Gölgesi 1<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=42">Antoine De Saint-Exupery - Gece Uçuşu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=43">Anton Çehov - 6. Koğuş<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=44">Anton Çehov - Büyük Oyunlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=45">Anton Çehov - Doktor Çehovdan Öyküler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=46">Anton Çehov - Köylüler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=47">Anton Çehov - Vişne Bahçesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=48">Antonio Tabucchi - Fernando Pessoa'nin Son Üç Günü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=49">Antonio Tabucchi - Pereira İddia Ediyor<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=50">Antonio Tabucchi - Zaman Hızla Yaşlanıyor<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=51">Antony Flew - Yanılmışım Tanrı Varmış<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0014">ADolfo Bioy Casares - Morel'in Buluşu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=52">Ariel Dorfman - Ölüm Ve Kız<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=53">Arif K. - Çınar Ağacının Altında Bir Ay Felsefe<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=54">Arif K. - Felsefe Dersleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=55">Arif Kaptan - Giyotinli Labirent<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=56">Aristoteles - Atinalıların Devleti<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=57">Arkadaş Z. Özger - Sevdadır<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=58">Artemisia - Ölümsüzlük için Düello<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=59">Arthur C. Clarke - Çocukluğun Sonu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=60">Arthur C. Clarke - Kara Güneş<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=61">Arthur C. Clarke - Rama ile Buluşma<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=62">Arthur C. Clarke - Şafak Projesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=63">Arthur C. Clarke - Son Nesil<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=64">Arthur C. Clarke - Şafak Projesi Phobos<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=65">Arthur C. Clarke - Şehir Ve Yıldızlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=66">Arthur C. Clarke - Susuz Deniz<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=67">Arthur C. Clarke - Rama Bahçesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=5">Arthur Conan Doyle - Bir Kimlik Vakası<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=6">Arthur Conan Doyle - Boş Ev<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=7">Arthur Conan Doyle - Böcek Avcısı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=8">Arthur Conan Doyle - Dörtlü İttifak<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=9">Arthur Conan Doyle - Kırmızı Gürgenler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=10">Arthur Conan Doyle - Kızıl Soruşturma<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=11">Arthur Conan Doyle - Korku Vadisi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=3">Arthur Conan Doyle - Sarı Surat<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=15">Arthur Conan Doyle - Sherlock Holmes Antolojisi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=12">Arthur Conan Doyle - Sokaktaki Bir Deli<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=13">Arthur Conan Doyle - Suç Detayda Saklıdır<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=14">Arthur Conan Doyle - Toplu Öyküler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=17">Arthur Conan Doyle - Üç Çatılı Ev<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=4">Arthur Conan Doyle - Baskerville'lerin Köpeği<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=1">Arthur Conan Doyle - Kızıl Saçlılar Kulübü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=68">Arthur Golden - Bir Geyşanın Anıları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=69">Arthur Koestler - Militanlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=70">Arthur Schopenhauer - Aşkın Metafiziği<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=71">Arthur Schopenhauer - Din Üzerine<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=72">Arthur Schopenhauer - Eristik Diyalektik<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=73">Arthur Schopenhauer - Okumak, Yazmak ve Yaşamak Üzerine<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=250">Arthur Schopenhauer - Paradokslar Üzerinde Raks<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=74">Arundhati Roy - Küçük Şeylerin Tanrısı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=75">Asim Koksal - Peygamberler Tarihi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=76">Askin Gungor - Sevgili Salak<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=77">Aslı Tohumcu - Abis<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=78">Aslı Tohumcu - Taş Uykusu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=79">Asuman Kafaoğlu - Yazın Sanatı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=80">Attilâ İlhan - Bıçağın Ucu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=81">Attila İlhan - Elde Var Hüzün<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=82">Attila İlhan - Sisler Bulvarı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=83">August Strindberg - Baba<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=84">Aycan Türk - Suç Ansiklopedisi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=85">Aydın Sayılı - Bilim Tarihi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=86">Aydin Buke - Chopin<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=87">Ayfer Kafkas - Yasak İlmin Kitabı Esrarname 1<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=88">Ayfer Tunç - Bir Mâniniz Yoksa Annemler Size Gelecek<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://prometheus3434.github.io/epub2/bibi/?book=69">Ayfer Tunç - Dünya Ağrısı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub3/bibi/?book=01">Ayfer Tunç - Evvelotel<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=89">Ayhan Çilingiroğlu - Seksen Yıl<i class="bi bi-chevron-right"></i></a>
+		<!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=91">Ayşegül Çelik - Sehper, Dehlizdeki Kuş<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=90">Ayşe Kulin - Tek Ve Tek Başına Türkan<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=80">Ayşe Kulin - Nefes Nefese<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=5">Ayşe Kulin - Bir Gün<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=32">Ayşe Kulin - Füreya<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=33">Ayşe Kulin - Gece Sesleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=116">Ayşe Kulin - Köprü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=98">Ayşe Kulin - Sevdalinka<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=92">Aytul Akal - Kitap Canavarı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=93">Aytunç Altındal - Yoksul Tanrı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=002">Aziz Nesin - Damda Deli Var<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=004">Aziz Nesin - Sizin Memlekette Eşek Yok Mu?<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=005">Aziz Nesin - Şimdiki Çocuklar Harika<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=007">Azra Erhat - Mitoloji Sözlüğü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=120">Azra Kohen - Fi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=121">Azra Kohen - Pi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=122">Azra Kohen - Çi<i class="bi bi-chevron-right"></i></a>		
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=008">Bahaeddin Önel - Türk Mitolojisi 1<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=009">Bahattin Yıldız - Dansöz Kıvırmaları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=010">Bahtiyar Kürklü - Beyinsiz<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=011">Baltasar Gracian - Akıllı Yaşama Sanatı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=012">Barbara Taylor - Yasak İlişki<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=014">Barış Kılınç - Modern Uygarlığın Hayal Kırıklıkları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub/bibi/?book=037">Barış Muslu - Beynine Format At<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/ars/bibi/?book=6">Bartolome De Casas - Kızılderili Katliamı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/ars/bibi/?book=7">Bartolome De Casas - Kızılderililer Nasıl Yok Edildi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=015">Baybars Altuntaş - Otobüsten İndim Bmw ye Bindim<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=016">Beatrice Masimi - Kral Kızının Armağanı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=018">Beatrice Masini - Bilmece Bilen Kız<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=021">Beatrice Masini - Gizemli Miço<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=019">Beatrice Masini - Kocaman Ayaklı Çocuk<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=020">Beatrice Masini - Korkusuz İsabella<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=268">Beaumarchais - Sevil Berberi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=022">Bedri Gencer - İslamda Modernleşme<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=023">Behçet Necatigil -  Serin Mavi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=024">Benjamin Parzybok - Koltuk<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=025">Benoit Becker - Ölüm Şatosu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=026">Bernard Comwell - Azıncourt<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=027">Bernard Comwell - Cehennem Savaşçıları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=030">Bernard Comwell - Heretik<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=028">Bernard Comwell - Şeytanın Atlıları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=032">Bernard Lewis - Alamut Kalesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=033">Bernard Lewis - İslamın Krizi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=034">Bernard Lewis - Ortadoğu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=035">Bernard Malamud - Tamirci<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=042">Bernard Russell - Batı Felsefe Tarihi/Antikçağ<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=044">Bernard Russell - Batı Felsefe Tarihi/Modernçağ<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=043">Bernard Russell - Batı Felsefe Tarihi/Ortaçağ<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=045">Bernard Russell - Dünya Görüşüm<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=046">Bernard Russell - Mutlu Olma Sanatı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=047">Bernard Russell - Sorgulayan Denemeler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=039">Bernard Schlink - Okuyucu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=036">Bernard Shaw - Dört Oyun<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=038">Bernard Werber - Karıncaların Günü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=040">Bert Hellinger - Sevgi Düzenleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub3/bibi/?book=33">Beth Revis - Evrenin Ötesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=048">Beydaba - Kelile ve Dimne<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=049">Bilge Karasu - Uzun Sürmüş Bir Günün Akşamı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=050">Bill Bryson - Hemen Her Şeyin Kısa Tarihi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub1/bibi/?book=010">Bir Aktör Hazırlanıyor<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=0096">Boris Gudunov - Aleksandr Puşkin<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=052">Boris Pasternak - Doktor Jivago<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=053">Boris Vian - Günlerin Köpüğü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=054">Boris Vian - Mezarına Tüküreceğim<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=055">Boris Vian - Pekin'de Sonbahar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=237">Bram Stoker - Dracula<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=056">Bret Easton Ellis - Amerikan Sapığı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=057">Brian Aldiss - Yıldız Gemisi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub3/bibi/?book=32">Brian Greene - Evrenin Dokusu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub3/bibi/?book=35">Brian Greene - Evrenin Zarafeti<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=059">Brian Mcclellan - Kan Yemini<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=060">Brian Morris - Din Üzerine Antropolojik İncelemeler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=224">Brigitte Aubert - Doktor March'ın Dört Oğlu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=061">Bruce Goldberg - Hipnoz<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=062">Bruno Schulz - Tarçın Dükkanları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=063">Bryan Sykes - Havva'nın Yedi Kızı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=051">Budo Kirchhoff - Kum Adam<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=064">Buket Uzuner - Balık İzlerinin Sesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=7">Buket Uzuner - Güneş Yiyen Çingene<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=066">Buket Uzuner - İki Yeşil Su Samuru<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=067">Burak Büyükdemir - Kümesteki Kartal Neden Uçamaz<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=069">Burak Turna - Metal Fırtına 2<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=068">Burak Turna - Nükleer Darbe<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=071">Buzyeli Vadisi Serisi 1 - Kristal Parçası<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=072">Buzyeli Vadisi Serisi 2 - Gümüş Damarları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=073">Buzyeli Vadisi Serisi 3 - Buçukluğun Mücevheri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=074">Bülent Somay - Şarkı Okuma Kitabı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=075">Bülent Tanor - Osmanlı Türk Anayasal Gelişmeleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=076">Büşra Sanay - Kardeşini Doğurmak<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://prometheus3434.github.io/epub3/bibi/?book=631">Büyük Yolculuk - Jorge<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=077">C. J. Cherryh - Uzay Düğümü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=085">Cahit Irgat - Çok Yaşasın Ölüler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=086">Cahit Sıtkı Tarancı - Otuz Beş Yaş<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=087">Cahit Zarifoğlu - Bir Değirmendir Bu Dünya<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=088">Cahit Zarifoğlu - Mektuplar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=10">Can Dündar - Aşka Veda<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=090">Can Dündar - Kırmızı Bisiklet<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=11">Can Dündar - Lüsyen<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=62">Can Dündar - Sarı Zeybek<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=12">Canan Tan - En Son Yürekler Ölür<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=13">Canan Tan - Hasret<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=14">Canan Tan - Piraye<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=95">Caner Taslaman - Allah, Felsefe Ve Bilim<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=96">Caner Taslaman - Allah'ın Varlığının 12 Delili<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=97">Caner Taslaman - Bin Bang ve Tanrı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=98">Caner Taslaman - Evrenden Allah'a<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=99">Caner Taslaman - Evrim Teorisi, Felsefe Ve Tanrı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=100">Caner Taslaman - Kuantum Teorisi, Felsefe Ve Tanrı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=101">Caner Taslaman - Küreselleşme Sürecinde Türkiye'de İslâm<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=102">Caner Taslaman - Modern Bilim, Felsefe Ve Tanrı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=103">Caner Taslaman - Türkiye'de İslam Ve Küreselleşme<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=104">Cang Şianliyen - Erkeğin Yarısı Kadın<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=105">Cangül Örnek - Türkiye'nin Soğuk Savaş Düşünce Hayatı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=107">Canlar Kimin Icin Caliyor - Ernest Hemingway<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=108">Carl Gustav Jung - Anılar, Düşler, Düşünceler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=109">Carl Gustav Jung - Keşfedilmemiş Benlik<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=110">Carl Gustav Jung - Psikoloji Ve Din<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=111">Carl Hiaasen - Pis Maymun<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/blm/bibi/?book=5">Carl Sagan - Karanlık Bir Dünyada Bilimin Mum Işığı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/blm/bibi/?book=7">Carl Sagan - Mesaj<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/blm/bibi/?book=8">Carl Sagan - Milyarlarca ve Milyarlarca<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=112">Carl-Johan Vallgren - Bir Garip Aşk Öyküsü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=113">Carla Ciccoli - Sincaplar Savaşı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=114">Carlo Ginzburg - Peynir Ve Kurtlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=115">Carlo Goldoni - Yazlık Dönüşü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub/bibi/?book=074">Carlos Fuentes - Terra Nostra<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=116">Carlos Ruiz Zafon - Rüzgarın Gölgesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=117">Carmine Gallo - Ted Gibi Konuş<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=118">Caroline Paul - Kayıp Kedi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=119">Carson McCullers - Altın Gözde Yansımalar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=120">Carson McCullers - Küskün Kahvenin Türküsü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=122">Catherine Fisher - Kahin<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=21">Celil Oker - Ateş Etme İstanbul<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=22">Celil Oker - Bin Lotluk Ceset<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=23">Celil Oker - Çıplak Ceset<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=24">Celil Oker - Kramponlu Ceset<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=25">Celil Oker - Rol Çalan Ceset<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=26">Celil Oker - Son Ceset<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=27">Celil Oker - Yenik ve Yalnız<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=124">Cem Akaş - Kritik Kavşak<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=125">Cemal Sureya - Bir Kırlangıcın Daha Var<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=126">Cemal Sureya - Papirüs'ten Başyazılar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=127">Cemal Süreya - 99 Yüz<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=128">Cemal Süreya - Üstü Kalsın<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=129">Cemal Süreya - Üvercinka<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=130">Cemal Süreyya - Günübirlikler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=131">Cemil Kavukçu - Aynadaki Zaman<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=198">Cemil Kavukçu - Gemiler de Ağlarmış<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=132">Cemil Kavukçu - Suda Bulanık Oyunlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=133">Cemil Meriç - Işık Doğudan gelir<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=134">Cengiz Aytmatov - Beyaz Gemi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=135">Cengiz Aytmatov - Cemile-Sultanmurat<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=210">Cengiz Aytmatov - Dişi Kurdun Rüyaları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=136">Cengiz Aytmatov - Elveda Gülsarı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=137">Cengiz Aytmatov - Gün Olur Asra Bedel<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=138">Cengiz Aytmatov - Sultan Murat<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=139">Cengiz Aytmatov - Toprak Ana<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=140">Cesare Pavese - Tepedeki Ev<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=141">Charles Baudelaire - Paris Sıkıntısı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=142">Charles Baudelaire - Şarabın Şiiri Esrarın Şiiri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=143">Charles Baudelaire - Yapma Cennetler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=144">Charles Bukowski - Büyük Zen Düğünü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=145">Charles Bukowski - Postane<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=146">Charles Bukowski - Sıradan Delilik Öyküleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=147">Charles Darwin - İnsanın Türeyişi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=148">Charles Darwin - Türlerin Kökeni<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=149">Charles Dickens - Bir Noel Şarkısı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=150">Charles Dickens - Büyük Umutlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=151">Charles Dickens - İki Şehrin Hikayesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=152">Charles Dickens - Kasvetli Ev<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=153">Charles Dickens - Müşterek Dostumuz<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=154">Charles Dickens - Oliver Twist<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=155">Charles Dickens - Perili Ev<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=156">Charles Panati - Sıradan Şeylerin Sıra Dışı Kökleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=157">Chris Harman - Halkların Dünya Tarihi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=158">Chris Riddell - Ottoline Okula Gidiyor<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=159">Chris Riddell - Ottoline ve Sarı Kedi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=160">Christie Golden - Büyük Şef<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=161">Christie Golden - Sislerin Vampiri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=162">Christine Nöstlinger - Mini Denizde<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=163">Christine Nöstlinger - Mini Kayak Tatilinde<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=164">Christine Nöstlinger - Mini ve Mırnav Kedi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=165">Christine Nöstlinger - Mini ve Yılbası Armaganları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=166">Christopher Paolin - 1 Eragon<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=167">Christopher Paolin - 2 Eldest<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=168">Christopher Paolin - 3 Brisingr<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=169">Christopher Paolin - 4 Miras<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=170">Chuck Palahniuk - Dövüş Kulübü<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=171">Chuck Palahniuk - Görünmez Canavarlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=172">Chuck Palahniuk - Günce<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=173">Chuck Palahniuk - Kurgudan Da Garip<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=174">Chuck Palahniuk - Lanetli<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=175">Chuck Palahniuk - Ninni<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=176">Chuck Palahniuk - Pigme<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=177">Chuck Palahniuk - Tıkanma<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=178">Cicero - Yaşlılık Ve Dostluk<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=179">Cihat Burak - Yakutiler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=180">Cladia Gray - Sonsuz Gece<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=181">Claude Farrere - Ölmez Adamların Evi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/ars/bibi/?book=10">Claude Levi Strauss - Irk,Tarih ve Kültür<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/ars/bibi/?book=11">Claude Levi Strauss - Modern Dünyanın Sorunları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=18">Clive Cussler - Batık<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=19">Clive Cussler - Beyaz Ölüm<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=63">Cüneyt Ülsever - Azrail Aynası<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub3/bibi/?book=36">Çağrı Mert Bakırcı - Evrim Kuramı ve Mekanizmaları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub/bibi/?book=038">Çiğdem Kağıtçıbaşı - Benlik,Aile ve İnsan Gelişimi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub/bibi/?book=084">Çocuk ve Ergen Eğitiminde Anne Baba Tutumları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub1/bibi/?book=119">Daniel Goffman - Osmanlı Dünyası ve Avrupa<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=239">Daniel Goleman - Yeni Liderler<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub1/bibi/?book=120">David Furlong - Piramitler Gerçeği<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/ars/bibi/?book=13">David Livingstone - İlluminati'nin Gizli Tarihi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub1/bibi/?book=052">Deniz Gezgin - Ahraz<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=189">Dennis Lehane - Zindan Adası<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=234">Dennis Shasha - Dr. Ecco'nun Şaşırtıcı Serüvenleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=192">Desmond Morris - Çıplak Maymun<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/anibio/bibi/?book=16">Devletşah - Şair Tezkireleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=200">Diana Wynne Jones - Uçan Şato<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=201">Didem Madak - Grapon Kağıtları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=202">Didem Madak - Pulbiber Mahallesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=203">Dino Buzzati - Dağların Adamı Barnabo<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=204">Dino Buzzati - Öylesine Bir Aşk<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=205">Dino Buzzati - Tanrı Görmüş Köpek<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=206">Dion Fortune - Sağlıklı Okültizm<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub1/bibi/?book=140">Doç.Dr İrem Anlı - Psikanalatik Kuramlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=211">Dodie Smith - 101 Dalmaçyalı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=212">Doğan Cüceloğlu - İyi Düşün Doğru Karar Ver<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=216">Doğan Cüceloğlu - Yeniden İnsan İnsana<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=217">Doğan Özlem - Tarih Felsefesi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=218">Doğan Şentürk - Saddam'ın Baas'ı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=221">Doğu Perinçek - Aydın ve Kültür<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=222">Doğu Perinçek - Mafyokrasi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=227">Domenico Losurdo - Köktendincilik Nedir<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=228">Douglas Adams - Kutsal Dedektiflik Bürosu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=229">Douglas Adams - Yıldız Gemisi Titanic<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=230">Dougles Adams - Otostopçunun Galaksi Rehberi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://sedat342042.github.io/epub1/bibi/?book=130">Dr İbrahim Canan - Aile İçi Eğitim<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=236">Dr. Kriton Dinçmen - Psikiyatri Ve Mitoloji<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=57">Duygu Asena - Kadının Adı Yok<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=193">Ece Temelkuran - Devir<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=31">Edgar Allen Poe - Dedektif Öyküleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=32">Edgar Allen Poe - Gizem ve Hayal Gücü Öyküleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=33">Edgar Allen Poe - İyi Yazarlar Neden İyi Yazarlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/plsy/bibi/?book=34">Edgar Allen Poe - Morg Sokağı Cinayetleri<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=238">Edip Cansever - Bezik Oynayan Kadınlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub/bibi/?book=197">Edip Cansever - Gelmiş Bulundum<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=240">Edip Cansever - Şiiri Şiirle Ölçmek<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=241">Edip Cansever - Yerçekimli Karanfil<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=242">Eduardo Galeano - Aynalar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=243">Eduardo Galeano - Gölgede Ve Güneşte Futbol<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=244">Eduardo Galeano - Kadınlar<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=251">Ekrem Acar - Bağırıp Çağırmadan Çocuk Eğitimi<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=252">Eldar Ryazanov - Bu Hesapta Yoktu<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=253">Eleanor H.Porter - Polyanna<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=254">Elfriede Jelinek - Piyanist<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=255">Elias Canetti - Körleşme<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://mobibook.github.io/epub1/bibi/?book=256">Elif Ayla - Şerbet Ve Hoşaf<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=15">Elif Şafak - Aşk<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=16">Elif Şafak - Baba ve Piç<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=17">Elif Şafak - Bit Palas<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=18">Elif Şafak - Firarperest<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=19">Elif Şafak - Havva'nın Üç Kızı<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=20">Elif Şafak - İskender<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=21">Elif Şafak - Kağıt Helva<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=22">Elif Şafak - Mahrem<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=23">Elif Şafak - Med-Cezir<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=24">Elif Şafak - Pinhan<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=25">Elif Şafak - Siyah Süt<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=26">Elif Şafak - Şehrin Aynaları<i class="bi bi-chevron-right"></i></a>
+        <!-- Page Item --><a class="affan-element-item" href="https://fotoarsiv81.github.io/yerli/bibi/?book=27">Elif Şafak - Şemspare<i class="bi bi-chevron-right"></i></a>
+        <script>
+          function elementsSearch() {
+              var input = document.getElementById('elementsSearchInput');
+              var filter = input.value.toUpperCase();
+              var list = document.getElementById("elementsSearchList");
+              var listItem = list.getElementsByClassName('affan-element-item');
+          
+              for (i = 0; i < listItem.length; i++) {
+                  var a = listItem[i];
+                  var textValue = a.textContent || a.innerText;
+                  if (textValue.toUpperCase().indexOf(filter) > -1) {
+                      listItem[i].style.display = "";
+                  } else {
+                      listItem[i].style.display = "none";
+                  }
+              }
+          }
+          
+        </script>
+      </div>
+    </div>
+      </div>
+    </div>
+    <!-- All JavaScript Files -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/slideToggle.min.js"></script>
+    <script src="js/internet-status.js"></script>
+    <script src="js/tiny-slider.js"></script>
+    <script src="js/baguetteBox.min.js"></script>
+    <script src="js/countdown.js"></script>
+    <script src="js/rangeslider.min.js"></script>
+    <script src="js/vanilla-dataTables.min.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/magic-grid.min.js"></script>
+    <script src="js/dark-rtl.js"></script>
+    <script src="js/active.js"></script>
+    <!-- PWA -->
+    <script src="js/pwa.js"></script>
+  </body>
+</html>
