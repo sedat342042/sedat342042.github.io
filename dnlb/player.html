@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Affan - PWA Mobile HTML Template">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#0134d4">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <!-- Title -->
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+    <link rel="apple-touch-icon" href="img/icons/icon-96x96.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/icons/icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="img/icons/icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/icons/icon-180x180.png">
+    <!-- CSS Libraries -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/tiny-slider.css">
+    <link rel="stylesheet" href="css/baguetteBox.min.css">
+    <link rel="stylesheet" href="css/rangeslider.css">
+    <link rel="stylesheet" href="css/vanilla-dataTables.min.css">
+    <link rel="stylesheet" href="css/apexcharts.css">
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="manifest.json">
+  </head>
+  <body>
+
+    <!-- Dark mode switching -->
+    <div class="dark-mode-switching">
+      <div class="d-flex w-100 h-100 align-items-center justify-content-center">
+        <div class="dark-mode-text text-center">
+          <svg class="bi bi-moon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M14.53 10.53a7 7 0 0 1-9.058-9.058A7.003 7.003 0 0 0 8 15a7.002 7.002 0 0 0 6.53-4.47z"></path>
+          </svg>
+          <p class="mb-0">Switching to dark mode</p>
+        </div>
+
+        </div>
+      </div>
+    </div>
+    <!-- RTL mode switching -->
+    <div class="rtl-mode-switching">
+      <div class="d-flex w-100 h-100 align-items-center justify-content-center">
+        <div class="rtl-mode-text text-center">
+          <svg class="bi bi-text-right" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M6 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm4-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+          </svg>
+          <p class="mb-0">Switching to RTL mode</p>
+        </div>
+        <div class="ltr-mode-text text-center">
+          <svg class="bi bi-text-left" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M2 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+          </svg>
+          <p class="mb-0">Switching to default mode</p>
+        </div>
+      </div>
+    </div>
+    <!-- Header Area -->
+    <div class="header-area" id="headerArea">
+      <div class="container">
+
+      </div>
+    </div>
+    <div class="page-content-wrapper py-3" id="elementsSearchList">
+      <div class="container">
+        <div class="card">
+          <div class="card-body p-3">
+            <div class="form-group mb-0">
+              <input class="form-control" id="elementsSearchInput" type="text" onkeyup="elementsSearch()" placeholder="Search">
+            </div>
+          </div>
+        </div>
+        <div class="affan-element-item">
+          <div class="element-heading-wrapper"><i class="bi bi-book"></i>
+            <div class="heading-text">
+              <h6 class="mb-1">E-Kütüphane</h6><span></span>
+            </div>
+          </div>
+        </div>
+
+<!-- Page Item --><a class="affan-element-item" href="001.html">İbrahim Naci - Gelibolu Muhaberetı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="002.html">Jule Verne-Öyküler 2<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="003.html">Halikarnas Balıkçısı - Agatha Burina Burinata<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="004.html">Wolfgang Borchert - Ama Fareler Uyurlar gece<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="005.html">Anda Kalmak - Rana Beri<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="006.html">Canan Tan - Anneannem İnternette<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="007.html">Hector Hugh Munro - Açık Pencere<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="008.html">Robert Musil - Aptallık Üzerine<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="009.html">Müjdat Ataman - Açılın Ben Öğretmenim<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="010.html">Arthur Schopenhauer - Aşkın Metafiziği<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="011.html">Suzanna Colins - Açlık Oyunları<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="012.html">Murat Özyaşar - Ayna Çarpması<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="013.html">Emrah Serbes - Bebek Mezarı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="014.html">Chris Argyris - Becerikli Ehilsizlik<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="015.html">Sinan Canan - Adem'in Türevleri<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="016.html">Özgür Bolat - Beni Ödülle Cezalandırma<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="017.html">F.Scott Fitzgerald - Benjamin Button'ın Tuhaf Hikayesi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="018.html">Beyaz Diş - Jack London 1 Saat<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="019.html">Mustafa Kutlu - Beyhude Ömrüm<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="020.html">Jack London - Bir Alkoliğin Anıları<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="021.html">Erkan Sarıyıldız - Affetme Meditasyonu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="022.html">Hamilelik ve Bebek Bakımı - Ağlama Bebek<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="023.html">Zülfü Livaneli - Bir Kedi Bir Adam Bir Ölüm<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="024.html">Mehmet Berk Yaltırık - Al Kızı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="025.html">Honor De Balzac - Albay Chabert<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="026.html">Gökhan Yılmaz - Bir Yıldız Kaydı Bir Aşk Sonsuz Oldu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="027.html">Mario Vargas Llosa - Bir Ziyaretçi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="028.html">Bu Salı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="029.html">Burak Soyer - Buji<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="030.html">H.P. Lorecraft - Charles Dexter Ward Vakası<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="031.html">H.P.Lovecraft - Cthulhunun Çağrısı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="032.html">Franz Kafka - Çakallar ve Araplar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="033.html">H.G. Wells - Çalıntı Basil<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="034.html">Aziz Nesin - Ali Bey'i Berbat Ettim<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="035.html">Aziz Nesin - Ali Olacaktım Baba<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="036.html">Lewis Carrol - Alice Harikalar Diyarında<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="037.html">Aziz Nesin - Allah Size Zeval Vermesin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="038.html">Anton Çehov - Altıncı koğuş<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="039.html">Erkan Sarıyıldız - Anda Kalma Meditasyonu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="040.html">Ece Temelkuran - Anlam Bulmak<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="041.html">Hamilelik ve Bebek Bakımı - Anne Sütü ve Emzirme 1<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="042.html">Hamilelik ve Bebek Bakımı - Anne Sütü ve Emzirme 2<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="043.html">Anton Çehov - Anyuta<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="044.html">Mehmet Berk Yaltırık - Arabacının Torunu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="045.html">Zülfü Livaneli - Arkadaşıma Veda<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="046.html">Oprah Winfrey - Artık Biliniyor<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="047.html">George Orwell - Aspidistra<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="048.html">Sinan Canan - Aşk Beyni Nasıl Sulandırır<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="049.html">Halil Cibran - Dünya Tanrıları<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="050.html">Dünyayı Bedavaya Kurtarın<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="051.html">Aşka Yolculuk(Veysel Karani) -Sinan Yağmur<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="052.html">Aşkı Memnu - Halit Ziya Uşaklıgil<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="053.html">Aşktan Dinle -Cemalnur Sargut<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="054.html">Dahiler ve Aşkları - Auguste Roden<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="055.html">Aura Görme Meditasyonu - Erkan Sarıyıldız<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="056.html">Avuntu - Nazan Bekiroğlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="057.html">Ayaşlı İle Kiracıları - Memduh Şevket Esendal<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="058.html">Az Sussun Herkes - Ali Lidar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="059.html">Aziz Nesin - Bizim Memleket 4<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="060.html">Aziz Nesin - Çocukları Ağlatmayın<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="061.html">Aziz Nesin - İnsan İnsana Benzer<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="062.html">Aziz Nesin - Karşılama Alanına Gitmeyiz<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="063.html">Aziz Nesin - Kendi Hikayem<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="064.html">Aziz Nesin - Korkacak Ne Varmış<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="065.html">Aziz Nesin - Nazik Alet<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="066.html">Aziz Nesiin - Sınır Üstündeki Ev<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="067.html">Aziz Nesin - Mu Ni<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="068.html">Ömer Seyfettin - Bahar ve Kelebekler<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="069.html">Bana Bayan Deme - Hakan Bıçakçı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="070.html">Baraganın Dikenleri<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="071.html">Bataklığın Ruhu - Mehmet Berk Yaltırık<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="072.html">Bay Cetliçkanın Oy Kullanması - Jaroslaw Hasek<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="073.html">Bebeğin Çamaşırları<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="074.html">Ben Bilmem Beynim Bilir-Sinan Canan~1<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="075.html">Ben Nedir - Snan Canan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="076.html">Bencil Dev - Oscar Wilde<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="077.html">Benli Belkıs - Şaziye Karlıklı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="078.html">Beyaz Zambaklar Ülkesinde<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="079.html">Beynine Format At - Barış Muslu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="080.html">10 Yıla Sığan Dünya- Kurtuluş-Kuruluş<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="081.html">Bilinmeyen Bir Adamın Mektubu 2-Ali Lidar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="082.html">Bilinmeyen Bir Adamın Mektubu-Ali Lidar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="083.html">Bilmeyiz-Erdem Aksakal<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="084.html">Binbir Gece Masalları<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="085.html">Bir Delikanlının Hikayesi-Sabahattin Ali<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="086.html">Bir Ölünün Anıları - Mihail Bulgakov<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="087.html">Bir Savaşın Tasfiri -Franz Kafka<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="088.html">Bir Türk Zabitinin Anıları<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="089.html">Bir Türkiye Hayali -Selçuk Şirin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="090.html">Bir Yol Var - Pr. Dr. Tamer Damcı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="091.html">Bize İyilik Yaramaz - Aziz Nesin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="092.html">Boğaç Han - Atilla Dirim<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="093.html">Bomba - Ömer Seyfettin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="094.html">Böyle Buyurdu Zerdüşt-Niietche<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="095.html">Budizm - Helwig Schmidt Glintzer<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="096.html">Bugs Bunny nin Sigara Molası-Hakan Bıçakçı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="097.html">Burhan Günel - Kar Düşleri <i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="098.html">Büyük İnsanlar Teorisi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="099.html">Büyük Kederler Küçük Öyküler-Ali Lidar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="100.html">Cadının Somunları - O.Henry<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="101.html">Can İzleri - Recep Yıldırım<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="102.html">Canan Tan - Başı Bozuk Sevdalar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="103.html">Canan Tan - Sızı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="104.html">Cennet,Cehennem,Araf - Laurent Quntreau<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="105.html">Ceo Koltuğundan Vazgeçmek - Jeffrey Hollander <i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="106.html">Cerrah-Tess Gerritsen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="107.html">Cesaretten Merhamete Yolculuk-Sinan Canan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="108.html">Ceylan Uykusu - Ayşegül Genç<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="109.html">Cingo - Şermin Yaşar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="110.html">Collesıum İrkiltisi-Nazan Bekiroğlu <i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="111.html">Daha Adını Koyamadık<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="112.html">Daha Ne Kadar Kaldı-Ece Temelkuran<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="113.html">Daha-Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="114.html">Dahiler ve Aşklar - Arthur Miller<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="115.html">Dahiler ve Aşkları - Albert Einstein<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="116.html">Dahiler ve Aşkları - Berltolt Brecht <i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="117.html">Dahiler ve Aşkları - Bethowen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="118.html">Dahiler ve Aşkları - Charles Bukowski<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="119.html">Dahiler ve Aşkları - Charlie Chaplin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="120.html">Dahiler ve Aşkları - Che Guevara<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="121.html">Dahiler ve Aşkları - Chopin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="122.html">Dahiler ve Aşkları - Dante Aligheiri<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="123.html">Dahiler ve Aşkları - Edgar Allen Poe<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="124.html">Dahiler ve Aşkları - Elvis Presley<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="125.html">Dahiler ve Aşkları - Franz Kafka<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="126.html">Dahiler ve Aşkları - Frida Kahlo<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="127.html">Dahiler ve Aşkları - Lev Nikolayeviç Tolstoy<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="128.html">Dahiler Ve Aşkları - Pablo Picasso<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="129.html">Dahiler ve Aşkları - Sigmund Freud<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="130.html">Dahiler ve Aşkları - Silvia Plath<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="131.html">Dahiler ve Aşkları - Victor Hugo<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="132.html">Dahiler ve Aşkları-Leonardo Da vinci<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="133.html">Dahiler ve Aşkları-Nazım Hikmet<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="134.html">Dahiler ve Aşkları-W.Amadeus Mozart<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="135.html">Daisy Miller - Henry James<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="136.html">Damızlık Kızın Öyküsü - Margaret Atwood'<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="137.html">Define Adası - Robert Louis Stevenson<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="138.html">Deha Bir Hastanın Günlüğü -Mihail Bulgakov<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="139.html">Deliliğe Övgü - Desiderius Erasmus<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="140.html">Deliliğin Dağlarında - H.P. Lorecraft<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="141.html">Delinin Çığlığı - Mehmet Berk Yaltırık<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="142.html">Denge-Hakan Bıçakçı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="143.html">Denizler Tanrısı Poseiden - Robert Krugmann<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="144.html">Dersimiz Atatürk - Turgut Özakman<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="145.html">Dikdatöre Karşı Gönüllü Kölelik Üzerine Söylev<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="146.html">Dionysos-Robert Krugman<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="147.html">Diri Gömülen -Sadık Hidayet<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="148.html">Dirilen Adam - Boccacio<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="149.html">Don Kişot -Miguel De Cervantes<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="150.html">Dorian Gray ın Portresi - Oscar Wilde<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="151.html">Doğanın Sesi Kısıldı - Ece Varol - Çocuk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="152.html">Doğumdan Sonra Sosyal Yaşam<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="153.html">Druidler - Bernard Mayer<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="154.html">Dursun -Erdem Aksakal<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="155.html">Dünya Dinleri-Manfred Hutter<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="156.html">Dünya İçin Bir Şans-Ece Erdoğuş Levi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="157.html">Düpedüz Haksızlığın Dile Getirilişi-Ozan Çılgın<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="158.html">Düşe Kalka Büyümek - Yankı Yazgan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="159.html">Düşlerin Efendisi Hz Yusuf<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="160.html">Efsane Dolu Anadolu-Mehmet Güler<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="161.html">Efsanenin Adı Çanakkale-Özgür Özgülgün<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="162.html">Efsuncu Baba - Hüseyin Rahmi Gürpınar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="163.html">Ege Soley - Yakın<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="164.html">Elektra - Sofokles<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="165.html">Elif Şafak - Sanma ki Yalnızsın <i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="166.html">En Güzel Oyuncak - Volkan Yaveroğlu - Çocuk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="167.html">Erika Ervald ın Aşkı - Stefan Zweig<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="168.html">Ermişin Bahçesi -Halil Cibran<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="169.html">Esmeralda - Frances Hodgson Burnett<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="170.html">Etkili İletişim - Güven Vermek<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="171.html">Etkl İletilim - İletişimde Değer Yaratan Kelimeleri Seçmek<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="172.html">Etkli İletişim-İletişim Tarzımız<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="173.html">Ev Yapımı Sihirli Değnek - Şermin Yaşar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="174.html">Evliliğin Koruyucusu Hera - Robert Krugman<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="175.html">Ezilenlerin Behice Hood -Sinem Sal<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="176.html">Fabrika Ayarı-Bekir Develi ve Hayati İnanç<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="177.html">Ferdayı Garam-Mehmet Rauf<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="178.html">Feridüddin Attar-Pendname<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="179.html">Flandre nin Köpeği - Quida<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="180.html">Franz Kafka - Melezleme-Tek Parça<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="181.html">Fırtınada Savrulan Çiçek - Ece Varol - Çocuk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="182.html">Gabriel Ernest - Hector Hugh Munro<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="183.html">Gece Gelen-Tess Gerritsen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="184.html">Gizli Bahçe-Frances H.Burned<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="185.html">Godzillanın Gör Dediği-Sinan Canan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="186.html">Gramofon Avrat-Sabahattin Ali<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="187.html">Gurlular - Vural Öntürk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="188.html">Guy De Maupassant -Uyutma Makinası<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="189.html">Guy De Maupassant TOINE<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="190.html">Gölge -Ahmet Naç<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="191.html">Gönül Ticareti -Hüseyiin Rahmi Gürpınar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="192.html">Göç Dalgası - Yusuf Dündar <i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="193.html">Gülben Ergen - Öğrendim ki<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="194.html">Günahkar-Tess Gerritsen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="195.html">Günahın Üç Rengi-Gülseren Budayıcıoğlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="196.html">Günde Üç Öğün-Erdem Aksakal<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="197.html">Gılgameş - Robert Krugman<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="198.html">Hacı Ağa -Sadık Hidayet<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="199.html">Haddini Aş-Bora Özkent<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="200.html">Halil Cibran - Deli<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="201.html">Hamilelik ve Bakım<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="202.html">Hamilelik ve Çalışma Hayatı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="203.html">Handaki Musallat - Mehmet Berk <i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="204.html">Hanedanlık Yıkan Kavga<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="205.html">Hayalet Atlı Binici - Theodor W. Storm<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="206.html">Hayatın Fon Müziği - Aslı Tunç<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="207.html">Hayatın Hakkını Vermek - Acar Baltaş<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="208.html">Hayatın Kanunu - Jack London<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="209.html">Haydar Paşanın Evi-Fuat Sevimay<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="210.html">Haytalarla Çolpalar-Jack London<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="211.html">Hayvan Çiftliği - George Orwel (Dinlebi)<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="212.html">Hazan Vakti -  Merve Küçüksarp<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="213.html">Haşhaşiler-Heinz Halm<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="214.html">Herkes Kendi Hayatının Kahramanı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="215.html">Herkes İçin Siyer -1.Cilt<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="216.html">Hizmetçi - Katherine Mansfild<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="217.html">Hişt Hişt-Fuat Sevimay<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="218.html">Horozu Düşen Hayat<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="219.html">Hoşgör Köftecisi - Orhan Veli Kanık<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="220.html">Hukuk-Frederic Bastiat<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="221.html">Issız Kadınlar Sokağı-Tek Parça<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="222.html">Işk-Yunus Emre<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="223.html">Işık Çağı Çocukları - Şebnem Özkan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="224.html">Jack London - Kurt Dölü<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="225.html">jack london - Martin Eden<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="226.html">Jack London - Oyun<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="227.html">Japonların 100 yıl yaşama Sırrı - Junko Takahashi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="228.html">John Nash<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="229.html">Jule Verne-Öyküler 1<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="230.html">Jüri Özel Uykusu-Hakan Bıçakçı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="231.html">Kadehimdeki Şiirler - Adnan Sökmen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="232.html">Kadın Budalası-Dostoyevski<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="233.html">Kadın Kalbi - Romanov<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="234.html">Kadın Yok Savaşın Yüzünde<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="235.html">Kadınlar Vaizi - Hüseyin Rahmi Gürpınar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="236.html">Kadının Fenni - Feyza Altun<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="237.html">Kafa Kağıdı-Sabahattin Ali<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="238.html">Kandırış - Jaroslav Hasek<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="239.html">Kapı Zili - Gençliik ve Yaşlılık - Nabakov<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="240.html">Kara Kaz - Anooshirvan Miandji<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="241.html">Kara Ormandan Gelen Varlığın Işığı-Martin Heidegger<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="242.html">Karar Almak-Tersine İlerlemek - Hillel C.<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="243.html">Kardeş-Zülfü Livaneli Son<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="244.html">Kardeşinin Ölümsüz Gözleri-Stefan Zweig<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="245.html">Karlsbad Hatıralarım-M.kemal Atatürk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="246.html">Karılar Ve Kocalar-Umur Bugay<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="247.html">Kasaba Hekimi - İvan Sergenyeviç Turgenyev<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="248.html">Katil Kim - Stefan Zweig<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="249.html">Kavimler Göçü - Klaus Rosen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="250.html">Kaybolan Bacak - Karel Çapek<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="251.html">Kayıp Ada Vordomosi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="252.html">Kayıp Dünya-Tek Parça<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="253.html">Kayıp Hayaller Parkı-Ali Lidar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="254.html">Kayıp Kızlar - Tess GERRITSEN<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="255.html">Kedinin Cenneti -Emile Zola<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="256.html">Kehanet - Drago Jancar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="257.html">Kelile ve Dimne - Beydaba<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="258.html">Kendi Başına Bir İnsan - Nietche<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="259.html">Kendinin Efendisi Olmak - Timur Tiryaki<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="260.html">Kibir-Erdem Aksakal<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="261.html">Kitleler Psikolojisi - Gustave Lebon<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="262.html">Kişisel Bir Dua -Ali Lidar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="263.html">Komünist Manifesto -Karl Marx<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="264.html">Konakta Neler Oluyor-Pelin Güneş<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="265.html">Korney Vasilyev - Tolstoy<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="266.html">Kum ve Köpük-Halil Cibran<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="267.html">Kumarbazın Elindeki Kağıtlar - Anonim<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="268.html">Kusursuz Kararlar Vermek ve İkna Sanatı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="269.html">Kuyuya Atılan Adam - Pu Sung Ling<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="270.html">Köpek Suratlı Maymun<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="271.html">Küllerin Günü - Grange<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="272.html">Küçük Şehzade -Cahit Zarifoğlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="273.html">Kırlangıçlar-Sabahattin Ali<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="274.html">Kız Çocuğu-Onur ÜNLÜ<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="275.html">Kızıl Yıldız - Aleksandr Bogdanov<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="276.html">Kızıl Ölümün Maskesi - Edgar Allen Poe<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="277.html">Kızılderili Masalları<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="278.html">Kızılırmak -Hasan Hüseyin Korkmazgil<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="279.html">Lispeth -Rudyard Kipling<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="280.html">Livaneli - Huzursuzluk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="281.html">Livanelinin Penceresinden-Tek Parça<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="282.html">Locarnolu Dilenci Kadın - Hector Hugh Munro<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="283.html">Longjumeau Esirleri - Leon Blay<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="284.html">Lüks içinde yaşamanın sakıncaları - Sinan Canan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="285.html">Madalya -Stefan Zweig<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="286.html">Maksim Gorki-Fırtınanın Habercisi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="287.html">Malafa - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="288.html">Masalcı Amca - Hector Hugh Munro<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="289.html">Mavi Lale - Nazan Bekiroğlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="290.html">Melek Sanmıştım Şeytanı - Hüsseyin Rahmi Gürpınar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="291.html">Melezleme - Franz Kafka<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="292.html">Memlekete Panenka Penaltısı - Gezginci Erdem<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="293.html">Menzil - Saygı Öztürk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="294.html">Meraklısı İçin Entrikalar Kitabı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="295.html">Merhamet-Stefan Zweig<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="296.html">Mevlana Celaleddin Rumi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="297.html">Midasın Geveze Berberi-İpek Arman<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="298.html">Model Milyoner - Oscar Wilde<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="299.html">Momo nun Sarayı -Pelin Güneş<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="300.html">Morg Sokağı Cinayetleri-Edgar Allen Poe (Dinlebi)<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="301.html">Muhteşem Gatsby-F.Scott Fitzgerald<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="302.html">Mutlu Prens-Oscar Wilde<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="303.html">Muz Cenneti - Anooshirvan Miandji<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="304.html">Mösyö Valdemar Olayındaki Gerçekler - Edgar Allen Poe<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="305.html">Mürebbiye -Stefan Zweig<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="306.html">Miladın Başlangıcı Nasıralı İsa - Albert Hirsch<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="307.html">Nemide - Halit Ziya Uşaklıgil<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="308.html">Niccolo Machiavelli -Prens <i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="309.html">Nun-un Kapısı-H.Nur Artıran<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="310.html">Nutuk - Mustafa Kemal Atatürk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="311.html">Odam Neden Sürekli Dağılıyor-Sinan Canan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="312.html">Okul Aile Birliği - Aziz Nesin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="313.html">Orhan Veli Kanık - Öyküler<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="314.html">Orkestra Fareleri - Howard Griffiths<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="315.html">Oyuncak - Sergen Donatoviç Dovlatov<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="316.html">Pasta Ustası - Volkan Yaveroğlu - Çocuk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="317.html">Pembe ve Yusuf - Canan Tan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="318.html">Pinhan -Elif Şafak<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="319.html">Piraye -Canan Tan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="320.html">Piç - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="321.html">Platon - Devlet<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="322.html">Platon - Ozan Çılgın<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="323.html">Platonun Mağarası -Nazan Bekiroğlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="324.html">Politik Olmanın Dayanılmaz Hafifliği-Hannah Arendt<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="325.html">Polyanna - Eleanor H. Porter<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="326.html">Portakal Bahçesi - Lary Tramlay<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="327.html">Robinson Cruise -Tek Parça<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="328.html">Dahiler ve Aşkları - Rosa Lüksemburg<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="329.html">Rüzgarlar Hep Gençtir - Zülfü Livaneli<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="330.html">Sabahattin Ali - Apartman<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="331.html">Sabahattin Ali - Arabalar Beş Kuruşa<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="332.html">Sabahattin Ali - Bir Cinayetin Sebebi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="333.html">Sabahattin Ali - Bir Orman Hikayesi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="334.html">Sabahattin Ali - Fikir Arkadaşı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="335.html">Sabahattin Ali - Kağnı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="336.html">Sabahattin Ali - Köstence Güzellik Kraliçesi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="337.html">Sabahattin Ali - Mehtaplı Bir Gece<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="338.html">Sabahattin Ali - Pazarcı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="339.html">Sabahattin Ali - Sıcak Su<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="340.html">Sabahattin Ali - Viyolonsel<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="341.html">Sabahattin Ali- Bir Siyah Fanila İçin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="342.html">Sadece Şeyma - Şeyma Subaşı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="343.html">Sadık Hidayet - Vejeteryenliğn Faydaları<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="344.html">Sahte Bellek - Blake Crouch<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="345.html">Samuraylar - Wolfgang Schwentker<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="346.html">Sancaktar - Rainer Marie Rilke<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="347.html">Sandık Sepet Ankara -Pelin Güneş<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="348.html">Savaş Tanrısı Ares-Robert Krugman<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="349.html">Sende Gitme Triyandafilis - Ayla Kutlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="350.html">Seni Bekleyeceğim - Dina Rubina<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="351.html">Sabahattin Ali - Ses<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="352.html">Sevgi Masalı - Samed Behrengi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="353.html">Dahiler ve Aşkları - Sigmund Freud <i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="354.html">Dahiler ve Aşkları - Silvia Plath<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="355.html">Sin -Yunus Emre<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="356.html">Sineklerin ve Örümceklerin Tanrısı-Spinoza<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="357.html">Sinem Sal - Sevmediiğim Şarkılar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="358.html">Sivastopol-Lev N.Tolstoy<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="359.html">Sivil İtaatsizlik - Henry David Thoreau<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="360.html">Sivrisinek Şehirde-Erlom Ahvedlani<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="361.html">Siyah Süt - Elif Şafak<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="362.html">Siyah İnci - Anna Sewell<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="363.html">Siyasete Dair Temel Bilgiler - İbni Rüşd<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="364.html">Son Hasat - Bahadır Yenişehirlioğlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="365.html">Son Teşebbüs - Aziz Hatman<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="366.html">Sonsuz Savaş -İlyada - Robert Krugman<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="367.html">Sosyobiyoloji Nedir -Franz M. Wuketitz<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="368.html">Sporcu İnsanlarız Vesselam - Aziz Nesin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="369.html">Sredni Vashdar - Hector Hugh Munro<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="370.html">Süpermen Türk Olsaydı Pelerinini Annesi Bağlardı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="371.html">Süreyya Kuaför Salonu - Şebnem Burcuoğlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="372.html">Sınır Üstündeki Ev - Aziz Nesin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="373.html">Sınırsız - Ufuk Koçak<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="374.html">Sır - Mustafa Kutlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="375.html">Sıradışı Başarılı İnsanların Ortak Özellikleri<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="376.html">Sırlı Bahçe-Kadri Özcan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="377.html">Tanrıların Habercisi Hermes<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="378.html">Tantra 1-Cinsellikte Aydınlanma - Meryem Suna<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="379.html">Tantra 2-Bütünsel Uyumlanma - Meryem Suna<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="380.html">Tantra 3-Doğru Cinsellik - Meryem Suna<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="381.html">Tatiller - Comtesse De Segur<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="382.html">Tekinsiz Ev-Mehmet Berk Yaltırık<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="383.html">Tepegöz - Atilla Dirim<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="384.html">Tesadüfler Atlası - Dündar Hızal<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="385.html">Thomas More - Ütopya<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="386.html">Tom Sawyer - Mark Twain<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="387.html">Luka Modric - Atahan Altınordu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="388.html">Truvanın İntikamı - Erhan Afyoncu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="389.html">Tünelden İlk Çıkış - Hüseyin Rahmi Gürpınar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="390.html"> Daron Acemoğlu - Ulusların Düşüşü 1<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="391.html"> Daron Acemoğlu - Ulusların Düşüşü 2<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="392.html"> Daron Acemoğlu - Ulusların Düşüşü 3<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="393.html">Umutsuz Aşk - Natalia Tolstaya<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="394.html">Unutulacak Şeyler - Sinan Canan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="395.html">Ustam ve Ben - Elif Şafak<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="396.html">Uyusana Tosunum - Aziz Nesin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="397.html">Uzaydan Gelen Renk - H.P Lorecraft<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="398.html">Uçurum İnsanları - Jack London<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="399.html">Vadideki Zambak - Honore de Balzac<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="400.html">Virüs ve Uygarlık - Kemal Tayfur<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="401.html">Ya Tahammül Ya Sefer - Mustafa Kutlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="402.html">Yalan Yanlış Hayatlar - Altay Öktem<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="403.html">Yalan Yıllar - Can Kozanoğlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="404.html">Yalnızlık Kime Benzer - Semih Gümüş<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="405.html">Yan Evin Sırrı - Shari Lapena<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="406.html">Yanan Gün - Jack London<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="407.html">Yeni Dünya - Sabahattin Ali<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="408.html">Yeniden Doğuş - Albert Hirsch<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="409.html">Yeteri Kadarsa Çoktur-Samuel Aleksander<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="410.html">Yetişin Gençler - Selçuk Şirin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="411.html">Yeşilin Kızı Anne 2 - L.M. Montgomery<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="412.html">Yüce Katına - Aziz Nesin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="413.html">Yıldız ile Konuşan Bebeği - Samed Behrengi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="414.html">Yıldızın Parladığı Tarihsel Anlar-Stefan Zweig<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="415.html">Zaman Argonotları - H. G. Wells<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="416.html">Zaman Makinesi - H.G. Wells<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="417.html">Zeus'un Oğlu Herkül -  Robert Krugmann<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="418.html">Zihin Seslerini Yavaşlatma Meditasyonu - Erkan Sarıyıldız<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="419.html">Zor Bulmaca - Volkan Yaveroğlu - Çocuk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="420.html">Çalışan Kazanır Elması Kızarır-Erdem Aksakal<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="421.html">Çelebi Zinciri -Birsen Ekim Özen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="422.html">Çile Kırgını - Ayşegül Genç<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="423.html">Çin Kültür Devrimi - Daniel Lee<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="424.html">Çırak - Tess Geritsen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="425.html">Ölmek - Schilitzer<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="426.html">Ölü Ruhlar Ormanı-Jean C. Grange<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="427.html">Ömer Seyfettiin - Pembe İncili Kaftan<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="428.html">Ömer Seyfettin - Beyaz Lale<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="429.html">Ömer Seyfettin - Topuz<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="430.html">Ömer Seyfettin - Yalnız Efe<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="431.html">Ömer Seyfettin - Yalnız Efe<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="432.html">Örgütlenelim mi Teyzem - Sinem Sal<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="433.html">Özgürlük Üzerine - John Mill<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="434.html">Özlü Sözler 3<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="435.html">Üç Adım Uzakta - Rachael Lippincolt<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="436.html">İhtiyarın Ölümü - Vasili Makoroviç Suşkin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="437.html">İkey'in Aşk İksiri - William Sidney Porter<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="438.html">İki Dünyanın Şavaşı - Robert Krugmann<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="439.html">İki Küçük Serçe - Deniz Spatar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="440.html">İkiz Bedenler - Tess Geritsen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="441.html">İlahi Alanla Bağlantı Meditasyonu - Erkan Sarıyıldız<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="442.html">İlk Acı - Franz Kafka<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="443.html">İnce Uzun Yol - F.Scott Fitgerald<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="444.html">İns-Hikayeler - Cahit Zarifoğlu<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="445.html">İnsan Nedir - Mark Twain<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="446.html">İnsan İnsanın Hayal Kırıklığıdır - Ali Lidar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="447.html">İnsanları Dinlemek - Leonard Stevens<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="448.html">İnsanlığın Erken Dönemi- Friedemann Shrenk<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="449.html">İnsansız Bir Öğle Vakti -Hakan Bıçakçı<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="450.html">İnsanın Evrimi - Thomas Junker<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="451.html">İrade Terbiyesi - Jules Payot<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="452.html">İtiraflarım - Lev N. Tolstoy<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="453.html">İçindeki Çocuğa Ulaşma Meditasyonu - Erkan Sarıyıldız<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="454.html">Şaheser Bir Hikaye - Aziz Nesin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="455.html">Şeref Motel - M. Caner Alper<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="456.html">Şeytanın Merhameti-Evgeny Chirikov<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="457.html">10 Emir Musa - Albert Hirsch<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="458.html">---BİR KİTABIN YARISI---<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="459.html">Alef - Michael Schumacher<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="460.html">Antik Çağda Küçük Asya - Elmar Schwertheim<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="461.html">Araf - Elif Şafak<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="462.html">Arsen Lüpen Kibar Hırsız - Maurice Leblanc<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="463.html">Avucunuzdaki Kelebek - Ahmet Şerif İzgören<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="464.html">Birini Pencere Kenarına Çiçek Koyacak Kadar Sevmek Lazım<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="465.html">Amak-ı Hayal - Filibeli Ahmet Hilmi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="466.html">Boğulmamak İçin - George Orwell<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="467.html">Çanlar - Charles Dickens<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="468.html">İki Hödüğün Seyahati - Hüseyin Rahmi Gürpınar<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="469.html">İtalyan Hikayeleri - Giovanni Boccacio<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="470.html">Küçük Evin Büyük Sırrı - Gülsüm Sezen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="471.html">Martin Luther - Thomas Kaufman<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="472.html">Masumiyetin İçin Savaş - Tess Gerritsen<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="473.html">Demokratik Bir Türkiye - Kaya Erdem<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="474.html">Biyelkin Hikayeleri - Aleksandr Puşkin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="475.html">Azil - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="476.html">Biyoloji Tarihi - Thomas Junker<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="477.html">Camera Obscura - Halil İbrahim İzgi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="478.html">Cennetin Kayıp Toprakları - Yavuz Ekinci<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="479.html">Gizli Diller ve kodlar - Albrecht Beutelspacher<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="480.html">Hipotermi - Arnaldur Indridason<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="481.html">Sirk köpeği - Anton Çehov<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="482.html">Kızıl - Stefan Zweig<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="483.html">Meraklısı İçin Casuslar Kitabı - Murat Yetkin<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="484.html">Meşakk-ı Hayat - Ahmet Rasim<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="485.html">Mezopotamya - Karen Radner<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="486.html">Nürnberg Yargılamaları - Annette Weinke<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="487.html">Yahudi Tarihi - Kurt Schubert<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="488.html">Yedi Asılmışların Hikayesi - Leonid Andreyev<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="489.html">Zuhuratname - Hayrullah Şanzumi<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+<!-- Page Item --><a class="affan-element-item" href="490.html">Az - Hakan Günday<i class="bi bi-chevron-right"></i></a>
+
+
+        <script>
+          function elementsSearch() {
+              var input = document.getElementById('elementsSearchInput');
+              var filter = input.value.toUpperCase();
+              var list = document.getElementById("elementsSearchList");
+              var listItem = list.getElementsByClassName('affan-element-item');
+          
+              for (i = 0; i < listItem.length; i++) {
+                  var a = listItem[i];
+                  var textValue = a.textContent || a.innerText;
+                  if (textValue.toUpperCase().indexOf(filter) > -1) {
+                      listItem[i].style.display = "";
+                  } else {
+                      listItem[i].style.display = "none";
+                  }
+              }
+          }
+          
+        </script>
+      </div>
+    </div>
+      </div>
+    </div>
+    <!-- All JavaScript Files -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/slideToggle.min.js"></script>
+    <script src="js/internet-status.js"></script>
+    <script src="js/tiny-slider.js"></script>
+    <script src="js/baguetteBox.min.js"></script>
+    <script src="js/countdown.js"></script>
+    <script src="js/rangeslider.min.js"></script>
+    <script src="js/vanilla-dataTables.min.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/magic-grid.min.js"></script>
+    <script src="js/dark-rtl.js"></script>
+    <script src="js/active.js"></script>
+    <!-- PWA -->
+    <script src="js/pwa.js"></script>
+  </body>
+</html>
