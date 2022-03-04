@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Deniz Feneri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Woolf, Virginia">Virginia Woolf</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;İngiliz edebiyatının başyapıtlarından biri olan Deniz Feneri, son derece basit olay örgüsünün ardında yaratıcısının özyaşamının ayrıntılarını, toplumsal meselelere ilişkin sorgulamalarını, içgözlemlerini ve derin felsefi gizemleri barındırır.&lt;br&gt;Deniz Feneri’nin merkezinde I. Dünya Savaşı’nın öncesinde ve sonrasında İskoçya’nın Skye Adası’ndaki evlerinde kalan Ramsay ailesi ve konukları vardır. Çocuklar oynarken, yetişkinler sohbet eder, düşüncelere dalar ve keşiflerde bulunur. Yapıtın roman türünde alışık olduğumuz anlatı sürekliliğini kesintiye uğratan yapısı ve her bir anlatıcının kendi bilinç akışının perspektifiyle çözülen olay örgüsü, bir deniz fenerinin kendi ekseni etrafında dönen ışığını andırır. Böylece Ramsay ailesinin sıradan gündelik yaşamı zaman, ölüm, toplumsal cinsiyet ve ahlak üzerine derin düşüncelere gömülür.&lt;/p&gt;</dc:description>
+    <dc:date>2017-03-18T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{EBCEF08B-74DA-482B-8F94-6AB338E8E998}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-21</dc:date>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">24650e36-5086-45bc-86fd-768e2aea87b5</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-605-532-442-3</dc:identifier>
+    <meta content="0.9.6" name="Sigil version"/>
+    <meta name="cover" content="denizfeneri.jpg"/>
+    <meta content="Deniz Feneri" name="calibre:title_sort"/>
+    <meta content="{&quot;Virginia Woolf&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part1.xhtml" href="Text/part1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part2.xhtml" href="Text/part2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part3.xhtml" href="Text/part3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id7" href="Styles/main.css" media-type="text/css"/>
+    <item id="denizfeneri.jpg" href="Images/denizfeneri.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="part1.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="part2.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="part3.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

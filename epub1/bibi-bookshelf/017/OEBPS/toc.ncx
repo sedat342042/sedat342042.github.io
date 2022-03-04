@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="tr-TR" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{079FA1A0-43CC-40D2-81A6-08742BA22813}" name="uid"/>
+  </head>
+  <docTitle>
+    <text>Stefan Zweig - Ay Işığı Sokağı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="{F71841B7-C8A6-41A3-ADF4-62574C6D0D7F}" playOrder="1">
+      <navLabel>
+        <text>Modern Klasikler Dizisi -98</text>
+      </navLabel>
+      <content src="Text/ickapak.xhtml#caption1"/>
+    </navPoint>
+    <navPoint id="{5FCE1F98-0F28-44A2-961E-1FEB73D1BB83}" playOrder="2">
+      <navLabel>
+        <text>Ay Işığı Sokağı</text>
+      </navLabel>
+      <content src="Text/ay-isigi-sokagi.xhtml"/>
+    </navPoint>
+    <navPoint id="{38645EAF-A463-4E91-818D-5291F312D1C5}" playOrder="3">
+      <navLabel>
+        <text>Leporella</text>
+      </navLabel>
+      <content src="Text/leporella.xhtml"/>
+    </navPoint>
+    <navPoint id="{C593C2C0-CD6E-47CD-AA32-D02C04895D79}" playOrder="4">
+      <navLabel>
+        <text>Nişan</text>
+      </navLabel>
+      <content src="Text/nisan.xhtml"/>
+    </navPoint>
+    <navPoint id="{254B09F1-D11F-4237-B3F5-67B22FA012ED}" playOrder="5">
+      <navLabel>
+        <text>Leman Gölü Kıyısında Olay</text>
+      </navLabel>
+      <content src="Text/leman.xhtml"/>
+    </navPoint>
+    <navPoint id="{7328FAAD-E2D3-41E3-A2C4-C21CE36A00C1}" playOrder="6">
+      <navLabel>
+        <text>Avare</text>
+      </navLabel>
+      <content src="Text/avare.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

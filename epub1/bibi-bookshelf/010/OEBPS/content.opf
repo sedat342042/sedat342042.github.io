@@ -1,0 +1,92 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yıldız Gezgini</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>Bir akademisyen meslektaşını öldürerek San Quentin Hapishanesi’ne düşen eski bir profesör, burada yaşam boyu hapis cezasını çekerken maruz kaldığı korkunç işkenceden kaçmak için zihinsel taktikler geliştirir. Acı çeken bedenini terk ederek, tarihin farklı dönemlerinde, farklı coğrafyalarda geçen önceki yaşamlarına geri döndüğü yolculuklara çıkar. Jack London’ın korkunç San Quentin’de beş yılını geçiren arkadaşı Ed Morrell’dan esinlenerek yazdığı Yıldız Gezgini’nin anlatıcısının her bir geçmiş yaşam deneyimi, bağımsız birer öykü olarak da okunabilir. London bu en özgün yapıtında, astral seyahat ve yeniden doğuş çevrimi üzerine kafa yorar. Ancak insanlık durumunun bu dirayetli gözlemcisinin asıl derdi, ABD’nin gaddar ve çürümüş hapishane sistemini gözler önüne sermektir.</dc:description>
+    <dc:date>2017-03-20T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{348E5807-9DBB-4ABB-9A51-F033FF27E19D}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-21</dc:date>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">ab12e56b-976d-4012-84f4-5360e3ea1b71</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-605-332-286-3</dc:identifier>
+    <meta content="0.9.6" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="Yıldız Gezgini" name="calibre:title_sort"/>
+    <meta content="{&quot;Jack London&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15.xhtml" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16.xhtml" href="Text/16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17.xhtml" href="Text/17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18.xhtml" href="Text/18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19.xhtml" href="Text/19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20.xhtml" href="Text/20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x21.xhtml" href="Text/21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x22.xhtml" href="Text/22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id24" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id24">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="x21.xhtml"/>
+    <itemref idref="x22.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

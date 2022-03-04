@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:isbn:9789750720390" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:generator" content="Sistematik epub-tools" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Usta ile Margarita</text>
+  </docTitle>
+  <navMap>
+    <navLabel>
+      <text>İçindekiler</text>
+    </navLabel>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Mihail Bulgakov ve “Usta ile Margarita” üstüne</text>
+      </navLabel>
+      <content src="introduction.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="part1.xhtml" />
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>1 Yabancılarla sakın konuşmayın</text>
+        </navLabel>
+        <content src="chapter1.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>2 Pontius Pilatus</text>
+        </navLabel>
+        <content src="chapter2.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>3 Yedinci kanıt</text>
+        </navLabel>
+        <content src="chapter3.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>4 İzleme</text>
+        </navLabel>
+        <content src="chapter4.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>5 Griboyedov’da olup bitenler</text>
+        </navLabel>
+        <content src="chapter5.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>6 Söylendiği gibi, şizofreni</text>
+        </navLabel>
+        <content src="chapter6.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>7 Kötü bir daire</text>
+        </navLabel>
+        <content src="chapter7.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>8 Bir profesörle bir şairin düellosu</text>
+        </navLabel>
+        <content src="chapter8.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>9 Korovyev’in muziplikleri</text>
+        </navLabel>
+        <content src="chapter9.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>10 Yalta’dan haberler</text>
+        </navLabel>
+        <content src="chapter10.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>11 İvan’ın çifte kişiliği</text>
+        </navLabel>
+        <content src="chapter11.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>12 Kara büyü ve sırları açıklanıyor</text>
+        </navLabel>
+        <content src="chapter12.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>13 Kahramanın ortaya çıkışı</text>
+        </navLabel>
+        <content src="chapter13.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>14 Horoza övgü</text>
+        </navLabel>
+        <content src="chapter14.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>15 Nikanor İvanoviç’in rüyası</text>
+        </navLabel>
+        <content src="chapter15.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>16 İnfaz</text>
+        </navLabel>
+        <content src="chapter16.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>17 Hareketli bir gün</text>
+        </navLabel>
+        <content src="chapter17.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>18 Talihsiz konuklar</text>
+        </navLabel>
+        <content src="chapter18.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>19 Margarita</text>
+        </navLabel>
+        <content src="chapter19.xhtml" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="part2.xhtml" />
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>20 Azazello’nun kremi</text>
+        </navLabel>
+        <content src="chapter20.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>21 Uçuş</text>
+        </navLabel>
+        <content src="chapter21.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>22 Mum ışığında</text>
+        </navLabel>
+        <content src="chapter22.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>23 Şeytan’ın evindeki büyük balo</text>
+        </navLabel>
+        <content src="chapter23.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>24 Usta’nın yeniden ortaya çıkarılışı</text>
+        </navLabel>
+        <content src="chapter24.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>25 Vali, Yahuda İskariyot’u nasıl kurtarmaya çalıştı</text>
+        </navLabel>
+        <content src="chapter25.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>26 Cenaze</text>
+        </navLabel>
+        <content src="chapter26.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>27 50 numaralı dairenin sonu</text>
+        </navLabel>
+        <content src="chapter27.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>28 Korovyev ile Behennot’un son serüvenleri</text>
+        </navLabel>
+        <content src="chapter28.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>29 Usta ile Margarita’nın kaderi belli oluyor</text>
+        </navLabel>
+        <content src="chapter29.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>30 Tam sırasıdır! Tam sırasıdır</text>
+        </navLabel>
+        <content src="chapter30.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>31 Vorobyoviye Gori’de</text>
+        </navLabel>
+        <content src="chapter31.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>32 Bağışlanma ve sonsuz huzur</text>
+        </navLabel>
+        <content src="chapter32.xhtml" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="conclusion.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Geçmişe Yolculuk</dc:title>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:subject>Modern Klasikler, Alman Edebiyatı</dc:subject>
+    <dc:description>Geçmişe Yolculuk
+
+Zweig’ın 1920’li yıllarda yazdığı tahmin edilen bu novellanın el yazması ölümünden sonra oldukça geç bir tarihte,  1970’lerde gün ışığına çıkarıldı. Ve aşkın sınır tanımazlığı üzerine yazılmış en yoğun, en etkileyici metinler arasında yerini aldı.
+Geçmişe Yolculuk, zamana, mekâna ve değişen koşullara direnen yasak ve tutkulu bir aşkın hikâyesidir. Bu çılgın aşk önce okyanusun ve daha sonra da Birinci Dünya Savaşı’nın araya girmesiyle dokuz yıllık bir kesintiye uğrar. Yıllar sonra yeniden buluşan iki sevgilinin hayatları büyük bir değişime uğramıştır. Önlerinde uzanan belirsiz geleceğe, geçmişin sürekli aralarına giren gölgesine rağmen, aşk doludizgin sürmektedir…
+Stefan Zweig (1881-1942): Viyana’da varlıklı bir Yahudi ailenin çocuğu olarak dünyaya gelen Zweig, yaşamı boyunca Avrupa’nın hızlı değişimine tanıklık etti. 1934’te Nazilerin baskısı yüzünden Avusturya’dan ayrıldı. Önce İngiltere’ye, 1940’ta da Brezilya’ya göç etti. Satranç, Amok Koşucusu, Bilinmeyen Bir Kadının Mektubu, Bir Kadının Yaşamından Yirmi Dört Saat, Olağanüstü Bir Gece gibi unutulmaz novellaları ona büyük bir ün kazandırdı. Roman, şiir, öykü, deneme, biyografi ve oyun gibi farklı türlerde çok sayıda yetkin ürün verdi. Psikolojiye ve Freud’un öğretisine  duyduğu ilgi onu derin karakter incelemelerine götürdü. Önemli denemeleri arasında Üç Büyük Usta (1920);  Kendileriyle Savaşanlar (1925) ve Kendi Hayatının Şiirini Yazanlar (1928) sayılabilir. Ungeduld des Herzens (1938; Sabırsız Yürek) adlı bir psikolojik romanı da mevcuttur.
+Yazara ün kazandıran bir başka yapıtı Sternstunden der Menschheit’tır (1928; Yıldızın Parladığı Anlar). Zweig ayrıca Joseph Fouché, Marie Antoinette ve Mary Stuart’ın nesnellikten çok sezgiye dayanan biyografilerini kaleme aldı. Avrupa’nın Hitler’e köle olduğunu görerek umutsuzluğa kapılan Zweig, 1942’de ikinci eşiyle birlikte intihar etti.</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:creator opf:role="aut">Stefan Zweig</dc:creator>
+    <dc:identifier id="uuid">{C17A8D32-76F4-450C-AB86-DAF4C06B9805}</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+    <meta name="Sigil version" content="0.9.9" />
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2018-03-08</dc:date>
+  </metadata>
+  <manifest>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="gecmise-yolculuk.xhtml" href="Text/gecmise-yolculuk.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="yayin-no.xhtml" href="Text/yayin-no.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-ttf"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-ttf"/>
+    <item id="is-modern.css" href="Styles/is-modern.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="yayin-no.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="gecmise-yolculuk.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

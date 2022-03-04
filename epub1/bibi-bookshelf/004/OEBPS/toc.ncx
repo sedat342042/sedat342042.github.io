@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{CF3994F6-DB39-4CB3-8D5D-3BECBB037E88}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bir Doktorun Anıları</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Horozlu Havlu</text>
+      </navLabel>
+      <content src="Text/horozlu.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Tipi</text>
+      </navLabel>
+      <content src="Text/tipi.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Çelik Soluk Borusu</text>
+      </navLabel>
+      <content src="Text/celik.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Zifiri Mısır Karanlığı</text>
+      </navLabel>
+      <content src="Text/zifiri.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Ters Vaftiz</text>
+      </navLabel>
+      <content src="Text/ters.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Kayıp Göz</text>
+      </navLabel>
+      <content src="Text/kayip.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Yıldız Döküntü</text>
+      </navLabel>
+      <content src="Text/yildiz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Morfin</text>
+      </navLabel>
+      <content src="Text/morfin.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/morfin.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/morfin.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/morfin.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/morfin.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Ben Birini Öldürdüm</text>
+      </navLabel>
+      <content src="Text/ben.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="453bc5a4-7050-4f03-82bc-b6e94c52d26f" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Üç Örnek Öykü ve Bir Önsöz</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>İki Anne</text>
+      </navLabel>
+      <content src="Text/01.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Lumbría Markisi</text>
+      </navLabel>
+      <content src="Text/02.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Tam Bir Erkek</text>
+      </navLabel>
+      <content src="Text/03.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

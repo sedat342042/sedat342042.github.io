@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>İnsanın Esareti</dc:title>
+    <dc:subject>Modern Klasik</dc:subject>
+    <dc:description>Somerset Maugham’ın başyapıtı olarak kabul edilen İnsanın Esareti, Modern Library’nin 20. yüzyılda İngiliz dilinde yazılmış en iyi yüz roman listesine dahil edilmiştir. Yazar, başlığını Spinoza’nın Ethica adlı yapıtının bir bölümünden aldığı romanında, gerçekle kurguyu iç içe geçirmiştir. Özyaşamıyla büyük ölçüde paralellikler taşıyan bu romanda, küçük yaşta öksüz kalıp akrabaları tarafından büyütülen, bir ayağı doğuştan sakat olan Philip’in uyum sağlamakta zorlandığı yatılı okul günlerinin ardından acılı olgunlaşma yıllarını anlatır. Önce muhasebeciliği deneyen, daha sonra sanat eğitimine yönelen Philip, en sonunda Londra’da tıp eğitimine başlar. Orada onu yıkıma sürükleyecek ve hayatını altüst edecek bir aşk macerası beklemektedir..</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:creator opf:role="aut">Somerset Maugham</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <meta content="0.9.8" name="Sigil version" />
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2017-09-29</dc:date>
+    <dc:identifier id="uuid">{4D9C5ACD-A8CB-4572-B865-56CDFF52238A}</dc:identifier>
+    <meta name="cover" content="insanin_esareti.jpg" />
+  </metadata>
+  <manifest>
+    <item id="p009.xhtml" href="Text/p009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p017.xhtml" href="Text/p017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p026.xhtml" href="Text/p026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p033.xhtml" href="Text/p033.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p040.xhtml" href="Text/p040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p045.xhtml" href="Text/p045.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p050.xhtml" href="Text/p050.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p057.xhtml" href="Text/p057.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p065.xhtml" href="Text/p065.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p072.xhtml" href="Text/p072.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p078.xhtml" href="Text/p078.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p085.xhtml" href="Text/p085.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p092.xhtml" href="Text/p092.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p098.xhtml" href="Text/p098.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p103.xhtml" href="Text/p103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p107.xhtml" href="Text/p107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p110.xhtml" href="Text/p110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p113.xhtml" href="Text/p113.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p117.xhtml" href="Text/p117.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p121.xhtml" href="Text/p121.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p122.xhtml" href="Text/p122.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id23" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-ttf"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-ttf"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="p001.xhtml" href="Text/p001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p002.xhtml" href="Text/p002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p003.xhtml" href="Text/p003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p004.xhtml" href="Text/p004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p006.xhtml" href="Text/p006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p007.xhtml" href="Text/p007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p008.xhtml" href="Text/p008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p005.xhtml" href="Text/p005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p010.xhtml" href="Text/p010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p011.xhtml" href="Text/p011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p012.xhtml" href="Text/p012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p013.xhtml" href="Text/p013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p014.xhtml" href="Text/p014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p015.xhtml" href="Text/p015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p016.xhtml" href="Text/p016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p018.xhtml" href="Text/p018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p019.xhtml" href="Text/p019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p020.xhtml" href="Text/p020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p021.xhtml" href="Text/p021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p022.xhtml" href="Text/p022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p023.xhtml" href="Text/p023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p024.xhtml" href="Text/p024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p025.xhtml" href="Text/p025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p027.xhtml" href="Text/p027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p028.xhtml" href="Text/p028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p029.xhtml" href="Text/p029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p030.xhtml" href="Text/p030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p031.xhtml" href="Text/p031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p032.xhtml" href="Text/p032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p034.xhtml" href="Text/p034.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p035.xhtml" href="Text/p035.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p036.xhtml" href="Text/p036.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p037.xhtml" href="Text/p037.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p038.xhtml" href="Text/p038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p039.xhtml" href="Text/p039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p041.xhtml" href="Text/p041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p042.xhtml" href="Text/p042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p043.xhtml" href="Text/p043.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p044.xhtml" href="Text/p044.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p046.xhtml" href="Text/p046.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p047.xhtml" href="Text/p047.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p048.xhtml" href="Text/p048.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p049.xhtml" href="Text/p049.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p051.xhtml" href="Text/p051.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p052.xhtml" href="Text/p052.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p053.xhtml" href="Text/p053.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p054.xhtml" href="Text/p054.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p055.xhtml" href="Text/p055.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p056.xhtml" href="Text/p056.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p058.xhtml" href="Text/p058.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p059.xhtml" href="Text/p059.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p060.xhtml" href="Text/p060.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p061.xhtml" href="Text/p061.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p062.xhtml" href="Text/p062.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p063.xhtml" href="Text/p063.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p064.xhtml" href="Text/p064.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p066.xhtml" href="Text/p066.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p067.xhtml" href="Text/p067.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p068.xhtml" href="Text/p068.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p069.xhtml" href="Text/p069.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p070.xhtml" href="Text/p070.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p071.xhtml" href="Text/p071.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p073.xhtml" href="Text/p073.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p074.xhtml" href="Text/p074.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p075.xhtml" href="Text/p075.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p076.xhtml" href="Text/p076.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p077.xhtml" href="Text/p077.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p079.xhtml" href="Text/p079.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p080.xhtml" href="Text/p080.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p081.xhtml" href="Text/p081.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p082.xhtml" href="Text/p082.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p083.xhtml" href="Text/p083.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p084.xhtml" href="Text/p084.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p086.xhtml" href="Text/p086.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p087.xhtml" href="Text/p087.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p088.xhtml" href="Text/p088.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p089.xhtml" href="Text/p089.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p090.xhtml" href="Text/p090.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p091.xhtml" href="Text/p091.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p093.xhtml" href="Text/p093.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p094.xhtml" href="Text/p094.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p095.xhtml" href="Text/p095.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p096.xhtml" href="Text/p096.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p097.xhtml" href="Text/p097.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p099.xhtml" href="Text/p099.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p100.xhtml" href="Text/p100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p101.xhtml" href="Text/p101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p102.xhtml" href="Text/p102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p104.xhtml" href="Text/p104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p105.xhtml" href="Text/p105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p106.xhtml" href="Text/p106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p108.xhtml" href="Text/p108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p109.xhtml" href="Text/p109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p111.xhtml" href="Text/p111.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p112.xhtml" href="Text/p112.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p114.xhtml" href="Text/p114.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p115.xhtml" href="Text/p115.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p116.xhtml" href="Text/p116.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p118.xhtml" href="Text/p118.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p119.xhtml" href="Text/p119.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p120.xhtml" href="Text/p120.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insanin_esareti.jpg" href="Images/insanin_esareti.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id23">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="p001.xhtml"/>
+    <itemref idref="p002.xhtml"/>
+    <itemref idref="p003.xhtml"/>
+    <itemref idref="p004.xhtml"/>
+    <itemref idref="p005.xhtml"/>
+    <itemref idref="p006.xhtml"/>
+    <itemref idref="p007.xhtml"/>
+    <itemref idref="p008.xhtml"/>
+    <itemref idref="p009.xhtml"/>
+    <itemref idref="p010.xhtml"/>
+    <itemref idref="p011.xhtml"/>
+    <itemref idref="p012.xhtml"/>
+    <itemref idref="p013.xhtml"/>
+    <itemref idref="p014.xhtml"/>
+    <itemref idref="p015.xhtml"/>
+    <itemref idref="p016.xhtml"/>
+    <itemref idref="p017.xhtml"/>
+    <itemref idref="p018.xhtml"/>
+    <itemref idref="p019.xhtml"/>
+    <itemref idref="p020.xhtml"/>
+    <itemref idref="p021.xhtml"/>
+    <itemref idref="p022.xhtml"/>
+    <itemref idref="p023.xhtml"/>
+    <itemref idref="p024.xhtml"/>
+    <itemref idref="p025.xhtml"/>
+    <itemref idref="p026.xhtml"/>
+    <itemref idref="p027.xhtml"/>
+    <itemref idref="p028.xhtml"/>
+    <itemref idref="p029.xhtml"/>
+    <itemref idref="p030.xhtml"/>
+    <itemref idref="p031.xhtml"/>
+    <itemref idref="p032.xhtml"/>
+    <itemref idref="p033.xhtml"/>
+    <itemref idref="p034.xhtml"/>
+    <itemref idref="p035.xhtml"/>
+    <itemref idref="p036.xhtml"/>
+    <itemref idref="p037.xhtml"/>
+    <itemref idref="p038.xhtml"/>
+    <itemref idref="p039.xhtml"/>
+    <itemref idref="p040.xhtml"/>
+    <itemref idref="p041.xhtml"/>
+    <itemref idref="p042.xhtml"/>
+    <itemref idref="p043.xhtml"/>
+    <itemref idref="p044.xhtml"/>
+    <itemref idref="p045.xhtml"/>
+    <itemref idref="p046.xhtml"/>
+    <itemref idref="p047.xhtml"/>
+    <itemref idref="p048.xhtml"/>
+    <itemref idref="p049.xhtml"/>
+    <itemref idref="p050.xhtml"/>
+    <itemref idref="p051.xhtml"/>
+    <itemref idref="p052.xhtml"/>
+    <itemref idref="p053.xhtml"/>
+    <itemref idref="p054.xhtml"/>
+    <itemref idref="p055.xhtml"/>
+    <itemref idref="p056.xhtml"/>
+    <itemref idref="p057.xhtml"/>
+    <itemref idref="p058.xhtml"/>
+    <itemref idref="p059.xhtml"/>
+    <itemref idref="p060.xhtml"/>
+    <itemref idref="p061.xhtml"/>
+    <itemref idref="p062.xhtml"/>
+    <itemref idref="p063.xhtml"/>
+    <itemref idref="p064.xhtml"/>
+    <itemref idref="p065.xhtml"/>
+    <itemref idref="p066.xhtml"/>
+    <itemref idref="p067.xhtml"/>
+    <itemref idref="p068.xhtml"/>
+    <itemref idref="p069.xhtml"/>
+    <itemref idref="p070.xhtml"/>
+    <itemref idref="p071.xhtml"/>
+    <itemref idref="p072.xhtml"/>
+    <itemref idref="p073.xhtml"/>
+    <itemref idref="p074.xhtml"/>
+    <itemref idref="p075.xhtml"/>
+    <itemref idref="p076.xhtml"/>
+    <itemref idref="p077.xhtml"/>
+    <itemref idref="p078.xhtml"/>
+    <itemref idref="p079.xhtml"/>
+    <itemref idref="p080.xhtml"/>
+    <itemref idref="p081.xhtml"/>
+    <itemref idref="p082.xhtml"/>
+    <itemref idref="p083.xhtml"/>
+    <itemref idref="p084.xhtml"/>
+    <itemref idref="p085.xhtml"/>
+    <itemref idref="p086.xhtml"/>
+    <itemref idref="p087.xhtml"/>
+    <itemref idref="p088.xhtml"/>
+    <itemref idref="p089.xhtml"/>
+    <itemref idref="p090.xhtml"/>
+    <itemref idref="p091.xhtml"/>
+    <itemref idref="p092.xhtml"/>
+    <itemref idref="p093.xhtml"/>
+    <itemref idref="p094.xhtml"/>
+    <itemref idref="p095.xhtml"/>
+    <itemref idref="p096.xhtml"/>
+    <itemref idref="p097.xhtml"/>
+    <itemref idref="p098.xhtml"/>
+    <itemref idref="p099.xhtml"/>
+    <itemref idref="p100.xhtml"/>
+    <itemref idref="p101.xhtml"/>
+    <itemref idref="p102.xhtml"/>
+    <itemref idref="p103.xhtml"/>
+    <itemref idref="p104.xhtml"/>
+    <itemref idref="p105.xhtml"/>
+    <itemref idref="p106.xhtml"/>
+    <itemref idref="p107.xhtml"/>
+    <itemref idref="p108.xhtml"/>
+    <itemref idref="p109.xhtml"/>
+    <itemref idref="p110.xhtml"/>
+    <itemref idref="p111.xhtml"/>
+    <itemref idref="p112.xhtml"/>
+    <itemref idref="p113.xhtml"/>
+    <itemref idref="p114.xhtml"/>
+    <itemref idref="p115.xhtml"/>
+    <itemref idref="p116.xhtml"/>
+    <itemref idref="p117.xhtml"/>
+    <itemref idref="p118.xhtml"/>
+    <itemref idref="p119.xhtml"/>
+    <itemref idref="p120.xhtml"/>
+    <itemref idref="p121.xhtml"/>
+    <itemref idref="p122.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

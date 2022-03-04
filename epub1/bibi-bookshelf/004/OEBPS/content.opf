@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uuid">{CF3994F6-DB39-4CB3-8D5D-3BECBB037E88}</dc:identifier>
+    <dc:title>Genç Bir Doktorun Anıları</dc:title>
+    <dc:creator opf:role="aut">Mihail Bulgakov</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:date opf:event="modification">2018-02-23</dc:date>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>Devrim zamanı Rusya… Karakışı aratmayacak kadar soğuk, kasvetli bir eylül günü, tıp fakültesinden yeni mezun olmuş bir doktor, şehirde çoktan unutulmuş geleneklerin ve boş inançların hüküm sürdüğü uzak bir kasabaya gelir. Devrim, büyük şehirlerin merkezlerinde hayatı ve zihniyetleri altüst ederken, bu genç doktor ülkenin ücra bir bölgesinde kadercilikle ve batıl inançlarla zorlu bir mücadeleye girişir. Zor bir doğum, hassas bir cerrahi müdahale, uzaktaki bir hastaya ulaşabilmek için şiddetli bir kar fırtınasına rağmen göze alınan bir yolculuk, ağrılarını dindirmeye çalışırken morfinman olan bir meslektaş… Genç doktorun gündelik hayatında karşılaştığı bütün zorlu sınavlar, Bulgakov'un elinde olağanüstü güçlü bir anlatımla, dram sınırlarında gezinen bir dokunaklılıkta öykülere dönüşür</dc:description>
+    <meta name="Sigil version" content="0.9.9" />
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="horozlu.xhtml" href="Text/horozlu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="celik.xhtml" href="Text/celik.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kayip.xhtml" href="Text/kayip.xhtml" media-type="application/xhtml+xml"/>
+    <item id="morfin.xhtml" href="Text/morfin.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben.xhtml" href="Text/ben.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tipi.xhtml" href="Text/tipi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yildiz.xhtml" href="Text/yildiz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="zifiri.xhtml" href="Text/zifiri.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ters.xhtml" href="Text/ters.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="is_bankasi.jpg" href="Images/is%20bankasi.jpg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-ttf"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-ttf"/>
+    <item id="SM-is-modern.css" href="Styles/SM-is-modern.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="horozlu.xhtml"/>
+    <itemref idref="tipi.xhtml"/>
+    <itemref idref="celik.xhtml"/>
+    <itemref idref="zifiri.xhtml"/>
+    <itemref idref="ters.xhtml"/>
+    <itemref idref="kayip.xhtml"/>
+    <itemref idref="yildiz.xhtml"/>
+    <itemref idref="morfin.xhtml"/>
+    <itemref idref="ben.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

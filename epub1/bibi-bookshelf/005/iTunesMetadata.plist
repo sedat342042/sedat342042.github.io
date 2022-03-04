@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Halil Cibran</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>666C62243B7347BFE137A9F4595A62B7</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>0FFF6391A5C35DAE671F0AA588F95BF8</string>
+		<key>publisher-unique-id</key>
+		<string>{180C9084-641A-4993-8ADF-2D218A49E7AD}</string>
+		<key>unique-id</key>
+		<integer>-1832650854017887912</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>Modern Klasikler</string>
+	<key>itemName</key>
+	<string>Meczup</string>
+	<key>playlistName</key>
+	<string>Meczup</string>
+	<key>releaseDate</key>
+	<string>2017-03-23T22:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>Cibran, Halil</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

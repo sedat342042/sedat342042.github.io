@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="tr-TR" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{B73D592D-18D1-454C-AB04-023D0CBD4344}" name="uid"/>
+  </head>
+  <docTitle>
+    <text>Stefan Zweig - Gecmişe Yolculuk</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="{31D13427-D1A1-497F-931C-04C2C69F4A70}" playOrder="1">
+      <navLabel>
+        <text>Stefan</text>
+      </navLabel>
+      <content src="Text/ickapak.xhtml#caption1"/>
+    </navPoint>
+    <navPoint id="{4456A6C1-6545-4580-BD7E-B7430D8E5DE7}" playOrder="2">
+      <navLabel>
+        <text>Geçmişe</text>
+      </navLabel>
+      <content src="Text/gecmise-yolculuk.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

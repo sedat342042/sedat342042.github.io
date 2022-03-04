@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Maksim Gorki</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>38C6D3A138E9A5E3E5875F67635CAE89</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>B6FB0417BE3C1CE9E1019384285A6926</string>
+		<key>publisher-unique-id</key>
+		<string>{AD53E534-6AD5-4A96-B9B6-4CAED12FE155}</string>
+		<key>unique-id</key>
+		<integer>-4766961834216233410</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>Modern Klasikler</string>
+	<key>itemName</key>
+	<string>Ekmeğimi Kazanırken</string>
+	<key>playlistName</key>
+	<string>Ekmeğimi Kazanırken</string>
+	<key>releaseDate</key>
+	<string>2017-04-01T21:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>Gorki, Maksim</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

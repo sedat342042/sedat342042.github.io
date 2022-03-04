@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Çatal Dil</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Golding, William">William Golding</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;MÖ birinci yüzyılda kutsal Delphi şehrinin ünlü tapınağı zenginliğini ve dünyadaki nüfuzunu giderek yitirmektedir. Romalılar Yunan şehirlerine hâkim olmak üzeredir. Arieka adlı genç kız, Delphi’de Apollon adına kehanette bulunmak üzere Pythia olarak seçilir. Apollon’un yeryüzündeki sesi olarak, tanrının hizmetinde geçirdiği yıllar boyunca Delphi’nin çöküşüne ilk elden tanıklık edecektir. Yaşlılığında geçmişe dönerek, sevgisiz bir ailede geçen çocukluğunu, psişik güçlere sahip genç bir bakire olarak Yüksek Rahip İonides tarafından Delphi’de üstleneceği rol için seçilişini, tanrılara karşı ikircikli tavrını ve hayatının bilicilikle geçen altmış yılını gözden geçirir.&lt;br /&gt;Bu son romanını tamamlayamadan yaşama veda eden Golding, Çatal Dil’de bizi mazlum ama bağımsız ve olağanüstü sahici bir kadın karakterle tanıştırırken, eski Yunan dünyasını da capcanlı bir atmosfere büründürür.&lt;/p&gt;</dc:description>
+    <dc:date>2017-03-18T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{02119C50-442D-40D2-8111-23F8CAC18668}</dc:identifier>
+    <dc:date opf:event="modification">2017-04-23</dc:date>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">82818ade-d5f5-4d43-9d2e-4418b52a49ab</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-975-458-232-1</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+    <meta name="Sigil version" content="0.9.6" />
+    <meta name="calibre:title_sort" content="Çatal Dil" />
+    <meta name="calibre:author_link_map" content="{&quot;William Golding&quot;: &quot;&quot;}" />
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part1.xhtml" href="Text/part1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part2.xhtml" href="Text/part2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part3.xhtml" href="Text/part3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part4.xhtml" href="Text/part4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part5.xhtml" href="Text/part5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part6.xhtml" href="Text/part6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part7.xhtml" href="Text/part7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part8.xhtml" href="Text/part8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id4" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="part1.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="part2.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="part3.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="part4.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="part5.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="part6.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="part7.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="part8.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Ekmeğimi Kazanırken</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gorki, Maksim">Maksim Gorki</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Gorki’nin Rus tarihinin 19. yüzyıl sonundan 20. yüzyıl başlarına uzanan çok önemli bir dönemine ışık tutan otobiyografik üçlemesi, aslında kendini ve içinde yaşadığı dünyayı anlama ve anlamlandırma çabasının hikâyesidir. Bu çaba, Ekmeğimi Kazanırken’de artık hayata atılan yeniyetmelik çağındaki Gorki’yi 19. yüzyıl Rusya’sının katı gerçekliğiyle yüz yüze getirir.&lt;br /&gt;Üçlemenin ilk kitabı Çocukluğum’un sonunda dedesi tarafından “Var git insanların arasına karış…” sözleriyle dünyaya salındıktan sonra, ayakçılıktan bulaşıkçılığa, kuş yakalamaktan bir ikonografi atölyesinde çıraklığa kadar birçok farklı işte çalışır. Biz de garip ve hüzünlü hayat yolculuğunun farklı duraklarında bu halk çocuğuna eşlik eder, daha sonra yapıtlarına esin verecek olağanüstü canlı çok sayıda karakterle tanışırız. Kitaplar aracılığıyla gerçeklikten kaçıp sığındığı, ama görev çağırdığında terk etmeye hazır olduğu düş dünyasında onunla birlikte geziniriz.&lt;/p&gt;</dc:description>
+    <dc:date>2017-04-01T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{AD53E534-6AD5-4A96-B9B6-4CAED12FE155}</dc:identifier>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">68e01cc3-f5e0-4440-b968-cad606f7874b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053325482</dc:identifier>
+    <meta content="0.9.6" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+    <meta content="Ekmeğimi Kazanırken" name="calibre:title_sort" />
+    <meta content="{&quot;Maksim Gorki&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2017-04-02</dc:date>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15.xhtml" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16.xhtml" href="Text/16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17.xhtml" href="Text/17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18.xhtml" href="Text/18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19.xhtml" href="Text/19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20.xhtml" href="Text/20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id11" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id10" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id11">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

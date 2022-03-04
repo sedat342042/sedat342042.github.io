@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Jack London</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>FD01A7AE4B66386DDCC2263B44E5706A</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>F752B19242E74169B780F39FFE2C3BB4</string>
+		<key>publisher-unique-id</key>
+		<string>{348E5807-9DBB-4ABB-9A51-F033FF27E19D}</string>
+		<key>unique-id</key>
+		<integer>-6997974351146553639</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>Modern Klasikler</string>
+	<key>itemName</key>
+	<string>Yıldız Gezgini</string>
+	<key>playlistName</key>
+	<string>Yıldız Gezgini</string>
+	<key>releaseDate</key>
+	<string>2017-03-20T22:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>London, Jack</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

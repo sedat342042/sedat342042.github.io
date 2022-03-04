@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Ay Işığı Sokağı</dc:title>
+    <dc:subject>Modern Klasikler, Alman Edebiyatı</dc:subject>
+    <dc:description>Fransa’nın bir liman kentinin denizci mahallesinde gezinirken duyduğu arya söyleyen sesi izleyerek tanımadığı insanların marazi hayatlarına dalan bir gezgin; patronuna kölece bağlılığı yüzünden korkunç bir eyleme sürüklenen karanlık, itici ve yabani bir hizmetçi; 1810 yılında İspanya’daki savaşta yaralanan, düşman bir ülkede amansız bir hayatta kalma mücadelesine girişen bir Fransız albay; 1918 yılının bir yaz gecesi Leman gölünde bulunup kurtarılan, ancak sonra yüreğini kavuran yurt özlemine yenik düşen bir Rus savaş esiri; yaşıtları üniversiteye giderken hâlâ liseye devam eden avare bir gencin öğretmeninin otoritesine isyan ettikten sonra ödediği ağır bedel.
+Zweig bu öykülerde insanı insanlıktan çıkarıp en uç noktalara sürükleyen deneyimlerin izini sürerken, okuru da ister istemez karakterlerinin ruh çalkantılarının içine çekiyor…</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:creator opf:role="aut">Stefan Zweig</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <meta name="Sigil version" content="0.9.9" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2018-03-14</dc:date>
+    <dc:identifier id="uuid">{B5C19533-5702-41F0-AEBA-572CD6B9DF53}</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="ay-isigi-sokagi.xhtml" href="Text/ay-isigi-sokagi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="leporella.xhtml" href="Text/leporella.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nisan.xhtml" href="Text/nisan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="leman.xhtml" href="Text/leman.xhtml" media-type="application/xhtml+xml"/>
+    <item id="avare.xhtml" href="Text/avare.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="yayin-no.xhtml" href="Text/yayin-no.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-ttf"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-ttf"/>
+    <item id="im.css" href="Styles/im.css" media-type="text/css"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+  </manifest>
+  <spine toc="id7">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="yayin-no.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="ay-isigi-sokagi.xhtml"/>
+    <itemref idref="leporella.xhtml"/>
+    <itemref idref="nisan.xhtml"/>
+    <itemref idref="leman.xhtml"/>
+    <itemref idref="avare.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

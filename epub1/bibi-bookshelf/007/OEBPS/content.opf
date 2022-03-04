@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dr. Jekyll ile Bay Hyde</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Stevenson, Robert Louis">Robert Louis Stevenson</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Stevenson yinelenen kâbuslarında çifte yaşam sürüyor; gündüzleri saygın bir doktor olarak çalışırken geceleri sokaklarda geziniyordu. &lt;i&gt;Dr. Jekyll ile Bay Hyde &lt;/i&gt;işte bu kâbuslardan doğdu. 1886’da yayımlandığında İngiltere ve Amerika’yı kasıp kavuran yapıt, çok sayıda tiyatro ve sinema uyarlamasıyla bir popüler kültür efsanesine dönüşerek günümüze kadar geldi. Victoria döneminin değerlerine uygun olsa da, olay örgüsü günümüzün toplumsal ve psikolojik kaygılarına denk düşecek biçimde yeniden işlenebilmesine elveriyordu. Bir yandan da, bunca şan şöhretin gölgesinde kalan edebi derinliği ve çok katmanlılığıyla farklı düzeylerde okunabilecek bir metin olarak varlığını sürdürdü. Ruhla bedenin arzuları arasındaki ezeli çatışmadan söz ederken Victoria toplumunun ikiyüzlülüğünü yeren ve psikoloji alanında Freud’un kuramlarını haberleyen gelişmelerle kan bağı bulunan, çağının ötesinde bir başyapıt olarak&amp;#8230;&lt;/p&gt;</dc:description>
+    <dc:date>2017-03-28T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{61157D3A-9944-4ABA-8130-68A3E4BD08DE}</dc:identifier>
+    <dc:date opf:event="modification">2018-02-13</dc:date>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">b8874297-aac0-44d6-895e-a54952716ae4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-605-332-554-3</dc:identifier>
+    <meta name="Sigil version" content="0.9.9" />
+    <meta name="cover" content="cover.jpg" />
+    <meta name="calibre:title_sort" content="Dr. Jekyll ile Bay Hyde" />
+    <meta name="calibre:author_link_map" content="{&quot;Robert Louis Stevenson&quot;: &quot;&quot;}" />
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id11" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id10" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id11">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

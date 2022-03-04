@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{60C99BC5-797D-4CBA-8ACC-E833E548E1AD}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tanrı Claudius</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>TANRI CLAUDIUS ve Karısı Messalina</text>
+      </navLabel>
+      <content src="Text/ickapak.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Yazarın Notu</text>
+      </navLabel>
+      <content src="Text/yazarinnotu.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>1. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>2. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>3. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>4. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>S. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>6. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>7. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>8. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>9. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>10. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>11. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>12. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>13. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>14. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>15. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>16. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>17. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>18. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>19. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>20. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>21. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum21.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>22. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum22.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>23. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum23.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>24. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum24.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>25. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum25.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>26. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum26.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>27. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum27.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>28. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum28.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>29. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum29.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>30. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum30.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>31. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum31.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>32. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum32.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

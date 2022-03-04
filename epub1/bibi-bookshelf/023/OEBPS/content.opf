@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Mecburiyet</dc:title>
+    <dc:creator opf:role="aut">Stefan Zweig</dc:creator>
+    <dc:identifier opf:scheme="ISBN">9786052951606</dc:identifier>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>Savaş karşıtı görüşleriyle tanınan Zweig I. Dünya Savaşı boyunca bu görüşlerini yaymayı kendine misyon edinmişti. Avrupalı ve “dünya vatandaşı” kimliğine büyük değer veren yazar, yapıtlarında savaşın yıkıma uğrattığı “eski dünya”nın değerlerinin kayboluşunu büyük ölçüde dert edinmiştir. Mecburiyet ’in ana karakteri ressam Ferdinand da savaş sırasında askere alınmamak için İsviçre’ye kaçmıştır. Bir gün askerliğe elverişliliğinin tespiti için konsolosluğa davet edildiğinde, karısının şiddet karşıtı duruşuna ihanet etmemesi yolundaki telkinlerine karşın kendini gitmek zorunda hisseder. Görev duygusu, savaş karşıtı düşünceleri ve karısına duyduğu sevgi arasında sıkışıp kalmıştır. Ferdinand her ne kadar “insanlığın ötesinde bir vatanı” olmasa da, “yirmi milyon insanı boğan o
+zinciri” kıramayacağını düşünür…</dc:description>
+    <dc:date opf:event="publication">2017-08</dc:date>
+    <dc:date opf:event="creation">2018-04-07</dc:date>
+    <dc:language>tr-TR</dc:language>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2018-04-12</dc:date>
+    <dc:identifier id="uuid">{C5459375-2BDC-40A5-AA20-8CBE9114CB83}</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+    <meta content="0.9.9" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="Style.css" href="Styles/Style.css" media-type="text/css"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="yayin-no.xhtml" href="Text/yayin-no.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-ttf"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-ttf"/>
+    <item id="cevirmen.xhtml" href="Text/cevirmen.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hikaye.xhtml" href="Text/hikaye.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id2">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yayin-no.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="cevirmen.xhtml"/>
+    <itemref idref="hikaye.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

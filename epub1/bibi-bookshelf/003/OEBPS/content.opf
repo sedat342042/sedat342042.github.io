@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package unique-identifier="uuid" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta content="0.9.5" name="Sigil version"/>
+    <dc:title>Tanrı Claudius</dc:title>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>Ben, Claudius'ta, Caligula'nın öldürülmesinin ardından çıkan kargaşada, Claudius'u iradesi dışında imparator ilan edilmiş, ne yapacağını bilemez bir durumda bırakmıştık. Graves Tanrı Claudius'ta hikâyeye kaldığı yerden ve yine Claudius tarafından yazılmış gibi devam ediyor. O güne dek hayatta kalmasını zararsız bir geri zekâlı sanılmasına borçlu olan Claudius, şaşırtıcı ölçüde başarılı iktidar dönemini; ordunun ve halkın sadakatini kazanarak selefi Caligula'nın yol açtığı hasarı nasıl onardığını, çocukluk arkadaşı Yahudi Kralı Herodes Agrippa ile ilişkilerini ve Britanya'yı istila edişini anlatıyor. Ve mutlak iktidarın olmazsa olmaz eşlikçileri olan komplo ve ihanetleri atlatsa da, kaçınılmaz sona doğru giderek ilerleyişini… 
+
+Graves, yer yer mizahi bir anlatımla ete kemiğe büründürdüğü Claudius'un kişisel öyküsü aracılığıyla Roma'nın skandallarla ve şiddetle dolu bir dönemini bütün canlılığı, ihtişamı ve çöküşüyle gözlerimizin önüne seriyor.</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:creator opf:role="aut">Robert Graves</dc:creator>
+    <dc:date opf:event="modification">2016-11-14</dc:date>
+    <dc:identifier id="uuid">{60C99BC5-797D-4CBA-8ACC-E833E548E1AD}</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/tanriclaudius.xhtml" id="tanriclaudius.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazarinnotu.xhtml" id="yazarinnotu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum01.xhtml" id="bolum01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum02.xhtml" id="bolum02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum03.xhtml" id="bolum03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum04.xhtml" id="bolum04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum05.xhtml" id="bolum05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum06.xhtml" id="bolum06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum07.xhtml" id="bolum07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum08.xhtml" id="bolum08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum09.xhtml" id="bolum09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum10.xhtml" id="bolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum11.xhtml" id="bolum11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum12.xhtml" id="bolum12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum13.xhtml" id="bolum13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum14.xhtml" id="bolum14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum15.xhtml" id="bolum15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum16.xhtml" id="bolum16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum17.xhtml" id="bolum17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum18.xhtml" id="bolum18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum19.xhtml" id="bolum19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum20.xhtml" id="bolum20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum21.xhtml" id="bolum21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum22.xhtml" id="bolum22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum23.xhtml" id="bolum23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum24.xhtml" id="bolum24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum25.xhtml" id="bolum25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum26.xhtml" id="bolum26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum27.xhtml" id="bolum27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum28.xhtml" id="bolum28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum29.xhtml" id="bolum29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum30.xhtml" id="bolum30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum31.xhtml" id="bolum31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonsoz.xhtml" id="sonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id35" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/3495.xhtml" id="x3495.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum32.xhtml" id="bolum32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ucanlati3.xhtml" id="ucanlati3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/taslama.xhtml" id="taslama.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/SM.css" id="SM.css" media-type="text/css"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/is%20bankas%C4%B1.jpg" id="is_bankası.jpg" media-type="image/jpeg"/>
+    <item href="Text/harita.xhtml" id="harita.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/harita.jpg" id="harita.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/IBY.jpg" id="IBY.jpg" media-type="image/jpeg"/>
+    <item href="Text/ucanlati1.xhtml" id="ucanlati1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ucanlati2.xhtml" id="ucanlati2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buyukherodes.xhtml" id="buyukherodes.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/herodeshanedani.xhtml" id="herodeshanedani.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/a%20-%200002.jpg" id="a_-_0002.jpg" media-type="image/jpeg"/>
+    <item href="Images/a%20-%200003.jpg" id="a_-_0003.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id35">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="x3495.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="tanriclaudius.xhtml"/>
+    <itemref idref="yazarinnotu.xhtml"/>
+    <itemref idref="harita.xhtml"/>
+    <itemref idref="bolum01.xhtml"/>
+    <itemref idref="bolum02.xhtml"/>
+    <itemref idref="bolum03.xhtml"/>
+    <itemref idref="bolum04.xhtml"/>
+    <itemref idref="bolum05.xhtml"/>
+    <itemref idref="bolum06.xhtml"/>
+    <itemref idref="bolum07.xhtml"/>
+    <itemref idref="bolum08.xhtml"/>
+    <itemref idref="bolum09.xhtml"/>
+    <itemref idref="bolum10.xhtml"/>
+    <itemref idref="bolum11.xhtml"/>
+    <itemref idref="bolum12.xhtml"/>
+    <itemref idref="bolum13.xhtml"/>
+    <itemref idref="bolum14.xhtml"/>
+    <itemref idref="bolum15.xhtml"/>
+    <itemref idref="bolum16.xhtml"/>
+    <itemref idref="bolum17.xhtml"/>
+    <itemref idref="bolum18.xhtml"/>
+    <itemref idref="bolum19.xhtml"/>
+    <itemref idref="bolum20.xhtml"/>
+    <itemref idref="bolum21.xhtml"/>
+    <itemref idref="bolum22.xhtml"/>
+    <itemref idref="bolum23.xhtml"/>
+    <itemref idref="bolum24.xhtml"/>
+    <itemref idref="bolum25.xhtml"/>
+    <itemref idref="bolum26.xhtml"/>
+    <itemref idref="bolum27.xhtml"/>
+    <itemref idref="bolum28.xhtml"/>
+    <itemref idref="bolum29.xhtml"/>
+    <itemref idref="bolum30.xhtml"/>
+    <itemref idref="bolum31.xhtml"/>
+    <itemref idref="bolum32.xhtml"/>
+    <itemref idref="ucanlati1.xhtml"/>
+    <itemref idref="ucanlati2.xhtml"/>
+    <itemref idref="ucanlati3.xhtml"/>
+    <itemref idref="taslama.xhtml"/>
+    <itemref idref="sonsoz.xhtml"/>
+    <itemref idref="buyukherodes.xhtml"/>
+    <itemref idref="herodeshanedani.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

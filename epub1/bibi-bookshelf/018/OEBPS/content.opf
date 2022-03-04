@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yakıcı Sır</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Kısa bir tatil için Avusturya Alplerine giden bir baron, zamanını zararsız bir flörtle renklendirmenin yollarını aramaktadır. Kendine fazlasıyla güvenen ve gönül maceralarına her zaman açık olan bu müzmin kadın avcısı, kısa sürede kendisine bir av bulmakta hiç zorlanmayacaktır. Tanışıp yakınlaşmak istediği kadının on iki yaşındaki oğluyla ahbaplık kurarak işe koyulur. &lt;i&gt;Yakıcı Sır&lt;/i&gt; annesini elde etmek isteyen bu narsist çapkın tarafından kullanılan bir çocuğun hikâyesidir aslında. Ne var ki, yetişkin dünyası bazen masum çocuklara büyüklere göründüğünden çok daha berrak görünmektedir…&lt;/p&gt;</dc:description>
+    <dc:date>2017-03-22T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{A134139D-B2A6-4750-AAFD-D97FC2AD2F0E}</dc:identifier>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">316b9492-a162-486c-b8e5-e391534d26bc</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-605-332-553-6</dc:identifier>
+    <meta name="Sigil version" content="0.9.7" />
+    <meta name="cover" content="cover.jpg" />
+    <meta name="calibre:title_sort" content="Yakıcı Sır" />
+    <meta name="calibre:author_link_map" content="{&quot;Stefan Zweig&quot;: &quot;&quot;}" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2017-03-29</dc:date>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15.xhtml" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id16" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id15" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id16">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>
