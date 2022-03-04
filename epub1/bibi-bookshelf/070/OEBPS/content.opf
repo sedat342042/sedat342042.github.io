@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">55a65fae-0a72-4721-930c-8546493de9c1</dc:identifier>
+    <dc:publisher>Kovan Kitapevi</dc:publisher>
+    <dc:description>&lt;p&gt;Psikolojik derinliklere inen biyografileriyle tanınan ünlü Avusturtyalı yazar Stefan Zweig, 1917 Şubat'ında meydana gelen Rus burjuva devrimini İsviçre'de haber alan V. İ. Lenin'in ülkesine gidip sosyalist devrim hareketinin başına geçmek için yapması gereken yolculuk öncesinden başlayarak, iç hesaplaşmalarını, hasım devlet Almanya'dan geçisini ve zamanın başkenti Petrograd'a varışını, yine kendine özgü ustalıkla anlatıyor.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>1966-08-19T21:00:00+00:00</dc:date>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="2014-06-02T00:30:07.023000+00:00" name="calibre:timestamp"/>
+    <meta content="Kurşun Mühürlü Tren" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Stefan Zweig&quot;: &quot;&quot;}"/>
+  <dc:title>Kurşun Mühürlü Tren</dc:title>
+<dc:subject>Siyasi</dc:subject>
+<dc:subject>Psikoloji</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">417f4950-fe22-46ad-8d71-ab239d07927d</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

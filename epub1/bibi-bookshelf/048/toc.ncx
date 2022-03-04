@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="a3a2a629-aec2-4ee2-9c2f-e7b091415b69" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.64.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yarının Tarihi</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Dördüncü Basıma Önsöz</text>
+      </navLabel>
+      <content src="OEBPS/preface.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Tarihsel Gelişimi İçinde Avrupa Düşüncesi</text>
+      </navLabel>
+      <content src="OEBPS/chapter1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Yarının Tarihçiliği</text>
+      </navLabel>
+      <content src="OEBPS/chapter2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Balzac Üzerine Notlar</text>
+      </navLabel>
+      <content src="OEBPS/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Marcel Proust’un Trajik Yaşamı</text>
+      </navLabel>
+      <content src="OEBPS/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Dünyaya Açılan Kapı Olarak Kitap</text>
+      </navLabel>
+      <content src="OEBPS/chapter5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Paul Verlaine’in Yaşamı</text>
+      </navLabel>
+      <content src="OEBPS/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Arthur Rimbaud</text>
+      </navLabel>
+      <content src="OEBPS/chapter7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Mektup Sanatı</text>
+      </navLabel>
+      <content src="OEBPS/chapter8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Din ve Toplum Açısından Bir Düşünür Olarak Tolstoy</text>
+      </navLabel>
+      <content src="OEBPS/chapter9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Seine Kıyılarındaki Balıkçılar</text>
+      </navLabel>
+      <content src="OEBPS/chapter10.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

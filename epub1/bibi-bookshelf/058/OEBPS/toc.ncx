@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn: 9789750727313"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Kızıl ile Kara</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Giriş</text>
+         </navLabel>
+         <content src="introduction.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Bir çocuk evlendiriliyor</text>
+         </navLabel>
+         <content src="chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Kubbeli sayvanlı yatağın sırrı</text>
+         </navLabel>
+         <content src="chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>Versailles’da sahneye ilk çıkış</text>
+         </navLabel>
+         <content src="chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Tek bir sözcük için kavga</text>
+         </navLabel>
+         <content src="chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>Paris’in fethi</text>
+         </navLabel>
+         <content src="chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>Le roi est mort, vive le roi!</text>
+         </navLabel>
+         <content src="chapter6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>Bir kral ile kraliçenin portresi</text>
+         </navLabel>
+         <content src="chapter7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>Rokokonun kraliçesi</text>
+         </navLabel>
+         <content src="chapter8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>Trianon</text>
+         </navLabel>
+         <content src="chapter9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>Yeni sosyete</text>
+         </navLabel>
+         <content src="chapter10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+         <navLabel>
+            <text>Ağabeyin misafirliği</text>
+         </navLabel>
+         <content src="chapter11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+         <navLabel>
+            <text>Annelik</text>
+         </navLabel>
+         <content src="chapter12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+         <navLabel>
+            <text>Kraliçe gözden düşüyor</text>
+         </navLabel>
+         <content src="chapter13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+         <navLabel>
+            <text>Rokoko tiyatrosuna düşen yıldırım</text>
+         </navLabel>
+         <content src="chapter14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+         <navLabel>
+            <text>Kolye skandalı</text>
+         </navLabel>
+         <content src="chapter15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+         <navLabel>
+            <text>Dava ve karar</text>
+         </navLabel>
+         <content src="chapter16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+         <navLabel>
+            <text>Halk uyanıyor, kraliçe uyanıyor</text>
+         </navLabel>
+         <content src="chapter17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+         <navLabel>
+            <text>Kararın verildiği yaz</text>
+         </navLabel>
+         <content src="chapter18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+         <navLabel>
+            <text>Arkadaşlar kaçıyor</text>
+         </navLabel>
+         <content src="chapter19.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+         <navLabel>
+            <text>Dost ortaya çıkıyor</text>
+         </navLabel>
+         <content src="chapter20.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+         <navLabel>
+            <text>Öyle miydi, değil miydi?</text>
+         </navLabel>
+         <content src="chapter21.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+         <navLabel>
+            <text>Versailles’da son gece</text>
+         </navLabel>
+         <content src="chapter22.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+         <navLabel>
+            <text>Monarşinin cenaze arabası</text>
+         </navLabel>
+         <content src="chapter23.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+         <navLabel>
+            <text>Kendine geliş</text>
+         </navLabel>
+         <content src="chapter24.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+         <navLabel>
+            <text>Mirabeau</text>
+         </navLabel>
+         <content src="chapter25.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+         <navLabel>
+            <text>Kaçış hazırlıkları</text>
+         </navLabel>
+         <content src="chapter26.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+         <navLabel>
+            <text>Varennes’e kaçış</text>
+         </navLabel>
+         <content src="chapter27.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+         <navLabel>
+            <text>Varennes’de gece</text>
+         </navLabel>
+         <content src="chapter28.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+         <navLabel>
+            <text>Dönüş yolculuğu</text>
+         </navLabel>
+         <content src="chapter29.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+         <navLabel>
+            <text>Aldatan aldatana</text>
+         </navLabel>
+         <content src="chapter30.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+         <navLabel>
+            <text>Dost son kez görünüyor</text>
+         </navLabel>
+         <content src="chapter31.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+         <navLabel>
+            <text>Savaşa sığınış</text>
+         </navLabel>
+         <content src="chapter32.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+         <navLabel>
+            <text>Son çığlıklar</text>
+         </navLabel>
+         <content src="chapter33.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+         <navLabel>
+            <text>10 Ağustos</text>
+         </navLabel>
+         <content src="chapter34.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+         <navLabel>
+            <text>Temple</text>
+         </navLabel>
+         <content src="chapter35.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+         <navLabel>
+            <text>Marie-Antoinette tek başına</text>
+         </navLabel>
+         <content src="chapter36.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+         <navLabel>
+            <text>Son yalnızlık</text>
+         </navLabel>
+         <content src="chapter37.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+         <navLabel>
+            <text>Conciergerie</text>
+         </navLabel>
+         <content src="chapter38.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+         <navLabel>
+            <text>Son çaba</text>
+         </navLabel>
+         <content src="chapter39.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+         <navLabel>
+            <text>Büyük adilik</text>
+         </navLabel>
+         <content src="chapter40.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+         <navLabel>
+            <text>Dava başlıyor</text>
+         </navLabel>
+         <content src="chapter41.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+         <navLabel>
+            <text>Duruşma</text>
+         </navLabel>
+         <content src="chapter42.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+         <navLabel>
+            <text>Son yolculuk</text>
+         </navLabel>
+         <content src="chapter43.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+         <navLabel>
+            <text>Ağıt</text>
+         </navLabel>
+         <content src="chapter44.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+         <navLabel>
+            <text>Ek açıklama</text>
+         </navLabel>
+         <content src="abstract.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+         <navLabel>
+            <text>Zamandizin</text>
+         </navLabel>
+         <content src="index.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

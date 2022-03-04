@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="4a747d16-d3f0-465a-9616-1c9e46c05620" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kendi Hayatının Şiirini Yazanlar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>STEFAN ZWEIG</text>
+      </navLabel>
+      <content src="Text/2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BÖLÜM I: CASANOVA</text>
+      </navLabel>
+      <content src="Text/4.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>CASANOVA</text>
+        </navLabel>
+        <content src="Text/5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>GENÇLİK PORTRESİ</text>
+        </navLabel>
+        <content src="Text/6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>MACERA PEŞİNDE KOŞANLAR</text>
+        </navLabel>
+        <content src="Text/7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>KÜLTÜR VE YETENEK</text>
+        </navLabel>
+        <content src="Text/8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>SATHİLİĞİN FELSEFESİ</text>
+        </navLabel>
+        <content src="Text/9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>HOMO EROTICUS</text>
+        </navLabel>
+        <content src="Text/10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>KARANLIK YILLAR</text>
+        </navLabel>
+        <content src="Text/11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>YAŞLILIK</text>
+        </navLabel>
+        <content src="Text/12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>KENDİNİ ANLATMA DEHASI</text>
+        </navLabel>
+        <content src="Text/13.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>BÖLÜM II: STENDHAL</text>
+      </navLabel>
+      <content src="Text/14.xhtml"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>YALAN SÖYLEME ZEVKİ VE GERÇEK SEVGİSİ</text>
+        </navLabel>
+        <content src="Text/15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>PORTRESİ</text>
+        </navLabel>
+        <content src="Text/16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>HAYATININ FİLMİ</text>
+        </navLabel>
+        <content src="Text/17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>BİR -BENLİK- VE EVREN</text>
+        </navLabel>
+        <content src="Text/18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>SANATÇI</text>
+        </navLabel>
+        <content src="Text/19.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>DE VOLUPTATE PSYCHOLOGICA</text>
+        </navLabel>
+        <content src="Text/20.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>OTOBİYOGRAFİSİ</text>
+        </navLabel>
+        <content src="Text/21.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>STENDHAL'IN GÜNÜMÜZ İÇİN ANLAM VE ÖNEMİ</text>
+        </navLabel>
+        <content src="Text/22.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>BÖLÜM III: TOLSTOY</text>
+      </navLabel>
+      <content src="Text/23.xhtml"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>BAŞLANGIÇ</text>
+        </navLabel>
+        <content src="Text/24.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>PORTRESİ</text>
+        </navLabel>
+        <content src="Text/25.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>HAYAT DOLU OLUŞU VE ÖLÜM KORKUSU</text>
+        </navLabel>
+        <content src="Text/26.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>SANATÇI</text>
+        </navLabel>
+        <content src="Text/27.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>KENDİ KENDİNİ ANLATMASI</text>
+        </navLabel>
+        <content src="Text/28.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>BUNALIM VE DEĞİŞİM</text>
+        </navLabel>
+        <content src="Text/29.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>SÖZDE HIRİSTİYAN</text>
+        </navLabel>
+        <content src="Text/30.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>DOKTRİNİ VE YANLIŞ OLAN YANLARI</text>
+        </navLabel>
+        <content src="Text/31.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>FİKİRLERİNİ GERÇEKLEŞTİRMEK İÇİN YAPTIĞI SAVAŞ</text>
+        </navLabel>
+        <content src="Text/32.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>HAYATININ BİR GÜNÜ</text>
+        </navLabel>
+        <content src="Text/33.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>KARAR VE DEĞİŞME</text>
+        </navLabel>
+        <content src="Text/34.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>TANRIYA DOĞRU KAÇIŞ</text>
+        </navLabel>
+        <content src="Text/35.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>SONSÖZ</text>
+        </navLabel>
+        <content src="Text/36.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Bilinmeyen Bir Kadının Mektubu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">852308f4-d95f-4403-bd4b-4507589ae2f0</dc:identifier>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Stefan Zweig Bilinmeyen Bir Kadının Mektubu (Brief einer Unbekannten) adlı uzun öyküsünü 1920'li yılların ilk yarısında kaleme aldı. Bilinmeyen Bir Kadının Mektubu'nun kadın kahramanını sadece uzun bir mektubun yazarı olarak tanıyoruz. Kadının hayatı boyunca sevmiş olduğu erkek için kaleme aldığı bu mektubun "gönderen"inin adı yoktur. Mektubun başında tek bir hitap vardır: "Sana, beni asla tanımamış olan sana". Kadın büyük tutkusunu hep bir "bilinmeyen" olarak, yani tek başına yaşamaya razıdır, bu aşk öyküsünde "taraflar" değil, sadece tek bir "taraf" vardır. Böylesine, gerçek anlamda aşk denilebilir mi? Zweig okurunu, bir kez daha, insan psikolojisinde eşine pek rastlanmayan bir yolculuğa davet ediyor. Bu yeni yolculuğun sonunda "mutlak aşk" kavramının şimdiye kadar bilinmeyen kıyılarına varmayı amaçlamış olması da bir ihtimal!&lt;/p&gt;</dc:description>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">70ed922c-3b32-49aa-9bb6-3cab3d5d478a</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053606604</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/kitap_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/kitap_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/kitap_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/kitap_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/isbank-logo.jpg" id="added" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Fonts/arial.ttf" id="cid5" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbd.ttf" id="cid6" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbi.ttf" id="cid8" media-type="application/x-font-ttf"/>
+    <item href="Fonts/ariali.ttf" id="cid7" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

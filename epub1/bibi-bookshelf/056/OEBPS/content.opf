@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Korku</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+    <dc:description>&lt;div&gt;&lt;p&gt;Mesleğinde başarılı bir avukatla sekiz yıldır süren mutlu bir evlilik, konforlu bir hayat, sağlıklı çocuklar ve genç bir sevgili... Bir gönül macerasından sonra maruz kaldığı şantaj yüzünden hayatı tuzla buz olan Irene'nin o çok güvenli burjuva dünyası, bir daha eski haline kavuşabilecek midir?&lt;/p&gt;
+&lt;p&gt;Korku, ünlü İtalyan yönetmen Rossellini'ye de esin kaynağı olmuş, Ingrid Bergman'ın başrolünde oynadığı aynı adlı filmle beyazperdeye uyarlanan küçük bir başyapıt. Behçet Necatigil'in kusursuz Türkçesi ile, Stefan Zweig'in kaleminden bir solukta okuyacaksınız. Daha ilk sayfada doruğa çıkan gerilim, sürpriz finale dek irtifa kaybetmeksizin sürüyor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Yordam Kitap</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:date>2016-04-15T21:00:00+00:00</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">81d17abc-b4ee-4fe2-a6a9-7c60e753df85</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.html" id="yazar.html" media-type="application/xhtml+xml"/>
+    <item href="Text/baslik.html" id="baslik.html" media-type="application/xhtml+xml"/>
+    <item href="Text/metin.html" id="metin.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="Images/755.jpg" id="x755.jpg" media-type="image/jpeg"/>
+    <item href="Images/766.jpg" id="x766.jpg" media-type="image/jpeg"/>
+    <item href="Images/1022.jpg" id="x1022.jpg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r5_fmt.jpeg" id="r5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r6_fmt.jpeg" id="r6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/yordam_fmt.jpeg" id="yordam_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uLxHkESs4mkmAEhCld7Zms8" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="yazar.html"/>
+    <itemref idref="baslik.html"/>
+    <itemref idref="metin.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

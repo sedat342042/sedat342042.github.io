@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="cbe06044-0d75-48a1-8df4-8d28eb9015f9" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>İnsanlığın Yıldızının Parladığı Anlar</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>ÖNSÖZ</text>
+            </navLabel>
+            <content src="Text/3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>ÖLÜMSÜZLÜĞE SIĞINIŞ</text>
+            </navLabel>
+            <content src="Text/4.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>BİZANS'IN FETHİ</text>
+            </navLabel>
+            <content src="Text/6.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>GEORG FRIEDRICH HÂNDEL'İN YAŞAMA DÖNÜŞÜ</text>
+            </navLabel>
+            <content src="Text/8.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>BİR GECELİK DÂHİ</text>
+            </navLabel>
+            <content src="Text/10.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>WATERLOO: DÜNYANIN YAZGISINI BELİRLEYEN AN</text>
+            </navLabel>
+            <content src="Text/12.xhtml#sigil_toc_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>MARIENBAD ŞİİRLERİ</text>
+            </navLabel>
+            <content src="Text/14.xhtml#sigil_toc_id_7"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>ELDORADO'NUN KEŞFİ</text>
+            </navLabel>
+            <content src="Text/16.xhtml#sigil_toc_id_8"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>BİR YİĞİTLİK ÂNI</text>
+            </navLabel>
+            <content src="Text/18.xhtml#sigil_toc_id_9"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>OKYANUSU AŞAN İLK SÖZ</text>
+            </navLabel>
+            <content src="Text/20.xhtml#sigil_toc_id_10"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>TANRI'YA SIĞINIŞ</text>
+            </navLabel>
+            <content src="Text/22.xhtml#sigil_toc_id_11"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>GÜNEY KUTBU İÇİN SAVAŞIM</text>
+            </navLabel>
+            <content src="Text/24.xhtml#sigil_toc_id_12"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>MÜHÜRLÜ TREN</text>
+            </navLabel>
+            <content src="Text/26.xhtml#sigil_toc_id_13"/>
+        </navPoint>
+    </navMap>
+</ncx>

@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+<dc:identifier id="pub-id">urn:isbn:9789750721359</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="aut">Çiğdem Öztekin</dc:contributor>
+    <dc:date>2006-01-07T22:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Sabırsız Yürek, özellikle düşsel ve tarihsel karakterler üstüne yazdığı yaşamöyküleriyle tanıdığımız Stefan Zweig'ın tek romanıdır. Freud'un öğretisine derin bir ilgi duyan Zweig'ın bu psikolojik romanı, acıma duygusunun nelere yol açabileceğini, insanı nasıl çatışmadan çatışmaya sürükleyebileceğini anlatan bir başyapıttır. İki tür acıma duygusundan söz eder yazar:
+
+"Birincisi, duygusal ve zayıf olanı, başka birinin yaşadığı felaketlerden kaynaklanan acı ve hüzünden olabildiğince çabuk kurtulmak için çırpınan bir yüreğin sabırsızlığıdır. Diğeri, tek gerçek acıma duygusu ise duygusal olmayan, ama yaratıcı olan, ne istediğini bilen; sabırla, gücü yettiğince, hatta gücünün bile ötesinde katlanmaya ve dayanmaya kararlı olunan acıma duygusudur."
+
+20. yüzyılın kült kitaplarından biri olan Sabırsız Yürek, insanca duyguların savaşın dehşeti karşısında allak bullak oluşunun romanıdır.&lt;/p&gt;</dc:description>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Sabırsız Yürek" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Stefan Zweig&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  <dc:title>Sabırsız Yürek</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Alman Edebiyatı</dc:subject>
+<dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">ffa4f72f-76ee-43d2-bd60-c0bd8e0e831a</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750721359</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface.xhtml" id="prefacexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraph.xhtml" id="epigraphxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter.xhtml" id="chapterxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="BerlingLTStd-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="BerlingLTStd-Roman.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd-Italic.ttf" id="GillSansStd-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd.ttf" id="GillSansStd.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GoudyStd.ttf" id="GoudyStd.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="prefacexhtml"/>
+    <itemref idref="epigraphxhtml"/>
+    <itemref idref="chapterxhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
