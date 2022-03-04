@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{6CDFDF10-287B-409F-B122-9DDD96A7CC0E}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Beyaz Diş</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Birinci Bölüm Issız Diyar</text>
+      </navLabel>
+      <content src="Text/part1.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>I Etin Yolu</text>
+        </navLabel>
+        <content src="Text/01.01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>II Dişi Kurt</text>
+        </navLabel>
+        <content src="Text/01.02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>III Açlığın Çığlığı</text>
+        </navLabel>
+        <content src="Text/01.03.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>İkinci Bölüm Vahşi Doğanlar</text>
+      </navLabel>
+      <content src="Text/part2.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>I Dişlerin Savaşı</text>
+        </navLabel>
+        <content src="Text/02.01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>II Yuva</text>
+        </navLabel>
+        <content src="Text/02.02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>III Boz Enik</text>
+        </navLabel>
+        <content src="Text/02.03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>IV Dünyanın Duvarı</text>
+        </navLabel>
+        <content src="Text/02.04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>V Etin Yasası</text>
+        </navLabel>
+        <content src="Text/02.05.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Üçüncü Bölüm Vahşi Hayatın Tanrıları</text>
+      </navLabel>
+      <content src="Text/part3.xhtml"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>I Ateş Yakanlar</text>
+        </navLabel>
+        <content src="Text/03.01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>II Esaret</text>
+        </navLabel>
+        <content src="Text/03.02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>III Dışlanmış</text>
+        </navLabel>
+        <content src="Text/03.03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>IV Tanrıların İzi</text>
+        </navLabel>
+        <content src="Text/03.04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>V Antlaşma</text>
+        </navLabel>
+        <content src="Text/03.05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>VI Kıtlık</text>
+        </navLabel>
+        <content src="Text/03.06.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Dördüncü Bölüm Üstün Tanrılar</text>
+      </navLabel>
+      <content src="Text/part4.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>I Kendi Türünün Düşmanı</text>
+        </navLabel>
+        <content src="Text/04.01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>II Çılgın Tanrı</text>
+        </navLabel>
+        <content src="Text/04.02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>III Nefretin Saltanatı</text>
+        </navLabel>
+        <content src="Text/04.03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>IV Boğazına Yapışan Ölüm</text>
+        </navLabel>
+        <content src="Text/04.04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>V Boyun Eğmez</text>
+        </navLabel>
+        <content src="Text/04.05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>VI Sevgili Sahip</text>
+        </navLabel>
+        <content src="Text/04.06.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Beşinci Bölüm Terbiye</text>
+      </navLabel>
+      <content src="Text/part5.xhtml"/>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>I Uzun Yol</text>
+        </navLabel>
+        <content src="Text/05.01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>II Güney Toprakları</text>
+        </navLabel>
+        <content src="Text/05.02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>III Tanrının Ülkesi</text>
+        </navLabel>
+        <content src="Text/05.03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>IV Türünün Çağrısı</text>
+        </navLabel>
+        <content src="Text/05.04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>V Uyuyan Kurt</text>
+        </navLabel>
+        <content src="Text/05.05.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

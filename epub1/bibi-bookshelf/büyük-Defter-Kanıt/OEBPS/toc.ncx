@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{AA73BFF7-A34F-4F8E-9F10-75DEE189E3EE}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Büyük Defter-Kanıt-Üçüncü Yalan</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text></text>
+        </navLabel>
+        <content src="Text/kunye.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>İÇİNDEKİLER</text>
+        </navLabel>
+        <content src="Text/icindekiler.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>BÜYÜK DEFTER</text>
+      </navLabel>
+      <content src="Text/buyuk_defter.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Anneanne'nin Evine Varış</text>
+        </navLabel>
+        <content src="Text/buy_def_0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Anneanne'nin Evi</text>
+        </navLabel>
+        <content src="Text/buy_def_0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Anneanne</text>
+        </navLabel>
+        <content src="Text/buy_def_0003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Görevler</text>
+        </navLabel>
+        <content src="Text/buy_def_0004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Orman ve Dere</text>
+        </navLabel>
+        <content src="Text/buy_def_0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Pislik</text>
+        </navLabel>
+        <content src="Text/buy_def_0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Vücut Güçlendirme Alıştırması</text>
+        </navLabel>
+        <content src="Text/buy_def_0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Posta</text>
+        </navLabel>
+        <content src="Text/buy_def_0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Bellek Güçlendirme Alıştırmaları</text>
+        </navLabel>
+        <content src="Text/buy_def_0009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Okul</text>
+        </navLabel>
+        <content src="Text/buy_def_0010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Defter, Kâğıt, Kalem Alıyoruz</text>
+        </navLabel>
+        <content src="Text/buy_def_0011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Öğrenim Hayatımız</text>
+        </navLabel>
+        <content src="Text/buy_def_0012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Komşumuz ve Kızı</text>
+        </navLabel>
+        <content src="Text/buy_def_0013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Dilencilik Alıştırması</text>
+        </navLabel>
+        <content src="Text/buy_def_0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Tavşandudak</text>
+        </navLabel>
+        <content src="Text/buy_def_0015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Körlük ve Sağırlık Alıştırmaları</text>
+        </navLabel>
+        <content src="Text/buy_def_0016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Asker Kaçağı</text>
+        </navLabel>
+        <content src="Text/buy_def_0017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Açlık Alıştırması</text>
+        </navLabel>
+        <content src="Text/buy_def_0018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Büyükbabanın Mezarı</text>
+        </navLabel>
+        <content src="Text/buy_def_0019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>İşkence Alıştırmaları</text>
+        </navLabel>
+        <content src="Text/buy_def_0020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Diğer Çocuklar</text>
+        </navLabel>
+        <content src="Text/buy_def_0021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Kış</text>
+        </navLabel>
+        <content src="Text/buy_def_0022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Postacı</text>
+        </navLabel>
+        <content src="Text/buy_def_0023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Ayakkabıcı</text>
+        </navLabel>
+        <content src="Text/buy_def_0024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Hırsızlık</text>
+        </navLabel>
+        <content src="Text/buy_def_0025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Şantaj</text>
+        </navLabel>
+        <content src="Text/buy_def_0026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Suçlamalar</text>
+        </navLabel>
+        <content src="Text/buy_def_0027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Papazın Hizmetçisi</text>
+        </navLabel>
+        <content src="Text/buy_def_0028.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Banyo</text>
+        </navLabel>
+        <content src="Text/buy_def_0029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Papaz</text>
+        </navLabel>
+        <content src="Text/buy_def_0030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Hizmetçi ve Posta</text>
+        </navLabel>
+        <content src="Text/buy_def_0031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Yabancı Subay</text>
+        </navLabel>
+        <content src="Text/buy_def_0032.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Yabancı Dil</text>
+        </navLabel>
+        <content src="Text/buy_def_0033.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Subayın Arkadaşı</text>
+        </navLabel>
+        <content src="Text/buy_def_0034.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>İlk Gösterimiz</text>
+        </navLabel>
+        <content src="Text/buy_def_0035.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Gösterilerimizin Gelişimi</text>
+        </navLabel>
+        <content src="Text/buy_def_0036.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Tiyatro</text>
+        </navLabel>
+        <content src="Text/buy_def_0037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Alarmlar</text>
+        </navLabel>
+        <content src="Text/buy_def_0038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>İnsan Sürüsü</text>
+        </navLabel>
+        <content src="Text/buy_def_0039.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Anneanne'nin Elmaları</text>
+        </navLabel>
+        <content src="Text/buy_def_0040.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Polis</text>
+        </navLabel>
+        <content src="Text/buy_def_0041.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Sorgulama</text>
+        </navLabel>
+        <content src="Text/buy_def_0042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Hapiste</text>
+        </navLabel>
+        <content src="Text/buy_def_0043.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Yaşlı Adam</text>
+        </navLabel>
+        <content src="Text/buy_def_0044.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Yeğenimiz</text>
+        </navLabel>
+        <content src="Text/buy_def_0045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Mücevherler</text>
+        </navLabel>
+        <content src="Text/buy_def_0046.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Yeğenimiz ve Âşığı</text>
+        </navLabel>
+        <content src="Text/buy_def_0047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Kutsama</text>
+        </navLabel>
+        <content src="Text/buy_def_0048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Kaçış</text>
+        </navLabel>
+        <content src="Text/buy_def_0049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Kemik Çukuru</text>
+        </navLabel>
+        <content src="Text/buy_def_0050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Annemiz</text>
+        </navLabel>
+        <content src="Text/buy_def_0051.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Yeğenimiz Gidiyor</text>
+        </navLabel>
+        <content src="Text/buy_def_0052.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Yeni Yabancılar Geliyor</text>
+        </navLabel>
+        <content src="Text/buy_def_0053.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Yangın</text>
+        </navLabel>
+        <content src="Text/buy_def_0054.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Savaşın Sonu</text>
+        </navLabel>
+        <content src="Text/buy_def_0055.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Okullar Yeniden Açılıyor</text>
+        </navLabel>
+        <content src="Text/buy_def_0056.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Anneanne Bağını Satıyor</text>
+        </navLabel>
+        <content src="Text/buy_def_0057.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Anneannenin Hastalığı</text>
+        </navLabel>
+        <content src="Text/buy_def_0058.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Anneanne'nin Hâzinesi</text>
+        </navLabel>
+        <content src="Text/buy_def_0059.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Babamız</text>
+        </navLabel>
+        <content src="Text/buy_def_0060.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Babamız Geri Geliyor</text>
+        </navLabel>
+        <content src="Text/buy_def_0061.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Ayrılış</text>
+        </navLabel>
+        <content src="Text/buy_def_0062.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>KANIT</text>
+      </navLabel>
+      <content src="Text/kanit.xhtml"/>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/kanit_0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/kanit_0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/kanit_0003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/kanit_0004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/kanit_0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/kanit_0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/kanit_0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/kanit_0008.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>ÜÇÜNCÜ YALAN</text>
+      </navLabel>
+      <content src="Text/ucuncu_yalan.xhtml"/>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/birinci_bolum.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/ikinci_bolum.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

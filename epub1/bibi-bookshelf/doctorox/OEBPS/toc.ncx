@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{910038DF-3902-4E5A-95E5-0041FFAB554A}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Doktor Ox’un Deneyi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>I Demek ki Küçük Quiquendone Kentini En iyi Haritalarda Bile Aramak Boşunadır</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>II Bu Bölümde Belediye Başkanı Van Tricasse ve Danışman Niklausse Kente Ait İşleri Görüşüyorlar</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>III Bu Bölümde Komiser Passauf Beklenmedik Olduğu Kadar da Gürültülü Bir Giriş Yapıyor</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>IV Doktor Ox’un Birinci Sınıf Bir Fizyolojisi ve Gözü Pek Bir Deney Adamı Olduğu Ortaya Çıkıyor</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>V Belediye Başkanı ve Danışmanın Doktor Ox’u Ziyareti ve Daha Sonra Olanlar</text>
+      </navLabel>
+      <content src="Text/05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>VI Frantz Niklausse ve Suzel van Tricasse Gelecekle İlgili Planlar Yapıyorlar</text>
+      </navLabel>
+      <content src="Text/06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>VII Andante’ler Allegro’lara ve Allegro’lar Vivace’lere Dönüşüyor</text>
+      </navLabel>
+      <content src="Text/07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>VIII Eski ve Görkemli Alman Valsi Kasırgaya Dönüşüyor</text>
+      </navLabel>
+      <content src="Text/08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>IX Doktor Ox ve Asistanı Ygène Sadece Birkaç Kelime Konuşuyorlar</text>
+      </navLabel>
+      <content src="Text/09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>X Bu Bölümde Salgının Bütün Kenti Etkisi Altına Aldığını ve Bunun Yarattığı Sonucu Göreceğiz</text>
+      </navLabel>
+      <content src="Text/10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>XI Bu Bölümde Quiquendone’lular Kahramanca Bir Karar Alıyorlar</text>
+      </navLabel>
+      <content src="Text/11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>XII Asistan Ygène, Doktor Ox’un Şiddetle Karşı Çıktığı Mantıklı Düşüncesini Dile Getiriyor</text>
+      </navLabel>
+      <content src="Text/12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>XIII Bu Bölümde, Yüksek Bir Yerde İnsanların Bütün Bayağılıklarını Geride Bıraktığı Bir Kez Daha Kanıtlanıyor</text>
+      </navLabel>
+      <content src="Text/13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>XIV Bu Bölümde Olaylar O Denli Uç Noktalara Varıyor ki Quiquendone Sakinleri, Okurlar ve Hatta Yazarın Kendisi Derhal Çözüm Bulunmasını İstiyorlar</text>
+      </navLabel>
+      <content src="Text/14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>XV Düğüm Çözülüyor</text>
+      </navLabel>
+      <content src="Text/15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>XVI Yazarın Bütün Önlemlerine Karşın, Zeki Okur Doğru Tahminde Bulunduğunu Anlıyor</text>
+      </navLabel>
+      <content src="Text/16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>XVII Doktor Ox’un Kuramı Açığa Çıkıyor</text>
+      </navLabel>
+      <content src="Text/17.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

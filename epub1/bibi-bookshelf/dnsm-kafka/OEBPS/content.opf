@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="umXxOrboucg4OblQ5UC9hc4" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Dönüşüm</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;İlk kez 1915’te &lt;em&gt;Die Weissen Blaetter&lt;/em&gt; adlı aylık dergide yayımlanan &lt;em&gt;Dönüşüm&lt;/em&gt;, Kafka’nın en uzun ve en tanınmış öyküsüdür ve yayımlanmasının üzerinden nerdeyse bir asır geçmesine rağmen hâlâ tüm dünyada en çok okunan kitaplar arasındadır.&lt;br /&gt;17 Ekim 1912’de Felice Bauer’e gönderdiği mektupta Kafka, &lt;em&gt;Amerika&lt;/em&gt; romanı üzerinde çalıştığını, ilerleyemediğini görünce sıkıldığını ve yataktan kalkamaz hale geldiğini, bu nedenle bir öykü yazarak ara vermek istediğini yazar.&lt;em&gt; Dönüşüm&lt;/em&gt; işte böyle ortaya çıkar.&lt;/p&gt;&lt;p&gt;Kumaş pazarlamacısı olan Gregor Samsa’nın uykusundan kocaman bir böceğe dönüşerek uyanmasıyla başlayan &lt;em&gt;Dönüşüm&lt;/em&gt;, giderek gerçeklikle kurmacanın sınırlarını zorlayan müthiş bir anlatıma dönüşür.&lt;/p&gt;</dc:description>
+    <dc:date>2017-03-27T21:00:00+00:00</dc:date>
+    <dc:subject>Modern Klasikler Dizisi</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">6d9ab78a-a91e-4abf-af70-9771ca554aae</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053609322</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="umXxOrboucg4OblQ5UC9hc4">umXxOrboucg4OblQ5UC9hc4</dc:identifier>
+    <meta name="Sigil version" content="0.9.6" />
+    <meta name="cover" content="cover.jpg" />
+    <meta name="calibre:title_sort" content="Dönüşüm" />
+    <meta name="calibre:author_link_map" content="{&quot;Franz Kafka&quot;: &quot;&quot;}" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2017-03-30</dc:date>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

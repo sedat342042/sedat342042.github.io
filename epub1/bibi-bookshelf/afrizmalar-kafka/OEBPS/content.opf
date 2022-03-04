@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Aforizmalar</dc:title>
+    <dc:creator opf:role="aut">Franz Kafka</dc:creator>
+    <dc:contributor opf:role="trl">Osman Çakmakçı</dc:contributor>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9789944888059</dc:identifier>
+    <dc:description>Kafka, içinde yaşadığı dönemin, o dönemin olaylarının değil, gelmiş geçmiş tüm zamanların toplumsal mekanizmalarının yarattığı yalnızlığı, anlamsızlığı betimlemiştir. Kuşkusuz, karanlık bir tablodur bu. Bu karanlık tabloyu aydınlatan ise Kafka Güneşi'dir. Bu kitap, Kafka'nın ardında bıraktığı tamamlanmış ender elyazmalarından biridir. Tüm aforizmalar Kafka tarafından tek tek numaralandırılmıştır. Max Brod, altısı, küçük okul defterlerine yazılmış aforizmalardan, kısa öykücüklerden, çeşitli konulardan oluşan bu elyazmaları "yığınını" Taşrada Düğün Hazırlıkları başlığıyla tek bir kitapta toplamıştır. Daha sonraları birçok ülkede, bu kitaptan küçük başka kitaplar üretilmiştir: Babaya Mektup ve Aforizmalar gibi. Bu kitaptaki aforizmaların tam olarak ne zaman yazıldığını bilmiyoruz. Ferit Edgü'nün önsözünden.</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <meta content="0.9.9" name="Sigil version" />
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2018-04-10</dc:date>
+    <dc:identifier id="uuid">{6053B416-C991-495D-A2C6-DDA54D676298}</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="P-005.xhtml" href="Text/P-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style.css" href="Styles/Style.css" media-type="text/css"/>
+    <item id="id105" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-ttf"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-ttf"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="R-001.xhtml" href="Text/R-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-001.xhtml" href="Text/P-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-002.xhtml" href="Text/P-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="R-002.xhtml" href="Text/R-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-003.xhtml" href="Text/P-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="R-003.xhtml" href="Text/R-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-004.xhtml" href="Text/P-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="R-004.xhtml" href="Text/R-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="R001.jpg" href="Images/R001.jpg" media-type="image/jpeg"/>
+    <item id="R002.jpg" href="Images/R002.jpg" media-type="image/jpeg"/>
+    <item id="R003.jpg" href="Images/R003.jpg" media-type="image/jpeg"/>
+    <item id="R004.jpg" href="Images/R004.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id105">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="P-001.xhtml"/>
+    <itemref idref="R-001.xhtml"/>
+    <itemref idref="P-002.xhtml"/>
+    <itemref idref="R-002.xhtml"/>
+    <itemref idref="P-003.xhtml"/>
+    <itemref idref="R-003.xhtml"/>
+    <itemref idref="P-004.xhtml"/>
+    <itemref idref="R-004.xhtml"/>
+    <itemref idref="P-005.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Kapak" href="Text/cover.xhtml"/>
+  </guide>
+</package>

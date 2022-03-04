@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Franz Kafka</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>068DAE464822741F121B64C2A75C7A62</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>1EF61BEF37787D61949D9D40EF1A0BC2</string>
+		<key>publisher-unique-id</key>
+		<string>umXxOrboucg4OblQ5UC9hc4</string>
+		<key>unique-id</key>
+		<integer>-2437927469933047915</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>Modern Klasikler Dizisi</string>
+	<key>itemName</key>
+	<string>Dönüşüm</string>
+	<key>playlistName</key>
+	<string>Dönüşüm</string>
+	<key>releaseDate</key>
+	<string>2017-03-27T21:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>Kafka, Franz</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

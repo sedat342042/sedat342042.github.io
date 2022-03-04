@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Huckleberry Finn'in Maceraları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Twain, Mark">Mark Twain</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Büyük Amerikan romanları arasında yerini alan &lt;i&gt;Huckleberry Finn’in Maceraları&lt;/i&gt;, Mark Twain’in de en iyi yapıtı olarak kabul edilir. Eğitimsiz, batıl inançlara sahip, ama iyi kalpli bir çocuk olan Huck, işsiz güçsüz ve ayyaş babasından kaçar. Kendisi gibi kaçak olan siyahi köle Jim’le birlikte Mississippi Nehri boyunca macera dolu bir yolculuk yaparlar. Twain, nehrin iki yakasında yaşayan her sınıftan insanı sergileyen eşsiz portreler sunarken, yer yer komik ve ironik bir üslup tutturur.&lt;/p&gt;&lt;p&gt;Romanın başlıca teması kölelikle özgürlük arasındaki çatışmadır. Jim özgürlüğüne kavuşmayı hedefler. Gaddar babasından ve kendisini evine kabul ederek, düşünce ve davranışlarını zapturapt altına almaya çalışan Bayan Douglas’tan kurtulmaya çalışan Huck da aslında bir nevi tutsaklıkla mücadele etmektedir. Jim’le ilişkisinde, 19. yüzyılın düşünce iklimiyle ve toplumun kabul görmüş değerleriyle ahlaki bir çatışma içinde bulunan Huck, sonunda önyargılardan kurtulup, onunla sevgi dolu bir dostluk ilişkisi kuracaktır.&lt;/p&gt;</dc:description>
+    <dc:date>2017-03-29T21:00:00+00:00</dc:date>
+    <dc:identifier id="BookId">AWP-8BA309C8-E995-4EC5-AF60-D3CC5A493673</dc:identifier>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">1f20ce75-e4b7-4927-8a69-935f37e09b52</dc:identifier>
+    <meta name="Sigil version" content="0.9.6" />
+    <meta name="cover" content="cover.jpg" />
+    <meta name="calibre:title_sort" content="Huckleberry Finn'in Maceraları" />
+    <meta name="calibre:author_link_map" content="{&quot;Mark Twain&quot;: &quot;&quot;}" />
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.html" href="Text/kunye0.html" media-type="application/xhtml+xml"/>
+    <item id="kunye.html" href="Text/kunye.html" media-type="application/xhtml+xml"/>
+    <item id="title.html" href="Text/title.html" media-type="application/xhtml+xml"/>
+    <item id="onsoz.html" href="Text/onsoz.html" media-type="application/xhtml+xml"/>
+    <item id="uyari.html" href="Text/uyari.html" media-type="application/xhtml+xml"/>
+    <item id="aciklama.html" href="Text/aciklama.html" media-type="application/xhtml+xml"/>
+    <item id="x01.html" href="Text/01.html" media-type="application/xhtml+xml"/>
+    <item id="x02.html" href="Text/02.html" media-type="application/xhtml+xml"/>
+    <item id="x03.html" href="Text/03.html" media-type="application/xhtml+xml"/>
+    <item id="x04.html" href="Text/04.html" media-type="application/xhtml+xml"/>
+    <item id="x05.html" href="Text/05.html" media-type="application/xhtml+xml"/>
+    <item id="x06.html" href="Text/06.html" media-type="application/xhtml+xml"/>
+    <item id="x07.html" href="Text/07.html" media-type="application/xhtml+xml"/>
+    <item id="x08.html" href="Text/08.html" media-type="application/xhtml+xml"/>
+    <item id="x09.html" href="Text/09.html" media-type="application/xhtml+xml"/>
+    <item id="x10.html" href="Text/10.html" media-type="application/xhtml+xml"/>
+    <item id="x11.html" href="Text/11.html" media-type="application/xhtml+xml"/>
+    <item id="x12.html" href="Text/12.html" media-type="application/xhtml+xml"/>
+    <item id="x13.html" href="Text/13.html" media-type="application/xhtml+xml"/>
+    <item id="x14.html" href="Text/14.html" media-type="application/xhtml+xml"/>
+    <item id="x15.html" href="Text/15.html" media-type="application/xhtml+xml"/>
+    <item id="x16.html" href="Text/16.html" media-type="application/xhtml+xml"/>
+    <item id="x17.html" href="Text/17.html" media-type="application/xhtml+xml"/>
+    <item id="x18.html" href="Text/18.html" media-type="application/xhtml+xml"/>
+    <item id="x19.html" href="Text/19.html" media-type="application/xhtml+xml"/>
+    <item id="x20.html" href="Text/20.html" media-type="application/xhtml+xml"/>
+    <item id="x21.html" href="Text/21.html" media-type="application/xhtml+xml"/>
+    <item id="x22.html" href="Text/22.html" media-type="application/xhtml+xml"/>
+    <item id="x23.html" href="Text/23.html" media-type="application/xhtml+xml"/>
+    <item id="x24.html" href="Text/24.html" media-type="application/xhtml+xml"/>
+    <item id="x25.html" href="Text/25.html" media-type="application/xhtml+xml"/>
+    <item id="x26.html" href="Text/26.html" media-type="application/xhtml+xml"/>
+    <item id="x27.html" href="Text/27.html" media-type="application/xhtml+xml"/>
+    <item id="x28.html" href="Text/28.html" media-type="application/xhtml+xml"/>
+    <item id="x29.html" href="Text/29.html" media-type="application/xhtml+xml"/>
+    <item id="x30.html" href="Text/30.html" media-type="application/xhtml+xml"/>
+    <item id="x31.html" href="Text/31.html" media-type="application/xhtml+xml"/>
+    <item id="x32.html" href="Text/32.html" media-type="application/xhtml+xml"/>
+    <item id="x33.html" href="Text/33.html" media-type="application/xhtml+xml"/>
+    <item id="x34.html" href="Text/34.html" media-type="application/xhtml+xml"/>
+    <item id="x35.html" href="Text/35.html" media-type="application/xhtml+xml"/>
+    <item id="x36.html" href="Text/36.html" media-type="application/xhtml+xml"/>
+    <item id="x37.html" href="Text/37.html" media-type="application/xhtml+xml"/>
+    <item id="x38.html" href="Text/38.html" media-type="application/xhtml+xml"/>
+    <item id="x39.html" href="Text/39.html" media-type="application/xhtml+xml"/>
+    <item id="x40.html" href="Text/40.html" media-type="application/xhtml+xml"/>
+    <item id="x41.html" href="Text/41.html" media-type="application/xhtml+xml"/>
+    <item id="x42.html" href="Text/42.html" media-type="application/xhtml+xml"/>
+    <item id="son.html" href="Text/son.html" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.html"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="title.html"/>
+    <itemref idref="onsoz.html"/>
+    <itemref idref="uyari.html"/>
+    <itemref idref="aciklama.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="x05.html"/>
+    <itemref idref="x06.html"/>
+    <itemref idref="x07.html"/>
+    <itemref idref="x08.html"/>
+    <itemref idref="x09.html"/>
+    <itemref idref="x10.html"/>
+    <itemref idref="x11.html"/>
+    <itemref idref="x12.html"/>
+    <itemref idref="x13.html"/>
+    <itemref idref="x14.html"/>
+    <itemref idref="x15.html"/>
+    <itemref idref="x16.html"/>
+    <itemref idref="x17.html"/>
+    <itemref idref="x18.html"/>
+    <itemref idref="x19.html"/>
+    <itemref idref="x20.html"/>
+    <itemref idref="x21.html"/>
+    <itemref idref="x22.html"/>
+    <itemref idref="x23.html"/>
+    <itemref idref="x24.html"/>
+    <itemref idref="x25.html"/>
+    <itemref idref="x26.html"/>
+    <itemref idref="x27.html"/>
+    <itemref idref="x28.html"/>
+    <itemref idref="x29.html"/>
+    <itemref idref="x30.html"/>
+    <itemref idref="x31.html"/>
+    <itemref idref="x32.html"/>
+    <itemref idref="x33.html"/>
+    <itemref idref="x34.html"/>
+    <itemref idref="x35.html"/>
+    <itemref idref="x36.html"/>
+    <itemref idref="x37.html"/>
+    <itemref idref="x38.html"/>
+    <itemref idref="x39.html"/>
+    <itemref idref="x40.html"/>
+    <itemref idref="x41.html"/>
+    <itemref idref="x42.html"/>
+    <itemref idref="son.html"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

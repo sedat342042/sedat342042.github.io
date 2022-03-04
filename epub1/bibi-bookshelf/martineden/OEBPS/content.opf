@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uuid">{8C60FA85-DEFE-4C95-8B7A-AFE5A045E8B3}</dc:identifier>
+    <dc:title>Martin Eden</dc:title>
+    <dc:creator opf:role="aut">Jack London</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:date opf:event="modification">2015-03-14</dc:date>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">978-605-332-212-2</dc:identifier>
+    <dc:description>Jack London’ın yarı otobiyografik romanı Martin Eden, 20. yüzyıl başında sosyal ve ideolojik meseleler ağırlıklı içeriğiyle Amerikan edebiyatında büyük ölçüde kabul görmüştür. London farklı sınıflar arasındaki zihniyet ve değer farklarını gözlerimizin önüne sererken, statü ve servetin Amerikan toplumundaki hayati önemine işaret eder. Romanın ana temalarından biri, başarı ve refah yolunun sosyal sınıf farkı gözetilmeksizin herkese açık olduğu şeklinde özetlenebilecek Amerikan Rüyası’dır. Ya da bu idealin yarattığı muazzam hayal kırıklığı… London, romanı bir sanatçının çıraklıktan olgunluğa geçiş sürecini işleyen Künstlerroman geleneğinde yazmıştır. Martin’in aşkı uğruna eğitimsiz genç bir işçiden başarılı ve rafine bir yazara dönüşüm mücadelesini anlatır. Kahramanı hedefine ulaştığında ise motivasyonunu ve heyecanını çoktan yitirmiş, trajik bir sona doğru sürüklenmektedir artık…</dc:description>
+    <meta content="0.8.4" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="Text/I-003.xhtml" id="I-003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-001.xhtml" id="P-001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-002.xhtml" id="P-002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-003.xhtml" id="P-003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-004.xhtml" id="P-004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-005.xhtml" id="P-005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-006.xhtml" id="P-006.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-007.xhtml" id="P-007.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-008.xhtml" id="P-008.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-009.xhtml" id="P-009.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-010.xhtml" id="P-010.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-011.xhtml" id="P-011.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-012.xhtml" id="P-012.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-013.xhtml" id="P-013.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-014.xhtml" id="P-014.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-015.xhtml" id="P-015.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-016.xhtml" id="P-016.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-017.xhtml" id="P-017.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-018.xhtml" id="P-018.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-019.xhtml" id="P-019.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-020.xhtml" id="P-020.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-021.xhtml" id="P-021.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-022.xhtml" id="P-022.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-023.xhtml" id="P-023.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-024.xhtml" id="P-024.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-025.xhtml" id="P-025.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-026.xhtml" id="P-026.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-027.xhtml" id="P-027.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-028.xhtml" id="P-028.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-029.xhtml" id="P-029.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-030.xhtml" id="P-030.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-031.xhtml" id="P-031.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-032.xhtml" id="P-032.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-033.xhtml" id="P-033.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-034.xhtml" id="P-034.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-035.xhtml" id="P-035.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-036.xhtml" id="P-036.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-037.xhtml" id="P-037.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-038.xhtml" id="P-038.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-039.xhtml" id="P-039.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-040.xhtml" id="P-040.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-041.xhtml" id="P-041.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-042.xhtml" id="P-042.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-043.xhtml" id="P-043.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-044.xhtml" id="P-044.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-045.xhtml" id="P-045.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/NOTLAR.xhtml" id="NOTLAR.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="id59" media-type="application/x-dtbncx+xml" />
+    <item href="Text/I-001.xhtml" id="I-001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/I-002.xhtml" id="I-002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-047.xhtml" id="P-047.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css" />
+    <item href="Images/is%20bankasi.jpg" id="is_bankasi.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/P-046.xhtml" id="P-046.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/KK.xhtml" id="KK.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/A9R34E2.jpg" id="A9R34E2.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="id59">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="KK.xhtml" />
+    <itemref idref="I-001.xhtml" />
+    <itemref idref="I-002.xhtml" />
+    <itemref idref="I-003.xhtml" />
+    <itemref idref="P-001.xhtml" />
+    <itemref idref="P-002.xhtml" />
+    <itemref idref="P-003.xhtml" />
+    <itemref idref="P-004.xhtml" />
+    <itemref idref="P-005.xhtml" />
+    <itemref idref="P-006.xhtml" />
+    <itemref idref="P-007.xhtml" />
+    <itemref idref="P-008.xhtml" />
+    <itemref idref="P-009.xhtml" />
+    <itemref idref="P-010.xhtml" />
+    <itemref idref="P-011.xhtml" />
+    <itemref idref="P-012.xhtml" />
+    <itemref idref="P-013.xhtml" />
+    <itemref idref="P-014.xhtml" />
+    <itemref idref="P-015.xhtml" />
+    <itemref idref="P-016.xhtml" />
+    <itemref idref="P-017.xhtml" />
+    <itemref idref="P-018.xhtml" />
+    <itemref idref="P-019.xhtml" />
+    <itemref idref="P-020.xhtml" />
+    <itemref idref="P-021.xhtml" />
+    <itemref idref="P-022.xhtml" />
+    <itemref idref="P-023.xhtml" />
+    <itemref idref="P-024.xhtml" />
+    <itemref idref="P-025.xhtml" />
+    <itemref idref="P-026.xhtml" />
+    <itemref idref="P-027.xhtml" />
+    <itemref idref="P-028.xhtml" />
+    <itemref idref="P-029.xhtml" />
+    <itemref idref="P-030.xhtml" />
+    <itemref idref="P-031.xhtml" />
+    <itemref idref="P-032.xhtml" />
+    <itemref idref="P-033.xhtml" />
+    <itemref idref="P-034.xhtml" />
+    <itemref idref="P-035.xhtml" />
+    <itemref idref="P-036.xhtml" />
+    <itemref idref="P-037.xhtml" />
+    <itemref idref="P-038.xhtml" />
+    <itemref idref="P-039.xhtml" />
+    <itemref idref="P-040.xhtml" />
+    <itemref idref="P-041.xhtml" />
+    <itemref idref="P-042.xhtml" />
+    <itemref idref="P-043.xhtml" />
+    <itemref idref="P-044.xhtml" />
+    <itemref idref="P-045.xhtml" />
+    <itemref idref="P-046.xhtml" />
+    <itemref idref="P-047.xhtml" />
+    <itemref idref="NOTLAR.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

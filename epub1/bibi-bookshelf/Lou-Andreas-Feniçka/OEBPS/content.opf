@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Feniçka</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Andreas-Salomé, Lou">Lou Andreas-Salomé</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>Lou Andreas-Salomé modern anlamda “feminist” olarak tarif edilemese de, bağımsız ve özgürlükçü yaşamıyla kuşaklar boyu feministler için bir rol model oldu. Nietzsche, Rilke ve Freud gibi önemli şahsiyetlerle kurduğu dostluklarla ve onlar üzerindeki etkisiyle gündeme geldi. Avrupa üniversitelerinde öğrenim gören ilk kadınlardan biri olarak, erkeklerle ilişkileri çağının kadınlarına göre farklı bir seyir izlemişti.
+Feniçka, Andreas-Salomé’nin Alman oyun yazarı Franz Wedekind’le yaşadığı, daha sonra Alban Berg’in Lulu adlı operasının librettosuna da konu olan bir deneyime dayanır. Geleneksel cinsiyetler arası ilişkileri pek umursamayan, İsviçre’de doktorasını yapmış Moskovalı bir kadının bir erkek psikoloğun gözünden anlatılan hikâyesidir. Anlatıcı yapıtın akışı içinde Feniçka’yla dostluğunu ilerletirken, kadınları her daim belli şablonlar içinde; ya erkek avcıları ya da salt zihinsel kapasiteleriyle öne çıkan cinsiyetsiz varlıklar olarak değerlendirmekten vazgeçip, insan olarak görmeyi öğrenir.</dc:description>
+    <dc:date>2017-02-22T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{78E2C001-05AB-4503-9D71-C27064667F3B}</dc:identifier>
+    <dc:date opf:event="modification">2018-02-13</dc:date>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">09a03d9e-dfad-4942-9527-9d22ea423c6b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053327837</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+    <meta content="0.9.9" name="Sigil version" />
+    <meta content="Feniçka" name="calibre:title_sort" />
+    <meta content="{&quot;Lou Andreas-Salomé&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id3" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

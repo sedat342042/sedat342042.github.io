@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="b0a9bb5b-7b77-4a85-b8ee-79137d040652" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bahçede Eğlence</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Körfezde</text>
+      </navLabel>
+      <content src="Text/01.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Bahçede Eğlence</text>
+      </navLabel>
+      <content src="Text/02.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Ölü Albayın Kızları</text>
+      </navLabel>
+      <content src="Text/03.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Mr. ve Mrs. Kumru</text>
+      </navLabel>
+      <content src="Text/04.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Genç Kız</text>
+      </navLabel>
+      <content src="Text/05.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Parker Ana’nın Hayatı</text>
+      </navLabel>
+      <content src="Text/06.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>A la Mode Evlilik</text>
+      </navLabel>
+      <content src="Text/07.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Deniz Yolculuğu</text>
+      </navLabel>
+      <content src="Text/08.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Miss Brill</text>
+      </navLabel>
+      <content src="Text/09.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Kızın İlk Balosu</text>
+      </navLabel>
+      <content src="Text/10.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Şarkı Dersi</text>
+      </navLabel>
+      <content src="Text/11.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Yabancı</text>
+      </navLabel>
+      <content src="Text/12.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Resmi Tatil</text>
+      </navLabel>
+      <content src="Text/13.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Örnek Aile</text>
+      </navLabel>
+      <content src="Text/14.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Hanımefendinin Hizmetçisi</text>
+      </navLabel>
+      <content src="Text/15.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

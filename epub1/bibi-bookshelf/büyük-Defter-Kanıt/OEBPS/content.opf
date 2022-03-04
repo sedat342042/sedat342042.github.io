@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package unique-identifier="uuid" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Büyük Defter-Kanıt-Üçüncü Yalan</dc:title>
+    <dc:subject>Roman</dc:subject>
+    <dc:publisher>YKY Yayınları</dc:publisher>
+    <dc:description>Agota Kristof'tan savaş, yıkım, göçmenlik, kimlik, insanlık ve yazmak üzerine tüyler ürpertici bir üçleme...
+
+Zamanın ve adın olmadığı bir coğrafyada, savaşın, felaketin, yoksulluğun ortasında anneannelerine emanet edilmiş küçük ikizler, bir yandan hayatı anlamaya çalışırken bir yandan da ne pahasına olursa olsun hayata sıkı sıkı tutunmaya çalışırlar. Gün gelir ikizlerin yolu ayrı düşer. Bir daha görüşebilecekler midir? Belki de, sınırları aşmak, sadece mekânları ve kişileri değil, kimlikleri ve hatta geçmişi bile değiştirebilir...</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:creator opf:file-as="Kristof, Agota" opf:role="aut">Agota Kristof</dc:creator>
+    <dc:identifier id="uuid">{AA73BFF7-A34F-4F8E-9F10-75DEE189E3EE}</dc:identifier>
+    <meta name="cover" content="id1"/>
+    <meta content="0.9.2" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2018-05-23</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/buyuk_defter.xhtml" id="buyuk_defter.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Images/main-2.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Text/buy_def_0001.xhtml" id="buy_def_0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0002.xhtml" id="buy_def_0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0003.xhtml" id="buy_def_0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0004.xhtml" id="buy_def_0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0005.xhtml" id="buy_def_0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0006.xhtml" id="buy_def_0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0007.xhtml" id="buy_def_0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0008.xhtml" id="buy_def_0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0009.xhtml" id="buy_def_0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0010.xhtml" id="buy_def_0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0011.xhtml" id="buy_def_0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0012.xhtml" id="buy_def_0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0013.xhtml" id="buy_def_0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0014.xhtml" id="buy_def_0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0015.xhtml" id="buy_def_0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0016.xhtml" id="buy_def_0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0017.xhtml" id="buy_def_0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0018.xhtml" id="buy_def_0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0019.xhtml" id="buy_def_0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0020.xhtml" id="buy_def_0020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0021.xhtml" id="buy_def_0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0022.xhtml" id="buy_def_0022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0023.xhtml" id="buy_def_0023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0024.xhtml" id="buy_def_0024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0025.xhtml" id="buy_def_0025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0026.xhtml" id="buy_def_0026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0027.xhtml" id="buy_def_0027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0028.xhtml" id="buy_def_0028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0029.xhtml" id="buy_def_0029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0030.xhtml" id="buy_def_0030.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0031.xhtml" id="buy_def_0031.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0032.xhtml" id="buy_def_0032.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0033.xhtml" id="buy_def_0033.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0034.xhtml" id="buy_def_0034.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0035.xhtml" id="buy_def_0035.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0036.xhtml" id="buy_def_0036.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0037.xhtml" id="buy_def_0037.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0038.xhtml" id="buy_def_0038.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0039.xhtml" id="buy_def_0039.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0040.xhtml" id="buy_def_0040.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0041.xhtml" id="buy_def_0041.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0042.xhtml" id="buy_def_0042.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0043.xhtml" id="buy_def_0043.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0044.xhtml" id="buy_def_0044.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0045.xhtml" id="buy_def_0045.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0046.xhtml" id="buy_def_0046.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0047.xhtml" id="buy_def_0047.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0048.xhtml" id="buy_def_0048.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0049.xhtml" id="buy_def_0049.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0050.xhtml" id="buy_def_0050.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0051.xhtml" id="buy_def_0051.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0052.xhtml" id="buy_def_0052.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0053.xhtml" id="buy_def_0053.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0054.xhtml" id="buy_def_0054.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0055.xhtml" id="buy_def_0055.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0056.xhtml" id="buy_def_0056.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0057.xhtml" id="buy_def_0057.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0058.xhtml" id="buy_def_0058.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0059.xhtml" id="buy_def_0059.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0060.xhtml" id="buy_def_0060.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buy_def_0061.xhtml" id="buy_def_0061.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kanit_0004.xhtml" id="kanit_0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0001.xhtml" id="uc_yal_0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arka_kapak.xhtml" id="arka_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id69" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/blitz.css" id="blitz.css" media-type="text/css"/>
+    <item href="Styles/blitz_hoca.css" id="blitz_hoca.css" media-type="text/css"/>
+    <item href="Styles/blitz_kindle.css" id="blitz_kindle.css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic_kapak.xhtml" id="ic_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.xhtml" id="icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/yapi_kredi_yayinlari_logo-300x300.png" id="yapi_kredi_yayinlari_logo-300x300.png" media-type="image/png"/>
+    <item href="Text/buy_def_0062.xhtml" id="buy_def_0062.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kanit.xhtml" id="kanit.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kanit_0001.xhtml" id="kanit_0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kanit_0002.xhtml" id="kanit_0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kanit_0003.xhtml" id="kanit_0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kanit_0005.xhtml" id="kanit_0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kanit_0006.xhtml" id="kanit_0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kanit_0007.xhtml" id="kanit_0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kanit_0008.xhtml" id="kanit_0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kanit_0009.xhtml" id="kanit_0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ucuncu_yalan.xhtml" id="ucuncu_yalan.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/birinci_bolum.xhtml" id="birinci_bolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0002.xhtml" id="uc_yal_0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0003.xhtml" id="uc_yal_0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0004.xhtml" id="uc_yal_0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0005.xhtml" id="uc_yal_0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0006.xhtml" id="uc_yal_0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0007.xhtml" id="uc_yal_0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0008.xhtml" id="uc_yal_0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0009.xhtml" id="uc_yal_0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ikinci_bolum.xhtml" id="ikinci_bolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0010.xhtml" id="uc_yal_0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0011.xhtml" id="uc_yal_0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0012.xhtml" id="uc_yal_0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0013.xhtml" id="uc_yal_0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0014.xhtml" id="uc_yal_0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0015.xhtml" id="uc_yal_0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0016.xhtml" id="uc_yal_0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0017.xhtml" id="uc_yal_0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc_yal_0018.xhtml" id="uc_yal_0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/whitespace.png" id="whitespace.png" media-type="image/png"/>
+    <item href="Text/ekdg.xhtml" id="ekdg.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png"/>
+    <item href="Images/ekdg-logo.svg" id="ekdg-logo.svg" media-type="image/svg+xml"/>
+  </manifest>
+  <spine toc="id69">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="arka_kapak.xhtml"/>
+    <itemref idref="ekdg.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ic_kapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="icindekiler.xhtml"/>
+    <itemref idref="buyuk_defter.xhtml"/>
+    <itemref idref="buy_def_0001.xhtml"/>
+    <itemref idref="buy_def_0002.xhtml"/>
+    <itemref idref="buy_def_0003.xhtml"/>
+    <itemref idref="buy_def_0004.xhtml"/>
+    <itemref idref="buy_def_0005.xhtml"/>
+    <itemref idref="buy_def_0006.xhtml"/>
+    <itemref idref="buy_def_0007.xhtml"/>
+    <itemref idref="buy_def_0008.xhtml"/>
+    <itemref idref="buy_def_0009.xhtml"/>
+    <itemref idref="buy_def_0010.xhtml"/>
+    <itemref idref="buy_def_0011.xhtml"/>
+    <itemref idref="buy_def_0012.xhtml"/>
+    <itemref idref="buy_def_0013.xhtml"/>
+    <itemref idref="buy_def_0014.xhtml"/>
+    <itemref idref="buy_def_0015.xhtml"/>
+    <itemref idref="buy_def_0016.xhtml"/>
+    <itemref idref="buy_def_0017.xhtml"/>
+    <itemref idref="buy_def_0018.xhtml"/>
+    <itemref idref="buy_def_0019.xhtml"/>
+    <itemref idref="buy_def_0020.xhtml"/>
+    <itemref idref="buy_def_0021.xhtml"/>
+    <itemref idref="buy_def_0022.xhtml"/>
+    <itemref idref="buy_def_0023.xhtml"/>
+    <itemref idref="buy_def_0024.xhtml"/>
+    <itemref idref="buy_def_0025.xhtml"/>
+    <itemref idref="buy_def_0026.xhtml"/>
+    <itemref idref="buy_def_0027.xhtml"/>
+    <itemref idref="buy_def_0028.xhtml"/>
+    <itemref idref="buy_def_0029.xhtml"/>
+    <itemref idref="buy_def_0030.xhtml"/>
+    <itemref idref="buy_def_0031.xhtml"/>
+    <itemref idref="buy_def_0032.xhtml"/>
+    <itemref idref="buy_def_0033.xhtml"/>
+    <itemref idref="buy_def_0034.xhtml"/>
+    <itemref idref="buy_def_0035.xhtml"/>
+    <itemref idref="buy_def_0036.xhtml"/>
+    <itemref idref="buy_def_0037.xhtml"/>
+    <itemref idref="buy_def_0038.xhtml"/>
+    <itemref idref="buy_def_0039.xhtml"/>
+    <itemref idref="buy_def_0040.xhtml"/>
+    <itemref idref="buy_def_0041.xhtml"/>
+    <itemref idref="buy_def_0042.xhtml"/>
+    <itemref idref="buy_def_0043.xhtml"/>
+    <itemref idref="buy_def_0044.xhtml"/>
+    <itemref idref="buy_def_0045.xhtml"/>
+    <itemref idref="buy_def_0046.xhtml"/>
+    <itemref idref="buy_def_0047.xhtml"/>
+    <itemref idref="buy_def_0048.xhtml"/>
+    <itemref idref="buy_def_0049.xhtml"/>
+    <itemref idref="buy_def_0050.xhtml"/>
+    <itemref idref="buy_def_0051.xhtml"/>
+    <itemref idref="buy_def_0052.xhtml"/>
+    <itemref idref="buy_def_0053.xhtml"/>
+    <itemref idref="buy_def_0054.xhtml"/>
+    <itemref idref="buy_def_0055.xhtml"/>
+    <itemref idref="buy_def_0056.xhtml"/>
+    <itemref idref="buy_def_0057.xhtml"/>
+    <itemref idref="buy_def_0058.xhtml"/>
+    <itemref idref="buy_def_0059.xhtml"/>
+    <itemref idref="buy_def_0060.xhtml"/>
+    <itemref idref="buy_def_0061.xhtml"/>
+    <itemref idref="buy_def_0062.xhtml"/>
+    <itemref idref="kanit.xhtml"/>
+    <itemref idref="kanit_0001.xhtml"/>
+    <itemref idref="kanit_0002.xhtml"/>
+    <itemref idref="kanit_0003.xhtml"/>
+    <itemref idref="kanit_0004.xhtml"/>
+    <itemref idref="kanit_0005.xhtml"/>
+    <itemref idref="kanit_0006.xhtml"/>
+    <itemref idref="kanit_0007.xhtml"/>
+    <itemref idref="kanit_0008.xhtml"/>
+    <itemref idref="kanit_0009.xhtml"/>
+    <itemref idref="ucuncu_yalan.xhtml"/>
+    <itemref idref="birinci_bolum.xhtml"/>
+    <itemref idref="uc_yal_0001.xhtml"/>
+    <itemref idref="uc_yal_0002.xhtml"/>
+    <itemref idref="uc_yal_0003.xhtml"/>
+    <itemref idref="uc_yal_0004.xhtml"/>
+    <itemref idref="uc_yal_0005.xhtml"/>
+    <itemref idref="uc_yal_0006.xhtml"/>
+    <itemref idref="uc_yal_0007.xhtml"/>
+    <itemref idref="uc_yal_0008.xhtml"/>
+    <itemref idref="uc_yal_0009.xhtml"/>
+    <itemref idref="uc_yal_0010.xhtml"/>
+    <itemref idref="ikinci_bolum.xhtml"/>
+    <itemref idref="uc_yal_0011.xhtml"/>
+    <itemref idref="uc_yal_0012.xhtml"/>
+    <itemref idref="uc_yal_0013.xhtml"/>
+    <itemref idref="uc_yal_0014.xhtml"/>
+    <itemref idref="uc_yal_0015.xhtml"/>
+    <itemref idref="uc_yal_0016.xhtml"/>
+    <itemref idref="uc_yal_0017.xhtml"/>
+    <itemref idref="uc_yal_0018.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

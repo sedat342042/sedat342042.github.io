@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Boyalı Peçe</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Maugham, W. Somerset">W. Somerset Maugham</dc:creator>
+    <dc:description>&lt;span style="color: rgb(0, 21, 64); font-family: Arial, Helvetica, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;1920’li yıllarda Londra ve Hong Kong’da geçen Boyalı Peçe, bir kadının ruhani uyanışının hikâyesidir. Kitty, annesi tarafından sosyal merdivende yükselmesini sağlayacak bir evlilik yapmak üzere yetiştirilmiştir. Ancak yaşı ilerlerken ufukta böyle bir evlilik belirmeyince panik halinde sevmediği bir adamla; Hong Kong’da bakteriyolog olarak görev yapan Walter’la evlenir. Walter’ın Kitty’nin ihanetini öğrenmesiyle başlayan süreçte, genç kadın kendi sığlığını ve insani zaaflarını fark edecek, hayatında ilk kez anlam aramaya başlayacaktır.&lt;/span&gt;</dc:description>
+    <dc:date>2017-01-30T22:00:00+00:00</dc:date>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date opf:event="modification">2017-02-01</dc:date>
+    <dc:identifier id="uuid">{053CDEC5-BDD6-46F5-BA52-5AB0A3170480}</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">272c12f6-7679-490c-86aa-57caf2cf31c7</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053327677</dc:identifier>
+    <meta content="0.9.6" name="Sigil version"/>
+    <meta content="Boyalı Peçe" name="calibre:title_sort"/>
+    <meta content="{&quot;W. Somerset Maugham&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epigraf.xhtml" href="Text/epigraf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id14" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id13" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id14">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="epigraf.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

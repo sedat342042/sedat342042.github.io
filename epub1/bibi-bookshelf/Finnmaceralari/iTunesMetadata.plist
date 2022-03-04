@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Mark Twain</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>F09B4F59CE22ABD5A7C3450EAB959590</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>DDCBAB31289FD89405884CDE44F03996</string>
+		<key>publisher-unique-id</key>
+		<string>AWP-8BA309C8-E995-4EC5-AF60-D3CC5A493673</string>
+		<key>unique-id</key>
+		<integer>310549280830550442</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>Modern Klasikler</string>
+	<key>itemName</key>
+	<string>Huckleberry Finn'in Maceraları</string>
+	<key>playlistName</key>
+	<string>Huckleberry Finn'in Maceraları</string>
+	<key>releaseDate</key>
+	<string>2017-03-29T21:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>Twain, Mark</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

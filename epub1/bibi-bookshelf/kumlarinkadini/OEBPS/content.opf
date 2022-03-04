@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:5eabe198-f4a1-4b15-a849-b7ee90a43a02</dc:identifier>
+    <dc:title>Kumların Kadını</dc:title>
+    <dc:creator opf:file-as="Abe, Kobo" opf:role="aut">Kobo Abe</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:date opf:event="publication">2008-05-17</dc:date>
+    <dc:identifier opf:scheme="ISBN">9789944860574</dc:identifier>
+    <dc:publisher>Merkez Kitap</dc:publisher>
+    <dc:description>Nadir bulunan bir böceğin peşindeyken yolu tuhaf bir kasabaya düşen, orada dul bir kadının evine neredeyse hapsedilen kahramanın umutsuz, karamsar, sonuçsuz ve çoğu boşa çıkan kaçış çabalarını, kapkaranlık bir atmosferde anlatan Kobo Abe'nin Kumların Kadını adlı romanı, Japonya'nın edebiyata en önemli armağanlarından bir olarak kabul edilir. Eser, Beckett, Kafka ve Sartre'ın yapıtlarıyla kıyaslanmış, büyük övgüler almıştır. Varoluşçuluk felsefesine Japonya'dan açılan bir pencere olarak görülen Kumların Kadını, özgün dilinden çevirisiyle ilk kez Türkçede.</dc:description>
+    <dc:contributor opf:role="trl">Hüseyin Can Erkin</dc:contributor>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:date opf:event="modification">2015-07-01</dc:date>
+    <meta content="0.8.7" name="Sigil version" />
+    <meta name="cover" content="Kobo_Abe-Kumlarin-Kadini.jpg" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/kobo.xhtml" id="kobo.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir06.xhtml" id="bir06.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir07.xhtml" id="bir07.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir08.xhtml" id="bir08.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir09.xhtml" id="bir09.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir10.xhtml" id="bir10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir11.xhtml" id="bir11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir05.xhtml" id="bir05.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir04.xhtml" id="bir04.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir03.xhtml" id="bir03.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir02.xhtml" id="bir02.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bir01.xhtml" id="bir01.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/ded.xhtml" id="ded.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/tit.xhtml" id="tit.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/pub.xhtml" id="pub.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki01.xhtml" id="iki01.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki02.xhtml" id="iki02.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/uc01.xhtml" id="uc01.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki03.xhtml" id="iki03.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki04.xhtml" id="iki04.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki07.xhtml" id="iki07.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki05.xhtml" id="iki05.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki06.xhtml" id="iki06.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki08.xhtml" id="iki08.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki09.xhtml" id="iki09.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki10.xhtml" id="iki10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki11.xhtml" id="iki11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki12.xhtml" id="iki12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki13.xhtml" id="iki13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki14.xhtml" id="iki14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki15.xhtml" id="iki15.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki16.xhtml" id="iki16.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki17.xhtml" id="iki17.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/iki18.xhtml" id="iki18.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/uc04.xhtml" id="uc04.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/uc05.xhtml" id="uc05.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/uc03.xhtml" id="uc03.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/uc02.xhtml" id="uc02.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/uc06.xhtml" id="uc06.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/Kobo%20Abe-Kumlarin-Kadini.jpg" id="Kobo_Abe-Kumlarin-Kadini.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/eldv0.2.css" id="eldv0.2.css" media-type="text/css" />
+    <item href="Fonts/literata-bold.otf" id="literata-bold.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/literata-bold-italic.otf" id="literata-bold-italic.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/literata-italic.otf" id="literata-italic.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/literata-regular.otf" id="literata-regular.otf" media-type="application/vnd.ms-opentype" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="kobo.xhtml" />
+    <itemref idref="pub.xhtml" />
+    <itemref idref="tit.xhtml" />
+    <itemref idref="ded.xhtml" />
+    <itemref idref="bir01.xhtml" />
+    <itemref idref="bir02.xhtml" />
+    <itemref idref="bir03.xhtml" />
+    <itemref idref="bir04.xhtml" />
+    <itemref idref="bir05.xhtml" />
+    <itemref idref="bir06.xhtml" />
+    <itemref idref="bir07.xhtml" />
+    <itemref idref="bir08.xhtml" />
+    <itemref idref="bir09.xhtml" />
+    <itemref idref="bir10.xhtml" />
+    <itemref idref="bir11.xhtml" />
+    <itemref idref="iki01.xhtml" />
+    <itemref idref="iki02.xhtml" />
+    <itemref idref="iki03.xhtml" />
+    <itemref idref="iki04.xhtml" />
+    <itemref idref="iki05.xhtml" />
+    <itemref idref="iki06.xhtml" />
+    <itemref idref="iki07.xhtml" />
+    <itemref idref="iki08.xhtml" />
+    <itemref idref="iki09.xhtml" />
+    <itemref idref="iki10.xhtml" />
+    <itemref idref="iki11.xhtml" />
+    <itemref idref="iki12.xhtml" />
+    <itemref idref="iki13.xhtml" />
+    <itemref idref="iki14.xhtml" />
+    <itemref idref="iki15.xhtml" />
+    <itemref idref="iki16.xhtml" />
+    <itemref idref="iki17.xhtml" />
+    <itemref idref="iki18.xhtml" />
+    <itemref idref="uc01.xhtml" />
+    <itemref idref="uc02.xhtml" />
+    <itemref idref="uc03.xhtml" />
+    <itemref idref="uc04.xhtml" />
+    <itemref idref="uc05.xhtml" />
+    <itemref idref="uc06.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>
