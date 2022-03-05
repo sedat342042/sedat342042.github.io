@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier id="uuid_id" opf:scheme="uuid">14971053-b032-4ce2-bb31-8eb6c4a81cf1</dc:identifier>
+    <dc:title>Silinis (Vanish)</dc:title>
+    <dc:creator opf:file-as="Gerritsen, Tess" opf:role="aut">Tess Gerritsen</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:contributor opf:role="bkp">calibre (1.28.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Ayhan Hocha</dc:publisher>
+    <dc:date opf:event="modification">2015-05-22</dc:date>
+    <dc:identifier opf:scheme="calibre">14971053-b032-4ce2-bb31-8eb6c4a81cf1</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">6054335701</dc:identifier>
+    <meta content="Silinis (Vanish)" name="calibre:title_sort" />
+    <meta content="2012-06-17T20:45:01+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <meta content="0.8.6" name="Sigil version" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Tess Gerritsen&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#okumadurumu&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;okumadurumu&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 2}, &quot;name&quot;: &quot;Okuma&quot;}" name="calibre:user_metadata:#okumadurumu" />
+    <meta content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 3, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#people&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {&quot;cache_to_list&quot;: &quot;|&quot;, &quot;list_to_ui&quot;: &quot; &amp; &quot;, &quot;ui_to_list&quot;: &quot;&amp;&quot;}, &quot;is_multiple&quot;: &quot;|&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: [&quot;Martı&quot;], &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;people&quot;, &quot;display&quot;: {&quot;is_names&quot;: true}, &quot;name&quot;: &quot;Yayınevi&quot;}" name="calibre:user_metadata:#people" />
+    <meta content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 24, &quot;search_terms&quot;: [&quot;#sayfa_say&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;sayfa_say&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 2}, &quot;name&quot;: &quot;Sayfa Sayısı&quot;}" name="calibre:user_metadata:#sayfa_say" />
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/giris.html" id="giris.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0039.html" id="Section0039.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0006.html" id="Section0006.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0007.html" id="Section0007.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0008.html" id="Section0008.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0009.html" id="Section0009.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0010.html" id="Section0010.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0011.html" id="Section0011.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0012.html" id="Section0012.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0013.html" id="Section0013.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0014.html" id="Section0014.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0015.html" id="Section0015.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0016.html" id="Section0016.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0017.html" id="Section0017.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0038.html" id="Section0038.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0018.html" id="Section0018.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0019.html" id="Section0019.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0020.html" id="Section0020.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0021.html" id="Section0021.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0022.html" id="Section0022.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0023.html" id="Section0023.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0024.html" id="Section0024.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0025.html" id="Section0025.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0026.html" id="Section0026.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0027.html" id="Section0027.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0028.html" id="Section0028.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0029.html" id="Section0029.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0030.html" id="Section0030.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0031.html" id="Section0031.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0032.html" id="Section0032.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0033.html" id="Section0033.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0034.html" id="Section0034.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0035.html" id="Section0035.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0036.html" id="Section0036.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0037.html" id="Section0037.html" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Fonts/Cambria-Bold.ttf" id="font1" media-type="application/x-font-truetype" />
+    <item href="Fonts/Comic-Sans-MS.ttf" id="font4" media-type="application/x-font-truetype" />
+    <item href="Fonts/Times-New-Roman-Bold.ttf" id="font2" media-type="application/x-font-truetype" />
+    <item href="Fonts/Times-New-Roman.ttf" id="font" media-type="application/x-font-truetype" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="giris.html" />
+    <itemref idref="Section0039.html" />
+    <itemref idref="Section0001.html" />
+    <itemref idref="Section0002.html" />
+    <itemref idref="Section0003.html" />
+    <itemref idref="Section0004.html" />
+    <itemref idref="Section0005.html" />
+    <itemref idref="Section0006.html" />
+    <itemref idref="Section0007.html" />
+    <itemref idref="Section0008.html" />
+    <itemref idref="Section0009.html" />
+    <itemref idref="Section0010.html" />
+    <itemref idref="Section0011.html" />
+    <itemref idref="Section0012.html" />
+    <itemref idref="Section0013.html" />
+    <itemref idref="Section0014.html" />
+    <itemref idref="Section0015.html" />
+    <itemref idref="Section0016.html" />
+    <itemref idref="Section0017.html" />
+    <itemref idref="Section0038.html" />
+    <itemref idref="Section0018.html" />
+    <itemref idref="Section0019.html" />
+    <itemref idref="Section0020.html" />
+    <itemref idref="Section0021.html" />
+    <itemref idref="Section0022.html" />
+    <itemref idref="Section0023.html" />
+    <itemref idref="Section0024.html" />
+    <itemref idref="Section0025.html" />
+    <itemref idref="Section0026.html" />
+    <itemref idref="Section0027.html" />
+    <itemref idref="Section0028.html" />
+    <itemref idref="Section0029.html" />
+    <itemref idref="Section0030.html" />
+    <itemref idref="Section0031.html" />
+    <itemref idref="Section0032.html" />
+    <itemref idref="Section0033.html" />
+    <itemref idref="Section0034.html" />
+    <itemref idref="Section0035.html" />
+    <itemref idref="Section0036.html" />
+    <itemref idref="Section0037.html" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover" />
+  </guide>
+</package>

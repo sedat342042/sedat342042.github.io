@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="d37909b3-bec5-4e50-9059-6d5e7b5936d0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.52)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Christine</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="part1" playOrder="1">
+      <navLabel>
+        <text>CHRISTINE</text>
+      </navLabel>
+      <content src="OEBPS/part1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="part2" playOrder="2">
+      <navLabel>
+        <text>Part I Dennis - Teeenage Car-Songs</text>
+      </navLabel>
+      <content src="OEBPS/part2_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="part3" playOrder="3">
+      <navLabel>
+        <text>Part II Arnie - Teenage Love-Songs</text>
+      </navLabel>
+      <content src="OEBPS/part3_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="part4" playOrder="4">
+      <navLabel>
+        <text>Part III Christine - Teenage Death...</text>
+      </navLabel>
+      <content src="OEBPS/part4_split_000.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

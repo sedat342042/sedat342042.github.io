@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>King, Stephen</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>156855EE64F8795E87285F06792BE5DC</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>package-file-hash</key>
+		<string>C72DA418764230148AC452978847C42A</string>
+		<key>publisher-unique-id</key>
+		<string>d37909b3-bec5-4e50-9059-6d5e7b5936d0</string>
+		<key>unique-id</key>
+		<integer>-6226736262788799188</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Christine</string>
+	<key>playlistName</key>
+	<string>Christine</string>
+	<key>releaseDate</key>
+	<string>2008-01-05T05:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>Stephen, King,</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Agatha Christie</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>7B4B71FD04C004BFDBE1E54C1896D4AB</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>FD3EC0FFABE75208BCBA04A383DD920F</string>
+		<key>publisher-unique-id</key>
+		<string>043d2362-dd7b-4876-b42f-9ef7f99ccc04</string>
+		<key>unique-id</key>
+		<integer>-4262186572127206231</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Ecelin Çağrısı</string>
+	<key>playlistName</key>
+	<string>Ecelin Çağrısı</string>
+	<key>releaseDate</key>
+	<string>2011-10-16T10:01:49+00:00</string>
+	<key>sort-artist</key>
+	<string>Christie, Agatha</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

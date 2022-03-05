@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Christie, Agatha">Agatha Christie</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">66bfa3cb-3c05-453c-861f-c7a95d583f8e</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.26.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2003-03-06T22:00:00+00:00</dc:date>
+    <meta content="Kanatların Çağrısı" name="calibre:title_sort"/>
+    <meta content="2014-03-06T23:26:51.067840+00:00" name="calibre:timestamp"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="CWdwU2K.jpg"/>
+  <dc:title>Kanatların Çağrısı</dc:title>
+<dc:publisher>Altın Kitaplar</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Dedektiflik</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Bu birbirinden değişik on iki öykü, Agatha Christie'nin çok yönlü eşsiz bir yazar olduğunu kanıtlıyor. Kırmızı Işık ve Dördüncü Adam, sizleri heyecandan kıvrandırırken, Radyo adlı ironik öyküden gaddarca zevk alacaksınız. Ölüm Habercisi Köpek ise dehşetle tüylerinizi ürpertecek.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d85bb30f-c495-4686-9ac1-5a6b838a7899</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752103825</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_002.html" id="id117" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_003.html" id="id116" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_004.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_005.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_006.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_007.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_010.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_011.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_012.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_013.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_016.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_017.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_018.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_000.html" id="Kanatlarin_Cagrisi_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_008.html" id="Kanatlarin_Cagrisi_split_008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kanatlarin_Cagrisi_split_014.html" id="Kanatlarin_Cagrisi_split_014.html" media-type="application/xhtml+xml"/>
+    <item href="Images/CWdwU2K.jpg" id="CWdwU2K.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Kanatlarin_Cagrisi_split_000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="Kanatlarin_Cagrisi_split_008.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="Kanatlarin_Cagrisi_split_014.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

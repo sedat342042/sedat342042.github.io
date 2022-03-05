@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Agatha Christie _ Kahverengi Elbiseli Adam (The Man In The Brown Suit)</dc:title>
+<dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+<dc:date>2012-09-06</dc:date>
+<dc:identifier id="BookId">awp2012-09-06T00:35:31Z</dc:identifier>
+<dc:language>tr</dc:language>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="style" href="style.css" media-type="text/css"/>
+<item id="id001" href="001.html" media-type="application/xhtml+xml"/>
+<item id="id002" href="002.html" media-type="application/xhtml+xml"/>
+<item id="id003" href="003.html" media-type="application/xhtml+xml"/>
+<item id="id004" href="004.html" media-type="application/xhtml+xml"/>
+<item id="img1" href="images/img1.png" media-type="image/png"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="id001"/>
+<itemref idref="id002"/>
+<itemref idref="id003"/>
+<itemref idref="id004"/>
+</spine>
+</package>

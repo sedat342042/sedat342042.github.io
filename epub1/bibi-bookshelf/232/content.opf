@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="King, Stephen">Stephen King</dc:creator>
+<dc:publisher>Signet</dc:publisher>
+    <meta name="calibre:series_index" content="1"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <dc:description>&lt;p&gt;&lt;strong&gt;HELL ON WHEELS...&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;It was love at first sight. From the moment seventeen-year-old Arnie Cunningham saw Christine, he knew he would do anything to possess her. But Christine is no lady. She is Stephen King's ultimate vehicle of terror&lt;br /&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"Vintage King...breathtaking...awesome.  Carries such momentum the reader must force himself to slow down."—&lt;strong&gt;&lt;em&gt;New York Times Book Review&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Stephen King, the world's bestselling novelist, was educated at the University of Maine at Orono. He lives with his wife, the novelist Tabitha King, and their children in Bangor, Maine. &lt;/p&gt;</dc:description>
+    <meta name="calibre:timestamp" content="2010-06-04T21:00:03.795000+00:00"/>
+    <dc:title>Christine</dc:title>
+    <meta name="cover" content="cover1"/>
+    <dc:date>1983-01-15T09:07:09+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.18) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9780451128386</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d37909b3-bec5-4e50-9059-6d5e7b5936d0</dc:identifier>
+  <meta name="calibre:title_sort" content="Christine"/>
+<dc:subject>Speculative Fiction</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">41015652-589b-4c11-96f0-bd3e6e186f5a</dc:identifier>
+<meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="OEBPS/images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/part1.xhtml" id="part1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part2_split_000.xhtml" id="part23" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part2_split_001.xhtml" id="part22" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part2_split_002.xhtml" id="part21" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part3_split_000.xhtml" id="part33" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part3_split_001.xhtml" id="part32" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part3_split_002.xhtml" id="part31" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part4_split_000.xhtml" id="part43" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part4_split_001.xhtml" id="part42" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part4_split_002.xhtml" id="part41" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/title.xhtml" id="title" media-type="application/xhtml+xml"/>
+    <item href="cover.jpeg" id="cover1" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="title"/>
+    <itemref idref="part1"/>
+    <itemref idref="part23"/>
+    <itemref idref="part22"/>
+    <itemref idref="part21"/>
+    <itemref idref="part33"/>
+    <itemref idref="part32"/>
+    <itemref idref="part31"/>
+    <itemref idref="part43"/>
+    <itemref idref="part42"/>
+    <itemref idref="part41"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

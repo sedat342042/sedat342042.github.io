@@ -1,0 +1,109 @@
+.block_ {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Courier New", monospace;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_2 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_3 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 1.5em;
+    padding: 0;
+    margin: 0
+    }
+.block_4 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 1.5em;
+    padding: 0;
+    margin: 0 0 0 14.2pt
+    }
+.block_5 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    text-align: justify;
+    text-indent: 1.5em;
+    padding: 0;
+    margin: 0
+    }
+.block_6 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    text-align: justify;
+    text-indent: 1.5em;
+    padding: 0;
+    margin: 0 0 0 14.2pt
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre1 {
+    height: 36pt;
+    width: 36pt
+    }
+.calibre2 {
+    height: 23.8pt;
+    width: 36.8pt
+    }
+.calibre3 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0;
+    margin: 1em 0 1em
+    }
+.calibre4 {
+    display: block
+    }
+.whitespace {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }

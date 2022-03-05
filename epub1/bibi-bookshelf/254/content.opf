@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>en</dc:language>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:title>KAYIP KIZLAR</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">TESS GERRİTSEN</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.30.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>DOĞAN KİTAP</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9786050956252</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">02f4e5f1-3891-4036-96df-c1c6fef5e986</dc:identifier>
+    <dc:date>2018-12-25T05:48:17+00:00</dc:date>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş.</dc:rights>
+    <meta name="calibre:timestamp" content="2021-11-12T11:36:46.601315+00:00" />
+  </metadata>
+  <manifest>
+    <item id="on_kapak" href="OEBPS/on_kapak.xhtml" media-type="application/xhtml+xml" />
+    <item id="kunye" href="OEBPS/kunye.xhtml" media-type="application/xhtml+xml" />
+    <item id="perde" href="OEBPS/perde.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1" href="OEBPS/1.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-1" href="OEBPS/1-1.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-2" href="OEBPS/1-2.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-3" href="OEBPS/1-3.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-4" href="OEBPS/1-4.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-5" href="OEBPS/1-5.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-6" href="OEBPS/1-6.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-7" href="OEBPS/1-7.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-8" href="OEBPS/1-8.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-9" href="OEBPS/1-9.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-10" href="OEBPS/1-10.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-11" href="OEBPS/1-11.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-12" href="OEBPS/1-12.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-13" href="OEBPS/1-13.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-14" href="OEBPS/1-14.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-15" href="OEBPS/1-15.xhtml" media-type="application/xhtml+xml" />
+    <item id="arka_kapak" href="OEBPS/arka_kapak.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1.png" href="OEBPS/image/1.png" media-type="image/png" />
+    <item id="arkakapak.png" href="OEBPS/image/arkakapak.png" media-type="image/png" />
+    <item id="onkapak.png" href="OEBPS/image/onkapak.png" media-type="image/png" />
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+  <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json" /></manifest>
+  <spine toc="ncx">
+    <itemref idref="on_kapak" />
+    <itemref idref="kunye" />
+    <itemref idref="perde" />
+    <itemref idref="x1" />
+    <itemref idref="x1-1" />
+    <itemref idref="x1-2" />
+    <itemref idref="x1-3" />
+    <itemref idref="x1-4" />
+    <itemref idref="x1-5" />
+    <itemref idref="x1-6" />
+    <itemref idref="x1-7" />
+    <itemref idref="x1-8" />
+    <itemref idref="x1-9" />
+    <itemref idref="x1-10" />
+    <itemref idref="x1-11" />
+    <itemref idref="x1-12" />
+    <itemref idref="x1-13" />
+    <itemref idref="x1-14" />
+    <itemref idref="x1-15" />
+    <itemref idref="arka_kapak" />
+  </spine>
+</package>
