@@ -248,10 +248,10 @@ const background = document.getElementById("background");
 // Music
 const songs = [
 {
-  path: "http://archive.org/download/051_20220309/001.mp3",
-  displayName: 'Ağaçların Özel Hayatı',
-  artist: 'Alejandro Zambra',
-  cover: "https://sedat342042.github.io/tlgrm/0001.jpg" }];
+  path: "http://archive.org/download/007_20220320/007.mp3",
+  displayName: "Ben Kirke",
+  artist: 'Madeline Miller',
+  cover: "https://sedat342042.github.io/tlgrm/0207.jpg" }];
 
 
 
