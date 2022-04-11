@@ -250,7 +250,7 @@ const songs = [
 {
   path: 'http://archive.org/download/203_20220214/008.mp3',
   displayName: 'Aktris',
-  artist: 'Agatha Christie',
+  artist: ' Agatha Christie',
   cover: "https://sedat342042.github.io/akn/008.jpg" }];
 
 

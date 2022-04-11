@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Mürebbiye</dc:title>
+    <dc:creator opf:file-as="Zweig, Stefan" opf:role="aut">Stefan Zweig</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Mürebbiyeleri katı bir ahlak anlayışının kurbanı olurken, yetişkin dünyasının gaddarlığıyla tanışan iki masum çocuk; Como gölü kıyısındaki bir otelin dingin ortamında gözüne kestirdiği bir genç kıza imzasız aşk mektupları yazarak zalimce bir oyuna girişen görmüş geçirmiş beyefendi; Tirol Alplerinde küçük bir lokantada gençliğinin platonik aşkıyla karşılaşan, artık düşkün ve yaşlı olan bu adama yıllar öncesinden duyduğu gönül borcunu ödeme fırsatı bulan evli bir kadın; bir genç kızın yarı histerik şefkat arayışında ifadesini bulan susuzluktan kurumuş toprak ve sıkıntılı yağmur bekleyişi.&lt;br /&gt;Zweig bu öykü derlemesinde, dönüştürücü deneyimleri sağlam anlatılara dönüştürmekteki ustalığıyla yine insanın kusurlarını, özlemlerini, karşılaştığı engelleyici durumları empatiyle çözümlüyor.&lt;/p&gt;</dc:description>
+    <dc:date>2017-04-07T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{A2362B60-529F-4296-8479-AB381F11D0B8}</dc:identifier>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">37271d34-3b54-4793-b3b5-154be8941e2e</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="Mürebbiye" name="calibre:title_sort" />
+    <meta content="{&quot;Stefan Zweig&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:date opf:event="modification">2018-03-11</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/kunye0.xhtml" id="kunye0.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="id7" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/main.css" id="id6" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+    <item href="Images/logo_is_bankasi.svg" id="logo_is_bankasi.svg" media-type="image/svg+xml" />
+    <item href="Images/logo.jpeg" id="logo.jpeg" media-type="image/jpeg" />
+    <item href="Fonts/BerkeleyBoldE.ttf" id="BerkeleyBoldE.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/BerkeleyItaE.ttf" id="BerkeleyItaE.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/BerkeleyMediumE.ttf" id="BerkeleyMediumE.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/GillSansMTPro-Book.ttf" id="GillSansMTPro-Book.ttf" media-type="application/x-font-truetype" />
+  </manifest>
+  <spine toc="id7">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="yazar.xhtml" />
+    <itemref idref="kunye0.xhtml" />
+    <itemref idref="kunye.xhtml" />
+    <itemref idref="title.xhtml" />
+    <itemref idref="x01.xhtml" />
+    <itemref idref="x02.xhtml" />
+    <itemref idref="x03.xhtml" />
+    <itemref idref="x04.xhtml" />
+    <itemref idref="notlar.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>
