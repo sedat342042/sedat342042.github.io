@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Tılsımlı Deri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="BALZAC, Honore de">Honore de Balzac</dc:creator>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7157e549-9b91-44fe-be59-4532ddb4b421</dc:identifier>
+    <dc:date opf:event="modification">2014-09-11</dc:date>
+    <dc:description>&lt;div&gt;&lt;div&gt;Honoré de Balzac (1799-1850): Fransa’nın 19. yüzyıldaki sosyal yapısının tarihsel bir tablosunu çıkardığı eski ve yeni romanlarını 1830’dan sonra Insanlık Komedyası başlığı altında topladı. Tılsımlı Deri bu anıtsal eserde “Felsefi Incelemeler” başlığı altında bir araya gelen romanların ilkidir. Balzac’ın roman kahramanları çıkar çatışmalarının ortasında, ait oldukları sınıfın tipik karakterleri olarak ele alınsa da, her birinin bireysel özellikleri, ruh hallerinden giyim kuşamlarına kadar ayrıntılı olarak tasvir edilir. Tılsımlı Deri’de isteklere kavuşmanın bedelini kişinin kısalan ömrüyle ödediğini anlatan Balzac günümüzde edebi gerçekçiliğin en büyük yazarlarından biri sayılmaktadır.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Volkan Yalçıntoklu (1961): Saint-Joseph lisesinde okudu. 9 Eylül Üniversitesi Tıbbi Biyoloji ve Genetik bölümünü bitirdi. Uzun yıllar kitapçılık yaptı. Fransızca ve Ingilizceden çeviriler yapıyor. Eserlerini çevirdiği yazarlar arasında Jules Verne, Helene DeWitt, Alan Snow, Richard Maltby Jr., Lyman Frank Baum, Charles Perrault yer alıyor.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e82fbbee-c6ee-466a-a3f1-14708691cf25</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">2789785870067</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/klasik_split_000.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/klasik_split_001.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/klasik_split_002.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/klasik_split_003.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/klasik_split_004.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/klasik_split_005.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/klasik_split_006.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/klasik_split_007.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/klasik_split_008.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/klasik_split_009.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/klasik.jpg" id="added" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

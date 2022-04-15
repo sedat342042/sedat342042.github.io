@@ -1,0 +1,124 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre2 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 6pt 0 0
+    }
+.calibre3 {
+    font-size: 13.5pt;
+    line-height: 1.2
+    }
+.calibre4 {
+    color: #c00000
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    display: block;
+    text-indent: 0;
+    margin: 10pt 0 0
+    }
+.calibre7 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 10pt 0 0
+    }
+.calibre8 {
+    color: blue
+    }
+.calibre9 {
+    display: block;
+    text-indent: 0;
+    margin: 5pt 0 0
+    }
+.calibre10 {
+    display: block;
+    text-indent: 0;
+    margin: 5pt 0 0 2em
+    }
+.calibre11 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre12 {
+    font-size: smaller
+    }
+.calibre13 {
+    font-size: 5pt
+    }
+.calibre14 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre15 {
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    margin: 10pt 0 0
+    }
+.calibre16 {
+    color: #7030a0
+    }
+.calibre17 {
+    display: block;
+    margin: 0 0 0 2em
+    }
+.calibre18 {
+    display: block;
+    text-indent: 0;
+    margin: 0 0 0 2em
+    }
+.calibre19 {
+    display: block;
+    margin: 10pt 0 0 2em
+    }
+.calibre20 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre21 {
+    font-size: 22pt;
+    line-height: 1.2
+    }
+.calibre22 {
+    display: block;
+    text-indent: -14pt;
+    margin: 1em 0 0 14pt
+    }
+.calibre23 {
+    display: block;
+    text-indent: -14pt;
+    margin: 0 0 0 14pt
+    }
+.italic {
+    font-style: italic
+    }
+.mbppagebreak {
+    display: block;
+    margin: 0
+    }
+.underline {
+    text-decoration: underline
+    }
