@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Şafak, Elif" opf:role="aut">Elif Şafak</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:2231df59-75a1-43fd-a41d-e2b89ec8ff6d</dc:identifier>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:date>2000-02-14T22:00:00+00:00</dc:date>
+    <dc:description>gözbebeği: İnsanlarda yuvarlak, hayvanların çoğunda ise dikine elips biçiminde çapı, irise gelen ışığın miktarına göre değişir. Karanlık ve uzaklık büyütür gözbebeğini; aydınlık ve yakınlık küçültür. Yani bu kararsız çember, ışık varsa küçülür, ışık yoksa büyür. Yakına bakarken de küçüldüğüne göre, yakın olan aydınlıktır, aydınlıktadır. Uzağın payına karanlık düşer. Zaten karanlığı kimse yakınında görmek istemez. Aşık olunca da büyür gözbebeği; demek ki aşık olunan hep uzaktadır. Aradaki mesafenin verdiği acıyı azaltmak için, maşuka "gözbebeğim!" diye hitap edilir.</dc:description>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="Mahrem" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="{&quot;Elif Şafak&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:title>Mahrem</dc:title>
+    <dc:subject>Orijinal</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e30abdf5-6ab1-4c5a-bd97-90aecefd2bca</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">srZpAAAAMAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753422857</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:2231df59-75a1-43fd-a41d-e2b89ec8ff6d</dc:identifier>
+    <dc:identifier opf:scheme="MERITOKRASI NOTU">5</dc:identifier>
+    <dc:date opf:event="modification">2014-02-16</dc:date>
+    <meta name="cover" content="_on_D_fmt.jpeg" />
+  </metadata>
+  <manifest>
+    <item href="Text/ARKA_KAPAK.html" id="ARKA_KAPAK.html" media-type="application/xhtml+xml" />
+    <item href="Text/BIR-1.html" id="BIR-1.html" media-type="application/xhtml+xml" />
+    <item href="Text/BIR-2.html" id="BIR-2.html" media-type="application/xhtml+xml" />
+    <item href="Text/BIR-3.html" id="BIR-3.html" media-type="application/xhtml+xml" />
+    <item href="Text/BIR-4.html" id="BIR-4.html" media-type="application/xhtml+xml" />
+    <item href="Text/BIR.html" id="BIR.html" media-type="application/xhtml+xml" />
+    <item href="Text/EK.html" id="EK.html" media-type="application/xhtml+xml" />
+    <item href="Text/GIRIS.html" id="GIRIS.html" media-type="application/xhtml+xml" />
+    <item href="Text/IKI-1.html" id="IKI-1.html" media-type="application/xhtml+xml" />
+    <item href="Text/IKI-2.html" id="IKI-2.html" media-type="application/xhtml+xml" />
+    <item href="Text/IKI-3.html" id="IKI-3.html" media-type="application/xhtml+xml" />
+    <item href="Text/IKI-4.html" id="IKI-4.html" media-type="application/xhtml+xml" />
+    <item href="Text/IKI.html" id="IKI.html" media-type="application/xhtml+xml" />
+    <item href="Text/ITHAF-1.html" id="ITHAF-1.html" media-type="application/xhtml+xml" />
+    <item href="Text/ITHAF.html" id="ITHAF.html" media-type="application/xhtml+xml" />
+    <item href="Text/KUNYE.html" id="KUNYE.html" media-type="application/xhtml+xml" />
+    <item href="Text/MAHREM-1.html" id="MAHREM-1.html" media-type="application/xhtml+xml" />
+    <item href="Text/MAHREM.html" id="MAHREM.html" media-type="application/xhtml+xml" />
+    <item href="Text/UC-1.html" id="UC-1.html" media-type="application/xhtml+xml" />
+    <item href="Text/UC-2.html" id="UC-2.html" media-type="application/xhtml+xml" />
+    <item href="Text/UC.html" id="UC.html" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/template.css" id="template.css" media-type="text/css" />
+    <item href="Images/_on_D_fmt.jpeg" id="_on_D_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/sas.jpeg" id="sas.jpeg" media-type="image/jpeg" />
+    <item href="Images/dk_logo_fmt.png" id="dk_logo_fmt.png" media-type="image/png" />
+    <item href="Images/icon1b_fmt.jpeg" id="icon1b_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Fonts/Serif12Beta-BoldItalic.ttf" id="Serif12Beta-BoldItalic.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/Serif12Beta-Roman.ttf" id="Serif12Beta-Roman.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/Serif12BetaRgBold.ttf" id="Serif12BetaRgBold.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/Serif6BetaRgitalic.ttf" id="Serif6BetaRgitalic.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/Uni-Sans-Book.ttf" id="Uni-Sans-Book.ttf" media-type="application/x-font-truetype" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="ARKA_KAPAK.html" />
+    <itemref idref="BIR-1.html" />
+    <itemref idref="BIR-2.html" />
+    <itemref idref="BIR-3.html" />
+    <itemref idref="BIR-4.html" />
+    <itemref idref="BIR.html" />
+    <itemref idref="EK.html" />
+    <itemref idref="GIRIS.html" />
+    <itemref idref="IKI-1.html" />
+    <itemref idref="IKI-2.html" />
+    <itemref idref="IKI-3.html" />
+    <itemref idref="IKI-4.html" />
+    <itemref idref="IKI.html" />
+    <itemref idref="ITHAF-1.html" />
+    <itemref idref="ITHAF.html" />
+    <itemref idref="KUNYE.html" />
+    <itemref idref="MAHREM-1.html" />
+    <itemref idref="MAHREM.html" />
+    <itemref idref="UC-1.html" />
+    <itemref idref="UC-2.html" />
+    <itemref idref="UC.html" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

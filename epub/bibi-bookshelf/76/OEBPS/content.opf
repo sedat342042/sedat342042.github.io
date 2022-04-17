@@ -1,0 +1,81 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Malzieu, Mathias">Mathias Malzieu</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:3fa9f389-5f8e-4b80-afd1-01136e8d1e46</dc:identifier>
+    <dc:date>2011-08-24T21:00:00+00:00</dc:date>
+    <dc:publisher>DEX</dc:publisher>
+    <dc:description>&lt;p&gt;Jack dünyanın en soğuk gününde doğar. Ancak kalbi donmuştur. Doğumuna yardım eden yarı-büyücü, yarı-şaman ebe, sakat kalbin yerine bir saat yerleştirerek bebeği kurtarmayı başarır. Jack artık tüm duygusallıklardan uzak durmak koşuluyla yaşayabilecektir: Yani öfkelenmemeli ve en önemlisi de âşık olmamalıdır. Ama küçük bir sokak şarkıcısının kor gibi bakışları, kahramanımızın kalbini çetin bir sınamadan geçirir. Her şeyle karşılaşmaya hazır olan Jack, onu İskoçya'nın koylarından alıp Granada'ya değin götürecek ve ona aşkın eziyetiyle birlikte büyük zevklerini de tattıracak olan, Don Kişotvari bir aşk arayışına atılır. 
+
+Aşk gerçeğinin fantastik unsurlarla iç içe geçtiği bu modern masal, ironinin zorlu zirvelerinde geziniyor. Mekanik Kalp, farklı olanı reddetmenin şiddetini, büyük çocukların takdirine sunuyor.&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x9e2f1479-be3c-4260-9793-7b684f5a6d39.jpg"/>
+    <meta name="calibre:title_sort" content="Mekanik Kalp"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Mathias Malzieu&quot;: &quot;&quot;}"/>
+  <dc:title>Mekanik Kalp</dc:title>
+<dc:subject>Fantastik</dc:subject>
+<dc:subject>Aşk</dc:subject>
+<dc:subject>Romantik</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">9401835a-cd2a-43b8-bb17-5cf98dee2a25</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786050902723</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KitapAdi.xhtml" id="KitapAdi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Hitap.xhtml" id="Hitap.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Giris.xhtml" id="Giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bir.xhtml" id="Bir.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/iki.xhtml" id="iki.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Uc.xhtml" id="Uc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Dort.xhtml" id="Dort.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bes.xhtml" id="Bes.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Alti.xhtml" id="Alti.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yedi.xhtml" id="Yedi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Sekiz.xhtml" id="Sekiz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Dokuz.xhtml" id="Dokuz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/On.xhtml" id="On.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OnBir.xhtml" id="OnBir.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Oniki.xhtml" id="Oniki.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Onuc.xhtml" id="Onuc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OnDort.xhtml" id="OnDort.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Sonsoz.xhtml" id="Sonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Tesekkur.xhtml" id="Tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/9e2f1479-be3c-4260-9793-7b684f5a6d39.jpg" id="x9e2f1479-be3c-4260-9793-7b684f5a6d39.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="KitapAdi.xhtml"/>
+    <itemref idref="Hitap.xhtml"/>
+    <itemref idref="Giris.xhtml"/>
+    <itemref idref="Bir.xhtml"/>
+    <itemref idref="iki.xhtml"/>
+    <itemref idref="Uc.xhtml"/>
+    <itemref idref="Dort.xhtml"/>
+    <itemref idref="Bes.xhtml"/>
+    <itemref idref="Alti.xhtml"/>
+    <itemref idref="Yedi.xhtml"/>
+    <itemref idref="Sekiz.xhtml"/>
+    <itemref idref="Dokuz.xhtml"/>
+    <itemref idref="On.xhtml"/>
+    <itemref idref="OnBir.xhtml"/>
+    <itemref idref="Oniki.xhtml"/>
+    <itemref idref="Onuc.xhtml"/>
+    <itemref idref="OnDort.xhtml"/>
+    <itemref idref="Sonsoz.xhtml"/>
+    <itemref idref="Tesekkur.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="İçindekiler" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

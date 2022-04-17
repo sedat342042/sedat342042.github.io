@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookID" opf:scheme="UUID" />
+    <dc:title>Genç Werther'in Acıları</dc:title>
+    <dc:creator opf:file-as="Goethe" opf:role="aut">Goethe</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:subject>Alman Edebiyatı</dc:subject>
+    <dc:subject>Dünya Klasikleri</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:description>&lt;span style="text-align: left; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Evrensel boyutlara ulaşmış ünüyle bugün dünya edebiyatının en büyük yazarlarından biri sayılan Goethe, henüz yirmi beş yaşındayken yazdığı Genç Werther'in Acıları'nda, kısa bir süre önce Charlotte adlı genç bir kadınla yaşadığı mutsuz ilişkiden yola çıkmıştı. Edebiyat dünyasına, karşılıksız aşkıyla intihara sürüklenen Romantik kahramanı armağan eden bu büyüleyici mektup-roman, şiirselliği ve yaşama tutkulu bakışıyla okuyucuları mıknatıs gibi kendine çekmişti. Almanya'da bütün gençliği etkisi altına alan romanın, birçok intihara neden olduğu, Werther'in giydiği mavi frak, sarı yelek ve çizmelerin döneminde moda yarattığı, Napoléon'un bile kitabı sürekli yanında taşıdığı söylenir. Son derece duyarlı ve tutkulu bir genç ressam olan Werther'in, düşsel dostu Wilhelm'e yazdığı mektuplardan oluşan Genç Werther'in Acıları, edebiyatta akılcılığın yerini alan duygusallığın bir başyapıtıdır. &lt;/span&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+    <meta content="Genç Werther'in Acıları" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="{&quot;Goethe&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:date opf:event="modification">2014-02-22</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml" />
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/okura.xhtml" id="okura.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css" />
+    <item href="Styles/style.css" id="style.css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html" />
+    <itemref idref="onsoz.xhtml" />
+    <itemref idref="giris.xhtml" />
+    <itemref idref="bolum1.xhtml" />
+    <itemref idref="bolum2.xhtml" />
+    <itemref idref="okura.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover" />
+    <reference href="Text/okura.xhtml" title="Text" type="text" />
+    <reference href="Text/giris.xhtml" title="Text" type="text" />
+  </guide>
+</package>

@@ -1,0 +1,21 @@
+ h1 {text-align:center}
+h2 {text-align:center}
+h3 {text-align:center}
+h4 {text-align:center}
+p { padding-bottom: 0.3em; 
+
+margin-top: 0.3em;
+text-indent: 1em; }
+h1
+{
+margin-top:2em;
+margin-bottom:2em;
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}

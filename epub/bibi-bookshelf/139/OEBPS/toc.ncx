@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="881807fe-a34d-427c-ae96-0c666cff9a84" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yakarıcılar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="a1f247aa-2389-4e3a-a282-a09d8768a1ad" playOrder="1">
+      <navLabel>
+        <text>Çevirmenin Notu</text>
+      </navLabel>
+      <content src="Text/1_split_002.html"/>
+    </navPoint>
+    <navPoint id="4a98eab0-586b-4e15-8e72-3a7618175fa8" playOrder="2">
+      <navLabel>
+        <text>Eserin Özeti</text>
+      </navLabel>
+      <content src="Text/1_split_003.html"/>
+    </navPoint>
+    <navPoint id="e239bd74-6632-4464-bd59-c6293a13fe05" playOrder="3">
+      <navLabel>
+        <text>Kişiler [*]</text>
+      </navLabel>
+      <content src="Text/1_split_004.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

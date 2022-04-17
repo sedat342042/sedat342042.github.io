@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="f87bbf9e-b3bb-4213-889c-a278db7860c3" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yunus Emre Hayatı ve Bütün Şiirleri</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="4a6d80fd-9404-4cc8-b5db-3fb754f3dcde" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="yunus_split_004.html"/>
+    </navPoint>
+    <navPoint id="f5708677-d273-4381-bd96-18991bda9fe0" playOrder="2">
+      <navLabel>
+        <text>RİSÂLET’ÜN NUSHİYYE</text>
+      </navLabel>
+      <content src="yunus_split_005.html"/>
+    </navPoint>
+    <navPoint id="4ef6cb21-60c6-4238-9a95-f89d1d6b6e1e" playOrder="3">
+      <navLabel>
+        <text>ŞİİRLER</text>
+      </navLabel>
+      <content src="yunus_split_010.html"/>
+      <navPoint id="6e47de17-9ae3-426f-83db-9340712adcd3" playOrder="4">
+        <navLabel>
+          <text>I Ölüm – Ölümsüzlük</text>
+        </navLabel>
+        <content src="yunus_split_011.html"/>
+      </navPoint>
+      <navPoint id="1e99d312-6deb-4361-a26c-a73e2593a0aa" playOrder="5">
+        <navLabel>
+          <text>II İbâdete Aşırı Düşkünlük (Zâhitlik)</text>
+        </navLabel>
+        <content src="yunus_split_041.html"/>
+      </navPoint>
+      <navPoint id="5e242d6f-d21e-4c1c-92f2-65e4a521e873" playOrder="6">
+        <navLabel>
+          <text>III Mecâzi Aşk - Gerçek Aşk</text>
+        </navLabel>
+        <content src="yunus_split_057.html"/>
+      </navPoint>
+      <navPoint id="c8afefed-a787-4eec-b064-b6e2c092cf96" playOrder="7">
+        <navLabel>
+          <text>IV Gerçek Yolculuğu (Sülûk)</text>
+        </navLabel>
+        <content src="yunus_split_117.html"/>
+      </navPoint>
+      <navPoint id="ea97a038-dd95-4033-af2b-656608ae06f1" playOrder="8">
+        <navLabel>
+          <text>V Kendinden Geçiş – Türlü Boyalara Boyanış (Cezbe – Telvîn)</text>
+        </navLabel>
+        <content src="yunus_split_129.html"/>
+      </navPoint>
+      <navPoint id="7821df18-ae33-4913-920b-756845573e4d" playOrder="9">
+        <navLabel>
+          <text>VI İnanca Ait Kıssalar</text>
+        </navLabel>
+        <content src="yunus_split_178.html"/>
+      </navPoint>
+      <navPoint id="f9e9ee88-5503-4bb6-80e4-7ac4f3611f4d" playOrder="10">
+        <navLabel>
+          <text>VII Gurbet</text>
+        </navLabel>
+        <content src="yunus_split_186.html"/>
+      </navPoint>
+      <navPoint id="be07f1bc-3ac2-444d-8863-efe649c6bf9b" playOrder="11">
+        <navLabel>
+          <text>VIII İlim - İrfan</text>
+        </navLabel>
+        <content src="yunus_split_191.html"/>
+      </navPoint>
+      <navPoint id="afa8a283-cb53-4fbb-8282-8933a15406c1" playOrder="12">
+        <navLabel>
+          <text>IX Doğru Yola Çağrı (İrşad)</text>
+        </navLabel>
+        <content src="yunus_split_203.html"/>
+      </navPoint>
+      <navPoint id="f9d7d869-91e8-47d5-bfee-d2e497aa040c" playOrder="13">
+        <navLabel>
+          <text>X Kendini Kınayış (Melâmet)</text>
+        </navLabel>
+        <content src="yunus_split_263.html"/>
+      </navPoint>
+      <navPoint id="df99e668-19d8-4aea-84c6-9eebf6635e87" playOrder="14">
+        <navLabel>
+          <text>XI Yunus’un Dünya Görüşü</text>
+        </navLabel>
+        <content src="yunus_split_276.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="8b33a90d-a7fe-422c-b7c1-8d8a45ab18cb" playOrder="15">
+      <navLabel>
+        <text>AÇIKLAMA</text>
+      </navLabel>
+      <content src="yunus_split_321.html"/>
+    </navPoint>
+    <navPoint id="d91b8098-7833-4140-90e8-774197bf5618" playOrder="16">
+      <navLabel>
+        <text>SÖZLÜK</text>
+      </navLabel>
+      <content src="yunus_split_322.html"/>
+      <navPoint id="194fdcfc-1b64-4afc-8342-ee483eca5bad" playOrder="17">
+        <navLabel>
+          <text>A</text>
+        </navLabel>
+        <content src="yunus_split_323.html"/>
+      </navPoint>
+      <navPoint id="c8fafd93-d3f0-4d22-bc32-e4228131905d" playOrder="18">
+        <navLabel>
+          <text>B</text>
+        </navLabel>
+        <content src="yunus_split_324.html"/>
+      </navPoint>
+      <navPoint id="d4d97ca6-53e0-48a2-a534-d00f78b1ca2b" playOrder="19">
+        <navLabel>
+          <text>C, Ç</text>
+        </navLabel>
+        <content src="yunus_split_325.html"/>
+      </navPoint>
+      <navPoint id="40113bee-3fb5-43d3-ba43-e33e7fa846f2" playOrder="20">
+        <navLabel>
+          <text>D</text>
+        </navLabel>
+        <content src="yunus_split_326.html"/>
+      </navPoint>
+      <navPoint id="500f47bd-cb03-4797-9c0e-ee664f6089b2" playOrder="21">
+        <navLabel>
+          <text>E</text>
+        </navLabel>
+        <content src="yunus_split_327.html"/>
+      </navPoint>
+      <navPoint id="d9e436d9-0b4c-4228-b8f0-b396b84bca29" playOrder="22">
+        <navLabel>
+          <text>F</text>
+        </navLabel>
+        <content src="yunus_split_328.html"/>
+      </navPoint>
+      <navPoint id="8db05825-6768-4ced-afce-94fcb8915c6a" playOrder="23">
+        <navLabel>
+          <text>G</text>
+        </navLabel>
+        <content src="yunus_split_329.html"/>
+      </navPoint>
+      <navPoint id="9a0e5657-f972-4040-8162-167d701c82b5" playOrder="24">
+        <navLabel>
+          <text>H</text>
+        </navLabel>
+        <content src="yunus_split_330.html"/>
+      </navPoint>
+      <navPoint id="016c12ab-0514-4578-adf5-2ca0a0e19197" playOrder="25">
+        <navLabel>
+          <text>I - İ</text>
+        </navLabel>
+        <content src="yunus_split_331.html"/>
+      </navPoint>
+      <navPoint id="f4d50304-711e-4136-be38-25f30b458d51" playOrder="26">
+        <navLabel>
+          <text>J</text>
+        </navLabel>
+        <content src="yunus_split_332.html"/>
+      </navPoint>
+      <navPoint id="72881240-f83d-4bd6-8076-d672f48828dd" playOrder="27">
+        <navLabel>
+          <text>K</text>
+        </navLabel>
+        <content src="yunus_split_333.html"/>
+      </navPoint>
+      <navPoint id="6ba1454e-094f-4314-84de-992af0c7ebf5" playOrder="28">
+        <navLabel>
+          <text>L</text>
+        </navLabel>
+        <content src="yunus_split_334.html"/>
+      </navPoint>
+      <navPoint id="ad63e469-7521-4633-8d18-de2c42ac41f6" playOrder="29">
+        <navLabel>
+          <text>M</text>
+        </navLabel>
+        <content src="yunus_split_335.html"/>
+      </navPoint>
+      <navPoint id="09419a8e-fd4a-4cd8-93c3-4065d7af14f3" playOrder="30">
+        <navLabel>
+          <text>N</text>
+        </navLabel>
+        <content src="yunus_split_336.html"/>
+      </navPoint>
+      <navPoint id="9861fe3e-83ab-4faf-8646-599a91a3635a" playOrder="31">
+        <navLabel>
+          <text>O</text>
+        </navLabel>
+        <content src="yunus_split_337.html"/>
+      </navPoint>
+      <navPoint id="118499a5-4b31-430f-b26a-b56e6734954e" playOrder="32">
+        <navLabel>
+          <text>Ö</text>
+        </navLabel>
+        <content src="yunus_split_338.html"/>
+      </navPoint>
+      <navPoint id="7d884f71-6b5f-484a-9eda-1339dbdd8de5" playOrder="33">
+        <navLabel>
+          <text>P</text>
+        </navLabel>
+        <content src="yunus_split_339.html"/>
+      </navPoint>
+      <navPoint id="dcd4c707-5fe5-44b4-97b0-23c3de5bc505" playOrder="34">
+        <navLabel>
+          <text>R</text>
+        </navLabel>
+        <content src="yunus_split_340.html"/>
+      </navPoint>
+      <navPoint id="8c92575b-0a80-44ef-82f6-7d7ebd359472" playOrder="35">
+        <navLabel>
+          <text>S</text>
+        </navLabel>
+        <content src="yunus_split_341.html"/>
+      </navPoint>
+      <navPoint id="c101db0f-de55-412d-b3eb-a4786b379be1" playOrder="36">
+        <navLabel>
+          <text>Ş</text>
+        </navLabel>
+        <content src="yunus_split_342.html"/>
+      </navPoint>
+      <navPoint id="ccf24bdf-e252-41c5-9610-fa2df8e1c92a" playOrder="37">
+        <navLabel>
+          <text>T</text>
+        </navLabel>
+        <content src="yunus_split_343.html"/>
+      </navPoint>
+      <navPoint id="a9c20b60-d893-4a38-a7ca-93a0ce6e34ec" playOrder="38">
+        <navLabel>
+          <text>U</text>
+        </navLabel>
+        <content src="yunus_split_344.html"/>
+      </navPoint>
+      <navPoint id="6aec8a31-e8ec-457b-b6ea-8b81a8c8cf39" playOrder="39">
+        <navLabel>
+          <text>Ü</text>
+        </navLabel>
+        <content src="yunus_split_345.html"/>
+      </navPoint>
+      <navPoint id="dc601b43-0beb-4f3c-8f7a-20fdefd93a3e" playOrder="40">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="yunus_split_346.html"/>
+      </navPoint>
+      <navPoint id="66afd4b3-7979-4dd0-bc17-9bab0b2464fe" playOrder="41">
+        <navLabel>
+          <text>Y</text>
+        </navLabel>
+        <content src="yunus_split_347.html"/>
+      </navPoint>
+      <navPoint id="05349afa-f469-4779-92dc-c281ffee020a" playOrder="42">
+        <navLabel>
+          <text>Z</text>
+        </navLabel>
+        <content src="yunus_split_348.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="4ebf4240-13f2-4630-84a0-dd6e40efcc0b" playOrder="43">
+      <navLabel>
+        <text>AÇIKLAMADA GEÇEN MADDELERİN ALFABETİK CETVELİ  VE BEYİT NO.LARI A</text>
+      </navLabel>
+      <content src="yunus_split_349.html"/>
+      <navPoint id="829feaea-84c5-4162-b496-42a365e6a949" playOrder="44">
+        <navLabel>
+          <text>A</text>
+        </navLabel>
+        <content src="yunus_split_350.html"/>
+      </navPoint>
+      <navPoint id="62e450a5-c327-4987-b05d-0445fe6c7e77" playOrder="45">
+        <navLabel>
+          <text>B</text>
+        </navLabel>
+        <content src="yunus_split_351.html"/>
+      </navPoint>
+      <navPoint id="3de59e87-08c3-4e6e-8e2e-f5d30f848080" playOrder="46">
+        <navLabel>
+          <text>C</text>
+        </navLabel>
+        <content src="yunus_split_352.html"/>
+      </navPoint>
+      <navPoint id="8c6bc03c-0e4d-47f4-863e-455c80e9b945" playOrder="47">
+        <navLabel>
+          <text>D</text>
+        </navLabel>
+        <content src="yunus_split_353.html"/>
+      </navPoint>
+      <navPoint id="5e104e31-a1a8-4ee9-a2f8-8310e7ce2aad" playOrder="48">
+        <navLabel>
+          <text>E</text>
+        </navLabel>
+        <content src="yunus_split_354.html"/>
+      </navPoint>
+      <navPoint id="1ce0c50c-35bb-417c-b2f3-68b800752ed6" playOrder="49">
+        <navLabel>
+          <text>F</text>
+        </navLabel>
+        <content src="yunus_split_355.html"/>
+      </navPoint>
+      <navPoint id="56dc70f6-2bdd-475c-bc90-3b7ddcb3b93a" playOrder="50">
+        <navLabel>
+          <text>G</text>
+        </navLabel>
+        <content src="yunus_split_356.html"/>
+      </navPoint>
+      <navPoint id="663919b8-cc1e-4a99-8269-1075714f0216" playOrder="51">
+        <navLabel>
+          <text>H</text>
+        </navLabel>
+        <content src="yunus_split_357.html"/>
+      </navPoint>
+      <navPoint id="fcdcf51e-9eb3-4500-b07e-dd406e68f7ee" playOrder="52">
+        <navLabel>
+          <text>İ</text>
+        </navLabel>
+        <content src="yunus_split_358.html"/>
+      </navPoint>
+      <navPoint id="a43646c9-f92d-4a2d-852d-88406583c5a4" playOrder="53">
+        <navLabel>
+          <text>K</text>
+        </navLabel>
+        <content src="yunus_split_359.html"/>
+      </navPoint>
+      <navPoint id="9f109bb6-5218-40c7-883d-13c00d427716" playOrder="54">
+        <navLabel>
+          <text>L</text>
+        </navLabel>
+        <content src="yunus_split_360.html"/>
+      </navPoint>
+      <navPoint id="5534226a-2dca-4441-920c-ab283b1341a5" playOrder="55">
+        <navLabel>
+          <text>M</text>
+        </navLabel>
+        <content src="yunus_split_361.html"/>
+      </navPoint>
+      <navPoint id="4029c9c3-5966-4129-8efa-826b2c954666" playOrder="56">
+        <navLabel>
+          <text>N</text>
+        </navLabel>
+        <content src="yunus_split_362.html"/>
+      </navPoint>
+      <navPoint id="8ec178cd-3782-4e14-9d1e-63b0b8c402d2" playOrder="57">
+        <navLabel>
+          <text>Ö</text>
+        </navLabel>
+        <content src="yunus_split_363.html"/>
+      </navPoint>
+      <navPoint id="9b3078ea-72f7-4de9-bfb2-1cab1159a24b" playOrder="58">
+        <navLabel>
+          <text>P</text>
+        </navLabel>
+        <content src="yunus_split_364.html"/>
+      </navPoint>
+      <navPoint id="e0ee927c-09cd-4f31-aa59-034db5357e03" playOrder="59">
+        <navLabel>
+          <text>R</text>
+        </navLabel>
+        <content src="yunus_split_365.html"/>
+      </navPoint>
+      <navPoint id="bcfe1f13-11cc-4cf6-8af4-1bd8ec502ed2" playOrder="60">
+        <navLabel>
+          <text>S</text>
+        </navLabel>
+        <content src="yunus_split_366.html"/>
+      </navPoint>
+      <navPoint id="0e134428-d8aa-4f3f-b449-72015e7fab58" playOrder="61">
+        <navLabel>
+          <text>Ş</text>
+        </navLabel>
+        <content src="yunus_split_367.html"/>
+      </navPoint>
+      <navPoint id="b127eda8-4546-453d-8c16-af4f1401961f" playOrder="62">
+        <navLabel>
+          <text>T</text>
+        </navLabel>
+        <content src="yunus_split_368.html"/>
+      </navPoint>
+      <navPoint id="6dd6b41e-ec63-44bd-b10a-bb0d0f1790b7" playOrder="63">
+        <navLabel>
+          <text>U</text>
+        </navLabel>
+        <content src="yunus_split_369.html"/>
+      </navPoint>
+      <navPoint id="9c6e96b2-9a11-49d7-bfb7-1eb51f701768" playOrder="64">
+        <navLabel>
+          <text>Ü</text>
+        </navLabel>
+        <content src="yunus_split_370.html"/>
+      </navPoint>
+      <navPoint id="b0c53b19-ccdb-4ca6-9137-ee34eca012db" playOrder="65">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="yunus_split_371.html"/>
+      </navPoint>
+      <navPoint id="1d621029-2c2f-46d2-a3fd-3a5911f35032" playOrder="66">
+        <navLabel>
+          <text>Y</text>
+        </navLabel>
+        <content src="yunus_split_372.html"/>
+      </navPoint>
+      <navPoint id="5fb112b7-a870-415d-a59c-143d12699c6d" playOrder="67">
+        <navLabel>
+          <text>Z</text>
+        </navLabel>
+        <content src="yunus_split_373.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ff738820-21b4-4cb6-926b-ca838eefff9c" playOrder="68">
+      <navLabel>
+        <text>BİBLİYOGRAFYA</text>
+      </navLabel>
+      <content src="yunus_split_374.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

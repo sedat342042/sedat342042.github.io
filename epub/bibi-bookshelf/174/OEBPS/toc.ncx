@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="7f93741d-c288-44f9-a338-ad23f649821f" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Rubailer</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e144ca36-0b35-4714-b820-785f644c41e9" playOrder="1">
+      <navLabel>
+        <text>MEVLÂNÂ CELALEDDİN RUMİ</text>
+      </navLabel>
+      <content src="Text/rubailer_split_004.html"/>
+      <navPoint id="d0c3d53b-53a7-4eea-8b50-835e51f57892" playOrder="2">
+        <navLabel>
+          <text>Eserleri ve Tesiri</text>
+        </navLabel>
+        <content src="Text/rubailer_split_005.html"/>
+      </navPoint>
+      <navPoint id="bca47214-7735-4731-938c-8febdf398fb9" playOrder="3">
+        <navLabel>
+          <text>Mevlânâ’nın El Yazısı</text>
+        </navLabel>
+        <content src="Text/rubailer_split_006.html"/>
+      </navPoint>
+      <navPoint id="9853919f-eb03-4dbf-87d9-ed3537839002" playOrder="4">
+        <navLabel>
+          <text>Likâtibihi</text>
+        </navLabel>
+        <content src="Text/rubailer_split_007.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="38f8ccb9-1916-4446-8ef2-c4fd6aabd797" playOrder="5">
+      <navLabel>
+        <text>MEVLÂNÂ’NIN RUBAİLERİ</text>
+      </navLabel>
+      <content src="Text/rubailer_split_008.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

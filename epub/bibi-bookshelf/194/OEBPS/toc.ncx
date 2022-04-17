@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="72191c15-aea5-44cd-8d85-198db6e6473f" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kral Oidipus</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="2c4ec429-fb9e-4e5c-8e00-f4332eeb264b" playOrder="1">
+      <navLabel>
+        <text>Kral Oidipus</text>
+      </navLabel>
+      <content src="Text/1_split_002.html"/>
+      <navPoint id="16ddf25d-c4e6-4cf6-b0fd-4f3bc9ad1799" playOrder="2">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/1_split_003.html"/>
+      </navPoint>
+      <navPoint id="f882f758-bde1-45dc-8aae-db38c01be684" playOrder="3">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/1_split_004.html"/>
+      </navPoint>
+      <navPoint id="31c53eee-bb33-428a-a9da-72c1c781a4db" playOrder="4">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/1_split_005.html"/>
+      </navPoint>
+      <navPoint id="253de6e3-a977-4ded-b3a8-c130d242af64" playOrder="5">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/1_split_006.html"/>
+      </navPoint>
+      <navPoint id="1b147eb4-7272-4d11-b505-4aab00237af5" playOrder="6">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/1_split_007.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="bb005d66-5da6-48dc-a892-89f9ccab60b2" playOrder="7">
+      <navLabel>
+        <text>Kısa Bibliyografya</text>
+      </navLabel>
+      <content src="Text/1_split_008.html"/>
+    </navPoint>
+    <navPoint id="bc750c2d-b5e7-4749-8f40-c8655c89a563" playOrder="8">
+      <navLabel>
+        <text>Not</text>
+      </navLabel>
+      <content src="Text/1_split_009.html"/>
+    </navPoint>
+    <navPoint id="40e1dc05-394f-4532-9e20-659f7ac17792" playOrder="9">
+      <navLabel>
+        <text>Kişiler</text>
+      </navLabel>
+      <content src="Text/1_split_010.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

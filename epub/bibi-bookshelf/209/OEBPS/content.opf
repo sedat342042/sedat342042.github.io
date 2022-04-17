@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kuru Gürültü</dc:title>
+    <dc:creator opf:file-as="Shakespeare, William" opf:role="aut">William Shakespeare</dc:creator>
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:64b60e4d-3e8a-4e64-bb4e-3b78069cbf9d</dc:identifier>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2007-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.2.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2017-07-04</dc:date>
+    <dc:description>&lt;div&gt;&lt;div&gt;William Shakespeare (1564-1616) Oyunları ve şiirlerinde insanlık durumlarını dile getiriş gücüyle yaklaşık dört yüz yıldır bütün dünya okur ve seyircilerini etkilemeyi sürdürmektedir. Kuru Gürültü efsanevi yazarın olgunluk dönemine ait eserlerindendir ve en başarılı üç komedyasından biri sayılır. Yanlış anlamalar üzerine kurulan oyunda iki ayrı aşk ilişkisi gelişirken, kişiler karşıtlıkları ile ele alınmış, insan doğasının değişmez olduğu öne sürülen özellikleri dahiyane bir komedya içinde sergilenmiştir.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sevgi Sanlı: Oyun yazarı ve dramaturg olarak Türk  tiyatrosuna büyük katkıları olan Sevgi Sanlı, çevirmen olarak da pek çok önemli eseri Türkçeye kazandırdı. William Shakespeare, Vaclav Havel, Bernard Shaw, Roger Norman ve Louis de Bernieres’den çeviriler yaptı. Halide Edip Adıvar’ın Sinekli Bakkal adlı romanını tiyatroya uyarlayarak Yunus Emre 3. Özgün ve Uyarlama Oyun Yazım Yarışması’nda büyük ödülü kazandı. Her şeyin geçici olduğu bir dünyada sırrı insanın kendisinde bulan bir tasavvuf şairinin yaşamından hareketle yazdığı Kaygusuz Abdal adlı oyunu Devlet Tiyatroları’nda sahneye kondu.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:subject>Oyun</dc:subject>
+    <dc:subject>Komedya</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">30ad99ca-c09b-45ac-90cd-d49c88be05ee</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:64b60e4d-3e8a-4e64-bb4e-3b78069cbf9d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789944885331</dc:identifier>
+    <meta name="calibre:title_sort" content="Kuru Gürültü" />
+    <meta name="calibre:rating" content="10.0" />
+    <meta name="calibre:author_link_map" content="{&quot;William Shakespeare&quot;: &quot;&quot;}" />
+    <meta name="calibre:timestamp" content="2017-07-04T14:12:07.468000+00:00" />
+    <meta name="cover" content="cover" />
+    <meta name="Sigil version" content="0.9.8" />
+  </metadata>
+  <manifest>
+    <item id="html28" href="Text/KuruGurultu_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="html27" href="Text/KuruGurultu_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="html26" href="Text/KuruGurultu_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="html25" href="Text/KuruGurultu_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="html24" href="Text/KuruGurultu_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="html23" href="Text/KuruGurultu_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="html22" href="Text/KuruGurultu_split_006.html" media-type="application/xhtml+xml"/>
+    <item id="html21" href="Text/KuruGurultu_split_007.html" media-type="application/xhtml+xml"/>
+    <item id="html20" href="Text/KuruGurultu_split_008.html" media-type="application/xhtml+xml"/>
+    <item id="html19" href="Text/KuruGurultu_split_009.html" media-type="application/xhtml+xml"/>
+    <item id="html18" href="Text/KuruGurultu_split_010.html" media-type="application/xhtml+xml"/>
+    <item id="html17" href="Text/KuruGurultu_split_011.html" media-type="application/xhtml+xml"/>
+    <item id="html16" href="Text/KuruGurultu_split_012.html" media-type="application/xhtml+xml"/>
+    <item id="html15" href="Text/KuruGurultu_split_013.html" media-type="application/xhtml+xml"/>
+    <item id="html14" href="Text/KuruGurultu_split_014.html" media-type="application/xhtml+xml"/>
+    <item id="html13" href="Text/KuruGurultu_split_015.html" media-type="application/xhtml+xml"/>
+    <item id="html12" href="Text/KuruGurultu_split_016.html" media-type="application/xhtml+xml"/>
+    <item id="html11" href="Text/KuruGurultu_split_017.html" media-type="application/xhtml+xml"/>
+    <item id="html10" href="Text/KuruGurultu_split_018.html" media-type="application/xhtml+xml"/>
+    <item id="html9" href="Text/KuruGurultu_split_019.html" media-type="application/xhtml+xml"/>
+    <item id="html8" href="Text/KuruGurultu_split_020.html" media-type="application/xhtml+xml"/>
+    <item id="html7" href="Text/KuruGurultu_split_021.html" media-type="application/xhtml+xml"/>
+    <item id="html6" href="Text/KuruGurultu_split_022.html" media-type="application/xhtml+xml"/>
+    <item id="html5" href="Text/KuruGurultu_split_023.html" media-type="application/xhtml+xml"/>
+    <item id="html4" href="Text/KuruGurultu_split_024.html" media-type="application/xhtml+xml"/>
+    <item id="html3" href="Text/KuruGurultu_split_025.html" media-type="application/xhtml+xml"/>
+    <item id="html2" href="Text/KuruGurultu_split_026.html" media-type="application/xhtml+xml"/>
+    <item id="html1" href="Text/KuruGurultu_split_027.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="added" href="Images/iskultur.jpg" media-type="image/jpeg"/>
+    <item id="cid5" href="Fonts/arial.ttf" media-type="application/x-font-ttf"/>
+    <item id="cid6" href="Fonts/arialbd.ttf" media-type="application/x-font-ttf"/>
+    <item id="cid8" href="Fonts/arialbi.ttf" media-type="application/x-font-ttf"/>
+    <item id="cid7" href="Fonts/ariali.ttf" media-type="application/x-font-ttf"/>
+    <item id="cid2" href="Fonts/LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="cid4" href="Fonts/LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="cid3" href="Fonts/LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="cid1" href="Fonts/LiberationSerif-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="cover" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="titlepage" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="jacket" href="Text/jacket.xhtml" media-type="application/xhtml+xml"/>
+    <item id="SELCOEPUB_BARCOD_1.png" href="Images/SELCOEPUB%20BARCOD%201.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="jacket"/>
+    <itemref idref="html28"/>
+    <itemref idref="html27"/>
+    <itemref idref="html26"/>
+    <itemref idref="html25"/>
+    <itemref idref="html24"/>
+    <itemref idref="html23"/>
+    <itemref idref="html22"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Kapak" href="Text/titlepage.xhtml"/>
+  </guide>
+</package>

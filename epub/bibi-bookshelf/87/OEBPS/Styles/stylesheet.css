@@ -1,0 +1,240 @@
+.Apple-style-span {
+    font-family: Arial_avs_space_Narrow
+    }
+.Apple-style-span1 {
+    font-family: Arial_avs_space_Unicode_avs_space_MS
+    }
+.calibre {
+    display: block
+    }
+.calibre1 {
+    font-style: italic
+    }
+.calibre2 {
+    font-weight: bolder
+    }
+.heading {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 1.5em
+    }
+.heading1 {
+    display: block;
+    font-family: Arial_avs_space_Narrow;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 1.5em
+    }
+.heading2 {
+    display: block;
+    font-family: Arial_avs_space_Narrow;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.heading3 {
+    display: block;
+    font-family: Arial_avs_space_Unicode_avs_space_MS;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.heading4 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.heading5 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify;
+    text-indent: 1.5em
+    }
+.heading6 {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.heading7 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0
+    }
+.heading8 {
+    display: block;
+    font-family: Bookman_avs_space_Old_avs_space_Style;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.heading9 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right;
+    text-indent: 1.5em
+    }
+.imageblock {
+    height: auto;
+    vertical-align: baseline;
+    width: auto
+    }
+.main {
+    -webkit-line-break: after-white-space;
+    -webkit-nbsp-mode: space;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    word-wrap: break-word
+    }
+.main1 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.sgc {
+    font-family: Arial_avs_space_Unicode_avs_space_MS;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc1 {
+    font-family: Arial_avs_space_Narrow;
+    font-style: italic;
+    font-weight: normal
+    }
+.sgc10 {
+    font-style: normal
+    }
+.sgc11 {
+    font-family: Times_avs_space_New_avs_space_Roman
+    }
+.sgc12 {
+    font-family: Arial_avs_space_Unicode_avs_space_MS;
+    font-style: italic;
+    font-weight: bold
+    }
+.sgc13 {
+    font-family: Bookman_avs_space_Old_avs_space_Style
+    }
+.sgc14 {
+    font-family: Bookman_avs_space_Old_avs_space_Style;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc15 {
+    font-family: Bookman_avs_space_Old_avs_space_Style;
+    font-style: italic;
+    font-weight: bold
+    }
+.sgc16 {
+    font-family: Bookman_avs_space_Old_avs_space_Style;
+    font-style: normal;
+    font-weight: bold
+    }
+.sgc17 {
+    font-family: Bookman_avs_space_Old_avs_space_Style;
+    font-style: italic;
+    font-weight: normal
+    }
+.sgc18 {
+    font-family: Bookman_avs_space_Old_avs_space_Style;
+    font-style: italic
+    }
+.sgc2 {
+    font-family: Arial_avs_space_Narrow;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc23 {
+    font-family: Century;
+    font-style: italic;
+    font-weight: normal
+    }
+.sgc24 {
+    font-family: Century;
+    font-style: italic
+    }
+.sgc25 {
+    display: block;
+    text-align: justify
+    }
+.sgc3 {
+    font-family: Book_avs_space_Antiqua;
+    font-style: italic;
+    font-weight: bold
+    }
+.sgc30 {
+    font-family: Times_avs_space_New_avs_space_Roman;
+    font-style: italic
+    }
+.sgc31 {
+    font-family: Constantia
+    }
+.sgc33 {
+    font-family: Constantia;
+    font-style: italic;
+    font-weight: normal
+    }
+.sgc4 {
+    font-family: Book_avs_space_Antiqua;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc6 {
+    font-family: Book_avs_space_Antiqua
+    }
+.sgc7 {
+    font-family: Times_avs_space_New_avs_space_Roman;
+    font-style: italic;
+    font-weight: normal
+    }
+.sgc8 {
+    font-family: Arial_avs_space_Unicode_avs_space_MS;
+    font-style: normal;
+    font-weight: bold
+    }
+.sgc9 {
+    display: block;
+    text-align: center
+    }

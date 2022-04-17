@@ -1,0 +1,145 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Trussoni, Danielle">Danielle Trussoni</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:32f5461b-ddda-47ac-93e1-bea4a9e258a0</dc:identifier>
+    <dc:date>2014-08-22T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x628550.jpg"/>
+  <dc:title>Angelopolis</dc:title>
+<meta name="calibre:title_sort" content="Angelopolis"/>
+<dc:publisher>Doğan Kitap</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Fantastik</dc:subject>
+<dc:description>&lt;p&gt;Evangeline Brooklyn Köprüsü'nde kaybolalı on bir yıl geçti. Verlaine, onu son kez gördüğünden bu yana, Melekbilim Akademisi'nin en sıkı Nefil avcılarından biri oldu. Şimdi ikisi birlikte, Nefiller ile Melekbilimciler arasında yüzlerce yıldır süren kanlı savaşın, Eiffel Kulesi'nin gölgelerinden St. Petersburg saraylarına, Sibirya'nın derinliklerinden Karadeniz kıyılarına kadar uzanan yeni cephelerinde yer alacaklar.
+
+"Trussoni'nin yarattığı alternatif tarih öylesine baştan çıkarıcı ki, Dan Brown'ın hayal ettiği şeyleri gölgede bırakıyor."
+-Milwaukee Journal Sentinel-
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Danielle Trussoni&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c1d9990c-7b15-4243-a94a-be9735df198c</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786050919981</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/628550.jpg" id="x628550.jpg" media-type="image/jpeg"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YazarKitap.xhtml" id="YazarKitap.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Giris.xhtml" id="Giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Giris2.xhtml" id="Giris2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bir.xhtml" id="bir.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BirinciDaire.xhtml" id="BirinciDaire.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/iki.xhtml" id="iki.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uc.xhtml" id="uc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dort.xhtml" id="dort.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bes.xhtml" id="bes.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/alti.xhtml" id="alti.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yedi.xhtml" id="yedi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sekiz.xhtml" id="sekiz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ikinciDaire.xhtml" id="ikinciDaire.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/UcuncuDaire.xhtml" id="UcuncuDaire.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DorduncuDaire.xhtml" id="DorduncuDaire.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BesinciDaire.xhtml" id="BesinciDaire.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/AltinciDaire.xhtml" id="AltinciDaire.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.xhtml" id="Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.xhtml" id="Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.xhtml" id="Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0022.xhtml" id="Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0023.xhtml" id="Section0023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0024.xhtml" id="Section0024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0025.xhtml" id="Section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sembol.jpg" id="sembol.jpg" media-type="image/jpeg"/>
+    <item href="Text/YedinciDaire.xhtml" id="YedinciDaire.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0026.xhtml" id="Section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0027.xhtml" id="Section0027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/SekizinciDaire.xhtml" id="SekizinciDaire.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0028.xhtml" id="Section0028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0029.xhtml" id="Section0029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0030.xhtml" id="Section0030.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0031.xhtml" id="Section0031.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DokuzuncuDaire.xhtml" id="DokuzuncuDaire.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0032.xhtml" id="Section0032.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0033.xhtml" id="Section0033.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0034.xhtml" id="Section0034.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="YazarKitap.xhtml"/>
+    <itemref idref="Giris.xhtml"/>
+    <itemref idref="Giris2.xhtml"/>
+    <itemref idref="bir.xhtml"/>
+    <itemref idref="BirinciDaire.xhtml"/>
+    <itemref idref="iki.xhtml"/>
+    <itemref idref="uc.xhtml"/>
+    <itemref idref="dort.xhtml"/>
+    <itemref idref="bes.xhtml"/>
+    <itemref idref="alti.xhtml"/>
+    <itemref idref="yedi.xhtml"/>
+    <itemref idref="sekiz.xhtml"/>
+    <itemref idref="ikinciDaire.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="UcuncuDaire.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="DorduncuDaire.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="BesinciDaire.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="AltinciDaire.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="Section0022.xhtml"/>
+    <itemref idref="Section0023.xhtml"/>
+    <itemref idref="Section0024.xhtml"/>
+    <itemref idref="Section0025.xhtml"/>
+    <itemref idref="YedinciDaire.xhtml"/>
+    <itemref idref="Section0026.xhtml"/>
+    <itemref idref="Section0027.xhtml"/>
+    <itemref idref="SekizinciDaire.xhtml"/>
+    <itemref idref="Section0028.xhtml"/>
+    <itemref idref="Section0029.xhtml"/>
+    <itemref idref="Section0030.xhtml"/>
+    <itemref idref="Section0031.xhtml"/>
+    <itemref idref="DokuzuncuDaire.xhtml"/>
+    <itemref idref="Section0032.xhtml"/>
+    <itemref idref="Section0033.xhtml"/>
+    <itemref idref="Section0034.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

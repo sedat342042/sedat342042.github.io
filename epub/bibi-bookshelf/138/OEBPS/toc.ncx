@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="10bb6c9c-eba3-4ef8-801e-12263021606d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Resos</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="c00f2937-8de9-40d0-9242-c00a55636f47" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/1_split_003.html"/>
+    </navPoint>
+    <navPoint id="70bcfe50-9c83-4cc0-9b8f-511baf705d56" playOrder="2">
+      <navLabel>
+        <text>Kişiler [*]</text>
+      </navLabel>
+      <content src="Text/1_split_004.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

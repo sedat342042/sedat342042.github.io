@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Özyaşar, Murat">Murat Özyaşar</dc:creator>
+<dc:publisher>Dogan Kitap</dc:publisher>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:description>&lt;p&gt;Murat Ozyasar'dan sasirtici ve yetkin bir ilk kitap... Pavase'den bir cumleyle basliyor Ayna Carpmasi; 'Kendimi yalniz birakmamak icin butun gece aynanin karsisinda oturdum.' Ve Beatles'tan bir dizeyle kapaniyor: 'Bu sabah aynaya baktim kimseyi goremedim.' Carpismalar, bolunmeler, kirilmalar ve dagilmalar...Yani bir hayatla hesaplasmanin tum sancilari... 'Murat Ozyasar'in, kendi kusaginin oykuculeri arasinda cok gecmeden ayirt edilecegini oykulerini ilk okudugumda da dusunmustum. Dogu'nun icinden cikip edebiyatin kilcaldamarlarina yurume cesareti vardi onda. Icinden ciktigi kulturun kendini kiyasliyabilecek butun yasamsal sikintilarindan yazinsal yazinin derinligine dalarak kurtulabilecegini cok erken gormustu.'&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;</dc:description>
+    <dc:date>2008-03-15T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">56802fe1-4db0-4c95-9388-bfbdfc549471</dc:identifier>
+    <dc:date opf:event="modification">2014-09-24</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Ayna Çarpması"/>
+    <meta name="calibre:author_link_map" content="{&quot;Murat Özyaşar&quot;: &quot;&quot;}"/>
+  <dc:title>Ayna Çarpması</dc:title>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Fiction</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">53e38d16-cb67-4b59-b5a8-d696f50fe521</dc:identifier>
+<dc:identifier opf:scheme="AMAZON">6051110054</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">d4BNAQAAIAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786051110059</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/KAPAK.xhtml" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/KUNYE.xhtml" id="kunye" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="giris" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF.xhtml" id="ithaf" media-type="application/xhtml+xml"/>
+    <item href="Text/AYNA_CARPMASI_split_000.xhtml" id="ayna-carpmasi2" media-type="application/xhtml+xml"/>
+    <item href="Text/AYNA_CARPMASI_split_001.xhtml" id="ayna-carpmasi1" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="arka-kapak" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/page_styles1.css" id="page_css1" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/aynacarpmasi_arka_D_fmt.jpeg" id="aynacarpmasi-arka-d-fmt-jpeg" media-type="image/jpeg"/>
+    <item href="Images/aynacarpmasi_on_D_fmt.jpeg" id="aynacarpmasi-on-d-fmt-jpeg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk-logo-fmt-jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon_fmt.jpeg" id="icon-fmt-jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/Vollkorn.otf" id="font4" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/GillSans.ttc" id="added" media-type="application/octet-stream"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="kunye"/>
+    <itemref idref="giris"/>
+    <itemref idref="ithaf"/>
+    <itemref idref="ayna-carpmasi2"/>
+    <itemref idref="ayna-carpmasi1"/>
+    <itemref idref="arka-kapak"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

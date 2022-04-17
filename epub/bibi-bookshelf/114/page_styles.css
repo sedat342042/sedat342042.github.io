@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Liberation Serif";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/fonts/LiberationSerif.ttf)
+    }
+@font-face {
+    font-family: "Liberation Serif";
+    font-style: normal;
+    font-weight: bold;
+    src: url(OEBPS/fonts/LiberationSerif-Bold.ttf)
+    }
+@font-face {
+    font-family: "Liberation Serif";
+    font-style: italic;
+    font-weight: bold;
+    src: url(OEBPS/fonts/LiberationSerif-BoldItalic.ttf)
+    }
+@font-face {
+    font-family: "Liberation Serif";
+    font-style: italic;
+    font-weight: normal;
+    src: url(OEBPS/fonts/LiberationSerif-Italic.ttf)
+    }

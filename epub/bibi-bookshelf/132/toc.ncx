@@ -1,0 +1,675 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="cb67de1e-cd61-4e02-a4b3-bfac3ec4d380" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>KARAMAZOV KARDEŞLER</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="82eada7e-2d15-49fb-b286-237a77303592" playOrder="1">
+      <navLabel>
+        <text>Yazardan</text>
+      </navLabel>
+      <content src="karamazov_split_004.html"/>
+    </navPoint>
+    <navPoint id="33ccb529-aaca-42e0-99c9-aa744e1a4d3e" playOrder="2">
+      <navLabel>
+        <text>Birinci Bölüm Birinci Kitap Bir Ailenin Hikâyesi</text>
+      </navLabel>
+      <content src="karamazov_split_005.html"/>
+      <navPoint id="516d9249-7c9c-4163-a1d0-277f0cf6d531" playOrder="3">
+        <navLabel>
+          <text>I Fyodor Pavloviç Karamazov</text>
+        </navLabel>
+        <content src="karamazov_split_006.html"/>
+      </navPoint>
+      <navPoint id="00c6b8f1-fb7b-4fea-a749-77cd819a26fd" playOrder="4">
+        <navLabel>
+          <text>II İlk Oğlunu Başından Atması</text>
+        </navLabel>
+        <content src="karamazov_split_007.html"/>
+      </navPoint>
+      <navPoint id="a25e33c0-ca94-4bf2-8069-4bd36594a7b8" playOrder="5">
+        <navLabel>
+          <text>III İkinci Evlenme ve İkinci Çocuklar</text>
+        </navLabel>
+        <content src="karamazov_split_008.html"/>
+      </navPoint>
+      <navPoint id="e8d06f2f-838d-4a33-aae6-827045008ed3" playOrder="6">
+        <navLabel>
+          <text>IV Üçüncü Oğul Alyoşa [6]</text>
+        </navLabel>
+        <content src="karamazov_split_009.html"/>
+      </navPoint>
+      <navPoint id="7e1a4781-38a1-4d2d-ac05-07ab86b54e33" playOrder="7">
+        <navLabel>
+          <text>V Staretzler</text>
+        </navLabel>
+        <content src="karamazov_split_010.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="44ef82e1-eeeb-436b-b75b-4eb208436ed1" playOrder="8">
+      <navLabel>
+        <text>İkinci Kitap Yersiz Bir Toplantı</text>
+      </navLabel>
+      <content src="karamazov_split_011.html"/>
+      <navPoint id="21736828-9a3f-4348-a477-77766042cd43" playOrder="9">
+        <navLabel>
+          <text>I Manastıra Geliş</text>
+        </navLabel>
+        <content src="karamazov_split_012.html"/>
+      </navPoint>
+      <navPoint id="4a363598-03c7-4744-9033-d17fc22578ef" playOrder="10">
+        <navLabel>
+          <text>II Koca Soytarı</text>
+        </navLabel>
+        <content src="karamazov_split_013.html"/>
+      </navPoint>
+      <navPoint id="7802e5e4-9bd6-4cb7-83a4-ee259b42e357" playOrder="11">
+        <navLabel>
+          <text>III İmanlı Kadınlar</text>
+        </navLabel>
+        <content src="karamazov_split_014.html"/>
+      </navPoint>
+      <navPoint id="a6015523-3410-4814-8277-7700fe09b066" playOrder="12">
+        <navLabel>
+          <text>IV İmanı Kıt Bir Hanımefendi</text>
+        </navLabel>
+        <content src="karamazov_split_015.html"/>
+      </navPoint>
+      <navPoint id="88aafb53-1f7a-4585-b030-9c20b1d8e517" playOrder="13">
+        <navLabel>
+          <text>V Bu Olacaktır!</text>
+        </navLabel>
+        <content src="karamazov_split_016.html"/>
+      </navPoint>
+      <navPoint id="04758bf0-677b-4c5f-8092-1526eff1c844" playOrder="14">
+        <navLabel>
+          <text>VI Böyle Bir Adam Ne Diye Yaşıyor!</text>
+        </navLabel>
+        <content src="karamazov_split_017.html"/>
+      </navPoint>
+      <navPoint id="bedf1a65-ffce-40d5-9a52-07b39cd6ff16" playOrder="15">
+        <navLabel>
+          <text>VII Haris Bir Papaz Adayı</text>
+        </navLabel>
+        <content src="karamazov_split_018.html"/>
+      </navPoint>
+      <navPoint id="e51554b1-65ff-430b-92ca-981ebb06d810" playOrder="16">
+        <navLabel>
+          <text>VIII Rezalet</text>
+        </navLabel>
+        <content src="karamazov_split_019.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="74331b37-68a9-45f0-b10d-52f45531a0af" playOrder="17">
+      <navLabel>
+        <text>Üçüncü Kitap Şehvet Düşkünleri</text>
+      </navLabel>
+      <content src="karamazov_split_020.html"/>
+      <navPoint id="ae77efd7-e3d3-414d-b8ec-a35451f6fe6b" playOrder="18">
+        <navLabel>
+          <text>I Uşaklar Odasında</text>
+        </navLabel>
+        <content src="karamazov_split_021.html"/>
+      </navPoint>
+      <navPoint id="39213d75-f633-49c0-a490-385e30ecb91b" playOrder="19">
+        <navLabel>
+          <text>II Lizaveta Smerdyaşçaya</text>
+        </navLabel>
+        <content src="karamazov_split_022.html"/>
+      </navPoint>
+      <navPoint id="54cb9388-52c4-4251-8a0a-cc529dcd3cff" playOrder="20">
+        <navLabel>
+          <text>III Ateşli Bir Kalbin Manzum İtirafı</text>
+        </navLabel>
+        <content src="karamazov_split_023.html"/>
+      </navPoint>
+      <navPoint id="d1948c1c-3b53-44d4-836c-bfc99a5a2f65" playOrder="21">
+        <navLabel>
+          <text>IV Ateşli Bir Kalbin Fıkralar Halinde İtirafı</text>
+        </navLabel>
+        <content src="karamazov_split_024.html"/>
+      </navPoint>
+      <navPoint id="982c695a-9855-4638-895e-8f21e481e5f4" playOrder="22">
+        <navLabel>
+          <text>V Ateşli Kalbin İtirafı</text>
+        </navLabel>
+        <content src="karamazov_split_025.html"/>
+      </navPoint>
+      <navPoint id="755714cb-d9a4-4498-9f09-c8b53f3ef221" playOrder="23">
+        <navLabel>
+          <text>VI Smerdyakov</text>
+        </navLabel>
+        <content src="karamazov_split_026.html"/>
+      </navPoint>
+      <navPoint id="537b4f9c-33a5-42d4-8049-8089ceac0ed1" playOrder="24">
+        <navLabel>
+          <text>VII Tartışma</text>
+        </navLabel>
+        <content src="karamazov_split_027.html"/>
+      </navPoint>
+      <navPoint id="8888b325-c50d-4d7b-b642-b11421c51840" playOrder="25">
+        <navLabel>
+          <text>VIII Konyak Âlemi</text>
+        </navLabel>
+        <content src="karamazov_split_028.html"/>
+      </navPoint>
+      <navPoint id="302fd48b-91e0-445e-9766-7597796ab820" playOrder="26">
+        <navLabel>
+          <text>IX Şehvet Düşkünleri</text>
+        </navLabel>
+        <content src="karamazov_split_029.html"/>
+      </navPoint>
+      <navPoint id="af436b5d-ec69-41b3-8179-996108760930" playOrder="27">
+        <navLabel>
+          <text>X İkisi Bir arada</text>
+        </navLabel>
+        <content src="karamazov_split_030.html"/>
+      </navPoint>
+      <navPoint id="1c98a7e0-93af-44da-bf11-92e9b2dfdd98" playOrder="28">
+        <navLabel>
+          <text>XI Lekeli Bir İsim Daha</text>
+        </navLabel>
+        <content src="karamazov_split_031.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="efb3d7a7-4940-4689-bf56-fd86d5bec001" playOrder="29">
+      <navLabel>
+        <text>İkinci Bölüm Dördüncü Kitap Acılar</text>
+      </navLabel>
+      <content src="karamazov_split_032.html"/>
+      <navPoint id="b86582c2-5fc1-40b5-9abd-e4e6bb243625" playOrder="30">
+        <navLabel>
+          <text>I Ferapont Baba</text>
+        </navLabel>
+        <content src="karamazov_split_033.html"/>
+      </navPoint>
+      <navPoint id="4ef15a2d-da81-4020-8685-c3cc10981ad4" playOrder="31">
+        <navLabel>
+          <text>II Babasında</text>
+        </navLabel>
+        <content src="karamazov_split_034.html"/>
+      </navPoint>
+      <navPoint id="bfa868b4-cbeb-4a1a-8d1b-8f7fdacc1bb7" playOrder="32">
+        <navLabel>
+          <text>III Okul Çocuklarıyla Çatışıyor</text>
+        </navLabel>
+        <content src="karamazov_split_035.html"/>
+      </navPoint>
+      <navPoint id="ce3a624b-d690-4580-b76a-08bcc07e2739" playOrder="33">
+        <navLabel>
+          <text>IV Hohlakovlar’da</text>
+        </navLabel>
+        <content src="karamazov_split_036.html"/>
+      </navPoint>
+      <navPoint id="59c307f7-68b3-4ce8-a001-31055a3f129b" playOrder="34">
+        <navLabel>
+          <text>V Salondaki Acılar</text>
+        </navLabel>
+        <content src="karamazov_split_037.html"/>
+      </navPoint>
+      <navPoint id="42cc2c70-6a3b-4149-8729-3781da26aff5" playOrder="35">
+        <navLabel>
+          <text>VI Kulübedeki Acılar</text>
+        </navLabel>
+        <content src="karamazov_split_038.html"/>
+      </navPoint>
+      <navPoint id="e108c58b-8d01-40eb-aea6-6fc4354f0ad3" playOrder="36">
+        <navLabel>
+          <text>VII Temiz Havada</text>
+        </navLabel>
+        <content src="karamazov_split_039.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="0b61db05-d890-4cb6-8a2d-f89517049470" playOrder="37">
+      <navLabel>
+        <text>Beşinci Kitap Pro ve Contra [62]</text>
+      </navLabel>
+      <content src="karamazov_split_040.html"/>
+      <navPoint id="5dbbe3a5-f3c5-47b5-9341-27c55ece4df3" playOrder="38">
+        <navLabel>
+          <text>I Söz Kesme</text>
+        </navLabel>
+        <content src="karamazov_split_041.html"/>
+      </navPoint>
+      <navPoint id="e93e275d-c76d-49dc-92ca-da4a88c10053" playOrder="39">
+        <navLabel>
+          <text>II Smerdyakov ve Gitarı</text>
+        </navLabel>
+        <content src="karamazov_split_042.html"/>
+      </navPoint>
+      <navPoint id="0a5c1825-b867-4cf8-a600-b898d43fce77" playOrder="40">
+        <navLabel>
+          <text>III Kardeşlerin Tanışması</text>
+        </navLabel>
+        <content src="karamazov_split_043.html"/>
+      </navPoint>
+      <navPoint id="39c11456-ff37-4d77-be5b-99df08bf78b4" playOrder="41">
+        <navLabel>
+          <text>IV İsyan</text>
+        </navLabel>
+        <content src="karamazov_split_044.html"/>
+      </navPoint>
+      <navPoint id="4cd4f0e5-05d0-4e60-b865-88e8193ef237" playOrder="42">
+        <navLabel>
+          <text>V Büyük Engizisyoncu</text>
+        </navLabel>
+        <content src="karamazov_split_045.html"/>
+      </navPoint>
+      <navPoint id="96999c46-c118-478b-8f5e-79f3670e2e58" playOrder="43">
+        <navLabel>
+          <text>VI Karanlık Henüz Dağılmamış...</text>
+        </navLabel>
+        <content src="karamazov_split_046.html"/>
+      </navPoint>
+      <navPoint id="79e02672-cec0-48fa-8ab1-d5e994c918c7" playOrder="44">
+        <navLabel>
+          <text>VII “Akıllı İnsanla Konuşmak Zevklidir!”</text>
+        </navLabel>
+        <content src="karamazov_split_047.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="82d2c146-aa00-4b64-a0da-cbdd46f38665" playOrder="45">
+      <navLabel>
+        <text>Altıncı Kitap Rus Rahibi</text>
+      </navLabel>
+      <content src="karamazov_split_048.html"/>
+      <navPoint id="b578eca2-6b31-4499-b722-e5d8d37f37ac" playOrder="46">
+        <navLabel>
+          <text>I Staretz Zosima ve Konukları</text>
+        </navLabel>
+        <content src="karamazov_split_049.html"/>
+      </navPoint>
+      <navPoint id="15f925c2-0dc6-4e84-8cc7-145749f4532d" playOrder="47">
+        <navLabel>
+          <text>II Tanrının Rahmetine Kavuşan Rahip ve Keşiş Staretz Zosima’nın Hayatı: Staretzin Ağzından Aleksey F</text>
+        </navLabel>
+        <content src="karamazov_split_050.html"/>
+      </navPoint>
+      <navPoint id="9aeea395-87b3-4531-b118-964e4ab35e10" playOrder="48">
+        <navLabel>
+          <text>III Staretz Zosima’nın Konuşma ve Öğütlerinden</text>
+        </navLabel>
+        <content src="karamazov_split_051.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="dee46fe5-7c1e-4b3a-b549-645eb86d0eff" playOrder="49">
+      <navLabel>
+        <text>Üçüncü Bölüm Yedinci Kitap Alyoşa</text>
+      </navLabel>
+      <content src="karamazov_split_052.html"/>
+      <navPoint id="5bfbb34e-636d-44fb-bb12-f2f29a70560b" playOrder="50">
+        <navLabel>
+          <text>I Çürüme Kokusu</text>
+        </navLabel>
+        <content src="karamazov_split_053.html"/>
+      </navPoint>
+      <navPoint id="b856d001-43d4-42c6-820d-1f7d049c2ce5" playOrder="51">
+        <navLabel>
+          <text>II Böyle Bir Dakikacık...</text>
+        </navLabel>
+        <content src="karamazov_split_054.html"/>
+      </navPoint>
+      <navPoint id="75be4e75-053f-4e8b-9f49-6bb9cbc6ba6d" playOrder="52">
+        <navLabel>
+          <text>III Bir Baş Soğan</text>
+        </navLabel>
+        <content src="karamazov_split_055.html"/>
+      </navPoint>
+      <navPoint id="65805062-081a-4b96-85f2-3125115f6f84" playOrder="53">
+        <navLabel>
+          <text>IV Celile’nin Kana Şehri</text>
+        </navLabel>
+        <content src="karamazov_split_056.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="6a86feeb-831d-4575-90bb-11ccc2ab0cef" playOrder="54">
+      <navLabel>
+        <text>Sekizinci Kitap Mitya</text>
+      </navLabel>
+      <content src="karamazov_split_057.html"/>
+      <navPoint id="a039eb45-29d5-4f15-8dc8-2df7f07f9a42" playOrder="55">
+        <navLabel>
+          <text>I Kuzma Samsonov</text>
+        </navLabel>
+        <content src="karamazov_split_058.html"/>
+      </navPoint>
+      <navPoint id="2bf16ce9-59ce-4edb-9cdf-71e1b996c4f9" playOrder="56">
+        <navLabel>
+          <text>II Lyagavıy</text>
+        </navLabel>
+        <content src="karamazov_split_059.html"/>
+      </navPoint>
+      <navPoint id="af85424b-f3d9-4329-acad-c33a04c54946" playOrder="57">
+        <navLabel>
+          <text>III Altın Madeni</text>
+        </navLabel>
+        <content src="karamazov_split_060.html"/>
+      </navPoint>
+      <navPoint id="917cf3e7-df12-4bc9-b327-07a027bcb965" playOrder="58">
+        <navLabel>
+          <text>IV Karanlıkta</text>
+        </navLabel>
+        <content src="karamazov_split_061.html"/>
+      </navPoint>
+      <navPoint id="90ae6038-7b96-49ed-a260-a709a5e8e44a" playOrder="59">
+        <navLabel>
+          <text>V Ani Karar</text>
+        </navLabel>
+        <content src="karamazov_split_062.html"/>
+      </navPoint>
+      <navPoint id="7689a31a-e0a3-4fd3-801e-af80f4518b5f" playOrder="60">
+        <navLabel>
+          <text>VI Ben Geliyorum!</text>
+        </navLabel>
+        <content src="karamazov_split_063.html"/>
+      </navPoint>
+      <navPoint id="a6760393-c9b0-41a6-9fea-6501cda1be26" playOrder="61">
+        <navLabel>
+          <text>VII İlk Gözağrısı</text>
+        </navLabel>
+        <content src="karamazov_split_064.html"/>
+      </navPoint>
+      <navPoint id="9bea4849-be0b-4132-a11b-0916f734a9d8" playOrder="62">
+        <navLabel>
+          <text>VIII Çılgınlık</text>
+        </navLabel>
+        <content src="karamazov_split_065.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="7f41e2c6-3aec-482a-be8d-07e3a857089a" playOrder="63">
+      <navLabel>
+        <text>Dokuzuncu Kitap Ön Kovuşturma</text>
+      </navLabel>
+      <content src="karamazov_split_066.html"/>
+      <navPoint id="dcfeb9fa-9c4e-4bdb-8675-7d3f87d9d399" playOrder="64">
+        <navLabel>
+          <text>I Memur Perhotkin’in Mesleğinde İlk Adımları</text>
+        </navLabel>
+        <content src="karamazov_split_067.html"/>
+      </navPoint>
+      <navPoint id="9afccbca-971b-4428-92d0-807024965c2f" playOrder="65">
+        <navLabel>
+          <text>II Tehlike İşareti</text>
+        </navLabel>
+        <content src="karamazov_split_068.html"/>
+      </navPoint>
+      <navPoint id="41050e01-2ffd-41dd-a76c-819f9ce211c1" playOrder="66">
+        <navLabel>
+          <text>III Ruhun Çileleri</text>
+        </navLabel>
+        <content src="karamazov_split_069.html"/>
+      </navPoint>
+      <navPoint id="ba000268-cce9-469b-8b57-0ee0a8a79e6e" playOrder="67">
+        <navLabel>
+          <text>IV İkinci Çile</text>
+        </navLabel>
+        <content src="karamazov_split_070.html"/>
+      </navPoint>
+      <navPoint id="2f47a5f6-b855-47c8-ab3b-5641760df04e" playOrder="68">
+        <navLabel>
+          <text>V Üçüncü Çile</text>
+        </navLabel>
+        <content src="karamazov_split_071.html"/>
+      </navPoint>
+      <navPoint id="a59cab25-1385-4d60-9742-26e7e936e3da" playOrder="69">
+        <navLabel>
+          <text>VI Savcı, Mitya’yı Açmaza Düşürüyor</text>
+        </navLabel>
+        <content src="karamazov_split_072.html"/>
+      </navPoint>
+      <navPoint id="817093bf-8483-4e26-abad-383d53f8dae1" playOrder="70">
+        <navLabel>
+          <text>VII Mitya’nın Büyük Sırrı Alaya Alınıyor</text>
+        </navLabel>
+        <content src="karamazov_split_073.html"/>
+      </navPoint>
+      <navPoint id="0c1bafe7-90b1-429d-b3e4-6be13157dd60" playOrder="71">
+        <navLabel>
+          <text>VIII Tanıkların Anlattıkları, Bebek</text>
+        </navLabel>
+        <content src="karamazov_split_074.html"/>
+      </navPoint>
+      <navPoint id="b24380b8-9cdc-4238-9b57-8d79f45ddd4c" playOrder="72">
+        <navLabel>
+          <text>IX Mitya’yı Götürüyorlar</text>
+        </navLabel>
+        <content src="karamazov_split_075.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="3031c374-18a2-4f3d-88fe-47042408852e" playOrder="73">
+      <navLabel>
+        <text>Dördüncü Bölüm Onuncu Kitap Çocuklar</text>
+      </navLabel>
+      <content src="karamazov_split_076.html"/>
+      <navPoint id="58f6dafb-492b-47d8-9a20-4be8f8d08915" playOrder="74">
+        <navLabel>
+          <text>I Kolya Krasotkin</text>
+        </navLabel>
+        <content src="karamazov_split_077.html"/>
+      </navPoint>
+      <navPoint id="28b8a341-0b48-4f21-8b40-fe79f44bad4c" playOrder="75">
+        <navLabel>
+          <text>II Yumurcaklar</text>
+        </navLabel>
+        <content src="karamazov_split_078.html"/>
+      </navPoint>
+      <navPoint id="07bb239c-31d9-475a-a54c-5b6433dacc35" playOrder="76">
+        <navLabel>
+          <text>III Öğrenci</text>
+        </navLabel>
+        <content src="karamazov_split_079.html"/>
+      </navPoint>
+      <navPoint id="9e383472-f8bc-4fa2-839e-49c54a03f983" playOrder="77">
+        <navLabel>
+          <text>IV Juçka</text>
+        </navLabel>
+        <content src="karamazov_split_080.html"/>
+      </navPoint>
+      <navPoint id="77944a0f-d283-4c18-8add-8bb372a536d0" playOrder="78">
+        <navLabel>
+          <text>V İlyuşa’nın Başucunda</text>
+        </navLabel>
+        <content src="karamazov_split_081.html"/>
+      </navPoint>
+      <navPoint id="883d621b-26b6-4a93-a546-ff6cd2fe7282" playOrder="79">
+        <navLabel>
+          <text>VI Erken Gelişme</text>
+        </navLabel>
+        <content src="karamazov_split_082.html"/>
+      </navPoint>
+      <navPoint id="78d783bb-7044-4961-88c5-b4e59e10a8a6" playOrder="80">
+        <navLabel>
+          <text>VII İlyuşa</text>
+        </navLabel>
+        <content src="karamazov_split_083.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="e4d1a530-56dc-4108-bb87-7f37ab07c5ea" playOrder="81">
+      <navLabel>
+        <text>On Birinci Kitap İvan Fyodoroviç Kardeş</text>
+      </navLabel>
+      <content src="karamazov_split_084.html"/>
+      <navPoint id="083f0f0c-62c3-442b-9e4b-73af278bda1e" playOrder="82">
+        <navLabel>
+          <text>I Gruşenka’da</text>
+        </navLabel>
+        <content src="karamazov_split_085.html"/>
+      </navPoint>
+      <navPoint id="c6464100-a9fc-4ba5-b6e4-bdaef6a525ff" playOrder="83">
+        <navLabel>
+          <text>II Hasta Ayak</text>
+        </navLabel>
+        <content src="karamazov_split_086.html"/>
+      </navPoint>
+      <navPoint id="35a526ba-8e78-4850-88c4-855997a45acb" playOrder="84">
+        <navLabel>
+          <text>III Küçük Şeytan</text>
+        </navLabel>
+        <content src="karamazov_split_087.html"/>
+      </navPoint>
+      <navPoint id="adc7bb5e-c2cc-46f5-89c0-5518347d27dd" playOrder="85">
+        <navLabel>
+          <text>IV Kaside ve Sır</text>
+        </navLabel>
+        <content src="karamazov_split_088.html"/>
+      </navPoint>
+      <navPoint id="e7bbe173-38cc-43de-9c94-1987c715e6c6" playOrder="86">
+        <navLabel>
+          <text>V Sen Değilsin, Sen Değilsin!</text>
+        </navLabel>
+        <content src="karamazov_split_089.html"/>
+      </navPoint>
+      <navPoint id="efc57ac1-cba2-4cdd-a3b0-b2ffd2c7a01d" playOrder="87">
+        <navLabel>
+          <text>VI Smerdyakov’la Birinci Görüşme</text>
+        </navLabel>
+        <content src="karamazov_split_090.html"/>
+      </navPoint>
+      <navPoint id="0df3d93e-66cc-49f7-a566-a110f6485278" playOrder="88">
+        <navLabel>
+          <text>VII Smerdyakov’la İkinci Görüşme</text>
+        </navLabel>
+        <content src="karamazov_split_091.html"/>
+      </navPoint>
+      <navPoint id="3d4e0771-e287-4590-add5-1bbb2855cbbc" playOrder="89">
+        <navLabel>
+          <text>VIII Smerdyakov’la Üçüncü ve Son Görüşme</text>
+        </navLabel>
+        <content src="karamazov_split_092.html"/>
+      </navPoint>
+      <navPoint id="bf5f307b-3fd8-4fa9-84fe-e224b2eaab5f" playOrder="90">
+        <navLabel>
+          <text>IX Şeytan. İvan Fyodoroviç’in Kâbusu</text>
+        </navLabel>
+        <content src="karamazov_split_093.html"/>
+      </navPoint>
+      <navPoint id="bb615699-af3a-4167-8eff-4d527ae91fbd" playOrder="91">
+        <navLabel>
+          <text>X “O Söyledi Bunu!”</text>
+        </navLabel>
+        <content src="karamazov_split_094.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="cb100995-4378-4abf-929d-93ae0cf62d15" playOrder="92">
+      <navLabel>
+        <text>On İkinci Kitap Adli Hata</text>
+      </navLabel>
+      <content src="karamazov_split_095.html"/>
+      <navPoint id="a89935b7-2bc7-49a1-892b-df71c80984a0" playOrder="93">
+        <navLabel>
+          <text>I Uğursuz Gün</text>
+        </navLabel>
+        <content src="karamazov_split_096.html"/>
+      </navPoint>
+      <navPoint id="e8aa5d9a-bf8a-4397-b01e-77e5c4133dc1" playOrder="94">
+        <navLabel>
+          <text>II Tehlikeli Tanıklar</text>
+        </navLabel>
+        <content src="karamazov_split_097.html"/>
+      </navPoint>
+      <navPoint id="b6fd22b5-e05f-4bd1-81c4-8d4b5906ac86" playOrder="95">
+        <navLabel>
+          <text>III Tıbbi Muayene ve Bir Kilo Fındık</text>
+        </navLabel>
+        <content src="karamazov_split_098.html"/>
+      </navPoint>
+      <navPoint id="01643c11-e60d-40b3-8b08-9baae9b53512" playOrder="96">
+        <navLabel>
+          <text>IV Talih Mitya’ya Gülüyor</text>
+        </navLabel>
+        <content src="karamazov_split_099.html"/>
+      </navPoint>
+      <navPoint id="f9e31bdd-0897-4163-aaca-1d622b2ea716" playOrder="97">
+        <navLabel>
+          <text>V Ani Felaket</text>
+        </navLabel>
+        <content src="karamazov_split_100.html"/>
+      </navPoint>
+      <navPoint id="350ed56b-4271-44ae-8808-f4d0b0ad1725" playOrder="98">
+        <navLabel>
+          <text>VI Savcının Konuşması. Tahliller.</text>
+        </navLabel>
+        <content src="karamazov_split_101.html"/>
+      </navPoint>
+      <navPoint id="67f959a0-4e1a-40c6-ade2-b1559fd64fbc" playOrder="99">
+        <navLabel>
+          <text>VII Olayın Ardındaki Hikâye</text>
+        </navLabel>
+        <content src="karamazov_split_102.html"/>
+      </navPoint>
+      <navPoint id="3d5550a7-f54a-458a-a928-a26e84b785d6" playOrder="100">
+        <navLabel>
+          <text>VIII Smerdyakov Konusu</text>
+        </navLabel>
+        <content src="karamazov_split_103.html"/>
+      </navPoint>
+      <navPoint id="92b1e905-cc74-4c03-91c3-8d8e147ad407" playOrder="101">
+        <navLabel>
+          <text>IX Bol Psikoloji. Doludizgin Troyka.</text>
+        </navLabel>
+        <content src="karamazov_split_104.html"/>
+      </navPoint>
+      <navPoint id="ad870afa-5c50-4355-824e-718344c33791" playOrder="102">
+        <navLabel>
+          <text>X Savunma. İki Ucu Sivri Değnek.</text>
+        </navLabel>
+        <content src="karamazov_split_105.html"/>
+      </navPoint>
+      <navPoint id="501f1b24-6f77-472c-b828-f78b62757e82" playOrder="103">
+        <navLabel>
+          <text>XI Ortada Ne Para, Ne Hırsızlık Vardı</text>
+        </navLabel>
+        <content src="karamazov_split_106.html"/>
+      </navPoint>
+      <navPoint id="673b3247-64e5-4dc1-9086-b28bdabc867e" playOrder="104">
+        <navLabel>
+          <text>XII Cinayet İşlenmiş Değil</text>
+        </navLabel>
+        <content src="karamazov_split_107.html"/>
+      </navPoint>
+      <navPoint id="839d6943-f5ef-45ff-8b93-94b0e3510073" playOrder="105">
+        <navLabel>
+          <text>XIII Düşünceye İhanet</text>
+        </navLabel>
+        <content src="karamazov_split_108.html"/>
+      </navPoint>
+      <navPoint id="7001cdcc-3e3a-4d32-bdd4-ed5d8774c5dd" playOrder="106">
+        <navLabel>
+          <text>XIV Mujikler Gösterdiler Kendilerini</text>
+        </navLabel>
+        <content src="karamazov_split_109.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="3de86acc-d9e1-4357-a2f2-716847d85ac0" playOrder="107">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="karamazov_split_110.html"/>
+      <navPoint id="d079a222-01d5-458f-8358-6d39d8fe7354" playOrder="108">
+        <navLabel>
+          <text>I Mitya’yı Kurtarma Tasarısı</text>
+        </navLabel>
+        <content src="karamazov_split_111.html"/>
+      </navPoint>
+      <navPoint id="6393c4f8-9d7d-423c-8631-40fd106c2bce" playOrder="109">
+        <navLabel>
+          <text>II Bir An İçin Yalan Gerçek Oldu</text>
+        </navLabel>
+        <content src="karamazov_split_112.html"/>
+      </navPoint>
+      <navPoint id="14746303-d93c-4da7-a580-2a623efcc6d7" playOrder="110">
+        <navLabel>
+          <text>III İlyuşeçka’nın Toprağa Verilmesi. Taşın Önündeki Nutuk.</text>
+        </navLabel>
+        <content src="karamazov_split_113.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

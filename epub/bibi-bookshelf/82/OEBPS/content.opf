@@ -1,0 +1,82 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Karaibrahimgil, Nil">Nil Karaibrahimgil</dc:creator>
+<dc:publisher>Doğan Kitap</dc:publisher>
+    <meta content="Nil'in Kelebekleri" name="calibre:title_sort"/>
+    <meta content="2014-05-26T19:02:35.129000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-05-25T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">15742a6f-ed22-417f-ad72-6456ff8ef3fb</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-05-27</dc:date>
+  <dc:title>Nil'in Kelebekleri</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Deneme</dc:subject>
+<dc:description>&lt;p&gt;"Kadınlar çok seyrek olarak söylediklerini kastederler. 
+
+Asıl demek istediklerini bulmak için, sakın 'ne demek istiyorsun' diye sormayın. Bu soru sizi, kastedilmeyecek başka bir cümleye yönlendirir ve aslolandan gitgide uzaklaşmanıza sebep olur. Bu sebeple sonuç ilişkisi kurulmaz. 
+
+Mesela sık kullanılan bir cümleyi ele alalım: 'Yalnız kalmak istiyorum.' 
+Cümlenin öznesi 'ben', burada 'sen' manasında kullanılmış. 'İstiyorum' olumlu gibi dursa da olumsuz, yani asıl kökü 'istemiyorum'. Buraya kadar cümlemiz 'Sen yalnız kalmak istemiyorum.' 
+
+Böyle bir cümleye pek rastlanmadığından, yuvarlamamız gerekir. Yuvarlarsak aslolan cümleye varırız: 'Sen yalnız kalmamı isteme!' 
+
+Bu cümleyi canlandırabilecek erkek yok denecek kadar azdır. Kadın yalnız kalmak istemiyor, bu kesin. Fakat bu yeterli değil. 
+
+Onun yalnız kalmasını istememelisiniz.
+
+Ayrıca kadını bu raddeye getirmeyin. Kadınlar yalnız kalmayı asla istemez. Şayet kendilerini yalnız hissederlerse, pıt diye doğuruverirler. Elde var iki olurlar. Bir suyla şaka olmaz, bir de kadınlarla..."&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Nil Karaibrahimgil&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">791008ce-0d11-4975-858f-a60f4603367f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">2789785895121</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image2.jpg" id="image2_jpg" media-type="image/jpeg"/>
+    <item href="Images/main-1.jpg" id="main-1_jpg" media-type="image/jpeg"/>
+    <item href="Images/main-2.jpg" id="main-2_jpg" media-type="image/jpeg"/>
+    <item href="Images/main-3.jpg" id="main-3_jpg" media-type="image/jpeg"/>
+    <item href="Images/main-4.jpg" id="main-4_jpg" media-type="image/jpeg"/>
+    <item href="Images/main-5.jpg" id="main-5_jpg" media-type="image/jpeg"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0005.html" id="section-0005_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0006.html" id="section-0006_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0007.html" id="section-0007_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0008.html" id="section-0008_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0009.html" id="section-0009_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0010.html" id="section-0010_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0011.html" id="section-0011_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0012.html" id="section-0012_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0013.html" id="section-0013_html" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+    <itemref idref="section-0004_html"/>
+    <itemref idref="section-0005_html"/>
+    <itemref idref="section-0006_html"/>
+    <itemref idref="section-0007_html"/>
+    <itemref idref="section-0008_html"/>
+    <itemref idref="section-0009_html"/>
+    <itemref idref="section-0010_html"/>
+    <itemref idref="section-0011_html"/>
+    <itemref idref="section-0012_html"/>
+    <itemref idref="section-0013_html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

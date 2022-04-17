@@ -1,0 +1,726 @@
+.alinti {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.49;
+    margin-bottom: 0;
+    margin-top: 20px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.alinti-italik {
+    font-family: "Liberation Serif", serif;
+    font-size: 1.33333em;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.alinti1 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.49;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.alinti2 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.49;
+    margin-bottom: 20px;
+    margin-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.alinti3 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.49;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.anabaslik {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.41667em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 70px;
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.anabaslik1 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.41667em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 50px;
+    margin-top: 150px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.arabaslik-orta {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.125em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 70px;
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bolum-baslik {
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    height: 100%;
+    width: 100%
+    }
+.char-style-override {
+    font-size: 0.58333em;
+    font-style: normal;
+    font-weight: bold
+    }
+.char-style-override1 {
+    font-size: 0.58333em
+    }
+.char-style-override2 {
+    font-size: 0.77778em;
+    font-style: normal;
+    font-weight: bold
+    }
+.char-style-override3 {
+    font-size: 0.77778em
+    }
+.char-style-override4 {
+    color: #00f;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.58333em;
+    font-style: normal;
+    font-weight: bold
+    }
+.char-style-override5 {
+    color: #00f
+    }
+.char-style-override6 {
+    font-size: 1.125em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.char-style-override7 {
+    font-style: italic;
+    font-weight: bold
+    }
+.char-style-override8 {
+    font-style: normal;
+    font-weight: bold
+    }
+.char-style-override9 {
+    font-style: italic;
+    font-weight: normal
+    }
+.dipnotlar {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.image {
+    height: 35px;
+    line-height: 1.2;
+    width: 68px
+    }
+.image1 {
+    height: 38px;
+    width: 35px
+    }
+.image2 {
+    height: 533px;
+    width: 166px
+    }
+.image3 {
+    height: 165px;
+    width: 63px
+    }
+.image4 {
+    height: 125px;
+    width: 63px
+    }
+.image5 {
+    height: 135px;
+    width: 58px
+    }
+.kisim-baslik {
+    color: #000;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.79412em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.kisim-baslik1 {
+    color: #000;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.kisim-baslik2 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.125em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.21;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.metin {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.38;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 50px 100px 0 150px
+    }
+.metin-italik {
+    color: #000;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.33333em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.metin1 {
+    color: #000;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.33333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.metin2 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.38;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0 100px 0 150px
+    }
+.metin3 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.38;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0 55px 0 0
+    }
+.metin4 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.38;
+    margin-bottom: 20px;
+    margin-top: 0;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 11px
+    }
+.metin5 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.38;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.metin6 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.38;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.metin7 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.38;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.metin8 {
+    color: #000;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.No-Paragraph-Style {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.No-Paragraph-Style1 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 20px 0 0
+    }
+.No-Paragraph-Style2 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 20px 0 30px
+    }
+.Normal {
+    color: #000;
+    display: block;
+    font-family: "ITC Century Book", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 30px 0 20px
+    }
+.Normal1 {
+    color: #000;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.58333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.Normal2 {
+    color: #000;
+    display: block;
+    font-family: "ITC Century Book", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.Normal3 {
+    color: #000;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.58333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.Normal4 {
+    color: #000;
+    display: block;
+    font-family: "ITC Century Book", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 20px 0 0
+    }
+.Normal5 {
+    color: #000;
+    display: block;
+    font-family: "ITC Century Book", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 30px 0 20px
+    }
+.Normal6 {
+    color: #000;
+    font-family: "Liberation Serif", serif;
+    font-size: 2em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.Normal7 {
+    color: #000;
+    display: block;
+    font-family: "ITC Century Book", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.Normal8 {
+    color: #000;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.125em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.Normal9 {
+    color: #000;
+    display: block;
+    font-family: "ITC Century Book", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 50px 0 0
+    }
+.Normal10 {
+    color: #000;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.41667em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.para-style-override {
+    display: block;
+    text-align: center;
+    margin: 0
+    }
+.paragraf {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.25;
+    margin-bottom: 0;
+    margin-left: 85px;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.paragraf1 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.25;
+    margin-bottom: 0;
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.paragraf2 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.25;
+    margin-bottom: 0;
+    margin-top: 10px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.paragraf3 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.25;
+    margin-bottom: 0;
+    margin-right: 80px;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.paragraf4 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.25;
+    margin-bottom: 0;
+    margin-right: 80px;
+    margin-top: 20px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 20px
+    }
+.paragraf5 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.25;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 20px;
+    margin: 0 200px 0 150px
+    }
+.paragraf6 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.25;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 20px;
+    margin: 0 200px 20px 150px
+    }
+.perde-yazar {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.41667em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.22;
+    margin-bottom: 0;
+    margin-top: 30px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0
+    }
+.perde-yazar1 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.41667em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.22;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.perde-yazar2 {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 1.41667em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.22;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0
+    }
+.resim {
+    color: #000;
+    display: block;
+    font-family: "Liberation Serif", serif;
+    font-size: 0.75em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.56;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }

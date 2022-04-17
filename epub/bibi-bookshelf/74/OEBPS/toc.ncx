@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="25a698e1-2996-4fc1-8169-d78eeb9af096" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>ISTANBUL BIR MASALDI</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>İstanbul Bir Masaldı</text>
+            </navLabel>
+            <content src="Text/1_split_001.html"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Öndeyi</text>
+            </navLabel>
+            <content src="Text/1_split_005.html"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Sığırcıklar</text>
+            </navLabel>
+            <content src="Text/1_split_007.html"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Kim, kimde, kim için kalmıştı?..</text>
+            </navLabel>
+            <content src="Text/1_split_010.html"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Masallar ve hatıralar</text>
+            </navLabel>
+            <content src="Text/1_split_012.html"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Sonsöz ya da bir veda mektubu[*]</text>
+            </navLabel>
+            <content src="Text/1_split_024.html"/>
+        </navPoint>
+    </navMap>
+</ncx>

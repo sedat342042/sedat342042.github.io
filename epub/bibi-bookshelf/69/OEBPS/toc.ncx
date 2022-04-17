@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Ölü bir yazardan sevgilerle</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Herkes için Kafka</text>
+			</navLabel>
+			<content src="Text/5-1.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Şipşakçılar için kısa bir Kafka profili</text>
+			</navLabel>
+			<content src="Text/5-2.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>“Galeride”</text>
+			</navLabel>
+			<content src="Text/5-3.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>“Hüküm”. Matmazel Felice B. için bir hikâye</text>
+			</navLabel>
+			<content src="Text/5-4.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>“Bir Kavganın Tasviri”. Kafka neden bir doğa şairi olamadı?</text>
+			</navLabel>
+			<content src="Text/5-5.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>“Dönüşüm”</text>
+			</navLabel>
+			<content src="Text/5-6.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>“Dönüşüm”e dair küçük interaktif alıştırmalar</text>
+			</navLabel>
+			<content src="Text/5-7.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>Not: “Dönüşüm”ün bilinmeyen mutlu sonu</text>
+			</navLabel>
+			<content src="Text/5-8.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>Amerika. Bir Amerikan yol filmi</text>
+			</navLabel>
+			<content src="Text/5-9.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>“Felice’ye Mektuplar”</text>
+			</navLabel>
+			<content src="Text/5-10.html#toc_marker-11"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>Dava. Bir polisiye komedi</text>
+			</navLabel>
+			<content src="Text/5-11.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>“Yasa Önünde”ye dair küçük interaktif alıştırmalar</text>
+			</navLabel>
+			<content src="Text/5-12.html#toc_marker-13"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>“Bir Taşra Hekimi”</text>
+			</navLabel>
+			<content src="Text/5-13.html#toc_marker-14"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>“Akademi İçin Bir Rapor”</text>
+			</navLabel>
+			<content src="Text/5-14.html#toc_marker-15"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>Hem iddia, hem karşı iddia. “Babaya Mektup”</text>
+			</navLabel>
+			<content src="Text/5-15.html#toc_marker-16"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>“Babaya Mektup”a dair küçük interaktif alıştırmalar</text>
+			</navLabel>
+			<content src="Text/5-16.html#toc_marker-17"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>Kafka’nın Günlükleri. 1910-1923 arasından yorumsuz bir otoportre</text>
+			</navLabel>
+			<content src="Text/5-17.html#toc_marker-18"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>“Milena’ya Mektuplar”</text>
+			</navLabel>
+			<content src="Text/5-18.html#toc_marker-19"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>Şato. Bir gotik roman</text>
+			</navLabel>
+			<content src="Text/5-19.html#toc_marker-20"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>Kafka ve bluzun gizemi</text>
+			</navLabel>
+			<content src="Text/5-20.html#toc_marker-21"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>“Bir Açlık Sanatçısı”. Bir sanat açlığı</text>
+			</navLabel>
+			<content src="Text/5-21.html#toc_marker-22"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>“Şarkıcı Josefine ya da Fare Halkı”</text>
+			</navLabel>
+			<content src="Text/5-22.html#toc_marker-23"/>
+		</navPoint>
+		<navPoint id="navpoint24" playOrder="24">
+			<navLabel>
+				<text>İstisnasız. Franz Kafka’nın son oyunları</text>
+			</navLabel>
+			<content src="Text/5-23.html#toc_marker-24"/>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>Gırtlak tüberkülozuyla boğuştuğu günlere dair hayali bir tutanak</text>
+			</navLabel>
+			<content src="Text/5-24.html#toc_marker-25"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>Kafka’nın mezar taşı yazısı</text>
+			</navLabel>
+			<content src="Text/5-25.html#toc_marker-26"/>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>Acelemiz olduğu için değinmeden geçtiklerimiz</text>
+			</navLabel>
+			<content src="Text/5-26.html#toc_marker-27"/>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>Son olarak, küçük bir Kafka sınavı</text>
+			</navLabel>
+			<content src="Text/5-27.html#toc_marker-28"/>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>Ekler</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-29"/>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>Kronoloji</text>
+				</navLabel>
+				<content src="Text/7.html#toc_marker-29-1"/>
+			</navPoint>
+			<navPoint id="navpoint31" playOrder="31">
+				<navLabel>
+					<text>Sinemaya uyarlanan eserleri</text>
+				</navLabel>
+				<content src="Text/8.html#toc_marker-29-2"/>
+			</navPoint>
+			<navPoint id="navpoint32" playOrder="32">
+				<navLabel>
+					<text>Kaynaklar</text>
+				</navLabel>
+				<content src="Text/9.html#toc_marker-29-3"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

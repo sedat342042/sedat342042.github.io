@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="637f62da-8c3a-42ca-9bd4-e8dd6cee65ca" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tragedyanın Doğuşu</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="3ac461e1-04d9-4b5a-8936-a55a332c487e" playOrder="1">
+      <navLabel>
+        <text>Bir Özeleştiri Denemesi</text>
+      </navLabel>
+      <content src="Tragedyanin Dogusu_split_003.html"/>
+    </navPoint>
+    <navPoint id="066b81a2-4e6d-4c90-9786-f7170c2af4f8" playOrder="2">
+      <navLabel>
+        <text>Richard Wagner'e Önsöz</text>
+      </navLabel>
+      <content src="Tragedyanin Dogusu_split_004.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

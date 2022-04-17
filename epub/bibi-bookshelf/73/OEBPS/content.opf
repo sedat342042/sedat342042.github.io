@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Levi, Mario">Mario Levi</dc:creator>
+<dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:ee54a23d-a0cf-4f6a-963b-d047af8c9438</dc:identifier>
+    <dc:date>2006-08-27T21:00:00+00:00</dc:date>
+    <meta name="cover" content="cover.jpeg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Şehre Gidememek, Bir"/>
+    <meta name="calibre:author_link_map" content="{&quot;Mario Levi&quot;: &quot;&quot;}"/>
+  <dc:title>Bir Şehre Gidememek</dc:title>
+<dc:publisher>Doğan Kitap</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Öykü</dc:subject>
+<dc:description>&lt;p&gt;Mario Levi'nin 1990 yılı Haldun Taner Öykü Ödülü'nü kazanan "Bir Şehre Gidememek" adlı öyküsünü içeren ve aynı adı taşıyan kitabı yeniden kitapçı raflarında yerini alıyor. Kitapta üç öykü ve onları birleştiren dördüncü öykü olarak nitelendirilebilecek anlatıcı ağzından bir metin yer alıyor. Levi'nin geçmişe yakın durduğu öyküler anlatıcının belleğinde ve kalbinde yer eden insanları anlatıyor: Gracinda, Tata Claire, Eşref Bey, Raşel, Mösyö Leibowitz, Sevil, Müesser Hanım ve başkaları... Geçmişten gelen biraz karanlık, biraz umutlu sesler... Kırık aşk hikayeleri, değişen ve hızla bozulan bir kentin profili, azınlıkta ve yalnız kalanlar, özlemler, hüzünler... İnsanı anlatan sağlam ve birbirine yakın öyküler... 
+
+Yazarın bu yeni basımı için yazdığı önsözde de belirttiği gibi birçok kişi için bir başucu kitabı haline geldi "Bir Şehre Gidememek". Levi'den okurlarına gönderilmiş hüzünlü, sararmış bir mektupla karşı karşıyayız... Yeni kuşaklar ve bu klasikleşmiş öykü kitabıyla tanışmamış olanlar için çok değerli ve geri çevrilemeyecek bir mektup...
+&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">79833ddf-93ac-4ef3-8b06-e1b4a6a96588</dc:identifier>
+<dc:identifier opf:scheme="ISBN">2789785860082</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BIR_SEHRE_GIDEMEMEK.xhtml" id="BIR_SEHRE_GIDEMEMEK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BIR_SEHRE_GIDEMEMEK-1.xhtml" id="BIR_SEHRE_GIDEMEMEK-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BIR_SEHRE_GIDEMEMEK-2.xhtml" id="BIR_SEHRE_GIDEMEMEK-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BIR_SEHRE_GIDEMEMEK-3.xhtml" id="BIR_SEHRE_GIDEMEMEK-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpeg" id="cover.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dklogo_fmt.jpeg" id="dklogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon2a_fmt.jpeg" id="icon2a_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/GillSans.ttc" id="GillSans.ttc" media-type="application/octet-stream"/>
+    <item href="Fonts/GillSans0001.ttc" id="GillSans0001.ttc" media-type="application/octet-stream"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="BIR_SEHRE_GIDEMEMEK.xhtml"/>
+    <itemref idref="BIR_SEHRE_GIDEMEMEK-1.xhtml"/>
+    <itemref idref="BIR_SEHRE_GIDEMEMEK-2.xhtml"/>
+    <itemref idref="BIR_SEHRE_GIDEMEMEK-3.xhtml"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

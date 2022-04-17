@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="c141b19a-b3da-4a06-8562-27a84cbf56f1" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Cardenio</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="05b8e5d2-fa45-4103-a1d9-ea35f16a4d20" playOrder="1">
+      <navLabel>
+        <text>Oyun Üzerine</text>
+      </navLabel>
+      <content src="Text/1_split_003.html"/>
+    </navPoint>
+    <navPoint id="b598ed8d-9fe4-46b1-87ba-260d026b7920" playOrder="2">
+      <navLabel>
+        <text>Kişiler</text>
+      </navLabel>
+      <content src="Text/1_split_004.html"/>
+    </navPoint>
+    <navPoint id="94300e44-d975-43f4-a77f-153dad5312ec" playOrder="3">
+      <navLabel>
+        <text>I. Perde</text>
+      </navLabel>
+      <content src="Text/1_split_005.html"/>
+      <navPoint id="d4b31659-f233-4256-b144-7aed3ba3cdb6" playOrder="4">
+        <navLabel>
+          <text>1. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_006.html"/>
+      </navPoint>
+      <navPoint id="d62ba7bd-96cf-459c-a042-63b1e4a239f5" playOrder="5">
+        <navLabel>
+          <text>2. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_007.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="bc6be053-7d55-4569-82c0-d3c42ac132ad" playOrder="6">
+      <navLabel>
+        <text>II. Perde</text>
+      </navLabel>
+      <content src="Text/1_split_008.html"/>
+      <navPoint id="9c1a3d37-c52b-42ab-bb98-6945f64c23a4" playOrder="7">
+        <navLabel>
+          <text>1. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_009.html"/>
+      </navPoint>
+      <navPoint id="83f604bb-19ce-4c50-9f45-9f5c7b37d5ac" playOrder="8">
+        <navLabel>
+          <text>2. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_010.html"/>
+      </navPoint>
+      <navPoint id="5ad5226b-a514-4f61-8b5e-323bc24e5157" playOrder="9">
+        <navLabel>
+          <text>3. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_011.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="07a67e03-4797-4ab5-8856-7c20fa850a83" playOrder="10">
+      <navLabel>
+        <text>III. Perde</text>
+      </navLabel>
+      <content src="Text/1_split_012.html"/>
+      <navPoint id="b430ef95-17d8-4f54-804e-a302902dc61b" playOrder="11">
+        <navLabel>
+          <text>1. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_013.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="6d8b0c99-0310-4478-9d3b-84fd1980bed4" playOrder="12">
+      <navLabel>
+        <text>IV. Perde</text>
+      </navLabel>
+      <content src="Text/1_split_014.html"/>
+      <navPoint id="eb62ad82-9512-44bd-a136-5a48564c8007" playOrder="13">
+        <navLabel>
+          <text>1. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_015.html"/>
+      </navPoint>
+      <navPoint id="0f6a59ac-dfb6-431b-b3b9-9fa7fc23244b" playOrder="14">
+        <navLabel>
+          <text>2. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_016.html"/>
+      </navPoint>
+      <navPoint id="0620641b-4d91-46cd-82c6-0b9c581787b9" playOrder="15">
+        <navLabel>
+          <text>3. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_017.html"/>
+      </navPoint>
+      <navPoint id="a40c2013-bf8e-4ac1-90c7-c9afa40281c9" playOrder="16">
+        <navLabel>
+          <text>4. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_018.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="9a3569bd-9679-4fcf-a168-745aea1b1fbe" playOrder="17">
+      <navLabel>
+        <text>V. Perde</text>
+      </navLabel>
+      <content src="Text/1_split_019.html"/>
+      <navPoint id="ce8dc670-c204-49d4-95cc-601b6f60de6c" playOrder="18">
+        <navLabel>
+          <text>1. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_020.html"/>
+      </navPoint>
+      <navPoint id="dafa1baa-3844-4470-8174-b943ad752d89" playOrder="19">
+        <navLabel>
+          <text>2. Sahne</text>
+        </navLabel>
+        <content src="Text/1_split_021.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

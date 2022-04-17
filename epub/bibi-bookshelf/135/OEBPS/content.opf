@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Poe, Edgar Allan">Edgar Allan Poe</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e5b14ec9-dc70-45ba-acae-47da537bc02d</dc:identifier>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">İş Bankası Kültür Yayınları</dc:publisher>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="1" name="calibre:series_index"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2011-02-01T12:29:29.258000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover"/>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2006-02-01T12:29:29.258000+00:00</dc:date>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-05-31</dc:date>
+  <dc:title>Dedektif Auguste Dupin Öyküleri</dc:title>
+<meta name="calibre:title_sort" content="Dedektif Auguste Dupin Öyküleri"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Öykü</dc:subject>
+<dc:description>&lt;p&gt;Edgar Allan Poe (1809-1849): Topu topu kırk yıl süren çalkantılı yaşantısına karşın, şiirleri, öyküleri ve denemeleriyle, çığır açıcı etkisini günümüzde de sürdüren en önemli 19. yüzyıl yazarlarındandır.
+
+
+Bu kitaptaysa; akıl yürütme ve çözümleme teknikleriyle, Poe'nun dünya edebiyatına armağan ettiği ilk dedektif Auguste Dupin ve onun üç sıradışı macerası yer almaktadır.&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Edgar Allan Poe&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">abb287d4-05af-44db-ba8f-a6c87cf55c70</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754588101</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arial.ttf" id="cid5" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbd.ttf" id="cid6" media-type="application/x-font-ttf"/>
+    <item href="Fonts/ariali.ttf" id="cid7" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbi.ttf" id="cid8" media-type="application/x-font-ttf"/>
+    <item href="Text/Poe_split_000.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_001.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_002.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_003.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_004.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_005.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_006.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

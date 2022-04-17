@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="bedf673b-5f32-4428-8593-485c510550e8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kerem ile Aslı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="a77b5258-879d-4694-823f-9b749ce64721" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/KeremAsli_split_003.html"/>
+    </navPoint>
+    <navPoint id="b0727bb5-3c7d-48ab-809a-adeb9b37bf11" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/KeremAsli_split_004.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

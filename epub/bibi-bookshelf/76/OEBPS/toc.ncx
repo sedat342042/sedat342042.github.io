@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:3fa9f389-5f8e-4b80-afd1-01136e8d1e46" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/Kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Mekanik Kalp</text>
+      </navLabel>
+      <content src="Text/KitapAdi.xhtml#sigil_toc_id_1"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Bir</text>
+        </navLabel>
+        <content src="Text/Bir.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>İki</text>
+        </navLabel>
+        <content src="Text/iki.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Üç</text>
+        </navLabel>
+        <content src="Text/Uc.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Dört</text>
+        </navLabel>
+        <content src="Text/Dort.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Beş</text>
+        </navLabel>
+        <content src="Text/Bes.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Altı</text>
+        </navLabel>
+        <content src="Text/Alti.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Yedi</text>
+        </navLabel>
+        <content src="Text/Yedi.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Sekiz</text>
+        </navLabel>
+        <content src="Text/Sekiz.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Dokuz</text>
+        </navLabel>
+        <content src="Text/Dokuz.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>On</text>
+        </navLabel>
+        <content src="Text/On.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>On Bir</text>
+        </navLabel>
+        <content src="Text/OnBir.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>On İki</text>
+        </navLabel>
+        <content src="Text/Oniki.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>On Üç</text>
+        </navLabel>
+        <content src="Text/Onuc.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>On Dört</text>
+        </navLabel>
+        <content src="Text/OnDort.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Son Söz</text>
+        </navLabel>
+        <content src="Text/Sonsoz.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/Tesekkur.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

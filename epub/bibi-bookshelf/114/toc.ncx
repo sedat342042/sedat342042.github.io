@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="4cf316b7-ff01-4a92-b8f5-07336c213243" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Son Ada</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Büyük Kapıdan Girmek...</text>
+      </navLabel>
+      <content src="OEBPS/4.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Son Ada</text>
+      </navLabel>
+      <content src="OEBPS/5.html"/>
+      <navPoint class="chapter" id="navpoint3" playOrder="3">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="OEBPS/5-1.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="OEBPS/5-2.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint5" playOrder="5">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="OEBPS/5-3.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="OEBPS/5-4.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="OEBPS/5-5.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="OEBPS/5-6.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="OEBPS/5-7.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="OEBPS/5-8.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="OEBPS/5-9.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>10</text>
+        </navLabel>
+        <content src="OEBPS/5-10.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint13" playOrder="13">
+        <navLabel>
+          <text>11</text>
+        </navLabel>
+        <content src="OEBPS/5-11.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>12</text>
+        </navLabel>
+        <content src="OEBPS/5-12.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>13</text>
+        </navLabel>
+        <content src="OEBPS/5-13.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint16" playOrder="16">
+        <navLabel>
+          <text>14</text>
+        </navLabel>
+        <content src="OEBPS/5-14.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>15</text>
+        </navLabel>
+        <content src="OEBPS/5-15.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint18" playOrder="18">
+        <navLabel>
+          <text>16</text>
+        </navLabel>
+        <content src="OEBPS/5-16.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint19" playOrder="19">
+        <navLabel>
+          <text>17</text>
+        </navLabel>
+        <content src="OEBPS/5-17.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>18</text>
+        </navLabel>
+        <content src="OEBPS/5-18.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>19</text>
+        </navLabel>
+        <content src="OEBPS/5-19.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navpoint22" playOrder="22">
+        <navLabel>
+          <text>20</text>
+        </navLabel>
+        <content src="OEBPS/5-20.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

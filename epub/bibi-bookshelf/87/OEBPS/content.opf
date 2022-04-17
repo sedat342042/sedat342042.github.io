@@ -1,0 +1,96 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Riordan, Rick">Rick Riordan</dc:creator>
+<meta content="Şimşek Hırsızı" name="calibre:title_sort"/>
+    <meta content="2012-08-14T08:07:41+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2006-08-14T08:07:41+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a432f263-e8b8-41d0-ad84-baa023479c44</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-06-27</dc:date>
+  <dc:title>Şimşek Hırsızı</dc:title>
+<dc:publisher>Doğan ve Egmont Yayıncılık</dc:publisher>
+<meta name="calibre:series" content="Percy Jackson ve Olimposlular"/>
+<meta name="calibre:series_index" content="1.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Mitoloji</dc:subject>
+<dc:subject>Çocuk</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Fantastik</dc:subject>
+<dc:description>&lt;p&gt;Bir gün birisi çıkıp size Antik Yunan tanrılarının hala hayatta olduklarını söylese ne yapardınız?
+Ya ailenizden birinin bu tanrılardan biri olduğunu öğrenseniz? Olağanüstü güçlere sahip olduğunuzun farkına varsanız? Bir de peşinize mitolojik efsanelerdeki canavarlar düşse? Ne yapardınız? Percy'nin yaptığını…&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Rick Riordan&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">97a56ada-959e-441a-92d1-4262bbd9615b</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786051110455</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image176.jpg" id="id1175" media-type="image/jpeg"/>
+    <item href="Images/image28.jpg" id="id1027" media-type="image/jpeg"/>
+    <item href="Images/image329.jpg" id="id1328" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section3.xhtml" id="Section3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section6.xhtml" id="Section6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section9.xhtml" id="Section9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section15.xhtml" id="Section15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section17.xhtml" id="Section17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section19.xhtml" id="Section19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section22.xhtml" id="Section22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/thx.xhtml" id="thx.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section1.xhtml" id="Section1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section2.xhtml" id="Section2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section4.xhtml" id="Section4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section5.xhtml" id="Section5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section7.xhtml" id="Section7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section8.xhtml" id="Section8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section16.xhtml" id="Section16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section21.xhtml" id="Section21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section10.xhtml" id="Section10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section11.xhtml" id="Section11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section12.xhtml" id="Section12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section13.xhtml" id="Section13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section14.xhtml" id="Section14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section20.xhtml" id="Section20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section18.xhtml" id="Section18.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section1.xhtml"/>
+    <itemref idref="Section2.xhtml"/>
+    <itemref idref="Section3.xhtml"/>
+    <itemref idref="Section4.xhtml"/>
+    <itemref idref="Section5.xhtml"/>
+    <itemref idref="Section6.xhtml"/>
+    <itemref idref="Section7.xhtml"/>
+    <itemref idref="Section8.xhtml"/>
+    <itemref idref="Section9.xhtml"/>
+    <itemref idref="Section10.xhtml"/>
+    <itemref idref="Section11.xhtml"/>
+    <itemref idref="Section12.xhtml"/>
+    <itemref idref="Section13.xhtml"/>
+    <itemref idref="Section14.xhtml"/>
+    <itemref idref="Section15.xhtml"/>
+    <itemref idref="Section16.xhtml"/>
+    <itemref idref="Section17.xhtml"/>
+    <itemref idref="Section18.xhtml"/>
+    <itemref idref="Section19.xhtml"/>
+    <itemref idref="Section20.xhtml"/>
+    <itemref idref="Section21.xhtml"/>
+    <itemref idref="Section22.xhtml"/>
+    <itemref idref="thx.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

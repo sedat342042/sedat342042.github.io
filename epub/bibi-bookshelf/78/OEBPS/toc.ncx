@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:c89c72e7-0025-45eb-8b54-511176854b19" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Yemek Sırları</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_002.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Ahmet Hakan</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_004.html" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Ahmet Ümit</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_006.html" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Ali Poyrazoğlu</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_008.html" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Ali Sabancı</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_010.html" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Ali Şen</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_012.html" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Arif Develi</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_014.html" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Arif Keskiner</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_016.html" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Artun Ünsal</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_018.html" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Aslıhan Sabancı</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_020.html" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Ayşe Arman</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_022.html" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Ayşe Sözeri Cemal</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_024.html" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Ayşegül Aldinç</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_026.html" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Ayşenur Arslan</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_028.html" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Berna Laçin</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_030.html" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Betül Mardin</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_032.html" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Beyti Güler</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_034.html" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Bingür Sönmez</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_036.html" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Can Bonomo</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_038.html" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Celal Çapa</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_040.html" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Celal Şengör</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_042.html" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Cem Yılmaz</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_044.html" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Cemil İpekçi</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_046.html" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Cüneyt Asan</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_048.html" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Demet Akbağ</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_050.html" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Deniz Seki</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_052.html" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Derya Baykal</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_054.html" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Dilek Hanif</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_056.html" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Doğan Hızlan</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_058.html" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Ebru Cündübeyoğlu</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_060.html" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Ece Aksoy</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_062.html" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Elif Şafak</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_064.html" />
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Emine Sabancı Kamışlı</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_066.html" />
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Erdil Yaşaroğlu</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_068.html" />
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Erol Evgin</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_070.html" />
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Fırat Tanış</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_072.html" />
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Filiz Akın</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_074.html" />
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Hakan Aysev</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_076.html" />
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Hülya Avşar</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_078.html" />
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Hülya Koçyiğit</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_080.html" />
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Hüsamettin Cindoruk</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_082.html" />
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Hüseyin Avni Mutlu</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_084.html" />
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Hüsnü Özyeğin</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_086.html" />
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Işın Karaca</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_088.html" />
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>İdil Biret</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_090.html" />
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>İvana Sert</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_092.html" />
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Kadir Topbaş</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_094.html" />
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Kayahan</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_096.html" />
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Kıraç</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_098.html" />
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Kibariye</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_100.html" />
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Latif Demirci</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_102.html" />
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Leman Sam</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_104.html" />
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Levent Kırca</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_106.html" />
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Mehmet Ali Birand</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_108.html" />
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Mehmet Gürs</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_110.html" />
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Meral Okay</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_112.html" />
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Mesut Yar</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_114.html" />
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Metin Akpınar</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_116.html" />
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Musa Dağdeviren</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_118.html" />
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Mustafa Denizli</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_120.html" />
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Mustafa Süzer</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_122.html" />
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Müjdat Gezen</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_124.html" />
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Nazlı Ilıcak</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_126.html" />
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Nevzat Aydın</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_128.html" />
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Orhan Gencebay</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_130.html" />
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Özge Uzun</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_132.html" />
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Saba Tümer</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_134.html" />
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Sadettin Cesur</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_136.html" />
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Sahrap Soysal</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_138.html" />
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Selçuk Yöntem</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_140.html" />
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Selim İleri</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_142.html" />
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Serra Yılmaz</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_144.html" />
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Seyfi Dursunoğlu</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_146.html" />
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Şevval Sam</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_148.html" />
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Tuncel Kurtiz</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_150.html" />
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Tülin Şahin</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_152.html" />
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>Vahide Gördüm</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_154.html" />
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Vedat Başaran</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_156.html" />
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Yasemin Alkaya</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_158.html" />
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>Yıldız Kenter</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_160.html" />
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>Yılmaz Özdil</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_162.html" />
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>Zülfü Livaneli</text>
+      </navLabel>
+      <content src="Text/yemeksirlari_split_164.html" />
+    </navPoint>
+  </navMap>
+</ncx>

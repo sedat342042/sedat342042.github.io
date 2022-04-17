@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="18d68751-44c1-4b10-b73e-f3c23bb53aca" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bilimler ve Sanatlar Üstüne Söylev</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="2aea274b-c3a5-405e-9684-3da0d59651fb" playOrder="1">
+      <navLabel>
+        <text>Rousseau ve Söylev’i</text>
+      </navLabel>
+      <content src="Text/russo_split_003.html"/>
+    </navPoint>
+    <navPoint id="a13619f9-02de-4979-880e-89c248099b07" playOrder="2">
+      <navLabel>
+        <text>Açıklama</text>
+      </navLabel>
+      <content src="Text/russo_split_004.html"/>
+    </navPoint>
+    <navPoint id="6131b18c-d923-4a0f-96ba-4782cfd4cda4" playOrder="3">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/russo_split_005.html"/>
+    </navPoint>
+    <navPoint id="f4bf12fb-e489-4622-8dd6-ef7fc3cf0abf" playOrder="4">
+      <navLabel>
+        <text>Söylev</text>
+      </navLabel>
+      <content src="Text/russo_split_006.html"/>
+      <navPoint id="d7540afe-6871-4bf6-bb5f-ac5a6fa458e7" playOrder="5">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/russo_split_007.html"/>
+      </navPoint>
+      <navPoint id="ed344dc5-c7c5-4281-b914-32f325db6d67" playOrder="6">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/russo_split_008.html"/>
+      </navPoint>
+      <navPoint id="0ae6d148-ce17-4433-8d1a-48cd80a3df80" playOrder="7">
+        <navLabel>
+          <text>EK: İLİMLER VE SANATLAR HAKKINDA NUTUK</text>
+        </navLabel>
+        <content src="Text/russo_split_009.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="9ceefcf3-27e4-4ff9-9c73-f4d59811a426" playOrder="8">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/russo_split_010.html"/>
+    </navPoint>
+    <navPoint id="b78b5c40-fc26-4970-a09a-ece152e85db9" playOrder="9">
+      <navLabel>
+        <text>Nutuk</text>
+      </navLabel>
+      <content src="Text/russo_split_011.html"/>
+      <navPoint id="2dc7755c-2933-42d0-85be-b667f0cacfe0" playOrder="10">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="Text/russo_split_012.html"/>
+      </navPoint>
+      <navPoint id="0deae5df-484d-4864-979b-82e386515f3f" playOrder="11">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="Text/russo_split_013.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

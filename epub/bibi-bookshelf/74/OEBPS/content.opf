@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Levi, Mario" opf:role="aut">Mario Levi</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:25a698e1-2996-4fc1-8169-d78eeb9af096</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2014-02-11T22:00:00+00:00</dc:date>
+    <meta name="cover" content="_cover.jpeg" />
+    <meta content="0.7.2" name="Sigil version" />
+    <meta content="İstanbul Bir Masaldı" name="calibre:title_sort" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Mario Levi&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:title>İstanbul Bir Masaldı</dc:title>
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Orijinal</dc:subject>
+    <dc:subject>Tarih</dc:subject>
+    <dc:subject>Yaşam</dc:subject>
+    <dc:description>&lt;p&gt;Masal 1920`li yılların İstanbul`unda başlayıp, 60`lı yılların İstanbul`unda bitiyor. Mario Levi bir Yahudi ailesinin, 1920-1980 yılları arasında İstanbul`da yaşadıklarını kaleme alıyor. Ailede yaşanan göçler, aileye başka ülkelerden katılanlar, başka ülkelere göç edenler, "İstanbul Bir Masaldı" göçlerle birlikte başka bir ülkeyi, daha da önemlisi kendi ülkesini arama çabasındaki insanların öyküsü. Tam da bu sebeple kitabın asıl kahramanı İSTANBUL, barındırdığı ve yok ettiği "umutlar"la İstanbul. 2000 yılında Yunus Nadi Roman Ödülü`nü alan "İstanbul Bir Masaldı", 1999 yılında ilk yayımlandığında büyük ilgi görmüştü. "İstanbul Bir Masaldı" için şöyle diyor Levi: "İsteyen, bildiklerini yeniden görmek için, kitabın başındaki "sığırcıklar"bölümünü okumakla yetinebilir... Başkalarını anlamak için bu çaba da yeterli olabilir. Ama kronolojik olarak baştan sona okuduğunuzda farklı bölümlerde, herkes kendine farklı bir öykü de oluşturabilir."&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">23b39bda-17d4-4464-bf54-c3a6667fc34a</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051110974</dc:identifier>
+    <meta content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB,MOBI&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}" name="calibre:user_metadata:#formats" />
+    <dc:date opf:event="modification">2014-02-25</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Images/1.jpeg" id="x1.jpeg" media-type="image/jpeg" />
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg" />
+    <item href="Images/_cover.jpeg" id="_cover.jpeg" media-type="image/jpeg" />
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Text/1_split_000.html" id="x1_split_000.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_001.html" id="x1_split_001.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_002.html" id="x1_split_002.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_003.html" id="x1_split_003.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_004.html" id="x1_split_004.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_005.html" id="x1_split_005.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_006.html" id="x1_split_006.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_007.html" id="x1_split_007.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_008.html" id="x1_split_008.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_009.html" id="x1_split_009.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_010.html" id="x1_split_010.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_011.html" id="x1_split_011.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_012.html" id="x1_split_012.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_013.html" id="x1_split_013.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_014.html" id="x1_split_014.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_015.html" id="x1_split_015.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_016.html" id="x1_split_016.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_017.html" id="x1_split_017.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_018.html" id="x1_split_018.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_019.html" id="x1_split_019.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_022.html" id="x1_split_022.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_023.html" id="x1_split_023.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_024.html" id="x1_split_024.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_025.html" id="x1_split_025.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_026.html" id="x1_split_026.html" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_027.html" id="x1_split_027.html" media-type="application/xhtml+xml" />
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/1_split_020.html" id="x1_split_020.html" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.xhtml" />
+    <itemref idref="x1_split_000.html" />
+    <itemref idref="x1_split_001.html" />
+    <itemref idref="x1_split_002.html" />
+    <itemref idref="x1_split_003.html" />
+    <itemref idref="x1_split_004.html" />
+    <itemref idref="x1_split_005.html" />
+    <itemref idref="x1_split_006.html" />
+    <itemref idref="x1_split_007.html" />
+    <itemref idref="x1_split_008.html" />
+    <itemref idref="x1_split_009.html" />
+    <itemref idref="x1_split_010.html" />
+    <itemref idref="x1_split_011.html" />
+    <itemref idref="x1_split_012.html" />
+    <itemref idref="x1_split_013.html" />
+    <itemref idref="x1_split_014.html" />
+    <itemref idref="x1_split_015.html" />
+    <itemref idref="x1_split_016.html" />
+    <itemref idref="x1_split_017.html" />
+    <itemref idref="x1_split_018.html" />
+    <itemref idref="x1_split_019.html" />
+    <itemref idref="x1_split_020.html" />
+    <itemref idref="Section0001.html" />
+    <itemref idref="x1_split_022.html" />
+    <itemref idref="x1_split_023.html" />
+    <itemref idref="x1_split_024.html" />
+    <itemref idref="x1_split_025.html" />
+    <itemref idref="x1_split_026.html" />
+    <itemref idref="x1_split_027.html" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

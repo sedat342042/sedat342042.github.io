@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="ee54a23d-a0cf-4f6a-963b-d047af8c9438" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Bir Şehre Gidememek</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Dokuzuncu baskıya önsöz</text>
+            </navLabel>
+            <content src="Text/BIR_SEHRE_GIDEMEMEK.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Bir Şehre Gidememek</text>
+            </navLabel>
+            <content src="Text/BIR_SEHRE_GIDEMEMEK-1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Hüzünler Yürürlüktedir</text>
+            </navLabel>
+            <content src="Text/BIR_SEHRE_GIDEMEMEK-2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Mevsimlerin Durduramadığı</text>
+            </navLabel>
+            <content src="Text/BIR_SEHRE_GIDEMEMEK-3.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

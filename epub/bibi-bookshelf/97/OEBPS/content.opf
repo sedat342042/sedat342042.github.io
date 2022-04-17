@@ -1,0 +1,100 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Akyol, Taha">Taha Akyol</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b892644f-1313-4e52-b3ee-97316a6b4dbb</dc:identifier>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2010-04-29T21:00:00+00:00</dc:date>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover.jpeg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Mezhep ve Devlet" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{}" name="calibre:user_categories"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Taha Akyol&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  <dc:title>Mezhep ve Devlet</dc:title>
+<dc:publisher>Doğan Kitap</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>İnceleme</dc:subject>
+<dc:subject>Araştırma</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<dc:description>&lt;p&gt;Taha Akyol salt gazeteci yazar olarak değil, tarihsel ve sosyolojik perspektiflerden bakarak derinlikli tahliller ve ciddi yorumlar yapmaktadır... Türkiye'de akademik tarihçiliğin ne yazık ki boş bıraktığı önemli bir alanda, İran'da Şiiliğin, Osmanlı'da Sünniliğin nasıl bir tarihsel süreçte ve hangi şartların sevkiyle devlet ideolojisi olarak işlendiğini, bunun kurumsal ve siyasi tezahürlerini dikkatle ve isabetle ortaya koymaktadır. 
+Prof. Dr. Ahmet Yaşar OCAK
+
+İran ile Türkiye hiç benzemiyor. Ne geçmişte benziyordu ne de bugün... 
+Bu gerçeği kavramakta zorluk çekenlerin Taha Akyol'un bu kitabını dikkatle okumalarının tam zamanıdır... 
+Ahmet Taner KIŞLALI, Cumhuriyet
+
+Taha Akyol'un Osmanlı'da ve İran'da Mezhep ve Devlet adlı ufuk açıcı kitabı... Altına imzamı atacağım görüşlerdir. 
+Beşir AYVAZOĞLU, Zaman
+
+Taha Akyol'un Osmanlı'da ve İran'da Mezhep ve Devlet kitabı, her bölümüyle ayrı bir master çalışması, hatta tez... 
+Güneri CIVAOĞLU, Milliyet
+
+Taha Akyol tarihin derinliklerine inerek, iki ülke arasındaki farkların niye Türkiye'de laik cumhuriyete, İran'da teokratik cumhuriyete yol açtığını anlatıyor... 
+Hasan CEMAL, Milliyet
+
+Elimde harika bir kitap var: Taha Akyol'un Osmanlı'da ve İran'da Mezhep ve 
+Devlet adlı çalışması... Kendisi Türkiye'nin yetiştirdiği ender ciddi ve
+bilimsel yazılar yazan bir düşünür.
+Serdar TURGUT, Hürriyet&lt;/p&gt;</dc:description>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8f7e2743-73f5-42e9-baea-a90cfb8b0d04</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786051117911</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpeg" id="cover.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF.xhtml" id="ITHAF.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_000.xhtml" id="MEHZEP_VE_DEVLET_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_001.xhtml" id="MEHZEP_VE_DEVLET_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_002.xhtml" id="MEHZEP_VE_DEVLET_split_002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_003.xhtml" id="MEHZEP_VE_DEVLET_split_003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_004.xhtml" id="MEHZEP_VE_DEVLET_split_004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_005.xhtml" id="MEHZEP_VE_DEVLET_split_005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_006.xhtml" id="MEHZEP_VE_DEVLET_split_006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_007.xhtml" id="MEHZEP_VE_DEVLET_split_007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_008.xhtml" id="MEHZEP_VE_DEVLET_split_008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_009.xhtml" id="MEHZEP_VE_DEVLET_split_009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_010.xhtml" id="MEHZEP_VE_DEVLET_split_010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_011.xhtml" id="MEHZEP_VE_DEVLET_split_011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_012.xhtml" id="MEHZEP_VE_DEVLET_split_012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_013.xhtml" id="MEHZEP_VE_DEVLET_split_013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_014.xhtml" id="MEHZEP_VE_DEVLET_split_014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MEHZEP_VE_DEVLET_split_015.xhtml" id="MEHZEP_VE_DEVLET_split_015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="ITHAF.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_000.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_001.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_002.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_003.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_004.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_005.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_006.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_007.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_008.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_009.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_010.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_011.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_012.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_013.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_014.xhtml"/>
+    <itemref idref="MEHZEP_VE_DEVLET_split_015.xhtml"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

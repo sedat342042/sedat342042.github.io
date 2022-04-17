@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Mahrem</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/KUNYE.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/GIRIS.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/ITHAF.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Bir</text>
+      </navLabel>
+      <content src="Text/BIR.html"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Pera-1885</text>
+        </navLabel>
+        <content src="Text/BIR-1.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Sibirya-1648</text>
+        </navLabel>
+        <content src="Text/BIR-2.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Pera-1885</text>
+        </navLabel>
+        <content src="Text/BIR-3.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>İstanbul-1999</text>
+        </navLabel>
+        <content src="Text/BIR-4.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>İki</text>
+      </navLabel>
+      <content src="Text/IKI.html"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Pera-1885</text>
+        </navLabel>
+        <content src="Text/IKI-1.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Fransa-1868</text>
+        </navLabel>
+        <content src="Text/IKI-2.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Pera-1885</text>
+        </navLabel>
+        <content src="Text/IKI-3.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>İstanbul-1999</text>
+        </navLabel>
+        <content src="Text/IKI-4.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Üç</text>
+      </navLabel>
+      <content src="Text/UC.html"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>İstanbul-1980</text>
+        </navLabel>
+        <content src="Text/UC-1.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>İstanbul-1999</text>
+        </navLabel>
+        <content src="Text/UC-2.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Söyleşi</text>
+      </navLabel>
+      <content src="Text/EK.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

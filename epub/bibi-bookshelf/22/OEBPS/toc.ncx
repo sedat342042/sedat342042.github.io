@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:8328f9fc-7656-485c-8599-e3ade8ad43e6" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Hayalet Yazılar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Hayalet Yazılar</text>
+      </navLabel>
+      <content src="Text/dmhy2.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Yayınevi</text>
+      </navLabel>
+      <content src="Text/dmhy3.html" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Hayalet Yazılar</text>
+      </navLabel>
+      <content src="Text/dmhy4.html" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Okinawa</text>
+      </navLabel>
+      <content src="Text/dmhy5.html" />
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/dmhy6.html" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/dmhy7.html" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/dmhy8.html" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/dmhy9.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Tokyo</text>
+      </navLabel>
+      <content src="Text/dmhy10.html" />
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/dmhy11.html" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/dmhy12.html" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/dmhy13.html" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/dmhy14.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Hong Kong</text>
+      </navLabel>
+      <content src="Text/dmhy15.html" />
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/dmhy16.html" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/dmhy17.html" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/dmhy18.html" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/dmhy19.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Kutsal Dağ</text>
+      </navLabel>
+      <content src="Text/dmhy20.html" />
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/dmhy21.html" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/dmhy22.html" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/dmhy25.html" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/dmhy23.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Moğolistan</text>
+      </navLabel>
+      <content src="Text/dmhy24.html" />
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/dmhy26.html" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/dmhy27.html" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/dmhy28.html" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/dmhy29.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Petersburg</text>
+      </navLabel>
+      <content src="Text/dmhy30.html" />
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/dmhy31.html" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/dmhy32.html" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/dmhy33.html" />
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/dmhy34.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Londra</text>
+      </navLabel>
+      <content src="Text/dmhy35.html" />
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/dmhy36.html" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/dmhy37.html" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/dmhy38.html" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/dmhy39.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Clear Adası</text>
+      </navLabel>
+      <content src="Text/dmhy40.html" />
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/dmhy41.html" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/dmhy42.html" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/dmhy43.html" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/dmhy44.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Gece Treni</text>
+      </navLabel>
+      <content src="Text/dmhy45.html" />
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/dmhy46.html" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/dmhy47.html" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/dmhy48.html" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/dmhy49.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Yeraltı</text>
+      </navLabel>
+      <content src="Text/dmhy50.html" />
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/dmhy51.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/dmhy52.html" />
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/dmhy53.html" />
+    </navPoint>
+  </navMap>
+</ncx>

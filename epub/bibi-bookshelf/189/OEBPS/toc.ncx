@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="758b2e99-1750-438c-8662-cb1c3f6bb666" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>FRAGMANLAR</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="4667388c-6414-4db0-83a6-ceda3380cbaa" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/fragman_split_003.html"/>
+    </navPoint>
+    <navPoint id="a2eac119-1c1e-4c0c-88ac-a3b495dc8129" playOrder="2">
+      <navLabel>
+        <text>Sappho Üzerine</text>
+      </navLabel>
+      <content src="Text/fragman_split_004.html"/>
+    </navPoint>
+    <navPoint id="fc985070-bf48-4a63-977b-25b1d174fe93" playOrder="3">
+      <navLabel>
+        <text>FRAGMANLAR [2]</text>
+      </navLabel>
+      <content src="Text/fragman_split_005.html"/>
+    </navPoint>
+    <navPoint id="f337ed57-8916-4753-b19f-236932d7eb3a" playOrder="4">
+      <navLabel>
+        <text>EKLER</text>
+      </navLabel>
+      <content src="Text/fragman_split_084.html"/>
+    </navPoint>
+    <navPoint id="cf833deb-48b4-45d4-846b-b104e687d2d6" playOrder="5">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="Text/fragman_split_085.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

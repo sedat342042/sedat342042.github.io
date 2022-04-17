@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Murakami, Haruki">Haruki Murakami</dc:creator>
+<dc:identifier id="uuid">{6DD0C5D0-80BA-4D48-8CF5-605A7FB04AC7}</dc:identifier>
+    <dc:date>2013-04-21T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="A9RB58C.jpg"/>
+  <dc:title>Koşmasaydım Yazamazdım</dc:title>
+<meta name="calibre:title_sort" content="Koşmasaydım Yazamazdım"/>
+<dc:publisher>Doğan Kitap</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Anı</dc:subject>
+<dc:subject>Biyografi</dc:subject>
+<dc:description>&lt;p&gt;Haruki Murakami'den bir tutku olarak koşmak ve bu tutkuyla terbiye edilen yazma eylemi üzerine eşsiz bir metin...
+
+"Murakami Bey, insan sizin gibi sağlıklı bir yaşam sürünce zamanla roman yazamaz hale gelmez mi?"
+
+Arada sırada insanlar bu soruyu sorar bana. Roman yazmak, sağlıksız bir eylem; yazar olan kişi de sağlıklı olmak dediğimiz çemberden uzak bir yerde, mümkün olduğunca sağlıklı denemeyecek bir yaşam sürmek zorundaymış gibi. 
+
+Biz roman yazmaya çalıştığımızda, insanlığın temelinde bulunan zehir gibi bir şeyi istemesek de çekip çıkarır, görünür kılarız. Yazarlar az çok bu zehre maruz kalır. Bu zehir işin içine girmediği sürece, gerçek anlamda yaratıcılık eylemi ortaya konulamaz çünkü (tuhaf bir benzetmeyle söyleyeceğim ama balonbalığının zehirli kısmının aynı zamanda en lezzetli kısmı olmasıyla tıpatıp benzeyen bir durum galiba). Ama gerçekten sağlıksız olan şeylerle uğraşmak için insan mümkün olduğunca sağlıklı olmak zorundadır. Bu, benim tezim. Yani sağlıksız bir ruh bile, yine sağlıklı bir vücuda gereksinim duyar. İşte bu yüzden, böyle biri sanatçı olamaz, dense bile ben koşmaya devam ediyorum.
+
+Haruki Murakami'den bir tutku olarak koşmak ve bu tutkuyla terbiye edilen yazma eylemi üzerine eşsiz bir metin... Koşmasaydım Yazamazdım kendini "utangaç biri" olarak tanımlayan yazarın belki de en kişisel kitabı.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Haruki Murakami&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">75aff840-694b-41db-aa35-c0ccf3d76bf7</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786050917703</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/A9RB58C.jpg" id="A9RB58C.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="main-2.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

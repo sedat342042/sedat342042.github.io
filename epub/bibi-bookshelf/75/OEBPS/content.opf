@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:a9357679-55e3-4c98-b370-607a982a382a</dc:identifier>
+    <dc:creator opf:file-as="Levi, Mario" opf:role="aut" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">Mario Levi</dc:creator>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Doğan Kitap</dc:publisher>
+    <meta name="cover" content="_cover.jpeg" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="0.7.4" name="Sigil version" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="Lunapark Kapandı" name="calibre:title_sort" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="{}" name="calibre:user_categories" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="{&quot;Mario Levi&quot;: &quot;&quot;}" name="calibre:author_link_map" xmlns="http://www.idpf.org/2007/opf" />
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-02-11T22:00:00+00:00</dc:date>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Lunapark Kapandı</dc:title>
+    <meta content="10.0" name="calibre:rating" xmlns="http://www.idpf.org/2007/opf" />
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Orijinal</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Yaşam</dc:subject>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;"Sen sadece duyduklarım karşısında sağır kalarak değil, bir başkasını seçerek ve aramıza bir başka odayı koyarak, benden o kadar değerli bir şeyi koparıp onlara götürdün ki, yıllardır acısını duymadığım bir yarayı öylesine kanattın ki! (...) İçimden götürdüğüm ve bana artık asla geri veremeyeceğin parçam, benim zaferimdi, en nihayet yaşayabildiğim zaferimdi İnci. Bu zafer gücünü, bir kadının bana tutkuyla bağlanmasından alıyordu. (...) O yaralı çocuklar, yaralarını kurmak istedikleri ailelere isteseler de istemeseler de taşırlardı hep. O yaralı çocuklar, sadece yaralı aileler kurabilirlerdi... Bir kaderdi bu sanki..." Hayalleri, masalları ve yenilgileri olmayan insan, yaşadığını söyleyebilir mi? Ya o tutku ilişkileri? Bizi bir yerlere götüreceğine hep inanmak istediğimiz, o aşklar, o sevgililer? İlişkilerimizde duvarlar ören ve bunu bize hissettiren kimdir aslında? Kendini kazanmanın bedeli, birilerini kaybetmeyi göze almak mı? O hayalleri yolun neresinde yitiriyoruz? Lunapark Kapandı, bu sorulara yanıtlar arayanların, diğer yandan da gidenlerin, gitmeyi bilenlerin ve hep aynı yerde kalanların, kendilerini bir odaya tutsak edenlerin hikayesi... Geriye, bir düzen kurduklarına inananların, oyunlarına sığınanların hayatın neresinde olduklarını sormak kalıyor... Ve roman bir gerçeği gösteriyor: bu yalanlarımızla o kadar kalabalığız ki aslında...&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">tr</dc:language>
+    <dc:identifier opf:scheme="calibre" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">5d878fc1-84af-4f9e-95de-9cfc5a8d5871</dc:identifier>
+    <dc:identifier opf:scheme="ISBN" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">9786051115511</dc:identifier>
+    <meta content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB,MOBI&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}" name="calibre:user_metadata:#formats" xmlns="http://www.idpf.org/2007/opf" />
+    <dc:date opf:event="modification" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">2014-02-16</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="LiberationSerif-Regular.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/arial.ttf" id="arial.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/arialbd.ttf" id="arialbd.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/arialbi.ttf" id="arialbi.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/ariali.ttf" id="ariali.ttf" media-type="application/x-font-ttf" />
+    <item href="Images/1.jpeg" id="x1.jpeg" media-type="image/jpeg" />
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg" />
+    <item href="Images/_cover.jpeg" id="_cover.jpeg" media-type="image/jpeg" />
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Text/luna_split_000.html" id="luna_split_000.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_001.html" id="luna_split_001.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_002.html" id="luna_split_002.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_003.html" id="luna_split_003.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_004.html" id="luna_split_004.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_005.html" id="luna_split_005.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_006.html" id="luna_split_006.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_007.html" id="luna_split_007.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_008.html" id="luna_split_008.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_009.html" id="luna_split_009.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_010.html" id="luna_split_010.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_011.html" id="luna_split_011.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_012.html" id="luna_split_012.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_013.html" id="luna_split_013.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_014.html" id="luna_split_014.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_015.html" id="luna_split_015.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_016.html" id="luna_split_016.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_017.html" id="luna_split_017.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_018.html" id="luna_split_018.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_019.html" id="luna_split_019.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_020.html" id="luna_split_020.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_021.html" id="luna_split_021.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_022.html" id="luna_split_022.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_023.html" id="luna_split_023.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_024.html" id="luna_split_024.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_025.html" id="luna_split_025.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_026.html" id="luna_split_026.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_027.html" id="luna_split_027.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_028.html" id="luna_split_028.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_029.html" id="luna_split_029.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_030.html" id="luna_split_030.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_031.html" id="luna_split_031.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_032.html" id="luna_split_032.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_033.html" id="luna_split_033.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_034.html" id="luna_split_034.html" media-type="application/xhtml+xml" />
+    <item href="Text/luna_split_035.html" id="luna_split_035.html" media-type="application/xhtml+xml" />
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.xhtml" />
+    <itemref idref="luna_split_000.html" />
+    <itemref idref="luna_split_001.html" />
+    <itemref idref="luna_split_002.html" />
+    <itemref idref="luna_split_003.html" />
+    <itemref idref="luna_split_004.html" />
+    <itemref idref="luna_split_005.html" />
+    <itemref idref="luna_split_006.html" />
+    <itemref idref="luna_split_007.html" />
+    <itemref idref="luna_split_008.html" />
+    <itemref idref="luna_split_009.html" />
+    <itemref idref="luna_split_010.html" />
+    <itemref idref="luna_split_011.html" />
+    <itemref idref="luna_split_012.html" />
+    <itemref idref="luna_split_013.html" />
+    <itemref idref="luna_split_014.html" />
+    <itemref idref="luna_split_015.html" />
+    <itemref idref="luna_split_016.html" />
+    <itemref idref="luna_split_017.html" />
+    <itemref idref="luna_split_018.html" />
+    <itemref idref="luna_split_019.html" />
+    <itemref idref="luna_split_020.html" />
+    <itemref idref="luna_split_021.html" />
+    <itemref idref="luna_split_022.html" />
+    <itemref idref="luna_split_023.html" />
+    <itemref idref="luna_split_024.html" />
+    <itemref idref="luna_split_025.html" />
+    <itemref idref="luna_split_026.html" />
+    <itemref idref="luna_split_027.html" />
+    <itemref idref="luna_split_028.html" />
+    <itemref idref="luna_split_029.html" />
+    <itemref idref="luna_split_030.html" />
+    <itemref idref="luna_split_031.html" />
+    <itemref idref="luna_split_032.html" />
+    <itemref idref="luna_split_033.html" />
+    <itemref idref="luna_split_034.html" />
+    <itemref idref="luna_split_035.html" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" xmlns="http://www.idpf.org/2007/opf" />
+  </guide>
+</package>

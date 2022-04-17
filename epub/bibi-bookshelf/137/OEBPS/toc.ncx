@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="8abdd9b4-4a6b-4e51-aee4-9ed429e1d15a" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>BAKKHALAR</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="77c63ddd-9107-4256-852f-3c98d0667adf" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/bakkhalar_split_003.html"/>
+    </navPoint>
+    <navPoint id="2ccb4b15-90d2-430b-b832-fb9dc9b827ec" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/bakkhalar_split_004.html"/>
+      <navPoint id="78edd716-bbc3-4cd5-bb24-2202e990dfa0" playOrder="3">
+        <navLabel>
+          <text>I Dionysos Dini</text>
+        </navLabel>
+        <content src="Text/bakkhalar_split_005.html"/>
+      </navPoint>
+      <navPoint id="05f13d9c-4e1a-45ea-ab9c-3c514086b3b2" playOrder="4">
+        <navLabel>
+          <text>II Bakkhalar Tragedyası</text>
+        </navLabel>
+        <content src="Text/bakkhalar_split_006.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="855e9c58-f92f-41d7-b392-d3f7a9f3af48" playOrder="5">
+      <navLabel>
+        <text>BAKKHALAR</text>
+      </navLabel>
+      <content src="Text/bakkhalar_split_007.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

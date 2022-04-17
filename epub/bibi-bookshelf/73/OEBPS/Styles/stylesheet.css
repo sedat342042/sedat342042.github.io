@@ -1,0 +1,459 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.bolum-ad {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 1.08em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.bolum-ad-alta-yak-n {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.08em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.08em;
+    margin-right: 0.08em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0.38em
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.calibre2 {
+    display: block
+    }
+.dar-parag-alt-sagdan-blok-isim {
+    color: #000;
+    font-family: "Helvetica Neue LT Std";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.dar-paragraf {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.85em;
+    margin-left: 1.7em;
+    margin-right: 1.7em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.dar-paragraf-aral-kl {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 1.13em;
+    margin-left: 1.7em;
+    margin-right: 1.7em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.dar-paragraf-italik {
+    color: #000;
+    font-family: "Serif6 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.dar-paragraf-yak-n-sat-rlar {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 1.7em;
+    margin-right: 1.7em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.dar-paragraf1 {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.85em;
+    margin-left: 1.7em;
+    margin-right: 1.7em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.dk-logo {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.5em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.16em;
+    margin-right: 0.16em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0.79em
+    }
+.duyuru {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.duyuru-ba-l-k {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.duyuru-ba-l-k1 {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.94em;
+    margin-left: 0.24em;
+    margin-right: 0.24em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 1.18em
+    }
+.duz-yaz {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.duz-yaz-ilk-paragraf {
+    color: #000;
+    display: block;
+    font-family: "Serif6 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.81em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-yaz-ilk-paragraf1 {
+    color: #000;
+    display: block;
+    font-family: "Serif6 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.81em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-yaz-sagdan-blok {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.81em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-yaz1 {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.81em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.generated-style {
+    display: block
+    }
+.generated-style1 {
+    height: auto;
+    width: auto
+    }
+.ikon {
+    color: #000;
+    display: block;
+    font-family: "Helvetica Neue LT Std";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 2.83em;
+    margin-left: 1.7em;
+    margin-right: 1.7em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.italik-yaz {
+    color: #000;
+    font-family: "Serif6 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.k-nye-bold {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.79em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.k-nye-regular {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.79em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.kitap-ismi {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kitap-ismi-2-son {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.43em;
+    margin-bottom: 2.02em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 1.01em
+    }
+.kitap-ismi1 {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.92em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.kitap-ismi2 {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 1.42em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.29em;
+    text-decoration: none
+    }
+.kunye-yeni-madde {
+    color: #000;
+    display: block;
+    font-family: "Gill Sans";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kunye-yeni-madde-devam {
+    color: #000;
+    display: block;
+    font-family: "Gill Sans";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.sgc {
+    height: 100%;
+    width: 100%
+    }
+.x-iir-d-rtl-k-genel-tab {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 8.5em;
+    margin-right: 1.7em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.x-iir-d-rtl-k-genel-tab-son {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 1.7em;
+    margin-left: 8.5em;
+    margin-right: 1.7em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.x-nokta {
+    color: #000;
+    display: block;
+    font-family: "ITC Century";
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 2.36em;
+    margin-left: 0.24em;
+    margin-right: 0.24em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 1.18em
+    }
+.yazar-ismi {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 6.07em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 1.01em
+    }
+.yazar-ismi1 {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }

@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="AWP-1DB138BE-50DE-4166-BF68-205078391F76" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Resmigeçit</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>Birinci bölüm</text>
+</navLabel>
+<content src="Text/007.html"/>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>1</text>
+</navLabel>
+<content src="Text/008.html"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>2</text>
+</navLabel>
+<content src="Text/008.html#ncx251"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>3</text>
+</navLabel>
+<content src="Text/008.html#ncx373"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>4</text>
+</navLabel>
+<content src="Text/008.html#ncx397"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>5</text>
+</navLabel>
+<content src="Text/008.html#ncx473"/>
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>6</text>
+</navLabel>
+<content src="Text/008.html#ncx493"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>7</text>
+</navLabel>
+<content src="Text/008.html#ncx537"/>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>8</text>
+</navLabel>
+<content src="Text/008.html#ncx577"/>
+</navPoint>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>9</text>
+</navLabel>
+<content src="Text/008.html#ncx631"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>10</text>
+</navLabel>
+<content src="Text/008.html#ncx671"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>İkinci bölüm</text>
+</navLabel>
+<content src="Text/011.html"/>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>1</text>
+</navLabel>
+<content src="Text/013.html"/>
+</navPoint>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>2</text>
+</navLabel>
+<content src="Text/013.html#ncx728"/>
+</navPoint>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>3</text>
+</navLabel>
+<content src="Text/013.html#ncx785"/>
+</navPoint>
+<navPoint id="navpoint-17" playOrder="17">
+<navLabel>
+<text>4</text>
+</navLabel>
+<content src="Text/013.html#ncx798"/>
+</navPoint>
+<navPoint id="navpoint-18" playOrder="18">
+<navLabel>
+<text>5</text>
+</navLabel>
+<content src="Text/013.html#ncx857"/>
+</navPoint>
+<navPoint id="navpoint-19" playOrder="19">
+<navLabel>
+<text>6</text>
+</navLabel>
+<content src="Text/013.html#ncx965"/>
+</navPoint>
+<navPoint id="navpoint-20" playOrder="20">
+<navLabel>
+<text>7</text>
+</navLabel>
+<content src="Text/013.html#ncx1020"/>
+</navPoint>
+<navPoint id="navpoint-21" playOrder="21">
+<navLabel>
+<text>8</text>
+</navLabel>
+<content src="Text/013.html#ncx1057"/>
+</navPoint>
+<navPoint id="navpoint-22" playOrder="22">
+<navLabel>
+<text>9</text>
+</navLabel>
+<content src="Text/013.html#ncx1090"/>
+</navPoint>
+<navPoint id="navpoint-23" playOrder="23">
+<navLabel>
+<text>10</text>
+</navLabel>
+<content src="Text/013.html#ncx1108"/>
+</navPoint>
+<navPoint id="navpoint-24" playOrder="24">
+<navLabel>
+<text>11</text>
+</navLabel>
+<content src="Text/013.html#ncx1113"/>
+</navPoint>
+<navPoint id="navpoint-25" playOrder="25">
+<navLabel>
+<text>12</text>
+</navLabel>
+<content src="Text/013.html#ncx1178"/>
+</navPoint>
+<navPoint id="navpoint-26" playOrder="26">
+<navLabel>
+<text>13</text>
+</navLabel>
+<content src="Text/013.html#ncx1221"/>
+</navPoint>
+<navPoint id="navpoint-27" playOrder="27">
+<navLabel>
+<text>14</text>
+</navLabel>
+<content src="Text/013.html#ncx1267"/>
+</navPoint>
+<navPoint id="navpoint-28" playOrder="28">
+<navLabel>
+<text>15</text>
+</navLabel>
+<content src="Text/013.html#ncx1287"/>
+</navPoint>
+<navPoint id="navpoint-29" playOrder="29">
+<navLabel>
+<text>16</text>
+</navLabel>
+<content src="Text/013.html#ncx1302"/>
+</navPoint>
+<navPoint id="navpoint-30" playOrder="30">
+<navLabel>
+<text>17</text>
+</navLabel>
+<content src="Text/013.html#ncx1326"/>
+</navPoint>
+<navPoint id="navpoint-31" playOrder="31">
+<navLabel>
+<text>18</text>
+</navLabel>
+<content src="Text/013.html#ncx1345"/>
+</navPoint>
+<navPoint id="navpoint-32" playOrder="32">
+<navLabel>
+<text>19</text>
+</navLabel>
+<content src="Text/013.html#ncx1371"/>
+</navPoint>
+<navPoint id="navpoint-33" playOrder="33">
+<navLabel>
+<text>20</text>
+</navLabel>
+<content src="Text/013.html#ncx1405"/>
+</navPoint>
+<navPoint id="navpoint-34" playOrder="34">
+<navLabel>
+<text>21</text>
+</navLabel>
+<content src="Text/013.html#ncx1466"/>
+</navPoint>
+<navPoint id="navpoint-35" playOrder="35">
+<navLabel>
+<text>22</text>
+</navLabel>
+<content src="Text/013.html#ncx1488"/>
+</navPoint>
+<navPoint id="navpoint-36" playOrder="36">
+<navLabel>
+<text>23</text>
+</navLabel>
+<content src="Text/013.html#ncx1553"/>
+</navPoint>
+<navPoint id="navpoint-37" playOrder="37">
+<navLabel>
+<text>24</text>
+</navLabel>
+<content src="Text/013.html#ncx1614"/>
+</navPoint>
+<navPoint id="navpoint-38" playOrder="38">
+<navLabel>
+<text>25</text>
+</navLabel>
+<content src="Text/013.html#ncx1666"/>
+</navPoint>
+<navPoint id="navpoint-39" playOrder="39">
+<navLabel>
+<text>26</text>
+</navLabel>
+<content src="Text/014.html"/>
+</navPoint>
+<navPoint id="navpoint-40" playOrder="40">
+<navLabel>
+<text>27</text>
+</navLabel>
+<content src="Text/014.html#ncx1726"/>
+</navPoint>
+<navPoint id="navpoint-41" playOrder="41">
+<navLabel>
+<text>28</text>
+</navLabel>
+<content src="Text/014.html#ncx1800"/>
+</navPoint>
+<navPoint id="navpoint-42" playOrder="42">
+<navLabel>
+<text>29</text>
+</navLabel>
+<content src="Text/014.html#ncx1854"/>
+</navPoint>
+<navPoint id="navpoint-43" playOrder="43">
+<navLabel>
+<text>30</text>
+</navLabel>
+<content src="Text/014.html#ncx1972"/>
+</navPoint>
+<navPoint id="navpoint-44" playOrder="44">
+<navLabel>
+<text>31</text>
+</navLabel>
+<content src="Text/014.html#ncx1999"/>
+</navPoint>
+<navPoint id="navpoint-45" playOrder="45">
+<navLabel>
+<text>32</text>
+</navLabel>
+<content src="Text/014.html#ncx2034"/>
+</navPoint>
+<navPoint id="navpoint-46" playOrder="46">
+<navLabel>
+<text>33</text>
+</navLabel>
+<content src="Text/014.html#ncx2082"/>
+</navPoint>
+<navPoint id="navpoint-47" playOrder="47">
+<navLabel>
+<text>34</text>
+</navLabel>
+<content src="Text/014.html#ncx2101"/>
+</navPoint>
+<navPoint id="navpoint-48" playOrder="48">
+<navLabel>
+<text>35</text>
+</navLabel>
+<content src="Text/014.html#ncx2130"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-49" playOrder="49">
+<navLabel>
+<text>Üçüncü Bölüm</text>
+</navLabel>
+<content src="Text/017.html"/>
+<navPoint id="navpoint-50" playOrder="50">
+<navLabel>
+<text>1</text>
+</navLabel>
+<content src="Text/019.html"/>
+</navPoint>
+<navPoint id="navpoint-51" playOrder="51">
+<navLabel>
+<text>2</text>
+</navLabel>
+<content src="Text/019.html#ncx2231"/>
+</navPoint>
+<navPoint id="navpoint-52" playOrder="52">
+<navLabel>
+<text>3</text>
+</navLabel>
+<content src="Text/019.html#ncx2253"/>
+</navPoint>
+<navPoint id="navpoint-53" playOrder="53">
+<navLabel>
+<text>4</text>
+</navLabel>
+<content src="Text/019.html#ncx2279"/>
+</navPoint>
+<navPoint id="navpoint-54" playOrder="54">
+<navLabel>
+<text>5</text>
+</navLabel>
+<content src="Text/019.html#ncx2323"/>
+</navPoint>
+<navPoint id="navpoint-55" playOrder="55">
+<navLabel>
+<text>6</text>
+</navLabel>
+<content src="Text/019.html#ncx2352"/>
+</navPoint>
+<navPoint id="navpoint-56" playOrder="56">
+<navLabel>
+<text>7</text>
+</navLabel>
+<content src="Text/019.html#ncx2365"/>
+</navPoint>
+<navPoint id="navpoint-57" playOrder="57">
+<navLabel>
+<text>8</text>
+</navLabel>
+<content src="Text/019.html#ncx2413"/>
+</navPoint>
+<navPoint id="navpoint-58" playOrder="58">
+<navLabel>
+<text>9</text>
+</navLabel>
+<content src="Text/019.html#ncx2455"/>
+</navPoint>
+<navPoint id="navpoint-59" playOrder="59">
+<navLabel>
+<text>10</text>
+</navLabel>
+<content src="Text/019.html#ncx2536"/>
+</navPoint>
+<navPoint id="navpoint-60" playOrder="60">
+<navLabel>
+<text>11</text>
+</navLabel>
+<content src="Text/019.html#ncx2549"/>
+</navPoint>
+<navPoint id="navpoint-61" playOrder="61">
+<navLabel>
+<text>12</text>
+</navLabel>
+<content src="Text/019.html#ncx2604"/>
+</navPoint>
+<navPoint id="navpoint-62" playOrder="62">
+<navLabel>
+<text>13</text>
+</navLabel>
+<content src="Text/019.html#ncx2631"/>
+</navPoint>
+<navPoint id="navpoint-63" playOrder="63">
+<navLabel>
+<text>14</text>
+</navLabel>
+<content src="Text/019.html#ncx2698"/>
+</navPoint>
+<navPoint id="navpoint-64" playOrder="64">
+<navLabel>
+<text>15</text>
+</navLabel>
+<content src="Text/019.html#ncx2735"/>
+</navPoint>
+<navPoint id="navpoint-65" playOrder="65">
+<navLabel>
+<text>16</text>
+</navLabel>
+<content src="Text/019.html#ncx2755"/>
+</navPoint>
+<navPoint id="navpoint-66" playOrder="66">
+<navLabel>
+<text>17</text>
+</navLabel>
+<content src="Text/019.html#ncx2805"/>
+</navPoint>
+<navPoint id="navpoint-67" playOrder="67">
+<navLabel>
+<text>18</text>
+</navLabel>
+<content src="Text/019.html#ncx2821"/>
+</navPoint>
+<navPoint id="navpoint-68" playOrder="68">
+<navLabel>
+<text>19</text>
+</navLabel>
+<content src="Text/019.html#ncx2842"/>
+</navPoint>
+<navPoint id="navpoint-69" playOrder="69">
+<navLabel>
+<text>20</text>
+</navLabel>
+<content src="Text/019.html#ncx2855"/>
+</navPoint>
+<navPoint id="navpoint-70" playOrder="70">
+<navLabel>
+<text>21</text>
+</navLabel>
+<content src="Text/019.html#ncx2899"/>
+</navPoint>
+<navPoint id="navpoint-71" playOrder="71">
+<navLabel>
+<text>22</text>
+</navLabel>
+<content src="Text/019.html#ncx2931"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-72" playOrder="72">
+<navLabel>
+<text>Dördüncü bölüm</text>
+</navLabel>
+<content src="Text/022.html"/>
+<navPoint id="navpoint-73" playOrder="73">
+<navLabel>
+<text>1</text>
+</navLabel>
+<content src="Text/024.html"/>
+</navPoint>
+<navPoint id="navpoint-74" playOrder="74">
+<navLabel>
+<text>2</text>
+</navLabel>
+<content src="Text/024.html#ncx2989"/>
+</navPoint>
+<navPoint id="navpoint-75" playOrder="75">
+<navLabel>
+<text>3</text>
+</navLabel>
+<content src="Text/024.html#ncx3033"/>
+</navPoint>
+<navPoint id="navpoint-76" playOrder="76">
+<navLabel>
+<text>4</text>
+</navLabel>
+<content src="Text/024.html#ncx3045"/>
+</navPoint>
+<navPoint id="navpoint-77" playOrder="77">
+<navLabel>
+<text>5</text>
+</navLabel>
+<content src="Text/024.html#ncx3062"/>
+</navPoint>
+<navPoint id="navpoint-78" playOrder="78">
+<navLabel>
+<text>6</text>
+</navLabel>
+<content src="Text/024.html#ncx3071"/>
+</navPoint>
+<navPoint id="navpoint-79" playOrder="79">
+<navLabel>
+<text>7</text>
+</navLabel>
+<content src="Text/024.html#ncx3092"/>
+</navPoint>
+<navPoint id="navpoint-80" playOrder="80">
+<navLabel>
+<text>8</text>
+</navLabel>
+<content src="Text/024.html#ncx3133"/>
+</navPoint>
+<navPoint id="navpoint-81" playOrder="81">
+<navLabel>
+<text>9</text>
+</navLabel>
+<content src="Text/024.html#ncx3185"/>
+</navPoint>
+<navPoint id="navpoint-82" playOrder="82">
+<navLabel>
+<text>10</text>
+</navLabel>
+<content src="Text/024.html#ncx3232"/>
+</navPoint>
+<navPoint id="navpoint-83" playOrder="83">
+<navLabel>
+<text>11</text>
+</navLabel>
+<content src="Text/024.html#ncx3272"/>
+</navPoint>
+<navPoint id="navpoint-84" playOrder="84">
+<navLabel>
+<text>12</text>
+</navLabel>
+<content src="Text/024.html#ncx3299"/>
+</navPoint>
+<navPoint id="navpoint-85" playOrder="85">
+<navLabel>
+<text>13</text>
+</navLabel>
+<content src="Text/024.html#ncx3319"/>
+</navPoint>
+<navPoint id="navpoint-86" playOrder="86">
+<navLabel>
+<text>14</text>
+</navLabel>
+<content src="Text/024.html#ncx3369"/>
+</navPoint>
+<navPoint id="navpoint-87" playOrder="87">
+<navLabel>
+<text>15</text>
+</navLabel>
+<content src="Text/024.html#ncx3427"/>
+</navPoint>
+<navPoint id="navpoint-88" playOrder="88">
+<navLabel>
+<text>16</text>
+</navLabel>
+<content src="Text/024.html#ncx3477"/>
+</navPoint>
+<navPoint id="navpoint-89" playOrder="89">
+<navLabel>
+<text>17</text>
+</navLabel>
+<content src="Text/024.html#ncx3505"/>
+</navPoint>
+<navPoint id="navpoint-90" playOrder="90">
+<navLabel>
+<text>18</text>
+</navLabel>
+<content src="Text/024.html#ncx3526"/>
+</navPoint>
+<navPoint id="navpoint-91" playOrder="91">
+<navLabel>
+<text>19</text>
+</navLabel>
+<content src="Text/024.html#ncx3541"/>
+</navPoint>
+<navPoint id="navpoint-92" playOrder="92">
+<navLabel>
+<text>20</text>
+</navLabel>
+<content src="Text/024.html#ncx3578"/>
+</navPoint>
+<navPoint id="navpoint-93" playOrder="93">
+<navLabel>
+<text>21</text>
+</navLabel>
+<content src="Text/024.html#ncx3608"/>
+</navPoint>
+<navPoint id="navpoint-94" playOrder="94">
+<navLabel>
+<text>22</text>
+</navLabel>
+<content src="Text/025.html"/>
+</navPoint>
+<navPoint id="navpoint-95" playOrder="95">
+<navLabel>
+<text>23</text>
+</navLabel>
+<content src="Text/025.html#ncx3703"/>
+</navPoint>
+<navPoint id="navpoint-96" playOrder="96">
+<navLabel>
+<text>24</text>
+</navLabel>
+<content src="Text/025.html#ncx3726"/>
+</navPoint>
+<navPoint id="navpoint-97" playOrder="97">
+<navLabel>
+<text>25</text>
+</navLabel>
+<content src="Text/025.html#ncx3747"/>
+</navPoint>
+<navPoint id="navpoint-98" playOrder="98">
+<navLabel>
+<text>27</text>
+</navLabel>
+<content src="Text/025.html#ncx3775"/>
+</navPoint>
+<navPoint id="navpoint-99" playOrder="99">
+<navLabel>
+<text>28</text>
+</navLabel>
+<content src="Text/025.html#ncx3791"/>
+</navPoint>
+<navPoint id="navpoint-100" playOrder="100">
+<navLabel>
+<text>29</text>
+</navLabel>
+<content src="Text/025.html#ncx3813"/>
+</navPoint>
+<navPoint id="navpoint-101" playOrder="101">
+<navLabel>
+<text>30</text>
+</navLabel>
+<content src="Text/025.html#ncx3827"/>
+</navPoint>
+<navPoint id="navpoint-102" playOrder="102">
+<navLabel>
+<text>31</text>
+</navLabel>
+<content src="Text/025.html#ncx3852"/>
+</navPoint>
+<navPoint id="navpoint-103" playOrder="103">
+<navLabel>
+<text>32</text>
+</navLabel>
+<content src="Text/025.html#ncx3879"/>
+</navPoint>
+<navPoint id="navpoint-104" playOrder="104">
+<navLabel>
+<text>33</text>
+</navLabel>
+<content src="Text/025.html#ncx3892"/>
+</navPoint>
+<navPoint id="navpoint-105" playOrder="105">
+<navLabel>
+<text>34</text>
+</navLabel>
+<content src="Text/025.html#ncx3918"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-106" playOrder="106">
+<navLabel>
+<text>Beşinci bölüm</text>
+</navLabel>
+<content src="Text/028.html"/>
+<navPoint id="navpoint-107" playOrder="107">
+<navLabel>
+<text>1</text>
+</navLabel>
+<content src="Text/030.html"/>
+</navPoint>
+<navPoint id="navpoint-108" playOrder="108">
+<navLabel>
+<text>2</text>
+</navLabel>
+<content src="Text/030.html#ncx3966"/>
+</navPoint>
+<navPoint id="navpoint-109" playOrder="109">
+<navLabel>
+<text>3</text>
+</navLabel>
+<content src="Text/030.html#ncx3988"/>
+</navPoint>
+<navPoint id="navpoint-110" playOrder="110">
+<navLabel>
+<text>4</text>
+</navLabel>
+<content src="Text/030.html#ncx4045"/>
+</navPoint>
+<navPoint id="navpoint-111" playOrder="111">
+<navLabel>
+<text>5</text>
+</navLabel>
+<content src="Text/030.html#ncx4066"/>
+</navPoint>
+<navPoint id="navpoint-112" playOrder="112">
+<navLabel>
+<text>6</text>
+</navLabel>
+<content src="Text/030.html#ncx4134"/>
+</navPoint>
+<navPoint id="navpoint-113" playOrder="113">
+<navLabel>
+<text>7</text>
+</navLabel>
+<content src="Text/030.html#ncx4175"/>
+</navPoint>
+<navPoint id="navpoint-114" playOrder="114">
+<navLabel>
+<text>8</text>
+</navLabel>
+<content src="Text/030.html#ncx4189"/>
+</navPoint>
+<navPoint id="navpoint-115" playOrder="115">
+<navLabel>
+<text>9</text>
+</navLabel>
+<content src="Text/030.html#ncx4250"/>
+</navPoint>
+<navPoint id="navpoint-116" playOrder="116">
+<navLabel>
+<text>10</text>
+</navLabel>
+<content src="Text/030.html#ncx4281"/>
+</navPoint>
+<navPoint id="navpoint-117" playOrder="117">
+<navLabel>
+<text>11</text>
+</navLabel>
+<content src="Text/030.html#ncx4320"/>
+</navPoint>
+<navPoint id="navpoint-118" playOrder="118">
+<navLabel>
+<text>12</text>
+</navLabel>
+<content src="Text/030.html#ncx4360"/>
+</navPoint>
+<navPoint id="navpoint-119" playOrder="119">
+<navLabel>
+<text>13</text>
+</navLabel>
+<content src="Text/030.html#ncx4436"/>
+</navPoint>
+<navPoint id="navpoint-120" playOrder="120">
+<navLabel>
+<text>14</text>
+</navLabel>
+<content src="Text/030.html#ncx4482"/>
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>

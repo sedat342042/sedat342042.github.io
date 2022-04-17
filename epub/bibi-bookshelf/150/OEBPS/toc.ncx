@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="2b7994d4-9861-489e-aa48-f67b5603de3b" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İki Oyun</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="c51e10dc-295d-4537-9ee1-44a5e91a47c6" playOrder="1">
+      <navLabel>
+        <text>Bugünün Gözüyle Peer Gynt ve Brand</text>
+      </navLabel>
+      <content src="Text/Ibsen_split_004.html"/>
+    </navPoint>
+    <navPoint id="01a5b60a-cd42-4f7b-be3a-fee0e7119753" playOrder="2">
+      <navLabel>
+        <text>Brand</text>
+      </navLabel>
+      <content src="Text/Ibsen_split_005.html"/>
+      <navPoint id="e449da13-b351-4697-b167-e532442f2607" playOrder="3">
+        <navLabel>
+          <text>KİŞİLER</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_006.html"/>
+      </navPoint>
+      <navPoint id="0061a459-549e-4f03-8fb9-7de29e79eb6c" playOrder="4">
+        <navLabel>
+          <text>Birinci Perde</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_007.html"/>
+      </navPoint>
+      <navPoint id="3b330f5b-96a5-48ec-ac88-54fa3954a145" playOrder="5">
+        <navLabel>
+          <text>İkinci Perde</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_008.html"/>
+      </navPoint>
+      <navPoint id="a3fc857d-f819-4439-88b6-2de22c9163ee" playOrder="6">
+        <navLabel>
+          <text>Üçüncü Perde</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_009.html"/>
+      </navPoint>
+      <navPoint id="33a6e8a1-cf89-4117-bd12-e0269d4ae76c" playOrder="7">
+        <navLabel>
+          <text>Dördüncü Perde</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_010.html"/>
+      </navPoint>
+      <navPoint id="4b0ff1f9-83ce-4d3a-9c38-35d9f00f03fd" playOrder="8">
+        <navLabel>
+          <text>Beşinci Perde</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_011.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="bea387ae-674b-438f-a7a7-9d2b84ebbaed" playOrder="9">
+      <navLabel>
+        <text>Peer Gynt</text>
+      </navLabel>
+      <content src="Text/Ibsen_split_012.html"/>
+      <navPoint id="d093d325-1d43-46fd-bbde-d999994417df" playOrder="10">
+        <navLabel>
+          <text>KİŞİLER</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_013.html"/>
+      </navPoint>
+      <navPoint id="cd93012e-a4dc-4b12-8da1-56ea9ea79287" playOrder="11">
+        <navLabel>
+          <text>Birinci Perde</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_014.html"/>
+      </navPoint>
+      <navPoint id="ea52fd9c-cf16-477b-b3ed-5a2969de177b" playOrder="12">
+        <navLabel>
+          <text>İkinci Perde</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_015.html"/>
+      </navPoint>
+      <navPoint id="b0ccafec-e4ac-43af-a257-ac20834b1b47" playOrder="13">
+        <navLabel>
+          <text>Üçüncü Perde</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_016.html"/>
+      </navPoint>
+      <navPoint id="7eed8d53-5030-494b-8faa-750134c4c4e0" playOrder="14">
+        <navLabel>
+          <text>Dördüncü Perde</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_017.html"/>
+      </navPoint>
+      <navPoint id="2bde2a97-7c83-47ce-8d8c-f1b80ff10bd0" playOrder="15">
+        <navLabel>
+          <text>Beşinci Perde</text>
+        </navLabel>
+        <content src="Text/Ibsen_split_018.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

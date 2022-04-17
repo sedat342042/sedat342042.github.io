@@ -1,0 +1,198 @@
+@font-face {
+  font-family: "sntr";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/sntr.ttf);
+}
+
+@font-face {
+  font-family: "another";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Another.ttf);
+}
+
+@font-face {
+  font-family: "transit";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Transit511BTRoman.ttf);
+}
+@font-face {
+  font-family: "transit";
+  font-weight: bold;
+  font-style: normal;
+  src: url(../Fonts/Transit511BTBold.ttf);
+}
+
+@font-face {
+  font-family: "transit";
+  font-weight: normal;
+  font-style: italic;
+  src: url(../Fonts/Transit511BTItalic.ttf);
+}
+
+
+
+body	{
+	background-color:#fcfff6;
+	color:#000;
+	max-width:33em;
+	}
+
+@media screen and (orientation:landscape) {
+    html {
+	background:#fdfdfd fixed;
+	}
+    body {
+	-moz-box-shadow: 5px 5px 25px 10px #888;
+	-webkit-box-shadow: 5px 5px 25px 10px #888;
+	box-shadow: 5px 5px 25px 10px #888;
+
+    }
+}
+@media screen {
+    body {
+	margin:1em auto;
+	min-height:600px;
+	max-width:33em;
+	padding:5em 4em;
+    }
+}
+
+p	{
+	font-family: "transit", serif;
+	line-height:130%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+	text-align:justify;
+    text-indent:25px;
+	}
+
+/* ara çizgi uygulama <hr class="bosluk" /> */
+hr.bosluk {
+    margin: 2em 25%;
+    }
+
+h1,h2,h3,h4,h5 {
+	text-indent: 0px;
+	text-align:center;
+	margin-bottom:10px;
+	margin-top:30px
+}
+
+.birinci {
+  font-family: "sntr";
+
+}
+
+.ikinci {
+  font-family: "arial";
+font-weight:normal;
+}
+.ucuncu {
+  font-family: "Courier New";
+
+}
+.dorduncu {
+  font-family: "Lucida Sans Unicode";
+
+}
+.besinci {
+  font-family: "another";
+}
+
+h1 {
+  margin-top:100px;
+}
+
+h3 {
+  font-family: "sntr", serif;
+	text-align:left;
+}
+h2 {
+  font-family: "Courier New", serif;
+}
+h5 {
+	text-align:left;
+}
+.sonmi {
+font-family: "Lucida Sans Unicode";
+text-align:left;
+font-weight:bold;
+    margin-top: 20px;
+    margin-bottom: 3px;
+font-size:.8em;
+    text-indent:25px;
+}
+.bc1{margin-left: 0pt;margin-right: 0pt;text-align: center;font-family:Times,Georgia,Serif;font-size:2.1em;letter-spacing:-.02em;}
+.bc2{margin-left: 0pt;margin-right: 0pt;text-align: center;font-family:Times,Georgia,Serif;font-size:2.1em;font-weight:bold}
+.bc3{margin-left: 0pt;margin-right: 0pt;text-align: center;font-family:Times,Georgia,Serif;font-size:1.2em;font-weight:bold}
+.bc4{margin-left: 0pt;margin-right: 0pt;text-align: center;font-family:Times,Georgia,Serif;font-size:1.0em;}
+
+
+.bn1{margin-left: 0pt;margin-right: 0pt;text-align: center;font-family:Calibri,sans-serif;font-size:2.1em;letter-spacing:-.02em;}
+.bn2{margin-left: 0pt;margin-right: 0pt;text-align: center;font-family:Calibri,sans-serif;font-size:2.1em;font-weight:bold}
+.bn3{margin-left: 0pt;margin-right: 0pt;text-align: center;font-family:Calibri,sans-serif;font-size:1.2em;font-weight:bold}
+.bn4{margin-left: 0pt;margin-right: 0pt;text-align: center;font-family:Calibri,sans-serif;font-size:1.0em;}
+
+.dipnot{
+	text-indent:0;
+	font-size:.9em;
+	font-style:;
+	font-weight:bold;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:40px;
+}
+
+
+
+blockquote {
+  padding: 0px;
+  margin-left: 40px;
+  margin-right:0px;
+  margin-top:10px;
+  margin-bottom:10px;
+  border: 0px;
+  }
+
+blockquote p {
+  font-size: 80%;
+  font-style: normal;
+  text-indent: 0px;
+  }
+
+blockquote.classy {
+  font-size: 100%;
+  font-style: normal;
+  text-indent: 0px;
+  padding: 8px;
+  background-color: #faebbc;
+  border-top: 1px solid #e1cc89;
+  border-bottom: 1px solid #e1cc89;
+  margin: 15px;
+  /*background-image: url(../Images/quoteopen.gif);*/
+  background-position: top left;
+  background-repeat: no-repeat;
+  text-indent: 23px;
+  }
+  
+blockquote.classy div {
+    	display: block;
+    	/*background-image: url(../Images/quoteclose.gif);*/
+    	background-repeat: no-repeat;
+    	background-position: bottom right;
+  	}
+
+blockquote.modern {
+  font-size: 100%;
+  font-style: normal;
+  text-indent: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  padding-left: 10px;
+  border-left: 3px solid #ccc;
+} 
+

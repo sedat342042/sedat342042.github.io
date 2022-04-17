@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Koçu, Reşad Ekrem">Reşad Ekrem Koçu</dc:creator>
+<dc:identifier id="uuid">{5F890F02-160E-49D6-AF00-2FFA5BAEEDC1}</dc:identifier>
+    <dc:date>2002-04-08T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+  <dc:title>Kızlarağasının Piçi</dc:title>
+<meta name="calibre:title_sort" content="Kızlarağasının Piçi"/>
+<dc:publisher>Doğan Kitap</dc:publisher>
+<meta name="calibre:series" content="Tarih Dizisi"/>
+<meta name="calibre:series_index" content="1.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tarihi Kurgu</dc:subject>
+<dc:subject>Hikaye</dc:subject>
+<dc:description>&lt;p&gt;"İbrahim uzun zaman bu sararmış ölü yüzüne baktı. Murad'ın dudaklarında bir katre şarap gibi bir damla kan birikmiş, gözleri esmer çürükler içinde derinleşmişti."
+
+"... Sultan İbrahim, Osmanlı İmparatorluğu tarihinde yeni bir devir açmaya gidiyordu."
+
+"Beyaz tenli ve kumral saçlı dilberler; ak gerdanlı, püskürme benli afetler; sarışın, esmer, buğday renkli güzeller, bin bir cilve ve işveyle İbrahim'i gaşyediyorlardı. Fakat heyhat..."
+
+"İşte Kızlarağası Sünbül Ağa misilsiz bir Gürcü dilberi olan Zafire'yi padişaha takdim etmek üzere satın almıştı. Lakin kız zannıyla alınan bu cariye, biraz sonra, bir erkek çocuk dünyaya getirdi."
+
+"... Kızlarağası yavrucuğu evlat edindi. Zarif ve nükteci İstanbul halkı da, çocuğa derhal bir ad koydu: Kızlarağasının Piçi!"
+
+Bu kitapta tarihten çıkarılmış küçük küçük sahneler ve portreler bulacaksınız. Reşad Ekrem Koçu'nun deyişiyle modeller hakiki, şahıslar uydurma değil.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Reşad Ekrem Koçu&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2b58d255-44e5-4314-9ba0-830241c20326</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752930209</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sultan ibrahim.jpg" id="sultan_ibrahim.jpg" media-type="image/jpeg"/>
+    <item href="Images/yeniceri aga.jpg" id="yeniceri_aga.jpg" media-type="image/jpeg"/>
+    <item href="Images/beylerbeyi.jpg" id="beylerbeyi.jpg" media-type="image/jpeg"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

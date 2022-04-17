@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{5F890F02-160E-49D6-AF00-2FFA5BAEEDC1}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>kızlaragası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Tarihten Hikâyeler</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Kızlarağasının Piçi</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Bir Saray Bostancısının Hazin Macerası</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Abaza Mehmed Paşa -I-</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Abaza Mehmed Paşa -II -</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Deli Hüseyin Paşa</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Ester Kira</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Buraya Kaptanpaşa Karışır</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Sözlük</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>A</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>B</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>C</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Ç</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>D</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>E</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>F</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>G</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>H</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>İ</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>K</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>L</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>M</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>N</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Ö</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>P</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>R</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>S</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Ş</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>T</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>U</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Ü</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Y</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Z</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Reşad Ekrem Koçu</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

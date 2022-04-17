@@ -1,0 +1,87 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Murakami, Haruki">Haruki Murakami</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">4c83f045-5309-4e20-8eb3-d3115406479b</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2007-02-24T22:00:00+00:00</dc:date>
+    <meta content="Sınırın Güneyinde Güneşin Batısında" name="calibre:title_sort"/>
+    <meta content="2013-01-17T11:18:29+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_cover.jpeg"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Haruki Murakami&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Sınırın Güneyinde Güneşin Batısında</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Orjinal</dc:subject>
+<dc:subject>Japon</dc:subject>
+<dc:subject>Aşk</dc:subject>
+<dc:subject>Büyülü Gerçeklik</dc:subject>
+<dc:description>&lt;p&gt;' İnsanın, kaderi ve maddi dünya arasındaki gelgitlerini anlatan ve okuru kıskıvrak yakalayan bir eser. Akıllardan çıkmayacak.
+The Newyork Observer&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f7b62360-0a17-478b-b05b-7bda3293091d</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786051117218</dc:identifier>
+<meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB,MOBI&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Images/_cover.jpeg" id="_cover.jpeg" media-type="image/jpeg"/>
+    <item href="Images/1.jpg" id="added" media-type="image/jpeg"/>
+    <item href="Text/1_split_000.html" id="html22" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_001.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_002.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_003.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_004.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_005.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_006.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_007.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_008.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_009.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_010.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_011.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_012.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_013.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_014.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_015.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_016.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_017.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_018.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_019.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_020.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_021.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Images/2.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="Images/3.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html22"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

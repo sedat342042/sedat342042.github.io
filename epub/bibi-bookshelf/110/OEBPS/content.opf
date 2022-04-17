@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Livaneli, Zülfü">Zülfü Livaneli</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:82655736-2f1f-48c9-bb7e-a8acb15b31b1</dc:identifier>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Doğan Kitap</dc:publisher>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">2010-05-26T21:00:00+00:00</dc:date>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Kardeşimin Hikayesi" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2013-12-13T22:00:00+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+  <dc:title>Kardeşimin Hikayesi</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;Serenad fırtınasından sonra Livaneli'den nefes kesen bir roman
+
+Sakin bir balıkçı köyünde genç bir kadının cinayete kurban gitmesiyle başlar her şey. Dünyadan elini eteğini çekmiş emekli inşaat mühendisiyle genç, güzel ve meraklı gazeteci kızın tanışmasına da bu cinayet vesile olur. Kurguyla gerçeğin karıştığı, duyguların en karanlık, en kuytu bölgelerine girildiği hikâye, daha doğrusu hikâye içinde hikâye de böylece başlar. Modern bir Binbir Gece Masalı'nın kapıları aralanır. Ancak bu kez Şehrazad erkektir. 
+
+Kardeşimin Hikâyesi aşkın mutlulukta ulaşılacak son nokta olduğuna inananları bir kez daha düşünmeye davet eden, aşka, aşkın karmaşıklığına ve tehlikelerine dair nefes kesen bir roman. Her sayfada yeni bir gerçekliği keşfedecek, kuşku ile kesinliğin sınırlarında dolaşacaksınız. 
+
+Mantıksız gibi geliyor ama o sabah uyandığımda tuhaf bir haber alacağımı biliyordum. Karadeniz'in lacivert dalgalarıyla baş başa kalmış olan bu ıssız köyde geçen her gün birbirinin aynısı olduğu için burada insanların heyecanla konuşacağı olaylara pek sık rastlanmazdı. O günün de ötekiler gibi sessizce akıp gitmesi gerekirdi ama galiba başka şeyler olacaktı. O mahmur sabah saatlerinde bir cinayet haberi alacağımı bilmiyordum elbette ama bir haber gelecekti. Daha yataktan çıkmamıştım, gözlerim kapalıydı, arkalarında fosforlu çizgiler bırakarak yıldırım hızıyla hareket eden mor tavşanları izliyordum. &lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Zülfü Livaneli&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">6020de65-17d6-4a9e-9dab-719cfed63aef</dc:identifier>
+<dc:identifier opf:scheme="ISBN">2789785944362</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/index_split_000.html" id="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="index_split_000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

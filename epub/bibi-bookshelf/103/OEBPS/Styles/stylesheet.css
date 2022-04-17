@@ -1,0 +1,129 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre10 {
+    display: block;
+    text-align: justify;
+    text-indent: 1em;
+    margin: 1em 0 0
+    }
+.calibre11 {
+    display: block;
+    text-align: justify;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre12 {
+    display: block;
+    text-indent: 1em;
+    margin: 1em 0 0
+    }
+.calibre13 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre14 {
+    font-size: 0.83333em
+    }
+.calibre15 {
+    font-size: 1.2em
+    }
+.calibre16 {
+    display: block;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 1em 0 0
+    }
+.calibre17 {
+    text-decoration: line-through
+    }
+.calibre18 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre19 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre2 {
+    height: 689px;
+    vertical-align: baseline;
+    width: 477px
+    }
+.calibre20 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre21 {
+    height: 1017px;
+    vertical-align: baseline;
+    width: 594px
+    }
+.calibre22 {
+    display: block;
+    text-indent: -14pt;
+    margin: 1em 0 0 14pt
+    }
+.calibre23 {
+    display: block;
+    text-indent: -14pt;
+    margin: 0 0 0 14pt
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre5 {
+    font-size: 1.83333em;
+    line-height: 1.2
+    }
+.calibre6 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre7 {
+    display: block;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre8 {
+    font-size: 0.75em
+    }
+.calibre9 {
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.italic {
+    font-style: italic
+    }
+.mbppagebreak {
+    display: block;
+    margin: 0
+    }

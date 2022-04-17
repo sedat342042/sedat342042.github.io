@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="3" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Marianne’in Kalbi</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Kişiler</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>I. Perde</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-3"/>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>1. Sahne</text>
+				</navLabel>
+				<content src="Text/6-1.html#toc_marker-3-1"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>2. Sahne</text>
+				</navLabel>
+				<content src="Text/6-2.html#toc_marker-3-2"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>3. Sahne</text>
+				</navLabel>
+				<content src="Text/6-3.html#toc_marker-3-3"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>4. Sahne</text>
+				</navLabel>
+				<content src="Text/6-4.html#toc_marker-3-4"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>5. Sahne</text>
+				</navLabel>
+				<content src="Text/6-5.html#toc_marker-3-5"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>6. Sahne</text>
+				</navLabel>
+				<content src="Text/6-6.html#toc_marker-3-6"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>7. Sahne</text>
+				</navLabel>
+				<content src="Text/6-7.html#toc_marker-3-7"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>8. Sahne </text>
+				</navLabel>
+				<content src="Text/6-8.html#toc_marker-3-8"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>9. Sahne </text>
+				</navLabel>
+				<content src="Text/6-9.html#toc_marker-3-9"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>II. Perde</text>
+			</navLabel>
+			<content src="Text/7.html#toc_marker-4"/>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>1. Sahne</text>
+				</navLabel>
+				<content src="Text/7-1.html#toc_marker-4-1"/>
+			</navPoint>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>2. Sahne</text>
+				</navLabel>
+				<content src="Text/7-2.html#toc_marker-4-2"/>
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>3. Sahne</text>
+				</navLabel>
+				<content src="Text/7-3.html#toc_marker-4-3"/>
+			</navPoint>
+			<navPoint id="navpoint17" playOrder="17">
+				<navLabel>
+					<text>4. Sahne</text>
+				</navLabel>
+				<content src="Text/7-4.html#toc_marker-4-4"/>
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>5. Sahne</text>
+				</navLabel>
+				<content src="Text/7-5.html#toc_marker-4-5"/>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>6. Sahne</text>
+				</navLabel>
+				<content src="Text/7-6.html#toc_marker-4-6"/>
+			</navPoint>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>7. Sahne</text>
+				</navLabel>
+				<content src="Text/7-7.html#toc_marker-4-7"/>
+			</navPoint>
+			<navPoint id="navpoint21" playOrder="21">
+				<navLabel>
+					<text>8. Sahne</text>
+				</navLabel>
+				<content src="Text/7-8.html#toc_marker-4-8"/>
+			</navPoint>
+			<navPoint id="navpoint22" playOrder="22">
+				<navLabel>
+					<text>9. Sahne</text>
+				</navLabel>
+				<content src="Text/7-9.html#toc_marker-4-9"/>
+			</navPoint>
+			<navPoint id="navpoint23" playOrder="23">
+				<navLabel>
+					<text>10. Sahne</text>
+				</navLabel>
+				<content src="Text/7-10.html#toc_marker-4-10"/>
+			</navPoint>
+			<navPoint id="navpoint24" playOrder="24">
+				<navLabel>
+					<text>11. Sahne</text>
+				</navLabel>
+				<content src="Text/7-11.html#toc_marker-4-11"/>
+			</navPoint>
+			<navPoint id="navpoint25" playOrder="25">
+				<navLabel>
+					<text>12. Sahne</text>
+				</navLabel>
+				<content src="Text/7-12.html#toc_marker-4-12"/>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>13. Sahne</text>
+				</navLabel>
+				<content src="Text/7-13.html#toc_marker-4-13"/>
+			</navPoint>
+			<navPoint id="navpoint27" playOrder="27">
+				<navLabel>
+					<text>14. Sahne</text>
+				</navLabel>
+				<content src="Text/7-14.html#toc_marker-4-14"/>
+			</navPoint>
+			<navPoint id="navpoint28" playOrder="28">
+				<navLabel>
+					<text>15. Sahne</text>
+				</navLabel>
+				<content src="Text/7-15.html#toc_marker-4-15"/>
+			</navPoint>
+			<navPoint id="navpoint29" playOrder="29">
+				<navLabel>
+					<text>16. Sahne</text>
+				</navLabel>
+				<content src="Text/7-16.html#toc_marker-4-16"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint30" playOrder="30">
+			<navLabel>
+				<text>Hasan Âli Yücel Klasikler Dizisi’nde Yayımlanan Eserler</text>
+			</navLabel>
+			<content src="Text/8.html#toc_marker-5"/>
+		</navPoint>
+	</navMap>
+</ncx>
