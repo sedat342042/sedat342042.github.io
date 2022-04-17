@@ -1,0 +1,180 @@
+.block {
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 1.41667em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0;
+  margin: 6pt 0 0;
+}
+.block1 {
+  color: black;
+  display: block;
+  text-align: center;
+  padding: 0;
+  margin: 6pt 0 0;
+}
+.block2 {
+  color: black;
+  display: block;
+  text-align: justify;
+  padding: 0;
+  margin: 6pt 0 0;
+}
+.block3 {
+  color: black;
+  display: block;
+  font-size: 0.75em;
+  text-align: justify;
+  padding: 0;
+  margin: 6pt 0 0;
+}
+.block4 {
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0;
+  margin: 6pt 0 0;
+}
+.block5 {
+  display: block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-inside: avoid;
+  text-align: justify;
+  padding: 0;
+  margin: 12pt 0 18pt;
+}
+.block6 {
+  color: black;
+  display: block;
+  padding: 0;
+  margin: 6pt 0 0;
+}
+.block7 {
+  color: black;
+  display: block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  padding: 0;
+  margin: 6pt 0 0;
+}
+.block8 {
+  color: black;
+  display: block;
+  font-size: 0.75em;
+  padding: 0;
+  margin: 0;
+}
+.calibre {
+  color: #0F243E;
+  display: block;
+  font-family: "Georgia";
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+  font-size: 1.83333em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0;
+  margin: 1em 0 0;
+}
+.calibre2 {
+  font-style: italic;
+}
+.calibre3 {
+  font-size: 0.75em;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre4 {
+  text-decoration: none;
+}
+.calibre5 {
+  display: block;
+  font-size: 1.125em;
+  line-height: 1.2;
+}
+.calibre6 {
+  line-height: 1.2;
+  text-decoration: none;
+}
+.calibre7 {
+  display: block;
+  margin-left: 40px;
+}
+.calibre8 {
+  font-size: 1em;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre9 {
+  display: block;
+  margin-left: 40px;
+  page-break-after: avoid;
+}
+.noteref {
+  font-size: 0.77778em;
+  line-height: normal;
+  vertical-align: super;
+}
+.notes {
+  display: block;
+  margin: 1em 0;
+}
+.softbreak {
+  display: block;
+  page-break-before: avoid;
+  text-align: center;
+  padding: 0;
+  margin: 0.5em 0 0;
+}
+.text {
+  font-size: 1.33333em;
+}
+.text1 {
+  font-size: 1em;
+}
+.whitespace {
+  display: block;
+  text-align: center;
+  padding: 0;
+  margin: 5em 0 0;
+}
+.whitespace1 {
+  display: block;
+  text-align: center;
+  padding: 0;
+  margin: 2em 0 0;
+}
+.whitespace2 {
+  display: block;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.whitespace3 {
+  display: block;
+  text-align: center;
+  padding: 0;
+  margin: 6.5em 0 0;
+}
+.whitespace4 {
+  display: block;
+  text-align: center;
+  padding: 0;
+  margin: 3.5em 0 0;
+}
