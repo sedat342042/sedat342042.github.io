@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="6977c729-c944-4dee-8276-0f8a1ca51a59" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Işık Taşı 3 - Cesur Paneb</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Birinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_000_split5.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İkinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Onuncu bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>On birinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>On ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>On üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>On dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>On beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>On altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>On yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>On sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>On dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Yirminci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Yirmi birinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Yirmi ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Yirmi üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Yirmi dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Yirmi beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Yirmi altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Yirmi yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Yirmi sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Yirmi dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Otuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Otuz birinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Otuz ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Otuz üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Otuz dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Otuz beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Otuz altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Otuz yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Otuz sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_037.html"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Otuz dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_038.html"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Kırkıncı bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_039.html"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Kırk birinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_040.html"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Kırk ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_041.html"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Kırk üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_042.html"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Kırk dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_043.html"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Kırk beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_044.html"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Kırk altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_045.html"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Kırk yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_046.html"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Kırk sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_047.html"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Kırk dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_048.html"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Ellinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_049.html"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Elli birinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_050.html"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Elli İkinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_051.html"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Elli üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_052.html"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Elli dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_053.html"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Elli beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_054.html"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Elli altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_055.html"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Elli yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_056.html"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Elli sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_057.html"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Elli dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_058.html"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Altmışıncı bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_059.html"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Altmış birinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_060.html"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Altmış ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_061.html"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Altmış üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_062.html"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Altmış dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_063.html"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Altmış beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_064.html"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Altmış altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_065.html"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Altmış yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_066.html"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Altmış sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_067.html"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Altmış dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_068.html"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Yetmişinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_069.html"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Yetmiş birinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_070.html"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Yetmiş ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_071.html"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Yetmiş üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_072.html"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Yetmiş dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_073.html"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Yetmiş beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_074.html"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/index_split_074.html#sigil_toc_id_1"/>
+    </navPoint>
+  </navMap>
+</ncx>

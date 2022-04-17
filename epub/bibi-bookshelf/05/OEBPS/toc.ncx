@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="a962bfdf-a466-4ebf-b507-1b9d12e19cf3" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.28.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Semerkant</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ KİTAP</text>
+      </navLabel>
+      <content src="Text/index_split_005.html"/>
+      <navPoint class="chapter" id="num_2" playOrder="2">
+        <navLabel>
+          <text>ŞAİRLER VE SEVGİLİLER</text>
+        </navLabel>
+        <content src="Text/index_split_005.html#id_Toc382895117"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>İKİNCİ KİTAP</text>
+      </navLabel>
+      <content src="Text/index_split_006.html"/>
+      <navPoint class="chapter" id="num_4" playOrder="4">
+        <navLabel>
+          <text>HAŞHAŞÎLER CENNETİ</text>
+        </navLabel>
+        <content src="Text/index_split_006.html#id_Toc382895119"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>ÜÇÜNCÜ KİTAP</text>
+      </navLabel>
+      <content src="Text/index_split_007.html"/>
+      <navPoint class="chapter" id="num_6" playOrder="6">
+        <navLabel>
+          <text>BİNİNCİ YILIN SONU</text>
+        </navLabel>
+        <content src="Text/index_split_007.html#id_Toc382895121"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>DÖRDÜNCÜ KİTAP</text>
+      </navLabel>
+      <content src="Text/index_split_008.html"/>
+      <navPoint class="chapter" id="num_8" playOrder="8">
+        <navLabel>
+          <text>DENİZDE BİR ŞAİR</text>
+        </navLabel>
+        <content src="Text/index_split_008.html#id_Toc382895123"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

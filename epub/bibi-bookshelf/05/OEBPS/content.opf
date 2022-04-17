@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Maalouf, Amin">Amin Maalouf</dc:creator>
+<dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta content="Semerkant" name="calibre:title_sort"/>
+    <meta content="2014-03-18T08:51:24.611000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2001-03-03T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a962bfdf-a466-4ebf-b507-1b9d12e19cf3</dc:identifier>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;"Titanic'te Rubaiyat! Doğu'nun çiçeği Batı'nın çiçekliğinde! Ey Hayyam! Yaşadığımız şu güzel anı görebilseydim!" Amin Maalouf, "Afrikalı Leo"dan (YKY, 1993) sonra bu kez Doğu'ya, İran'a bakıyor. Ömer Hayyam'ın Rubaiyat'ının çevresinde dönen içiçe iki öykü... 1072 yılında, Hayyam'ın Semerkant'ında başlayan ve 1912'de Atlantik'te bit(mey)en bir serüven... Bir elyazmasının yazılışının ve yüzlerce yıl sonra okunurken onun ve İran'ın tarihinin de okunuşunun öyküsü / tarihi...&lt;/p&gt;</dc:description>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Amin Maalouf&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-08-09</dc:date>
+  <dc:title>Semerkant</dc:title>
+<dc:subject>Tarihi Roman</dc:subject>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:subject>İnanç</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">fba2cacd-e0a7-4c13-acac-c860f3009074</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750810039</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/index_split_000.html" id="id214" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id213" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id212" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_011.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_012.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_013.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id214"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

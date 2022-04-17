@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Ümit, Ahmet">Ahmet Ümit</dc:creator>
+<meta content="1" name="calibre:series_index"/>
+    <meta content="2011-03-11T16:40:44+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2003-03-10T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c27aeb67-f472-40ad-a602-8f39070bc25a</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-03-13</dc:date>
+  <dc:title>Bir Ses Böler Geceyi</dc:title>
+<meta name="calibre:title_sort" content="Ses Böler Geceyi, Bir"/>
+<dc:publisher>Doğan Kitap</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Polisiye</dc:subject>
+<dc:description>&lt;p&gt;Dolunayın ışığında bir köy mezarlığı... Mezarlığın duvarına çarpan bir cip. Gecenin karanlığında uçuşan düşler. Issız köyün ortasında kocaman bir cem evi. Konuğunu yitirmiş bir mezar. Cem töreninde arınmayı bekleyen bir ölü. Bu olanların sessiz tanığı, bir araştırma görevlisi. Yıkılan idealleriyle, sürüp giden yaşamı arasında sıkışıp kalmış bir adam. Alevi inancına farklı bir bakış. Mistik bir gerilim romanı...
+
+"Gözüne kestirdiği dal parçasını çekerken çalılığın arkasında bir karartı fark etti. Feneri oraya doğru tuttu. Yanılmamıştı, az ilerde yeşil renkli bir mezar taşı mahzun bir edayla onu süzüyordu. Bu defa korkmadı, hatta içinde, Bu mezar neden mezarlığın dışında? diye merak bile uyandı. Bir-iki adım daha yaklaştı. Ama bu mezar bozulmuştu, iki yanında toprak birikintileri yığılıydı. Yeni bir ürperti dalgası sardı bedenini. Mezarın içini görmemesine karşın, upuzun yatan ölünün yer yer etleri dökülmüş yüzü geldi gözlerinin önüne. Öte yandan aklı hâlâ mantıklı bir açıklamanın peşindeydi. Belki de bu mezar henüz ölmemiş biri için kazılmıştı. Neden olmasın? insanların ölmeden önce de mezarlarını hazırladıklarını biliyordu; iyi de, kazmakla hazırlamak arasında büyük fark vardı. Belki yeri alınır, hazırlıklar yapılırdı ama ölmeden mezar kazdırılır mıydı? Belki de bu mezarı aç kalmış vahşi bir hayvan açmıştı. Eğer öyleyse mezardaki ölüyü paramparça etmiş demekti. Doğrusu, böyle bir görüntüyle karşılaşmak istemezdi. Yine de merakı ağır bastı; cesaretini toplayıp el fenerini mezarın içine doğrulttu. Mezar gerçekten de boştu." &lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ahmet Ümit&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">586ae02d-3148-4e6a-80c0-fb0cbdb4c59f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789759918880</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Bir_Ses_B_246_ler_Geceyi_split_000.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/Bir_Ses_B_246_ler_Geceyi_split_001.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
