@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Karahindiba</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Sülün, Sinan">Sinan Sülün</dc:creator>
+    <dc:publisher>Sel Yayınları</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:f783bcb4-2a80-4be5-8109-e6b2797f179c</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;p style="margin: 6px 0px;"&gt;Tanrı benden bir ısırık almış, tadımı beğenmemiş, bir kenara fırlatıvermişti.&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;“Karahindiba, her dört kişiden birinin işsiz olduğu, otuz kişilik bir iş kadrosuna beş bin kişinin başvurduğu, üniversite mezunlarının asgari ücret + prim + yol formülü ile bile iş bulamadığı, iş görüşmelerinde ‘Eğer ormanda bir canlı olsaydınız ne olurdunuz?’ gibi garip sorular soran insan kaynakları uzmanlarının ve sigortanın olmazsa olmaz olduğu gerçek ama bir o k&lt;span class="text_exposed_show" style="display: inline;"&gt;adar da fantastik bir dünyayı, mizahın teselli edici, lezzetli dilini kullanarak anlatıyor.&lt;/span&gt;&lt;/p&gt;&lt;div class="text_exposed_show" style="display: inline; orphans: 2; widows: 2;"&gt;&lt;p style="margin: 0px 0px 6px;"&gt;Sinan Sülün ilk hikâye kitabı Karahindiba’da fonda duyulan hevesli bir uğultuyu heyecanlı kalp çarpıntılarıyla dengeliyor ve sıkı bir yazarın geleceğinin müjdesini veriyor.&lt;br&gt;Okuyun, pişman olmayacaksınız.”&lt;br&gt;Metin Üstündağ&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">0a594234-baba-444d-933b-ea0b64e7aee5</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="on_kapak.xhtml" id="on_kapak" media-type="application/xhtml+xml"/>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="1-1.xhtml" id="x1-1" media-type="application/xhtml+xml"/>
+    <item href="1-2.xhtml" id="x1-2" media-type="application/xhtml+xml"/>
+    <item href="1-3.xhtml" id="x1-3" media-type="application/xhtml+xml"/>
+    <item href="1-4.xhtml" id="x1-4" media-type="application/xhtml+xml"/>
+    <item href="1-5.xhtml" id="x1-5" media-type="application/xhtml+xml"/>
+    <item href="1-6.xhtml" id="x1-6" media-type="application/xhtml+xml"/>
+    <item href="1-7.xhtml" id="x1-7" media-type="application/xhtml+xml"/>
+    <item href="1-8.xhtml" id="x1-8" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/cover.jpg" id="kapak_fmt_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uVFsn8iktAkZBlvHKuTYy54" media-type="image/jpeg"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="on_kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-7"/>
+    <itemref idref="x1-8"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

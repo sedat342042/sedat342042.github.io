@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Anılar</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Lessing, Doris">Doris Lessing</dc:creator>
+    <dc:description>&lt;p&gt;Nobel ödüllü yazar Doris Lessing'in (1919-2013) iki ciltlik otobiyografisinin ilk cildi Tenimin Altında, yazarın İran'daki bir İngiliz ailesinin kızı olarak doğumu, Güney Rodezya'ya gidişi ve oradaki hayatını konu alarak yaşamının 1949'a kadar olan kısmını kapsıyor. Lessing bu kitapta bir birey olarak bilincinin, bir kadın olarak cinselliğinin ve modern insan olarak siyasi kimliğinin gelişimine ağırlık verirken, bir yandan da 20. yüzyıldaki dünya savaşlarının sıradan insanların üzerinde sebep olduğu onulmaz yıkım ve sömürge topraklarındaki ırkçılığa dair kendi hatıralarından kesitler sunuyor. Otobiyografinin ikinci cildi Gölgede Yürümek ise yazarın savaş sonrası İngilteresi'ne kucağında oğlu Peter ve elinde ilk romanı Türkü Söylüyor Otlar'ın taslağıyla gelişiyle başlıyor. Lessing bu kitapta komünizmin 1950'lerin entelektüel yaşantısını hâkimiyeti altına alışını ve sonraları kendi neslinin öteki entelektüellerinin çoğu gibi radikal jargon ve siyasetten hayal kırıklığına uğrayarak bu ideolojiyi nasıl ardında bıraktığını anlatıyor. Bunların yanı sıra Lessing genç, yalnız bir anne ve bohem bir yazar olarak tecrübelerine, arkadaşlarına, sevgililerine, siyasal aktiviteleri ve tiyatrodaki deneyimlerine dair hayatından çarpıcı kesitler sunuyor. Doris Lessing'in bu iki ciltlik otobiyografisi, okuyucuya bir yazara ve onun yazın sürecinin derinliklerine temas etme fırsatı vererek, bunun yanı sıra Soğuk Savaş döneminin siyasal, sanatsal ve toplumsal yaşantısına dair eşsiz bir portre çiziyor.
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:publisher>Kırmızı Kedi Yayınevi</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-09-06</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">e4cda024-99ce-4c5e-9392-ec84613ee8cf</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786054927913</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/6-1.html" id="x6-1" media-type="application/xhtml+xml"/>
+    <item href="Text/6-2.html" id="x6-2" media-type="application/xhtml+xml"/>
+    <item href="Text/6-3.html" id="x6-3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/1_fmt1.jpeg" id="x1_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/1_fmt2.jpeg" id="x1_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt1.jpeg" id="x2_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt1.jpeg" id="x3_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/251.jpg" id="x251.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uTtfMPWf5pYAlIwaUbNQYD2" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+    <itemref idref="x6-3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

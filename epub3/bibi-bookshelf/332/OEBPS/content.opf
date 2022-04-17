@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Beraber</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sennett, Richard">Richard Sennett</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b80c25a1-513e-45bd-92a3-d1630540d5d1</dc:identifier>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;p style="margin: 6px 0px;"&gt;"Irksal, etnik, dinsel ya da ekonomik olarak çok farklı insanlarla bir arada yaşamak bugünkü medeni toplumların karşısına dikilen en önemli sorunlardan biridir. Genel olarak bizim gibi olmayan insanlarla ilişkiye girmekten kaçarız ve modern politikalar bir kent politikasından çok bir kabile politikasına yakındır. Richard Sennett, görünenin ötesini düşünmeye kışkırtan bu kitabında, kabileciliğin, bencilliğin nedenleri üzerinde dururken, bu konuda neler yapılması gerektiğini de tartışıyor.&lt;/p&gt;&lt;p style="margin: 6px 0px 0px; display: inline; orphans: 2; widows: 2;"&gt;Sennett’e göre, işbirliği bir beceri işidir ve başarılı bir işbirliğinin temelinde çekişmeden çok dinlemeyi ve tartışmayı öğrenmek yatar. Sennett, Beraber’de, insanların sokak köşelerinde, okullarda, işyerlerinde ve yerel politikada ya da sanal dünyada nasıl işbirliği yapabileceğini keşfe çıkıyor. Bu yolculukta, ortaçağdan günümüze, köle topluluklarından Paris’in sosyalist gruplarına ve Wall Street çalışanlarına uzanan işbirliği ritüellerinin gelişim seyrini izliyoruz. Üç bölüm halinde, işbirliğinin doğası, neden zayıfladığı ve nasıl güçlendirilebileceğini tartışan Sennett bizi şöyle uyarıyor: Eğer karmaşık ilişkiler ağı haline gelmiş toplumlarımızın refahını istiyorsak, işbirliği yapma, ortak çalışma becerisi kazanmamız ve geliştirmemiz gerekir. Ve yine bizi şöyle temin ediyor: Bunu yapabiliriz çünkü işbirliği kapasitesi insanın doğasında vardır."-Tanıtım&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:date opf:event="modification">2017-01-13</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>İnceleme</dc:subject>
+    <dc:subject>Sosyoloji</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">8255d98c-b2d8-4bf9-806d-29ac117eeea1</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755396675</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.htm" href="Text/kunye.htm" media-type="application/xhtml+xml"/>
+    <item id="title.htm" href="Text/title.htm" media-type="application/xhtml+xml"/>
+    <item id="onsoz.htm" href="Text/onsoz.htm" media-type="application/xhtml+xml"/>
+    <item id="r1.htm" href="Text/r1.htm" media-type="application/xhtml+xml"/>
+    <item id="giris.htm" href="Text/giris.htm" media-type="application/xhtml+xml"/>
+    <item id="part1.htm" href="Text/part1.htm" media-type="application/xhtml+xml"/>
+    <item id="x01.htm" href="Text/01.htm" media-type="application/xhtml+xml"/>
+    <item id="x02.htm" href="Text/02.htm" media-type="application/xhtml+xml"/>
+    <item id="x03.htm" href="Text/03.htm" media-type="application/xhtml+xml"/>
+    <item id="part2.htm" href="Text/part2.htm" media-type="application/xhtml+xml"/>
+    <item id="x04.htm" href="Text/04.htm" media-type="application/xhtml+xml"/>
+    <item id="x05.htm" href="Text/05.htm" media-type="application/xhtml+xml"/>
+    <item id="x06.htm" href="Text/06.htm" media-type="application/xhtml+xml"/>
+    <item id="part3.htm" href="Text/part3.htm" media-type="application/xhtml+xml"/>
+    <item id="x07.htm" href="Text/07.htm" media-type="application/xhtml+xml"/>
+    <item id="x08.htm" href="Text/08.htm" media-type="application/xhtml+xml"/>
+    <item id="x09.htm" href="Text/09.htm" media-type="application/xhtml+xml"/>
+    <item id="final.htm" href="Text/final.htm" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo.svg" href="Images/logo.svg" media-type="image/svg+xml"/>
+    <item id="r01.jpg" href="Images/r01.jpg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="Interstate-RegularCondensed.ttf" href="Fonts/Interstate-RegularCondensed.ttf" media-type="application/x-font-truetype"/>
+    <item id="Swiss721LightBT.ttf" href="Fonts/Swiss721LightBT.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.htm"/>
+    <itemref idref="title.htm"/>
+    <itemref idref="onsoz.htm"/>
+    <itemref idref="r1.htm"/>
+    <itemref idref="giris.htm"/>
+    <itemref idref="part1.htm"/>
+    <itemref idref="x01.htm"/>
+    <itemref idref="x02.htm"/>
+    <itemref idref="x03.htm"/>
+    <itemref idref="part2.htm"/>
+    <itemref idref="x04.htm"/>
+    <itemref idref="x05.htm"/>
+    <itemref idref="x06.htm"/>
+    <itemref idref="part3.htm"/>
+    <itemref idref="x07.htm"/>
+    <itemref idref="x08.htm"/>
+    <itemref idref="x09.htm"/>
+    <itemref idref="final.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

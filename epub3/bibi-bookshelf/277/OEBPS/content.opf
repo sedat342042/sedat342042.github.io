@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Akıllı Karga</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Pehlivanoğlu, Nurcihan">Nurcihan Pehlivanoğlu</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">448e4dcd-b5c7-4b87-bec6-0f802d4fb7fe</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="11_Akilli_Karga.xhtml" id="x11_Akilli_Karga" media-type="application/xhtml+xml"/>
+    <item href="11_Akilli_Karga-1.xhtml" id="x11_Akilli_Karga-1" media-type="application/xhtml+xml"/>
+    <item href="11_Akilli_Karga-2.xhtml" id="x11_Akilli_Karga-2" media-type="application/xhtml+xml"/>
+    <item href="11_Akilli_Karga-3.xhtml" id="x11_Akilli_Karga-3" media-type="application/xhtml+xml"/>
+    <item href="11_Akilli_Karga-4.xhtml" id="x11_Akilli_Karga-4" media-type="application/xhtml+xml"/>
+    <item href="11_Akilli_Karga-5.xhtml" id="x11_Akilli_Karga-5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/11_Akilli_Karga.css" id="x11_Akilli_Karga.css" media-type="text/css"/>
+    <item href="image/00_giris_fmt.jpeg" id="x00_giris_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/01_A Karga_fmt.jpeg" id="x01_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/02_A Karga_fmt.jpeg" id="x02_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/03_A Karga_fmt.jpeg" id="x03_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/04_A Karga_fmt.jpeg" id="x04_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/05_A Karga_fmt.jpeg" id="x05_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/06_A Karga_fmt.jpeg" id="x06_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/07_A Karga_fmt.jpeg" id="x07_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/08_A Karga_fmt.jpeg" id="x08_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/09_A Karga_fmt.jpeg" id="x09_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/10_A Karga_fmt.jpeg" id="x10_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/11_A Karga_fmt.jpeg" id="x11_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/11_Akilli_Karga_KAPAK-_fmt.jpeg" id="x11_Akilli_Karga_KAPAK-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/11_Akilli_Karga_KAPAK-o.jpg" id="x11_Akilli_Karga_KAPAK-o.jpg" media-type="image/jpeg"/>
+    <item href="image/12_A Karga_fmt.jpeg" id="x12_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/13_A Karga_fmt.jpeg" id="x13_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/14_A Karga_fmt.jpeg" id="x14_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/15_A Karga_fmt.jpeg" id="x15_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/16_A Karga_fmt.jpeg" id="x16_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/17_A Karga_fmt.jpeg" id="x17_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/18_A Karga_fmt.jpeg" id="x18_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/19_A Karga_fmt.jpeg" id="x19_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/20_A Karga_fmt.jpeg" id="x20_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/21_A Karga_fmt.jpeg" id="x21_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/22_A Karga_fmt.jpeg" id="x22_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/23_A Karga_fmt.jpeg" id="x23_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/24_A Karga_fmt.jpeg" id="x24_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/25_A Karga_fmt.jpeg" id="x25_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/26_A Karga_fmt.jpeg" id="x26_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/27_A Karga_fmt.jpeg" id="x27_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/28_A Karga_fmt.jpeg" id="x28_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/29_A Karga_fmt.jpeg" id="x29_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/30_A Karga_fmt.jpeg" id="x30_A-Karga_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_size_fmt.jpeg" id="ZambakLogo_size_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x11_Akilli_Karga"/>
+    <itemref idref="x11_Akilli_Karga-1"/>
+    <itemref idref="x11_Akilli_Karga-2"/>
+    <itemref idref="x11_Akilli_Karga-3"/>
+    <itemref idref="x11_Akilli_Karga-4"/>
+    <itemref idref="x11_Akilli_Karga-5"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Otranto Şatosu</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Walpole, Horace">Horace Walpole</dc:creator>
+    <dc:date>2011-10-01T21:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:identifier id="pub-id">urn:uuid:e321a87b-fed5-4478-a65f-01abf810406a</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">8eefd950-fa86-4d2d-b8ee-a41e22c3ea79</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="maincss" media-type="text/css"/>
+    <item href="image/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="image/kedi.jpg" id="image__kedijpg" media-type="image/jpeg"/>
+    <item href="image/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="font/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/MobilTurk.ttf" id="font__MobilTurkttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/Univers-CondensedTr.otf" id="font__Univers-CondensedTrotf" media-type="application/vnd.ms-opentype"/>
+    <item href="titlepage_u1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage_u1.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

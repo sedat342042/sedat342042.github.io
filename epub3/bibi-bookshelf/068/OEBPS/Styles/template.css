@@ -1,0 +1,832 @@
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.x2---talik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	color : #000000;
+}
+span.x3--Bold-mitat {
+	font-weight : bold;
+	font-style : normal;
+	color : #000000;
+}
+span.x7--Dipnot-numaralar--mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.88em;
+	vertical-align : super;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a-- {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x8--Ayet-adresleri---mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	color : #000000;
+}
+span.x4--Bold--talik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : italic;
+	color : #000000;
+}
+span.x7--Dipnot-numaralar--mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.88em;
+	vertical-align : super;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a---1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x4--Bold--talik-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : italic;
+	color : #000000;
+}
+span.arap-a- {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #000000;
+}
+span.x7--Dipnot-numaralar--mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.88em;
+	vertical-align : super;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a---2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x8--Ayet-adresleri---mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	color : #000000;
+}
+span.x4--Bold--talik-mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : italic;
+	color : #000000;
+}
+span.arap-a--1 {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #000000;
+}
+span.x7--Dipnot-numaralar--mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.88em;
+	vertical-align : super;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a---3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x8--Ayet-adresleri---mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	color : #000000;
+}
+span.x4--Bold--talik-mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : italic;
+	color : #000000;
+}
+span.arap-a--2 {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #000000;
+}
+span.arap-a-durak---i-ek- {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+}
+span.x7--Dipnot-numaralar--mitat-4 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.88em;
+	vertical-align : super;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a---4 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x4--Bold--talik-mitat-4 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : italic;
+	color : #000000;
+}
+span.arap-a--3 {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #000000;
+}
+span.char-style-override-1 {
+	font-size : 0.9em;
+}
+span.char-style-override-2 {
+	font-size : 0.81em;
+}
+p.Kaynak-a-ve--ndeks {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.3;
+	text-align : justify;
+	color : #000000;
+	text-indent : -20px;
+	margin : 1px 0px 0px 20px;
+}
+p.x1--baslik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 80px 0px 15px 0px;
+}
+p.Basic-Paragraph {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+	direction : rtl;
+}
+p.b--Paragraf {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -13px;
+	margin : 0px 0px 0px 13px;
+}
+p.suat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 3px 0px;
+}
+p.a--Paragraf {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.Basic-Paragraph-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+	direction : rtl;
+}
+p.jen-kapak {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 10px 0px;
+}
+p.jenerik {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 0px 0px;
+}
+p.yazar {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 25px 0px;
+}
+p.giris-slogan {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.75;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.giris-baslik {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 2.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.35;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 10px 0px 0px 0px;
+}
+p.jen-copy {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 0px 0px;
+}
+p.Basic-Paragraph-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+	direction : rtl;
+}
+p.a--Paragraf-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.b--Paragraf-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -13px;
+	margin : 0px 0px 0px 13px;
+}
+p.a--Paragraf-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.x2--baslik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.14;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 0px 9px 0px;
+}
+p.x3--baslik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 10px 0px 6px 34px;
+}
+p.ayet-indeksi {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.3;
+	text-align : justify;
+	color : #000000;
+	text-indent : -20px;
+	margin : 1px 0px 0px 20px;
+}
+p.x01--bolum---fasil-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 80px 0px 50px 0px;
+}
+p.x4--baslik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.17;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 11px 0px 6px 34px;
+}
+p.b--Paragraf-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -13px;
+	margin : 0px 0px 0px 13px;
+}
+p.a--Paragraf-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.x2--baslik-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.14;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 0px 9px 0px;
+}
+p.x3--baslik-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 10px 0px 6px 34px;
+}
+p.a--Paragraf-4 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.b--Paragraf-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -13px;
+	margin : 0px 0px 0px 13px;
+}
+p.a--Paragraf-5 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.x2--baslik-mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.14;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 0px 9px 0px;
+}
+p.x3--baslik-mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 10px 0px 6px 34px;
+}
+p.x01--bolum---fasil-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 80px 0px 50px 0px;
+}
+p.x4--baslik-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.17;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 11px 0px 6px 34px;
+}
+p.TABLO {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.44;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px;
+}
+p.C--Arap-a--13-22-mitat {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.69;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 23px 6px 23px;
+	direction : rtl;
+}
+p.C--Arap-a--13-22-mitat-copy {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.69;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 23px 6px 23px;
+	direction : rtl;
+}
+p.b--Paragraf-4 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -13px;
+	margin : 0px 0px 0px 13px;
+}
+p.a--Paragraf-6 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.x2--baslik-mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.14;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 0px 9px 0px;
+}
+p.x3--baslik-mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 10px 0px 6px 34px;
+}
+p.x01--bolum---fasil-mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 80px 0px 50px 0px;
+}
+p.x4--baslik-mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.17;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 11px 0px 6px 34px;
+}
+p.x5--baslik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 11px 0px 6px 34px;
+}
+p.para-style-override-1 {
+	text-align : center;
+}
+p.para-style-override-2 {
+	text-align : left;
+}
+p.para-style-override-3 {
+	margin-bottom : 0px;
+}
+p.para-style-override-4 {
+	margin-bottom : 3px;
+}
+p.para-style-override-5 {
+	text-align : right;
+}
+table.No-Table-Style {
+	border-collapse : collapse;
+	border-width : 1px;
+	border-style : solid;
+	border-color : #000000;
+	margin-top : 4px;
+	margin-bottom : -4px;
+}
+table.No-Table-Style-1 {
+	border-collapse : collapse;
+	border-width : 1px;
+	border-style : solid;
+	border-color : #000000;
+	margin-top : 4px;
+	margin-bottom : -4px;
+}
+table.Basic-Table {
+	border-collapse : collapse;
+	border-width : 1px;
+	border-style : solid;
+	border-color : #000000;
+	margin-top : 4px;
+	margin-bottom : -4px;
+}
+table.table-style-override-1 {
+	border-collapse : collapse;
+	border-width : 0.75px;
+}
+td.cell-style-override-1 {
+	padding-bottom : 0px;
+	padding-left : 4px;
+	padding-right : 0px;
+	padding-top : 0px;
+}
+td.cell-style-override-2 {
+	padding-bottom : 0px;
+	padding-left : 6px;
+	padding-right : 0px;
+	padding-top : 0px;
+}
+td.cell-style-override-3 {
+	padding-left : 11px;
+}
+td.cell-style-override-4 {
+	padding-bottom : 0px;
+	padding-left : 3px;
+	padding-right : 0px;
+	padding-top : 0px;
+}
+td.cell-style-override-5 {
+	padding-bottom : 0px;
+	padding-left : 0px;
+	padding-right : 0px;
+	padding-top : 0px;
+}
+div.Basic-Text-Frame {
+}

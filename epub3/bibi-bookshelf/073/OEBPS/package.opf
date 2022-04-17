@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Babaya Mektup</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750724510</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">db77cb84-c71e-4711-8556-6848b5c7026e</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789750724510</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="works.xhtml" id="worksxhtml" media-type="application/xhtml+xml"/>
+    <item href="biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="introduction.xhtml" id="introductionxhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter.xhtml" id="chapterxhtml" media-type="application/xhtml+xml"/>
+    <item href="part.xhtml" id="partxhtml" media-type="application/xhtml+xml"/>
+    <item href="appendix.xhtml" id="appendixxhtml" media-type="application/xhtml+xml"/>
+    <item href="notice.xhtml" id="noticexhtml" media-type="application/xhtml+xml"/>
+    <item href="bibliography.xhtml" id="bibliographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="maincss" media-type="text/css"/>
+    <item href="image/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="image/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="usnOrPTwI6u9PsiFd4UFyU4" media-type="image/jpeg"/>
+    <item href="font/BerlingLTStd-Bold.ttf" id="font__BerlingLTStd-Boldttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-MedItalic.ttf" id="font__BerlingLTStd-MedItalicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Medium.ttf" id="font__BerlingLTStd-Mediumttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/vnd.ms-opentype"/>
+    <item href="titlepage_u1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="worksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="introductionxhtml"/>
+    <itemref idref="chapterxhtml"/>
+    <itemref idref="partxhtml"/>
+    <itemref idref="appendixxhtml"/>
+    <itemref idref="noticexhtml"/>
+    <itemref idref="bibliographyxhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage_u1.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

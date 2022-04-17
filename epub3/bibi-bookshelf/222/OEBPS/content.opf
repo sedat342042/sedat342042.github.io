@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>İsa Yazmaları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Baigent, Michael">Michael Baigent</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:36b65d32-17e5-455a-bf10-cf046086607f</dc:identifier>
+    <dc:date>2006-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Yakamoz Yayınevi</dc:publisher>
+    <dc:type>Araştırma Din</dc:type>
+    <dc:date opf:event="modification">2014-09-20</dc:date>
+    <dc:description>&lt;div&gt; &lt;p class="MsoNormal" style="margin-bottom: 0.0001pt;"&gt;"Kutsal K'ase, Kutsal Kan"ın yazarı Michael Baigent, araştırmalarının popüler yazarlarca medyatikleştirilip güdük bir hale getirildiğine dikkat çektikten sonra çalışmalarının sevamını bu kitapta ortaya koyduğunu belirtiyor:&lt;/p&gt;&lt;p class="MsoNormal" style="margin-bottom: 0.0001pt;"&gt;“Yirmi iki yıllık keşif seyahatimin tecrübelerini de bu kitaba yansıtarak; okurla birlikte kimi çıkmaz sokaklarda biten, kimi sonu görünmeyen ihtimallere açılan bir yolculuğa çıkıyoruz. Bu yolculuk, İsa hakkında daha fazla bilgi edinmemizi sağlayacak. Bunu yaparken de din kitaplarında anlatılanlara değil; tarihsel kanıtlara başvuracağız.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt; &lt;p class="MsoNormal" style="margin-bottom: 0.0001pt;"&gt;Burada sunduğum bilgileri, kendinizi zorlamayacak bir hızda okumalısınız. Açıklamamın her bir parçasını, anlayabilmenize yetecek bir süre içinde değerlendirmelisiniz. Bu oldukça önemli; çünkü biz, burada olduğu gibi, ezelden beridir inanılmış şeylerin doğruluğuna karşı çıkıldığı zaman, yol boyunca attığımız her adımın doğruluğunu kanıtlamak ve bu adımların neden atıldığını açıklamak zorunda olduğumuzun bilinciyle hareket ediyoruz. Açıktır ki; ancak bu şekilde yolun sonuna vardığımızda, konular üzerinde nerede durduğumuza dair kendimizden emin olabiliriz. Eleştirel bir okuma, yeni bulgularla yüz yüze gelmenize neden olacaktır.”&lt;/p&gt;&lt;p style="font-family: '.SF NS Text', sans-serif; font-size: 14px;"&gt;&lt;/p&gt;&lt;p style="font-family: '.SF NS Text', sans-serif; font-size: 14px;"&gt;&lt;/p&gt; &lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f4d51d96-14f7-431f-bc7e-3cf86be99299</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758809950</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0026.xhtml" id="Section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.xhtml" id="Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.xhtml" id="Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.xhtml" id="Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0022.xhtml" id="Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0023.xhtml" id="Section0023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0025.xhtml" id="Section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/stylesheet1.css" id="stylesheet1.css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpg" id="uQiyaMuBGKjxdnGkKBgdiu7" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0026.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="Section0022.xhtml"/>
+    <itemref idref="Section0023.xhtml"/>
+    <itemref idref="Section0025.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0003.xhtml" title="Acknowledgements" type="acknowledgements"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Maya Uygarlığının Sakladığı Sır</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Özeren, Sara Gürbüz">Sara Gürbüz Özeren</dc:creator>
+    <dc:description>&lt;p&gt;Anadolu Türk Uygarlığından Çin Seddi'ne
+Mısır Piramitlerinden Maya Uygarlığının sırlarına
+Zoya Gezegeni'nden Mars Uygarlığına
+Geçmişin Derinliklerinden Geleceğin Gizemine
+Soluk Soluğa Okuyacağınız Macera, Tarih ve Keşiflerle Dolu &lt;/p&gt;</dc:description>
+    <dc:publisher>Damla Yayınevi</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">978-605-383-437-3</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-08-14</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">803c38cc-aa8d-4c47-80f0-2bacaa76b9c1</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786053835721</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/mayauygarligininsirri-epub.html" id="mayauygarligininsirri-epub" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2-CILDEDE-9-10_fmt.png" id="x2-CILDEDE-9-10_fmt.png" media-type="image/png"/>
+    <item href="Images/2-CILDEDE-13-14_fmt.png" id="x2-CILDEDE-13-14_fmt.png" media-type="image/png"/>
+    <item href="Images/2-CILDEDE-24_fmt.png" id="x2-CILDEDE-24_fmt.png" media-type="image/png"/>
+    <item href="Images/2-CILDEDE-33-34_fmt.png" id="x2-CILDEDE-33-34_fmt.png" media-type="image/png"/>
+    <item href="Images/2-CILDEDE-40_fmt.png" id="x2-CILDEDE-40_fmt.png" media-type="image/png"/>
+    <item href="Images/2-CILDEDE-41_fmt.png" id="x2-CILDEDE-41_fmt.png" media-type="image/png"/>
+    <item href="Images/2-CILDEDE-55_fmt.png" id="x2-CILDEDE-55_fmt.png" media-type="image/png"/>
+    <item href="Images/2-CILDEDE-59_fmt.png" id="x2-CILDEDE-59_fmt.png" media-type="image/png"/>
+    <item href="Images/2-CILDEDE-59-1_fmt.png" id="x2-CILDEDE-59-1_fmt.png" media-type="image/png"/>
+    <item href="Images/2-CILDEDE-5999_fmt.png" id="x2-CILDEDE-5999_fmt.png" media-type="image/png"/>
+    <item href="Images/2-kitap_fmt.png" id="x2-kitap_fmt.png" media-type="image/png"/>
+    <item href="Images/17_fmt.png" id="x17_fmt.png" media-type="image/png"/>
+    <item href="Images/875gosterge_fmt.png" id="x875gosterge_fmt.png" media-type="image/png"/>
+    <item href="Images/1601gosterge_fmt.png" id="x1601gosterge_fmt.png" media-type="image/png"/>
+    <item href="Images/CDEDE--UFO_fmt.png" id="CDEDE--UFO_fmt.png" media-type="image/png"/>
+    <item href="Images/damlalogo_fmt.png" id="damlalogo_fmt.png" media-type="image/png"/>
+    <item href="Images/kanijeharitasi_fmt.png" id="kanijeharitasi_fmt.png" media-type="image/png"/>
+    <item href="Images/kosanlar_fmt.png" id="kosanlar_fmt.png" media-type="image/png"/>
+    <item href="Images/mayaamlem_fmt.png" id="mayaamlem_fmt.png" media-type="image/png"/>
+    <item href="Images/toplandik_fmt.png" id="toplandik_fmt.png" media-type="image/png"/>
+    <item href="Images/ufo_fmt.png" id="ufo_fmt.png" media-type="image/png"/>
+    <item href="Images/zamangostergesi1copy_fmt.png" id="zamangostergesi1copy_fmt.png" media-type="image/png"/>
+    <item href="Images/zamanmakinesi-baslik_fmt.png" id="zamanmakinesi-baslik_fmt.png" media-type="image/png"/>
+    <item href="Images/zamanmakinesi-baslik_fmt1.png" id="zamanmakinesi-baslik_fmt1.png" media-type="image/png"/>
+    <item href="Images/zamanmakinesi-baslik_fmt2.png" id="zamanmakinesi-baslik_fmt2.png" media-type="image/png"/>
+    <item href="OEBPS/cover.jpg" id="uh4KwFDPbuqe9JuBsOiCfGE" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="mayauygarligininsirri-epub"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

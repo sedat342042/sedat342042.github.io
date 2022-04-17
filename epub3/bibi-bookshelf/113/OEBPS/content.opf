@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kimse Kızmasın, Kendimi Yazdım</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Cemal, Hasan">Hasan Cemal</dc:creator>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:contributor opf:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:028915fa-e1c0-4f0a-880f-933728a3e4bf</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">db3b812f-0e5a-42b9-855c-c2489bca2040</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:028915fa-e1c0-4f0a-880f-933728a3e4bf</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF.xhtml" id="ITHAF.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BASLARKEN.xhtml" id="BASLARKEN.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BIRINCI_BOLUM.xhtml" id="BIRINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/IKINCI_BOLUM.xhtml" id="IKINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/UCUNCU_BOLUM.xhtml" id="UCUNCU_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DORDUNCU_BOLUM.xhtml" id="DORDUNCU_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BESINCI_BOLUM.xhtml" id="BESINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ALTINCI_BOLUM.xhtml" id="ALTINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YEDINCI_BOLUM.xhtml" id="YEDINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/SEKIZINCI_BOLUM.xhtml" id="SEKIZINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DOKUZUNCU_BOLUM.xhtml" id="DOKUZUNCU_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ONUNCU_BOLUM.xhtml" id="ONUNCU_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ON_BIRINCI_BOLUM.xhtml" id="ON_BIRINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ON_IKINCI_BOLUM.xhtml" id="ON_IKINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BITERKEN.xhtml" id="BITERKEN.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/01_fmt.jpeg" id="x01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/02_fmt.jpeg" id="x02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/03_fmt.jpeg" id="x03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/04_fmt.jpeg" id="x04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/05_fmt.jpeg" id="x05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/06_fmt.jpeg" id="x06_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/08_fmt.jpeg" id="x08_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/09_hc_fmt.jpeg" id="x09_hc_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/10_fmt.jpeg" id="x10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15_hc_fmt.jpeg" id="x15_hc_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/AD_HC18_fmt.jpeg" id="AD_HC18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC_4_fmt.jpeg" id="HC_4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC_5_fmt.jpeg" id="HC_5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC_8_UGURMUMCU_fmt.jpeg" id="HC_8_UGURMUMCU_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC_9_fmt.jpeg" id="HC_9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC1_fmt.jpeg" id="HC1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC1b_fmt.jpeg" id="HC1b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC2_fmt.jpeg" id="HC2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC3_fmt.jpeg" id="HC3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC6_fmt.jpeg" id="HC6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/HC7_fmt.jpeg" id="HC7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uNEYHrRmdw9Mrrs9CFiad5D" media-type="image/jpeg"/>
+    <item href="Fonts/HelveticaNeueLTStd-Cn.ttf" id="HelveticaNeueLTStd-Cn.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/HelveticaNeueLTStd-Cn0001.ttf" id="HelveticaNeueLTStd-Cn0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif6BetaItalic.ttf" id="Serif6BetaItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif6BetaItalic0001.ttf" id="Serif6BetaItalic0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaBold.ttf" id="Serif12BetaBold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaBold0001.ttf" id="Serif12BetaBold0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaRoman.ttf" id="Serif12BetaRoman.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaRoman0001.ttf" id="Serif12BetaRoman0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSans.ttc" id="GillSans.ttc" media-type="application/x-font-truetype-collection"/>
+    <item href="Fonts/GillSans0001.ttc" id="GillSans0001.ttc" media-type="application/x-font-truetype-collection"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="ITHAF.xhtml"/>
+    <itemref idref="BASLARKEN.xhtml"/>
+    <itemref idref="BIRINCI_BOLUM.xhtml"/>
+    <itemref idref="IKINCI_BOLUM.xhtml"/>
+    <itemref idref="UCUNCU_BOLUM.xhtml"/>
+    <itemref idref="DORDUNCU_BOLUM.xhtml"/>
+    <itemref idref="BESINCI_BOLUM.xhtml"/>
+    <itemref idref="ALTINCI_BOLUM.xhtml"/>
+    <itemref idref="YEDINCI_BOLUM.xhtml"/>
+    <itemref idref="SEKIZINCI_BOLUM.xhtml"/>
+    <itemref idref="DOKUZUNCU_BOLUM.xhtml"/>
+    <itemref idref="ONUNCU_BOLUM.xhtml"/>
+    <itemref idref="ON_BIRINCI_BOLUM.xhtml"/>
+    <itemref idref="ON_IKINCI_BOLUM.xhtml"/>
+    <itemref idref="BITERKEN.xhtml"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

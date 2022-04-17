@@ -1,0 +1,8 @@
+p {font-size: small; text-indent: 0em; margin: 0;}
+
+.kapak {font-size:1.5em; text-indent: 0em; margin: 0;}
+.yeralti {margin-top: 5em; width: 100%;}
+.yeralti_sol {float: left; width: 50%;}
+.yeralti_sol p {text-align: right;}
+.yeralti_sag {clear: both; float: right; margin-top: 1.5em; width: 50%;}
+.yeralti_sag p {text-align: left;}

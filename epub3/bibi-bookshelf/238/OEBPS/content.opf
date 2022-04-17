@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Kur'an İklimine Seyahat</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Akgül, Muhittin">Muhittin Akgül</dc:creator>
+    <dc:description>&lt;span style="orphans: 2; widows: 2;"&gt;Elinizdeki kitap 12 bölümden oluşmaktadır. Bu bölümlerde Kur'ân'ın tanımı ve diğer isimleri, vahiy ve vahiyle ilgili merak edilen bazı konular, âyet ve sûreler, Kur'ân'ın bir kitap hâline getirilmesi ve çoğaltılması, Kur'ân'ın dil ve üslup özellikleri, mucizeliği, korunmuşluğu, muhtevası, evrenselliği, tefsiri, okunması ve okunma adabı gibi konular üzerinde durulmuştur.&lt;/span&gt;</dc:description>
+    <dc:publisher>Işık Yayınları</dc:publisher>
+    <dc:date>2007-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">67f01b8c-8338-449b-9f16-2ffe150a2ed5</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="02-Jenerik.html" id="x02-Jenerik" media-type="application/xhtml+xml"/>
+    <item href="03-01.html" id="x03-01" media-type="application/xhtml+xml"/>
+    <item href="03-02.html" id="x03-02" media-type="application/xhtml+xml"/>
+    <item href="03-03.html" id="x03-03" media-type="application/xhtml+xml"/>
+    <item href="03-04.html" id="x03-04" media-type="application/xhtml+xml"/>
+    <item href="03-05.html" id="x03-05" media-type="application/xhtml+xml"/>
+    <item href="03-06.html" id="x03-06" media-type="application/xhtml+xml"/>
+    <item href="03-07.html" id="x03-07" media-type="application/xhtml+xml"/>
+    <item href="03-08.html" id="x03-08" media-type="application/xhtml+xml"/>
+    <item href="03-09.html" id="x03-09" media-type="application/xhtml+xml"/>
+    <item href="03-10.html" id="x03-10" media-type="application/xhtml+xml"/>
+    <item href="03-11.html" id="x03-11" media-type="application/xhtml+xml"/>
+    <item href="03-12.html" id="x03-12" media-type="application/xhtml+xml"/>
+    <item href="03-13.html" id="x03-13" media-type="application/xhtml+xml"/>
+    <item href="03-14.html" id="x03-14" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/isik_fmt.jpeg" id="isik_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/kuran iklimi_fmt.png" id="kuran-20iklimi_fmt.png" media-type="image/png"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="u5ORdFIRjTEscCth4wRPSOA" media-type="image/jpeg"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x02-Jenerik"/>
+    <itemref idref="x03-01"/>
+    <itemref idref="x03-02"/>
+    <itemref idref="x03-03"/>
+    <itemref idref="x03-04"/>
+    <itemref idref="x03-05"/>
+    <itemref idref="x03-06"/>
+    <itemref idref="x03-07"/>
+    <itemref idref="x03-08"/>
+    <itemref idref="x03-09"/>
+    <itemref idref="x03-10"/>
+    <itemref idref="x03-11"/>
+    <itemref idref="x03-12"/>
+    <itemref idref="x03-13"/>
+    <itemref idref="x03-14"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

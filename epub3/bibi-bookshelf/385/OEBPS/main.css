@@ -1,0 +1,167 @@
+@font-face{
+	font-family:"NewBasker";
+	font-style:normal;
+	font-weight:normal;
+	src:url("font/NewBaskervilleITCbyBT-Roman.otf") format("opentype");
+}
+
+@font-face{
+	font-family:"News";
+	font-style:bold;
+	font-weight:normal;
+	src:url("font/News702BT-Bold.otf") format("opentype");
+}
+
+@font-face{
+	font-family:"News";
+	font-style:normal;
+	font-weight:italic;
+	src:url("font/News702BT-Italic.otf") format("opentype");
+}
+
+@font-face{
+	font-family:"News";
+	font-style:normal;
+	font-weight:normal;
+	src:url("font/News702BT-Roman.otf") format("opentype");
+}
+
+/*cover*/
+
+.cover-container{
+	margin: 0 auto;
+	max-width: 500px;
+	page-break-inside: avoid;
+}
+
+.cover-container img {
+	width: 100%;
+}
+
+/*copyright-page*/
+.copyright-page .copy{
+	margin: .8em 0 0 ;
+}
+
+.copyright-page .publisher{
+	margin-top: 2em;
+}
+
+.copyright-page span{
+	font-family: "News";
+	font-size:0.8em;
+	display: block;
+}
+
+.copyright-page .pull {
+	padding-left: .5em;
+}
+
+
+.copyright-page a{
+	color:#777;
+	text-decoration: none;
+	
+}
+
+.copy-small{
+	font:normal normal .75em/1.3em "News";
+	margin-top: 1em;
+}
+
+/*titlepage*/
+
+.title {
+	text-align: center;
+}
+
+.aut{
+	margin-top: 2em;
+	font:normal normal 1.65em/1.2em  "NewBasker";
+}
+.aut .ilk-harf{
+	font-size: 1.2em !important;
+}
+
+.work {
+	font:normal normal 1.65em/1.1em  "NewBasker";
+	margin-top: .5em;
+}
+
+.seri{
+		font:normal normal .8em/1.3em "News";
+		margin-top: 3.5em;
+}
+
+.publ{
+	margin-top: 3.5em;
+}
+/*works*/
+
+.works p {
+	text-align: center;
+	margin:0 auto 2em;
+	font: normal normal .8em/1.4em "News";
+	text-indent: 0;
+}
+
+.works ul {
+	margin:0;
+	padding: 0;
+	list-style: none;
+}
+
+.works li {
+	text-align: center;
+	font:normal normal .7em/1.3em "News";
+	padding-bottom: .3em;
+}
+
+/*biography*/
+
+.biography .container p{
+font:normal normal .8em/1.5em "News";
+text-indent: 0;
+}
+
+.site{
+	font: normal normal 1em/1.4em "News";
+	display: block;
+	text-align: center;
+	margin-top: 1em;
+}
+
+.site p{
+	margin: 0;
+}
+/*Part*/
+.part{
+	font:normal normal 1.25em/1.3em "News";
+	text-align: center;
+	margin-top: 3.5em;
+}
+
+/*Chapter*/
+.chapter{
+	margin-top: 2em;
+}
+
+.chapter h1{
+	font:normal normal 1em/1.3em "News";
+	margin-top: 3.5em;
+	margin-bottom: 2em;
+	text-align: center;
+}
+
+.chapter p{
+	font: normal normal .9em/1.3em "News";
+	text-indent: 2.4em;
+	margin:0;
+}
+
+blockquote{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0;
+	margin-right: 0;
+}

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Hicaz Hatıratı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Vassaf, Osmanzade Hüseyin">Osmanzade Hüseyin Vassaf</dc:creator>
+    <dc:description>Hüseyin Vassaf'ın, 110 gün süren seyahatini kaleme aldığı bu eser, hatırat özelliği taşımakla birlikte günlük şeklinde yazılmıştır.  
+  
+28 Aralık 1905 tarihinde deniz yoluyla hacca gitmenin hazırlığı içinde olan Hüseyin Vassaf, kendisinden kaynaklanmayan bazı engeller nedeniyle 2 Ocak 1906 tarihinde yola çıkar. Hüseyin Vassaf'ın hac ibadetini gerçekleştirerek İstanbul'a dönüşü ise 12 Nisan1906 gününün sabahıdır.  
+  
+İstanbul'dan yola çıkan vapur, Gelibolu'dan, Çanakkale'den ve Ege Denizi'ndeki adaların arasından geçerek Akdeniz'e açılır. Beyrut, Sayda, Port Sait, Süveyş ve Kızıl Deniz yoluyla Cidde'ye ulaşır.   
+  
+Yazarın Cidde'den Mekke'ye gidişi, Mekke'den Cidde'ye gelişi kara yoluyla, deve sırtında gerçekleşir. Cidde'den Yenbu şehrine deniz yoluyla gelen yazar, Yenbu'dan Medine'ye, Medine'den Yenbu şehrine deve üzerinde yolculuk yapar. Yenbu'dan İstanbul'a gelişi de deniz yoluyla gerçekleşir.   
+  
+Hüseyin Vassaf, eserinin orijinal bir özellik arzetmesini istediğinden onu görsel malzemelerle ve belgelerle süslemiştir. Bazı mekânları ve eşyaları da kendisi çizmiştir.  
+  
+Titiz bir çalışmayla bu kıymetli eseri hazırlayan Cemil Çiftçi de Hüseyin Vassaf'ın eserinde yer alan bu çizimlere ve fotoğraflara yer vermiş, kaybolan fotoğrafların yerine de -mümkün olduğu ölçüde- 100 yıl öncesinin fotoğraflarını yerleştirmeye çalışmıştır.</dc:description>
+    <dc:publisher>Kurtuba Kitap</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:41982D84-39F4-4C4A-A797-FCA412C65ABF</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2013-12-19</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">f16109f1-0632-4dd9-af5a-607409c5395f</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789756743805</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3-extracted_fmt.jpeg" id="x3-extracted_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/4++_fmt.jpeg" id="x4-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/5++_fmt.jpeg" id="x5-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/6 (2)++_fmt.jpeg" id="x6-20-2--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/7 (2)++_fmt.jpeg" id="x7-20-2--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/8++_fmt.jpeg" id="x8-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/9 (2)++_fmt.jpeg" id="x9-20-2--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/9 (4)++_fmt.jpeg" id="x9-20-4--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/11 (2)++_fmt.jpeg" id="x11-20-2--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/12++_fmt.jpeg" id="x12-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/13-extracted_fmt.jpeg" id="x13-extracted_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15++_fmt.png" id="x15-2b-2b_fmt.png" media-type="image/png"/>
+    <item href="Images/17++_fmt.jpeg" id="x17-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/18++_fmt.jpeg" id="x18-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/19++_fmt.jpeg" id="x19-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/21_fmt.jpeg" id="x21_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/23 (3)++_fmt.jpeg" id="x23-20-3--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/24++_fmt.jpeg" id="x24-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/25 (2)++_fmt.jpeg" id="x25-20-2--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/26++_fmt.jpeg" id="x26-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/27++_fmt.jpeg" id="x27-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/28 (2)-extracted_fmt.jpeg" id="x28-20-2--extracted_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/30++_fmt.png" id="x30-2b-2b_fmt.png" media-type="image/png"/>
+    <item href="Images/31 (3)-extracted_fmt.jpeg" id="x31-20-3--extracted_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/32 (2)++_fmt.jpeg" id="x32-20-2--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/33++_fmt.jpeg" id="x33-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/34 (2)++_fmt.jpeg" id="x34-20-2--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/35 (2)++_fmt.jpeg" id="x35-20-2--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/36 (2)++_fmt.jpeg" id="x36-20-2--2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/37++_fmt.jpeg" id="x37-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/38++_fmt.jpeg" id="x38-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/38+++_fmt.jpeg" id="x38-2b-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/39++_fmt.jpeg" id="x39-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/40++_fmt.jpeg" id="x40-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/41-extracted_fmt.jpeg" id="x41-extracted_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/42++_fmt.jpeg" id="x42-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/42+++_fmt.jpeg" id="x42-2b-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/44++_fmt.jpeg" id="x44-2b-2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Sarad_fmt.png" id="Sarad_fmt.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-06-02 _fmt.png" id="Screen-20Shot-202012-06-02-20_fmt.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-06-02_fmt1.png" id="Screen-20Shot-202012-06-02_fmt1.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-06-02_fmt2.png" id="Screen-20Shot-202012-06-02_fmt2.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-06-02_fmt3.png" id="Screen-20Shot-202012-06-02_fmt3.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-06-02_fmt4.png" id="Screen-20Shot-202012-06-02_fmt4.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-06-02_fmt5.png" id="Screen-20Shot-202012-06-02_fmt5.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-06-02_fmt6.png" id="Screen-20Shot-202012-06-02_fmt6.png" media-type="image/png"/>
+    <item href="OEBPS/cover.jpg" id="uzTdo253I2jANNrgX6WXlvC" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

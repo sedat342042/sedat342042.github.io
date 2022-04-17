@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kütük</dc:title>
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Seyfettin, Ömer &amp; Buğrahan, M. Orhan">Ömer Seyfettin</dc:creator>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">M. Orhan Buğrahan</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">05d77bc2-35df-4bab-b70c-03027fd39514</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="17_kutuk.xhtml" id="x17_kutuk" media-type="application/xhtml+xml"/>
+    <item href="17_kutuk-1.xhtml" id="x17_kutuk-1" media-type="application/xhtml+xml"/>
+    <item href="17_kutuk-2.xhtml" id="x17_kutuk-2" media-type="application/xhtml+xml"/>
+    <item href="17_kutuk-3.xhtml" id="x17_kutuk-3" media-type="application/xhtml+xml"/>
+    <item href="17_kutuk-4.xhtml" id="x17_kutuk-4" media-type="application/xhtml+xml"/>
+    <item href="17_kutuk-5.xhtml" id="x17_kutuk-5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/17_kutuk.css" id="x17_kutuk.css" media-type="text/css"/>
+    <item href="image/01_Kutuk_fmt.jpeg" id="x01_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/02_Kutuk_fmt.jpeg" id="x02_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/03_Kutuk_fmt.jpeg" id="x03_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/04_Kutuk_fmt.jpeg" id="x04_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/05_Kutuk_fmt.jpeg" id="x05_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/06_Kutuk_fmt.jpeg" id="x06_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/07_Kutuk_fmt.jpeg" id="x07_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/08_Kutuk_fmt.jpeg" id="x08_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/09_Kutuk_fmt.jpeg" id="x09_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/10_Kutuk_fmt.jpeg" id="x10_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/11_Kutuk_fmt.jpeg" id="x11_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/13_Kutuk_fmt.jpeg" id="x13_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/14_Kutuk_fmt.jpeg" id="x14_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/14_Kutuk_fmt1.jpeg" id="x14_Kutuk_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/15_Kutuk_fmt.jpeg" id="x15_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/16_Kutuk_fmt.jpeg" id="x16_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/17_Kutuk_fmt.jpeg" id="x17_Kutuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/17_Kutuk_Kapak.jpg" id="x17_Kutuk_Kapak.jpg" media-type="image/jpeg"/>
+    <item href="image/17_Kutuk_Kapak2_fmt.jpeg" id="x17_Kutuk_Kapak2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/18_Vire_fmt.jpeg" id="x18_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/19_Vire_fmt.jpeg" id="x19_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/20_Vire_fmt.jpeg" id="x20_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/21_Vire_fmt.jpeg" id="x21_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/22_Vire_fmt.jpeg" id="x22_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/23_Vire_fmt.jpeg" id="x23_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/24_Vire_fmt.jpeg" id="x24_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/25_Vire_fmt.jpeg" id="x25_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/26_Vire_fmt.jpeg" id="x26_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/27_Vire_fmt.jpeg" id="x27_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/28_Vire_fmt.jpeg" id="x28_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/29_Vire_fmt.jpeg" id="x29_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/30_Vire_fmt.jpeg" id="x30_Vire_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/31_Forsa_fmt.jpeg" id="x31_Forsa_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/32_Forsa_fmt.jpeg" id="x32_Forsa_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/33_Forsa_fmt.jpeg" id="x33_Forsa_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/34_Forsa_fmt.jpeg" id="x34_Forsa_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/35_Forsa_fmt.jpeg" id="x35_Forsa_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/zambak_adres (11-2011)_fmt.jpeg" id="zambak_adres--11-2011-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_fmt.jpeg" id="ZambakLogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS.ttf" id="TrebuchetMS.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x17_kutuk"/>
+    <itemref idref="x17_kutuk-1"/>
+    <itemref idref="x17_kutuk-2"/>
+    <itemref idref="x17_kutuk-3"/>
+    <itemref idref="x17_kutuk-4"/>
+    <itemref idref="x17_kutuk-5"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

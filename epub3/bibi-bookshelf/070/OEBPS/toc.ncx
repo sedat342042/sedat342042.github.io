@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750720277" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Huzursuzluğun Kitabı</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Çevirmenin önsözü</text>
+         </navLabel>
+         <content src="Text/preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Mário de Sá-Carneiro’ya mektup</text>
+         </navLabel>
+         <content src="Text/preamble.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>OLAYSIZ BİR ÖZYAŞAMÖYKÜSÜ</text>
+         </navLabel>
+         <content src="Text/chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>BÜYÜK METİNLER</text>
+         </navLabel>
+         <content src="Text/chapter33.xhtml"/>
+         <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+               <text>“Uyuyan suların Madonnası...”</text>
+            </navLabel>
+            <content src="Text/chapter34.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+               <text>“Ölü hayatımın olanca ağırlığını duyuyorum üzerimde”</text>
+            </navLabel>
+            <content src="Text/chapter35.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>“Görünen âşık”</text>
+            </navLabel>
+            <content src="Text/chapter36.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+               <text>“İyi hayal kurma sanatı üzerine”</text>
+            </navLabel>
+            <content src="Text/chapter37.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+               <text>“Duyumcu”</text>
+            </navLabel>
+            <content src="Text/chapter38.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+               <text>“Çıkılmamış yolculuk”</text>
+            </navLabel>
+            <content src="Text/chapter39.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>EKLER</text>
+         </navLabel>
+         <content src="Text/part.xhtml"/>
+         <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+               <text>Vicente Guedes’in adının geçtiği metinler</text>
+            </navLabel>
+            <content src="Text/part1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+               <text>Bavyera Kralı II. Ludwig için cenaze marşıyla ilgili parçalar</text>
+            </navLabel>
+            <content src="Text/part2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+               <text>Huzursuzluğun Kitabı’na dahil edilmemiş parçalar</text>
+            </navLabel>
+            <content src="Text/part3.xhtml"/>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

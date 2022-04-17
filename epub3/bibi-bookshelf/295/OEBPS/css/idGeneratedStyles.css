@@ -1,0 +1,520 @@
+@font-face {
+	font-family:"Times New Roman";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/TimesNewRomanPS-BoldMT.ttf");
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/TimesNewRomanPS-ItalicMT.ttf");
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/TimesNewRomanPS-ItalicMT.ttf");
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/TimesNewRomanPSMT.ttf");
+}
+@font-face {
+	font-family:Uhuvvet;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/Uhuvvet.otf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0.5px 0.5px 0.5px 0.5px;
+}
+div.Basic-Text-Frame {
+}
+p.__Paragraf {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.875em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.429;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Baslik_1 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:57px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:85px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Baslik_2 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:11px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:17px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Copyright_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.75em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Kitap_ism_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:94px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Links_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.75em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:14px;
+	margin-left:14px;
+	margin-right:14px;
+	margin-top:14px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.PERDE {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Paragraf_isimler {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.875em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.429;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:14px;
+	text-transform:none;
+	widows:1;
+}
+p.Siirler_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.875em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.429;
+	margin-bottom:6px;
+	margin-left:28px;
+	margin-right:0;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Tarihler_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.833em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Yildiz_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.875em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.a_Paragraf {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.875em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.429;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:14px;
+	text-transform:none;
+	widows:1;
+}
+p.arabic_ortali_E {
+	color:#000000;
+	font-family:Uhuvvet, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.667;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ilk_harf_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.875em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.429;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.jenerik_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:9px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.slogan_2 {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.917em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.yaza_ismi_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:43px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:43px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span._aleyhisselam-_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:0.667em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.Biyografi_E {
+	color:#000000;
+	font-size:1.167em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.Hyperlink {
+	color:#4f5cd6;
+	text-decoration:underline;
+}
+span.bold_E {
+	color:#000000;
+	font-style:normal;
+	font-weight:bold;
+}
+span.italik_E {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:none;
+}
+span.CharOverride-1 {
+	font-family:"Times New Roman";
+	font-size:1.167em;
+	font-style:normal;
+	font-weight:normal;
+}
+p._idGenParaOverride-1 {
+	page-break-after:always;
+}
+span._idGenCharOverride-1 {
+	font-size:0.762em;
+}
+span._idGenCharOverride-2 {
+	font-family:"Times New Roman";
+}
+span._idGenCharOverride-3 {
+	font-family:"Times New Roman";
+	font-size:0.778em;
+}
+._idGenDropcap-1 {
+	float:left;
+	font-size:3.158em;
+	line-height:1;
+	margin-bottom:-0.216em;
+	margin-right:0.05em;
+	margin-top:-0.116em;
+}
+._idGenDropcap-2 {
+	color:#666666;
+	float:left;
+	font-size:3.158em;
+	line-height:1;
+	margin-bottom:-0.216em;
+	margin-right:0.05em;
+	margin-top:-0.116em;
+}
+img._idGenPageitem-1 {
+	height:44px;
+	width:34px;
+}
+img._idGenPageitem-2 {
+	height:75px;
+	width:113px;
+}
+img._idGenPageitem-3 {
+	height:76px;
+	width:113px;
+}
+img._idGenPageitem-4 {
+	height:63px;
+	width:113px;
+}
+img._idGenPageitem-5 {
+	height:81px;
+	width:113px;
+}
+img._idGenPageitem-6 {
+	height:116px;
+	width:113px;
+}
+img._idGenPageitem-7 {
+	height:202px;
+	width:113px;
+}
+img._idGenPageitem-8 {
+	height:91px;
+	width:113px;
+}
+img._idGenPageitem-9 {
+	height:72px;
+	width:113px;
+}
+img._idGenPageitem-10 {
+	height:123px;
+	width:113px;
+}

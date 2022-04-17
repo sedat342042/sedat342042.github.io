@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Çocuk Psikolojisi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Saygılı, Sefa">Sefa Saygılı</dc:creator>
+    <dc:publisher>Nesil Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid"/>
+    <dc:date opf:event="modification">2015-05-02</dc:date>
+    <dc:description>* Çocuklarınızla anlaşmakta zorlanıyor musunuz?
+* * Çok mu şımarıklar, çok mu sinirliler, çok mu ağlıyorlar?
+* * Yoksa çok mu sessiz ve içe kapanıklar?
+* * Paylaşmayı bilmiyorlar mı?
+* Arkadaşlarıyla sürekli kavga mı ediyorlar?
+* * Televizyonun başından kalkmıyorlar mı?
+* Gece yatmıyor, yemeklerini yemiyorlar mı?
+* * Çocuklarınızla başkalarına anlatmaktan çekindiğiniz sorunlar mı yaşıyorsunuz?
+* * Problemleriniz karşısında her yolu denediniz ve başarısız mı oldunuz?
+* * Sorunlarınızı çözememekten dolayı mutsuz musunuz?
+* * Onlara manevi değerleri nasıl vereceğinizi bilmiyor musunuz?
+* * Ölümü nasıl mı anlatacaksınız?
+*   
+  
+Psikiyatrist Doç. Dr. Sefa Saygılı, meslek yaşamında defalarca karşılaştığı bu tip soru ve sorunlara karşı, bulduğu çözümleri ve uyguladığı metotları siz okuyucularıyla paylaşıyor. Elinizdeki bu kitap, okul öncesi çağındaki çocuklarınızın psikolojilerini anlama, ruhsal gelişimlerine yardımcı olma konusunda vazgeçilmez bir rehberiniz olacak.</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">99f305ce-4b56-4e1b-a82b-a8bde19ef99e</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051318707</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/NYG0226_split_000.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_001.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_002.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_003.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_004.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_005.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_006.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_007.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_008.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_009.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_010.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/NYG0226_split_011.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/001_fmt.jpeg" id="added2" media-type="image/jpeg"/>
+    <item href="Images/001_fmt1.jpeg" id="added3" media-type="image/jpeg"/>
+    <item href="Images/001_fmt2.jpeg" id="added4" media-type="image/jpeg"/>
+    <item href="Images/001_fmt3.jpeg" id="added8" media-type="image/jpeg"/>
+    <item href="Images/001_fmt4.jpeg" id="added12" media-type="image/jpeg"/>
+    <item href="Images/001_fmt5.jpeg" id="added13" media-type="image/jpeg"/>
+    <item href="Images/001_fmt6.jpeg" id="added16" media-type="image/jpeg"/>
+    <item href="Images/001_fmt7.jpeg" id="added35" media-type="image/jpeg"/>
+    <item href="Images/001_fmt8.jpeg" id="added38" media-type="image/jpeg"/>
+    <item href="Images/002_fmt.jpeg" id="added5" media-type="image/jpeg"/>
+    <item href="Images/003_fmt.jpeg" id="added6" media-type="image/jpeg"/>
+    <item href="Images/004_fmt.jpeg" id="added7" media-type="image/jpeg"/>
+    <item href="Images/005_fmt.jpeg" id="added9" media-type="image/jpeg"/>
+    <item href="Images/006_fmt.jpeg" id="added10" media-type="image/jpeg"/>
+    <item href="Images/007_fmt.jpeg" id="added11" media-type="image/jpeg"/>
+    <item href="Images/008_fmt.jpeg" id="added14" media-type="image/jpeg"/>
+    <item href="Images/009_fmt.jpeg" id="added15" media-type="image/jpeg"/>
+    <item href="Images/010_fmt.jpeg" id="added17" media-type="image/jpeg"/>
+    <item href="Images/011_fmt.jpeg" id="added18" media-type="image/jpeg"/>
+    <item href="Images/012_fmt.jpeg" id="added19" media-type="image/jpeg"/>
+    <item href="Images/014_fmt.jpeg" id="added21" media-type="image/jpeg"/>
+    <item href="Images/015_fmt.jpeg" id="added20" media-type="image/jpeg"/>
+    <item href="Images/016_fmt.jpeg" id="added22" media-type="image/jpeg"/>
+    <item href="Images/017_fmt.jpeg" id="added23" media-type="image/jpeg"/>
+    <item href="Images/018_fmt.jpeg" id="added24" media-type="image/jpeg"/>
+    <item href="Images/019_fmt.jpeg" id="added25" media-type="image/jpeg"/>
+    <item href="Images/020_fmt.jpeg" id="added26" media-type="image/jpeg"/>
+    <item href="Images/022_fmt.jpeg" id="added27" media-type="image/jpeg"/>
+    <item href="Images/025_fmt.jpeg" id="added28" media-type="image/jpeg"/>
+    <item href="Images/026_fmt.jpeg" id="added29" media-type="image/jpeg"/>
+    <item href="Images/027_fmt.jpeg" id="added30" media-type="image/jpeg"/>
+    <item href="Images/029_fmt.jpeg" id="added31" media-type="image/jpeg"/>
+    <item href="Images/030_fmt.jpeg" id="added32" media-type="image/jpeg"/>
+    <item href="Images/031_fmt.jpeg" id="added33" media-type="image/jpeg"/>
+    <item href="Images/032_fmt.jpeg" id="added34" media-type="image/jpeg"/>
+    <item href="Images/033_fmt.jpeg" id="added36" media-type="image/jpeg"/>
+    <item href="Images/034_fmt.jpeg" id="added37" media-type="image/jpeg"/>
+    <item href="Images/nesil_fmt.jpeg" id="added" media-type="image/jpeg"/>
+    <item href="Images/nesildigital_fmt.jpeg" id="added1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Fonts/arial.ttf" id="cid5" media-type="application/octet-stream"/>
+    <item href="Fonts/arialbd.ttf" id="cid6" media-type="application/octet-stream"/>
+    <item href="Fonts/arialbi.ttf" id="cid8" media-type="application/octet-stream"/>
+    <item href="Fonts/ariali.ttf" id="cid7" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/octet-stream"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

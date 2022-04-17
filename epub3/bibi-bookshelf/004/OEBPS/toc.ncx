@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789750716423"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Alnı Mavide</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>“Biz”</text>
+         </navLabel>
+         <content src="chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Sessizce Rakı İçtiler</text>
+         </navLabel>
+         <content src="chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Ölü Har</text>
+         </navLabel>
+         <content src="chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>Dönüş</text>
+         </navLabel>
+         <content src="chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Aniden</text>
+         </navLabel>
+         <content src="chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>Zaman Çürüğü</text>
+         </navLabel>
+         <content src="chapter6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>Yıldız’ı Bulmalıyım</text>
+         </navLabel>
+         <content src="chapter7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>Yirmi Beş Kuruşluk Yaram</text>
+         </navLabel>
+         <content src="chapter8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>“Bürrssst”</text>
+         </navLabel>
+         <content src="chapter9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>&gt;Leyla Gitmez Bir Yere...</text>
+         </navLabel>
+         <content src="chapter10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>Alnı Mavide, Elleri Kanda</text>
+         </navLabel>
+         <content src="chapter11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+         <navLabel>
+            <text>Şehrin Sesini Duydum</text>
+         </navLabel>
+         <content src="chapter12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+         <navLabel>
+            <text>Aslında Son Gün Oldu Her Şey</text>
+         </navLabel>
+         <content src="chapter13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+         <navLabel>
+            <text>Sumru Bu</text>
+         </navLabel>
+         <content src="chapter14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+         <navLabel>
+            <text>Melek Çok Güzel Uyuyor</text>
+         </navLabel>
+         <content src="chapter15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+         <navLabel>
+            <text>Açlık Sarkacı</text>
+         </navLabel>
+         <content src="chapter16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+         <navLabel>
+            <text>“Kış Neden Var?”</text>
+         </navLabel>
+         <content src="chapter17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+         <navLabel>
+            <text>“Alo! Burada Bir Sorunumuz Var.”</text>
+         </navLabel>
+         <content src="chapter18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+         <navLabel>
+            <text>Düş Bulma Kurumu</text>
+         </navLabel>
+         <content src="chapter19.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+         <navLabel>
+            <text>Son Peygamber</text>
+         </navLabel>
+         <content src="chapter20.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+         <navLabel>
+            <text>Masamtelefonumvesarkacımınaşkı</text>
+         </navLabel>
+         <content src="chapter21.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+         <navLabel>
+            <text>Gâvurun Çakısı ve Pişi</text>
+         </navLabel>
+         <content src="chapter22.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+         <navLabel>
+            <text>Ayşegül Teyze’nin Hâlâ Açık Perdeleri</text>
+         </navLabel>
+         <content src="chapter23.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+         <navLabel>
+            <text>Yaz da Gör Ebenin Şeyini</text>
+         </navLabel>
+         <content src="chapter24.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Hocam, Allaha Peygambere Laf Etmek Caiz Midir?</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Nişanyan, Sevan">Sevan Nişanyan</dc:creator>
+    <dc:publisher>Propaganda Yayınları</dc:publisher>
+    <dc:rights>Creative Commons</dc:rights>
+    <dc:type>Sociology</dc:type>
+    <dc:date>2013-09-30T21:00:00+00:00</dc:date>
+    <dc:identifier id="bookid">9781927893043 (ePub), 9781927893050 (mobi)</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">b984dfd7-fd90-4f58-b0d8-4c48aa0f9c27</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="section1" href="section1.html" media-type="application/xhtml+xml"/>
+    <item id="section2" href="section2.html" media-type="application/xhtml+xml"/>
+    <item id="section3" href="section3.html" media-type="application/xhtml+xml"/>
+    <item id="section4" href="section4.html" media-type="application/xhtml+xml"/>
+    <item id="section5" href="section5.html" media-type="application/xhtml+xml"/>
+    <item id="section6" href="section6.html" media-type="application/xhtml+xml"/>
+    <item id="section7" href="section7.html" media-type="application/xhtml+xml"/>
+    <item id="section8" href="section8.html" media-type="application/xhtml+xml"/>
+    <item id="section9" href="section9.html" media-type="application/xhtml+xml"/>
+    <item id="section10" href="section10.html" media-type="application/xhtml+xml"/>
+    <item id="section11" href="section11.html" media-type="application/xhtml+xml"/>
+    <item id="section12" href="section12.html" media-type="application/xhtml+xml"/>
+    <item id="section13" href="section13.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="image1" href="images/kufur.png" media-type="image/png"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="section1"/>
+    <itemref idref="section2"/>
+    <itemref idref="section3"/>
+    <itemref idref="section4"/>
+    <itemref idref="section5"/>
+    <itemref idref="section6"/>
+    <itemref idref="section7"/>
+    <itemref idref="section8"/>
+    <itemref idref="section9"/>
+    <itemref idref="section10"/>
+    <itemref idref="section11"/>
+    <itemref idref="section12"/>
+    <itemref idref="section13"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

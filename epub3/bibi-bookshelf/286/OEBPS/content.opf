@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Değirmenci ve Oğlu</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Keskin, Orhan">Orhan Keskin</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">9142d71d-9f80-4080-a7e3-15805b7d0309</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="14_Degirmenci_ve_Oglu.xhtml" id="x14_Degirmenci_ve_Oglu" media-type="application/xhtml+xml"/>
+    <item href="14_Degirmenci_ve_Oglu-1.xhtml" id="x14_Degirmenci_ve_Oglu-1" media-type="application/xhtml+xml"/>
+    <item href="14_Degirmenci_ve_Oglu-2.xhtml" id="x14_Degirmenci_ve_Oglu-2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/14_Degirmenci_ve_Oglu.css" id="x14_Degirmenci_ve_Oglu.css" media-type="text/css"/>
+    <item href="image/0001_Degirmenci Oglu E_fmt.jpeg" id="x0001_Degirmenci-Oglu-E_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/03_Degirmenci Oglu Ese_fmt.jpeg" id="x03_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/04_Degirmenci Oglu Ese_fmt.jpeg" id="x04_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/05_Degirmenci Oglu Ese_fmt.jpeg" id="x05_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/06_Degirmenci Oglu Ese_fmt.jpeg" id="x06_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/07_Degirmenci Oglu Ese_fmt.jpeg" id="x07_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/08_Degirmenci Oglu Ese_fmt.jpeg" id="x08_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/09_Degirmenci Oglu Ese_fmt.jpeg" id="x09_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/10_Degirmenciii Oglu E_fmt.jpeg" id="x10_Degirmenciii-Oglu-E_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/11_Degirmenci Oglu Ese_fmt.jpeg" id="x11_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/12_Degirmenci Oglu Ese_fmt.jpeg" id="x12_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/14_Degirmenci Oglu Ese_fmt.jpeg" id="x14_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/14_Degirmenci_ve_Oglu__fmt.jpeg" id="x14_Degirmenci_ve_Oglu__fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/14_Degirmenci_ve_Oglu_KAPAK-o.jpg" id="x14_Degirmenci_ve_Oglu_KAPAK-o.jpg" media-type="image/jpeg"/>
+    <item href="image/15_Degirmenci Oglu Ese_fmt.jpeg" id="x15_Degirmenci-Oglu-Ese_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/giris_fmt.jpeg" id="giris_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir _fmt10.jpeg" id="Koy-faresi-ve-Sehir-_fmt10.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir _fmt11.jpeg" id="Koy-faresi-ve-Sehir-_fmt11.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir _fmt12.jpeg" id="Koy-faresi-ve-Sehir-_fmt12.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir _fmt13.jpeg" id="Koy-faresi-ve-Sehir-_fmt13.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir _fmt14.jpeg" id="Koy-faresi-ve-Sehir-_fmt14.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir f_fmt1.jpeg" id="Koy-faresi-ve-Sehir-f_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir f_fmt2.jpeg" id="Koy-faresi-ve-Sehir-f_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir f_fmt3.jpeg" id="Koy-faresi-ve-Sehir-f_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir f_fmt4.jpeg" id="Koy-faresi-ve-Sehir-f_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir f_fmt5.jpeg" id="Koy-faresi-ve-Sehir-f_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir f_fmt6.jpeg" id="Koy-faresi-ve-Sehir-f_fmt6.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir f_fmt7.jpeg" id="Koy-faresi-ve-Sehir-f_fmt7.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir f_fmt8.jpeg" id="Koy-faresi-ve-Sehir-f_fmt8.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir f_fmt9.jpeg" id="Koy-faresi-ve-Sehir-f_fmt9.jpeg" media-type="image/jpeg"/>
+    <item href="image/Koy faresi ve Sehir fa_fmt.jpeg" id="Koy-faresi-ve-Sehir-fa_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_size_fmt.jpeg" id="ZambakLogo_size_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x14_Degirmenci_ve_Oglu"/>
+    <itemref idref="x14_Degirmenci_ve_Oglu-1"/>
+    <itemref idref="x14_Degirmenci_ve_Oglu-2"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Çocuklarda Alt Islatma Problemi ve Tuvalet Eğitimi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Öztürk, Selçuk">Selçuk Öztürk</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Gül Yurdu Yayınları</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-05-02</dc:date>
+    <dc:description>Toplumumuzda yaygın bir şekilde görülen çocuklarda alt ıslatma problemi ve bu problemin nasıl giderilebileceği anlatılıyor. Ayrıca çocukları verilmesi gereken tuvalet eğitimi üzerinde duruluyor.</dc:description>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">13696078-0277-4bc6-90a6-1b6811b0f067</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789759105563</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/00_2_Kitap_ismi.html" id="x00_2_Kitap_ismi" media-type="application/xhtml+xml"/>
+    <item href="Text/00_3_Ozgecmis.html" id="x00_3_Ozgecmis" media-type="application/xhtml+xml"/>
+    <item href="Text/00_4_Jenerik.html" id="x00_4_Jenerik" media-type="application/xhtml+xml"/>
+    <item href="Text/00_5_slogan.html" id="x00_5_slogan" media-type="application/xhtml+xml"/>
+    <item href="Text/00_6_Onsoz.html" id="x00_6_Onsoz" media-type="application/xhtml+xml"/>
+    <item href="Text/01_Konu.html" id="x01_Konu" media-type="application/xhtml+xml"/>
+    <item href="Text/02_Konu.html" id="x02_Konu" media-type="application/xhtml+xml"/>
+    <item href="Text/03_Konu.html" id="x03_Konu" media-type="application/xhtml+xml"/>
+    <item href="Text/04_Konu.html" id="x04_Konu" media-type="application/xhtml+xml"/>
+    <item href="Text/05_Kaynakca.html" id="x05_Kaynakca" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/01_fmt.jpeg" id="x01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/02_fmt.jpeg" id="x02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/03_fmt.png" id="x03_fmt.png" media-type="image/png"/>
+    <item href="Images/04_fmt.png" id="x04_fmt.png" media-type="image/png"/>
+    <item href="Images/05_fmt.png" id="x05_fmt.png" media-type="image/png"/>
+    <item href="Images/06_fmt.png" id="x06_fmt.png" media-type="image/png"/>
+    <item href="Images/07_fmt.jpeg" id="x07_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/08_fmt.png" id="x08_fmt.png" media-type="image/png"/>
+    <item href="Images/09_fmt.jpeg" id="x09_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/10_fmt.png" id="x10_fmt.png" media-type="image/png"/>
+    <item href="Images/12_fmt.png" id="x12_fmt.png" media-type="image/png"/>
+    <item href="Images/13_fmt.png" id="x13_fmt.png" media-type="image/png"/>
+    <item href="Images/14_fmt.jpeg" id="x14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15_fmt.jpeg" id="x15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/16_fmt.jpeg" id="x16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/17_fmt.jpeg" id="x17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/18_fmt.png" id="x18_fmt.png" media-type="image/png"/>
+    <item href="Images/19_fmt.jpeg" id="x19_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/20_fmt.png" id="x20_fmt.png" media-type="image/png"/>
+    <item href="Images/21_fmt.png" id="x21_fmt.png" media-type="image/png"/>
+    <item href="Images/gulyurdu_fmt.png" id="gulyurdu_fmt.png" media-type="image/png"/>
+    <item href="OEBPS/cover.jpg" id="uAgWiM4PYkvdfvWviN22ADA" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x00_2_Kitap_ismi"/>
+    <itemref idref="x00_3_Ozgecmis"/>
+    <itemref idref="x00_4_Jenerik"/>
+    <itemref idref="x00_5_slogan"/>
+    <itemref idref="x00_6_Onsoz"/>
+    <itemref idref="x01_Konu"/>
+    <itemref idref="x02_Konu"/>
+    <itemref idref="x03_Konu"/>
+    <itemref idref="x04_Konu"/>
+    <itemref idref="x05_Kaynakca"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

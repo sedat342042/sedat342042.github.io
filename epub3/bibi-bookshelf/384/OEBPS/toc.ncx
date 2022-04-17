@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789750721526"/>
+      <meta name="dtb:depth" content="2"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Peygamberin Son Beş Günü</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Zorunlu Bir Açıklama</text>
+         </navLabel>
+         <content src="preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>BİRİNCİ BÖLÜM - PEYGAMBER’İN KISA YAŞAMÖYKÜSÜ</text>
+         </navLabel>
+         <content src="part1.xhtml"/>
+         <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+               <text>I</text>
+            </navLabel>
+            <content src="chapterI-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+               <text>II</text>
+            </navLabel>
+            <content src="chapterI-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+               <text>III</text>
+            </navLabel>
+            <content src="chapterI-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+               <text>IV</text>
+            </navLabel>
+            <content src="chapterI-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>V</text>
+            </navLabel>
+            <content src="chapterI-5.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>İKİNCİ BÖLÜM - PEYGAMBER’İN SON BEŞ GÜNÜ</text>
+         </navLabel>
+         <content src="part2.xhtml"/>
+         <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+               <text>I</text>
+            </navLabel>
+            <content src="chapterII-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+               <text>II</text>
+            </navLabel>
+            <content src="chapterII-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+               <text>III</text>
+            </navLabel>
+            <content src="chapterII-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+               <text>IV</text>
+            </navLabel>
+            <content src="chapterII-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+               <text>V</text>
+            </navLabel>
+            <content src="chapterII-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+               <text>VI</text>
+            </navLabel>
+            <content src="chapterII-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+               <text>VII</text>
+            </navLabel>
+            <content src="chapterII-7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+               <text>VIII</text>
+            </navLabel>
+            <content src="chapterII-8.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+         <navLabel>
+            <text>Ek</text>
+         </navLabel>
+         <content src="appendix.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

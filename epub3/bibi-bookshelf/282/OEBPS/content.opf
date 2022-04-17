@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Doğa Üzerine Bir Epitom</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Diyojen, Oinoandalı">Oinoandalı Diyojen</dc:creator>
+    <dc:publisher>Magma Kitap</dc:publisher>
+    <dc:date>2016-07-14T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{1A86DFCA-6E2E-44EB-8AF4-EDC1E605B23C}</dc:identifier>
+    <dc:date opf:event="modification">2016-10-15</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">466975e3-8d0a-43ef-8983-c1cafaa30f97</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="birinciparca.xhtml" href="Text/birinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ikinciparca.xhtml" href="Text/ikinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ucuncuparca.xhtml" href="Text/ucuncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dorduncuparca.xhtml" href="Text/dorduncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="altinciparca.xhtml" href="Text/altinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yedinciparca.xhtml" href="Text/yedinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sekizinciparca.xhtml" href="Text/sekizinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dokuzuncuparca.xhtml" href="Text/dokuzuncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onuncuparca.xhtml" href="Text/onuncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onikinciparca.xhtml" href="Text/onikinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yirminciparca.xhtml" href="Text/yirminciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yirmibirinciparca.xhtml" href="Text/yirmibirinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yirmiikinciparca.xhtml" href="Text/yirmiikinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yirmiucuncuparca.xhtml" href="Text/yirmiucuncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yirmidokuzuncuparca.xhtml" href="Text/yirmidokuzuncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="otuzuncuparca.xhtml" href="Text/otuzuncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="otuzikinciparca.xhtml" href="Text/otuzikinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="otuzucuncuparca.xhtml" href="Text/otuzucuncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="otuzdorduncuparca.xhtml" href="Text/otuzdorduncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="otuzyedinciparcaaltkenar.xhtml" href="Text/otuzyedinciparcaaltkenar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kirkikinciparcaaltkenar.xhtml" href="Text/kirkikinciparcaaltkenar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kirkdorduncuparca.xhtml" href="Text/kirkdorduncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kirkyedinciparcaaltkenar.xhtml" href="Text/kirkyedinciparcaaltkenar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kirkdokuzuncuparca.xhtml" href="Text/kirkdokuzuncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ellidorduncuparca.xhtml" href="Text/ellidorduncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ellialtinciparca.xhtml" href="Text/ellialtinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yetmisbirinciparca.xhtml" href="Text/yetmisbirinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yuzbesinciparca.xhtml" href="Text/yuzbesinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yuzaltinciparca.xhtml" href="Text/yuzaltinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yuzsekizinciparca.xhtml" href="Text/yuzsekizinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yuzdokuzuncuparca.xhtml" href="Text/yuzdokuzuncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yuzonbirinciparca.xhtml" href="Text/yuzonbirinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yuzonikinciparca.xhtml" href="Text/yuzonikinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yuzondokuzuncuparca.xhtml" href="Text/yuzondokuzuncuparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yuzyirmialtinciparca.xhtml" href="Text/yuzyirmialtinciparca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id13" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id12" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo.jpg" href="Images/logo.jpg" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id13">
+    <itemref idref="titlepage"/>
+    <itemref idref="birinciparca.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="ikinciparca.xhtml"/>
+    <itemref idref="ucuncuparca.xhtml"/>
+    <itemref idref="dorduncuparca.xhtml"/>
+    <itemref idref="altinciparca.xhtml"/>
+    <itemref idref="yedinciparca.xhtml"/>
+    <itemref idref="sekizinciparca.xhtml"/>
+    <itemref idref="dokuzuncuparca.xhtml"/>
+    <itemref idref="onuncuparca.xhtml"/>
+    <itemref idref="onikinciparca.xhtml"/>
+    <itemref idref="yirminciparca.xhtml"/>
+    <itemref idref="yirmibirinciparca.xhtml"/>
+    <itemref idref="yirmiikinciparca.xhtml"/>
+    <itemref idref="yirmiucuncuparca.xhtml"/>
+    <itemref idref="yirmidokuzuncuparca.xhtml"/>
+    <itemref idref="otuzuncuparca.xhtml"/>
+    <itemref idref="otuzikinciparca.xhtml"/>
+    <itemref idref="otuzucuncuparca.xhtml"/>
+    <itemref idref="otuzdorduncuparca.xhtml"/>
+    <itemref idref="otuzyedinciparcaaltkenar.xhtml"/>
+    <itemref idref="kirkikinciparcaaltkenar.xhtml"/>
+    <itemref idref="kirkdorduncuparca.xhtml"/>
+    <itemref idref="kirkyedinciparcaaltkenar.xhtml"/>
+    <itemref idref="kirkdokuzuncuparca.xhtml"/>
+    <itemref idref="ellidorduncuparca.xhtml"/>
+    <itemref idref="ellialtinciparca.xhtml"/>
+    <itemref idref="yetmisbirinciparca.xhtml"/>
+    <itemref idref="yuzbesinciparca.xhtml"/>
+    <itemref idref="yuzaltinciparca.xhtml"/>
+    <itemref idref="yuzsekizinciparca.xhtml"/>
+    <itemref idref="yuzdokuzuncuparca.xhtml"/>
+    <itemref idref="yuzonbirinciparca.xhtml"/>
+    <itemref idref="yuzonikinciparca.xhtml"/>
+    <itemref idref="yuzondokuzuncuparca.xhtml"/>
+    <itemref idref="yuzyirmialtinciparca.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Sherlock Holmes - Sır Perdesi Aralanıyor</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Doyle, Sir Arthur Conan">Sir Arthur Conan Doyle</dc:creator>
+    <dc:publisher>Martı Yayınları</dc:publisher>
+    <dc:date>2013-03-10T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:E134A5E9-8D9C-4A23-8CD8-0857D143383C</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;Dünyanın En Ünlü Hayali Dedektifi Sherlock Holmes'un Okurla Tanıştığı İlk Roman!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;En olağan suç genellikle en gizemli olandır.&lt;/div&gt;&lt;div&gt;-Sherlock Holmes-&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Keskin zekâsı, kendine özgü yöntemleri ve dikkatleri üzerine çeken karizmasıyla unutulmaz kahramanlar listesinde sağlam bir yer edinen ünlü dedektif Sherlock Holmes'un hem okurla hem de en yakın arkadaşı Dr. Watson'la ilk tanıştığı roman oluşu, bu kitabı ayrıcalıklı kılıyor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Yayınevimiz tarafından yayımlanan, 5 kitap ve toplam 56 hikâyenin yer aldığı seri dışında; her birinde ayrı bir maceranın anlatıldığı 4 kitaplık yeni serinin "ilk" romanı Kızıl Dosya'yı polisiye severlerin beğenisine sunuyoruz.&lt;/div&gt;&lt;div&gt;(Tanıtım Bülteninden)&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">23932344-e29c-4faa-9614-b8abdb861f52</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="4-2.html" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="4-3.html" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="4-4.html" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="4-5.html" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="4-6.html" id="x4-6" media-type="application/xhtml+xml"/>
+    <item href="4-7.html" id="x4-7" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="5-1.html" id="x5-1" media-type="application/xhtml+xml"/>
+    <item href="5-2.html" id="x5-2" media-type="application/xhtml+xml"/>
+    <item href="5-3.html" id="x5-3" media-type="application/xhtml+xml"/>
+    <item href="5-4.html" id="x5-4" media-type="application/xhtml+xml"/>
+    <item href="5-5.html" id="x5-5" media-type="application/xhtml+xml"/>
+    <item href="5-6.html" id="x5-6" media-type="application/xhtml+xml"/>
+    <item href="5-7.html" id="x5-7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt1.jpeg" id="x4_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt2.jpeg" id="x4_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt3.jpeg" id="x4_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt4.jpeg" id="x4_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt5.jpeg" id="x4_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt6.jpeg" id="x4_fmt6.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt7.jpeg" id="x4_fmt7.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt8.jpeg" id="x4_fmt8.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt9.jpeg" id="x4_fmt9.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt10.jpeg" id="x4_fmt10.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt11.jpeg" id="x4_fmt11.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt12.jpeg" id="x4_fmt12.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt13.jpeg" id="x4_fmt13.jpeg" media-type="image/jpeg"/>
+    <item href="images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/x-font-otf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+    <itemref idref="x5"/>
+    <itemref idref="x5-1"/>
+    <itemref idref="x5-2"/>
+    <itemref idref="x5-3"/>
+    <itemref idref="x5-4"/>
+    <itemref idref="x5-5"/>
+    <itemref idref="x5-6"/>
+    <itemref idref="x5-7"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kıyamet Kitabı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Willis, Connie">Connie Willis</dc:creator>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;İ&lt;/span&gt;&lt;span style="widows: 1;"&gt;lk olarak 1992'de yayımlanan ve tüm zamanların en iyi bilimkurgu eserlerinden biri olarak gösterilen Kıyamet Kitabı, Hugo, Nebula ve Locus ödüllerini almış, Arthur C. Clarke ve BSFA ödüllerine de aday gösterilmiştir.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Bugüne kadar toplamda 11 Hugo ve 7 Nebula ödülü kazanan ünlü bilimkurgu yazarı Connie Willis, 2011'de Amerikalı Bilimkurgu ve Fantezi Yazarları Derneği tarafından Yaşam Boyu başarı ödülüyle onurlandırılmıştır. Bu ödül daha önce Ursula Le Guin, Michael Moorcock, Ray Bradbury ve Isaac Asimov gibi isimlere verilmiştir. &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Sadece bilimkurgu okurlarının değil, tarihi roman hayranlarının da beğeniyle okuyacağı, sürükleyici bir öykü… Zamanda yolculuk yapıp 1348 yılına, İngiltere'deki Kara Veba salgınının tam ortasına giden Kivrin'in macerası, insanlığın hem geçmişi hem de geleceği üzerine yazılmış en güzel metinlerden biri.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d2dc199b-2da4-41ae-b7bc-3cf9ab16d81c</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">315699f1-3273-4776-933b-41ff6b487ad6</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tesekkur.xhtml" href="Text/tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item id="int01.xhtml" href="Text/int01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitap01.xhtml" href="Text/kitap01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum01.xhtml" href="Text/bolum01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara01.xhtml" href="Text/ara01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum02.xhtml" href="Text/bolum02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum03.xhtml" href="Text/bolum03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara02.xhtml" href="Text/ara02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum04.xhtml" href="Text/bolum04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara03.xhtml" href="Text/ara03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum05.xhtml" href="Text/bolum05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum06.xhtml" href="Text/bolum06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara04.xhtml" href="Text/ara04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum07.xhtml" href="Text/bolum07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum08.xhtml" href="Text/bolum08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara05.xhtml" href="Text/ara05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum09.xhtml" href="Text/bolum09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara06.xhtml" href="Text/ara06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitap02.xhtml" href="Text/kitap02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum10.xhtml" href="Text/bolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara07.xhtml" href="Text/ara07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum11.xhtml" href="Text/bolum11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara08.xhtml" href="Text/ara08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum12.xhtml" href="Text/bolum12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara09.xhtml" href="Text/ara09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum13.xhtml" href="Text/bolum13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara10.xhtml" href="Text/ara10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum14.xhtml" href="Text/bolum14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara11.xhtml" href="Text/ara11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum15.xhtml" href="Text/bolum15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum16.xhtml" href="Text/bolum16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum17.xhtml" href="Text/bolum17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara12.xhtml" href="Text/ara12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum18.xhtml" href="Text/bolum18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara13.xhtml" href="Text/ara13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum19.xhtml" href="Text/bolum19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum20.xhtml" href="Text/bolum20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara14.xhtml" href="Text/ara14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum21.xhtml" href="Text/bolum21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara15.xhtml" href="Text/ara15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum22.xhtml" href="Text/bolum22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum23.xhtml" href="Text/bolum23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitap03.xhtml" href="Text/kitap03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum24.xhtml" href="Text/bolum24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum25.xhtml" href="Text/bolum25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum26.xhtml" href="Text/bolum26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara16.xhtml" href="Text/ara16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum27.xhtml" href="Text/bolum27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara17.xhtml" href="Text/ara17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum28.xhtml" href="Text/bolum28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara18.xhtml" href="Text/ara18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum29.xhtml" href="Text/bolum29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara19.xhtml" href="Text/ara19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum30.xhtml" href="Text/bolum30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara20.xhtml" href="Text/ara20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum31.xhtml" href="Text/bolum31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara21.xhtml" href="Text/ara21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum32.xhtml" href="Text/bolum32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum33.xhtml" href="Text/bolum33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara22.xhtml" href="Text/ara22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum34.xhtml" href="Text/bolum34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum35.xhtml" href="Text/bolum35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum36.xhtml" href="Text/bolum36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnot.xhtml" href="Text/dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="mute.css" href="Styles/mute.css" media-type="text/css"/>
+    <item id="Ithaki.jpg" href="Images/Ithaki.jpg" media-type="image/jpeg"/>
+    <item id="literata-bold-italic.otf" href="Fonts/literata-bold-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-bold.otf" href="Fonts/literata-bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-italic.otf" href="Fonts/literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-regular.otf" href="Fonts/literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="tesekkur.xhtml"/>
+    <itemref idref="int01.xhtml"/>
+    <itemref idref="kitap01.xhtml"/>
+    <itemref idref="bolum01.xhtml"/>
+    <itemref idref="ara01.xhtml"/>
+    <itemref idref="bolum02.xhtml"/>
+    <itemref idref="bolum03.xhtml"/>
+    <itemref idref="ara02.xhtml"/>
+    <itemref idref="bolum04.xhtml"/>
+    <itemref idref="ara03.xhtml"/>
+    <itemref idref="bolum05.xhtml"/>
+    <itemref idref="bolum06.xhtml"/>
+    <itemref idref="ara04.xhtml"/>
+    <itemref idref="bolum07.xhtml"/>
+    <itemref idref="bolum08.xhtml"/>
+    <itemref idref="ara05.xhtml"/>
+    <itemref idref="bolum09.xhtml"/>
+    <itemref idref="ara06.xhtml"/>
+    <itemref idref="kitap02.xhtml"/>
+    <itemref idref="bolum10.xhtml"/>
+    <itemref idref="ara07.xhtml"/>
+    <itemref idref="bolum11.xhtml"/>
+    <itemref idref="ara08.xhtml"/>
+    <itemref idref="bolum12.xhtml"/>
+    <itemref idref="ara09.xhtml"/>
+    <itemref idref="bolum13.xhtml"/>
+    <itemref idref="ara10.xhtml"/>
+    <itemref idref="bolum14.xhtml"/>
+    <itemref idref="ara11.xhtml"/>
+    <itemref idref="bolum15.xhtml"/>
+    <itemref idref="bolum16.xhtml"/>
+    <itemref idref="bolum17.xhtml"/>
+    <itemref idref="ara12.xhtml"/>
+    <itemref idref="bolum18.xhtml"/>
+    <itemref idref="ara13.xhtml"/>
+    <itemref idref="bolum19.xhtml"/>
+    <itemref idref="bolum20.xhtml"/>
+    <itemref idref="ara14.xhtml"/>
+    <itemref idref="bolum21.xhtml"/>
+    <itemref idref="ara15.xhtml"/>
+    <itemref idref="bolum22.xhtml"/>
+    <itemref idref="bolum23.xhtml"/>
+    <itemref idref="kitap03.xhtml"/>
+    <itemref idref="bolum24.xhtml"/>
+    <itemref idref="bolum25.xhtml"/>
+    <itemref idref="bolum26.xhtml"/>
+    <itemref idref="ara16.xhtml"/>
+    <itemref idref="bolum27.xhtml"/>
+    <itemref idref="ara17.xhtml"/>
+    <itemref idref="bolum28.xhtml"/>
+    <itemref idref="ara18.xhtml"/>
+    <itemref idref="bolum29.xhtml"/>
+    <itemref idref="ara19.xhtml"/>
+    <itemref idref="bolum30.xhtml"/>
+    <itemref idref="ara20.xhtml"/>
+    <itemref idref="bolum31.xhtml"/>
+    <itemref idref="ara21.xhtml"/>
+    <itemref idref="bolum32.xhtml"/>
+    <itemref idref="bolum33.xhtml"/>
+    <itemref idref="ara22.xhtml"/>
+    <itemref idref="bolum34.xhtml"/>
+    <itemref idref="bolum35.xhtml"/>
+    <itemref idref="bolum36.xhtml"/>
+    <itemref idref="dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

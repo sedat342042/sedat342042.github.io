@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Can Kırıkları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Karakaşlı, Karin">Karin Karakaşlı</dc:creator>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:7034de06-e1bd-4240-9f78-23696c44c555</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5cc2d5f8-ab0a-4255-b436-de29e3054cb6</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:7034de06-e1bd-4240-9f78-23696c44c555</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/CAN_KIRIKLARI.xhtml" id="CAN_KIRIKLARI.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/CAN_KIRIKLARI-1.xhtml" id="CAN_KIRIKLARI-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YERIN_SESI.xhtml" id="YERIN_SESI.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YERIN_SESI-1.xhtml" id="YERIN_SESI-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YERIN_SESI-2.xhtml" id="YERIN_SESI-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YERIN_SESI-3.xhtml" id="YERIN_SESI-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ALACAKARANLIK_KADINLARI.xhtml" id="ALACAKARANLIK_KADINLARI.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ALACAKARANLIK_KADINLARI-1.xhtml" id="ALACAKARANLIK_KADINLARI-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ALACAKARANLIK_KADINLARI-2.xhtml" id="ALACAKARANLIK_KADINLARI-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YABANCI.xhtml" id="YABANCI.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YABANCI-1.xhtml" id="YABANCI-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YABANCI-2.xhtml" id="YABANCI-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GOC.xhtml" id="GOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GOC-1.xhtml" id="GOC-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GOC-2.xhtml" id="GOC-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GOC-3.xhtml" id="GOC-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uukyp99LifGcSEiNF5Y6fr3" media-type="image/jpeg"/>
+    <item href="Fonts/HelveticaNeueLTStd-Cn.ttf" id="HelveticaNeueLTStd-Cn.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/HelveticaNeueLTStd-Cn0001.ttf" id="HelveticaNeueLTStd-Cn0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif6BetaItalic.ttf" id="Serif6BetaItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif6BetaItalic0001.ttf" id="Serif6BetaItalic0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaBold.ttf" id="Serif12BetaBold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaBold0001.ttf" id="Serif12BetaBold0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaRoman.ttf" id="Serif12BetaRoman.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaRoman0001.ttf" id="Serif12BetaRoman0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSans.ttc" id="GillSans.ttc" media-type="application/x-font-truetype-collection"/>
+    <item href="Fonts/GillSans0001.ttc" id="GillSans0001.ttc" media-type="application/x-font-truetype-collection"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="CAN_KIRIKLARI.xhtml"/>
+    <itemref idref="CAN_KIRIKLARI-1.xhtml"/>
+    <itemref idref="YERIN_SESI.xhtml"/>
+    <itemref idref="YERIN_SESI-1.xhtml"/>
+    <itemref idref="YERIN_SESI-2.xhtml"/>
+    <itemref idref="YERIN_SESI-3.xhtml"/>
+    <itemref idref="ALACAKARANLIK_KADINLARI.xhtml"/>
+    <itemref idref="ALACAKARANLIK_KADINLARI-1.xhtml"/>
+    <itemref idref="ALACAKARANLIK_KADINLARI-2.xhtml"/>
+    <itemref idref="YABANCI.xhtml"/>
+    <itemref idref="YABANCI-1.xhtml"/>
+    <itemref idref="YABANCI-2.xhtml"/>
+    <itemref idref="GOC.xhtml"/>
+    <itemref idref="GOC-1.xhtml"/>
+    <itemref idref="GOC-2.xhtml"/>
+    <itemref idref="GOC-3.xhtml"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

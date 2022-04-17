@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="30f31da2-57cc-4c52-85be-2990014bd921" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yüce Sultan</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e99d5860-6f52-49e7-9dbb-9c2f77eb3580" playOrder="1">
+      <navLabel>
+        <text>Akdeniz Canavarı Cervantes ve La gran sultana</text>
+      </navLabel>
+      <content src="Yuce Sultan_split_003.html"/>
+    </navPoint>
+    <navPoint id="91da08fc-db3f-420b-b23c-9a43eb5b8d07" playOrder="2">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="Yuce Sultan_split_006.html"/>
+    </navPoint>
+    <navPoint id="d893ce1a-1cd1-4279-93a7-03b8b63ffe95" playOrder="3">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="Yuce Sultan_split_007.html"/>
+    </navPoint>
+    <navPoint id="0e6706ee-67b0-4a42-a794-6079377635e8" playOrder="4">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Yuce Sultan_split_008.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

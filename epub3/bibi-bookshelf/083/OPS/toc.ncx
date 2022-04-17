@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta content="urn:isbn:9789750829475" name="dtb:uid"/>
+	</head>
+	<docTitle>
+		<text>Canterbury Hikâyeleri</text>
+	</docTitle>
+	<docAuthor>
+		<text>Geoffrey Chaucer</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="preface" playOrder="1">
+			<navLabel>
+				<text>Önsöz (Nazmi Ağıl)</text>
+			</navLabel>
+			<content src="preface.xhtml"/>
+		</navPoint>
+		<navPoint id="foreword" playOrder="2">
+			<navLabel>
+				<text>Chaucer ve Canterbury Hikâyeleri (N.A.)</text>
+			</navLabel>
+			<content src="foreword.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter1" playOrder="3">
+			<navLabel>
+				<text>Genel Giriş</text>
+			</navLabel>
+			<content src="chapter1.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter2" playOrder="4">
+			<navLabel>
+				<text>Şövalye’nin Hikâyesi</text>
+			</navLabel>
+			<content src="chapter2.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter3" playOrder="5">
+			<navLabel>
+				<text>Değirmenci’nin Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter3.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter4" playOrder="6">
+			<navLabel>
+				<text>Kâhya’nın Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter4.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter5" playOrder="7">
+			<navLabel>
+				<text>Aşçı’nın Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter5.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter6" playOrder="8">
+			<navLabel>
+				<text>Avukat’ın Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter6.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter7" playOrder="9">
+			<navLabel>
+				<text>Gemici’nin Hikâyesi</text>
+			</navLabel>
+			<content src="chapter7.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter8" playOrder="10">
+			<navLabel>
+				<text>Baş Rahibe’nin Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter8.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter9" playOrder="11">
+			<navLabel>
+				<text>Sir Topaz Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter9.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter10" playOrder="12">
+			<navLabel>
+				<text>Melibee Hikâyesi</text>
+			</navLabel>
+			<content src="chapter10.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter11" playOrder="13">
+			<navLabel>
+				<text>Keşiş’in Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter11.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter12" playOrder="14">
+			<navLabel>
+				<text>Rahibe’nin Yanındaki Papaz’ın Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter12.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter13" playOrder="15">
+			<navLabel>
+				<text>Hekim’in Hikâyesi</text>
+			</navLabel>
+			<content src="chapter13.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter14" playOrder="16">
+			<navLabel>
+				<text>Afnameci’nin Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter14.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter15" playOrder="17">
+			<navLabel>
+				<text>Bathlı Kadın’ın Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter15.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter16" playOrder="18">
+			<navLabel>
+				<text>Frer’in Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter16.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter17" playOrder="19">
+			<navLabel>
+				<text>Mübaşir’in Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter17.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter18" playOrder="20">
+			<navLabel>
+				<text>Üniversiteli’nin Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter18.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter19" playOrder="21">
+			<navLabel>
+				<text>Tüccar’ın Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter19.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter20" playOrder="22">
+			<navLabel>
+				<text>Silahtar’ın Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter20.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter21" playOrder="23">
+			<navLabel>
+				<text>Toprak Ağası’nın Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter21.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter22" playOrder="24">
+			<navLabel>
+				<text>İkinci Rahibe’nin Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter22.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter23" playOrder="25">
+			<navLabel>
+				<text>Kilise Meclisi Aza Yardımcısı’nın Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter23.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter24" playOrder="26">
+			<navLabel>
+				<text>Vekilharç’ın Hikâyesi (Giriş ve Hikâye)</text>
+			</navLabel>
+			<content src="chapter24.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter25-1" playOrder="27">
+			<navLabel>
+				<text>Vaiz’in Hikâyesi (Giriş)</text>
+			</navLabel>
+			<content src="chapter25-1.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter25-2" playOrder="28">
+			<navLabel>
+				<text>Vaiz’in Hikâyesi (Hikâye)</text>
+			</navLabel>
+			<content src="chapter25-2.xhtml"/>
+		</navPoint>
+		<navPoint id="conclusion" playOrder="29">
+			<navLabel>
+				<text>Chaucer’ın Reddiyesi</text>
+			</navLabel>
+			<content src="conclusion.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>

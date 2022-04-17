@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{8C60FA85-DEFE-4C95-8B7A-AFE5A045E8B3}"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Martin Eden</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Epigraf</text>
+      </navLabel>
+      <content src="Text/epigraf.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>1. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>2. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>3. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>4. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>5. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>6. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>7. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>8. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>9. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>10. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>11. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>12. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>13. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>14. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-014.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>15. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>16. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-016.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>17. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>18. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>19. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>20. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>21. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>22. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-022.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>23. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-023.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>24. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-024.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>25. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-025.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>26. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-026.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>27. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-027.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>28. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-028.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>29. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-029.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>30. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-030.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>31. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-031.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>32. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-032.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>33. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-033.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>34. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-034.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>35. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-035.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>36. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-036.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>37. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-037.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>38. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-038.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>39. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-039.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>40. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-040.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>41. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-041.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>42. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-042.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>43. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-043.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>44. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-044.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>45. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-045.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>46. Bölüm</text>
+      </navLabel>
+      <content src="Text/P-046.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Martin Eden Üzerine Paylaşımlar ve Açıklamalar</text>
+      </navLabel>
+      <content src="Text/P-047.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>50 Soruda Evren</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Sunay, Çağlar">Çağlar Sunay</dc:creator>
+    <dc:description>&lt;div&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Çağlar Sunay, "50 Soruda" dizisinin onuncu kitabı olan 50 Soruda Evren'de, bilimin geçmişindeki yüzlerce yılın birikimiyle günümüze dek ulaştığı tüm bilgileri süzerek, oldukça yalın bir evren portresi çıkarıyor. Yazarın Güneş Sistemi'nin üyelerinden, Evren'in yapıtaşı gökadalara, onların düzenlenişinden, karanlık madde ve karanlık enerjiye kadar birçok temel konuyu neredeyse hiçbir formüle başvurmadan, olabildiğince basit anlatırken ele aldığı kimi sorular şöyle:&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Evren nedir? Uzay ne kadar boştur? Güneş nasıl oluştu? Güneş'in sonu nasıl olacak? Gezegenler nasıl oluştu? Ay Dünya'dan mı koptu? Güneş Sistemi'ni oluşturan gezegenlerin özellikleri neler? Evren'de başka yaşam var mı? Karadelik nedir? Dünyamıza en yakın yıldızlar hangisidir? Yıldız kayması nedir? Dünya'ya yaşamı tehdit edecek büyük bir göktaşı çarpma olasılığı nedir? Uzayı araştırmak için bugüne kadar insanlık kaç uzay aracı gönderebildi? Evren'in yapısı nasıldır? Evren ne kadar büyüktür? Evren kaç yaşındadır? Evren'de uzaklıklar nasıl ölçülür? Karanlık madde nedir? Karanlık enerji nedir? Evren'in içeriği nedir? Evren'in sonu nasıl gelecek?&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Bilim ve Gelecek Kitaplığı</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:94EB5DAE-813D-434D-BF55-D6D351D81829</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-05-01</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">e4a03c3e-f622-4a29-ab20-80269976fb59</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786055888213</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/4. Soru 1. Gorsel_fmt.jpeg" id="x4.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/5. Soru 1. Gorsel_fmt.jpeg" id="x5.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/5. Soru 2. Gorsel_fmt.jpeg" id="x5.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/6. Soru 1. Gorsel -Cer_fmt.jpeg" id="x6.-20Soru-201.-20Gorsel-20-Cer_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/6. Soru 2. Gorsel-1_fmt.jpeg" id="x6.-20Soru-202.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/6. Soru 3. Gorsel_fmt.jpeg" id="x6.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/7. Soru 1. Gorsel-1_fmt.jpeg" id="x7.-20Soru-201.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/7. Soru 1. Gorsel-2_fmt.jpeg" id="x7.-20Soru-201.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/7. Soru 3. Gorsel_fmt.jpeg" id="x7.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/7. Soru 4. Gorsel-1_fmt.jpeg" id="x7.-20Soru-204.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/7. Soru 4. Gorsel-2_fmt.jpeg" id="x7.-20Soru-204.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/7. Soru 5. Gorsel_fmt.jpeg" id="x7.-20Soru-205.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/8. Soru 1. Gorsel_fmt.jpeg" id="x8.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/8. Soru 2. Gorsel_fmt.jpeg" id="x8.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/8. Soru 3. Gorsel_fmt.jpeg" id="x8.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/8. Soru- 4. görsel Gez_fmt.jpeg" id="x8.-20Soru--204.-20go-cc-88rsel-20Gez_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/9. Soru 1. Gorsel_fmt.jpeg" id="x9.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/10. Soru 1. Gorsel_fmt.jpeg" id="x10.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/10. Soru 2. Gorsel_fmt.jpeg" id="x10.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/11. Soru 1. Gorsel_fmt.jpeg" id="x11.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/11. Soru 2. Gorsel_fmt.jpeg" id="x11.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/11. Soru 3. Gorsel_fmt.jpeg" id="x11.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/11. Soru 4. Gorsel_fmt.jpeg" id="x11.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/13. Soru 2. Gorsel_fmt.jpeg" id="x13.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/13. Soru 3. Gorsel_fmt.jpeg" id="x13.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/13. Soru 4. Gorsel_fmt.jpeg" id="x13.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/13. Soru 5. Gorsel_fmt.png" id="x13.-20Soru-205.-20Gorsel_fmt.png" media-type="image/png"/>
+    <item href="Images/14. Soru 1. Gorsel_fmt.jpeg" id="x14.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/14. Soru 2. Gorsel-1_fmt.jpeg" id="x14.-20Soru-202.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/14. Soru 2. Gorsel-1_fmt.png" id="x14.-20Soru-202.-20Gorsel-1_fmt.png" media-type="image/png"/>
+    <item href="Images/14. Soru 2. Gorsel-2_fmt.jpeg" id="x14.-20Soru-202.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/14. Soru 3. Gorsel_fmt.jpeg" id="x14.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/14. Soru 4. Gorsel-1_fmt.jpeg" id="x14.-20Soru-204.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/14. Soru 4. Gorsel-2_fmt.jpeg" id="x14.-20Soru-204.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15. Soru 1. Gorsel_fmt.jpeg" id="x15.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15. Soru 2. Gorsel_fmt.jpeg" id="x15.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15. Soru 3. Gorsel_fmt.jpeg" id="x15.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15. Soru 4. Gorsel_fmt.jpeg" id="x15.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15. Soru 5. Gorsel_fmt.jpeg" id="x15.-20Soru-205.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15. Soru 6. Gorsel_fmt.jpeg" id="x15.-20Soru-206.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/16. Soru 1. Gorsel_fmt.jpeg" id="x16.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/16. Soru 2. Gorsel_fmt.png" id="x16.-20Soru-202.-20Gorsel_fmt.png" media-type="image/png"/>
+    <item href="Images/16. Soru 3. Gorsel_fmt.jpeg" id="x16.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/17. Soru 1. Gorsel-1_fmt.jpeg" id="x17.-20Soru-201.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/17. Soru 1. Gorsel-1_fmt.png" id="x17.-20Soru-201.-20Gorsel-1_fmt.png" media-type="image/png"/>
+    <item href="Images/17. Soru 1. Gorsel-2_fmt.jpeg" id="x17.-20Soru-201.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/17. Soru 2. Gorsel_fmt.jpeg" id="x17.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/17. Soru 4. Gorsel_fmt.jpeg" id="x17.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/17. Soru 5. Gorsel_fmt.jpeg" id="x17.-20Soru-205.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/17. Soru 6. Gorsel_fmt.jpeg" id="x17.-20Soru-206.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/18. Soru 1. Gorsel_fmt.jpeg" id="x18.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/18. Soru 2. Gorsel_fmt.jpeg" id="x18.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/19. Soru 2. Gorsel_fmt.jpeg" id="x19.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/19. Soru 3. Gorsel-1_fmt.png" id="x19.-20Soru-203.-20Gorsel-1_fmt.png" media-type="image/png"/>
+    <item href="Images/19. Soru 3. Gorsel-2_fmt.jpeg" id="x19.-20Soru-203.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/19. Soru 4. Gorsel-1_fmt.jpeg" id="x19.-20Soru-204.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/19. Soru 4. Gorsel-2_fmt.jpeg" id="x19.-20Soru-204.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/19. Soru 4. Gorsel-3_fmt.jpeg" id="x19.-20Soru-204.-20Gorsel-3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/20. Soru 1. Gorsel_fmt.jpeg" id="x20.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/20. Soru 2. Gorsel-1_fmt.jpeg" id="x20.-20Soru-202.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/20. Soru 2. Gorsel-2_fmt.jpeg" id="x20.-20Soru-202.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/21. Soru 1. Gorsel_fmt.png" id="x21.-20Soru-201.-20Gorsel_fmt.png" media-type="image/png"/>
+    <item href="Images/21. Soru 2. Gorsel_fmt.jpeg" id="x21.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/21. Soru 3. Gorsel_fmt.jpeg" id="x21.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/21. Soru 4. Gorsel_fmt.jpeg" id="x21.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/22. Soru 1. Gorsel_fmt.jpeg" id="x22.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/22. Soru 2. Gorsel-1_fmt.jpeg" id="x22.-20Soru-202.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/22. Soru 2. Gorsel-2_fmt.png" id="x22.-20Soru-202.-20Gorsel-2_fmt.png" media-type="image/png"/>
+    <item href="Images/22. Soru 3. Gorsel_fmt.jpeg" id="x22.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/22. Soru 4. Gorsel-1_fmt.jpeg" id="x22.-20Soru-204.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/22. Soru 4. Gorsel-2_fmt.jpeg" id="x22.-20Soru-204.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/22. Soru 5. Gorsel_fmt.jpeg" id="x22.-20Soru-205.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/23. Soru 1. Gorsel-1_fmt.jpeg" id="x23.-20Soru-201.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/23. Soru 1. Gorsel-2_fmt.jpeg" id="x23.-20Soru-201.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/23. Soru 2. Gorsel_fmt.jpeg" id="x23.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/24. Soru 1. Gorsel_fmt.jpeg" id="x24.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/24. Soru 2. Gorsel-1_fmt.jpeg" id="x24.-20Soru-202.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/24. Soru 2. Gorsel-2_fmt.jpeg" id="x24.-20Soru-202.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/24. Soru 3. Gorsel-1_fmt.jpeg" id="x24.-20Soru-203.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/24. Soru 3. Gorsel-2_fmt.jpeg" id="x24.-20Soru-203.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/24. Soru 3. Gorsel-3_fmt.png" id="x24.-20Soru-203.-20Gorsel-3_fmt.png" media-type="image/png"/>
+    <item href="Images/24. Soru 4. Gorsel-1_fmt.jpeg" id="x24.-20Soru-204.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/24. Soru 4. Gorsel-2_fmt.jpeg" id="x24.-20Soru-204.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/25. Soru 1. Gorsel_fmt.jpeg" id="x25.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/25. Soru 2. Gorsel-1_fmt.jpeg" id="x25.-20Soru-202.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/25. Soru 2. Gorsel-2_fmt.jpeg" id="x25.-20Soru-202.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/25. Soru 3. Gorsel-1_fmt.jpeg" id="x25.-20Soru-203.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/25. Soru 3. Gorsel-2_fmt.jpeg" id="x25.-20Soru-203.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/25. Soru 4. Gorsel_fmt.jpeg" id="x25.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/26. Soru 1. Gorsel-1_fmt.jpeg" id="x26.-20Soru-201.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/26. Soru 1. Gorsel-2_fmt.jpeg" id="x26.-20Soru-201.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/27. Soru 1. Gorsel_fmt.jpeg" id="x27.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/27. Soru 2. Gorsel-1_fmt.jpeg" id="x27.-20Soru-202.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/27. Soru 2. Gorsel-2_fmt.jpeg" id="x27.-20Soru-202.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/27. Soru 3. Gorsel_fmt.jpeg" id="x27.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/28. Soru 1. Gorsel_fmt.jpeg" id="x28.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/28. Soru 2. Gorsel_fmt.jpeg" id="x28.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/28. Soru 3. Gorsel_fmt.jpeg" id="x28.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/29. Soru 1. Gorsel_fmt.jpeg" id="x29.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/29. Soru 2. Gorsel_fmt.jpeg" id="x29.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/29. Soru 3. Gorsel-1_fmt.jpeg" id="x29.-20Soru-203.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/29. Soru 3. Gorsel-2_fmt.jpeg" id="x29.-20Soru-203.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/29. Soru 4. Gorsel_fmt.jpeg" id="x29.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/29. Soru 5. Gorsel_fmt.jpeg" id="x29.-20Soru-205.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/29. Soru 6. Gorsel_fmt.png" id="x29.-20Soru-206.-20Gorsel_fmt.png" media-type="image/png"/>
+    <item href="Images/30. Soru 1. Gorsel_fmt.jpeg" id="x30.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/30. Soru 2. Gorsel_fmt.jpeg" id="x30.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/30. Soru 3. Gorsel_fmt.jpeg" id="x30.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/30. Soru 4. Gorsel_fmt.jpeg" id="x30.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/31. Soru 1. Gorsel_fmt.jpeg" id="x31.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/32. Soru 1. Gorsel_fmt.png" id="x32.-20Soru-201.-20Gorsel_fmt.png" media-type="image/png"/>
+    <item href="Images/32. Soru 2. Gorsel_fmt.png" id="x32.-20Soru-202.-20Gorsel_fmt.png" media-type="image/png"/>
+    <item href="Images/33. Soru 1. Gorsel_fmt.jpeg" id="x33.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/33. Soru 2. Gorsel_fmt.jpeg" id="x33.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/33. Soru 3. Gorsel-1_fmt.jpeg" id="x33.-20Soru-203.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/33. Soru 3. Gorsel-2_fmt.jpeg" id="x33.-20Soru-203.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/33. Soru 4. Gorsel_fmt.jpeg" id="x33.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/34. Soru 1. Gorsel-1_fmt.png" id="x34.-20Soru-201.-20Gorsel-1_fmt.png" media-type="image/png"/>
+    <item href="Images/34. Soru 1. Gorsel-2_fmt.jpeg" id="x34.-20Soru-201.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/34. Soru 2. Gorsel_fmt.jpeg" id="x34.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/35. Soru 1. Gorsel_fmt.jpeg" id="x35.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/35. Soru 2. Gorsel_fmt.png" id="x35.-20Soru-202.-20Gorsel_fmt.png" media-type="image/png"/>
+    <item href="Images/35. Soru 3. Gorsel_fmt.jpeg" id="x35.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/36. Soru 1. Gorsel_fmt.jpeg" id="x36.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/37. Soru 1. Gorsel_fmt.jpeg" id="x37.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/37. Soru 2. Gorsel_fmt.jpeg" id="x37.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/37. Soru 3. Gorsel_fmt.jpeg" id="x37.-20Soru-203.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/37. Soru 4. Gorsel_fmt.jpeg" id="x37.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/37. Soru 4. Gorsel_fmt.png" id="x37.-20Soru-204.-20Gorsel_fmt.png" media-type="image/png"/>
+    <item href="Images/37. Soru 5. Gorsel_fmt.jpeg" id="x37.-20Soru-205.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/39. Soru 1. Gorse_fmt.png" id="x39.-20Soru-201.-20Gorse_fmt.png" media-type="image/png"/>
+    <item href="Images/39. Soru 2. Gorsel-1_fmt.jpeg" id="x39.-20Soru-202.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/39. Soru 2. Gorsel-2_fmt.jpeg" id="x39.-20Soru-202.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/39. Soru 2. Gorsel-3_fmt.jpeg" id="x39.-20Soru-202.-20Gorsel-3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/40. Soru 1. Gorsel-1_fmt.jpeg" id="x40.-20Soru-201.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/40. Soru 1. Gorsel-2_fmt.jpeg" id="x40.-20Soru-201.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/41. Soru 1. Gorsel-1_fmt.jpeg" id="x41.-20Soru-201.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/41. Soru 1. Gorsel-2_fmt.jpeg" id="x41.-20Soru-201.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/41. Soru 1. Gorsel-3_fmt.jpeg" id="x41.-20Soru-201.-20Gorsel-3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/42. Soru 1. Gorsel-1_fmt.png" id="x42.-20Soru-201.-20Gorsel-1_fmt.png" media-type="image/png"/>
+    <item href="Images/42. Soru 1. Gorsel-2_fmt.png" id="x42.-20Soru-201.-20Gorsel-2_fmt.png" media-type="image/png"/>
+    <item href="Images/42. Soru 1. Gorsel-3_fmt.png" id="x42.-20Soru-201.-20Gorsel-3_fmt.png" media-type="image/png"/>
+    <item href="Images/43. Soru 1. Gorsel-1_fmt.png" id="x43.-20Soru-201.-20Gorsel-1_fmt.png" media-type="image/png"/>
+    <item href="Images/43. Soru 1. Gorsel-2_fmt.png" id="x43.-20Soru-201.-20Gorsel-2_fmt.png" media-type="image/png"/>
+    <item href="Images/43. Soru 2. Gorsel-1_fmt.jpeg" id="x43.-20Soru-202.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/43. Soru 2. Gorsel-2_fmt.jpeg" id="x43.-20Soru-202.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/43. Soru 2. Gorsel-3_fmt.png" id="x43.-20Soru-202.-20Gorsel-3_fmt.png" media-type="image/png"/>
+    <item href="Images/44. Soru 1. Gorsel_fmt.jpeg" id="x44.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/44. Soru 2. Gorsel_fmt.png" id="x44.-20Soru-202.-20Gorsel_fmt.png" media-type="image/png"/>
+    <item href="Images/45. Soru 1. Gorsel_fmt.jpeg" id="x45.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/45. Soru 1. Gorsel-A_fmt.png" id="x45.-20Soru-201.-20Gorsel-A_fmt.png" media-type="image/png"/>
+    <item href="Images/45. Soru 4. Gorsel_fmt.jpeg" id="x45.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/45. Soru 5. Gorsel_fmt.jpeg" id="x45.-20Soru-205.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/45. Soru 6. Gorsel_fmt.png" id="x45.-20Soru-206.-20Gorsel_fmt.png" media-type="image/png"/>
+    <item href="Images/45. Soru 8. Gorsel_fmt.jpeg" id="x45.-20Soru-208.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/46. Soru 1. Gorsel_fmt.jpeg" id="x46.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/46. Soru 2. Gorsel_fmt.jpeg" id="x46.-20Soru-202.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/46. Soru 3. Gorsel-1_fmt.jpeg" id="x46.-20Soru-203.-20Gorsel-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/46. Soru 3. Gorsel-2_fmt.png" id="x46.-20Soru-203.-20Gorsel-2_fmt.png" media-type="image/png"/>
+    <item href="Images/46. Soru 4. Gorsel_fmt.jpeg" id="x46.-20Soru-204.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/46. Soru 5. Gorsel_fmt.jpeg" id="x46.-20Soru-205.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/47. Soru 2. Gorsel-1_fmt.png" id="x47.-20Soru-202.-20Gorsel-1_fmt.png" media-type="image/png"/>
+    <item href="Images/47. Soru 2. Gorsel-2_fmt.jpeg" id="x47.-20Soru-202.-20Gorsel-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/47. Soru 2. Gorsel-3_fmt.jpeg" id="x47.-20Soru-202.-20Gorsel-3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/48. Soru 1. Gorsel_fmt.jpeg" id="x48.-20Soru-201.-20Gorsel_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/50sorudalogo1_fmt.png" id="x50sorudalogo1_fmt.png" media-type="image/png"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/730.png" id="x730.png" media-type="image/png"/>
+    <item href="Images/1915.jpg" id="x1915.jpg" media-type="image/jpeg"/>
+    <item href="Images/2078.png" id="x2078.png" media-type="image/png"/>
+    <item href="Images/2080.png" id="x2080.png" media-type="image/png"/>
+    <item href="Images/2081.png" id="x2081.png" media-type="image/png"/>
+    <item href="Images/2082.png" id="x2082.png" media-type="image/png"/>
+    <item href="Images/3050.png" id="x3050.png" media-type="image/png"/>
+    <item href="Images/3051.png" id="x3051.png" media-type="image/png"/>
+    <item href="Images/3053.png" id="x3053.png" media-type="image/png"/>
+    <item href="Images/3054.png" id="x3054.png" media-type="image/png"/>
+    <item href="Images/3056.png" id="x3056.png" media-type="image/png"/>
+    <item href="Images/3057.png" id="x3057.png" media-type="image/png"/>
+    <item href="Images/3058.png" id="x3058.png" media-type="image/png"/>
+    <item href="Images/3059.png" id="x3059.png" media-type="image/png"/>
+    <item href="Images/3245.png" id="x3245.png" media-type="image/png"/>
+    <item href="Images/3610.png" id="x3610.png" media-type="image/png"/>
+    <item href="Images/3612.png" id="x3612.png" media-type="image/png"/>
+    <item href="Images/3613.png" id="x3613.png" media-type="image/png"/>
+    <item href="Images/3614.png" id="x3614.png" media-type="image/png"/>
+    <item href="Images/3615.png" id="x3615.png" media-type="image/png"/>
+    <item href="Images/3994.jpg" id="x3994.jpg" media-type="image/jpeg"/>
+    <item href="Images/3996.png" id="x3996.png" media-type="image/png"/>
+    <item href="Images/4050.png" id="x4050.png" media-type="image/png"/>
+    <item href="Images/4052.png" id="x4052.png" media-type="image/png"/>
+    <item href="Images/4130.png" id="x4130.png" media-type="image/png"/>
+    <item href="Images/4131.png" id="x4131.png" media-type="image/png"/>
+    <item href="Images/4132.png" id="x4132.png" media-type="image/png"/>
+    <item href="Images/4133.png" id="x4133.png" media-type="image/png"/>
+    <item href="Images/6145.png" id="x6145.png" media-type="image/png"/>
+    <item href="Images/6146.png" id="x6146.png" media-type="image/png"/>
+    <item href="Images/7211.jpg" id="x7211.jpg" media-type="image/jpeg"/>
+    <item href="Images/7339.png" id="x7339.png" media-type="image/png"/>
+    <item href="Images/7341.png" id="x7341.png" media-type="image/png"/>
+    <item href="Images/7342.png" id="x7342.png" media-type="image/png"/>
+    <item href="Images/7343.png" id="x7343.png" media-type="image/png"/>
+    <item href="Images/8992.png" id="x8992.png" media-type="image/png"/>
+    <item href="Images/10033.png" id="x10033.png" media-type="image/png"/>
+    <item href="Images/10035.png" id="x10035.png" media-type="image/png"/>
+    <item href="Images/10036.png" id="x10036.png" media-type="image/png"/>
+    <item href="Images/10037.png" id="x10037.png" media-type="image/png"/>
+    <item href="Images/10038.png" id="x10038.png" media-type="image/png"/>
+    <item href="Images/10109.png" id="x10109.png" media-type="image/png"/>
+    <item href="Images/10111.png" id="x10111.png" media-type="image/png"/>
+    <item href="Images/10335.png" id="x10335.png" media-type="image/png"/>
+    <item href="Images/10337.png" id="x10337.png" media-type="image/png"/>
+    <item href="Images/10338.png" id="x10338.png" media-type="image/png"/>
+    <item href="Images/10415.jpg" id="x10415.jpg" media-type="image/jpeg"/>
+    <item href="Images/10636.jpg" id="x10636.jpg" media-type="image/jpeg"/>
+    <item href="Images/12716.png" id="x12716.png" media-type="image/png"/>
+    <item href="Images/12717.png" id="x12717.png" media-type="image/png"/>
+    <item href="Images/12718.png" id="x12718.png" media-type="image/png"/>
+    <item href="Images/12719.png" id="x12719.png" media-type="image/png"/>
+    <item href="Images/12720.png" id="x12720.png" media-type="image/png"/>
+    <item href="Images/12721.png" id="x12721.png" media-type="image/png"/>
+    <item href="Images/12722.png" id="x12722.png" media-type="image/png"/>
+    <item href="Images/13530.png" id="x13530.png" media-type="image/png"/>
+    <item href="Images/13532.png" id="x13532.png" media-type="image/png"/>
+    <item href="Images/13533.png" id="x13533.png" media-type="image/png"/>
+    <item href="Images/13605.jpg" id="x13605.jpg" media-type="image/jpeg"/>
+    <item href="Images/13630.jpg" id="x13630.jpg" media-type="image/jpeg"/>
+    <item href="Images/13631.png" id="x13631.png" media-type="image/png"/>
+    <item href="Images/13729.png" id="x13729.png" media-type="image/png"/>
+    <item href="Images/13730.png" id="x13730.png" media-type="image/png"/>
+    <item href="Images/13731.png" id="x13731.png" media-type="image/png"/>
+    <item href="Images/13732.png" id="x13732.png" media-type="image/png"/>
+    <item href="Images/13733.png" id="x13733.png" media-type="image/png"/>
+    <item href="Images/13755.png" id="x13755.png" media-type="image/png"/>
+    <item href="Images/15136.png" id="x15136.png" media-type="image/png"/>
+    <item href="Images/guneslekesi_fmt.png" id="guneslekesi_fmt.png" media-type="image/png"/>
+    <item href="Images/günes_fmt.png" id="gu-cc-88nes_fmt.png" media-type="image/png"/>
+    <item href="Images/haumea_fmt.jpeg" id="haumea_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Hyakutake_fmt.jpeg" id="Hyakutake_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Milankovic Cevrimleri-_fmt1.png" id="Milankovic-20Cevrimleri-_fmt1.png" media-type="image/png"/>
+    <item href="Images/Milankovic Cevrimleri-_fmt2.png" id="Milankovic-20Cevrimleri-_fmt2.png" media-type="image/png"/>
+    <item href="Images/Milankovic Cevrimleri-_fmt3.png" id="Milankovic-20Cevrimleri-_fmt3.png" media-type="image/png"/>
+    <item href="Images/Milankovic Cevrimleri-D_fmt.png" id="Milankovic-20Cevrimleri-D_fmt.png" media-type="image/png"/>
+    <item href="Images/Milankovic Cevrimleri-G_fmt.png" id="Milankovic-20Cevrimleri-G_fmt.png" media-type="image/png"/>
+    <item href="Images/sekil_fmt.jpeg" id="sekil_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sekil-1_fmt.jpeg" id="sekil-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sekil1_fmt.jpeg" id="sekil1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Uzay Tozu_fmt.jpeg" id="Uzay-20Tozu_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uxH36BTs6smrgqtKUA5wk99" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

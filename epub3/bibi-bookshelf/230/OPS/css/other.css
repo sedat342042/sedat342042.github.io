@@ -1,0 +1,120 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+
+@font-face {
+	font-family:Berkeley;
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/BerkeleyBold.ttf");
+}
+@font-face {
+	font-family:Berkeley;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/BerkeleyBook.ttf");
+}
+@font-face {
+	font-family:Berkeley;
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/BerkeleyBookItalic.ttf");
+}
+@font-face {
+	font-family:Palatino;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/Palatino-SC.ttf");
+}
+
+
+
+a{
+	color: #7A7A7A;
+	text-decoration: none;
+}
+.copyright-page section{
+	margin-top: 1em;
+	text-align: center;
+	font-family: Berkeley;
+}
+.copyright-page span{
+	display: block;
+	font-size: .7em;
+	line-height: 1.3em;
+}
+.titlepage section{
+	margin-top:2em;
+	text-align: center;
+}
+.book{
+	font-size: 2em;
+	font-family: Berkeley;
+}
+.aut{
+	font-size: 1.66em;
+	font-family: Palatino;
+}
+.title1{
+	font-size: .75em;
+	display: block;
+	line-height: 1.2em;
+}
+.title2{
+	font-size: 1em;
+	line-height: 1.2em;
+}
+.logo{
+	width: 100px;
+	margin: auto;
+	page-break-inside: avoid;
+	margin-top: 5em;
+}
+
+.cover{
+	max-width: 500px;
+	margin: 0 auto;
+}
+img{
+	width: 100%;
+}
+#biography p{
+	font-family: Berkeley;
+	font-size: .825em;
+	margin: .5em 0 0 0;
+}
+h1{
+	font-size: .92em;
+	margin-bottom: 2em;
+	text-align: center;
+	font-weight: normal;
+}
+.part div{
+  margin: 3em auto 0 auto;
+	max-width: 350px;
+}
+.index h1{
+	font-family: Berkeley;
+	font-style: italic;
+	text-align: center;
+	font-size: 1em;
+	margin:5em 0 3em;
+	font-weight: normal;
+}
+h2{
+	display: none;
+}
+li{
+	font-family:Berkeley;
+	font-size:0.6em;
+	font-weight:500;
+	line-height:1.244;
+	margin: 0 0 0 1em;
+	text-indent:-1em;
+	list-style-type: none;
+}
+ul{
+	margin: 0 0 .8em 0;
+	padding: 0;
+}
+#books{
+	font-style: italic;
+}

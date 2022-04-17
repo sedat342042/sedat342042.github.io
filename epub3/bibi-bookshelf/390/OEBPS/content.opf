@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>İnsandan Öte</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sturgeon, Theodore">Theodore Sturgeon</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID">AE48128F-E7AE-4BD8-8359-0758A4D2D512</dc:identifier>
+    <dc:description>Bizi duymazlar...&lt;br/&gt;Duymazlar, sadece çığlık, sadece gürültüler.&lt;br/&gt;&lt;br/&gt;Erkekler ondan uzaklaşır, kadınlar ona bakmaz, çoculara durup onu izlerdi... Becerebildiğinde karnını doyurur, beceremezse aç kalırdı...&lt;br/&gt;Kaçardı. İlk darbede kaçmaya başlar ve darbeler durana dek kaçmaya çalışırdı. Fırtınalardan böyle kaçtı, düşen taşlardan, insanlardan, köpekler, trafik ve açlıktan... Bir hayvan gibi öldürürdü, nefret ve zevk olmasızın.&lt;br/&gt;&lt;br/&gt;Babası ona bir kadınla yalnız kalan bir erkeğin nasıl çılgına döndüğünü, vücudunda zehirli terin nasıl oluştuğunu, erkeğin bunu nasıl kadının üzerine sürdüğünü ve bunun kadının teninde nasıl bir dehşete neden olduğunu alatmıştı.&lt;br/&gt;&lt;br/&gt;Ayrıca öğrenmişti ki yeterince uzunu bir süre hareketsiz oturursan bedenin acımaya başlar, ama sonra acı diner. O zaman hiç kımıldamamalısın, azıcık bile, çünkü kımıldamak her şeyden daha fazla acı verecektir.</dc:description>
+    <dc:source>More Than Human</dc:source>
+    <dc:publisher>Altıkırkbeş Yayınları</dc:publisher>
+    <dc:date>1998-12-31T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">bb6a8fe3-fa78-48ef-b430-f1e55aa4ef86</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9902087710289</dc:identifier>
+    <dc:identifier opf:scheme="UUID">AE48128F-E7AE-4BD8-8359-0758A4D2D512</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/author.xhtml" id="author.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bu.xhtml" id="bu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tit.xhtml" id="tit.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/first.xhtml" id="first.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/second.xhtml" id="second.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/third.xhtml" id="third.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/footnotes.xhtml" id="footnotes.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/eldv0.6.css" id="eldv0.6.css" media-type="text/css"/>
+    <item href="Fonts/literata-bold-italic.otf" id="literata-bold-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/literata-bold.otf" id="literata-bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/literata-italic.otf" id="literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/literata-regular.otf" id="literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="author.xhtml"/>
+    <itemref idref="bu.xhtml"/>
+    <itemref idref="tit.xhtml"/>
+    <itemref idref="first.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="second.xhtml"/>
+    <itemref idref="x2.xhtml"/>
+    <itemref idref="third.xhtml"/>
+    <itemref idref="x3.xhtml"/>
+    <itemref idref="footnotes.xhtml" linear="no"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

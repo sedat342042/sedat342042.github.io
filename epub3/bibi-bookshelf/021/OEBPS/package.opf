@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Chopin</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Büke, Aydın">Aydın Büke</dc:creator>
+    <dc:date>2009-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750722790</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">9b94825e-2cd1-4183-beb4-564759cacdd1</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789750722790</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="dedication.xhtml" id="dedicationxhtml" media-type="application/xhtml+xml"/>
+    <item href="preface.xhtml" id="prefacexhtml" media-type="application/xhtml+xml"/>
+    <item href="introduction.xhtml" id="introductionxhtml" media-type="application/xhtml+xml"/>
+    <item href="part1.xhtml" id="part1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="part2.xhtml" id="part2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="part3.xhtml" id="part3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="part4.xhtml" id="part4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="part5.xhtml" id="part5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="part6.xhtml" id="part6xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="part7.xhtml" id="part7xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="part8.xhtml" id="part8xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter8.xhtml" id="chapter8xhtml" media-type="application/xhtml+xml"/>
+    <item href="part9.xhtml" id="part9xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter9.xhtml" id="chapter9xhtml" media-type="application/xhtml+xml"/>
+    <item href="sub-part1.xhtml" id="sub-part1xhtml" media-type="application/xhtml+xml"/>
+    <item href="sub-chapter1.xhtml" id="sub-chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="sub-part2.xhtml" id="sub-part2xhtml" media-type="application/xhtml+xml"/>
+    <item href="sub-chapter2.xhtml" id="sub-chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="part10.xhtml" id="part10xhtml" media-type="application/xhtml+xml"/>
+    <item href="bibliography.xhtml" id="bibliographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="part11.xhtml" id="part11xhtml" media-type="application/xhtml+xml"/>
+    <item href="index.xhtml" id="indexxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="maincss" media-type="text/css"/>
+    <item href="image/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="image/img00.jpg" id="image__img00jpg" media-type="image/jpeg"/>
+    <item href="image/img01.jpg" id="image__img01jpg" media-type="image/jpeg"/>
+    <item href="image/img02.jpg" id="image__img02jpg" media-type="image/jpeg"/>
+    <item href="image/img03.jpg" id="image__img03jpg" media-type="image/jpeg"/>
+    <item href="image/img04.jpg" id="image__img04jpg" media-type="image/jpeg"/>
+    <item href="image/img05.jpg" id="image__img05jpg" media-type="image/jpeg"/>
+    <item href="image/img06.jpg" id="image__img06jpg" media-type="image/jpeg"/>
+    <item href="image/img07.jpg" id="image__img07jpg" media-type="image/jpeg"/>
+    <item href="image/img08.jpg" id="image__img08jpg" media-type="image/jpeg"/>
+    <item href="image/img09.jpg" id="image__img09jpg" media-type="image/jpeg"/>
+    <item href="image/img10.jpg" id="image__img10jpg" media-type="image/jpeg"/>
+    <item href="image/img11.jpg" id="image__img11jpg" media-type="image/jpeg"/>
+    <item href="image/img12.jpg" id="image__img12jpg" media-type="image/jpeg"/>
+    <item href="image/img13.jpg" id="image__img13jpg" media-type="image/jpeg"/>
+    <item href="image/img14.jpg" id="image__img14jpg" media-type="image/jpeg"/>
+    <item href="image/img15.jpg" id="image__img15jpg" media-type="image/jpeg"/>
+    <item href="image/img16.jpg" id="image__img16jpg" media-type="image/jpeg"/>
+    <item href="image/img17.jpg" id="image__img17jpg" media-type="image/jpeg"/>
+    <item href="image/img18.jpg" id="image__img18jpg" media-type="image/jpeg"/>
+    <item href="image/img19.jpg" id="image__img19jpg" media-type="image/jpeg"/>
+    <item href="image/img20.jpg" id="image__img20jpg" media-type="image/jpeg"/>
+    <item href="image/img21.jpg" id="image__img21jpg" media-type="image/jpeg"/>
+    <item href="image/img22.jpg" id="image__img22jpg" media-type="image/jpeg"/>
+    <item href="image/img23.jpg" id="image__img23jpg" media-type="image/jpeg"/>
+    <item href="image/img24.jpg" id="image__img24jpg" media-type="image/jpeg"/>
+    <item href="image/img25.jpg" id="image__img25jpg" media-type="image/jpeg"/>
+    <item href="image/img26.jpg" id="image__img26jpg" media-type="image/jpeg"/>
+    <item href="image/img27.jpg" id="image__img27jpg" media-type="image/jpeg"/>
+    <item href="image/img28.jpg" id="image__img28jpg" media-type="image/jpeg"/>
+    <item href="image/img29.jpg" id="image__img29jpg" media-type="image/jpeg"/>
+    <item href="image/img30.jpg" id="image__img30jpg" media-type="image/jpeg"/>
+    <item href="image/img31.jpg" id="image__img31jpg" media-type="image/jpeg"/>
+    <item href="image/img32.jpg" id="image__img32jpg" media-type="image/jpeg"/>
+    <item href="image/img33.jpg" id="image__img33jpg" media-type="image/jpeg"/>
+    <item href="image/img34.jpg" id="image__img34jpg" media-type="image/jpeg"/>
+    <item href="image/img35.jpg" id="image__img35jpg" media-type="image/jpeg"/>
+    <item href="image/img36.jpg" id="image__img36jpg" media-type="image/jpeg"/>
+    <item href="image/img37.jpg" id="image__img37jpg" media-type="image/jpeg"/>
+    <item href="image/img38.jpg" id="image__img38jpg" media-type="image/jpeg"/>
+    <item href="image/img39.jpg" id="image__img39jpg" media-type="image/jpeg"/>
+    <item href="image/img40.jpg" id="image__img40jpg" media-type="image/jpeg"/>
+    <item href="image/img41.jpg" id="image__img41jpg" media-type="image/jpeg"/>
+    <item href="image/img42.jpg" id="image__img42jpg" media-type="image/jpeg"/>
+    <item href="image/img43.jpg" id="image__img43jpg" media-type="image/jpeg"/>
+    <item href="image/img44.jpg" id="image__img44jpg" media-type="image/jpeg"/>
+    <item href="image/img45.jpg" id="image__img45jpg" media-type="image/jpeg"/>
+    <item href="image/img46.jpg" id="image__img46jpg" media-type="image/jpeg"/>
+    <item href="image/img47.jpg" id="image__img47jpg" media-type="image/jpeg"/>
+    <item href="image/img48.jpg" id="image__img48jpg" media-type="image/jpeg"/>
+    <item href="image/img49.jpg" id="image__img49jpg" media-type="image/jpeg"/>
+    <item href="image/img50.jpg" id="image__img50jpg" media-type="image/jpeg"/>
+    <item href="image/img51.jpg" id="image__img51jpg" media-type="image/jpeg"/>
+    <item href="image/img52.jpg" id="image__img52jpg" media-type="image/jpeg"/>
+    <item href="image/img53.jpg" id="image__img53jpg" media-type="image/jpeg"/>
+    <item href="image/img54.jpg" id="image__img54jpg" media-type="image/jpeg"/>
+    <item href="image/img55.jpg" id="image__img55jpg" media-type="image/jpeg"/>
+    <item href="image/img56.jpg" id="image__img56jpg" media-type="image/jpeg"/>
+    <item href="image/img57.jpg" id="image__img57jpg" media-type="image/jpeg"/>
+    <item href="image/img58.jpg" id="image__img58jpg" media-type="image/jpeg"/>
+    <item href="image/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="ufJDgpSK5wQLLpIASHHusRH" media-type="image/jpeg"/>
+    <item href="font/DINBEKLight.TTF" id="font__DINBEKLightTTF" media-type="application/vnd.ms-opentype"/>
+    <item href="font/PalatinoLinotype-Bold.ttf" id="font__PalatinoLinotype-Boldttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/PalatinoLinotype-BoldItalic.ttf" id="font__PalatinoLinotype-BoldItalicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/PalatinoLinotype-Italic.ttf" id="font__PalatinoLinotype-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/PalatinoLinotype-Roman.ttf" id="font__PalatinoLinotype-Romanttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/SnellBT-Bold.otf" id="font__SnellBT-Boldotf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/SnellBT-Regular.otf" id="font__SnellBT-Regularotf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/TimesNewRomanPS-ItalicMT.ttf" id="font__TimesNewRomanPS-ItalicMTttf" media-type="application/vnd.ms-opentype"/>
+    <item href="titlepage_u1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="dedicationxhtml"/>
+    <itemref idref="prefacexhtml"/>
+    <itemref idref="introductionxhtml"/>
+    <itemref idref="part1xhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="part2xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="part3xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="part4xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="part5xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="part6xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="part7xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+    <itemref idref="part8xhtml"/>
+    <itemref idref="chapter8xhtml"/>
+    <itemref idref="part9xhtml"/>
+    <itemref idref="chapter9xhtml"/>
+    <itemref idref="sub-part1xhtml"/>
+    <itemref idref="sub-chapter1xhtml"/>
+    <itemref idref="sub-part2xhtml"/>
+    <itemref idref="sub-chapter2xhtml"/>
+    <itemref idref="part10xhtml"/>
+    <itemref idref="bibliographyxhtml"/>
+    <itemref idref="part11xhtml"/>
+    <itemref idref="indexxhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage_u1.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

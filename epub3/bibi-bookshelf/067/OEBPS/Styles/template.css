@@ -1,0 +1,752 @@
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.x8--Ayet-adresleri---mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	color : #000000;
+}
+span.x2---talik-mitat {
+	font-weight : normal;
+	font-style : italic;
+	color : #000000;
+}
+span.x7--Dipnot-numaralar--mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	vertical-align : super;
+	color : #000000;
+}
+span.simge {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+}
+span.x9--Arap-a--10-5-15--copy {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #000000;
+}
+span.x8--Ayet-adresleri---mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a-- {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x7--Dipnot-numaralar--mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	vertical-align : super;
+	color : #000000;
+}
+span.simge-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+}
+span.x9--Arap-a--10-5-15--copy-1 {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #000000;
+}
+span.x8--Ayet-adresleri---mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a---1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x7--Dipnot-numaralar--mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	vertical-align : super;
+	color : #000000;
+}
+span.simge-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+}
+span.x9--Arap-a--10-5-15--copy-2 {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #000000;
+}
+span.x8--Ayet-adresleri---mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a---2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x7--Dipnot-numaralar--mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	vertical-align : super;
+	color : #000000;
+}
+span.simge-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+}
+span.x4--Bold--talik-mitat {
+	font-weight : bold;
+	font-style : italic;
+	color : #000000;
+}
+span.x9--Arap-a--10-5-15--copy-3 {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #000000;
+}
+span.x8--Ayet-adresleri---mitat-4 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a---3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x7--Dipnot-numaralar--mitat-4 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	vertical-align : super;
+	color : #000000;
+}
+span.x9--Arap-a--10-5-15--copy-4 {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a---4 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x8--Ayet-adresleri---mitat-5 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	color : #000000;
+}
+span.x1---c-cl----s-a-s-----a-s-----r-a---5 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.x3--Bold-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	color : #000000;
+}
+span.char-style-override-1 {
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-2 {
+	font-style : italic;
+	font-weight : normal;
+}
+p.a--Paragraf-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.b--Paragraf-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -13px;
+	margin : 0px 0px 0px 13px;
+}
+p.x3--baslik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 0px 0px 6px 34px;
+}
+p.x01--bolum---fasil-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 80px 0px 14px 0px;
+}
+p.x02--bolum-basligi-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 60px 0px;
+}
+p.a--Paragraf-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.x09--Arap-a---13-punto- {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.69;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px 3px 0px;
+	direction : rtl;
+}
+p.b--Paragraf-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -13px;
+	margin : 0px 0px 0px 13px;
+}
+p.x3--baslik-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 0px 0px 6px 34px;
+}
+p.x01--bolum---fasil-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 80px 0px 14px 0px;
+}
+p.x02--bolum-basligi-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 60px 0px;
+}
+p.x-zel-ba-l-k {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	text-transform : uppercase;
+	line-height : 1.45;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 0px 0px;
+}
+p.x4--baslik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.17;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 11px 0px 6px 34px;
+}
+p.x5--baslik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 6px 0px 3px 0px;
+}
+p.a--Paragraf-mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.x09--Arap-a---13-punto--1 {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.69;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px 3px 0px;
+	direction : rtl;
+}
+p.b--Paragraf-mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -13px;
+	margin : 0px 0px 0px 13px;
+}
+p.x3--baslik-mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 0px 0px 6px 34px;
+}
+p.x01--bolum---fasil-mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 80px 0px 14px 0px;
+}
+p.x02--bolum-basligi-mitat-2 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 60px 0px;
+}
+p.a--Paragraf-mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.b--Paragraf-mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -13px;
+	margin : 0px 0px 0px 13px;
+}
+p.x3--baslik-mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 0px 0px 6px 34px;
+}
+p.x01--bolum---fasil-mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 80px 0px 14px 0px;
+}
+p.x02--bolum-basligi-mitat-3 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 60px 0px;
+}
+p.x4--baslik-mitat-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.17;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 11px 0px 6px 34px;
+}
+p.x1--baslik-mitat {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.25em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 80px 0px 8px 0px;
+}
+p.a--Paragraf-mitat-4 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.b--Paragraf-mitat-4 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -13px;
+	margin : 0px 0px 0px 13px;
+}
+p.x3--baslik-mitat-4 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 0px 0px 6px 34px;
+}
+p.a--Paragraf-mitat-5 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.x09--Arap-a---13-punto--2 {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.69;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px 3px 0px;
+	direction : rtl;
+}
+p.Kaynak-a-ve--ndeks {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : justify;
+	color : #000000;
+	text-indent : -20px;
+	margin : 0px 0px 2px 20px;
+}
+p.jen-kapak {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 10px 0px;
+}
+p.jenerik {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 0px 0px;
+}
+p.giris-slogan {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.giris-baslik {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.59;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 10px 0px 0px 0px;
+}
+p.yazar {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 15px 0px 25px 0px;
+}
+p.a--Paragraf-mitat-6 {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 1px 0px;
+}
+p.para-style-override-1 {
+	margin-top : 0px;
+}
+p.para-style-override-2 {
+	margin-top : 14px;
+}
+p.para-style-override-3 {
+	margin-top : 3px;
+}
+p.para-style-override-4 {
+	margin-top : 6px;
+}
+div.Basic-Text-Frame {
+}

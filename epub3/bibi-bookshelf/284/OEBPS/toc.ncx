@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:a4503356-0230-4980-a5d3-7a7df9df0ab7" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>
+	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>GİRİŞ</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-6.xhtml#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>6 Kasım Pazar</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-6.xhtml#toc_marker-1-1"/>
+			</navPoint>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>İki Gün Sonra, 8 Kasım Salı</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-6.xhtml#toc_marker-1-2"/>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>16 Kasım Çarşamba </text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-6.xhtml#toc_marker-1-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>- 1 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-7.xhtml#toc_marker-2"/>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>20 Kasım Pazar</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-7.xhtml#toc_marker-2-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>- 2 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-8.xhtml#toc_marker-3"/>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>21 Kasım Pazartesi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-8.xhtml#toc_marker-3-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>- 3 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-9.xhtml#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>“DÜNYA S.O.S VERİYOR”</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-10.xhtml#toc_marker-5"/>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>Başlarken</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-10.xhtml#toc_marker-5-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>- 4 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-11.xhtml#toc_marker-6"/>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>22 Kasım Salı</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-11.xhtml#toc_marker-6-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>- 5 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-12.xhtml#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>- 6 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-13.xhtml#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>- 7 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-14.xhtml#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>- 8 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-15.xhtml#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>- 9 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-16.xhtml#toc_marker-11"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>- 10 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-17.xhtml#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>- 11 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-18.xhtml#toc_marker-13"/>
+			<navPoint id="navpoint21" playOrder="21">
+				<navLabel>
+					<text>25 Kasım Cuma (Üç Gün Sonra)</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-18.xhtml#toc_marker-13-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>- 12 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-19.xhtml#toc_marker-14"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>“DÜNYA S.O.S VERİYOR” - 1</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-20.xhtml#toc_marker-15"/>
+			<navPoint id="navpoint24" playOrder="24">
+				<navLabel>
+					<text>Kıyamet Gibi Felaketler</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-20.xhtml#toc_marker-15-1"/>
+			</navPoint>
+			<navPoint id="navpoint25" playOrder="25">
+				<navLabel>
+					<text>Afetlerde Artış</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-20.xhtml#toc_marker-15-2"/>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>10 Mega Felaket</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-20.xhtml#toc_marker-15-3"/>
+			</navPoint>
+			<navPoint id="navpoint27" playOrder="27">
+				<navLabel>
+					<text>Liste Şöyle Sıralanıyor:</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-20.xhtml#toc_marker-15-4"/>
+			</navPoint>
+			<navPoint id="navpoint28" playOrder="28">
+				<navLabel>
+					<text>Hiç Bu Kadar Isınmadık!</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-20.xhtml#toc_marker-15-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>- 13 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-21.xhtml#toc_marker-16"/>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>26 Kasım Cumartesi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-21.xhtml#toc_marker-16-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint31" playOrder="31">
+			<navLabel>
+				<text>- 14 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-22.xhtml#toc_marker-17"/>
+			<navPoint id="navpoint32" playOrder="32">
+				<navLabel>
+					<text>27 Kasım Pazar</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-22.xhtml#toc_marker-17-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint33" playOrder="33">
+			<navLabel>
+				<text>“DÜNYA S.O.S VERİYOR” - 2</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-23.xhtml#toc_marker-18"/>
+			<navPoint id="navpoint34" playOrder="34">
+				<navLabel>
+					<text>Buzullar Hızla Eriyor;Kutup Ayıları Yok Oluyor</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-23.xhtml#toc_marker-18-1"/>
+			</navPoint>
+			<navPoint id="navpoint35" playOrder="35">
+				<navLabel>
+					<text>Son Felaket Raporu</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-23.xhtml#toc_marker-18-2"/>
+			</navPoint>
+			<navPoint id="navpoint36" playOrder="36">
+				<navLabel>
+					<text>İlk kurban: Maldiv Adaları</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-23.xhtml#toc_marker-18-3"/>
+			</navPoint>
+			<navPoint id="navpoint37" playOrder="37">
+				<navLabel>
+					<text>Milyarlarca İnsan Ölecek</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-23.xhtml#toc_marker-18-4"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint38" playOrder="38">
+			<navLabel>
+				<text>- 15 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-24.xhtml#toc_marker-19"/>
+			<navPoint id="navpoint39" playOrder="39">
+				<navLabel>
+					<text>28 Kasım Pazartesi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-24.xhtml#toc_marker-19-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint40" playOrder="40">
+			<navLabel>
+				<text>“DÜNYA S.O.S VERİYOR” - 3</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20"/>
+			<navPoint id="navpoint41" playOrder="41">
+				<navLabel>
+					<text>Yeryüzü Kasırgalarla Savrulacak</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20-1"/>
+			</navPoint>
+			<navPoint id="navpoint42" playOrder="42">
+				<navLabel>
+					<text>Dünyanın En Riskli 5 Mega Kenti</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20-2"/>
+			</navPoint>
+			<navPoint id="navpoint43" playOrder="43">
+				<navLabel>
+					<text>Dünyanın "Süper-Volkan" Kâbusu</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20-3"/>
+			</navPoint>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text>Volkan Üzerinde</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20-4"/>
+			</navPoint>
+			<navPoint id="navpoint45" playOrder="45">
+				<navLabel>
+					<text>Ürküten Senaryo</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20-5"/>
+			</navPoint>
+			<navPoint id="navpoint46" playOrder="46">
+				<navLabel>
+					<text>Gerçek Olabilir mi?</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20-6"/>
+			</navPoint>
+			<navPoint id="navpoint47" playOrder="47">
+				<navLabel>
+					<text>500 Bin Kişi Tehlikede</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20-7"/>
+			</navPoint>
+			<navPoint id="navpoint48" playOrder="48">
+				<navLabel>
+					<text>İklimi Değiştiriyor</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20-8"/>
+			</navPoint>
+			<navPoint id="navpoint49" playOrder="49">
+				<navLabel>
+					<text>Türkiye Tehlikede mi?</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20-9"/>
+			</navPoint>
+			<navPoint id="navpoint50" playOrder="50">
+				<navLabel>
+					<text>Volkan Tetikledi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-25.xhtml#toc_marker-20-10"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint51" playOrder="51">
+			<navLabel>
+				<text>- 16 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-26.xhtml#toc_marker-21"/>
+		</navPoint>
+		<navPoint id="navpoint52" playOrder="52">
+			<navLabel>
+				<text>- 17 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-27.xhtml#toc_marker-22"/>
+			<navPoint id="navpoint53" playOrder="53">
+				<navLabel>
+					<text>29 Kasım Salı</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-27.xhtml#toc_marker-22-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint54" playOrder="54">
+			<navLabel>
+				<text>- 18 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-28.xhtml#toc_marker-23"/>
+			<navPoint id="navpoint55" playOrder="55">
+				<navLabel>
+					<text>1 Aralık Perşembe (Dört Gün Sonra)</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-28.xhtml#toc_marker-23-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint56" playOrder="56">
+			<navLabel>
+				<text>“DÜNYA S.O.S VERİYOR” – 4/5/6</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24"/>
+			<navPoint id="navpoint57" playOrder="57">
+				<navLabel>
+					<text>Mega Tsunami Dünyayı Vuracak!</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-1"/>
+			</navPoint>
+			<navPoint id="navpoint58" playOrder="58">
+				<navLabel>
+					<text>Tehlikedeki Megakentler</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-2"/>
+			</navPoint>
+			<navPoint id="navpoint59" playOrder="59">
+				<navLabel>
+					<text>Uygarlıklar Yok Etti</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-3"/>
+			</navPoint>
+			<navPoint id="navpoint60" playOrder="60">
+				<navLabel>
+					<text>Yeryüzü Depremlerle Sarsılıyor</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-4"/>
+			</navPoint>
+			<navPoint id="navpoint61" playOrder="61">
+				<navLabel>
+					<text>Bir Milyon İnsan Ölecek</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-5"/>
+			</navPoint>
+			<navPoint id="navpoint62" playOrder="62">
+				<navLabel>
+					<text>Deprem Sonrası Tehlike</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-6"/>
+			</navPoint>
+			<navPoint id="navpoint63" playOrder="63">
+				<navLabel>
+					<text>Dev Göktaşları ve Hipernova Tehlikesi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-7"/>
+			</navPoint>
+			<navPoint id="navpoint64" playOrder="64">
+				<navLabel>
+					<text>Tufan ve Dinozorlar</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-8"/>
+			</navPoint>
+			<navPoint id="navpoint65" playOrder="65">
+				<navLabel>
+					<text>"Derin Darbe" Gerçekleşebilir mi?</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-9"/>
+			</navPoint>
+			<navPoint id="navpoint66" playOrder="66">
+				<navLabel>
+					<text>HipernovaTehlikesi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-10"/>
+			</navPoint>
+			<navPoint id="navpoint67" playOrder="67">
+				<navLabel>
+					<text>360 Milyon Kişi Ölecek</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-29.xhtml#toc_marker-24-11"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint68" playOrder="68">
+			<navLabel>
+				<text>- 19 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-30.xhtml#toc_marker-25"/>
+			<navPoint id="navpoint69" playOrder="69">
+				<navLabel>
+					<text>15 Mart Perşembe  (Yaklaşık Üç Buçuk Ay Sonra)</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-30.xhtml#toc_marker-25-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint70" playOrder="70">
+			<navLabel>
+				<text>- 20 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-31.xhtml#toc_marker-26"/>
+			<navPoint id="navpoint71" playOrder="71">
+				<navLabel>
+					<text>16 Mart Cuma</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-31.xhtml#toc_marker-26-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint72" playOrder="72">
+			<navLabel>
+				<text>- 21 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-32.xhtml#toc_marker-27"/>
+			<navPoint id="navpoint73" playOrder="73">
+				<navLabel>
+					<text>17 Mart Cumartesi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-32.xhtml#toc_marker-27-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint74" playOrder="74">
+			<navLabel>
+				<text>- 22 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-33.xhtml#toc_marker-28"/>
+		</navPoint>
+		<navPoint id="navpoint75" playOrder="75">
+			<navLabel>
+				<text>- 23 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-34.xhtml#toc_marker-29"/>
+			<navPoint id="navpoint76" playOrder="76">
+				<navLabel>
+					<text>18 Mart Pazar</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-34.xhtml#toc_marker-29-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint77" playOrder="77">
+			<navLabel>
+				<text>- 24 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-35.xhtml#toc_marker-30"/>
+			<navPoint id="navpoint78" playOrder="78">
+				<navLabel>
+					<text>19 Mart Pazartesi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-35.xhtml#toc_marker-30-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint79" playOrder="79">
+			<navLabel>
+				<text>- 25 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-36.xhtml#toc_marker-31"/>
+			<navPoint id="navpoint80" playOrder="80">
+				<navLabel>
+					<text>20 Mart Salı</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-36.xhtml#toc_marker-31-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint81" playOrder="81">
+			<navLabel>
+				<text>"KÜRESEL ISINMA FELAKETİ KAPIMIZDA” – 1</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-37.xhtml#toc_marker-32"/>
+			<navPoint id="navpoint82" playOrder="82">
+				<navLabel>
+					<text>Türkiye İçin "Küresel Kâbus" Başlıyor</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-37.xhtml#toc_marker-32-1"/>
+			</navPoint>
+			<navPoint id="navpoint83" playOrder="83">
+				<navLabel>
+					<text>Atmosferi Kirletiyoruz</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-37.xhtml#toc_marker-32-2"/>
+			</navPoint>
+			<navPoint id="navpoint84" playOrder="84">
+				<navLabel>
+					<text>Sıcaklıklar Artacak</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-37.xhtml#toc_marker-32-3"/>
+			</navPoint>
+			<navPoint id="navpoint85" playOrder="85">
+				<navLabel>
+					<text>Isıtma Mevsimi Kısalacak</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-37.xhtml#toc_marker-32-4"/>
+			</navPoint>
+			<navPoint id="navpoint86" playOrder="86">
+				<navLabel>
+					<text>GAP'ta Alarm</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-37.xhtml#toc_marker-32-5"/>
+			</navPoint>
+			<navPoint id="navpoint87" playOrder="87">
+				<navLabel>
+					<text>Turizme Darbe</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-37.xhtml#toc_marker-32-6"/>
+			</navPoint>
+			<navPoint id="navpoint88" playOrder="88">
+				<navLabel>
+					<text>Uludağ Eriyecek</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-37.xhtml#toc_marker-32-7"/>
+			</navPoint>
+			<navPoint id="navpoint89" playOrder="89">
+				<navLabel>
+					<text>Kuş Cenneti Yok Olacak</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-37.xhtml#toc_marker-32-8"/>
+			</navPoint>
+			<navPoint id="navpoint90" playOrder="90">
+				<navLabel>
+					<text>50 Milyon Kişi Tehdit Altında</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-37.xhtml#toc_marker-32-9"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint91" playOrder="91">
+			<navLabel>
+				<text>- 26 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-38.xhtml#toc_marker-33"/>
+			<navPoint id="navpoint92" playOrder="92">
+				<navLabel>
+					<text>21 Mart Çarşamba</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-38.xhtml#toc_marker-33-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint93" playOrder="93">
+			<navLabel>
+				<text>"KÜRESEL ISINMA FELAKETİ KAPIMIZDA” - 2</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34"/>
+			<navPoint id="navpoint94" playOrder="94">
+				<navLabel>
+					<text>Hamsi Tehlikede</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-1"/>
+			</navPoint>
+			<navPoint id="navpoint95" playOrder="95">
+				<navLabel>
+					<text>Kaplumbağalar Gelemeyecek</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-2"/>
+			</navPoint>
+			<navPoint id="navpoint96" playOrder="96">
+				<navLabel>
+					<text>Biyoçeşitliliğimiz Yok Olacak</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-3"/>
+			</navPoint>
+			<navPoint id="navpoint97" playOrder="97">
+				<navLabel>
+					<text>Harran Ovası'na Dikkat!</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-4"/>
+			</navPoint>
+			<navPoint id="navpoint98" playOrder="98">
+				<navLabel>
+					<text>En Hızlı Çölleşen Yerler</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-5"/>
+			</navPoint>
+			<navPoint id="navpoint99" playOrder="99">
+				<navLabel>
+					<text>Su İhtiyacı Artıyor</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-6"/>
+			</navPoint>
+			<navPoint id="navpoint100" playOrder="100">
+				<navLabel>
+					<text>Pamuk Kuzeye Göçecek</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-7"/>
+			</navPoint>
+			<navPoint id="navpoint101" playOrder="101">
+				<navLabel>
+					<text>Fındık ve Çay Bizi Terk Edecek</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-8"/>
+			</navPoint>
+			<navPoint id="navpoint102" playOrder="102">
+				<navLabel>
+					<text>Şekerimiz Düşecek</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-9"/>
+			</navPoint>
+			<navPoint id="navpoint103" playOrder="103">
+				<navLabel>
+					<text>Gıdada Dışa Bağımlı Olacağız</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-10"/>
+			</navPoint>
+			<navPoint id="navpoint104" playOrder="104">
+				<navLabel>
+					<text>Hastalık ve Zararlılar Artacak</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-11"/>
+			</navPoint>
+			<navPoint id="navpoint105" playOrder="105">
+				<navLabel>
+					<text>Yalıları Su Basacak</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-39.xhtml#toc_marker-34-12"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint106" playOrder="106">
+			<navLabel>
+				<text>- 27 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-40.xhtml#toc_marker-35"/>
+			<navPoint id="navpoint107" playOrder="107">
+				<navLabel>
+					<text>22 Mart Perşembe</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-40.xhtml#toc_marker-35-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint108" playOrder="108">
+			<navLabel>
+				<text>"KÜRESEL ISINMA FELAKETİ KAPIMIZDA” - 3</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36"/>
+			<navPoint id="navpoint109" playOrder="109">
+				<navLabel>
+					<text>İklim Göçlerine Hazır Olalım</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36-1"/>
+			</navPoint>
+			<navPoint id="navpoint110" playOrder="110">
+				<navLabel>
+					<text>Türkiye'ye Mülteci Akacak</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36-2"/>
+			</navPoint>
+			<navPoint id="navpoint111" playOrder="111">
+				<navLabel>
+					<text>İklim Savaşları Çıkabilir</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36-3"/>
+			</navPoint>
+			<navPoint id="navpoint112" playOrder="112">
+				<navLabel>
+					<text>Tropikal hastalıklar artacak</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36-4"/>
+			</navPoint>
+			<navPoint id="navpoint113" playOrder="113">
+				<navLabel>
+					<text>Orman yangınları</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36-5"/>
+			</navPoint>
+			<navPoint id="navpoint114" playOrder="114">
+				<navLabel>
+					<text>Su fakiri olacağız</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36-6"/>
+			</navPoint>
+			<navPoint id="navpoint115" playOrder="115">
+				<navLabel>
+					<text>Çekirge İstilası</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36-7"/>
+			</navPoint>
+			<navPoint id="navpoint116" playOrder="116">
+				<navLabel>
+					<text>Göller Kuruyor</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36-8"/>
+			</navPoint>
+			<navPoint id="navpoint117" playOrder="117">
+				<navLabel>
+					<text>"Kaçkar Buzulları Erimeye Başladı"</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36-9"/>
+			</navPoint>
+			<navPoint id="navpoint118" playOrder="118">
+				<navLabel>
+					<text>Politikalar Belirlenmeli</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-41.xhtml#toc_marker-36-10"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint119" playOrder="119">
+			<navLabel>
+				<text>- 28 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-42.xhtml#toc_marker-37"/>
+			<navPoint id="navpoint120" playOrder="120">
+				<navLabel>
+					<text>23 Mart Cuma</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-42.xhtml#toc_marker-37-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint121" playOrder="121">
+			<navLabel>
+				<text>- 29 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-43.xhtml#toc_marker-38"/>
+			<navPoint id="navpoint122" playOrder="122">
+				<navLabel>
+					<text>24 Mart Cumartesi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-43.xhtml#toc_marker-38-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint123" playOrder="123">
+			<navLabel>
+				<text>- 30 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-44.xhtml#toc_marker-39"/>
+		</navPoint>
+		<navPoint id="navpoint124" playOrder="124">
+			<navLabel>
+				<text>- 31 - </text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-45.xhtml#toc_marker-40"/>
+			<navPoint id="navpoint125" playOrder="125">
+				<navLabel>
+					<text>25 Mart Pazar</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-45.xhtml#toc_marker-40-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint126" playOrder="126">
+			<navLabel>
+				<text>- 32 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-46.xhtml#toc_marker-41"/>
+		</navPoint>
+		<navPoint id="navpoint127" playOrder="127">
+			<navLabel>
+				<text>- 33 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-47.xhtml#toc_marker-42"/>
+			<navPoint id="navpoint128" playOrder="128">
+				<navLabel>
+					<text>27 Mart Salı (İki Gün Sonra)</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-47.xhtml#toc_marker-42-1"/>
+			</navPoint>
+			<navPoint id="navpoint129" playOrder="129">
+				<navLabel>
+					<text>Çevresel Koşullar;</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-47.xhtml#toc_marker-42-2"/>
+			</navPoint>
+			<navPoint id="navpoint130" playOrder="130">
+				<navLabel>
+					<text>Kişisel Koşullar;</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-47.xhtml#toc_marker-42-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint131" playOrder="131">
+			<navLabel>
+				<text>- 34 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-48.xhtml#toc_marker-43"/>
+		</navPoint>
+		<navPoint id="navpoint132" playOrder="132">
+			<navLabel>
+				<text>- 35 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-49.xhtml#toc_marker-44"/>
+		</navPoint>
+		<navPoint id="navpoint133" playOrder="133">
+			<navLabel>
+				<text>- 36 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-50.xhtml#toc_marker-45"/>
+			<navPoint id="navpoint134" playOrder="134">
+				<navLabel>
+					<text>28 Mart Çarşamba</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-50.xhtml#toc_marker-45-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint135" playOrder="135">
+			<navLabel>
+				<text>- 37 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-51.xhtml#toc_marker-46"/>
+			<navPoint id="navpoint136" playOrder="136">
+				<navLabel>
+					<text>3 Nisan Salı (Bir hafta sonra)</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-51.xhtml#toc_marker-46-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint137" playOrder="137">
+			<navLabel>
+				<text>- 38 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-52.xhtml#toc_marker-47"/>
+			<navPoint id="navpoint138" playOrder="138">
+				<navLabel>
+					<text>4 Nisan Çarşamba</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-52.xhtml#toc_marker-47-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint139" playOrder="139">
+			<navLabel>
+				<text>- 39 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-53.xhtml#toc_marker-48"/>
+		</navPoint>
+		<navPoint id="navpoint140" playOrder="140">
+			<navLabel>
+				<text>- 40 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-54.xhtml#toc_marker-49"/>
+			<navPoint id="navpoint141" playOrder="141">
+				<navLabel>
+					<text>6 Nisan Cuma (Bir Gün Sonra)</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-54.xhtml#toc_marker-49-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint142" playOrder="142">
+			<navLabel>
+				<text>- 41 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-55.xhtml#toc_marker-50"/>
+		</navPoint>
+		<navPoint id="navpoint143" playOrder="143">
+			<navLabel>
+				<text>- 42 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-56.xhtml#toc_marker-51"/>
+		</navPoint>
+		<navPoint id="navpoint144" playOrder="144">
+			<navLabel>
+				<text>- 43 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-57.xhtml#toc_marker-52"/>
+		</navPoint>
+		<navPoint id="navpoint145" playOrder="145">
+			<navLabel>
+				<text>- 44 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-58.xhtml#toc_marker-53"/>
+			<navPoint id="navpoint146" playOrder="146">
+				<navLabel>
+					<text>7 Nisan Cumartesi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-58.xhtml#toc_marker-53-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint147" playOrder="147">
+			<navLabel>
+				<text>- 45 -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-59.xhtml#toc_marker-54"/>
+			<navPoint id="navpoint148" playOrder="148">
+				<navLabel>
+					<text>8 Haziran Cuma (İki Ay Sonra)</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-59.xhtml#toc_marker-54-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint149" playOrder="149">
+			<navLabel>
+				<text>- SON SÖZ -</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-60.xhtml#toc_marker-55"/>
+			<navPoint id="navpoint150" playOrder="150">
+				<navLabel>
+					<text>9 Haziran Cumartesi</text>
+				</navLabel>
+				<content src="Text/Olum_Deltasi-60.xhtml#toc_marker-55-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint151" playOrder="151">
+			<navLabel>
+				<text>TEŞEKKÜRLER...</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-61.xhtml#toc_marker-56"/>
+		</navPoint>
+		<navPoint id="navpoint152" playOrder="152">
+			<navLabel>
+				<text>KAYNAKLAR…</text>
+			</navLabel>
+			<content src="Text/Olum_Deltasi-62.xhtml#toc_marker-57"/>
+		</navPoint>
+	</navMap>
+</ncx>

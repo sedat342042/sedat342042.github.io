@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+                 "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="9781927893043 (ePub), 9781927893050 (mobi)"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Hocam, Allaha Peygambere Laf Etmek Caiz Midir?</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Sunu&#351;</text>
+      </navLabel>
+      <content src="section3.html"/>
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Ald&#305; Ni&#351;anyan Saz&#305; Eline</text>
+      </navLabel>
+      <content src="section4.html"/>
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Polemik</text>
+      </navLabel>
+      <content src="section5.html"/>
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>??##!!!</text>
+      </navLabel>
+      <content src="section6.html"/>
+    </navPoint>
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>Siz Zaten &#199;arp&#305;lm&#305;&#351;s&#305;n&#305;z &#220;stad&#305;m</text>
+      </navLabel>
+      <content src="section7.html"/>
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>Kalbimizi K&#305;rd&#305;n</text>
+      </navLabel>
+      <content src="section8.html"/>
+    </navPoint>
+    <navPoint id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>Ayr&#305; Bir Cepheden: &#214;zg&#252;rl&#252;k Bize L&#252;ks</text>
+      </navLabel>
+      <content src="section9.html"/>
+    </navPoint>
+    <navPoint id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>Oh, Can&#305;ma De&#287;sin!</text>
+      </navLabel>
+      <content src="section10.html"/>
+    </navPoint>
+    <navPoint id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>Allah Esirgeyici, Ba&#287;&#305;&#351;lay&#305;c&#305; ve Liberaldir</text>
+      </navLabel>
+      <content src="section11.html"/>
+    </navPoint>
+    <navPoint id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>Finale: Molto Moderato</text>
+      </navLabel>
+      <content src="section12.html"/>
+    </navPoint>
+    <navPoint id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>En Son S&#246;z: Meleklere Dair</text>
+      </navLabel>
+      <content src="section13.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

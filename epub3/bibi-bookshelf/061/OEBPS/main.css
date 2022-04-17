@@ -1,0 +1,310 @@
+@font-face {
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/BerlingLTStd-Roman.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: italic;
+	src:url("font/BerlingLTStd-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Berling";
+	font-weight: bold;
+	font-style: normal;
+	src:url("font/BerlingLTStd-Medium.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: italic;
+	src:url("font/GillSansStd-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/GillSansStd.ttf") format("truetype");
+}
+
+
+@font-face {
+	font-family: "Goudy Cat";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/GoudyCatTReg.ttf") format("truetype");
+}
+
+/*cover*/
+
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+
+.cover-container img {
+	width: 100%;
+}
+
+/*copyright-page*/
+
+
+.press {
+	margin-bottom: 1em;
+}
+
+.copyright-page .copy{
+	margin-top: 1em;
+}
+.copyright-page .publisher{
+	margin-top: 2em;
+}
+
+.copyright-page span{
+	font-family: "Gill Sans";
+	font-size:0.75em;
+	display: block;
+}
+
+.copyright-page .pull {
+	padding-left: .51em;
+}
+
+.copyright-page a{
+	color:#777;
+	text-decoration: none;
+	
+}
+
+/*titlepage*/
+
+.title{
+	text-align: center;
+}
+
+.aut{
+	margin-top: 1.5em;
+	font:normal normal 2.19em/1.2em  "Goudy Cat";
+	text-align: center;
+}
+
+.aut .bfl {
+	font-size: 1.11em;
+}
+
+.work {
+	font:normal normal 2.5em/1.1em  "Goudy Cat";
+	margin-top: .5em;
+}
+
+.work span {
+	display: block;
+	font-size: .46em;
+	margin-top: .1em;
+}
+
+
+.trans{
+	font-family: "Gill Sans";
+	font-size: .83em;
+	margin-top: 5em;
+}
+
+.trans span {
+	display: block;
+	font-size: 1.2em;
+	margin-top: .5em;
+}
+
+.logo{
+	margin: 3em auto 0 auto;
+
+}
+
+/*works*/
+
+.works p{
+	margin-top: 4em;
+	font-family: "Gill Sans";
+	font-size: .83em;
+	text-indent: 0;
+}
+
+.works ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.works ul li {
+	font-family: "Gill Sans";
+	font-size: .83em;
+	padding-bottom: .3em;
+}
+
+/*biography*/
+
+.biography p{
+	font-family: "Gill Sans";
+	font-size: .75em;
+	line-height: 1.4em;
+	text-indent: 0;
+}
+
+.biography p:last-child {
+	margin-top: 2em;
+}
+
+/*CHAPTER*/
+
+.chapter  .container {
+	margin-top: 5em;
+}
+
+.chapter h1 {
+	font: normal normal 1.16em/1.3em "Berling";
+	text-align: center;
+	margin: 0 0 1.2em;
+}
+
+p {
+	font: normal normal .81em/1.3em "Berling";
+	margin: 0;
+	text-indent: 2em;
+}
+
+
+
+.chapter cite {
+	display: block;
+	text-align: right;
+	margin-top: 1em;
+	font: normal normal .81em/1.3em "Berling";
+}
+
+.chapter .art-container {
+	margin-top: 5em;
+}
+
+.chapter .art-container p {
+	font: normal normal .875em/1.3em "Berling";
+	margin-top: 1em;
+}
+
+.chapter .art-container .no-margin {
+	margin-top: 0 !important;
+}
+
+.entry-header {
+	font: normal normal 1.125em/1.3em "Berling";
+	text-align: center;
+}
+
+.entry-header span {
+	display: block;
+	margin-top: .5em;
+}
+
+.entry {
+	margin-top: 2em;
+	margin-bottom: 1em;
+	margin-left: 1.8em;
+}
+
+.entry p{
+	text-indent: 0;
+}
+
+hr {
+	border: none;
+	text-align: center;
+	margin: 3em auto 1em;
+}
+
+hr:after {
+	content: "* * *";
+	font: normal bold .875em/1.3em "Berling";
+}
+
+.chapter .art-container cite {
+	font-size: .875em;
+}
+
+/*IMAGES*/
+
+.full-width {
+	width: 99.5%;
+	max-width: 720px;
+	margin: 2em auto;
+	page-break-before: always;
+	page-break-after: always;
+	page-break-inside: avoid;
+}
+
+.chapter img, 
+.gap-image img,
+.introduction img
+{
+	width: 100%;
+}
+
+.fig-text {
+	font:normal normal .75em/1.3em "Gill Sans";
+	padding-top: .2em;
+}
+
+.vertical {
+	max-width: 350px;
+	margin: 2em auto;
+	page-break-before: always;
+	page-break-after: always;
+	page-break-inside: avoid;
+}
+
+.vertical2 {
+	max-width: 500px;
+	margin: 2em auto;
+	page-break-before: always;
+	page-break-after: always;
+	
+}
+
+.gap-image {
+	max-width: 500px;
+	margin: 0 auto;
+	page-break-inside: avoid;
+}
+
+/*COMMON*/
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+	font-size: 1.1em;
+}
+.si-footnote{
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	font-size: .75em;
+	margin-bottom: .25em;
+}

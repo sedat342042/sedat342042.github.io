@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Taş Devri Diyeti</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Aydın, Ahmet">Ahmet Aydın</dc:creator>
+    <dc:publisher>Hayykitap</dc:publisher>
+    <dc:date>2010-06-24T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:fef97bec-790f-4c76-a71b-3c1bfafe7705</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">2fc90309-84fd-4fc4-a33a-48f46232e7f1</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/1_fmt.png" id="x1_fmt.png" media-type="image/png"/>
+    <item href="images/2_fmt.png" id="x2_fmt.png" media-type="image/png"/>
+    <item href="images/3_fmt.png" id="x3_fmt.png" media-type="image/png"/>
+    <item href="images/4_fmt.png" id="x4_fmt.png" media-type="image/png"/>
+    <item href="images/5_fmt.png" id="x5_fmt.png" media-type="image/png"/>
+    <item href="images/6_fmt.png" id="x6_fmt.png" media-type="image/png"/>
+    <item href="images/7_fmt.png" id="x7_fmt.png" media-type="image/png"/>
+    <item href="images/8_fmt.png" id="x8_fmt.png" media-type="image/png"/>
+    <item href="images/9_fmt.png" id="x9_fmt.png" media-type="image/png"/>
+    <item href="images/10_fmt.png" id="x10_fmt.png" media-type="image/png"/>
+    <item href="images/11_fmt.png" id="x11_fmt.png" media-type="image/png"/>
+    <item href="images/12_fmt.png" id="x12_fmt.png" media-type="image/png"/>
+    <item href="images/13_fmt.png" id="x13_fmt.png" media-type="image/png"/>
+    <item href="images/14_fmt.png" id="x14_fmt.png" media-type="image/png"/>
+    <item href="images/15_fmt.png" id="x15_fmt.png" media-type="image/png"/>
+    <item href="images/16_fmt.png" id="x16_fmt.png" media-type="image/png"/>
+    <item href="images/17_fmt.png" id="x17_fmt.png" media-type="image/png"/>
+    <item href="images/18_fmt.png" id="x18_fmt.png" media-type="image/png"/>
+    <item href="images/19_fmt.png" id="x19_fmt.png" media-type="image/png"/>
+    <item href="images/20_fmt.png" id="x20_fmt.png" media-type="image/png"/>
+    <item href="images/21_fmt.png" id="x21_fmt.png" media-type="image/png"/>
+    <item href="images/22_fmt.png" id="x22_fmt.png" media-type="image/png"/>
+    <item href="images/23_fmt.png" id="x23_fmt.png" media-type="image/png"/>
+    <item href="images/24_fmt.png" id="x24_fmt.png" media-type="image/png"/>
+    <item href="images/25_fmt.png" id="x25_fmt.png" media-type="image/png"/>
+    <item href="images/26_fmt.png" id="x26_fmt.png" media-type="image/png"/>
+    <item href="images/27_fmt.png" id="x27_fmt.png" media-type="image/png"/>
+    <item href="images/28_fmt.png" id="x28_fmt.png" media-type="image/png"/>
+    <item href="images/29_fmt.png" id="x29_fmt.png" media-type="image/png"/>
+    <item href="images/30_fmt.png" id="x30_fmt.png" media-type="image/png"/>
+    <item href="images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/pramid_fmt.png" id="pramid_fmt.png" media-type="image/png"/>
+    <item href="images/sekil2_fmt.jpeg" id="sekil2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-BoldIt.otf" id="MinionPro-BoldIt.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/x-font-otf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

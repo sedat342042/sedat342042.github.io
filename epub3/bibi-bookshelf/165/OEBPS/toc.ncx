@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="47e7034de06-e1bd-4240-9f78-23696c44c555"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Can Kırıkları</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Garine</text>
+            </navLabel>
+            <content src="Text/CAN_KIRIKLARI-1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Rüya</text>
+            </navLabel>
+            <content src="Text/YERIN_SESI-1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Oyuncaklar Arasında I Melül</text>
+            </navLabel>
+            <content src="Text/YERIN_SESI-2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Oyuncaklar Arasında II Hepgül</text>
+            </navLabel>
+            <content src="Text/YERIN_SESI-3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Rüzgâra Karşı</text>
+            </navLabel>
+            <content src="Text/ALACAKARANLIK_KADINLARI-1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Sabır Taşı</text>
+            </navLabel>
+            <content src="Text/ALACAKARANLIK_KADINLARI-2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Arada</text>
+            </navLabel>
+            <content src="Text/YABANCI-1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>Masal Dünya</text>
+            </navLabel>
+            <content src="Text/YABANCI-2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Sürgün Tanrıçalar</text>
+            </navLabel>
+            <content src="Text/GOC-1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Sonrasız</text>
+            </navLabel>
+            <content src="Text/GOC-2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Zoraki Mültecinin Sustukları</text>
+            </navLabel>
+            <content src="Text/GOC-3.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

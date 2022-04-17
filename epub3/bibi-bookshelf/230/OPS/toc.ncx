@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta content="urn:isbn:9789750828492" name="dtb:uid"/>
+	</head>
+	<docTitle>
+		<text>İngiliz Edebiyatı Tarihi</text>
+	</docTitle>
+	<docAuthor>
+		<text>Mîna Urgan</text>
+	</docAuthor>
+	<navMap>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Herkes İçin İngiliz Edebiyatının Öyküsü</text>
+         </navLabel>
+         <content src="foreword.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Sunuş</text>
+         </navLabel>
+         <content src="preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>BİRİNCİ KİTAP</text>
+         </navLabel>
+         <content src="part1.xhtml"/>
+         <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+               <text>Birinci Bölüm: Eski İngiliz Edebiyatı</text>
+            </navLabel>
+            <content src="chapter1-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+               <text>İkinci Bölüm: Orta İngilizce Dönemi</text>
+            </navLabel>
+            <content src="chapter1-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+               <text>Üçüncü Bölüm: Langland ve Chaucer</text>
+            </navLabel>
+            <content src="chapter1-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>Dördüncü Bölüm: Chaucer’den Sonraki ve Rönesanstan Önceki Dönem</text>
+            </navLabel>
+            <content src="chapter1-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+               <text>Beşinci Bölüm: Elizabeth Çağı ve XVII. Yüzyılda Düzyazı</text>
+            </navLabel>
+            <content src="chapter1-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+               <text>Altıncı Bölüm: Elizabeth Çağı ve XVII. Yüzyılda Şiir</text>
+            </navLabel>
+            <content src="chapter1-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+               <text>Yedinci Bölüm: Shakespeare’den Önce Elizabeth Çağı Tiyatrosu</text>
+            </navLabel>
+            <content src="chapter1-7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+               <text>Sekizinci Bölüm: Shakespeare</text>
+            </navLabel>
+            <content src="chapter1-8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+               <text>Dokuzuncu Bölüm: Shakespeare’den Sonraki Tiyatro Yazarları</text>
+            </navLabel>
+            <content src="chapter1-9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+               <text>Onuncu Bölüm: John Milton</text>
+            </navLabel>
+            <content src="chapter1-10.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+         <navLabel>
+            <text>İKİNCİ KİTAP</text>
+         </navLabel>
+         <content src="part2.xhtml"/>
+         <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+               <text>Birinci Bölüm: Restorasyon Dönemi Yazarları</text>
+            </navLabel>
+            <content src="chapter2-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+               <text>İkinci Bölüm: Restorasyon Çağı Tiyatrosu</text>
+            </navLabel>
+            <content src="chapter2-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+               <text>Üçüncü Bölüm: XVIII. Yüzyıl İngiliz Tiyatrosu</text>
+            </navLabel>
+            <content src="chapter2-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+               <text>Dördüncü Bölüm: Augustan Çağı ve Alexander Pope</text>
+            </navLabel>
+            <content src="chapter2-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+               <text>Beşinci Bölüm: Joseph Addison ile Richard Steele</text>
+            </navLabel>
+            <content src="chapter2-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+               <text>Altıncı Bölüm: Jonathan Swift</text>
+            </navLabel>
+            <content src="chapter2-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+               <text>Yedinci Bölüm: Dr. Samuel Johnson</text>
+            </navLabel>
+            <content src="chapter2-7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+               <text>Sekizinci Bölüm: Romantik Akımın Başlangıcı</text>
+            </navLabel>
+            <content src="chapter2-8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+               <text>Dokuzuncu Bölüm: Robert Burns</text>
+            </navLabel>
+            <content src="chapter2-9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+               <text>Onuncu Bölüm: William Blake</text>
+            </navLabel>
+            <content src="chapter2-10.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+               <text>On Birinci Bölüm: William Wordsworth</text>
+            </navLabel>
+            <content src="chapter2-11.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+               <text>On İkinci Bölüm: Samuel Taylor Coleridge</text>
+            </navLabel>
+            <content src="chapter2-12.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+               <text>On Üçüncü Bölüm: Percy Bysshe Shelley</text>
+            </navLabel>
+            <content src="chapter2-13.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+               <text>On Dördüncü Bölüm: John Keats</text>
+            </navLabel>
+            <content src="chapter2-14.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+               <text>On Beşinci Bölüm: Lord Byron</text>
+            </navLabel>
+            <content src="chapter2-15.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+               <text>On Altıncı Bölüm: Romantik Çağın İkinci Derece Şairleri ve Düzyazı Yazarları</text>
+            </navLabel>
+            <content src="chapter2-16.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+         <navLabel>
+            <text>ÜÇÜNCÜ KİTAP</text>
+         </navLabel>
+         <content src="part3.xhtml"/>
+         <navPoint id="navPoint-32" playOrder="32">
+            <navLabel>
+               <text>Birinci Bölüm: İngiliz Edebiyatında Romanın Başlangıcı</text>
+            </navLabel>
+            <content src="chapter3-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+               <text>İkinci Bölüm: Daniel Defoe</text>
+            </navLabel>
+            <content src="chapter3-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+               <text>Üçüncü Bölüm: Samuel Richardson</text>
+            </navLabel>
+            <content src="chapter3-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+               <text>Dördüncü Bölüm: Fielding ve Smollett</text>
+            </navLabel>
+            <content src="chapter3-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+               <text>Beşinci Bölüm: Laurence Sterne</text>
+            </navLabel>
+            <content src="chapter3-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-37" playOrder="37">
+            <navLabel>
+               <text>Altıncı Bölüm: Gotik Roman ve XVIII. Yüzyılın İkinci Derece Romancıları</text>
+            </navLabel>
+            <content src="chapter3-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+               <text>Yedinci Bölüm: Jane Austen</text>
+            </navLabel>
+            <content src="chapter3-7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-39" playOrder="39">
+            <navLabel>
+               <text>Sekizinci Bölüm: Victoria Çağı’na Kısa Bir Giriş</text>
+            </navLabel>
+            <content src="chapter3-8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+               <text>Dokuzuncu Bölüm: Disraeli ve Mrs. Gaskell</text>
+            </navLabel>
+            <content src="chapter3-9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+               <text>Onuncu Bölüm: Dickens’ın İlk Romanları</text>
+            </navLabel>
+            <content src="chapter3-10.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-42" playOrder="42">
+            <navLabel>
+               <text>On Birinci Bölüm: Dickens’ın Olgunluk Dönemi Romanları</text>
+            </navLabel>
+            <content src="chapter3-11.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+         <navLabel>
+            <text>DÖRDÜNCÜ KİTAP</text>
+         </navLabel>
+         <content src="part4.xhtml"/>
+         <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+               <text>Birinci Bölüm: Thackeray</text>
+            </navLabel>
+            <content src="chapter4-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-45" playOrder="45">
+            <navLabel>
+               <text>İkinci Bölüm: Brontë Kardeşlerin Yaşamı ve Wuthering Heigts</text>
+            </navLabel>
+            <content src="chapter4-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-46" playOrder="46">
+            <navLabel>
+               <text>Üçüncü Bölüm: Charlotte Brontë</text>
+            </navLabel>
+            <content src="chapter4-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+               <text>Dördüncü Bölüm: George Eliot</text>
+            </navLabel>
+            <content src="chapter4-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-48" playOrder="48">
+            <navLabel>
+               <text>Beşinci Bölüm: Victoria Çağının İkinci Sınıf Romancıları</text>
+            </navLabel>
+            <content src="chapter4-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-49" playOrder="49">
+            <navLabel>
+               <text>Altıncı Bölüm: Victoria Çağına Başkaldırış George Meredith ve Samuel Butler</text>
+            </navLabel>
+            <content src="chapter4-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+               <text>Yedinci Bölüm: Thomas Hardy</text>
+            </navLabel>
+            <content src="chapter4-7.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+         <navLabel>
+            <text>BEŞİNCİ KİTAP</text>
+         </navLabel>
+         <content src="part5.xhtml"/>
+         <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+               <text>Birinci Bölüm: Thomas Carlyle</text>
+            </navLabel>
+            <content src="chapter5-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-53" playOrder="53">
+            <navLabel>
+               <text>İkinci Bölüm: John Ruskin</text>
+            </navLabel>
+            <content src="chapter5-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+               <text>Üçüncü Bölüm: Matthew Arnold</text>
+            </navLabel>
+            <content src="chapter5-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-55" playOrder="55">
+            <navLabel>
+               <text>Dördüncü Bölüm: Alfred Tennyson</text>
+            </navLabel>
+            <content src="chapter5-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-56" playOrder="56">
+            <navLabel>
+               <text>Beşinci Bölüm: Robert Browning</text>
+            </navLabel>
+            <content src="chapter5-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-57" playOrder="57">
+            <navLabel>
+               <text>Altıncı Bölüm: İki Kadın Şair, Elizabeth Barrett Browning ve Christina Rossetti</text>
+            </navLabel>
+            <content src="chapter5-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-58" playOrder="58">
+            <navLabel>
+               <text>Yedinci Bölüm: Dante Gabriel Rosetti</text>
+            </navLabel>
+            <content src="chapter5-7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-59" playOrder="59">
+            <navLabel>
+               <text>Sekizinci Bölüm: William Morris</text>
+            </navLabel>
+            <content src="chapter5-8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-60" playOrder="60">
+            <navLabel>
+               <text>Dokuzuncu Bölüm: Charles Algernon Swinburne</text>
+            </navLabel>
+            <content src="chapter5-9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-61" playOrder="61">
+            <navLabel>
+               <text>Onuncu Bölüm: Gerard Manley Hopkins</text>
+            </navLabel>
+            <content src="chapter5-10.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-62" playOrder="62">
+            <navLabel>
+               <text>On Birinci Bölüm: Estetik Akım ve Oscar Wilde</text>
+            </navLabel>
+            <content src="chapter5-11.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+         <navLabel>
+            <text>DİZİNLER</text>
+         </navLabel>
+         <content src="part6.xhtml"/>
+         <navPoint id="navPoint-64" playOrder="64">
+            <navLabel>
+               <text>İsimler Dizini</text>
+            </navLabel>
+            <content src="index1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-65" playOrder="65">
+            <navLabel>
+               <text>Eserler Dizini</text>
+            </navLabel>
+            <content src="index2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-66" playOrder="66">
+            <navLabel>
+               <text>Genel Dizin</text>
+            </navLabel>
+            <content src="index3.xhtml"/>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

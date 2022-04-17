@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="1.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Seçme Ninniler</dc:title>
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Çağlaroğlu, Nurefşan &amp; Baştuğ, Vechinur">Nurefşan Çağlaroğlu</dc:creator>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">Vechinur Baştuğ</dc:creator>
+    <dc:description>Bu kitap; çocuklar, öğretmenler, anneler ve gençler için çocukluğun masum dünyasına yeni bir pencere olacaktır. O güzelim ninnilerin içinde hayatın incelikleri gizlidir aslında. Annelerin hayır duaları, beklentileri, dilekleri, ninnilere yansır. Her birisi bir dua olur, göğe uzanır. Bazı ninniler, türkülere dayanır, bazıları manevi duyguları önceler. Bazıları neşe saçar, bazıları ders verir. Ninniler, tekrar çocukluğun o cennet misal dünyasına çağırır bizleri. Oraya davet ederler. Ayrıca kültürümüze ait değerlerin aktarımında bir ilk ders olma özelliğine de sahiptirler. Bu eser, konuyla ilgilenen herkese faydalar sağlayacaktır. Kültürümüzün sonraki nesillere taşınması adına bir katkı olması dileğimizle...</dc:description>
+    <dc:publisher>Nesil Yayınları</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights>© Fikir ve Sanat Eserleri Yasası gereğince bu eserin yayın hakkı anlaşmalı olarak Nesil Basım Yayın Gıda Tic. ve San. A.Ş.’ye aittir. İzinsiz, kısmen ya da tamamen çoğaltılıp yayınlanamaz.</dc:rights>
+    <dc:identifier id="bookid">urn:uuid:90511E80-8912-4ABE-8DB3-0D1730E0A226</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-05-03</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">45b8f9f9-05f5-41b0-9492-a531c9dab402</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9786051314808</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="Text/SecmeNinnilerEkitap.xhtml" id="SecmeNinnilerEkitap" media-type="application/xhtml+xml"/>
+    <item href="Text/SecmeNinnilerEkitap-1.xhtml" id="SecmeNinnilerEkitap-1" media-type="application/xhtml+xml"/>
+    <item href="Text/SecmeNinnilerEkitap-2.xhtml" id="SecmeNinnilerEkitap-2" media-type="application/xhtml+xml"/>
+    <item href="Text/SecmeNinnilerEkitap-3.xhtml" id="SecmeNinnilerEkitap-3" media-type="application/xhtml+xml"/>
+    <item href="Text/SecmeNinnilerEkitap-4.xhtml" id="SecmeNinnilerEkitap-4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/idefixnesil.css" id="idefixnesil.css" media-type="text/css"/>
+    <item href="Images/Nesil_fmt.jpeg" id="Nesil_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Nesil_fmt1.jpeg" id="Nesil_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/nesildigital_opt_fmt.jpeg" id="nesildigital_opt_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/SecmeNinnilerKapak.jpg" id="SecmeNinnilerKapak.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uMN28BmvQlofNcQbtYLNrp7" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="SecmeNinnilerEkitap"/>
+    <itemref idref="SecmeNinnilerEkitap-1"/>
+    <itemref idref="SecmeNinnilerEkitap-2"/>
+    <itemref idref="SecmeNinnilerEkitap-3"/>
+    <itemref idref="SecmeNinnilerEkitap-4"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

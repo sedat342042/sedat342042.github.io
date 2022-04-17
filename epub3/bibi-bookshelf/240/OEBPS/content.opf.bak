@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+	<metadata>
+		<meta name="generator" content="Adobe InDesign"/>
+		<dc:title>GÖLGELER KORİDORU</dc:title>
+		<dc:creator>MUHYİDDİN ŞEKUR</dc:creator>
+		<dc:subject></dc:subject>
+		<dc:description></dc:description>
+		<dc:publisher>Sufi Kitap</dc:publisher>
+		<dc:date>2012-04-17</dc:date>
+		<dc:source></dc:source>
+		<dc:relation></dc:relation>
+		<dc:coverage></dc:coverage>
+		<dc:rights></dc:rights>
+		<dc:language>tr-TR</dc:language>
+		<dc:identifier id="bookid">978-975-9161-78-1</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="template.css" media-type="text/css"/>
+		<item id="golgelerkoridoru-kapak" href="golgelerkoridoru-kapak.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin" href="golgelerkoridoru-metin.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-1" href="golgelerkoridoru-metin-1.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-2" href="golgelerkoridoru-metin-2.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-3" href="golgelerkoridoru-metin-3.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-4" href="golgelerkoridoru-metin-4.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-5" href="golgelerkoridoru-metin-5.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-6" href="golgelerkoridoru-metin-6.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-7" href="golgelerkoridoru-metin-7.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-8" href="golgelerkoridoru-metin-8.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-9" href="golgelerkoridoru-metin-9.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-10" href="golgelerkoridoru-metin-10.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-11" href="golgelerkoridoru-metin-11.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-12" href="golgelerkoridoru-metin-12.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-13" href="golgelerkoridoru-metin-13.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-14" href="golgelerkoridoru-metin-14.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-15" href="golgelerkoridoru-metin-15.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-16" href="golgelerkoridoru-metin-16.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-metin-17" href="golgelerkoridoru-metin-17.html" media-type="application/xhtml+xml"/>
+		<item id="golgelerkoridoru-ic_fmt.jpeg" href="images/golgelerkoridoru-ic_fmt.jpeg" media-type="image/jpeg"/>
+		<item id="nokta_fmt.png" href="images/nokta_fmt.png" media-type="image/png"/>
+		<item id="nokta_fmt1.png" href="images/nokta_fmt1.png" media-type="image/png"/>
+		<item id="nokta_fmt10.png" href="images/nokta_fmt10.png" media-type="image/png"/>
+		<item id="nokta_fmt11.png" href="images/nokta_fmt11.png" media-type="image/png"/>
+		<item id="nokta_fmt12.png" href="images/nokta_fmt12.png" media-type="image/png"/>
+		<item id="nokta_fmt13.png" href="images/nokta_fmt13.png" media-type="image/png"/>
+		<item id="nokta_fmt14.png" href="images/nokta_fmt14.png" media-type="image/png"/>
+		<item id="nokta_fmt15.png" href="images/nokta_fmt15.png" media-type="image/png"/>
+		<item id="nokta_fmt2.png" href="images/nokta_fmt2.png" media-type="image/png"/>
+		<item id="nokta_fmt3.png" href="images/nokta_fmt3.png" media-type="image/png"/>
+		<item id="nokta_fmt4.png" href="images/nokta_fmt4.png" media-type="image/png"/>
+		<item id="nokta_fmt5.png" href="images/nokta_fmt5.png" media-type="image/png"/>
+		<item id="nokta_fmt6.png" href="images/nokta_fmt6.png" media-type="image/png"/>
+		<item id="nokta_fmt7.png" href="images/nokta_fmt7.png" media-type="image/png"/>
+		<item id="nokta_fmt8.png" href="images/nokta_fmt8.png" media-type="image/png"/>
+		<item id="nokta_fmt9.png" href="images/nokta_fmt9.png" media-type="image/png"/>
+		<item id="timaslogo_fmt.jpeg" href="images/timaslogo_fmt.jpeg" media-type="image/jpeg"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="golgelerkoridoru-kapak"/>
+		<itemref idref="golgelerkoridoru-metin"/>
+		<itemref idref="golgelerkoridoru-metin-1"/>
+		<itemref idref="golgelerkoridoru-metin-2"/>
+		<itemref idref="golgelerkoridoru-metin-3"/>
+		<itemref idref="golgelerkoridoru-metin-4"/>
+		<itemref idref="golgelerkoridoru-metin-5"/>
+		<itemref idref="golgelerkoridoru-metin-6"/>
+		<itemref idref="golgelerkoridoru-metin-7"/>
+		<itemref idref="golgelerkoridoru-metin-8"/>
+		<itemref idref="golgelerkoridoru-metin-9"/>
+		<itemref idref="golgelerkoridoru-metin-10"/>
+		<itemref idref="golgelerkoridoru-metin-11"/>
+		<itemref idref="golgelerkoridoru-metin-12"/>
+		<itemref idref="golgelerkoridoru-metin-13"/>
+		<itemref idref="golgelerkoridoru-metin-14"/>
+		<itemref idref="golgelerkoridoru-metin-15"/>
+		<itemref idref="golgelerkoridoru-metin-16"/>
+		<itemref idref="golgelerkoridoru-metin-17"/>
+	</spine>
+</package>

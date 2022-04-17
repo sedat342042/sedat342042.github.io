@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Osmanlı'da İmamlar ve Bir İmamın Günlüğü</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Beydilli, Kemal">Kemal Beydilli</dc:creator>
+    <dc:description>&lt;p&gt;Osmanlı'da İmamlar üzerine yapılan bu ilmî çalışma, imam kavramını arşivlerimizdeki pek çok belgenin desteğiyle ele alıyor. İmparatorluk dönemindeki tablo ortaya konulduktan sonra geçmişin muhasebesi yapılıyor. Cumhuriyet devrindeki köklü değişimin sebepleri gözler önüne seriliyor. Çalışmanın ikinci kısmında ise Soğanağa Mahallesi imamının tuttuğu günlüklere yer verilerek Osmanlı mahalle hayatına ait ilginç hatıraları aktarılıyor.&lt;/p&gt;</dc:description>
+    <dc:publisher>Yitik Hazine Yayınları</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-22</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">68629746-e6f6-4baa-b41d-34d54264bfc7</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786055129323</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-1.html" id="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-1" media-type="application/xhtml+xml"/>
+    <item href="Text/Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-2.html" id="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-2" media-type="application/xhtml+xml"/>
+    <item href="Text/Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-3.html" id="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-3" media-type="application/xhtml+xml"/>
+    <item href="Text/Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-4.html" id="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-4" media-type="application/xhtml+xml"/>
+    <item href="Text/Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-5.html" id="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-5" media-type="application/xhtml+xml"/>
+    <item href="Text/Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-6.html" id="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-6" media-type="application/xhtml+xml"/>
+    <item href="Text/Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-7.html" id="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-7" media-type="application/xhtml+xml"/>
+    <item href="Text/Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-8.html" id="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-8" media-type="application/xhtml+xml"/>
+    <item href="Text/Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-9.html" id="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/5_fmt.jpeg" id="x5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/6_fmt.jpeg" id="x6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/7_fmt.jpeg" id="x7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/8_fmt.jpeg" id="x8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/9_fmt.jpeg" id="x9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/yitikhazine_fmt.jpeg" id="yitikhazine_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uhewwhomGwwkeUtsJZroqiE" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-1"/>
+    <itemref idref="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-2"/>
+    <itemref idref="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-3"/>
+    <itemref idref="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-4"/>
+    <itemref idref="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-5"/>
+    <itemref idref="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-6"/>
+    <itemref idref="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-7"/>
+    <itemref idref="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-8"/>
+    <itemref idref="Osmanlida_imamlar_ve_bir_imamin_gunlugu_Epub-9"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

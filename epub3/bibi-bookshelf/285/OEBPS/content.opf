@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Bir Ankara Ailesinin Öyküsü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Karaveli, Orhan">Orhan Karaveli</dc:creator>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:2f1a9594-3d70-4d5f-baa3-5a079f4aa305</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a2de796d-1d05-49d7-8ea2-e3738cfbebec</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:2f1a9594-3d70-4d5f-baa3-5a079f4aa305</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF.xhtml" id="ITHAF.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/SUNUS.xhtml" id="SUNUS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BIRINCI_BOLUM.xhtml" id="BIRINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/IKINCI_BOLUM.xhtml" id="IKINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/UCUNCU_BOLUM.xhtml" id="UCUNCU_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DORDUNCU_BOLUM.xhtml" id="DORDUNCU_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BESINCI_BOLUM.xhtml" id="BESINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ALTINCI_BOLUM.xhtml" id="ALTINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YEDINCI_BOLUM.xhtml" id="YEDINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/SEKIZINCI_BOLUM.xhtml" id="SEKIZINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DUNDEN_BUGUNE.xhtml" id="DUNDEN_BUGUNE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R2_fmt.jpeg" id="R2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R3_fmt.jpeg" id="R3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R4_fmt.jpeg" id="R4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R5_fmt.jpeg" id="R5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R6_fmt.jpeg" id="R6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R7_fmt.jpeg" id="R7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R8_fmt.jpeg" id="R8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R9_fmt.jpeg" id="R9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R10_fmt.jpeg" id="R10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R11_fmt.jpeg" id="R11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R12_fmt.jpeg" id="R12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R13_fmt.jpeg" id="R13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R14_fmt.jpeg" id="R14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R15_fmt.jpeg" id="R15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R16_fmt.jpeg" id="R16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R17_fmt.jpeg" id="R17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R18_fmt.jpeg" id="R18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R19_fmt.jpeg" id="R19_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R20_fmt.jpeg" id="R20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R21_fmt.jpeg" id="R21_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R22_fmt.jpeg" id="R22_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R23_fmt.jpeg" id="R23_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R24_fmt.jpeg" id="R24_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R25_fmt.jpeg" id="R25_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R26_fmt.jpeg" id="R26_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R27_fmt.jpeg" id="R27_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R28_fmt.jpeg" id="R28_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R29_fmt.jpeg" id="R29_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R30_fmt.jpeg" id="R30_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R31_fmt.jpeg" id="R31_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R32_fmt.jpeg" id="R32_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R33_fmt.jpeg" id="R33_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R34_fmt.jpeg" id="R34_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R35_fmt.jpeg" id="R35_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R36_fmt.jpeg" id="R36_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R37_fmt.jpeg" id="R37_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R38_fmt.jpeg" id="R38_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R39_fmt.jpeg" id="R39_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R40_fmt.jpeg" id="R40_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R41_fmt.jpeg" id="R41_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R42_A_fmt.jpeg" id="R42_A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R42_B_fmt.jpeg" id="R42_B_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R43_fmt.jpeg" id="R43_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R44_fmt.jpeg" id="R44_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R45_fmt.jpeg" id="R45_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R46_fmt.jpeg" id="R46_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R47_fmt.jpeg" id="R47_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R48_fmt.jpeg" id="R48_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R49_fmt.jpeg" id="R49_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R50_fmt.jpeg" id="R50_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R51_fmt.jpeg" id="R51_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R52_fmt.jpeg" id="R52_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R53_fmt.jpeg" id="R53_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R54_fmt.jpeg" id="R54_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R55_fmt.jpeg" id="R55_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R56_fmt.jpeg" id="R56_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R57_fmt.jpeg" id="R57_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R58_fmt.jpeg" id="R58_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R59_fmt.jpeg" id="R59_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R60_fmt.jpeg" id="R60_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R61_fmt.jpeg" id="R61_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R62_fmt.jpeg" id="R62_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R63_fmt.jpeg" id="R63_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R64_fmt.jpeg" id="R64_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R65_fmt.jpeg" id="R65_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R66_fmt.jpeg" id="R66_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R67_fmt.jpeg" id="R67_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R68_fmt.jpeg" id="R68_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R69_fmt.jpeg" id="R69_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R70_fmt.jpeg" id="R70_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R71_fmt.jpeg" id="R71_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R72_fmt.jpeg" id="R72_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R73_fmt.jpeg" id="R73_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R74_fmt.jpeg" id="R74_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R75_fmt.jpeg" id="R75_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R76_fmt.jpeg" id="R76_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/R77_fmt.jpeg" id="R77_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="ud2DYOq2pcP7Z3yUijuKjoE" media-type="image/jpeg"/>
+    <item href="Fonts/HelveticaNeueLTStd-Cn.ttf" id="HelveticaNeueLTStd-Cn.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/HelveticaNeueLTStd-Cn0001.ttf" id="HelveticaNeueLTStd-Cn0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-Regular0001.otf" id="MinionPro-Regular0001.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/Serif6BetaItalic.ttf" id="Serif6BetaItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif6BetaItalic0001.ttf" id="Serif6BetaItalic0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaBold.ttf" id="Serif12BetaBold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaBold0001.ttf" id="Serif12BetaBold0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaRoman.ttf" id="Serif12BetaRoman.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Serif12BetaRoman0001.ttf" id="Serif12BetaRoman0001.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSans.ttc" id="GillSans.ttc" media-type="application/x-font-truetype-collection"/>
+    <item href="Fonts/GillSans0001.ttc" id="GillSans0001.ttc" media-type="application/x-font-truetype-collection"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="ITHAF.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="SUNUS.xhtml"/>
+    <itemref idref="BIRINCI_BOLUM.xhtml"/>
+    <itemref idref="IKINCI_BOLUM.xhtml"/>
+    <itemref idref="UCUNCU_BOLUM.xhtml"/>
+    <itemref idref="DORDUNCU_BOLUM.xhtml"/>
+    <itemref idref="BESINCI_BOLUM.xhtml"/>
+    <itemref idref="ALTINCI_BOLUM.xhtml"/>
+    <itemref idref="YEDINCI_BOLUM.xhtml"/>
+    <itemref idref="SEKIZINCI_BOLUM.xhtml"/>
+    <itemref idref="DUNDEN_BUGUNE.xhtml"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

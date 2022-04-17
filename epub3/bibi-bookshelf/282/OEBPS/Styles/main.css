@@ -1,0 +1,7 @@
+ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+ hr {width: 44%;margin-left:0%;margin-bottom:1em;margin-top:1em}

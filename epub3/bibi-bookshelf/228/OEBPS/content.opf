@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Genç Bir Doktorun Anıları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bulgakov, Mihail A.">Mihail A. Bulgakov</dc:creator>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>Devrim zamanı Rusya… Karakışı aratmayacak kadar soğuk, kasvetli bir eylül günü, tıp fakültesinden yeni mezun olmuş bir doktor, şehirde çoktan unutulmuş geleneklerin ve boş inançların hüküm sürdüğü uzak bir kasabaya gelir. Devrim, büyük şehirlerin merkezlerinde hayatı ve zihniyetleri altüst ederken, bu genç doktor ülkenin ücra bir bölgesinde kadercilikle ve batıl inançlarla zorlu bir mücadeleye girişir. Zor bir doğum, hassas bir cerrahi müdahale, uzaktaki bir hastaya ulaşabilmek için şiddetli bir kar fırtınasına rağmen göze alınan bir yolculuk, ağrılarını dindirmeye çalışırken morfinman olan bir meslektaş… Genç doktorun gündelik hayatında karşılaştığı bütün zorlu sınavlar, Bulgakov'un elinde olağanüstü güçlü bir anlatımla, dram sınırlarında gezinen bir dokunaklılıkta öykülere dönüşür</dc:description>
+    <dc:date>2014-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{CF3994F6-DB39-4CB3-8D5D-3BECBB037E88}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">779e44b5-03ea-440e-9ae1-91ada20ec1a1</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-001.xhtml" href="Text/P-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-002.xhtml" href="Text/P-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-003.xhtml" href="Text/P-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-004.xhtml" href="Text/P-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-005.xhtml" href="Text/P-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-006.xhtml" href="Text/P-006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-007.xhtml" href="Text/P-007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-008.xhtml" href="Text/P-008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-009.xhtml" href="Text/P-009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="P-001.xhtml"/>
+    <itemref idref="P-002.xhtml"/>
+    <itemref idref="P-003.xhtml"/>
+    <itemref idref="P-004.xhtml"/>
+    <itemref idref="P-005.xhtml"/>
+    <itemref idref="P-006.xhtml"/>
+    <itemref idref="P-007.xhtml"/>
+    <itemref idref="P-008.xhtml"/>
+    <itemref idref="P-009.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

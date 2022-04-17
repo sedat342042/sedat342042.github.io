@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Karpatlar Şatosu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:a31298a4-c7b6-42bf-94e2-d57f3784dc63</dc:identifier>
+    <dc:type>Fantastik</dc:type>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:date>2011-08-28T21:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Transilvanya'daki Werst Köyü'nde, terk edilmiş bir şatoda endişe verici olaylar yaşandığına dair söylentiler dolaşmaktadır. Kont Franz de Telek opera sanatçısı nişanlısı La Stilla'nın ölümünü unutabilmek için yolculuk etmektedir. Kont, Werst'e gelir. Şato'nun, La Stilla ölürken kendisini lanetleyen Rodolphe de Gortz'a ait olduğunu öğrenir. Telek uzun uğraşlar sonunda bu korkunç şatonun esrarını keşfeder. Ancak bu keşfin bedeli ağır olacaktır.
+
+Jules Verne'in en sevilen romanlarından Karpatlar Şatosu, vampirlerin diyarı Karpatlar'da geçen bir serüveni anlatıyor. Batıl inançlar ile teknolojinin, iyi ile kötünün, yaşam ile ölümün karşı karşıya geldiği bu serüvende hazin bir aşk öyküsü de var. Kimilerine göre daha ondokuzuncu yüzyılda televizyonu haber veren, kimilerine göre Orpheus mitosunun bir yorumu olan Karpatlar Şatosu, Jules Verne'in şaşırtıcı düşgücüyle, fantastik öykücü kimliğini birleştirdiği bir roman.
+(Arka Kapak)
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">ae37a6bf-1bfb-457c-9fc1-911b07669162</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:a31298a4-c7b6-42bf-94e2-d57f3784dc63</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum01.xhtml" href="Text/bolum01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum02.xhtml" href="Text/bolum02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum03.xhtml" href="Text/bolum03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum04.xhtml" href="Text/bolum04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum05.xhtml" href="Text/bolum05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum06.xhtml" href="Text/bolum06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum07.xhtml" href="Text/bolum07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum08.xhtml" href="Text/bolum08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum09.xhtml" href="Text/bolum09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum10.xhtml" href="Text/bolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum11.xhtml" href="Text/bolum11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum12.xhtml" href="Text/bolum12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum13.xhtml" href="Text/bolum13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum14.xhtml" href="Text/bolum14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum15.xhtml" href="Text/bolum15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum16.xhtml" href="Text/bolum16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum17.xhtml" href="Text/bolum17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum18.xhtml" href="Text/bolum18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="mute.css" href="Styles/mute.css" media-type="text/css"/>
+    <item id="ithaki.jpg" href="Images/ithaki.jpg" media-type="image/jpeg"/>
+    <item id="literata-bold-italic.otf" href="Fonts/literata-bold-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-bold.otf" href="Fonts/literata-bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-italic.otf" href="Fonts/literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-regular.otf" href="Fonts/literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="bolum01.xhtml"/>
+    <itemref idref="bolum02.xhtml"/>
+    <itemref idref="bolum03.xhtml"/>
+    <itemref idref="bolum04.xhtml"/>
+    <itemref idref="bolum05.xhtml"/>
+    <itemref idref="bolum06.xhtml"/>
+    <itemref idref="bolum07.xhtml"/>
+    <itemref idref="bolum08.xhtml"/>
+    <itemref idref="bolum09.xhtml"/>
+    <itemref idref="bolum10.xhtml"/>
+    <itemref idref="bolum11.xhtml"/>
+    <itemref idref="bolum12.xhtml"/>
+    <itemref idref="bolum13.xhtml"/>
+    <itemref idref="bolum14.xhtml"/>
+    <itemref idref="bolum15.xhtml"/>
+    <itemref idref="bolum16.xhtml"/>
+    <itemref idref="bolum17.xhtml"/>
+    <itemref idref="bolum18.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

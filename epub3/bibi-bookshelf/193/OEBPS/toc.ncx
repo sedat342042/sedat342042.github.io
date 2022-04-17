@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{D1A004A8-45A4-45E1-AA39-BE1B2D1DA381}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="calibre (2.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Savaş ve Barış</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="3">
+      <navLabel>
+        <text>Lev Nikolayeviç Tolstoy</text>
+      </navLabel>
+      <content src="Text/tolstoy.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="4">
+      <navLabel>
+        <text>Üçüncü Kısım</text>
+      </navLabel>
+      <content src="Text/kisim3.xhtml"/>
+      <navPoint playOrder="5">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/3_1.xhtml"/>
+      </navPoint>
+      <navPoint playOrder="6">
+        <navLabel>
+          <text>İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/3_2.xhtml"/>
+      </navPoint>
+      <navPoint playOrder="7">
+        <navLabel>
+          <text>Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/3_3.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="8">
+      <navLabel>
+        <text>Dördüncü Kısım</text>
+      </navLabel>
+      <content src="Text/kisim4.xhtml"/>
+      <navPoint playOrder="9">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/4_1.xhtml"/>
+      </navPoint>
+      <navPoint playOrder="10">
+        <navLabel>
+          <text>İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/4_2.xhtml"/>
+      </navPoint>
+      <navPoint playOrder="11">
+        <navLabel>
+          <text>Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/4_3.xhtml"/>
+      </navPoint>
+      <navPoint playOrder="12">
+        <navLabel>
+          <text>Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/4_4.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="13">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="Text/sonsoz.xhtml"/>
+      <navPoint playOrder="14">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/s_1.xhtml"/>
+      </navPoint>
+      <navPoint playOrder="15">
+        <navLabel>
+          <text>İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/s_2.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="16">
+      <navLabel>
+        <text>Sonsöz - Georg Lucas</text>
+      </navLabel>
+      <content src="Text/georg_son.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="17">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/dipnot.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

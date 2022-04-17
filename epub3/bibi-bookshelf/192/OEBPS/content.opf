@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Savaş ve Barış (Cilt 1)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tolstoy, Lev Nikolayeviç">Lev Nikolayeviç Tolstoy</dc:creator>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{BF9A03D8-B884-4191-BD11-3A714BF941D0}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4a796efe-16e1-4f69-ae69-d00d2e2ec8f6</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="r1.xhtml" href="Text/r1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="r2.xhtml" href="Text/r2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kronoloji.xhtml" href="Text/kronoloji.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="h1.xhtml" href="Text/h1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1.xhtml" href="Text/1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1.1.xhtml" href="Text/1.1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1.2.xhtml" href="Text/1.2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1.3.xhtml" href="Text/1.3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2.xhtml" href="Text/2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2.1.xhtml" href="Text/2.1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2.2.xhtml" href="Text/2.2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2.3.xhtml" href="Text/2.3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2.4.xhtml" href="Text/2.4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2.5.xhtml" href="Text/2.5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id18" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="x1.jpg" href="Images/1.jpg" media-type="image/jpeg"/>
+    <item id="x2.jpg" href="Images/2.jpg" media-type="image/jpeg"/>
+    <item id="harita.jpg" href="Images/harita.jpg" media-type="image/jpeg"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="FrutigerLightItalicTr.ttf" href="Fonts/FrutigerLightItalicTr.ttf" media-type="application/x-font-truetype"/>
+    <item id="FrutigerLightNrTr.ttf" href="Fonts/FrutigerLightNrTr.ttf" media-type="application/x-font-truetype"/>
+    <item id="FrutigerNormalTr.ttf" href="Fonts/FrutigerNormalTr.ttf" media-type="application/x-font-truetype"/>
+    <item id="TradeGothicTR.otf" href="Fonts/TradeGothicTR.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id18">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="r1.xhtml"/>
+    <itemref idref="r2.xhtml"/>
+    <itemref idref="kronoloji.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="h1.xhtml"/>
+    <itemref idref="x1.xhtml"/>
+    <itemref idref="x1.1.xhtml"/>
+    <itemref idref="x1.2.xhtml"/>
+    <itemref idref="x1.3.xhtml"/>
+    <itemref idref="x2.xhtml"/>
+    <itemref idref="x2.1.xhtml"/>
+    <itemref idref="x2.2.xhtml"/>
+    <itemref idref="x2.3.xhtml"/>
+    <itemref idref="x2.4.xhtml"/>
+    <itemref idref="x2.5.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

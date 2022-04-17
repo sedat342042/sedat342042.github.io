@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="795ea73f-62f5-48bf-9365-538befcf61a3" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Allah'ın Garibi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="614eb19b-1297-4858-8a79-9d43e7b330d4" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="AllahinGaribi_split_002.html"/>
+    </navPoint>
+    <navPoint id="1c16c53d-06a2-458a-80dc-867fe7647002" playOrder="2">
+      <navLabel>
+        <text>Allah’ın Garibi</text>
+      </navLabel>
+      <content src="AllahinGaribi_split_003.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

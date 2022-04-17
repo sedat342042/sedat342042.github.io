@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="d51d44e3-790c-432e-b632-838b12539af2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Gülşen-i Raz</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="69ea3929-6f3b-415e-b797-7d559bd808c9" playOrder="1">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="gulsen_split_006.html"/>
+    </navPoint>
+    <navPoint id="b8eb3f14-38d6-4a4d-832b-a4948b2062f2" playOrder="2">
+      <navLabel>
+        <text>GÜLŞEN-İ RÂZ</text>
+      </navLabel>
+      <content src="gulsen_split_007.html"/>
+    </navPoint>
+    <navPoint id="bdfb3a2b-44a6-4ac8-8b7b-1053e0e6fcbc" playOrder="3">
+      <navLabel>
+        <text>BİBLİYOGRAFYA</text>
+      </navLabel>
+      <content src="gulsen_split_010.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

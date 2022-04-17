@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="be8b0391-baaa-4ebc-bd0d-4d1d2612dcb4" name="dtb:uid"/>
+        <meta content="2" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>ISLAM KORKUSU</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Giriş</text>
+            </navLabel>
+            <content src="Text/islam1_split_003.html"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>I Taşları oynatan üç tarih: 1453, 1478, 1492</text>
+            </navLabel>
+            <content src="Text/islam1_split_004.html"/>
+            <navPoint id="navPoint-3" playOrder="3">
+                <navLabel>
+                    <text>1 1453: Fetih ve telaş içinde bir Avrupa</text>
+                </navLabel>
+                <content src="Text/islam1_split_005.html"/>
+            </navPoint>
+            <navPoint id="navPoint-4" playOrder="4">
+                <navLabel>
+                    <text>2 1478: Engizisyon</text>
+                </navLabel>
+                <content src="Text/islam1_split_006.html"/>
+            </navPoint>
+            <navPoint id="navPoint-5" playOrder="5">
+                <navLabel>
+                    <text>3 1492: Moriskolar</text>
+                </navLabel>
+                <content src="Text/islam1_split_007.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>II Üç anlatı</text>
+            </navLabel>
+            <content src="Text/islam1_split_008.html"/>
+            <navPoint id="navPoint-7" playOrder="7">
+                <navLabel>
+                    <text>1 Vaka anlatıları</text>
+                </navLabel>
+                <content src="Text/islam1_split_009.html"/>
+            </navPoint>
+            <navPoint id="navPoint-8" playOrder="8">
+                <navLabel>
+                    <text>2 İstanbul Mektupları (Lettere di Costantinopoli)</text>
+                </navLabel>
+                <content src="Text/islam1_split_010.html"/>
+            </navPoint>
+            <navPoint id="navPoint-9" playOrder="9">
+                <navLabel>
+                    <text>3 Balkan anlatıları</text>
+                </navLabel>
+                <content src="Text/islam1_split_011.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>III Üç büyülü anlatı</text>
+            </navLabel>
+            <content src="Text/islam1_split_012.html"/>
+            <navPoint id="navPoint-11" playOrder="11">
+                <navLabel>
+                    <text>1 Harikalar</text>
+                </navLabel>
+                <content src="Text/islam1_split_013.html"/>
+            </navPoint>
+            <navPoint id="navPoint-12" playOrder="12">
+                <navLabel>
+                    <text>2 Kehanet anlatıları (pronóstico)</text>
+                </navLabel>
+                <content src="Text/islam1_split_014.html"/>
+            </navPoint>
+            <navPoint id="navPoint-13" playOrder="13">
+                <navLabel>
+                    <text>3 Romanslar</text>
+                </navLabel>
+                <content src="Text/islam1_split_015.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>IV Doğu gezginleri</text>
+            </navLabel>
+            <content src="Text/islam1_split_016.html"/>
+            <navPoint id="navPoint-15" playOrder="15">
+                <navLabel>
+                    <text>1 Seyyahlar</text>
+                </navLabel>
+                <content src="Text/islam1_split_017.html"/>
+            </navPoint>
+            <navPoint id="navPoint-16" playOrder="16">
+                <navLabel>
+                    <text>2 Hacılar</text>
+                </navLabel>
+                <content src="Text/islam1_split_018.html"/>
+            </navPoint>
+            <navPoint id="navPoint-17" playOrder="17">
+                <navLabel>
+                    <text>3 Elçiler</text>
+                </navLabel>
+                <content src="Text/islam1_split_019.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>V Seyahatin üç yüzü</text>
+            </navLabel>
+            <content src="Text/islam1_split_020.html"/>
+            <navPoint id="navPoint-19" playOrder="19">
+                <navLabel>
+                    <text>1 Bahtsız yolcular</text>
+                </navLabel>
+                <content src="Text/islam1_split_021.html"/>
+            </navPoint>
+            <navPoint id="navPoint-20" playOrder="20">
+                <navLabel>
+                    <text>2 Kılık değiştirenler</text>
+                </navLabel>
+                <content src="Text/islam1_split_022.html"/>
+            </navPoint>
+            <navPoint id="navPoint-21" playOrder="21">
+                <navLabel>
+                    <text>3 Korsanlar</text>
+                </navLabel>
+                <content src="Text/islam1_split_023.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>VI Kaynayan kazan</text>
+            </navLabel>
+            <content src="Text/islam1_split_024.html"/>
+            <navPoint id="navPoint-23" playOrder="23">
+                <navLabel>
+                    <text>1 Esirler</text>
+                </navLabel>
+                <content src="Text/islam1_split_025.html"/>
+            </navPoint>
+            <navPoint id="navPoint-24" playOrder="24">
+                <navLabel>
+                    <text>2 Mühtediler</text>
+                </navLabel>
+                <content src="Text/islam1_split_026.html"/>
+            </navPoint>
+            <navPoint id="navPoint-25" playOrder="25">
+                <navLabel>
+                    <text>3 Misyonerler</text>
+                </navLabel>
+                <content src="Text/islam1_split_027.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+                <text>VII Keskin algı</text>
+            </navLabel>
+            <content src="Text/islam1_split_028.html"/>
+            <navPoint id="navPoint-27" playOrder="27">
+                <navLabel>
+                    <text>1 İslam algısı</text>
+                </navLabel>
+                <content src="Text/islam1_split_029.html"/>
+            </navPoint>
+            <navPoint id="navPoint-28" playOrder="28">
+                <navLabel>
+                    <text>2 Türk algısı</text>
+                </navLabel>
+                <content src="Text/islam1_split_030.html"/>
+            </navPoint>
+            <navPoint id="navPoint-29" playOrder="29">
+                <navLabel>
+                    <text>3 Barbarlık: Belleklere kazınan nahoş anlatılar</text>
+                </navLabel>
+                <content src="Text/islam1_split_031.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+                <text>VIII Tanık</text>
+            </navLabel>
+            <content src="Text/islam1_split_032.html"/>
+            <navPoint id="navPoint-31" playOrder="31">
+                <navLabel>
+                    <text>1 Diego Diaz</text>
+                </navLabel>
+                <content src="Text/islam1_split_033.html"/>
+            </navPoint>
+            <navPoint id="navPoint-32" playOrder="32">
+                <navLabel>
+                    <text>2 Arnold von Harff</text>
+                </navLabel>
+                <content src="Text/islam1_split_034.html"/>
+            </navPoint>
+            <navPoint id="navPoint-33" playOrder="33">
+                <navLabel>
+                    <text>3 Jerónimo Gracián de la Madre de Dios</text>
+                </navLabel>
+                <content src="Text/islam1_split_035.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+                <text>IX Farklılık</text>
+            </navLabel>
+            <content src="Text/islam1_split_036.html"/>
+            <navPoint id="navPoint-35" playOrder="35">
+                <navLabel>
+                    <text>1 Kadınlar</text>
+                </navLabel>
+                <content src="Text/islam1_split_037.html"/>
+            </navPoint>
+            <navPoint id="navPoint-36" playOrder="36">
+                <navLabel>
+                    <text>2 Yemek</text>
+                </navLabel>
+                <content src="Text/islam1_split_038.html"/>
+            </navPoint>
+            <navPoint id="navPoint-37" playOrder="37">
+                <navLabel>
+                    <text>3 Şarap: Müslüman topraklarda üzümün kızı</text>
+                </navLabel>
+                <content src="Text/islam1_split_039.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+                <text>X Anlatılarda ölümsüzleşen üç toprak</text>
+            </navLabel>
+            <content src="Text/islam1_split_040.html"/>
+            <navPoint id="navPoint-39" playOrder="39">
+                <navLabel>
+                    <text>1 Kosova: Hezimetten doğan kahramanlık destanları</text>
+                </navLabel>
+                <content src="Text/islam1_split_041.html"/>
+            </navPoint>
+            <navPoint id="navPoint-40" playOrder="40">
+                <navLabel>
+                    <text>2 İstanbul: Doğu'nun El Dorado'su</text>
+                </navLabel>
+                <content src="Text/islam1_split_042.html"/>
+            </navPoint>
+            <navPoint id="navPoint-41" playOrder="41">
+                <navLabel>
+                    <text>3 Mısır: İfritlerin yaşadığı yeryüzü cenneti</text>
+                </navLabel>
+                <content src="Text/islam1_split_043.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+            <navLabel>
+                <text>XI Gerginlik noktası</text>
+            </navLabel>
+            <content src="Text/islam1_split_044.html"/>
+            <navPoint id="navPoint-43" playOrder="43">
+                <navLabel>
+                    <text>1 Haçlı Savaşı[1]</text>
+                </navLabel>
+                <content src="Text/islam1_split_045.html"/>
+            </navPoint>
+            <navPoint id="navPoint-44" playOrder="44">
+                <navLabel>
+                    <text>2 Hıristiyanların dini dünyası</text>
+                </navLabel>
+                <content src="Text/islam1_split_046.html"/>
+            </navPoint>
+            <navPoint id="navPoint-45" playOrder="45">
+                <navLabel>
+                    <text>3 Kutlamalar</text>
+                </navLabel>
+                <content src="Text/islam1_split_047.html"/>
+            </navPoint>
+        </navPoint>
+    </navMap>
+</ncx>

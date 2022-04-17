@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:b80c25a1-513e-45bd-92a3-d1630540d5d1" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Beraber</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/giris.htm"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>İşbirlikçi Düşünce Yapısı</text>
+        </navLabel>
+        <content src="Text/giris.htm#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Vasıfsızlaştırma</text>
+        </navLabel>
+        <content src="Text/giris.htm#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Çocukluk Döneminde İşbirliği</text>
+        </navLabel>
+        <content src="Text/giris.htm#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Diyalojik</text>
+        </navLabel>
+        <content src="Text/giris.htm#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Provalar</text>
+        </navLabel>
+        <content src="Text/giris.htm#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Diyalektik ve Diyalojik İletişimler</text>
+        </navLabel>
+        <content src="Text/giris.htm#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Sempati ve Empati</text>
+        </navLabel>
+        <content src="Text/giris.htm#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Dolaylama</text>
+        </navLabel>
+        <content src="Text/giris.htm#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>On-Line İşbirliği</text>
+        </navLabel>
+        <content src="Text/giris.htm#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Bu Kitap</text>
+        </navLabel>
+        <content src="Text/giris.htm#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>I Şekillendirilmiş İşbirliği</text>
+      </navLabel>
+      <content src="Text/part1.htm"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>1 “Toplumsal Soru”</text>
+        </navLabel>
+        <content src="Text/01.htm"/>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>Paris’te Devrimciler Bir Gizemi Araştırıyor</text>
+          </navLabel>
+          <content src="Text/01.htm#sigil_toc_id_11"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>Bölünmüş Yol</text>
+          </navLabel>
+          <content src="Text/01.htm#sigil_toc_id_12"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>Koalisyonlar</text>
+          </navLabel>
+          <content src="Text/01.htm#sigil_toc_id_13"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>Topluluk</text>
+          </navLabel>
+          <content src="Text/01.htm#sigil_toc_id_14"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>Atölye</text>
+          </navLabel>
+          <content src="Text/01.htm#sigil_toc_id_15"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>2 Hassas Denge</text>
+        </navLabel>
+        <content src="Text/02.htm"/>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>Doğada ve Kültürde Rekabet ve İşbirliği</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_16"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>Cennet</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_17"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>Doğal Değişken İşbirliği</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_18"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>Değişimin Yelpazesi</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_19"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>Diğerkâmlık</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_20"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>Çift Taraflı Kazanç Değiş Tokuşu</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_21"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>Farklılaşan Değiş Tokuş</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_22"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>Sıfır-Toplam</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_23"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>Kazanan-Hepsini-Alır</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_24"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>Ritüelin Gücü</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_25"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>Yapılmış ya da Bulunmuş?</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_26"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>Ritüelin Üç Temel Yapı Taşı</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_27"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>Ritüel Dengesi</text>
+          </navLabel>
+          <content src="Text/02.htm#sigil_toc_id_28"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>3 “Büyük Yerinden Etme”</text>
+        </navLabel>
+        <content src="Text/03.htm"/>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>Reform İşbirliğini Nasıl Dönüştürdü?</text>
+          </navLabel>
+          <content src="Text/03.htm#sigil_toc_id_29"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>Dini Ritüeller</text>
+          </navLabel>
+          <content src="Text/03.htm#sigil_toc_id_30"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>Ekmek ve Şarap</text>
+          </navLabel>
+          <content src="Text/03.htm#sigil_toc_id_31"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>Vaftiz</text>
+          </navLabel>
+          <content src="Text/03.htm#sigil_toc_id_32"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>Dünyevi Yankılar</text>
+          </navLabel>
+          <content src="Text/03.htm#sigil_toc_id_33"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>Atölye</text>
+          </navLabel>
+          <content src="Text/03.htm#sigil_toc_id_34"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>Medenilik</text>
+          </navLabel>
+          <content src="Text/03.htm#sigil_toc_id_35"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>Profesyonel Medenilik</text>
+          </navLabel>
+          <content src="Text/03.htm#sigil_toc_id_36"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>Medenilik ve Kendilik</text>
+          </navLabel>
+          <content src="Text/03.htm#sigil_toc_id_37"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>II Zayıflatılmış İşbirliği</text>
+      </navLabel>
+      <content src="Text/part2.htm"/>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>4 Eşitsizlik</text>
+        </navLabel>
+        <content src="Text/04.htm"/>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>Çocuklukta Maruz Kalınanlar Ve İçselleştirilenler</text>
+          </navLabel>
+          <content src="Text/04.htm#sigil_toc_id_38"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>Maruz Kalınan Eşitsizlik</text>
+          </navLabel>
+          <content src="Text/04.htm#sigil_toc_id_39"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>İçselleştirilmiş Eşitsizlik</text>
+          </navLabel>
+          <content src="Text/04.htm#sigil_toc_id_40"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>“Arkadaş Olma”</text>
+          </navLabel>
+          <content src="Text/04.htm#sigil_toc_id_41"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>5 Sosyal Üçgen</text>
+        </navLabel>
+        <content src="Text/05.htm"/>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>İş Yaşamındaki Sosyal İlişkiler Nasıl Hırçınlaştırılmıştır?</text>
+          </navLabel>
+          <content src="Text/05.htm#sigil_toc_id_42"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>Eski Ekonomide Sosyal Üçgen</text>
+          </navLabel>
+          <content src="Text/05.htm#sigil_toc_id_43"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>Kazanılmış Otorite</text>
+          </navLabel>
+          <content src="Text/05.htm#sigil_toc_id_44"/>
+        </navPoint>
+        <navPoint id="navPoint-57" playOrder="57">
+          <navLabel>
+            <text>İnanç Sıçramasıyla Gelen Güven</text>
+          </navLabel>
+          <content src="Text/05.htm#sigil_toc_id_45"/>
+        </navPoint>
+        <navPoint id="navPoint-58" playOrder="58">
+          <navLabel>
+            <text>İşbirliği ve Parçalanma</text>
+          </navLabel>
+          <content src="Text/05.htm#sigil_toc_id_46"/>
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>Zamanın Aşınması</text>
+          </navLabel>
+          <content src="Text/05.htm#sigil_toc_id_47"/>
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+          <navLabel>
+            <text>Üçgen Parçalanır</text>
+          </navLabel>
+          <content src="Text/05.htm#sigil_toc_id_48"/>
+        </navPoint>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>Zayıf İşbirliği</text>
+          </navLabel>
+          <content src="Text/05.htm#sigil_toc_id_49"/>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>Haksız Karşılaştırmayla Sarsılan Güven</text>
+          </navLabel>
+          <content src="Text/05.htm#sigil_toc_id_50"/>
+        </navPoint>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>İktidar Otorite Hakkından Vazgeçer</text>
+          </navLabel>
+          <content src="Text/05.htm#sigil_toc_id_51"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>6 İşbirliği Yapmayan Kendilik</text>
+        </navLabel>
+        <content src="Text/06.htm"/>
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>Geri Çekilme Psikolojisi</text>
+          </navLabel>
+          <content src="Text/06.htm#sigil_toc_id_52"/>
+        </navPoint>
+        <navPoint id="navPoint-66" playOrder="66">
+          <navLabel>
+            <text>Kaygı</text>
+          </navLabel>
+          <content src="Text/06.htm#sigil_toc_id_53"/>
+        </navPoint>
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>Geri Çekilme</text>
+          </navLabel>
+          <content src="Text/06.htm#sigil_toc_id_54"/>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>Narsisizm</text>
+          </navLabel>
+          <content src="Text/06.htm#sigil_toc_id_55"/>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>Kendini Beğenmişlik</text>
+          </navLabel>
+          <content src="Text/06.htm#sigil_toc_id_56"/>
+        </navPoint>
+        <navPoint id="navPoint-70" playOrder="70">
+          <navLabel>
+            <text>Hafif Sıklet, Zayıf İşbirliği</text>
+          </navLabel>
+          <content src="Text/06.htm#sigil_toc_id_57"/>
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>Saplantı</text>
+          </navLabel>
+          <content src="Text/06.htm#sigil_toc_id_58"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>III Güçlendirilmiş İşbirliği</text>
+      </navLabel>
+      <content src="Text/part3.htm"/>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>7 Atölye</text>
+        </navLabel>
+        <content src="Text/07.htm"/>
+        <navPoint id="navPoint-74" playOrder="74">
+          <navLabel>
+            <text>Yapım ve Tamir</text>
+          </navLabel>
+          <content src="Text/07.htm#sigil_toc_id_59"/>
+        </navPoint>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>Düzen ve Ritüel</text>
+          </navLabel>
+          <content src="Text/07.htm#sigil_toc_id_60"/>
+        </navPoint>
+        <navPoint id="navPoint-76" playOrder="76">
+          <navLabel>
+            <text>Samimi Jestler</text>
+          </navLabel>
+          <content src="Text/07.htm#sigil_toc_id_61"/>
+        </navPoint>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>Dirençle Beraber Çalışmak</text>
+          </navLabel>
+          <content src="Text/07.htm#sigil_toc_id_62"/>
+        </navPoint>
+        <navPoint id="navPoint-78" playOrder="78">
+          <navLabel>
+            <text>Tamir</text>
+          </navLabel>
+          <content src="Text/07.htm#sigil_toc_id_63"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>8 Gündelik Diplomasi</text>
+        </navLabel>
+        <content src="Text/08.htm"/>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>Pratik Kullanıma Giren Islahat Konuşmaları</text>
+          </navLabel>
+          <content src="Text/08.htm#sigil_toc_id_64"/>
+        </navPoint>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>Dolaylı İşbirliği</text>
+          </navLabel>
+          <content src="Text/08.htm#sigil_toc_id_65"/>
+        </navPoint>
+        <navPoint id="navPoint-82" playOrder="82">
+          <navLabel>
+            <text>Çatışma Yönetimi</text>
+          </navLabel>
+          <content src="Text/08.htm#sigil_toc_id_66"/>
+        </navPoint>
+        <navPoint id="navPoint-83" playOrder="83">
+          <navLabel>
+            <text>Prosedürler</text>
+          </navLabel>
+          <content src="Text/08.htm#sigil_toc_id_67"/>
+        </navPoint>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text>Resmi ve Gayri-Resmi Karşılaşmalar</text>
+          </navLabel>
+          <content src="Text/08.htm#sigil_toc_id_68"/>
+        </navPoint>
+        <navPoint id="navPoint-85" playOrder="85">
+          <navLabel>
+            <text>Eşik Bölge</text>
+          </navLabel>
+          <content src="Text/08.htm#sigil_toc_id_69"/>
+        </navPoint>
+        <navPoint id="navPoint-86" playOrder="86">
+          <navLabel>
+            <text>Sosyal Maske</text>
+          </navLabel>
+          <content src="Text/08.htm#sigil_toc_id_70"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>9 Topluluk</text>
+        </navLabel>
+        <content src="Text/09.htm"/>
+        <navPoint id="navPoint-88" playOrder="88">
+          <navLabel>
+            <text>Bağlılığın Uygulanması</text>
+          </navLabel>
+          <content src="Text/09.htm#sigil_toc_id_71"/>
+        </navPoint>
+        <navPoint id="navPoint-89" playOrder="89">
+          <navLabel>
+            <text>Topluluk Arayışı</text>
+          </navLabel>
+          <content src="Text/09.htm#sigil_toc_id_72"/>
+        </navPoint>
+        <navPoint id="navPoint-90" playOrder="90">
+          <navLabel>
+            <text>Maneviyat</text>
+          </navLabel>
+          <content src="Text/09.htm#sigil_toc_id_73"/>
+        </navPoint>
+        <navPoint id="navPoint-91" playOrder="91">
+          <navLabel>
+            <text>Bağlılığın Sınanması</text>
+          </navLabel>
+          <content src="Text/09.htm#sigil_toc_id_74"/>
+        </navPoint>
+        <navPoint id="navPoint-92" playOrder="92">
+          <navLabel>
+            <text>Görev</text>
+          </navLabel>
+          <content src="Text/09.htm#sigil_toc_id_75"/>
+        </navPoint>
+        <navPoint id="navPoint-93" playOrder="93">
+          <navLabel>
+            <text>Bir Görev Olarak Topluluk İnanç Temelli Topluluklar</text>
+          </navLabel>
+          <content src="Text/09.htm#sigil_toc_id_76"/>
+        </navPoint>
+        <navPoint id="navPoint-94" playOrder="94">
+          <navLabel>
+            <text>Basit Topluluk</text>
+          </navLabel>
+          <content src="Text/09.htm#sigil_toc_id_77"/>
+        </navPoint>
+        <navPoint id="navPoint-95" playOrder="95">
+          <navLabel>
+            <text>Topluluğun Zevkleri</text>
+          </navLabel>
+          <content src="Text/09.htm#sigil_toc_id_78"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>FİNAL</text>
+      </navLabel>
+      <content src="Text/final.htm"/>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>Montaigne’in Kedisi</text>
+        </navLabel>
+        <content src="Text/final.htm#sigil_toc_id_79"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

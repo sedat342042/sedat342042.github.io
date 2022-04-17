@@ -1,0 +1,276 @@
+@font-face {
+	font-family: "News";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/NEWS702N.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "News";
+	font-weight: bold;
+	font-style: normal;
+	src:url("font/NEWS702B.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "News";
+	font-weight: normal;
+	font-style: italic;
+	src:url("font/NEWS702I.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "News BKN";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/NEWBASKN.otf") format("opentype");
+}
+
+/*copyright-page*/
+
+.copyright-page span {
+	display: block;
+	font-family:"News";
+}
+
+
+.copyright-page .number span {
+	font-size: .75em;
+}
+
+.copyright-page .rights,
+.copyright-page .contributors,
+.copyright-page .isbn,
+.copyright-page .number
+ {
+	margin-bottom: 2em
+}
+
+.copyright-page .rights span,
+.copyright-page .isbn span
+ {
+	font-size: .65em;
+}
+
+
+.copyright-page .contributors span,
+.copyright-page .publisher span
+ {
+	font-size: .7em;
+}
+
+
+.copyright-page .publisher .bfn {
+	font-size: .75em;
+}
+
+.copyright-page a {
+	text-decoration: none;
+	color:#777;
+} 
+
+.copy {
+	margin-bottom: 1em;
+}
+
+/*title*/
+
+
+.title {
+	text-align: center;
+	
+}
+
+.title .aut {
+	font:normal normal 1.6em/1.2em "News BKN";
+	text-align: center;
+	
+}
+
+.title .work {
+	font:normal normal 1.6em/1.2em "News BKN";
+	text-align: center;
+}
+
+.seri {
+	font:normal normal .75em/1.2em "News";
+	text-align: center;
+	margin-top: 6em;
+}
+
+.logo{
+  margin: 5em auto 0 auto;
+  
+}
+.cover-container img{
+  max-width: 100%;
+}
+
+/*works*/
+
+.works p {
+	text-align: center;
+	margin:0 auto 2em;
+	font: normal normal .8em/1.4em "News";
+	text-indent: 0;
+}
+
+.works ul {
+	margin:0;
+	padding: 0;
+	list-style: none;
+}
+
+.works li {
+	text-align: center;
+	font:normal normal .7em/1.2em "News";
+	padding-bottom: .3em;
+}
+
+/*biography*/
+
+.biography p {
+	font:normal normal .75em/1.2em "News";
+	text-indent: 0;
+	margin-bottom: 2em;
+}
+
+.biography p:last-child {
+	margin-bottom: 0;
+}
+
+/*shorties-list*/
+
+.shorties-list h1{
+	font:normal bold .66em/1.2em "News";
+	margin:0 auto 2em;
+}
+
+.shorties-list ul {
+	margin:0;
+	padding: 0;
+	list-style: none;
+}
+
+.shorties-list li {
+	font:normal normal .66em/1.2em "News";
+	padding-bottom: .3em;
+}
+
+/*introduction*/
+
+.introduction p {
+	font-size: .75em;
+}
+
+.introduction cite {
+	display: block;
+	text-align: right;
+	margin-top: 1em;
+	font:italic normal .71em/1.2em "News";
+}
+
+/*chapter*/
+
+.chapter .container, .introduction .container {
+	margin-top: 4em;
+}
+
+.chapter-header {
+	text-align: center;
+	margin-bottom: 2em;
+	font:normal normal 1em/1.1em "News";
+}
+
+p {
+	font:normal normal .8em/1.3em "News";
+	margin:0 auto;
+	text-indent: 2em;
+}
+
+.poem {
+	margin: 1em 0 1em 1.5em;
+}
+
+.poem  span {
+	display: block;
+	font:italic normal .8em/1.3em "News";
+}
+
+blockquote {
+	margin:1em auto;
+}
+
+hr {
+	border:none;
+	letter-spacing: .1em;
+	text-align: center;
+	margin: 1.5em auto 1.5em;
+	line-height: 1em;
+}
+
+hr:after {
+	content: "* * *";
+
+}
+
+/*bibliography*/
+
+.bibliography .container {
+	margin-top: 4em;
+}
+
+.bibl-header {
+	text-align: center;
+	margin-bottom: 2em;
+	font:normal normal 1em/1.3em "News";
+}	
+
+.bibliography p {
+	text-indent: -1em;
+	padding-left: 1em;
+	font:normal normal .72em/1.4em "News";
+}
+
+.bibliography p a {
+	color:#777;
+	text-decoration: none;
+	
+}
+
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+	font-size: 1.1em;
+}
+.si-footnote{
+	font-family: "News";
+	font-weight: normal;
+	font-style: normal;
+	font-size: .75em;
+	margin-bottom: .25em;
+}
+
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+
+.cover-container img {
+	width:100%;
+}
+

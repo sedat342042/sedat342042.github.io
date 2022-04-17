@@ -1,0 +1,1396 @@
+.basic-paragraph {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.basic-paragraph1 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 1.5em;
+  margin: 0 0 0 9px;
+}
+.basic-paragraph2 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 1.5em;
+  margin: 0 0 0 18px;
+}
+.basic-paragraph3 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 1.5em;
+  margin: 0 0 0 162px;
+}
+.calibre {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  display: block;
+  font-family: "Vollkorn", serif;
+  font-size: 1em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: justify;
+  margin: 0 5pt;
+}
+.calibre1 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  display: block;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+}
+.calibre2 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  display: block;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+}
+.calibre3 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  display: block;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.calibre4 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1.2em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override1 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.75em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override2 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.75em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override3 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #595959;
+  font-size: 1.2em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override4 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-family: "Minion Pro", serif;
+  font-size: 1.2em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override5 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-family: "Minion Pro";
+  font-size: 1.2em;
+  font-style: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override6 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #595959;
+  font-family: "Minion Pro", serif;
+  font-size: 1.2em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override7 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override8 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override9 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override10 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #f00;
+  font-size: 1em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override11 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.char-style-override12 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.char-style-override13 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.625em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override14 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.625em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override15 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.625em;
+  font-style: italic;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override16 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 1em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.char-style-override17 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 0.625em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override18 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override19 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #f00;
+  font-size: 0.625em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override20 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 0.625em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override21 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1.33333em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override22 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1.33333em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.char-style-override23 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.83333em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override24 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.83333em;
+  font-style: italic;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override25 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.83333em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.char-style-override26 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.83333em;
+  font-style: italic;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.char-style-override27 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 0.625em;
+  font-style: italic;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override28 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 0.625em;
+  font-style: italic;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override29 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.75em;
+  font-style: italic;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override30 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 1em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override31 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1.2em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override32 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  vertical-align: sub;
+}
+.char-style-override33 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override34 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+.char-style-override35 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 1em;
+  font-variant: small-caps;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override36 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 1.2em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override37 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override38 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override39 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.char-style-override40 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #930;
+  font-size: 1em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.emphasis {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.footnote-reference {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  font-size: 0.625em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.g-vde {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  margin: 0 10px;
+}
+.g-vde1 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 1.5em;
+  margin: 0 10px;
+}
+.hyperlink {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 0.75em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+.hyperlink1 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 0.625em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+.hyperlink2 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+.hyperlink3 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-size: 1em;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+.image {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  height: 698px;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  width: 636px;
+}
+.image1 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  height: 368px;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  width: 407px;
+}
+.kobospan {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+}
+.konu-ba-l {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  margin: 0 10px;
+}
+.list {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  display: block;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  list-style-type: decimal;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.main {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #300;
+  font-family: "Minion Pro", serif;
+  font-size: 0.625em;
+  font-style: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.main1 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #300;
+  font-family: "Minion Pro", serif;
+  font-size: 0.625em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.main2 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-family: "Minion Pro", serif;
+  font-size: 0.625em;
+  font-style: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.main3 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.main4 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.main5 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #300;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.main6 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #300;
+  font-family: "Minion Pro", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: bold;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+}
+.normal {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  margin: 0;
+}
+.normal1 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 14px;
+  margin: 0;
+}
+.normal2 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  margin: 0 0 0 12px;
+}
+.normal3 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: Calibri, sans-serif;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  margin: 0;
+}
+.normal4 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 28px;
+  margin: 0;
+}
+.normal5 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.normal6 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: right;
+  text-decoration: none;
+  text-indent: 28px;
+  margin: 0;
+}
+.normal7 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  display: list-item;
+  font-family: "Minion Pro", serif;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 0;
+  margin: 2px 0;
+}
+.oy {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  border-bottom: currentColor none 0;
+  border-top: currentColor none 0;
+  color: #000;
+  display: block;
+  font-family: "Minion Pro", serif;
+  font-size: 0.625em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 1.5em;
+  margin: 0 8px;
+}
+.oy1 {
+  -moz-hyphens: auto;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  -webkit-hyphens: auto;
+  color: #000;
+  display: list-item;
+  font-family: "Minion Pro", serif;
+  font-size: 0.625em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  hyphens: auto;
+  line-height: 1.2;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 11px;
+  margin: 2px 8px;
+}

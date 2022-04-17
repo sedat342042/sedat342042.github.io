@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="22683030-819a-4f4b-95e1-765add47484e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Selahaddin Sonrası Dönemde Anadolu'da Eyyubiler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="90a5cebc-f73b-41e7-a3a6-8f1f799c2e50" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="anadolu_split_003.html"/>
+    </navPoint>
+    <navPoint id="ff30c468-80a0-45d9-a71e-2cbdd7dc36cc" playOrder="2">
+      <navLabel>
+        <text>Kaynaklar</text>
+      </navLabel>
+      <content src="anadolu_split_004.html"/>
+    </navPoint>
+    <navPoint id="e9521dae-7836-4409-9095-737922c1f755" playOrder="3">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="anadolu_split_019.html"/>
+    </navPoint>
+    <navPoint id="130f7b93-353a-40ed-be61-185398a1f2f7" playOrder="4">
+      <navLabel>
+        <text>Eyyubi Devleti ve Komşularına Kısa Bir Bakış</text>
+      </navLabel>
+      <content src="anadolu_split_020.html"/>
+    </navPoint>
+    <navPoint id="fec5f339-5ace-408a-84c6-245978c58576" playOrder="5">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="anadolu_split_026.html"/>
+    </navPoint>
+    <navPoint id="a9d2ad1d-72f2-4742-8e71-85a8f58de1ad" playOrder="6">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="anadolu_split_031.html"/>
+    </navPoint>
+    <navPoint id="0ad23949-72c2-4e43-860d-0ec1440daf0c" playOrder="7">
+      <navLabel>
+        <text>III. Bölüm</text>
+      </navLabel>
+      <content src="anadolu_split_048.html"/>
+    </navPoint>
+    <navPoint id="7032aa76-e1b8-4c18-853b-d4c07ba3351a" playOrder="8">
+      <navLabel>
+        <text>Dördüncü Bölüm</text>
+      </navLabel>
+      <content src="anadolu_split_064.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Boğulmamak İçin</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Orwell, George">George Orwell</dc:creator>
+    <dc:description>&lt;p&gt;“Orwell’in ironik mizah anlayışı tazeliğini hiç yitirmiyor. Bu, kaçırılmaması gereken bir Orwell yapıtı.” The Observer Göbeğinin çapı giderek genişleyen ve evinin taksitlerini ödemekle uğraşan George Bowling kırk beş yaşında, evli ve çocuklu –ve yeni aldığı takma dişleriyle kasvetli hayatından çaresizce kurtulmak isteyen– bir sigorta pazarlamacısıdır.1939’da patlak verecek olan savaşın gelişini; yemek kuyruklarını, askerleri, gizli polisi ve zorbalığı görerek modern zamanlardan korkmaktadır.Böylece çocukluğunun dünyasına, huzur ve sükûn dolu bir yer olarak hatırladığı köyüne sığınmaya karar verir.Fakat köyünde aradığını bulabilecek mi, orası şüphelidir. “Çok komik olmanın yanında hayranlık uyandıracak kadar gerçekçi... Bin Dokuz Yüz Seksen Dört’ü burada nüve haliyle görebiliyoruz. Hayvan Çiftliği’ni de... Hem zengin bir okuma keyfi sunan hem de iki klasiğin tohumlarını birden barındıran romanlara kolay rastlanmaz.” John Carey, The Sunday Times&lt;/p&gt;</dc:description>
+    <dc:date>2014-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:identifier id="uuid">{3ED8BEFE-B8A8-4AD9-A011-EBF4C2022D17}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">bca01277-98fb-4d2c-a836-b24a8ab7dd8c</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="giris.xhtml" href="Text/giris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitaplari.xhtml" href="Text/kitaplari.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="giris2.xhtml" href="Text/giris2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-001.xhtml" href="Text/B-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-002.xhtml" href="Text/B-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-003.xhtml" href="Text/B-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-004.xhtml" href="Text/B-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id11" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="mute.css" href="Styles/mute.css" media-type="text/css"/>
+    <item id="can.bmp" href="Images/can.bmp" media-type="image/bmp"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+    <item id="LiberationSerif-Bold.ttf" href="Fonts/LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="LiberationSerif-Italic.ttf" href="Fonts/LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="LiberationSerif.ttf" href="Fonts/LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id11">
+    <itemref idref="titlepage"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kitaplari.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="giris2.xhtml"/>
+    <itemref idref="B-001.xhtml"/>
+    <itemref idref="B-002.xhtml"/>
+    <itemref idref="B-003.xhtml"/>
+    <itemref idref="B-004.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

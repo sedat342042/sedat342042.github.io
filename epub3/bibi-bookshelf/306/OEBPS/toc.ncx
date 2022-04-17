@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:750C7C4B-42EB-4752-9054-600E3999EE21" />
+		<meta name="dtb:depth" content="2" />
+		<meta name="dtb:totalPageCount" content="0" />
+		<meta name="dtb:maxPageNumber" content="0" />
+	</head>
+	<docTitle>
+		<text>Lavinia</text>
+	</docTitle>
+	<docAuthor>
+		<text>Özdemir Asaf</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Lavinia </text>
+			</navLabel>
+			<content src="5.xhtml#_idParaDest-1" />
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>TAŞ YAZI</text>
+				</navLabel>
+				<content src="5-2.xhtml#_idParaDest-2" />
+			</navPoint>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>BUGÜN VE BUGÜN</text>
+				</navLabel>
+				<content src="5-3.xhtml#_idParaDest-3" />
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>SABAHA KADAR  </text>
+				</navLabel>
+				<content src="5-4.xhtml#_idParaDest-4" />
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>ULTRA</text>
+				</navLabel>
+				<content src="5-5.xhtml#_idParaDest-5" />
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>UZUN BİR ÖYKÜ</text>
+				</navLabel>
+				<content src="5-6.xhtml#_idParaDest-6" />
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>İSTEYORUM</text>
+				</navLabel>
+				<content src="5-7.xhtml#_idParaDest-7" />
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>KIVILCIM</text>
+				</navLabel>
+				<content src="5-8.xhtml#_idParaDest-8" />
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>KONAK</text>
+				</navLabel>
+				<content src="5-9.xhtml#_idParaDest-9" />
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>360 DERECE</text>
+				</navLabel>
+				<content src="5-10.xhtml#_idParaDest-10" />
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>PERSPECTİF</text>
+				</navLabel>
+				<content src="5-11.xhtml#_idParaDest-11" />
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>BAĞLI</text>
+				</navLabel>
+				<content src="5-12.xhtml#_idParaDest-12" />
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>YALIN</text>
+				</navLabel>
+				<content src="5-13.xhtml#_idParaDest-13" />
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>EVRENSEL BALLAD</text>
+				</navLabel>
+				<content src="5-14.xhtml#_idParaDest-14" />
+			</navPoint>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>YOL’UN</text>
+				</navLabel>
+				<content src="5-15.xhtml#_idParaDest-15" />
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>AŞK</text>
+				</navLabel>
+				<content src="5-16.xhtml#_idParaDest-16" />
+			</navPoint>
+			<navPoint id="navpoint17" playOrder="17">
+				<navLabel>
+					<text>SÖZ ARAMIZDA</text>
+				</navLabel>
+				<content src="5-17.xhtml#_idParaDest-17" />
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>SISYPHE</text>
+				</navLabel>
+				<content src="5-18.xhtml#_idParaDest-18" />
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>2 = 1</text>
+				</navLabel>
+				<content src="5-19.xhtml#_idParaDest-19" />
+			</navPoint>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>TENTATION</text>
+				</navLabel>
+				<content src="5-20.xhtml#_idParaDest-20" />
+			</navPoint>
+			<navPoint id="navpoint21" playOrder="21">
+				<navLabel>
+					<text>DUVARA ASTIĞIM</text>
+				</navLabel>
+				<content src="5-21.xhtml#_idParaDest-21" />
+			</navPoint>
+			<navPoint id="navpoint22" playOrder="22">
+				<navLabel>
+					<text>IXION</text>
+				</navLabel>
+				<content src="5-22.xhtml#_idParaDest-22" />
+			</navPoint>
+			<navPoint id="navpoint23" playOrder="23">
+				<navLabel>
+					<text>ÜÇÜN</text>
+				</navLabel>
+				<content src="5-23.xhtml#_idParaDest-23" />
+			</navPoint>
+			<navPoint id="navpoint24" playOrder="24">
+				<navLabel>
+					<text>GÖRÜ</text>
+				</navLabel>
+				<content src="5-24.xhtml#_idParaDest-24" />
+			</navPoint>
+			<navPoint id="navpoint25" playOrder="25">
+				<navLabel>
+					<text>NOKTASIZ</text>
+				</navLabel>
+				<content src="5-25.xhtml#_idParaDest-25" />
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>BİR-BİR</text>
+				</navLabel>
+				<content src="5-26.xhtml#_idParaDest-26" />
+			</navPoint>
+			<navPoint id="navpoint27" playOrder="27">
+				<navLabel>
+					<text>SÖZ</text>
+				</navLabel>
+				<content src="5-27.xhtml#_idParaDest-27" />
+			</navPoint>
+			<navPoint id="navpoint28" playOrder="28">
+				<navLabel>
+					<text>KATMER</text>
+				</navLabel>
+				<content src="5-28.xhtml#_idParaDest-28" />
+			</navPoint>
+			<navPoint id="navpoint29" playOrder="29">
+				<navLabel>
+					<text>SENDEN</text>
+				</navLabel>
+				<content src="5-29.xhtml#_idParaDest-29" />
+			</navPoint>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>ÖZLEM</text>
+				</navLabel>
+				<content src="5-30.xhtml#_idParaDest-30" />
+			</navPoint>
+			<navPoint id="navpoint31" playOrder="31">
+				<navLabel>
+					<text>ÇAĞRI BALLADI</text>
+				</navLabel>
+				<content src="5-31.xhtml#_idParaDest-31" />
+			</navPoint>
+			<navPoint id="navpoint32" playOrder="32">
+				<navLabel>
+					<text>KÜÇÜK EV</text>
+				</navLabel>
+				<content src="5-32.xhtml#_idParaDest-32" />
+			</navPoint>
+			<navPoint id="navpoint33" playOrder="33">
+				<navLabel>
+					<text>TABLO</text>
+				</navLabel>
+				<content src="5-33.xhtml#_idParaDest-33" />
+			</navPoint>
+			<navPoint id="navpoint34" playOrder="34">
+				<navLabel>
+					<text>SAÇLARI</text>
+				</navLabel>
+				<content src="5-34.xhtml#_idParaDest-34" />
+			</navPoint>
+			<navPoint id="navpoint35" playOrder="35">
+				<navLabel>
+					<text>ALFA</text>
+				</navLabel>
+				<content src="5-35.xhtml#_idParaDest-35" />
+			</navPoint>
+			<navPoint id="navpoint36" playOrder="36">
+				<navLabel>
+					<text>SENİ SEYREDERDİM</text>
+				</navLabel>
+				<content src="5-36.xhtml#_idParaDest-36" />
+			</navPoint>
+			<navPoint id="navpoint37" playOrder="37">
+				<navLabel>
+					<text>SAYGI</text>
+				</navLabel>
+				<content src="5-37.xhtml#_idParaDest-37" />
+			</navPoint>
+			<navPoint id="navpoint38" playOrder="38">
+				<navLabel>
+					<text>ANLAM</text>
+				</navLabel>
+				<content src="5-38.xhtml#_idParaDest-38" />
+			</navPoint>
+			<navPoint id="navpoint39" playOrder="39">
+				<navLabel>
+					<text>AKIL GÖZÜ</text>
+				</navLabel>
+				<content src="5-39.xhtml#_idParaDest-39" />
+			</navPoint>
+			<navPoint id="navpoint40" playOrder="40">
+				<navLabel>
+					<text>AŞK ŞARKISI</text>
+				</navLabel>
+				<content src="5-40.xhtml#_idParaDest-40" />
+			</navPoint>
+			<navPoint id="navpoint41" playOrder="41">
+				<navLabel>
+					<text>YÖN</text>
+				</navLabel>
+				<content src="5-41.xhtml#_idParaDest-41" />
+			</navPoint>
+			<navPoint id="navpoint42" playOrder="42">
+				<navLabel>
+					<text>SANI</text>
+				</navLabel>
+				<content src="5-42.xhtml#_idParaDest-42" />
+			</navPoint>
+			<navPoint id="navpoint43" playOrder="43">
+				<navLabel>
+					<text>UZUNCUK</text>
+				</navLabel>
+				<content src="5-43.xhtml#_idParaDest-43" />
+			</navPoint>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text>İKİLEM</text>
+				</navLabel>
+				<content src="5-44.xhtml#_idParaDest-44" />
+			</navPoint>
+			<navPoint id="navpoint45" playOrder="45">
+				<navLabel>
+					<text>ALTINCI GÜN</text>
+				</navLabel>
+				<content src="5-45.xhtml#_idParaDest-45" />
+			</navPoint>
+			<navPoint id="navpoint46" playOrder="46">
+				<navLabel>
+					<text>INCOGNITO</text>
+				</navLabel>
+				<content src="5-46.xhtml#_idParaDest-46" />
+			</navPoint>
+			<navPoint id="navpoint47" playOrder="47">
+				<navLabel>
+					<text>BAŞKA FREKANS</text>
+				</navLabel>
+				<content src="5-47.xhtml#_idParaDest-47" />
+			</navPoint>
+			<navPoint id="navpoint48" playOrder="48">
+				<navLabel>
+					<text>DÖNÜŞ</text>
+				</navLabel>
+				<content src="5-48.xhtml#_idParaDest-48" />
+			</navPoint>
+			<navPoint id="navpoint49" playOrder="49">
+				<navLabel>
+					<text>DİYEK</text>
+				</navLabel>
+				<content src="5-49.xhtml#_idParaDest-49" />
+			</navPoint>
+			<navPoint id="navpoint50" playOrder="50">
+				<navLabel>
+					<text>CİZİK</text>
+				</navLabel>
+				<content src="5-50.xhtml#_idParaDest-50" />
+			</navPoint>
+			<navPoint id="navpoint51" playOrder="51">
+				<navLabel>
+					<text>BOŞ</text>
+				</navLabel>
+				<content src="5-51.xhtml#_idParaDest-51" />
+			</navPoint>
+			<navPoint id="navpoint52" playOrder="52">
+				<navLabel>
+					<text>AŞKA GEREKLİ ÜÇ ANLATIM</text>
+				</navLabel>
+				<content src="5-52.xhtml#_idParaDest-52" />
+			</navPoint>
+			<navPoint id="navpoint53" playOrder="53">
+				<navLabel>
+					<text>SESİNİZ</text>
+				</navLabel>
+				<content src="5-53.xhtml#_idParaDest-53" />
+			</navPoint>
+			<navPoint id="navpoint54" playOrder="54">
+				<navLabel>
+					<text>KALDIM</text>
+				</navLabel>
+				<content src="5-54.xhtml#_idParaDest-54" />
+			</navPoint>
+			<navPoint id="navpoint55" playOrder="55">
+				<navLabel>
+					<text>AYRIK EŞİTLİK</text>
+				</navLabel>
+				<content src="5-55.xhtml#_idParaDest-55" />
+			</navPoint>
+			<navPoint id="navpoint56" playOrder="56">
+				<navLabel>
+					<text>ANSIZIN</text>
+				</navLabel>
+				<content src="5-56.xhtml#_idParaDest-56" />
+			</navPoint>
+			<navPoint id="navpoint57" playOrder="57">
+				<navLabel>
+					<text>BEKLEYEN ŞARKI</text>
+				</navLabel>
+				<content src="5-57.xhtml#_idParaDest-57" />
+			</navPoint>
+			<navPoint id="navpoint58" playOrder="58">
+				<navLabel>
+					<text>YALNIZLIK</text>
+				</navLabel>
+				<content src="5-58.xhtml#_idParaDest-58" />
+			</navPoint>
+			<navPoint id="navpoint59" playOrder="59">
+				<navLabel>
+					<text>KELİMELER... KELİMELER...</text>
+				</navLabel>
+				<content src="5-59.xhtml#_idParaDest-59" />
+			</navPoint>
+			<navPoint id="navpoint60" playOrder="60">
+				<navLabel>
+					<text>MESAJ</text>
+				</navLabel>
+				<content src="5-60.xhtml#_idParaDest-60" />
+			</navPoint>
+			<navPoint id="navpoint61" playOrder="61">
+				<navLabel>
+					<text>BEN DEĞİLDİM</text>
+				</navLabel>
+				<content src="5-61.xhtml#_idParaDest-61" />
+			</navPoint>
+			<navPoint id="navpoint62" playOrder="62">
+				<navLabel>
+					<text>PAY</text>
+				</navLabel>
+				<content src="5-62.xhtml#_idParaDest-62" />
+			</navPoint>
+			<navPoint id="navpoint63" playOrder="63">
+				<navLabel>
+					<text>O GECE</text>
+				</navLabel>
+				<content src="5-63.xhtml#_idParaDest-63" />
+			</navPoint>
+			<navPoint id="navpoint64" playOrder="64">
+				<navLabel>
+					<text>ŞARKILAR</text>
+				</navLabel>
+				<content src="5-64.xhtml#_idParaDest-64" />
+			</navPoint>
+			<navPoint id="navpoint65" playOrder="65">
+				<navLabel>
+					<text>SENSİZ</text>
+				</navLabel>
+				<content src="5-65.xhtml#_idParaDest-65" />
+			</navPoint>
+			<navPoint id="navpoint66" playOrder="66">
+				<navLabel>
+					<text>Gölgeniz</text>
+				</navLabel>
+				<content src="5-66.xhtml#_idParaDest-66" />
+			</navPoint>
+			<navPoint id="navpoint67" playOrder="67">
+				<navLabel>
+					<text>GÜLDEN GELEN</text>
+				</navLabel>
+				<content src="5-67.xhtml#_idParaDest-67" />
+			</navPoint>
+			<navPoint id="navpoint68" playOrder="68">
+				<navLabel>
+					<text>SENİ SAKLAYACAĞIM</text>
+				</navLabel>
+				<content src="5-68.xhtml#_idParaDest-68" />
+			</navPoint>
+			<navPoint id="navpoint69" playOrder="69">
+				<navLabel>
+					<text>LAVİNİA</text>
+				</navLabel>
+				<content src="5-69.xhtml#_idParaDest-69" />
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

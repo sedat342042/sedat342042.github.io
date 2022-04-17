@@ -1,0 +1,284 @@
+@font-face {
+	font-family:"Adobe Garamond Pro Bold";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/AGaramondPro-Bold.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro Bold";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../Fonts/AGaramondPro-BoldItalic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro Bold";
+	font-style:oblique;
+	font-weight:bold;
+	src : url("../Fonts/AGaramondPro-BoldItalic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Italic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Italic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Regular.otf");
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+p.govde-metin {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.364;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:6px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:20px;
+}
+p.ortali-yazilar {
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1.083em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.154;
+	margin-bottom:57px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.jenerik {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:1px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.buyuk-kitap-adi {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:3.75em;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1;
+	margin-bottom:71px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.saga-day-yazilar {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.364;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.baslik-1 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.107;
+	margin-bottom:43px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:14px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.baslik-2 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1.083em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.231;
+	margin-bottom:3px;
+	margin-left:20px;
+	margin-right:0px;
+	margin-top:11px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.bolum-kesme {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.75em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:71px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:1px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.hitap {
+	color:#000000;
+	font-family:"Arno Pro Italic Display", sans-serif;
+	font-size:1.083em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.231;
+	margin-bottom:3px;
+	margin-left:28px;
+	margin-right:28px;
+	margin-top:6px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:20px;
+}
+span.bold {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.italik {
+	font-family:"Adobe Garamond Pro", serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.bold-italik {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-style:italic;
+	font-weight:bold;
+}
+span.normal {
+	font-style:normal;
+	font-weight:normal;
+}
+p.para-style-override-1 {
+	break-after:column;
+}
+p.para-style-override-2 {
+	margin-bottom:14px;
+}
+p.para-style-override-3 {
+	margin-bottom:156px;
+}
+p.para-style-override-4 {
+	break-after:page;
+}
+p.para-style-override-5 {
+	break-after:column;
+	direction:rtl;
+}
+span.char-style-override-1 {
+	font-family:"Adobe Garamond Pro";
+}
+span.char-style-override-2 {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.846em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-3 {
+	font-family:"Adobe Garamond Pro";
+	font-size:0.846em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-4 {
+	font-family:"Adobe Garamond Pro";
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-5 {
+	font-style:normal;
+	font-weight:normal;
+}
+img.frame-1 {
+	width:13%;
+}
+div.frame-2 {
+	margin:0px auto 0px auto;
+	text-align:center;
+}
+img.frame-3 {
+	width:100%;
+}
+img.frame-4 {
+	width:76%;
+}

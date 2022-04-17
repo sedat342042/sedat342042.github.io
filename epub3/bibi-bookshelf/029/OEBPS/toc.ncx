@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{05E290C6-E28D-4DF4-AB55-6ABFE4770B74}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="calibre (2.73.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Edwin Drood'un Gizemi</text>
+  </docTitle>
+  <navMap>
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/ickapak.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="3">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="4">
+      <navLabel>
+        <text>1. Şafak Vakti</text>
+      </navLabel>
+      <content src="Text/1.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="5">
+      <navLabel>
+        <text>2. Bir Başpapaz ve Bir de Kilise Cemaati Mensubu</text>
+      </navLabel>
+      <content src="Text/2.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="6">
+      <navLabel>
+        <text>3. Rahibeler Evi</text>
+      </navLabel>
+      <content src="Text/3.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="7">
+      <navLabel>
+        <text>4. Bay Sapsea</text>
+      </navLabel>
+      <content src="Text/4.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="8">
+      <navLabel>
+        <text>5. Bay Durdles ve Bir Arkadaşı</text>
+      </navLabel>
+      <content src="Text/5.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="9">
+      <navLabel>
+        <text>6. Yardımcı Papaz Evinde Hayırseverlik</text>
+      </navLabel>
+      <content src="Text/6.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="10">
+      <navLabel>
+        <text>7. Bir Dizi İtiraf</text>
+      </navLabel>
+      <content src="Text/7.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="11">
+      <navLabel>
+        <text>8. Kamalar Çekiliyor</text>
+      </navLabel>
+      <content src="Text/8.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="12">
+      <navLabel>
+        <text>9. Çalıkuşları</text>
+      </navLabel>
+      <content src="Text/9.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="13">
+      <navLabel>
+        <text>10. Arabuluculuk</text>
+      </navLabel>
+      <content src="Text/10.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="14">
+      <navLabel>
+        <text>11. Bir Resim ve Bir Yüzük</text>
+      </navLabel>
+      <content src="Text/11.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="15">
+      <navLabel>
+        <text>12. Durdles ile Bir Gece</text>
+      </navLabel>
+      <content src="Text/12.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="16">
+      <navLabel>
+        <text>13. İkisinin de İyiliğine</text>
+      </navLabel>
+      <content src="Text/13.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="17">
+      <navLabel>
+        <text>14. Bu Üçlü Bir Daha Ne Zaman Bir Araya Gelir?</text>
+      </navLabel>
+      <content src="Text/14.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="18">
+      <navLabel>
+        <text>15. Zanlı</text>
+      </navLabel>
+      <content src="Text/15.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="19">
+      <navLabel>
+        <text>16. Fedai</text>
+      </navLabel>
+      <content src="Text/16.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="20">
+      <navLabel>
+        <text>17. Profesyonel ve Amatör Hayırseverlik</text>
+      </navLabel>
+      <content src="Text/17.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="21">
+      <navLabel>
+        <text>18. Yeni Bir Cloisterham Sakini</text>
+      </navLabel>
+      <content src="Text/18.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="22">
+      <navLabel>
+        <text>19. Güneş Saatinde Bir Gölge</text>
+      </navLabel>
+      <content src="Text/19.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="23">
+      <navLabel>
+        <text>20. Firar</text>
+      </navLabel>
+      <content src="Text/20.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="24">
+      <navLabel>
+        <text>21. Eski Bir Dost</text>
+      </navLabel>
+      <content src="Text/21.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="25">
+      <navLabel>
+        <text>22. Ve Tozlu Yollara Girilir</text>
+      </navLabel>
+      <content src="Text/22.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="26">
+      <navLabel>
+        <text>23. Yine Bir Şafak Vakti</text>
+      </navLabel>
+      <content src="Text/23.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="27">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/dipnot.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="28">
+      <navLabel>
+        <text>Arka Kapak</text>
+      </navLabel>
+      <content src="Text/arka_kapak.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

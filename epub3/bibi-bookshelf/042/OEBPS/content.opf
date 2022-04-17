@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Varolmayanlar</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Yücel, Doğu">Doğu Yücel</dc:creator>
+    <dc:description>Yaşamı, varoluşu ve düzeni sorgulayan, okuru büyülü bir yolculuğa çıkartan, yeni bir hayalperest manifesto…  Doğu Yücel’den yaşamı, varoluşu ve düzeni sorgulayan, okuru büyülü bir yolculuğa çıkartan, yeni bir hayalperest manifesto.  Genç iş adamı babasından kalan antika dolmakalemle bir hikâye yazar. Ertesi gün gazetede, yazdığı hikâyenin aynen gerçekleştiğine dair bir haberle karşılaşır. Kahramanımız bu gizemli olayın nedenlerini araştırırken tarihin en iyi saklanmış sırrını öğrenecek, dünyayı değiştirecek anahtarın tek sahibi olacaktır.  Yücel, kalemini, sinematografik bir hikâyeyle tekdüze gerçekliğin tam ortasına saplıyor, sihirli bir dünyanın kapısını aralıyor.   Fantastik ile gerçekliğin sınırlarını zorlayan sürükleyici bir macera…   “Artık bir birliğimiz var. Bir ismimiz yok, birçok ismimiz var. Hayalciler… Sıfırlar… Varolmayanlar… Yoklar… Yarım yamalaklar… Hayalperestler… Olmayanlar… Hiçler… Biz onlar gibi değiliz!”</dc:description>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:FFE7D680-05F8-488F-A44B-0545C1CDA1E9</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">e05cc424-7016-417f-9f68-92bc4144cef8</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="KAPAK.html" id="KAPAK" media-type="application/xhtml+xml"/>
+    <item href="KUNYE.html" id="KUNYE" media-type="application/xhtml+xml"/>
+    <item href="GIRIS.html" id="GIRIS" media-type="application/xhtml+xml"/>
+    <item href="ALINTI.html" id="ALINTI" media-type="application/xhtml+xml"/>
+    <item href="MILENYUM_.html" id="MILENYUM_" media-type="application/xhtml+xml"/>
+    <item href="I.html" id="I" media-type="application/xhtml+xml"/>
+    <item href="_.html" id="_" media-type="application/xhtml+xml"/>
+    <item href="BAS_AGRISI_VE_.html" id="BAS_AGRISI_VE_" media-type="application/xhtml+xml"/>
+    <item href="BUYUK_KESIF.html" id="BUYUK_KESIF" media-type="application/xhtml+xml"/>
+    <item href="MILENYUM__.html" id="MILENYUM__" media-type="application/xhtml+xml"/>
+    <item href="II.html" id="II" media-type="application/xhtml+xml"/>
+    <item href="ILK_EYLEM.html" id="ILK_EYLEM" media-type="application/xhtml+xml"/>
+    <item href="VAR_EDILIS.html" id="VAR_EDILIS" media-type="application/xhtml+xml"/>
+    <item href="III.html" id="III" media-type="application/xhtml+xml"/>
+    <item href="VAR_EDENLER.html" id="VAR_EDENLER" media-type="application/xhtml+xml"/>
+    <item href="VE_DEVRIM.html" id="VE_DEVRIM" media-type="application/xhtml+xml"/>
+    <item href="ILK_MUDAHALE.html" id="ILK_MUDAHALE" media-type="application/xhtml+xml"/>
+    <item href="MILENYUM___.html" id="MILENYUM___" media-type="application/xhtml+xml"/>
+    <item href="YAZAR_HAKKINDA.html" id="YAZAR_HAKKINDA" media-type="application/xhtml+xml"/>
+    <item href="ARKA_KAPAK.html" id="ARKA_KAPAK" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/dk_logo_fmt.png" id="dk_logo_fmt.png" media-type="image/png"/>
+    <item href="images/icon1b_fmt.jpeg" id="icon1b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/on_D_fmt.jpeg" id="on_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/on_D.jpg" id="on_D.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uhN86ATxodiIajGpB85auAG" media-type="image/jpeg"/>
+    <item href="fonts/CourierNewPS-BoldMT.otf" id="CourierNewPS-BoldMT.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/CourierNewPSMT.otf" id="CourierNewPSMT.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/HelveticaNeue-Light.ttf" id="HelveticaNeue-Light.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Serif6BetaRgitalic.ttf" id="Serif6BetaRgitalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Serif12Beta-Roman.ttf" id="Serif12Beta-Roman.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Serif12BetaRgBold.ttf" id="Serif12BetaRgBold.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KAPAK"/>
+    <itemref idref="KUNYE"/>
+    <itemref idref="GIRIS"/>
+    <itemref idref="ALINTI"/>
+    <itemref idref="MILENYUM_"/>
+    <itemref idref="I"/>
+    <itemref idref="_"/>
+    <itemref idref="BAS_AGRISI_VE_"/>
+    <itemref idref="BUYUK_KESIF"/>
+    <itemref idref="MILENYUM__"/>
+    <itemref idref="II"/>
+    <itemref idref="ILK_EYLEM"/>
+    <itemref idref="VAR_EDILIS"/>
+    <itemref idref="III"/>
+    <itemref idref="VAR_EDENLER"/>
+    <itemref idref="VE_DEVRIM"/>
+    <itemref idref="ILK_MUDAHALE"/>
+    <itemref idref="MILENYUM___"/>
+    <itemref idref="YAZAR_HAKKINDA"/>
+    <itemref idref="ARKA_KAPAK"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

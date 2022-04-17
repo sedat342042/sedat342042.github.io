@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yakaran Gönüller (el Kulûb'd Dâria Tercümesi)</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Yılmaz, Mustafa">Mustafa Yılmaz</dc:creator>
+    <dc:publisher>Define Yayınları</dc:publisher>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:ab173fe1-be41-42f5-a7c1-b70be6550756</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">e429e0fb-d675-46ed-b285-3cc8aba08d35</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Yakaran_Gonuller.xhtml" id="Yakaran_Gonuller" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-1.xhtml" id="Yakaran_Gonuller-1" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-2.xhtml" id="Yakaran_Gonuller-2" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-3.xhtml" id="Yakaran_Gonuller-3" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-4.xhtml" id="Yakaran_Gonuller-4" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-5.xhtml" id="Yakaran_Gonuller-5" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-6.xhtml" id="Yakaran_Gonuller-6" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-7.xhtml" id="Yakaran_Gonuller-7" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-8.xhtml" id="Yakaran_Gonuller-8" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-9.xhtml" id="Yakaran_Gonuller-9" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-10.xhtml" id="Yakaran_Gonuller-10" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-11.xhtml" id="Yakaran_Gonuller-11" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-12.xhtml" id="Yakaran_Gonuller-12" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-13.xhtml" id="Yakaran_Gonuller-13" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-14.xhtml" id="Yakaran_Gonuller-14" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-15.xhtml" id="Yakaran_Gonuller-15" media-type="application/xhtml+xml"/>
+    <item href="Yakaran_Gonuller-16.xhtml" id="Yakaran_Gonuller-16" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/define_yayınlari.jpg" id="define_yay-nlari.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Yakaran_Gonuller"/>
+    <itemref idref="Yakaran_Gonuller-1"/>
+    <itemref idref="Yakaran_Gonuller-2"/>
+    <itemref idref="Yakaran_Gonuller-3"/>
+    <itemref idref="Yakaran_Gonuller-4"/>
+    <itemref idref="Yakaran_Gonuller-5"/>
+    <itemref idref="Yakaran_Gonuller-6"/>
+    <itemref idref="Yakaran_Gonuller-7"/>
+    <itemref idref="Yakaran_Gonuller-8"/>
+    <itemref idref="Yakaran_Gonuller-9"/>
+    <itemref idref="Yakaran_Gonuller-10"/>
+    <itemref idref="Yakaran_Gonuller-11"/>
+    <itemref idref="Yakaran_Gonuller-12"/>
+    <itemref idref="Yakaran_Gonuller-13"/>
+    <itemref idref="Yakaran_Gonuller-14"/>
+    <itemref idref="Yakaran_Gonuller-15"/>
+    <itemref idref="Yakaran_Gonuller-16"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

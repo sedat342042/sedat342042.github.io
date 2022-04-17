@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Duyarlı Gencin Başarı Rehberi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Aslanhan, Sıtkı">Sıtkı Aslanhan</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:description>'Dünyanın gördüğü her büyük başarı, önce bir hayaldi. En büyük çınar bir tohumda, en büyük kuş bir yumurtada gizliydi.' 'James Allen' Kaybedeceğinizi düşünüyorsanız bilin ki zaten çoktan kaybetmişsinizdir. Başarı, ancak onu istediğiniz takdirde gelecektir. Hayatın içine girmeye, hayatla mücadele etmeye başladığınızda, kendi küçük hayatınızdan, dünyanızdan dışarıya çıkıp olaylara baktığınız zaman göreceksiniz ki, başarı ancak istendiği takdirde geliyor. Her şey insanın kafasında bitiyor. Başarı, başarısızlık, mutluluk, mutsuzluk, galip gelme ve mağlup olma… 'Duyarlı Gencin Başarı Rehberi' kitabında; başarıya ulaşma noktasında beyninizi, ruhunuzu ve motivasyonunuzu nasıl kontrol edebileceğinize dair ipuçları ve formüller bulacaksınız. Bu formüller, başarıya giden yolda hedefinizi belirlemenize, zamanınızı doğru bir şekilde kullanarak duyarlı bir genç olabilmenize rehber olacaktır.</dc:description>
+    <dc:publisher>Hayat Yayıncılık</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">f144b450-31e8-4d1d-b381-123faa56219f</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786055365363</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="Text/4-2.html" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="Text/4-3.html" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="Text/4-4.html" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-5.html" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="Text/4-6.html" id="x4-6" media-type="application/xhtml+xml"/>
+    <item href="Text/4-7.html" id="x4-7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image487_fmt.gif" id="Image487_fmt.gif" media-type="image/gif"/>
+    <item href="OEBPS/cover.jpg" id="ukmdzUqdTwk3lycLEHDrdBF" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

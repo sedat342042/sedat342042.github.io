@@ -1,0 +1,242 @@
+@font-face {
+	font-family: "News";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/News702BT-Roman.otf"); 
+}
+
+@font-face {
+	font-family: "News";
+	font-weight: bold;
+	font-style: normal;
+	src:url("font/News702BT-Bold.otf"); 
+}
+
+@font-face {
+	font-family: "News";
+	font-weight: normal;
+	font-style: italic;
+	src:url("font/News702BT-Italic.otf"); 
+}
+
+@font-face {
+	font-family: "News Baskerville";
+	font-weight: normal;
+	font-style: normal;
+	src:url("font/NewBaskervilleITCbyBT-Roman.otf"); 
+}
+
+/*cover*/
+
+.cover-container img{
+  max-width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+
+/*copyright-page*/
+
+.copyright-page span {
+	display: block;
+	font-family:"News";
+}
+
+.press, .publisher-top, .cont, .sistematik, .isbn {
+	margin-bottom: 2em
+}
+
+.publisher-top span {
+	font-size: .8em;
+	line-height: 1.3em;
+}
+
+.copy {
+	margin-bottom: .8em;
+}
+
+.copy span, .sistematik span, .isbn span, .publisher span {
+	font-size: .7em;
+	line-height: 1.3em;
+
+}
+
+.copyright-page a {
+	color:#777;
+	text-decoration: none;
+	
+}
+
+.copyright-page .pblsh-name {
+	font-size: .7em;
+}
+
+.copyright-page .pblsh-subname {
+	font-size: .5em;
+}
+
+
+/*title*/
+
+
+.title {
+	text-align: center;
+	
+}
+
+.title .aut {
+	font:normal normal 1.6em/1.2em "News Baskerville";
+	
+}
+
+.title .work {
+	font:normal normal 1.6em/1.2em "News Baskerville";
+}
+
+.title .subwork-name {
+	font:normal normal 1em/1.2em "News Baskerville";
+}
+
+.seri {
+	font:normal normal .75em/1.2em "News";
+	margin-top: 5em;
+}
+
+.trans {
+	font:normal normal .7em/1.2em "News";
+	margin-top: 4em;
+}
+
+.trans span {
+	font-size: 1.125em;
+}
+
+.logo{
+  margin: 5em auto 0 auto;
+}
+
+
+/*works*/
+
+.works p {
+	text-align: center;
+	margin:0 auto 2em;
+	font: normal normal .8em/1.4em "News";
+	text-indent: 0;
+}
+
+.works ul {
+	margin:0;
+	padding: 0;
+	list-style: none;
+}
+
+.works li {
+	text-align: center;
+	font:normal normal .7em/1.2em "News";
+	padding-bottom: .3em;
+}
+
+/*biography*/
+
+.biography p {
+	font:normal normal .75em/1.2em "News";
+	text-indent: 0;
+	margin-bottom: 2em;
+}
+
+.biography p:last-child {
+	margin-bottom: 0;
+}
+
+/*acknowledgments*/
+
+.acknowledgments .container {
+	margin-top: 6em;
+} 
+
+.acknowledgments .container p {
+	font:normal normal .85em/1.4em "News";
+}
+
+.acknowledgments .container .org {
+	margin-bottom: 1em;
+	font-style: italic;
+}
+
+/*preface*/
+
+.preface .container {
+	margin-top: 4em;
+}
+
+.preface .pre-header {
+	font:normal normal 1em/1.23em "News";
+	margin-bottom: 2em;
+	text-align: center;
+}
+
+.preface p {
+	font:normal normal .81em/1.4em "News";
+	margin: 0 auto;
+	text-indent: 2em;
+}
+
+/*chapter*/
+
+.chapter .container  {
+	margin-top: 2em;
+}
+
+.part-header {
+	margin-bottom: 2em;
+	font:normal normal 1em/1.23em "News";
+	margin-bottom: 4em;
+	text-align: center;
+	
+}
+
+.chapter-header {
+	font:italic normal 1em/1.23em "News";
+	margin-bottom: 2em;
+	text-align: center;
+}
+
+.chapter p {
+	font:normal normal .81em/1.4em "News";
+	margin: 0 auto;
+	text-indent: 2em;
+}
+
+.poem {
+	margin:1em auto 1em 1.7em;
+}
+
+.poem span {
+	display: block;
+	font:normal normal .81em/1.4em "News";
+}
+
+.chapter .dialogue {
+	font-style: italic;
+}
+
+.chapter sub {
+	font-size: .7em;
+}
+
+.chapter .no-indent, .chapter .un-indent {
+	text-indent: 0
+}
+
+.chapter .margin-top {
+	margin-top: 1em;
+}
+
+.chapter .finish {
+	text-align: center;
+	margin-top: 1em;
+	text-indent: 0;
+}

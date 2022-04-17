@@ -1,0 +1,173 @@
+a {
+  text-decoration: none;
+  -webkit-text-fill-color: #7A7A7A;
+  color: #7A7A7A;
+}
+
+/*----H----*/
+h1 {
+  font: normal normal 1.3em/1.2em "Interstate";
+  margin-bottom: 6em;
+  margin-top: 2em;
+  text-align: center;
+}
+.part {
+  margin-top: 8em;
+  margin-bottom: 0;
+}
+.part span {
+  font: normal normal 0.6em "Swis721 Lt BT";
+}
+h2 {
+  font: normal normal 1em/1.2em "Interstate";
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
+/*----Künye----*/
+div.copyright {
+  margin-top: 0;
+  margin-left: 2em;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  font: normal normal 0.751em "Berkeley";
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-indent: 0;
+}
+/*Titlepage*/
+.titlepage, .center {
+  text-align: center;
+}
+.author {
+  font: normal bold 1.3em "Berkeley";
+  margin: 2em auto 0.2em auto;
+}
+.title {
+  font: normal bold 2.5em "Berkeley";
+  margin: 0;
+}
+.logo {
+  margin: 7em auto 0 auto;
+}
+/*----P----*/
+p {
+  font-family: "Berkeley";
+  font-size: 0.93em;
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.nonindent {
+  text-indent: 0;
+}
+.extract {
+  margin-top: 2em;
+  text-indent: 0;
+}
+/*----Block----*/
+.aut {
+  margin: 2em 1em 0 1em;
+  text-align: justify;
+}
+.aut p {
+  font-size: 0.851em;
+}
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+blockquote > p:first-child {
+  text-indent: 0;
+}
+blockquote p {
+  text-indent: 1.5em;
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  text-align: justify;
+}
+/******FOOTNOTE******/
+.footnotes > p.footnote:last-child {
+  margin-bottom: 0;
+}
+.footnotes {
+  margin-top: 4em;
+  text-align: justify;
+}
+.footnote {
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-bottom: 0.25em;
+  text-align: justify;
+  text-indent: 0;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/-webkit-text-fill-color: #000;
+  color: #000;
+  font-size: 1.1em;
+}
+.noteref {
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/-webkit-text-fill-color: #26474B;
+  color: #26474B;
+  font-size: 0.7em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+.picture {
+  max-width: 720px;
+  margin: 1em auto 0 auto;
+  page-break-inside: avoid;
+}
+.caption {
+  font: normal normal 0.741em/1.3em "Swis721 Lt BT";
+  margin: 0.75em 0;
+	text-indent:0;
+}
+/*****FONT*****/
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/BerkeleyBoldE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyItaE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyMediumE.ttf);
+  }
+@font-face {
+  font-family: "Swis721 Lt BT";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/Swiss721LightBT.ttf);
+  }
+@font-face {
+  font-family: "Interstate";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/Interstate-RegularCondensed.ttf);
+  }

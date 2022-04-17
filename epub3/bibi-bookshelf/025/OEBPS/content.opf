@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Küskün Kahvenin Türküsü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="McCullers, Carson">Carson McCullers</dc:creator>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>... Bir seven vardır, bir de sevilen. Ama bunlar başka başka beldelerin insanlarıdır. Sevilen çoğu zaman sevenin içinde uzun zamandır saklı duran sevgi için yalnızca bir uyanadır... En olağandışı kişiler bile sevgi için bir uyana olabilir... En sıradan birisi coşkun, ateşli ve bataklıktaki zehirli zambaklar kadar güzel bir sevginin nesnesi olabilir...
+
+Carson McCullers daha yirmi üç yaşında yazdığı Yalnız Bir Avcıdır Yürek ABD romanıyla ABD'deki edebiyat çevrelerinde adını duyurmuş ve gerçek olduğu kadar karamsar da olan bir varoluş felsefesi içeren yapıtlarıyla okuru, insanlık durumunun temelindeki ruhsal yalnızlığın derinlikleriyle tanıştırmıştı. Küskün Kahvenin Türküsünde ise daha önceki romanlarının ortak teması olan "sevgi felsefesi"ni daha da geliştirerek sevginin doğasına ilişkin gerçek bir kurama dönüştürür. Öykünün sonundaki "Oniki Ölümlü" zincirli mahkûmlar, tekdüzelikten kaçmayı nasıl bir türküde ararlarsa, yazarın kişileri de bu kaçışı sevgide ararlar.
+(Tanıtım Bülteninden)</dc:description>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{5A160F0F-8779-457D-B93A-CC92A2DF51BA}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-21</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">61477009-4b0f-4d21-9308-95a01cd04f5d</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id15" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id15">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

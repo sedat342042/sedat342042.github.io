@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="9786055510862" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>imami rabbani</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/Cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İmâm-ı Rabbânî</text>
+      </navLabel>
+      <content src="Text/02-Jenerik.html#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/03-01.html#toc_marker-2"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>GİRİŞ</text>
+        </navLabel>
+        <content src="Text/03-01.html#toc_marker-2-1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>I. Hint Altkıtası’nda İslâm ve Tasavvuf</text>
+      </navLabel>
+      <content src="Text/03-01.html#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>II. İmâm-ı Rabbânî Döneminde Hindistan</text>
+      </navLabel>
+      <content src="Text/03-01.html#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM İMÂM-I RABBÂNÎ’NİN HAYATI</text>
+      </navLabel>
+      <content src="Text/03-02.html#toc_marker-5"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>1. GENÇLİK DÖNEMİ</text>
+        </navLabel>
+        <content src="Text/03-02.html#toc_marker-5-1"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>2. ŞEYHLİK DÖNEMİ</text>
+        </navLabel>
+        <content src="Text/03-02.html#toc_marker-5-2"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>3. HAPSEDİLİŞİ</text>
+        </navLabel>
+        <content src="Text/03-02.html#toc_marker-5-3"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>4. HAYATININ SON DÖNEMİ VE VEFATI</text>
+        </navLabel>
+        <content src="Text/03-02.html#toc_marker-5-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM İMÂM-I RABBÂNÎ’DEN GERİYE KALANLAR</text>
+      </navLabel>
+      <content src="Text/03-03.html#toc_marker-6"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>1. ESERLERİ</text>
+        </navLabel>
+        <content src="Text/03-03.html#toc_marker-6-1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>A. Mektûbât</text>
+      </navLabel>
+      <content src="Text/03-03.html#toc_marker-7"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Mektûbât’ın Tercümeleri</text>
+        </navLabel>
+        <content src="Text/03-03.html#toc_marker-7-1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>B. Mebde’ ve Me‘âd</text>
+      </navLabel>
+      <content src="Text/03-03.html#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>C. Ma‘ârif-i Ledünniyye</text>
+      </navLabel>
+      <content src="Text/03-03.html#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>D. Mükâşefât-ı Gaybiyye</text>
+      </navLabel>
+      <content src="Text/03-03.html#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>E. İsbâtü’n-nübüvve</text>
+      </navLabel>
+      <content src="Text/03-03.html#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>F. Redd-i Şî‘a (veya Redd-i Revâfız)</text>
+      </navLabel>
+      <content src="Text/03-03.html#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>G. Risâle-i Tehlîliyye</text>
+      </navLabel>
+      <content src="Text/03-03.html#toc_marker-13"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>H. Ta‘lîkât ber Şerh-i Rubâ‘iyyât-ı Hâce Bâkî Billâh</text>
+      </navLabel>
+      <content src="Text/03-03.html#toc_marker-14"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>2. ÇOCUKLARI VE NESLİ</text>
+        </navLabel>
+        <content src="Text/03-03.html#toc_marker-14-1"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>3. HALİFELERİ</text>
+        </navLabel>
+        <content src="Text/03-03.html#toc_marker-14-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM İMÂM-I RABBÂNÎ’NİN KEŞİF VE KERAMETLERİ</text>
+      </navLabel>
+      <content src="Text/03-04.html#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM İMÂM-I RABBÂNÎ’NİN GÖRÜŞLERİ</text>
+      </navLabel>
+      <content src="Text/03-05.html#toc_marker-16"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>1. ZÂHİR-BÂTIN BÜTÜNLÜĞÜ</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-1"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>2. KUR’ÂN VE SÜNNETE BAĞLILIK</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-2"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>3. TASAVVUF YOLUNA GİRİŞ</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-3"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>4. ZİKİR</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-4"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>5. RUHUN MERTEBELERİ (LETÂİF)</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-5"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>6. MANEVÎ YOLCULUK</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-6"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>7. MANEVÎ YOLCULUĞUN AŞAMALARI</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-7"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>8. VARLIK MERTEBELERİ</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-8"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>9. VARLIĞIN BİRLİĞİ (VAHDET-İ VÜCÛD)</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-9"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>10. GÖRÜLENİN BİRLİĞİ</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-10"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>(VAHDET-İ ŞUHÛD)</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-11"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>11. BAZI SÛFÎLERİN YANILGILARI</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-12"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>12. MÜCEDDİDLİK VE BİD‘ATLERLE</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-13"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>MÜCADELE</text>
+        </navLabel>
+        <content src="Text/03-05.html#toc_marker-16-14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM İMÂM-I RABBÂNÎ’NİN ETKİ VE YANKILARI</text>
+      </navLabel>
+      <content src="Text/03-06.html#toc_marker-17"/>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>1. HİNT ALTKITASI’NDAKİ ETKİLERİ</text>
+        </navLabel>
+        <content src="Text/03-06.html#toc_marker-17-1"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>2. DİĞER BÖLGELERDEKİ ETKİLERİ</text>
+        </navLabel>
+        <content src="Text/03-06.html#toc_marker-17-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>ALTINCI BÖLÜM İMÂM-I RABBÂNÎ’NİN İBADET HAYATI</text>
+      </navLabel>
+      <content src="Text/03-07.html#toc_marker-18"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>YEDİNCİ BÖLÜM İMÂM-I RABBÂNÎ’NİN ESERLERİNDEN SEÇMELER</text>
+      </navLabel>
+      <content src="Text/03-08.html#toc_marker-19"/>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Mektûbât-ı İmâm-ı Rabbânî, Cilt: 1, 23. Mektup:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-1"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Cilt: 1, 24. Mektup:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-2"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Cilt: 1, 29. Mektup:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-3"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Cilt: 1, 30. Mektup:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-4"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Cilt: 1, 31. Mektup:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-5"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Cilt: 1, 33. Mektup:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-6"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Cilt: 1, 36. Mektup:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-7"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Cilt: 1, 41. Mektup:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-8"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Cilt: 1, 43. Mektup:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-9"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Mebde’ ve Me‘âd, 16. bölüm:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-10"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Mebde’ ve Me‘âd, 17. bölüm:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-11"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Mebde’ ve Me‘âd, 28. bölüm:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-12"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Ma‘ârif-i Ledünniyye, 37. bölüm:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-13"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Mükâşefât-ı Gaybiyye, 15. bölüm:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-14"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Mükâşefât-ı Gaybiyye, 28. bölüm:</text>
+        </navLabel>
+        <content src="Text/03-08.html#toc_marker-19-15"/>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>SONUÇ</text>
+          </navLabel>
+          <content src="Text/03-08.html#toc_marker-19-15-1"/>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>SEÇME BİBLİYOGRAFYA</text>
+          </navLabel>
+          <content src="Text/03-08.html#toc_marker-19-15-2"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

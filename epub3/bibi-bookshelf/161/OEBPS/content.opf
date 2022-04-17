@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>80 Günde Devr-i Âlem</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+    <dc:publisher>Sis Yayınları</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a792a3b0-4894-409e-a708-762801f6068c</dc:identifier>
+    <dc:date opf:event="modification">2014-04-14</dc:date>
+    <dc:description>&lt;p&gt;Phileas Fogg, kimsenin hakkında hiçbir şey bilmediği zengin ve kibar bir İngiliz beyefendisidir. Son derece düzenli bir hayat sürmesi, titiz ve dakik yaşayan biri olmasıyla ünlüdür. Bir gün, üyesi olduğu “Londra Bilim Kulübü”nde, gerçekleştirilmesi imkânsız gibi görünen bir konuda, servetini ortaya koyarak iddiaya girer: Dünyanın çevresini 80 günde dolaşacaktır, hem de önceden hiçbir ayarlama ve planlama yapmaksızın. Phileas Fogg'un bu seyahatte başından geçen serüvenlerin anlatıldığı Seksen Günde Devr-i Âlem, dünyada okunma rekorları kırmış bir kitaptır.
+&lt;/p&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">77a46de4-18f1-4fff-8c41-6ea84b66aa2d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756938829</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/80gundedevrialem_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/80gundedevrialem_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/80gundedevrialem_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/sisyayin.jpeg" id="added" media-type="image/jpeg"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-2" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

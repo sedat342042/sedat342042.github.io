@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Şimdi Değilse Ne Zaman</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Özkan, Nurdan">Nurdan Özkan</dc:creator>
+    <dc:description>&lt;p&gt;Neden bazı insanlar tarih sayfalarında muhteşem izler bırakır ve tarihin akışını değiştirirken, bazıları bir bardak su içmek için mutfağa gidip musluğun akışını değiştirecek gücü bile bulamazlar kendilerinde? 
+
+Nasıl oluyor da bazı söz dinlemeyen cesur ruhlu insanlar, tüm imkânsızlıklara rağmen bir çıkış yolu bulurken, bazıları ömrünün tamamını, burnundan tenis topu çıkararak Guinness Rekorlar kitabına girmek için harcıyor?
+
+Başlamak için neden pazartesiyi, ayın birinci gününü, yeni yılı, doğum gününü bekliyoruz?
+"Yarın Yaparım!" düşüncesi kocaman bir yalan ve ben soruyorum size, 
+
+"Şimdi Değilse, Ne Zaman?"&lt;/p&gt;</dc:description>
+    <dc:publisher>Çay Yayınları</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-10-01</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">07305654-b298-422f-913d-dc37ce2c9cb7</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786054663101</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="Text/8.html" id="x8" media-type="application/xhtml+xml"/>
+    <item href="Text/9.html" id="x9" media-type="application/xhtml+xml"/>
+    <item href="Text/9-1.html" id="x9-1" media-type="application/xhtml+xml"/>
+    <item href="Text/9-2.html" id="x9-2" media-type="application/xhtml+xml"/>
+    <item href="Text/9-3.html" id="x9-3" media-type="application/xhtml+xml"/>
+    <item href="Text/9-4.html" id="x9-4" media-type="application/xhtml+xml"/>
+    <item href="Text/9-5.html" id="x9-5" media-type="application/xhtml+xml"/>
+    <item href="Text/9-6.html" id="x9-6" media-type="application/xhtml+xml"/>
+    <item href="Text/9-7.html" id="x9-7" media-type="application/xhtml+xml"/>
+    <item href="Text/9-8.html" id="x9-8" media-type="application/xhtml+xml"/>
+    <item href="Text/9-9.html" id="x9-9" media-type="application/xhtml+xml"/>
+    <item href="Text/9-10.html" id="x9-10" media-type="application/xhtml+xml"/>
+    <item href="Text/9-11.html" id="x9-11" media-type="application/xhtml+xml"/>
+    <item href="Text/9-12.html" id="x9-12" media-type="application/xhtml+xml"/>
+    <item href="Text/9-13.html" id="x9-13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/cay_fmt.jpeg" id="cay_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/cayyayinlari_fmt.jpeg" id="cayyayinlari_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/image006_fmt.jpeg" id="image006_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/image007_fmt.jpeg" id="image007_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/image008_fmt.jpeg" id="image008_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/image009_fmt.jpeg" id="image009_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r1_fmt.jpeg" id="r1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r2_fmt.jpeg" id="r2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r3_fmt.jpeg" id="r3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r4_fmt.jpeg" id="r4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r5_fmt.jpeg" id="r5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r6_fmt.jpeg" id="r6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r7_fmt.jpeg" id="r7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r8_fmt.jpeg" id="r8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r9_fmt.jpeg" id="r9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r10_fmt.jpeg" id="r10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r11_fmt.jpeg" id="r11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r12_fmt.jpeg" id="r12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r13_fmt.jpeg" id="r13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r14_fmt.jpeg" id="r14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r15_fmt.jpeg" id="r15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r16_fmt.jpeg" id="r16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="ubWjwuoyF3AVvI7XikLJ5e9" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x8"/>
+    <itemref idref="x9"/>
+    <itemref idref="x9-1"/>
+    <itemref idref="x9-2"/>
+    <itemref idref="x9-3"/>
+    <itemref idref="x9-4"/>
+    <itemref idref="x9-5"/>
+    <itemref idref="x9-6"/>
+    <itemref idref="x9-7"/>
+    <itemref idref="x9-8"/>
+    <itemref idref="x9-9"/>
+    <itemref idref="x9-10"/>
+    <itemref idref="x9-11"/>
+    <itemref idref="x9-12"/>
+    <itemref idref="x9-13"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

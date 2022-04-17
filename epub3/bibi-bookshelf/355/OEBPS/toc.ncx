@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="5" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>ÇOCUKLARDA 
+ALT ISLATMA PROBLEMİ 
+VE 
+TUVALET EĞİTİMİ</text>
+			</navLabel>
+			<content src="Text/00_2_Kitap_ismi.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>ÖZGEÇMİŞ</text>
+			</navLabel>
+			<content src="Text/00_3_Ozgecmis.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>JENERİK</text>
+			</navLabel>
+			<content src="Text/00_4_Jenerik.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>ÖNSÖZ</text>
+			</navLabel>
+			<content src="Text/00_6_Onsoz.html#toc_marker-4"/>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>Kitap Ailelere Ne Kazandıracak?</text>
+				</navLabel>
+				<content src="Text/00_6_Onsoz.html#toc_marker-4-1"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>Kitap Psikolojik Danışmanlara ve 
+Sınıf Öğretmenlerine Ne Kazandıracak?</text>
+				</navLabel>
+				<content src="Text/00_6_Onsoz.html#toc_marker-4-2"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>Altını Islatan Çocuklar Bu Kitapla 
+Ne Kazanacaklar?</text>
+				</navLabel>
+				<content src="Text/00_6_Onsoz.html#toc_marker-4-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>Birinci Bölüm 
+ÇOCUKLARDA GECE ALT ISLATMA (ENÜREZİS NOCTURNA)</text>
+			</navLabel>
+			<content src="Text/01_Konu.html#toc_marker-5"/>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>Geşmişte Alt Islatma Problemi</text>
+				</navLabel>
+				<content src="Text/01_Konu.html#toc_marker-5-1"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>Günümüzde Alt Islatma Problemi</text>
+				</navLabel>
+				<content src="Text/01_Konu.html#toc_marker-5-2"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>Tanımlama</text>
+				</navLabel>
+				<content src="Text/01_Konu.html#toc_marker-5-3"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>Alt Islatma Probleminde Sınıflandırma</text>
+				</navLabel>
+				<content src="Text/01_Konu.html#toc_marker-5-4"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>Enürezis (Alt Islatma) Başlangıç Biçimi ve 
+Seyrine Göre İkiye Ayrılır</text>
+				</navLabel>
+				<content src="Text/01_Konu.html#toc_marker-5-5"/>
+				<navPoint id="navpoint14" playOrder="14">
+					<navLabel>
+						<text>1. Birincil Grup Alt Islatma Problemi</text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint15" playOrder="15">
+					<navLabel>
+						<text>2. İkincil Grup Alt Islatma Problemi</text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-5-2"/>
+					<navPoint id="navpoint16" playOrder="16">
+						<navLabel>
+							<text>Hangi Sıklıkta Görülür?</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-5-2-1"/>
+					</navPoint>
+					<navPoint id="navpoint17" playOrder="17">
+						<navLabel>
+							<text>Kendiliğinden Geçer mi?</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-5-2-2"/>
+					</navPoint>
+					<navPoint id="navpoint18" playOrder="18">
+						<navLabel>
+							<text>Alt Islatma Sebepleri Nelerdir?</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-5-2-3"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>A. Biyolojik Sebepler</text>
+				</navLabel>
+				<content src="Text/01_Konu.html#toc_marker-5-6"/>
+				<navPoint id="navpoint20" playOrder="20">
+					<navLabel>
+						<text>1. Ailesel Yatkınlık (Genetik)</text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-6-1"/>
+					<navPoint id="navpoint21" playOrder="21">
+						<navLabel>
+							<text>Alt ıslatma problemini önemseyin</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-1-1"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint22" playOrder="22">
+					<navLabel>
+						<text>2. Fizyolojik Problemler</text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-6-2"/>
+					<navPoint id="navpoint23" playOrder="23">
+						<navLabel>
+							<text>a) ‘İdrar Torbası’ Fizyolojisi Kaynaklı Problem</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-2-1"/>
+					</navPoint>
+					<navPoint id="navpoint24" playOrder="24">
+						<navLabel>
+							<text>b) Kas Sistemindeki Gelişmenin Gecikmesi</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-2-2"/>
+					</navPoint>
+					<navPoint id="navpoint25" playOrder="25">
+						<navLabel>
+							<text>c) Merkezi Sinir Sistemindeki Olgunlaşmanın Gecikmesi</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-2-3"/>
+					</navPoint>
+					<navPoint id="navpoint26" playOrder="26">
+						<navLabel>
+							<text>d) Uyku Kaynaklı Problemler</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-2-4"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint27" playOrder="27">
+					<navLabel>
+						<text>3. Organik Problemler </text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-6-3"/>
+					<navPoint id="navpoint28" playOrder="28">
+						<navLabel>
+							<text>a) İdrar Kaçırma - Sık İdrara Gitme</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-3-1"/>
+					</navPoint>
+					<navPoint id="navpoint29" playOrder="29">
+						<navLabel>
+							<text>b) Aşırı Aktif İdrar Torbası 
+(Kasılması Engellenemeyen İdrar Torbası)</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-3-2"/>
+					</navPoint>
+					<navPoint id="navpoint30" playOrder="30">
+						<navLabel>
+							<text>c) Endokrin Kaynaklı Problemler</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-3-3"/>
+					</navPoint>
+					<navPoint id="navpoint31" playOrder="31">
+						<navLabel>
+							<text>d) Geniz Eti, Kansızlık, İri Bademcikler</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-3-4"/>
+					</navPoint>
+					<navPoint id="navpoint32" playOrder="32">
+						<navLabel>
+							<text>e) İdrar yolu Enfeksiyonları</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-3-5"/>
+					</navPoint>
+					<navPoint id="navpoint33" playOrder="33">
+						<navLabel>
+							<text>f) Kronik Kabızlık</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-6-3-6"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint34" playOrder="34">
+					<navLabel>
+						<text>4. Gelişimsel Problemler</text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-6-4"/>
+				</navPoint>
+				<navPoint id="navpoint35" playOrder="35">
+					<navLabel>
+						<text>5. Hormonal Etkenler</text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-6-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint36" playOrder="36">
+				<navLabel>
+					<text>B. Psikososyal Sebepler</text>
+				</navLabel>
+				<content src="Text/01_Konu.html#toc_marker-5-7"/>
+				<navPoint id="navpoint37" playOrder="37">
+					<navLabel>
+						<text>1. Tuvalet Eğitimi ve Yanlışlar</text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-7-1"/>
+					<navPoint id="navpoint38" playOrder="38">
+						<navLabel>
+							<text>Tuvalete Sık Götürülen Çocuklarda İdrar Torbası Gelişmeyebilir</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-7-1-1"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint39" playOrder="39">
+					<navLabel>
+						<text>2. Zorlu Hayat Şartları</text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-7-2"/>
+				</navPoint>
+				<navPoint id="navpoint40" playOrder="40">
+					<navLabel>
+						<text>3. Yeni Doğan Kardeş </text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-7-3"/>
+				</navPoint>
+				<navPoint id="navpoint41" playOrder="41">
+					<navLabel>
+						<text>4. Aile İçi İletişim Eksikliği</text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-7-4"/>
+				</navPoint>
+				<navPoint id="navpoint42" playOrder="42">
+					<navLabel>
+						<text>5. Çocuğun Aşırı Korunması</text>
+					</navLabel>
+					<content src="Text/01_Konu.html#toc_marker-5-7-5"/>
+					<navPoint id="navpoint43" playOrder="43">
+						<navLabel>
+							<text>Alt Islatmaya Eşlik Eden Psikiyatrik Problemler</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-7-5-1"/>
+					</navPoint>
+					<navPoint id="navpoint44" playOrder="44">
+						<navLabel>
+							<text>Alt ıslatma (Enürezis) Riskini Arttıran Durumlar</text>
+						</navLabel>
+						<content src="Text/01_Konu.html#toc_marker-5-7-5-2"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint45" playOrder="45">
+			<navLabel>
+				<text>İkinci Bölüm 
+TEŞHİS VE TEDAVİ</text>
+			</navLabel>
+			<content src="Text/02_Konu.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint46" playOrder="46">
+			<navLabel>
+				<text>Problemin Teşhis ve Tedavisi</text>
+			</navLabel>
+			<content src="Text/02_Konu.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint47" playOrder="47">
+			<navLabel>
+				<text>Tedavi</text>
+			</navLabel>
+			<content src="Text/02_Konu.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint48" playOrder="48">
+			<navLabel>
+				<text>Aileye İdrar Yolu Enfeksiyonu ile İlgili Öneriler</text>
+			</navLabel>
+			<content src="Text/02_Konu.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint49" playOrder="49">
+			<navLabel>
+				<text>İşeme Takvimi Doldurma</text>
+			</navLabel>
+			<content src="Text/02_Konu.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint50" playOrder="50">
+			<navLabel>
+				<text>Gece Alt Islatma Tedavisinin Üç Biçimi </text>
+			</navLabel>
+			<content src="Text/02_Konu.html#toc_marker-11"/>
+			<navPoint id="navpoint51" playOrder="51">
+				<navLabel>
+					<text>1. Davranış Değiştirme Tedavisi </text>
+				</navLabel>
+				<content src="Text/02_Konu.html#toc_marker-11-1"/>
+				<navPoint id="navpoint52" playOrder="52">
+					<navLabel>
+						<text>a) Kayıt Tutma ve Ödüllendirme</text>
+					</navLabel>
+					<content src="Text/02_Konu.html#toc_marker-11-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint53" playOrder="53">
+					<navLabel>
+						<text>b) Sıvı Kısıtlanması ve Gece Uyandırma</text>
+					</navLabel>
+					<content src="Text/02_Konu.html#toc_marker-11-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint54" playOrder="54">
+					<navLabel>
+						<text>c) İdrar Torbası Eğitim Egzersizleri</text>
+					</navLabel>
+					<content src="Text/02_Konu.html#toc_marker-11-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint55" playOrder="55">
+					<navLabel>
+						<text>d) Alarm Cihazı Kullanarak Şartlandırma </text>
+					</navLabel>
+					<content src="Text/02_Konu.html#toc_marker-11-1-4"/>
+				</navPoint>
+				<navPoint id="navpoint56" playOrder="56">
+					<navLabel>
+						<text>e) Akupunktur Tedavisi</text>
+					</navLabel>
+					<content src="Text/02_Konu.html#toc_marker-11-1-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint57" playOrder="57">
+				<navLabel>
+					<text>2. İlaçla Tedavi</text>
+				</navLabel>
+				<content src="Text/02_Konu.html#toc_marker-11-2"/>
+				<navPoint id="navpoint58" playOrder="58">
+					<navLabel>
+						<text>Alt Islatma Tedavisi Kısırlık Yapar mı?</text>
+					</navLabel>
+					<content src="Text/02_Konu.html#toc_marker-11-2-1"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint59" playOrder="59">
+			<navLabel>
+				<text>Üçüncü Bölüm 
+TUVALET EĞİTİMİ DÖNEMİ VE PROBLEMLERİ</text>
+			</navLabel>
+			<content src="Text/03_Konu.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint60" playOrder="60">
+			<navLabel>
+				<text>Özerklik Dönemi</text>
+			</navLabel>
+			<content src="Text/03_Konu.html#toc_marker-13"/>
+			<navPoint id="navpoint61" playOrder="61">
+				<navLabel>
+					<text>Öyleyse, Özerklik Döneminde Biz Çocukları 
+Nasıl Ele Almalıyız? </text>
+				</navLabel>
+				<content src="Text/03_Konu.html#toc_marker-13-1"/>
+				<navPoint id="navpoint62" playOrder="62">
+					<navLabel>
+						<text>Tuvalet Eğitimi Ne Zaman Başlamalı?</text>
+					</navLabel>
+					<content src="Text/03_Konu.html#toc_marker-13-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint63" playOrder="63">
+					<navLabel>
+						<text>Tuvalet Eğitimine Hazır Olduğunu Gösteren İpuçları</text>
+					</navLabel>
+					<content src="Text/03_Konu.html#toc_marker-13-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint64" playOrder="64">
+					<navLabel>
+						<text>Tuvalet Eğitimi Sürecine Nasıl Başlamalısınız?</text>
+					</navLabel>
+					<content src="Text/03_Konu.html#toc_marker-13-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint65" playOrder="65">
+					<navLabel>
+						<text>Çocuğunuzu Övgülerinizle Ödüllendirin</text>
+					</navLabel>
+					<content src="Text/03_Konu.html#toc_marker-13-1-4"/>
+				</navPoint>
+				<navPoint id="navpoint66" playOrder="66">
+					<navLabel>
+						<text>Tuvalet Eğitimi Ne Kadar Sürer? </text>
+					</navLabel>
+					<content src="Text/03_Konu.html#toc_marker-13-1-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint67" playOrder="67">
+				<navLabel>
+					<text>Yardımcı Olacak İpuçları</text>
+				</navLabel>
+				<content src="Text/03_Konu.html#toc_marker-13-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint68" playOrder="68">
+			<navLabel>
+				<text>Dördüncü Bölüm 
+PSİKOLOJİK DANIŞMAN VE PSİKOLOG UYGULAMALARI İÇİN 
+ÖRNEK TAKİP AŞAMALARI VE FORMLARI</text>
+			</navLabel>
+			<content src="Text/04_Konu.html#toc_marker-14"/>
+		</navPoint>
+		<navPoint id="navpoint69" playOrder="69">
+			<navLabel>
+				<text>Psikolojik Danışmanlık Servisinin Alt Islatma Problemini Okul Genelinde Ele Alış Yöntemi</text>
+			</navLabel>
+			<content src="Text/04_Konu.html#toc_marker-15"/>
+		</navPoint>
+		<navPoint id="navpoint70" playOrder="70">
+			<navLabel>
+				<text>Veli Seminer Programı Duyurusu</text>
+			</navLabel>
+			<content src="Text/04_Konu.html#toc_marker-16"/>
+		</navPoint>
+		<navPoint id="navpoint71" playOrder="71">
+			<navLabel>
+				<text>Örnek Geri Dönüş Formu</text>
+			</navLabel>
+			<content src="Text/04_Konu.html#toc_marker-17"/>
+		</navPoint>
+		<navPoint id="navpoint72" playOrder="72">
+			<navLabel>
+				<text>KAYNAKÇA</text>
+			</navLabel>
+			<content src="Text/05_Kaynakca.html#toc_marker-18"/>
+		</navPoint>
+	</navMap>
+</ncx>

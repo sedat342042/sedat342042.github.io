@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:8fae13e5-2e53-4144-9654-8b51936d669c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Faydacılık</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Editörün Önsözü</text>
+      </navLabel>
+      <content src="Text/ed_onsoz.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/ithaf.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>I Felsefenin İkilemi</text>
+      </navLabel>
+      <content src="Text/01.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>II Faydacılığın Anlamı</text>
+      </navLabel>
+      <content src="Text/02.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>III Faydacılığın Metafizik Sorunlara Yaklaşımı</text>
+      </navLabel>
+      <content src="Text/03.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>IV Tekillik ve Çoğulluk</text>
+      </navLabel>
+      <content src="Text/04.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>V Faydacılık ve Sağduyu</text>
+      </navLabel>
+      <content src="Text/05.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>VI Faydacılığın Gerçeğe Yaklaşımı</text>
+      </navLabel>
+      <content src="Text/06.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>VII Faydacılık ve Hümanizm</text>
+      </navLabel>
+      <content src="Text/07.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>VIII Faydacılık ve Din</text>
+      </navLabel>
+      <content src="Text/08.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Gerçeğin Anlamı</text>
+      </navLabel>
+      <content src="Text/09.htm"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Önsöz</text>
+        </navLabel>
+        <content src="Text/09.htm#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Kavrama Fonksiyonu</text>
+        </navLabel>
+        <content src="Text/10.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Hint Kaplanları</text>
+        </navLabel>
+        <content src="Text/11.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Hümanizm ve Gerçek</text>
+        </navLabel>
+        <content src="Text/12.htm"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="3" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>KALBLERİN GÜNEŞİ</text>
+			</navLabel>
+			<content src="Text/Kalbin_Gunesi.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>ÖNSÖZ</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-1.html#toc_marker-1-1"/>
+			</navPoint>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>Kâinatın Efendimiz’e Şehadeti</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-2.html#toc_marker-1-2"/>
+				<navPoint id="navpoint4" playOrder="4">
+					<navLabel>
+						<text>Kâinat Tezgâhı</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-2.html#toc_marker-1-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint5" playOrder="5">
+					<navLabel>
+						<text>Kâinat Kitabı</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-2.html#toc_marker-1-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint6" playOrder="6">
+					<navLabel>
+						<text>Kâinatın Temsilcisi</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-2.html#toc_marker-1-2-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>Mantıkî Deliller</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-3.html#toc_marker-1-3"/>
+				<navPoint id="navpoint8" playOrder="8">
+					<navLabel>
+						<text>Murad-ı İlâhî</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-3.html#toc_marker-1-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint9" playOrder="9">
+					<navLabel>
+						<text>Bilen Konuşur</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-3.html#toc_marker-1-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint10" playOrder="10">
+					<navLabel>
+						<text>Güneşin Işığı</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-3.html#toc_marker-1-3-3"/>
+				</navPoint>
+				<navPoint id="navpoint11" playOrder="11">
+					<navLabel>
+						<text>Şeytanı Susturan Delil</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-3.html#toc_marker-1-3-4"/>
+				</navPoint>
+				<navPoint id="navpoint12" playOrder="12">
+					<navLabel>
+						<text>İlk Yaratılan</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-3.html#toc_marker-1-3-5"/>
+				</navPoint>
+				<navPoint id="navpoint13" playOrder="13">
+					<navLabel>
+						<text>Cisimleşmiş Rahmet</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-3.html#toc_marker-1-3-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>İçtimâî Deliller</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-4.html#toc_marker-1-4"/>
+				<navPoint id="navpoint15" playOrder="15">
+					<navLabel>
+						<text>Beşere Peygamber</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-4.html#toc_marker-1-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint16" playOrder="16">
+					<navLabel>
+						<text>İslâm Ağacı</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-4.html#toc_marker-1-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint17" playOrder="17">
+					<navLabel>
+						<text>Medine</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-4.html#toc_marker-1-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint18" playOrder="18">
+					<navLabel>
+						<text>O’nun Olmadığı Hayat</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-4.html#toc_marker-1-4-4"/>
+				</navPoint>
+				<navPoint id="navpoint19" playOrder="19">
+					<navLabel>
+						<text>Nefse Zor Gelmesine Bakılmaması</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-4.html#toc_marker-1-4-5"/>
+				</navPoint>
+				<navPoint id="navpoint20" playOrder="20">
+					<navLabel>
+						<text>İsabeti</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-4.html#toc_marker-1-4-6"/>
+				</navPoint>
+				<navPoint id="navpoint21" playOrder="21">
+					<navLabel>
+						<text>Varlığın En Sevileni</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-4.html#toc_marker-1-4-7"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint22" playOrder="22">
+				<navLabel>
+					<text>Tarihî Deliller</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-5.html#toc_marker-1-5"/>
+				<navPoint id="navpoint23" playOrder="23">
+					<navLabel>
+						<text>Hayatının Tafsilatının Bilinmesi</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-5.html#toc_marker-1-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint24" playOrder="24">
+					<navLabel>
+						<text>Vahşi’yi ve İkrime’yi Kabulü</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-5.html#toc_marker-1-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint25" playOrder="25">
+					<navLabel>
+						<text>Tevhidle Başlaması</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-5.html#toc_marker-1-5-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>Vahyî Deliller</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-6.html#toc_marker-1-6"/>
+				<navPoint id="navpoint27" playOrder="27">
+					<navLabel>
+						<text>Kur’ân’ın Taklit Edilmez İfadeleri</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-6.html#toc_marker-1-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint28" playOrder="28">
+					<navLabel>
+						<text>Fârân Dağları </text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-6.html#toc_marker-1-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint29" playOrder="29">
+					<navLabel>
+						<text>Âlemin Reisi ve Faraklit </text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-6.html#toc_marker-1-6-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>Hayat-ı Seniyyelerinin Şehadeti</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7"/>
+				<navPoint id="navpoint31" playOrder="31">
+					<navLabel>
+						<text>Kabukta Bulunmaz</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-1"/>
+				</navPoint>
+				<navPoint id="navpoint32" playOrder="32">
+					<navLabel>
+						<text>Kudret Eli</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-2"/>
+				</navPoint>
+				<navPoint id="navpoint33" playOrder="33">
+					<navLabel>
+						<text>Soya Emanet</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-3"/>
+				</navPoint>
+				<navPoint id="navpoint34" playOrder="34">
+					<navLabel>
+						<text>Tereddüde Düşmemesi</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-4"/>
+				</navPoint>
+				<navPoint id="navpoint35" playOrder="35">
+					<navLabel>
+						<text>Servetinin Artmaması</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-5"/>
+				</navPoint>
+				<navPoint id="navpoint36" playOrder="36">
+					<navLabel>
+						<text>İbadet Israrı</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-6"/>
+				</navPoint>
+				<navPoint id="navpoint37" playOrder="37">
+					<navLabel>
+						<text>Daveti</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-7"/>
+				</navPoint>
+				<navPoint id="navpoint38" playOrder="38">
+					<navLabel>
+						<text>Mütevaziliği</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-8"/>
+				</navPoint>
+				<navPoint id="navpoint39" playOrder="39">
+					<navLabel>
+						<text>Yalana Düşmanlığı</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-9"/>
+				</navPoint>
+				<navPoint id="navpoint40" playOrder="40">
+					<navLabel>
+						<text>İhlâsı</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-10"/>
+				</navPoint>
+				<navPoint id="navpoint41" playOrder="41">
+					<navLabel>
+						<text>Tefekkürü</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-11"/>
+				</navPoint>
+				<navPoint id="navpoint42" playOrder="42">
+					<navLabel>
+						<text>Hassasiyetleri ve Nezaketi</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-12"/>
+				</navPoint>
+				<navPoint id="navpoint43" playOrder="43">
+					<navLabel>
+						<text>Şefkati</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-13"/>
+				</navPoint>
+				<navPoint id="navpoint44" playOrder="44">
+					<navLabel>
+						<text>Yumuşak Huyluluğu</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-14"/>
+				</navPoint>
+				<navPoint id="navpoint45" playOrder="45">
+					<navLabel>
+						<text>Cesareti</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-15"/>
+				</navPoint>
+				<navPoint id="navpoint46" playOrder="46">
+					<navLabel>
+						<text>Makulü Makbul Tutması</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-16"/>
+				</navPoint>
+				<navPoint id="navpoint47" playOrder="47">
+					<navLabel>
+						<text>İffet Ufku</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-17"/>
+				</navPoint>
+				<navPoint id="navpoint48" playOrder="48">
+					<navLabel>
+						<text>Cömertliği</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-7.html#toc_marker-1-7-18"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint49" playOrder="49">
+				<navLabel>
+					<text>Talebelerini Çıkardığı Ufuk </text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8"/>
+				<navPoint id="navpoint50" playOrder="50">
+					<navLabel>
+						<text>Hz. Ebûbekir’in Halifeliğine İlk Tepkisi</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-1"/>
+				</navPoint>
+				<navPoint id="navpoint51" playOrder="51">
+					<navLabel>
+						<text>Hz. Ömer’in Tevazuu ve Hakperestliği</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-2"/>
+				</navPoint>
+				<navPoint id="navpoint52" playOrder="52">
+					<navLabel>
+						<text>Hz. Ali ile Bir Hıristiyan’ın Mahkemesi </text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-3"/>
+				</navPoint>
+				<navPoint id="navpoint53" playOrder="53">
+					<navLabel>
+						<text>Savaş Meydanındaki Su </text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-4"/>
+				</navPoint>
+				<navPoint id="navpoint54" playOrder="54">
+					<navLabel>
+						<text>Âhirete Temiz Gitme Gayretleri ve Adalet Anlayışları</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-5"/>
+				</navPoint>
+				<navPoint id="navpoint55" playOrder="55">
+					<navLabel>
+						<text>Gayr-i Müslime Maaş</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-6"/>
+				</navPoint>
+				<navPoint id="navpoint56" playOrder="56">
+					<navLabel>
+						<text>Hayvanlara Şefkatleri</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-7"/>
+				</navPoint>
+				<navPoint id="navpoint57" playOrder="57">
+					<navLabel>
+						<text>Allah (celle celâluhû) Yolunda Fedakârlıkları</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-8"/>
+				</navPoint>
+				<navPoint id="navpoint58" playOrder="58">
+					<navLabel>
+						<text>Ömer Efendimiz ve Yaşlı Kadın</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-9"/>
+				</navPoint>
+				<navPoint id="navpoint59" playOrder="59">
+					<navLabel>
+						<text>İnsanlara Değil Günaha Düşmanlık</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-10"/>
+				</navPoint>
+				<navPoint id="navpoint60" playOrder="60">
+					<navLabel>
+						<text>Edep Ufukları</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-11"/>
+				</navPoint>
+				<navPoint id="navpoint61" playOrder="61">
+					<navLabel>
+						<text>Tevazu Zirveleri</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-12"/>
+				</navPoint>
+				<navPoint id="navpoint62" playOrder="62">
+					<navLabel>
+						<text>İbadet Aşkları</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-13"/>
+				</navPoint>
+				<navPoint id="navpoint63" playOrder="63">
+					<navLabel>
+						<text>Gönülleri Gibi Gülen Yüzleri</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-14"/>
+				</navPoint>
+				<navPoint id="navpoint64" playOrder="64">
+					<navLabel>
+						<text>İlme Düşkünlükleri</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-15"/>
+				</navPoint>
+				<navPoint id="navpoint65" playOrder="65">
+					<navLabel>
+						<text>Köle Almak Köle Olmak</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-8.html#toc_marker-1-8-16"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint66" playOrder="66">
+				<navLabel>
+					<text>Savaşları</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-9.html#toc_marker-1-9"/>
+				<navPoint id="navpoint67" playOrder="67">
+					<navLabel>
+						<text>Galip Olması</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-9.html#toc_marker-1-9-1"/>
+				</navPoint>
+				<navPoint id="navpoint68" playOrder="68">
+					<navLabel>
+						<text> Diğer Komutanlardan Farkı</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-9.html#toc_marker-1-9-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint69" playOrder="69">
+				<navLabel>
+					<text>Mu’cizeler</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-10.html#toc_marker-1-10"/>
+				<navPoint id="navpoint70" playOrder="70">
+					<navLabel>
+						<text> Mu’cizelerin Hikmeti</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-10.html#toc_marker-1-10-1"/>
+				</navPoint>
+				<navPoint id="navpoint71" playOrder="71">
+					<navLabel>
+						<text>Temsilciler</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-10.html#toc_marker-1-10-2"/>
+				</navPoint>
+				<navPoint id="navpoint72" playOrder="72">
+					<navLabel>
+						<text>“Evet”den Daha Öte</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-10.html#toc_marker-1-10-3"/>
+				</navPoint>
+				<navPoint id="navpoint73" playOrder="73">
+					<navLabel>
+						<text>Göklerin Takviyesi</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-10.html#toc_marker-1-10-4"/>
+				</navPoint>
+				<navPoint id="navpoint74" playOrder="74">
+					<navLabel>
+						<text>Güçlü İp</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-10.html#toc_marker-1-10-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint75" playOrder="75">
+				<navLabel>
+					<text>Gaybî Haberler</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-11.html#toc_marker-1-11"/>
+				<navPoint id="navpoint76" playOrder="76">
+					<navLabel>
+						<text>Genel Olarak</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-11.html#toc_marker-1-11-1"/>
+				</navPoint>
+				<navPoint id="navpoint77" playOrder="77">
+					<navLabel>
+						<text>Fetihler</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-11.html#toc_marker-1-11-2"/>
+				</navPoint>
+				<navPoint id="navpoint78" playOrder="78">
+					<navLabel>
+						<text>Kisra’nın Bilezikleri</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-11.html#toc_marker-1-11-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint79" playOrder="79">
+				<navLabel>
+					<text>Bereket Mu’cizeleri</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-12.html#toc_marker-1-12"/>
+				<navPoint id="navpoint80" playOrder="80">
+					<navLabel>
+						<text>Savaştaki Bereket</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-12.html#toc_marker-1-12-1"/>
+				</navPoint>
+				<navPoint id="navpoint81" playOrder="81">
+					<navLabel>
+						<text>Rahmet Musluğu Parmaklar</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-12.html#toc_marker-1-12-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint82" playOrder="82">
+				<navLabel>
+					<text>Şifâ Mu’cizeleri</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-13.html#toc_marker-1-13"/>
+				<navPoint id="navpoint83" playOrder="83">
+					<navLabel>
+						<text>Şifâ Eli</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-13.html#toc_marker-1-13-1"/>
+				</navPoint>
+				<navPoint id="navpoint84" playOrder="84">
+					<navLabel>
+						<text>Açılan Göz</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-13.html#toc_marker-1-13-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint85" playOrder="85">
+				<navLabel>
+					<text>Hayvanlarla İlgili Mu’cizeler</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-14.html#toc_marker-1-14"/>
+				<navPoint id="navpoint86" playOrder="86">
+					<navLabel>
+						<text>Kurt Hâdisesi</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-14.html#toc_marker-1-14-1"/>
+				</navPoint>
+				<navPoint id="navpoint87" playOrder="87">
+					<navLabel>
+						<text>Aslanın Hâli</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-14.html#toc_marker-1-14-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint88" playOrder="88">
+				<navLabel>
+					<text>Ağaçlarla İlgili Mu’cizeler</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-15.html#toc_marker-1-15"/>
+				<navPoint id="navpoint89" playOrder="89">
+					<navLabel>
+						<text>Ağacın Şâhidliği</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-15.html#toc_marker-1-15-1"/>
+				</navPoint>
+				<navPoint id="navpoint90" playOrder="90">
+					<navLabel>
+						<text>İnleyen Kütük</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-15.html#toc_marker-1-15-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint91" playOrder="91">
+				<navLabel>
+					<text>Taşlarla İlgili Mu’cizeler</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-16.html#toc_marker-1-16"/>
+				<navPoint id="navpoint92" playOrder="92">
+					<navLabel>
+						<text>Taşların Zikri</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-16.html#toc_marker-1-16-1"/>
+				</navPoint>
+				<navPoint id="navpoint93" playOrder="93">
+					<navLabel>
+						<text>Taşlar Gülle Gibi</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-16.html#toc_marker-1-16-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint94" playOrder="94">
+				<navLabel>
+					<text>Mu’cizevî Dualar</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-17.html#toc_marker-1-17"/>
+				<navPoint id="navpoint95" playOrder="95">
+					<navLabel>
+						<text>Yağmur Duası</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-17.html#toc_marker-1-17-1"/>
+				</navPoint>
+				<navPoint id="navpoint96" playOrder="96">
+					<navLabel>
+						<text>Duasının Tesiri</text>
+					</navLabel>
+					<content src="Text/Kalbin_Gunesi-17.html#toc_marker-1-17-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint97" playOrder="97">
+				<navLabel>
+					<text>Sonuç Olarak</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-18.html#toc_marker-1-18"/>
+			</navPoint>
+			<navPoint id="navpoint98" playOrder="98">
+				<navLabel>
+					<text>KAYNAKLAR</text>
+				</navLabel>
+				<content src="Text/Kalbin_Gunesi-19.html#toc_marker-1-19"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

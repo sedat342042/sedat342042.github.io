@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Külah</dc:title>
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Seyfettin, Ömer &amp; Demirkapı, Hüseyin">Ömer Seyfettin</dc:creator>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">Hüseyin Demirkapı</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">a1e664c1-127f-46e4-b885-74c7a3f1efbf</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="22_Kulah.xhtml" id="x22_Kulah" media-type="application/xhtml+xml"/>
+    <item href="22_Kulah-1.xhtml" id="x22_Kulah-1" media-type="application/xhtml+xml"/>
+    <item href="22_Kulah-2.xhtml" id="x22_Kulah-2" media-type="application/xhtml+xml"/>
+    <item href="22_Kulah-3.xhtml" id="x22_Kulah-3" media-type="application/xhtml+xml"/>
+    <item href="22_Kulah-4.xhtml" id="x22_Kulah-4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/22_Kulah.css" id="x22_Kulah.css" media-type="text/css"/>
+    <item href="image/22_Kulah_Kapak_arka_fmt.jpeg" id="x22_Kulah_Kapak_arka_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/22_Kulah_Kapak_on.jpg" id="x22_Kulah_Kapak_on.jpg" media-type="image/jpeg"/>
+    <item href="image/cicek_bolumsonu_fmt.jpeg" id="cicek_bolumsonu_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/cicek_bolumsonu_fmt1.jpeg" id="cicek_bolumsonu_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/cicek_bolumsonu_fmt2.jpeg" id="cicek_bolumsonu_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/KacYerinden_01_fmt.jpeg" id="KacYerinden_01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/KacYerinden_02_fmt.jpeg" id="KacYerinden_02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/KacYerinden_03_fmt.jpeg" id="KacYerinden_03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/KizilElma_01_fmt.jpeg" id="KizilElma_01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/KizilElma_02_fmt.jpeg" id="KizilElma_02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/KizilElma_03_fmt.jpeg" id="KizilElma_03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/KizilElma_04_fmt.jpeg" id="KizilElma_04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kulah_01_fmt.jpeg" id="Kulah_01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kulah_02_fmt.jpeg" id="Kulah_02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kulah_03_fmt.jpeg" id="Kulah_03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kulah_03_fmt1.jpeg" id="Kulah_03_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kulah_04_fmt.jpeg" id="Kulah_04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kulah_05_fmt.jpeg" id="Kulah_05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/UzunOmer_01_fmt.jpeg" id="UzunOmer_01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_fmt.jpeg" id="ZambakLogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS.ttf" id="TrebuchetMS.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x22_Kulah"/>
+    <itemref idref="x22_Kulah-1"/>
+    <itemref idref="x22_Kulah-2"/>
+    <itemref idref="x22_Kulah-3"/>
+    <itemref idref="x22_Kulah-4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

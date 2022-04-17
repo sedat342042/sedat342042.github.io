@@ -1,0 +1,374 @@
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.bold-E {
+	font-weight : bold;
+	font-style : normal;
+	color : #000000;
+}
+span.Preference-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.96em;
+	font-variant : normal;
+	vertical-align : super;
+	color : #000000;
+}
+span.char-style-override-1 {
+	font-size : 0.84em;
+}
+span.char-style-override-2 {
+	font-family : "Galliard BT", serif;
+	font-style : normal;
+	font-weight : normal;
+}
+p.Kitap-ism-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 2em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 0px 0px;
+}
+p.yazar-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 43px 0px;
+}
+p.x1-baslik-E {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 142px 0px 85px 0px;
+}
+p.biyografi-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.79em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.37;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 1px 0px;
+}
+p.jenerik-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 0px 0px;
+}
+p.copy {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 0px 0px;
+}
+p.a--Paragraf-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.21;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px 0px 3px 0px;
+}
+p.resim-yazi-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px;
+}
+p.x2-baslik-E {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 17px 0px 11px 0px;
+}
+p.Basic-Paragraph {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+	direction : rtl;
+}
+p.b--Paragraf-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : -14px;
+	margin : 0px 0px 1px 14px;
+}
+p.Tabloyazilari-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Spot-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.27;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px 6px 28px;
+}
+p.x3-baslik-E {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : italic;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 11px 0px 9px 0px;
+}
+p.x4-baslik-E {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 11px 0px 6px 0px;
+}
+p.Madde-----E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.21;
+	text-align : justify;
+	color : #000000;
+	text-indent : -20px;
+	margin : 0px 0px 3px 40px;
+}
+p.x5-baslik-E {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : italic;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 6px 0px;
+}
+p.Harici-Baslik-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.12;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 9px 0px 3px 0px;
+}
+p.x6-baslik-E {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px 3px 0px;
+}
+p.Tablolar-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 6px 0px;
+}
+p.Kaynakca-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.4;
+	text-align : justify;
+	color : #000000;
+	text-indent : -20px;
+	margin : 0px 0px 3px 20px;
+}
+p.para-style-override-1 {
+	text-align : right;
+}
+p.para-style-override-2 {
+	text-align : left;
+}
+p.para-style-override-3 {
+	text-align : justify;
+}
+table.No-Table-Style {
+	border-collapse : collapse;
+	border-width : 1px;
+	border-style : solid;
+	border-color : #000000;
+	margin-top : 4px;
+	margin-bottom : -4px;
+}
+table.Basic-Table {
+	border-collapse : collapse;
+	border-width : 1px;
+	border-style : solid;
+	border-color : #000000;
+	margin-top : 4px;
+	margin-bottom : -4px;
+}
+table.table-style-override-1 {
+	border-collapse : collapse;
+	border-style : none;
+	border-width : 0px;
+}
+table.table-style-override-2 {
+	border-collapse : collapse;
+	border-style : double;
+	border-width : 0.75px;
+}
+td.cell-style-override-1 {
+	padding-bottom : 0px;
+	padding-left : 0px;
+	padding-right : 0px;
+	padding-top : 0px;
+}
+td.cell-style-override-2 {
+	padding-bottom : 0px;
+	padding-left : 5px;
+	padding-right : 0px;
+	padding-top : 0px;
+}
+td.cell-style-override-3 {
+	padding-bottom : 0px;
+	padding-left : 3px;
+	padding-right : 0px;
+	padding-top : 0px;
+}
+td.cell-style-override-4 {
+	padding-left : 0px;
+}
+td.cell-style-override-5 {
+	padding-bottom : 0px;
+	padding-left : 1px;
+	padding-right : 0px;
+	padding-top : 0px;
+}
+div.Basic-Text-Frame {
+}

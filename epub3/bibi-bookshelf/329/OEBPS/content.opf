@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Çanakkale Geçilmez</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Apuhan, Recep Şükrü">Recep Şükrü Apuhan</dc:creator>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">975-263-140-1</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">65843f13-5245-45d8-9539-961a7bb41888</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="canakkalegecilmez-kapak.html" id="canakkalegecilmez-kapak" media-type="application/xhtml+xml"/>
+    <item href="canakkalegecilmez-epub.html" id="canakkalegecilmez-epub" media-type="application/xhtml+xml"/>
+    <item href="canakkalegecilmez-epub-1.html" id="canakkalegecilmez-epub-1" media-type="application/xhtml+xml"/>
+    <item href="canakkalegecilmez-epub-2.html" id="canakkalegecilmez-epub-2" media-type="application/xhtml+xml"/>
+    <item href="canakkalegecilmez-epub-3.html" id="canakkalegecilmez-epub-3" media-type="application/xhtml+xml"/>
+    <item href="canakkalegecilmez-epub-4.html" id="canakkalegecilmez-epub-4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/11TABU1_fmt.jpeg" id="x11TABU1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/14A_fmt.jpeg" id="x14A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/20A_fmt.jpeg" id="x20A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/26A_fmt.png" id="x26A_fmt.png" media-type="image/png"/>
+    <item href="images/36A_fmt.jpeg" id="x36A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/36B_fmt.jpeg" id="x36B_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/36C_fmt.jpeg" id="x36C_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/36D_fmt.jpeg" id="x36D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/36F_fmt.jpeg" id="x36F_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/46A_fmt.jpeg" id="x46A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/52A_fmt.jpeg" id="x52A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/54A_fmt.png" id="x54A_fmt.png" media-type="image/png"/>
+    <item href="images/58A_fmt.jpeg" id="x58A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/62A_fmt.jpeg" id="x62A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/67A_fmt.jpeg" id="x67A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/88A_fmt.png" id="x88A_fmt.png" media-type="image/png"/>
+    <item href="images/94A_fmt.jpeg" id="x94A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/98A_fmt.jpeg" id="x98A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/98B_fmt.jpeg" id="x98B_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/107A_fmt.jpeg" id="x107A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/116A_fmt.jpeg" id="x116A_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/119_fmt.png" id="x119_fmt.png" media-type="image/png"/>
+    <item href="images/131_fmt.jpeg" id="x131_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/134_fmt.jpeg" id="x134_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/145_fmt.png" id="x145_fmt.png" media-type="image/png"/>
+    <item href="images/149B_fmt.jpeg" id="x149B_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/155_fmt.png" id="x155_fmt.png" media-type="image/png"/>
+    <item href="images/169_fmt.png" id="x169_fmt.png" media-type="image/png"/>
+    <item href="images/anzak_fmt.jpeg" id="anzak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/ataturk_fmt.jpeg" id="ataturk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/canakkalegecilmez-dis.jpg" id="canakkalegecilmez-dis.jpg" media-type="image/jpeg"/>
+    <item href="images/canakkalegecilmez-ic_fmt.jpeg" id="canakkalegecilmez-ic_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/ek2_fmt.jpeg" id="ek2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/ek4_fmt.jpeg" id="ek4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/ek5_fmt.png" id="ek5_fmt.png" media-type="image/png"/>
+    <item href="images/ek6_fmt.jpeg" id="ek6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/ek7_fmt.png" id="ek7_fmt.png" media-type="image/png"/>
+    <item href="images/ek8_fmt.jpeg" id="ek8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/ek9_fmt.png" id="ek9_fmt.png" media-type="image/png"/>
+    <item href="images/ek10_fmt.png" id="ek10_fmt.png" media-type="image/png"/>
+    <item href="images/enson01_fmt.jpeg" id="enson01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/enson02_fmt.png" id="enson02_fmt.png" media-type="image/png"/>
+    <item href="images/nokta_fmt.png" id="nokta_fmt.png" media-type="image/png"/>
+    <item href="images/nokta_fmt1.png" id="nokta_fmt1.png" media-type="image/png"/>
+    <item href="images/nokta_fmt2.png" id="nokta_fmt2.png" media-type="image/png"/>
+    <item href="images/nokta_fmt3.png" id="nokta_fmt3.png" media-type="image/png"/>
+    <item href="images/nusret_fmt.jpeg" id="nusret_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf15_fmt.jpeg" id="sf15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf18_fmt.jpeg" id="sf18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf23_fmt.jpeg" id="sf23_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf28_fmt.png" id="sf28_fmt.png" media-type="image/png"/>
+    <item href="images/sf29_fmt.jpeg" id="sf29_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf32_fmt.png" id="sf32_fmt.png" media-type="image/png"/>
+    <item href="images/sf33_fmt.png" id="sf33_fmt.png" media-type="image/png"/>
+    <item href="images/sf35_fmt.png" id="sf35_fmt.png" media-type="image/png"/>
+    <item href="images/sf41_fmt.jpeg" id="sf41_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf49_fmt.jpeg" id="sf49_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf60_fmt.jpeg" id="sf60_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf63_fmt.png" id="sf63_fmt.png" media-type="image/png"/>
+    <item href="images/sf65_fmt.jpeg" id="sf65_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf69_fmt.png" id="sf69_fmt.png" media-type="image/png"/>
+    <item href="images/sf70_fmt.png" id="sf70_fmt.png" media-type="image/png"/>
+    <item href="images/sf76_fmt.jpeg" id="sf76_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf83_fmt.png" id="sf83_fmt.png" media-type="image/png"/>
+    <item href="images/sf89_fmt.jpeg" id="sf89_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf105_fmt.jpeg" id="sf105_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf109_fmt.png" id="sf109_fmt.png" media-type="image/png"/>
+    <item href="images/sf146_fmt.png" id="sf146_fmt.png" media-type="image/png"/>
+    <item href="images/sf163_fmt.jpeg" id="sf163_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf176_fmt.jpeg" id="sf176_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sf181_fmt.png" id="sf181_fmt.png" media-type="image/png"/>
+    <item href="images/timaslogo_fmt.jpeg" id="timaslogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uU8iJCuzmEy7t6VaMLWoCyD" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-truetype"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="canakkalegecilmez-kapak"/>
+    <itemref idref="canakkalegecilmez-epub"/>
+    <itemref idref="canakkalegecilmez-epub-1"/>
+    <itemref idref="canakkalegecilmez-epub-2"/>
+    <itemref idref="canakkalegecilmez-epub-3"/>
+    <itemref idref="canakkalegecilmez-epub-4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

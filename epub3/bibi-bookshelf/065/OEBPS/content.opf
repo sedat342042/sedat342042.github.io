@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Şişmanlayamayan Sumocu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Schmitt, Eric-Emmanuel">Eric-Emmanuel Schmitt</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:255a4e91-50a7-468f-b989-b42a4d10a602</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8d1f1708-0eb4-44c7-9b8d-bc7b8e810e09</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/1_split_000.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_001.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_002.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_003.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_004.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/1.jpg" id="added" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="Images/3.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

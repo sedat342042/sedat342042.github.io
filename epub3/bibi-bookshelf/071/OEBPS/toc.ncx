@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:00FE18C0-847B-45A8-A026-AB0B1460BEF0" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Elit</text>
+  </docTitle>
+  <docAuthor>
+    <text>Kiera Cass</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Editörün Sunuşu</text>
+      </navLabel>
+      <content src="Text/4.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>DUNE</text>
+      </navLabel>
+      <content src="Text/6.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>MUAD’DIB</text>
+      </navLabel>
+      <content src="Text/6-23.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>PEYGAMBER</text>
+      </navLabel>
+      <content src="Text/6-39.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>EKLER</text>
+      </navLabel>
+      <content src="Text/6-51.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>İmparatorluk Terminolojisi</text>
+      </navLabel>
+      <content src="Text/6-56.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Harita İçin Kartografik Notlar</text>
+      </navLabel>
+      <content src="Text/6-57.xhtml#_idParaDest-7"/>
+    </navPoint>
+  </navMap>
+</ncx>

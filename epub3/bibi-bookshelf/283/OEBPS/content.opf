@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Hadımların Dünyası</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Marliave, Olivier de">Olivier de Marliave</dc:creator>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2016-06-12T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:8fd7e5ac-3aff-430e-bb5f-baa2a9f31b2e</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2017-04-03</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">dba73693-5a42-45f6-ae42-bfd2f3163dd5</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="kunye" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="perde" href="Text/perde.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1" href="Text/1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-1" href="Text/1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2" href="Text/2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-1" href="Text/2-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-2" href="Text/2-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-3" href="Text/2-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3" href="Text/3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-1" href="Text/3-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-2" href="Text/3-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-3" href="Text/3-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-4" href="Text/3-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4" href="Text/4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-1" href="Text/4-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5" href="Text/5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-1" href="Text/5-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-2" href="Text/5-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6" href="Text/6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6-1" href="Text/6-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x7" href="Text/7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x7-1" href="Text/7-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x8" href="Text/8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x8-1" href="Text/8-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="arka_kapak" href="Text/arka_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="idGeneratedStyles.css" href="Styles/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="x1_fmt.jpeg" href="Images/1_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x2_fmt.jpeg" href="Images/2_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x3_fmt.jpeg" href="Images/3_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x4_fmt.jpeg" href="Images/4_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x5_fmt.jpeg" href="Images/5_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x6_fmt.jpeg" href="Images/6_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x7_fmt.jpeg" href="Images/7_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x8_fmt.jpeg" href="Images/8_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x9_fmt.jpeg" href="Images/9_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x10_fmt.jpeg" href="Images/10_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x11_fmt.jpeg" href="Images/11_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x12_fmt.jpeg" href="Images/12_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x13_fmt.jpeg" href="Images/13_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x14_fmt.jpeg" href="Images/14_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x15_fmt.jpeg" href="Images/15_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x16_fmt.jpeg" href="Images/16_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x17_fmt.jpeg" href="Images/17_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x18_fmt.jpeg" href="Images/18_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x19_fmt.jpeg" href="Images/19_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x20_fmt.jpeg" href="Images/20_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x21_fmt.jpeg" href="Images/21_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x22_fmt.jpeg" href="Images/22_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x23_fmt.jpeg" href="Images/23_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x24_fmt.jpeg" href="Images/24_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x25_fmt.jpeg" href="Images/25_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x26_fmt.jpeg" href="Images/26_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x27_fmt.jpeg" href="Images/27_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x28_fmt.jpeg" href="Images/28_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x29_fmt.jpeg" href="Images/29_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x30_fmt.jpeg" href="Images/30_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x31_fmt.jpeg" href="Images/31_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x32_fmt.jpeg" href="Images/32_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x33_fmt.jpeg" href="Images/33_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x34_fmt.jpeg" href="Images/34_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x35_fmt.jpeg" href="Images/35_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x36_fmt.jpeg" href="Images/36_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x37_fmt.jpeg" href="Images/37_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x186.jpg" href="Images/186.jpg" media-type="image/jpeg"/>
+    <item id="x8124.jpg" href="Images/8124.jpg" media-type="image/jpeg"/>
+    <item id="arka_fmt.jpeg" href="Images/arka_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="c_fmt.jpeg" href="Images/c_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="c_fmt1.jpeg" href="Images/c_fmt1.jpeg" media-type="image/jpeg"/>
+    <item id="c_fmt2.jpeg" href="Images/c_fmt2.jpeg" media-type="image/jpeg"/>
+    <item id="c_fmt3.jpeg" href="Images/c_fmt3.jpeg" media-type="image/jpeg"/>
+    <item id="c_fmt4.jpeg" href="Images/c_fmt4.jpeg" media-type="image/jpeg"/>
+    <item id="c_fmt5.jpeg" href="Images/c_fmt5.jpeg" media-type="image/jpeg"/>
+    <item id="c_fmt6.jpeg" href="Images/c_fmt6.jpeg" media-type="image/jpeg"/>
+    <item id="LiberationSerif-Bold.ttf" href="Fonts/LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="LiberationSerif-BoldItalic.ttf" href="Fonts/LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="LiberationSerif-Italic.ttf" href="Fonts/LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="LiberationSerif.ttf" href="Fonts/LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye"/>
+    <itemref idref="perde"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x2-1"/>
+    <itemref idref="x2-2"/>
+    <itemref idref="x2-3"/>
+    <itemref idref="x3"/>
+    <itemref idref="x3-1"/>
+    <itemref idref="x3-2"/>
+    <itemref idref="x3-3"/>
+    <itemref idref="x3-4"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x5"/>
+    <itemref idref="x5-1"/>
+    <itemref idref="x5-2"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x7"/>
+    <itemref idref="x7-1"/>
+    <itemref idref="x8"/>
+    <itemref idref="x8-1"/>
+    <itemref idref="arka_kapak"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

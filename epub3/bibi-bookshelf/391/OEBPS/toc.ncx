@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{93F773D1-8C10-488D-BEA0-46BE846EB73D}"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Biyopolitika</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>TÜRKÇE BASKIYA ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/onsoz1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/onsoz2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>1 POLİTİKANIN TEMELİ OLARAK HAYAT</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Devletin biyolojisi: Organikçi görüşlerden ırkçı görüşlere</text>
+        </navLabel>
+        <content src="Text/01.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Biyopolitoloji: İnsan doğası ve politik eylem</text>
+        </navLabel>
+        <content src="Text/01.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>2 POLİTİKANIN NESNESİ OLARAK HAYAT</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Ekolojik biyopolitika</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Teknikmerkezli biyopolitika</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>3 CANLI VARLIKLARIN YÖNETİMİ: MICHEL FOUCAULT</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Yaşatmak ve ölüme bırakmak</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Irkçılık ve ölümün gücü</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Politik ekonomi ve liberal yönetim</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Direniş ve özgürlük pratikleri</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>4 EGEMEN İKTİDAR VE ÇIPLAK HAYAT:GIORGIO AGAMBEN</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>İstisna kuralı / İstisnanın yönetimi</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>“Çıplak hayat” ve kamp</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Üç sorun</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>5 KAPİTALİZM VE CANLI ÇOKLUK: MICHAEL HARDT VE ANTONIO NEGRI</text>
+      </navLabel>
+      <content src="Text/05.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>İmparatorluk yönetimi ve maddi olmayan emek</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Çokluk ve biyoiktidarın paradoksları</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Ontoloji ve içkinlik</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>6 POLİTİKANIN DÖNÜŞÜMÜ VE YOK OLUŞU</text>
+      </navLabel>
+      <content src="Text/06.xhtml"/>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Beden politikası</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Hayat politikası</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Biyomeşruiyet</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>7 DOĞANIN SONU VE YENİDEN İCADI</text>
+      </navLabel>
+      <content src="Text/07.xhtml"/>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Moleküler politika, ölüm-politikası,antro-politika</text>
+        </navLabel>
+        <content src="Text/07.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Biyotoplumsallık</text>
+        </navLabel>
+        <content src="Text/07.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Etho-politika</text>
+        </navLabel>
+        <content src="Text/07.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>8 DİRİM POLİTİKA VE BİYOEKONOMİ</text>
+      </navLabel>
+      <content src="Text/08.xhtml"/>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Menschenökonomie’den insani sermayeye</text>
+        </navLabel>
+        <content src="Text/08.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Biyokapital</text>
+        </navLabel>
+        <content src="Text/08.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>9 GENEL MANZARA: BİYOPOLİTİKA ÇÖZÜMLEMESİ</text>
+      </navLabel>
+      <content src="Text/09.xhtml#sigil_toc_id_31"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="Text/kaynaklar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

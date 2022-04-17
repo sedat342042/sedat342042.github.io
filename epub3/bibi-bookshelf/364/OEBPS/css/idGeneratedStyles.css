@@ -1,0 +1,15 @@
+body,div,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,pre,code,blockquote{margin:0;padding:0;border-width:0}
+td,th{border-style:solid;border-width:1px}
+table{border-collapse:collapse}
+body{-epub-hyphens:auto;-webkit-hyphens:auto}
+@page{margin:0}
+p.anabaslik{-epub-hyphens:none;-webkit-hyphens:none;color:#000;font-size:1.25em;font-style:normal;font-variant:normal;font-weight:700;orphans:1;page-break-after:auto;page-break-before:auto;text-align:center;text-decoration:none;text-indent:0;widows:1;margin:0 50px 50px}
+p.kunye{-epub-hyphens:none;-webkit-hyphens:none;color:#000;font-size:1em;font-style:normal;font-variant:normal;font-weight:400;orphans:2;page-break-after:auto;page-break-before:auto;text-align:center;text-decoration:none;text-indent:0;widows:2;margin:0 30px}
+p.paragraf{-epub-hyphens:none;-webkit-hyphens:none;color:#000;font-size:1em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:left;text-decoration:none;text-indent:20px;widows:1;margin:0 30px}
+p.split{-epub-hyphens:none;-webkit-hyphens:none;color:#000;font-size:1em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:center;text-decoration:none;text-indent:0;widows:1;margin:30px 30px 0}
+p.yildiz{-epub-hyphens:none;-webkit-hyphens:none;color:#000;font-size:.875em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:center;text-decoration:none;text-indent:0;widows:1;margin:15px 30px}
+p.ParaOverride-1{text-align:center}
+p.ParaOverride-2{text-align:right}
+span.CharOverride-1{font-size:1.25em}
+img._idGenPageitem-1{height:1023px;width:642px}
+div._idGenPageitem-2{text-align:center}

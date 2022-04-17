@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="c466139e-e51f-4347-a1e1-efdb85f46861" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Alacakaranlıkta</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="b9f6c5c9-484f-4118-865d-7ec1a462e930" playOrder="1">
+      <navLabel>
+        <text>Alacakaranlıkta</text>
+      </navLabel>
+      <content src="alacakaranlik_split_000.html"/>
+    </navPoint>
+    <navPoint id="a8ce8bfe-96c0-40c3-aeee-7e4e17215ef1" playOrder="2">
+      <navLabel>
+        <text>TONİO KRÖGER</text>
+      </navLabel>
+      <content src="alacakaranlik_split_014.html"/>
+      <navPoint id="bd44a849-1f33-4153-9a7f-24f3e9306888" playOrder="3">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="alacakaranlik_split_015.html"/>
+      </navPoint>
+      <navPoint id="fb82f17f-c75e-4ff7-9845-53d29ce2cd2d" playOrder="4">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="alacakaranlik_split_016.html"/>
+      </navPoint>
+      <navPoint id="2f2e6e38-a5d8-4547-8c84-9e289c5c6783" playOrder="5">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="alacakaranlik_split_017.html"/>
+      </navPoint>
+      <navPoint id="1580f75a-58f4-43e5-96be-0e61761ed35f" playOrder="6">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="alacakaranlik_split_018.html"/>
+      </navPoint>
+      <navPoint id="6bac039c-60ad-4bdf-af7f-e14501e845ba" playOrder="7">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="alacakaranlik_split_019.html"/>
+      </navPoint>
+      <navPoint id="02556225-1ff3-4c24-b5db-f5805c562182" playOrder="8">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="alacakaranlik_split_020.html"/>
+      </navPoint>
+      <navPoint id="2a2405c7-4104-4f7c-9d50-e45c8b90d122" playOrder="9">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="alacakaranlik_split_021.html"/>
+      </navPoint>
+      <navPoint id="e1ebc2d8-e00a-4af8-86bc-c753ef9c305a" playOrder="10">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="alacakaranlik_split_022.html"/>
+      </navPoint>
+      <navPoint id="51c154e9-15d8-457a-9a31-2131cf0a17aa" playOrder="11">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="alacakaranlik_split_023.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

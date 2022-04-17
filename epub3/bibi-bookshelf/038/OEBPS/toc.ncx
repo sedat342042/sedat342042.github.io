@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{000044F9-2A4C-2B0D-7B32-C84D488DB33C}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tatar Çölü</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Tatar Çölü</text>
+      </navLabel>
+      <content src="Text/ickapak.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/B-001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/B-002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/B-003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/B-004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/B-005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/B-006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/B-007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/B-008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/B-009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/B-011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/B-012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/B-013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/B-014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/B-015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/B-016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/B-017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/B-018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/B-019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/B-021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/B-020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/B-023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/B-022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/B-024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/B-025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/B-026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/B-027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/B-028.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/B-029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/B-030.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Kalite Belgesi</text>
+      </navLabel>
+      <content src="Text/KKB.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

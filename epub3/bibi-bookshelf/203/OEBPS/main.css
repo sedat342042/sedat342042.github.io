@@ -1,0 +1,151 @@
+@font-face {
+	font-family:"NewBT";
+	font-style:normal;
+	font-weight:300;
+	src : url("font/NewBaskervilleITCbyBT-Roman.otf") format("opentype");
+}
+@font-face {
+	font-family:"NewBT";
+	font-style:italic;
+	font-weight:normal;
+	src : url("font/News702BT-Italic.otf") format("opentype");
+}
+@font-face {
+	font-family:"NewBT";
+	font-style:italic;
+	font-weight:bold;
+	src : url("font/News702BT-BoldItalic.ttf") format("opentype");
+}
+@font-face {
+	font-family:"NewBT";
+	font-style:normal;
+	font-weight:bold;
+	src : url("font/News702BT-Bold.otf") format("opentype");
+}
+@font-face {
+	font-family:"NewBT";
+	font-style: normal;
+	font-weight: normal;
+	src : url("font/News702BT-Roman.otf") format("opentype");
+}
+
+
+
+/*
+ *chapter
+ */
+body{
+	font-family: "NewBT";
+}
+p{
+	font-size:.85em;
+	line-height:1.4em;
+	margin:0;
+	text-indent:1.5em;
+}
+.right{
+  margin-top:1em;
+  text-align: right;
+  font-weight: normal;
+}
+.top{
+	margin-top: 5em;
+}
+.bold{
+	font-weight: bold;
+}
+blockquote{
+	margin:1em 0;
+}
+.foreword{
+	text-align: right;
+	font-size: .9em;
+}
+.bld-itl{
+	font-weight: bold;
+	font-style: italic;
+}
+/*other*/
+.kunye span{
+  font-size:0.667em;
+  display: block;
+}
+.can span{
+	font-size: .75em;
+}
+.double{
+	margin-top: 2em;
+}
+.copy{
+  margin: .8em 0 0 ;
+}
+.kunye a{
+	text-decoration: none;
+  color: #7A7A7A;
+}
+.title{
+  text-align: center;
+}
+.aut{
+	font-weight: 300;
+  font-size: 1.6em;
+  margin-bottom: 0.5em;
+}
+.seri{
+  font-size: .8em;
+  margin-top: 3em
+}
+.logo{
+  margin: 3em auto 0 auto; 
+}
+.cover-container img{
+  max-width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+.biography p{
+  font-weight: normal;
+  font-size: .75em;
+  text-indent: 0;
+}
+.books li{
+font-weight: normal;
+font-size: .72em;
+list-style: none;
+padding-bottom: .2em;
+text-align: center;
+}
+ul{
+	margin: 1.2em 0 0;
+	padding:0;
+}
+.books h1{
+font-weight: normal;
+font-size: .75em;
+text-align: center;
+}
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+}
+.si-footnote{
+	font-size: .8em;
+	margin-bottom: .3em;
+}

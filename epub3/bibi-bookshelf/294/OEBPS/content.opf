@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Pratik İlmihâl</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Bilgin, Osman">Osman Bilgin</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Işık Yayınları</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-12-07</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">4a3b23d3-bff6-4716-aa0c-d22dccc6d38c</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789752786899</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Pratik_ilmihal.html" id="Pratik_ilmihal" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-1.html" id="Pratik_ilmihal-1" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-2.html" id="Pratik_ilmihal-2" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-3.html" id="Pratik_ilmihal-3" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-4.html" id="Pratik_ilmihal-4" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-5.html" id="Pratik_ilmihal-5" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-6.html" id="Pratik_ilmihal-6" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-7.html" id="Pratik_ilmihal-7" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-8.html" id="Pratik_ilmihal-8" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-9.html" id="Pratik_ilmihal-9" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-10.html" id="Pratik_ilmihal-10" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-11.html" id="Pratik_ilmihal-11" media-type="application/xhtml+xml"/>
+    <item href="Text/Pratik_ilmihal-12.html" id="Pratik_ilmihal-12" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/01_fmt.jpeg" id="x01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/02_fmt.jpeg" id="x02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/03_fmt.jpeg" id="x03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/04_fmt.jpeg" id="x04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/05_fmt.jpeg" id="x05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/06_fmt.jpeg" id="x06_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/07_fmt.jpeg" id="x07_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/08_fmt.jpeg" id="x08_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/09_fmt.jpeg" id="x09_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/10_fmt.jpeg" id="x10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/11_fmt.jpeg" id="x11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/12_fmt.jpeg" id="x12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/13_fmt.jpeg" id="x13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/14_fmt.jpeg" id="x14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15_fmt.jpeg" id="x15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/16_fmt.jpeg" id="x16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/17_fmt.jpeg" id="x17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/18_fmt.jpeg" id="x18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/19_fmt.jpeg" id="x19_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/20_fmt.jpeg" id="x20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/21_fmt.jpeg" id="x21_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/22_fmt.jpeg" id="x22_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/23_fmt.jpeg" id="x23_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/24_fmt.jpeg" id="x24_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2522.jpg" id="x2522.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uLxOFYPweBfpXCJMkxdnUdF" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Pratik_ilmihal"/>
+    <itemref idref="Pratik_ilmihal-1"/>
+    <itemref idref="Pratik_ilmihal-2"/>
+    <itemref idref="Pratik_ilmihal-3"/>
+    <itemref idref="Pratik_ilmihal-4"/>
+    <itemref idref="Pratik_ilmihal-5"/>
+    <itemref idref="Pratik_ilmihal-6"/>
+    <itemref idref="Pratik_ilmihal-7"/>
+    <itemref idref="Pratik_ilmihal-8"/>
+    <itemref idref="Pratik_ilmihal-9"/>
+    <itemref idref="Pratik_ilmihal-10"/>
+    <itemref idref="Pratik_ilmihal-11"/>
+    <itemref idref="Pratik_ilmihal-12"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

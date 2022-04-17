@@ -1,0 +1,318 @@
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/literata-regular.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../Fonts/literata-bold.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../Fonts/literata-bold-italic.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/literata-italic.otf');
+}
+/*gövde,paragraf*/
+body {
+font-family: 'Literata';
+  text-align: justify;
+  text-indent: 1em;
+  margin-left: 1.2em;
+  margin-right: 1.2em;
+  line-height: 1.2em;
+}
+p.giris {
+  font-size: small;
+  text-indent: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.2em;
+}
+p {
+  font-size: small;
+  text-indent: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.2em;
+  orphans: 2;
+  widows: 2;
+}
+p.kitap-adi {
+  font-size: large;
+  margin-top: 4em;
+  margin-bottom: 0;
+  line-height: 1em;
+  orphans: 2;
+  widows: 2;
+}
+p.yayıevi {
+  font-size: small;
+  text-indent: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1em;
+  orphans: 2;
+  widows: 2;
+}
+p.quotename {
+  display: block;
+  text-align: right;
+  text-indent: 1em;
+  font-style: italic;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+.quote {
+  display: block;
+  text-align: left;
+  text-indent: 1em;
+  font-style: normal;
+  padding: 0.8em;
+	letter-spacing: 0.05em;
+font-family: monospace;
+}
+p.noindent {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 6%;
+  text-indent: 0%;
+}
+.blok {
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 1em;
+  text-align: center;
+	border: solid;
+border-width: 1px;
+}
+.poetry {
+display: block;
+padding: 1em;
+font-style: italic; 
+text-indent: 0em;
+
+}
+p.center {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2em;
+  text-align: center;
+  text-indent: 0%;
+  font-size: 1em;
+}
+.left {
+	text-indent:0%;
+	margin-top:5%;
+	margin-bottom:5%;
+	text-align:left;
+	margin-right:0%;
+	font-family:monospace;
+	font-weight:bold;
+}
+.center {
+	text-indent:0%;
+	margin-top:5%;
+	margin-bottom:5%;
+	text-align:center;
+	margin-right:0%;
+	font-weight:bold;
+}
+.right {
+	text-indent:0%;
+	margin-top:5%;
+	margin-bottom:5%;
+	text-align:right;
+	margin-right:20%;
+	font-family:monospace;
+	font-weight:bold;
+}
+.uline{
+	text-decoration: underline;
+}
+.nob{
+	margin-bottom:0em;
+}
+.not{
+	margin-top:0em;
+}
+.number {
+font-family: 'Literata';
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 0em;
+  line-height: 1em;
+  display: block;
+	font-size: 2em;
+}
+/*bölüm numara, başlık*/
+.chapternumber {
+font-family: 'Literata';
+  font-weight: bold;
+  text-align: center;
+  page-break-after: avoid;
+  margin-top: 2em;
+  margin-bottom: 3em;
+font-size: 2em;
+}
+h2.bölüm-ad {
+font-family: 'Literata';
+  font-weight: bold;
+  text-align: center;
+  page-break-after: avoid;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+/*Kitap adı, yazar, yayınevi*/
+p.yayınevi {
+  text-align: center;
+  line-height: 1.1em;
+}
+h1 {
+  font-size: 0.9em;
+  font-family: 'Literata';
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 1em;
+  text-indent:0em;
+  line-height: 1em;
+  display: block;
+}
+h2 {
+font-family: 'Literata';
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  line-height: 1em;
+  display: block;
+}
+h3 {
+font-family: 'Literata';
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 0em;
+  line-height: 1em;
+  display: block;
+}
+hr {
+margin-bottom: 0em;
+}
+h4 {
+font-family: 'Literata';
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  display: block;
+}
+h5 {
+font-family: 'Literata';
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  line-height: 1em;
+  display: block;
+
+}
+h6 {
+font-family: 'Literata';
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  line-height: 1em;
+  display: block;
+}
+.story {
+font-family: 'Literata';
+  text-align: center;
+  font-size: 2em;
+  margin-top: 3em;
+  margin-bottom: 0em;
+  line-height: 1em;
+  display: block;
+  font-weight: normal;
+}
+.author {
+font-family: 'Literata';
+  text-align: center;
+  font-size: 1.1em;
+  margin-top: 0em;
+  margin-bottom: 2em;
+  line-height: 1em;
+  display: block;
+  font-weight: bold;
+}
+.translator {
+font-size: 0.8em;
+	font-family: 'Literata';
+  text-align: center;
+  margin-top: 0em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  display: block;
+  font-weight: bold;
+}
+/*logo, resim, harita*/
+p.logo {
+  margin-top: 1em;
+  text-indent: 0;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+/*- Künye -*/
+.kunye {margin-left:1em;}
+
+.kunye p {font-size:0.72em;text-indent:0em;margin-top:1em;text-align: justify;}
+
+/*- Yazar -*/
+.yazar {margin-top:1em}
+.yazar p {text-align:justify;text-indent:0em;margin-left:1em;margin-right:1em;}
+p.orta1 {font-size:1.2em;margin-bottom:0.5em;font-weight:bold;text-align:center;}
+
+p.orta2 {font-size:1em;margin-bottom:0.5em;font-style:italic;text-align:center;}
+
+/*- İç Kapak -*/
+.ickapak {margin-top:1.5em}
+
+.ickapak p {text-indent:0em;text-align:center}
+
+.yazar {
+  font-size:1.6em;margin-bottom:2em}
+
+.kitap {
+  font-size:2.5em;
+  margin-bottom:1em;}
+
+.ickapak span {font-size:0.5em;font-style:italic;font-weight:normal}
+
+/*- Giriş -*/
+.giris {margin:3em 1em 0em 1em;}
+
+.giris p {text-indent:0em;margin-bottom:0.5em;text-align:left;font-size:0.8em}
+
+/*- Epigraf -*/
+.epigraf {margin:4em 1em 0em 1em;text-align:right;}
+.epigraf p {text-indent:0em;margin-bottom:1em}
+
+.sag {text-align:right;margin-top:6em}
+.orta {text-indent:0em;text-align:center;}

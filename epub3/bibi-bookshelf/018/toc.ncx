@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="d4af0818-89a3-41dc-8779-d85073a9a56b" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Korku Vadisi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="f4b2febb-ee4b-46a5-a4a7-1da2b7c378f6" playOrder="1">
+      <navLabel>
+        <text>I. BÖLÜM BIRLSTONE FACİASI</text>
+      </navLabel>
+      <content src="korku_split_002.html"/>
+      <navPoint id="c6bce524-97af-4b16-bdcb-4e8540dc46bb" playOrder="2">
+        <navLabel>
+          <text>1 Uyarı</text>
+        </navLabel>
+        <content src="korku_split_003.html"/>
+      </navPoint>
+      <navPoint id="73352976-f355-4421-8c9b-11e069ee6a35" playOrder="3">
+        <navLabel>
+          <text>2 Sherlock Holmes Konuşuyor</text>
+        </navLabel>
+        <content src="korku_split_004.html"/>
+      </navPoint>
+      <navPoint id="da4db6e6-e39a-45f1-bb5c-2f78a8f00719" playOrder="4">
+        <navLabel>
+          <text>3 Birlstone'daki Facia</text>
+        </navLabel>
+        <content src="korku_split_005.html"/>
+      </navPoint>
+      <navPoint id="960ec4fc-45a3-4798-bc6d-7742f4971f80" playOrder="5">
+        <navLabel>
+          <text>4 Karanlık</text>
+        </navLabel>
+        <content src="korku_split_006.html"/>
+      </navPoint>
+      <navPoint id="12f234f4-bcbb-40d5-83be-120fe836c445" playOrder="6">
+        <navLabel>
+          <text>5 Malikâne Sakinleri</text>
+        </navLabel>
+        <content src="korku_split_007.html"/>
+      </navPoint>
+      <navPoint id="5c5f4080-92cc-45b4-819c-fc8b510287d2" playOrder="7">
+        <navLabel>
+          <text>6 Bir Işık Görünüyor</text>
+        </navLabel>
+        <content src="korku_split_008.html"/>
+      </navPoint>
+      <navPoint id="6744a662-3983-4274-969e-f0fdde283eb0" playOrder="8">
+        <navLabel>
+          <text>7 Çözüm</text>
+        </navLabel>
+        <content src="korku_split_009.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="d88f6462-6370-4100-8f3d-2a1afc63cad8" playOrder="9">
+      <navLabel>
+        <text>II. BÖLÜM ÇETE</text>
+      </navLabel>
+      <content src="korku_split_010.html"/>
+      <navPoint id="ac1a9a6f-b966-4e8e-a06a-2b3ea1a0755b" playOrder="10">
+        <navLabel>
+          <text>1 Yabancı</text>
+        </navLabel>
+        <content src="korku_split_011.html"/>
+      </navPoint>
+      <navPoint id="81ce1a63-28d4-4433-bd29-1b700d3020e6" playOrder="11">
+        <navLabel>
+          <text>2 Büyük Üstat</text>
+        </navLabel>
+        <content src="korku_split_012.html"/>
+      </navPoint>
+      <navPoint id="340611c4-a34f-40f7-940d-734573bc9623" playOrder="12">
+        <navLabel>
+          <text>3 Vermissa, 341 Numaralı Loca</text>
+        </navLabel>
+        <content src="korku_split_013.html"/>
+      </navPoint>
+      <navPoint id="63973097-e631-48c7-b123-ff63f5b97590" playOrder="13">
+        <navLabel>
+          <text>4 Korku Vadisi</text>
+        </navLabel>
+        <content src="korku_split_014.html"/>
+      </navPoint>
+      <navPoint id="ac017a25-99a7-4ea6-b529-3766076dba6a" playOrder="14">
+        <navLabel>
+          <text>5 En Karanlık Saat</text>
+        </navLabel>
+        <content src="korku_split_015.html"/>
+      </navPoint>
+      <navPoint id="ad506688-bee4-43b1-adc1-47ea9ecedb73" playOrder="15">
+        <navLabel>
+          <text>6 Tehlike</text>
+        </navLabel>
+        <content src="korku_split_016.html"/>
+      </navPoint>
+      <navPoint id="5e7eb928-2712-4468-9912-83f84067a5cd" playOrder="16">
+        <navLabel>
+          <text>7 Birdy Edwards'ın Tuzağa Düşürülmesi</text>
+        </navLabel>
+        <content src="korku_split_017.html"/>
+      </navPoint>
+      <navPoint id="d886550d-abfc-4943-97ea-221b57f45498" playOrder="17">
+        <navLabel>
+          <text>Sonsöz</text>
+        </navLabel>
+        <content src="korku_split_018.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

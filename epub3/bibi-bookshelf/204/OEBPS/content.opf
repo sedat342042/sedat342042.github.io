@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Hayat Kaynağımız Namaz</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Güven, M. Yusuf">M. Yusuf Güven</dc:creator>
+    <dc:description>&lt;div&gt;&lt;div&gt;Namazı kılmanın ana gayesi ve temel maksadı, Allah'ın rızasına nail olmak, sadece O emrettiği için kılmak ve bu duyguya başka maksatları karıştırmamaktır. Fakat biliyoruz ki ibadetlerin beraberinde getirdiği bir takım hikmet ve kazançlar da vardır. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;"Namaz insanı hayâsızlıktan ve kötülükten alıkoyar." (Ankebût, 29/45) gibi bazı ayetler ve Allah Resûlü'nün bağırsak rahatsızlığı çeken Ebû Hureyre'ye, "Kalk, namaz kıl. Zira namazda şifa vardır." (Müsned, 2/390) tavsiyesi gibi bir takım hadisler, bizlere namazın hikmetlerini araştırma, Rabbimizin rızasını kazanmaya vesile olması haricinde insanlara kazandırdığı bir takım faydalarını inceleme azmini veriyor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bu çalışmada, namazın kazandırdığı en önemli kazancın başta insanı Rabbisine yönlendirmesi olduğu, bundan başka diğer bir takım hikmetleri, faydaları, semereleri ve insana kazandırdığı rûhî, tıbbî, ferdî ve sosyal faydaları üzerinde duruluyor. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ayrıca namazdaki hareketlerin insan için ne anlam ifade ettiği, namazı hangi duygular içinde kılmak gerektiği, namazdaki her bir rüknün iç anlamı ve kişinin kendisini namaza verebilmesinin yolları anlatılıyor.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Işık Yayınları</dc:publisher>
+    <dc:date>2012-08-15T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>ar</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">356ee7b4-125c-4364-8f52-61bd41f4a222</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="00_1_Jenerik.html" id="x00_1_Jenerik" media-type="application/xhtml+xml"/>
+    <item href="00_2_Onsoz.html" id="x00_2_Onsoz" media-type="application/xhtml+xml"/>
+    <item href="00_3_Giris.html" id="x00_3_Giris" media-type="application/xhtml+xml"/>
+    <item href="01_Konu.html" id="x01_Konu" media-type="application/xhtml+xml"/>
+    <item href="02_Konu.html" id="x02_Konu" media-type="application/xhtml+xml"/>
+    <item href="03_Konu.html" id="x03_Konu" media-type="application/xhtml+xml"/>
+    <item href="04_Konu.html" id="x04_Konu" media-type="application/xhtml+xml"/>
+    <item href="05_Konu.html" id="x05_Konu" media-type="application/xhtml+xml"/>
+    <item href="06_Konu.html" id="x06_Konu" media-type="application/xhtml+xml"/>
+    <item href="07_Konu.html" id="x07_Konu" media-type="application/xhtml+xml"/>
+    <item href="08_Sonuc.html" id="x08_Sonuc" media-type="application/xhtml+xml"/>
+    <item href="09_Kaynakca.html" id="x09_Kaynakca" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/isiklogo_fmt.jpeg" id="isiklogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x00_1_Jenerik"/>
+    <itemref idref="x00_2_Onsoz"/>
+    <itemref idref="x00_3_Giris"/>
+    <itemref idref="x01_Konu"/>
+    <itemref idref="x02_Konu"/>
+    <itemref idref="x03_Konu"/>
+    <itemref idref="x04_Konu"/>
+    <itemref idref="x05_Konu"/>
+    <itemref idref="x06_Konu"/>
+    <itemref idref="x07_Konu"/>
+    <itemref idref="x08_Sonuc"/>
+    <itemref idref="x09_Kaynakca"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

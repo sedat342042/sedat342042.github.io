@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Hayalet Kitap</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Yücel, Doğu">Doğu Yücel</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:248166e6-0bcb-4ad0-bbee-6804ca74a85b</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">75394e82-808b-419b-a62e-205b1a898130</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:248166e6-0bcb-4ad0-bbee-6804ca74a85b</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/hayalet_split_000.html" id="hayalet_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_001.html" id="hayalet_split_001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_002.html" id="hayalet_split_002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_003.html" id="hayalet_split_003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_004.html" id="hayalet_split_004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_005.html" id="hayalet_split_005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_006.html" id="hayalet_split_006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_007.html" id="hayalet_split_007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_008.html" id="hayalet_split_008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_009.html" id="hayalet_split_009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_010.html" id="hayalet_split_010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_011.html" id="hayalet_split_011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_012.html" id="hayalet_split_012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_013.html" id="hayalet_split_013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_014.html" id="hayalet_split_014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_015.html" id="hayalet_split_015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_016.html" id="hayalet_split_016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_017.html" id="hayalet_split_017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_018.html" id="hayalet_split_018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/hayalet_split_019.html" id="hayalet_split_019.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+    <item href="Images/3.jpg" id="x3.jpg" media-type="image/jpeg"/>
+    <item href="Images/11.jpg" id="x11.jpg" media-type="image/jpeg"/>
+    <item href="Images/12.jpg" id="x12.jpg" media-type="image/jpeg"/>
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uXqkwVmSCDM5zdMYkBqwkVD" media-type="image/jpeg"/>
+    <item href="Fonts/arial.ttf" id="arial.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbd.ttf" id="arialbd.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbi.ttf" id="arialbi.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/ariali.ttf" id="ariali.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="LiberationSerif-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="hayalet_split_000.html"/>
+    <itemref idref="hayalet_split_001.html"/>
+    <itemref idref="hayalet_split_002.html"/>
+    <itemref idref="hayalet_split_003.html"/>
+    <itemref idref="hayalet_split_004.html"/>
+    <itemref idref="hayalet_split_005.html"/>
+    <itemref idref="hayalet_split_006.html"/>
+    <itemref idref="hayalet_split_007.html"/>
+    <itemref idref="hayalet_split_008.html"/>
+    <itemref idref="hayalet_split_009.html"/>
+    <itemref idref="hayalet_split_010.html"/>
+    <itemref idref="hayalet_split_011.html"/>
+    <itemref idref="hayalet_split_012.html"/>
+    <itemref idref="hayalet_split_013.html"/>
+    <itemref idref="hayalet_split_014.html"/>
+    <itemref idref="hayalet_split_015.html"/>
+    <itemref idref="hayalet_split_016.html"/>
+    <itemref idref="hayalet_split_017.html"/>
+    <itemref idref="hayalet_split_018.html"/>
+    <itemref idref="hayalet_split_019.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

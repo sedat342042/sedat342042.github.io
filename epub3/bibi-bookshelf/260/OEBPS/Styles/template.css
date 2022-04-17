@@ -1,0 +1,482 @@
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.x7--Dipnot-Ba-vuru {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	vertical-align : super;
+	color : #000000;
+}
+span.x6--Dipnot---italik {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-variant : normal;
+	color : #000000;
+}
+span.x2---talik- {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-variant : normal;
+	color : #000000;
+}
+span.Resim-alt--yaz- {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.83em;
+	font-variant : normal;
+	color : #000000;
+}
+span.x-c-c-- {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.x3--Bold {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	color : #000000;
+}
+span.Metin---i-Arap-a {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.char-style-override-1 {
+	font-size : 0.92em;
+}
+span.char-style-override-2 {
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-3 {
+	font-size : 0.89em;
+}
+span.char-style-override-4 {
+	font-family : Uhuvvet, serif;
+	font-size : 1.37em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-5 {
+	font-size : 1.16em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-6 {
+	font-size : 1.11em;
+}
+p.No-Paragraph-Style {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+	direction : rtl;
+}
+p.Basic-Paragraph {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+	direction : rtl;
+}
+p.Dipnot-Metni {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : -11px;
+	margin : 1px 0px 1px 11px;
+}
+p.x-TAL-K--S-M-SA-A {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.61;
+	text-align : right;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px 0px 2px 0px;
+}
+p.x-TAL-K-MET-N-PARAGRAF {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.61;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px 0px 2px 0px;
+}
+p.MET-N-NORMAL {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px 0px 2px 0px;
+}
+p.ANA-BA-LIK {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	text-transform : uppercase;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 120px 0px 14px 0px;
+}
+p.RES-M-YAZI {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.79em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 5px 0px;
+}
+p.YILDIZ {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 2px 0px;
+}
+p.x-TAL-K-MET-N {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px 0px 2px 0px;
+}
+p.x01--B-l-m----st--Birinci-B-l-m- {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : italic;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.29;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 113px 0px 14px 0px;
+}
+p.giri--b-l-m-normal {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 10px 0px;
+}
+p.x02--B-l-mler---Alt--Konu- {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Arap-a-Paragraf-metin {
+	font-family : Uhuvvet, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px;
+	direction : rtl;
+}
+p.Girintisiz-paragraf {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 2px 0px;
+}
+p.Ha-iye-Metni {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.79em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.47;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px 0px 2px 0px;
+}
+p.Ha-iye--talik--sim {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.79em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.53;
+	text-align : right;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px 0px 2px 0px;
+}
+p.Normal-Sa-a-Dayal- {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : right;
+	color : #000000;
+	text-indent : 14px;
+	margin : 1px 0px;
+}
+p.Spot-Ba-l-k {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : right;
+	color : #000000;
+	text-indent : 14px;
+	margin : 120px 0px 2px 0px;
+}
+p.Ta-k-pr--ortal- {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 14px;
+	margin : 1px 0px 1px 71px;
+}
+p.x---R-METN- {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 5px 0px 5px 14px;
+}
+p.x-iir-Elif {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : center;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px;
+}
+p.Ara-baslik-1 {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.64;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px;
+}
+p.Kitap-ism-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 2em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 0px 0px;
+}
+p.Copyright-- {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.79em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 5px 0px;
+}
+p.jenerik-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.79em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 9px 0px;
+}
+p.x0-PERDE-E {
+	font-family : "Times New Roman", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.yazar-E {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 43px 0px;
+}
+p.cizgi {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.79em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.47;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 10px 0px 2px 0px;
+}
+p.para-style-override-1 {
+	margin-top : 6px;
+	text-align : center;
+}
+p.para-style-override-2 {
+	text-align : center;
+}
+p.para-style-override-3 {
+	text-align : justify;
+}
+div.Basic-Text-Frame {
+}

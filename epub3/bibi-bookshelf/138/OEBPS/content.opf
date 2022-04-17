@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Çarpışma</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ballard, J. G.">J. G. Ballard</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:1317c064-b71b-4451-92b1-c632cebf6255</dc:identifier>
+    <dc:date>2003-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;"Yeraltı edebiyatı"nın "Müthiş" bir örneğini sunuyoruz sizlere. "müthiş", hiç de abartılı bir tanımlama değil! Çarpışma ilk yayımlandığında da birçok insanı çarpmıştı. David Cronenberg filme çektikten, film Cannes Film Festivali'nde Jüri Özel Ödülü'nü aldıktan sonra ise tam bir "şok" yaşandı. Sinema tarihinin en canlı tartışmalarından birine neden oldu... Anthony Burgess'ın en yaratıcı yazarlardan saydığı, kimi eleştirmenlerin Calvino'ya benzettiği Ballard'ın ana temaları "sınırsız olabilirlik" ve "şimdideki gelecek." Klasik bilimkurgunun teknoloji tapınmasına dönüşen dış uzaylara yönelik gezintilerine çıkarak "esas yabancı gezegen dünyamızdır" diyor ve teknoloji tapınmasını reddederek okuru "iç yolculuklar"a çağırıyor. Çarpışma'da ise modern zamanların gündelik hayat tanrılarından olan araba "başrol"de oynuyor. İnsanların küçük dünyalarını başka yerlere taşımasına imkan vererek özgürlük yanılsaması yaratan; "uzaklık"ı dolayısıyla "yolculuk"u yok ederek "hız"a özel bir ağırlık ve istenirlik kazandıran; "güvenli" evlerimizden otoyollara çıktığımızda bizi ölümün kıyısında gezdirerek epeydir kaybettiğimiz "heyecan"ı yaşatan bir araç araba... Modern zamanların kalabalıkları arasında yalıtılmış, güçsüz ve çaresizce dolaşırken bize sağladığı iktidar ve heyecanla "tahrik" olduğumuz, kendimizi tekrar "yarışta" hissettiğimiz bir "teknoloji harikası..." Ballard, gündelik hayatımızın vazgeçilmezlerinden olan arabaları seks ve teknolojinin buluşma yeri olarak kullanıyor. Artık arabalar hem sonsuz fantezilerin yaşandığı bir cinsellik mekanı hem de çarpışmaların taşıdığı cinsel göndermelerle dolu seksüel birer objedir ona göre. Çarpışmalar ise zaten özünde şiddet içerdiği varsayılan cinselliği tetikleyen birer fantezi; teknolojinin bize kan, sidik, bok, kusmuk, vajina salgısı ve meni eşliğinde sunduğu "kendimizi kaybetme halleri" dir. Türünün tek örneği olan Çarpışma, "oto-erotizm" diyebileceğimiz bir eğretilemeyle, günümüz teknolojisini içimizde uyuyan psikopatolojiyi nasıl uyandırabileceğini, seksle teknoloji arasındaki çarpıcı birlikteliğin "dehşetli" yanlarını gösteriyor. Böylece, yarattığımız teknoloji aracılığıyla insani yanımızdaki şiddeti fark ediyor, kendi bilinmezliğimizle yüz yüze geliyoruz.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">58c5861e-fb55-4d5c-9660-699456a71828</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="yeralti.xhtml" href="Text/yeralti.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="giris.xhtml" href="Text/giris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum01.xhtml" href="Text/bolum01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum02.xhtml" href="Text/bolum02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum03.xhtml" href="Text/bolum03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum04.xhtml" href="Text/bolum04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum05.xhtml" href="Text/bolum05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum06.xhtml" href="Text/bolum06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum07.xhtml" href="Text/bolum07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum08.xhtml" href="Text/bolum08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum09.xhtml" href="Text/bolum09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum10.xhtml" href="Text/bolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum11.xhtml" href="Text/bolum11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum12.xhtml" href="Text/bolum12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum13.xhtml" href="Text/bolum13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum14.xhtml" href="Text/bolum14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum15.xhtml" href="Text/bolum15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum16.xhtml" href="Text/bolum16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum17.xhtml" href="Text/bolum17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum18.xhtml" href="Text/bolum18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum19.xhtml" href="Text/bolum19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum20.xhtml" href="Text/bolum20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum21.xhtml" href="Text/bolum21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum22.xhtml" href="Text/bolum22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum23.xhtml" href="Text/bolum23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum24.xhtml" href="Text/bolum24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="mute.css" href="Styles/mute.css" media-type="text/css"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yeralti.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="bolum01.xhtml"/>
+    <itemref idref="bolum02.xhtml"/>
+    <itemref idref="bolum03.xhtml"/>
+    <itemref idref="bolum04.xhtml"/>
+    <itemref idref="bolum05.xhtml"/>
+    <itemref idref="bolum06.xhtml"/>
+    <itemref idref="bolum07.xhtml"/>
+    <itemref idref="bolum08.xhtml"/>
+    <itemref idref="bolum09.xhtml"/>
+    <itemref idref="bolum10.xhtml"/>
+    <itemref idref="bolum11.xhtml"/>
+    <itemref idref="bolum12.xhtml"/>
+    <itemref idref="bolum13.xhtml"/>
+    <itemref idref="bolum14.xhtml"/>
+    <itemref idref="bolum15.xhtml"/>
+    <itemref idref="bolum16.xhtml"/>
+    <itemref idref="bolum17.xhtml"/>
+    <itemref idref="bolum18.xhtml"/>
+    <itemref idref="bolum19.xhtml"/>
+    <itemref idref="bolum20.xhtml"/>
+    <itemref idref="bolum21.xhtml"/>
+    <itemref idref="bolum22.xhtml"/>
+    <itemref idref="bolum23.xhtml"/>
+    <itemref idref="bolum24.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

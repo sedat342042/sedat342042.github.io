@@ -1,0 +1,801 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.alinti {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 2.7em;
+    margin-right: 2.7em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.alinti-ilk-paragraf {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 2.83em;
+    margin-right: 2.83em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.alinti-ilk-paragraf-x {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 2.83em;
+    margin-right: 2.83em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.alinti-son-paragraf {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 1.7em;
+    margin-left: 2.83em;
+    margin-right: 2.83em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.alinti-son-paragraf-x {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 6em;
+    margin-left: 2.83em;
+    margin-right: 2.83em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.alinti-son-paragraf-x-copy {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 20em;
+    margin-left: 2.83em;
+    margin-right: 2.83em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.alinti1 {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.baslik {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.5em;
+    margin-left: 0.24em;
+    margin-right: 0.24em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.baslik-3-copy {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.5em;
+    margin-left: 0.24em;
+    margin-right: 0.24em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bold-ortali {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bold-ortali-2-en-son {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 6.75em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bold-ortali1 {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0.81em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bold-ortali2 {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bolum-ismi {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.08em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 4.36em;
+    margin-left: 0.22em;
+    margin-right: 0.22em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bolum-ismi-2-satir {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.08em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 5.4em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bolum-ismi-2-satir-copy {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.08em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 4.62em;
+    margin-left: 0.22em;
+    margin-right: 0.22em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bolum-ismi1 {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 1.08em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.calibre4 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre5 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre6 {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: inherit
+    }
+.dar-paragraf {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.dar-paragraf-bold {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.dar-paragraf-duz {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    text-decoration: none
+    }
+.dar-paragraf-italik {
+    color: #000;
+    font-family: "Serif6 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.dipnot {
+    color: #000;
+    display: block;
+    font-family: "Helvetica Neue LT Std";
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.31em;
+    margin-left: 1.89em;
+    margin-right: 1.89em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.dipnot1 {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.67em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.dk-logo {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.5em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.16em;
+    margin-right: 0.16em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.duyuru-baslik {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.duz {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    text-decoration: none
+    }
+.duz-copy {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.57em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-ilk-paragraf {
+    color: #000;
+    display: block;
+    font-family: "Serif6 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.57em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-sagdan-blok {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.19em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-sagdan-blok-altta-bosluk {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 2.7em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-sagdan-blok-yakin {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-son-paragraf {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 2.7em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-son-paragraf1 {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 10.8em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz1 {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.57em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.foto {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.5em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0.47em;
+    margin-left: 0.16em;
+    margin-right: 0.16em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.generated-style {
+    display: block
+    }
+.generated-style1 {
+    height: auto;
+    width: auto
+    }
+.ikon {
+    color: #000;
+    display: block;
+    font-family: "Helvetica Neue LT Std";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 6em;
+    margin-left: 1.7em;
+    margin-right: 1.7em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.italik {
+    color: #000;
+    font-family: "Serif6 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.italik1 {
+    color: #000;
+    display: block;
+    font-family: "Serif6 Beta";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.54em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.ithaf-ortali {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 17.01em;
+    margin-left: 5.67em;
+    margin-right: 5.67em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.k-nye-bold {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.79em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.k-nye-kitap-ad {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.92em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.k-nye-regular {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 0.79em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.kitap-ismi {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kitap-ismi-2-son {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.43em;
+    margin-bottom: 4.05em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kitap-ismi-ilk {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.43em;
+    margin-bottom: 0;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kitap-ismi1 {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kitap-ismi2 {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 1.42em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.29em;
+    text-decoration: none
+    }
+.kunye-yeni-madde {
+    color: #000;
+    display: block;
+    font-family: "Gill Sans";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kunye-yeni-madde-devam {
+    color: #000;
+    display: block;
+    font-family: "Gill Sans";
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.serifsiz {
+    color: #000;
+    font-family: "Uni Sans Book";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    text-decoration: none
+    }
+.serifsiz-bold {
+    color: #000;
+    font-family: "Uni Sans Bold";
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.sgc {
+    height: 100%;
+    width: 100%
+    }
+.yazar-ismi {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.yazar-ismi1 {
+    color: #000;
+    display: block;
+    font-family: "Serif12 Beta";
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 6.07em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.yazar-ismi2 {
+    color: #000;
+    font-family: "Serif12 Beta";
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }

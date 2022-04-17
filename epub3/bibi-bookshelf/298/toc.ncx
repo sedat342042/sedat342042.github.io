@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="fabe46e3-9f4f-46db-ae74-62883e80f124" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.8.10)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bir Kitap Bir Balta</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="19f78400-c051-4227-ba62-777d674c64ff" playOrder="1">
+      <navLabel>
+        <text>BİR</text>
+      </navLabel>
+      <content src="birkitap_split_000.html#calibre_toc_1"/>
+      <navPoint id="a55474a5-cf89-403b-ac3d-bc7e0dfd0cec" playOrder="2">
+        <navLabel>
+          <text>Sinek</text>
+        </navLabel>
+        <content src="birkitap_split_005.html"/>
+      </navPoint>
+      <navPoint id="21fc4f53-3cca-409f-9d66-d9ecc09ebfb8" playOrder="3">
+        <navLabel>
+          <text>Son Görev</text>
+        </navLabel>
+        <content src="birkitap_split_006.html"/>
+      </navPoint>
+      <navPoint id="ced2cea3-5664-4160-9d72-6e0e16a9859d" playOrder="4">
+        <navLabel>
+          <text>Bay Cezmi C.</text>
+        </navLabel>
+        <content src="birkitap_split_007.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="7432d7b6-26da-4906-9405-d509395eb79d" playOrder="5">
+      <navLabel>
+        <text>İKİ</text>
+      </navLabel>
+      <content src="birkitap_split_000.html#calibre_toc_2"/>
+      <navPoint id="52a462dd-af0d-475a-8f86-52b686c3d817" playOrder="6">
+        <navLabel>
+          <text>Ayda Bir Şato</text>
+        </navLabel>
+        <content src="birkitap_split_008.html"/>
+      </navPoint>
+      <navPoint id="ea3f1bc4-a425-4b4e-9c4f-89106eaf9b7f" playOrder="7">
+        <navLabel>
+          <text>Tutuklu Kurbağa</text>
+        </navLabel>
+        <content src="birkitap_split_009.html"/>
+      </navPoint>
+      <navPoint id="604a1065-274a-40cb-aca6-b13a80f86060" playOrder="8">
+        <navLabel>
+          <text>Sorular</text>
+        </navLabel>
+        <content src="birkitap_split_010.html"/>
+      </navPoint>
+      <navPoint id="523797fa-72c6-4456-a89d-32c71d59b558" playOrder="9">
+        <navLabel>
+          <text>Müsait Biyerde</text>
+        </navLabel>
+        <content src="birkitap_split_011.html"/>
+      </navPoint>
+      <navPoint id="5dddccc1-61c1-48ba-8846-f8f615b15bf4" playOrder="10">
+        <navLabel>
+          <text>Oğlum</text>
+        </navLabel>
+        <content src="birkitap_split_012.html"/>
+      </navPoint>
+      <navPoint id="1a0057fa-8951-4f08-a214-76c44cc974e4" playOrder="11">
+        <navLabel>
+          <text>Pantolon Giymeyi Unutan Adam</text>
+        </navLabel>
+        <content src="birkitap_split_013.html"/>
+      </navPoint>
+      <navPoint id="3d8d94d3-92ed-40eb-a232-bc8974a1e4f7" playOrder="12">
+        <navLabel>
+          <text>Görece</text>
+        </navLabel>
+        <content src="birkitap_split_014.html"/>
+      </navPoint>
+      <navPoint id="5d0b2f8d-e887-4f4d-82e0-0fdcc065c9f0" playOrder="13">
+        <navLabel>
+          <text>Tuhaf Ölüler</text>
+        </navLabel>
+        <content src="birkitap_split_015.html"/>
+      </navPoint>
+      <navPoint id="0b4683ec-a0bf-4eed-a83a-b0bbc5ed112e" playOrder="14">
+        <navLabel>
+          <text>Ankaranın Taşına Bak</text>
+        </navLabel>
+        <content src="birkitap_split_016.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="8e3f8751-50b7-49b0-92ec-07abfdfeb31b" playOrder="15">
+      <navLabel>
+        <text>ÜÇ</text>
+      </navLabel>
+      <content src="birkitap_split_000.html#calibre_toc_3"/>
+      <navPoint id="add27561-e8c0-488b-9078-a173cc58b850" playOrder="16">
+        <navLabel>
+          <text>Yol</text>
+        </navLabel>
+        <content src="birkitap_split_017.html"/>
+      </navPoint>
+      <navPoint id="5547425c-0bb5-407b-9274-6e876e434f9f" playOrder="17">
+        <navLabel>
+          <text>Ortaya Karışık</text>
+        </navLabel>
+        <content src="birkitap_split_018.html"/>
+      </navPoint>
+      <navPoint id="cfc8c76a-fcc5-4135-9c2b-6a452a450fc1" playOrder="18">
+        <navLabel>
+          <text>Formulation</text>
+        </navLabel>
+        <content src="birkitap_split_019.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,282 @@
+body {
+	-webkit-hyphens:none;
+}
+/*gövde,paragraf*/
+p {
+	font: normal normal 0.9em/1.2em "Literata";
+	margin: 0 0 0 0;
+	text-align: justify;
+	text-indent: 1em;
+}
+.gir {
+	text-indent: 0em;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 1.2em;
+}
+/*kunye*/
+.pub {
+	font: normal normal 0.75em/1em "Oswald";
+	margin: 2em 0 2em	0;
+	text-align: center;
+	text-indent: 0em;
+}
+.pub p {
+	text-align: center;
+	text-indent: 0em;
+}
+p.pbl {
+	text-indent: 0em;
+	margin-top: 1em;
+}
+/*yazar*/
+div.aut {
+	font: normal normal 0.8em/1em "Literata";
+	margin: 5em 0 2em	0;
+	text-align: justify;
+	text-indent: 0em;
+}
+div.aut p {
+	text-align: justify;
+	text-indent: 0em;
+}
+p.autn {
+	text-indent: 0em;
+	margin-top: 1em;
+}
+/**/
+.dedic {
+	font: normal normal 1em/1em "Literata";
+	margin: 8em 0 0 0;
+	text-align: right;
+	text-indent: 0em;
+}
+.quotename {
+  	display: block;
+  	text-align: right;
+  	text-indent: 1em;
+  	font-style: italic;
+  	padding: 0.5em 0 0.5em 0;
+}
+.quote {
+ 	font: normal normal 100% "Literata";
+	display: block;
+  	text-align: left;
+ 	text-indent: 1em;
+  	padding: 0.8em;
+	letter-spacing: 0.05em;
+}
+.noind {
+  	display: block;
+  	margin-bottom: 3em 0 1em 0;
+  	text-indent: 0%;
+}
+.blok {
+  	display: block;
+  	font-size: 0.75em;
+  	margin: 1em 2em 1em 2em;
+  	text-align: center;
+	border: 1px solid #000;
+}
+.poetry {
+	display: block;
+	padding: 50px;
+	font-style: italic; 
+}
+.center { 	
+	margin: 1em 0 0 0;
+  	text-align: center;
+  	text-indent: 0%;
+}
+.left {
+	text-indent:0%;
+	margin-top:5% 0 5% 0;
+	text-align:left;
+}
+.right {
+	text-indent:0%;
+	margin-top:5% 20% 5% 0;
+	text-align:right;
+}
+.uline{
+	text-decoration: underline;
+}
+.nob{
+	margin-bottom: 0em;
+}
+.not{
+	margin-top: 0em;
+}
+.number {
+	font-family: normal normal 2em/1em "Literata";
+  	text-align: center;
+  	margin-top: 2em 0 0 0;
+  	display: block;
+}
+
+/*bölüm numara, başlık*/
+h1 {
+	font: normal normal 2.5em/1em "Literata";
+	margin: 1em 0 2em 0;
+  	text-align: center;
+  	display: block;
+}
+h2 {
+	font: normal normal 1.25em/1em "Literata";
+	margin: 1em 0 2em 0;
+  	text-align: center;
+  	display: block;
+}
+h3 {
+	font: normal normal 1.5em/1em "Literata";
+	margin: 1em 0 2em 0;
+  	text-align: center;
+  	display: block;}
+h4 {
+	font: normal normal 1.5em/1em "Literata";
+	margin: 1em 0 2em 0;
+  	text-align: center;
+  	display: block;
+}
+h5 {
+	font: normal normal 1.5em/1em "Literata";
+	margin: 1em 0 2em 0;
+  	text-align: center;
+  	display: block;
+}
+h6 {
+	font: normal normal 1.5em/1em "Literata";
+	margin: 1em 0 2em 0;
+  	text-align: center;
+  	display: block;
+}
+.cnum {
+	font: bold normal 1.5em/1em "Literata";
+	margin: 2em 0 3em 0;
+  	text-align: center;
+  	display: block;
+	text-indent: 0em;
+  	page-break-after: avoid;
+}
+.cname {
+	font: bold normal 1.5em/1em "Literata";
+	margin: 0 0 3em 0;
+  	text-align: center;
+  	display: block;
+  	page-break-after: avoid;
+}
+.bname {
+	font: normal normal 2.7em/2em "Literata";
+	margin: 2em 0 2em 0;
+  	text-align: center;
+  	display: block;
+	text-indent: 0em;
+  	page-break-after: avoid;
+}
+/*Kitap adı, yazar, yayınevi*/
+.story {
+	font: normal normal 2em/1em "Literata";
+	margin: 3em 0 0 0;
+  	text-align: center;
+	text-indent: 0em;
+  	display: block;
+}
+.author {
+	font: normal normal 1.3em/1em "Literata";
+	margin: 3em 0 3em 0;
+  	text-align: center;
+	text-indent: 0em;
+  	display: block;
+}
+.trans {
+	font: normal normal 0.8em/1em "Literata";
+	margin: 0 0 1em 0;
+  	text-align: center;
+	text-indent: 0em;
+  	display: block;
+  	page-break-after: avoid;
+}
+/*logo, resim, harita*/
+.logo {
+	margin: 5em auto 0 auto;
+  	text-align: center;
+	text-indent: 0em;
+	max-height: auto;
+	max-width: 50%;
+	}
+img {
+	max-height: 100%;
+	max-width: 100%;
+}
+hr {
+	margin-bottom: 0em;
+	margin-left: 0;
+}
+div.pic {
+	margin: 0.5em auto 0.5em auto;
+  	text-align: center;
+	max-height: 50%;
+	max-width: 50%;
+	}
+div.pic img {
+	max-height: 100%;
+	max-width: 100%;
+}
+div.pic p {
+	margin-bottom: 0.5em;
+	text-align: left;
+	text-indent: -50%;
+}
+.footnote {
+  	font-family: "Literata";
+  	font-size: 0.88em;
+  	margin-bottom: 0.4em;
+  	text-indent: 0;
+}
+.bref {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.nref {
+	padding-left: 0.1em;
+	font-size: 88%;
+	line-height: 0;
+	position: relative;
+	vertical-align: super;
+}
+sub, sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+sup {
+	top: -0.5em;
+}
+sub {
+	bottom: -0.25em;
+}
+@font-face {
+	font-family: 'Literata';
+    	font-weight: normal;
+    	font-style: normal;
+    	src: url('../Fonts/literata-regular.otf');
+}
+@font-face {
+    	font-family: 'Literata';
+    	font-weight: bold;
+    	font-style: normal;
+	src: url('../Fonts/literata-bold.otf');
+}
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../Fonts/literata-bold-italic.otf');
+}
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/literata-italic.otf');
+}

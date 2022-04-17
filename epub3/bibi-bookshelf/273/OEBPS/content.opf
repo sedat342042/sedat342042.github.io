@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sağlıklı Beslenme Güzellik ve Cinsellik</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gökçe, Nil Peri">Nil Peri Gökçe</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7b604a8e-6e38-416a-aa43-4aeb57348d02</dc:identifier>
+    <dc:description>&lt;p&gt;Lokman Hekim'den bugüne dek asırlardır süren bir rüya… Ölümsüzlük!.. Ya da en azından çok uzun yıllar yaşayabilmek, hem de hiç yaşlanmadan… Hiç yaşlanmamak tıpkı ölümsüzlük gibi hala insanlığın bir rüyası ama yaşlılığı olabildiğince ertelemek, aslında tamamen bize bağlı. Yaşam şeklimiz, günlük aktivitelerimiz, beslenmemiz… Bütün bunlar bizim elimizde. Eğer hayatımızı doğru bir planlamayla kurgularsak, sağlık ve mutluluk dolu bir hayat bizleri bekliyor. İşte bu kitap, sağlıklı ve mutlu bir hayat kapısının anahtarı. Bu kapıyı araladığınızda; sağlıklı beslenmeden, besinlere, kalori değerlerine, diyetlere, metabolizmanın sırlarına kadar hayatımız için çok önemli yaşam sırlarını keşfetmiş olacaksınız. Yine güzellikle ilgili sırlar; kadının dünyasına genel bakış, vücut bakımı, el, yüz, saç, göğüs bakımı, günlük bakım, yaşa göre bakım, makyaj v.b. gibi çok sayıda konu bu kapının ardında sizleri bekliyor. Son olarak da, hayatın vazgeçilmez bir parçası olan cinselliğin o gizemli dünyası yine bu kapının ardında. Kadın ve erkeğin cinsel hayatı, yaşa göre cinsellik, ön sevişme, sevişmenin doyulmaz hazzı, farklı dönemler ve yaşlar için sevişme pozisyonları, kadının ve erkeğin orgazmı, kadının orgazmı öğrenmesi ve yaşaması, burçlara göre cinsellik, burçlara göre sevişme pozisyonları, cinsel sağlık, cinsellikle ilgili önemli sorular ve cevapları, adet ve adetliyken seks v.b. gibi sayısız konu, cinsel hayatınızı sil baştan değiştirecek. Bu kitap bilimsel veriler eşliğinde size, hem sağlıklı bir yaşam ve güzelliğin sırlarını öğretecek, hem de cinsellikle ilgili bambaşka bir dünyanın kapılarını aralatacak…&lt;/p&gt;</dc:description>
+    <dc:publisher>Sis Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:date opf:event="modification">2014-03-20</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6fef2157-aaa8-479f-aac3-c573cf3a1f03</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756938324</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="Text/4-2.html" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak_fmt.jpeg" id="_kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/5_fmt.jpeg" id="x5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/6_fmt.jpeg" id="x6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/7_fmt.jpeg" id="x7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/9_fmt.jpeg" id="x9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/10_fmt.jpeg" id="x10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/11_fmt.jpeg" id="x11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/12_fmt.jpeg" id="x12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/13_fmt.jpeg" id="x13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/14_fmt.jpeg" id="x14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15_fmt.jpeg" id="x15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/15_fmt1.jpeg" id="x15_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/16_fmt.jpeg" id="x16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/17_fmt.jpeg" id="x17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/18_fmt.jpeg" id="x18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/19_fmt.jpeg" id="x19_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/20_fmt.jpeg" id="x20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/21_fmt.jpeg" id="x21_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/22_fmt.jpeg" id="x22_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/23_fmt.jpeg" id="x23_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/24_fmt.jpeg" id="x24_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/25_fmt.jpeg" id="x25_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/26_fmt.jpeg" id="x26_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/27_fmt.jpeg" id="x27_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/28_fmt.jpeg" id="x28_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/29_fmt.jpeg" id="x29_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/30_fmt.jpeg" id="x30_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/31_fmt.jpeg" id="x31_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/32_fmt.jpeg" id="x32_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/33_fmt.jpeg" id="x33_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/34_fmt.jpeg" id="x34_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/35_fmt.jpeg" id="x35_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/36_fmt.jpeg" id="x36_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/37_fmt.jpeg" id="x37_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/38_fmt.jpeg" id="x38_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/39_fmt.jpeg" id="x39_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/40_fmt.jpeg" id="x40_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/41_fmt.jpeg" id="x41_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sis_fmt.jpeg" id="sis_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uayE6KzYopNbW3vRexDQNUC" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

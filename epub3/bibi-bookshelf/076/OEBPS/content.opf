@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Parasız Yatılı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Füruzan">Füruzan</dc:creator>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2014-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:511752E7-6F64-4306-B285-1994CC664F0A</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">911bf5cf-2b1d-45f7-809c-ac5f7d6c2699</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="4-2.html" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="4-3.html" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="4-4.html" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="4-5.html" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="4-6.html" id="x4-6" media-type="application/xhtml+xml"/>
+    <item href="4-7.html" id="x4-7" media-type="application/xhtml+xml"/>
+    <item href="4-8.html" id="x4-8" media-type="application/xhtml+xml"/>
+    <item href="4-9.html" id="x4-9" media-type="application/xhtml+xml"/>
+    <item href="4-10.html" id="x4-10" media-type="application/xhtml+xml"/>
+    <item href="4-11.html" id="x4-11" media-type="application/xhtml+xml"/>
+    <item href="4-12.html" id="x4-12" media-type="application/xhtml+xml"/>
+    <item href="4-13.html" id="x4-13" media-type="application/xhtml+xml"/>
+    <item href="4-14.html" id="x4-14" media-type="application/xhtml+xml"/>
+    <item href="4-15.html" id="x4-15" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="usbJ74QBQgGNSDdX2qHR6q3" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+    <itemref idref="x4-8"/>
+    <itemref idref="x4-9"/>
+    <itemref idref="x4-10"/>
+    <itemref idref="x4-11"/>
+    <itemref idref="x4-12"/>
+    <itemref idref="x4-13"/>
+    <itemref idref="x4-14"/>
+    <itemref idref="x4-15"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

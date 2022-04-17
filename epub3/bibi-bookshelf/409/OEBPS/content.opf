@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Faydacılık</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="James, William">William James</dc:creator>
+    <dc:date>2002-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Yeryüzü Yayınevi</dc:publisher>
+    <dc:description>&lt;p&gt;Faydacılık adlı eserin 1907 yılındaki ilk baskısını, iki yıl sonra “Gerçeğin Anlamı” ve “Neden Faydacılık?” adlı çalışmalar izlemiştir. Bu ikinci çalışma esas olarak ilkine getirilen eleştirilere bir yanıt niteliği taşımaktadır. Fakat aynı zamanda yazarın düşünce sistematiğini yansıtan ve Faydacılık adlı eserden öncesine dayanan üç makaleyi de içermektedir. Şimdi bu ekleriyle zenginleştirilerek okuyucuya sunulan yeni baskı, Faydacılık doktrinini bütünlüklü ve sistematik bir biçimde ortaya koymaktadır.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>calibre_bincol</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6d64ade3-57d2-41cd-912b-6ed49398cee9</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/ekdg-logo.xhtml" id="ekdg-logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.htm" id="title.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.htm" id="kunye.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.htm" id="yazar.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ed_onsoz.htm" id="ed_onsoz.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.htm" id="ithaf.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.htm" id="onsoz.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/01.htm" id="x01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/02.htm" id="x02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/03.htm" id="x03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/04.htm" id="x04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/05.htm" id="x05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/06.htm" id="x06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/07.htm" id="x07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/08.htm" id="x08.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/09.htm" id="x09.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/10.htm" id="x10.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/11.htm" id="x11.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/12.htm" id="x12.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Fonts/BerlingLTStd-Bold.ttf" id="BerlingLTStd-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="BerlingLTStd-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="BerlingLTStd-Roman.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd-Italic.ttf" id="GillSansStd-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd.ttf" id="GillSansStd.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="ekdg-logo.xhtml"/>
+    <itemref idref="title.htm"/>
+    <itemref idref="kunye.htm"/>
+    <itemref idref="yazar.htm"/>
+    <itemref idref="ed_onsoz.htm"/>
+    <itemref idref="ithaf.htm"/>
+    <itemref idref="onsoz.htm"/>
+    <itemref idref="x01.htm"/>
+    <itemref idref="x02.htm"/>
+    <itemref idref="x03.htm"/>
+    <itemref idref="x04.htm"/>
+    <itemref idref="x05.htm"/>
+    <itemref idref="x06.htm"/>
+    <itemref idref="x07.htm"/>
+    <itemref idref="x08.htm"/>
+    <itemref idref="x09.htm"/>
+    <itemref idref="x10.htm"/>
+    <itemref idref="x11.htm"/>
+    <itemref idref="x12.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="ec1aef70-142f-462a-80cc-8eec4f1df594" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Satranç</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ee49a075-7d74-49f7-9717-067e44490c29" playOrder="1">
+      <navLabel>
+        <text>"Satranç" Üzerine</text>
+      </navLabel>
+      <content src="01 Klasik kitap_split_002.html"/>
+    </navPoint>
+    <navPoint id="ee924483-8901-4b20-80ed-015cedb0b002" playOrder="2">
+      <navLabel>
+        <text>Satranç</text>
+      </navLabel>
+      <content src="01 Klasik kitap_split_003.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

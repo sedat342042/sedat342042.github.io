@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Hafız Divanı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Şirazi, Hafız-ı">Hafız-ı Şirazi</dc:creator>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:1EF47621-E1E0-463C-897A-D413E1956C99</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;Hafız-ı Şirazî: XIV. yüzyılda İran’da yaşamıştır. Yaşamı hakkında günümüze ulaşan bilgilerin kesinliği de tartışmalıdır. Hafız, İran şiirine çığır açacak ölçüde önemli yenilikler getirmiştir. Şiirlerinde hayatı, dünya nimetlerini ve gündelik olaylardan kaynaklanan duyguları konu olarak işlemiştir. Meyhane, şarap, saki, dilber, gül gibi sözcükleri birer mazmun olmaktan çok gerçek anlamlarıyla kullanmıştır. Gazel dilinin kurucusu olan Hafız-ı Şirazî, sadece beyit bütünlüğü gözetilen şiirde konu bütünlüğünü gözeten ilk şairlerdendir. Şiirleri sanat çevrelerinde beğenildiği kadar halk tarafından da benimsenmiş, dîvânı halk arasında gönül ilişkileri ve talih konusunda başvurulan bir falname olarak kullanılmıştır.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Abdülbâki Gölpınarlı (1900-1982); 20. yüzyılda ülkemizin yetiştirdiği en önemli edebiyat tarihçilerinden ve (şarkiyat) doğubilimcilerindendir. Hasan Âli Yücel’in MEB Klasikleri’nden 1980’lere, dîvan, tasavvuf ve  halk edebiyatımızdan yaptığı temel yapıt çevirileri ve incelemeleriyle de kültür hayatımızda unutulmaz bir iz bırakan Gölpınarlı’nın sayısız eseri arasında, Mevlâna Külliyatı, Fuzulî, Nedim ve Yunus Emre dîvanları da vardır.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">4f47cc30-56f1-438e-85cb-a206593c6562</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786053602330</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="2-1.html" id="x2-1" media-type="application/xhtml+xml"/>
+    <item href="2-2.html" id="x2-2" media-type="application/xhtml+xml"/>
+    <item href="2-3.html" id="x2-3" media-type="application/xhtml+xml"/>
+    <item href="2-4.html" id="x2-4" media-type="application/xhtml+xml"/>
+    <item href="2-5.html" id="x2-5" media-type="application/xhtml+xml"/>
+    <item href="2-6.html" id="x2-6" media-type="application/xhtml+xml"/>
+    <item href="2-7.html" id="x2-7" media-type="application/xhtml+xml"/>
+    <item href="2-8.html" id="x2-8" media-type="application/xhtml+xml"/>
+    <item href="2-9.html" id="x2-9" media-type="application/xhtml+xml"/>
+    <item href="2-10.html" id="x2-10" media-type="application/xhtml+xml"/>
+    <item href="2-11.html" id="x2-11" media-type="application/xhtml+xml"/>
+    <item href="2-12.html" id="x2-12" media-type="application/xhtml+xml"/>
+    <item href="2-13.html" id="x2-13" media-type="application/xhtml+xml"/>
+    <item href="2-14.html" id="x2-14" media-type="application/xhtml+xml"/>
+    <item href="2-15.html" id="x2-15" media-type="application/xhtml+xml"/>
+    <item href="2-16.html" id="x2-16" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x2-1"/>
+    <itemref idref="x2-2"/>
+    <itemref idref="x2-3"/>
+    <itemref idref="x2-4"/>
+    <itemref idref="x2-5"/>
+    <itemref idref="x2-6"/>
+    <itemref idref="x2-7"/>
+    <itemref idref="x2-8"/>
+    <itemref idref="x2-9"/>
+    <itemref idref="x2-10"/>
+    <itemref idref="x2-11"/>
+    <itemref idref="x2-12"/>
+    <itemref idref="x2-13"/>
+    <itemref idref="x2-14"/>
+    <itemref idref="x2-15"/>
+    <itemref idref="x2-16"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

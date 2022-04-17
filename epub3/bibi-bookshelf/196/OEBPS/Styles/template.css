@@ -1,0 +1,452 @@
+@font-face {
+	font-family : "Liberation Serif";
+	font-style : normal;
+	font-weight : normal;
+	src : url("../Fonts/LiberationSerif.ttf");
+}
+@font-face {
+	font-family : "Liberation Serif";
+	font-style : normal;
+	font-weight : bold;
+	src : url("../Fonts/LiberationSerif-Bold.ttf");
+}
+@font-face {
+	font-family : "Liberation Serif";
+	font-style : italic ;
+	font-weight : normal;
+	src : url("../Fonts/LiberationSerif-Italic.ttf");
+}
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.Font-Style32 {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.75em;
+	color : #000000;
+}
+span.Font-Style33 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.58em;
+	color : #000000;
+}
+span.Font-Style34 {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.58em;
+	color : #000000;
+}
+span.Hyperlink {
+	text-decoration : underline;
+	color : #000080;
+}
+span.Font-Style35 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.58em;
+	color : #000000;
+}
+span.char-style-override-1 {
+	font-family : "Liberation Serif", serif;
+	font-size : 1.67em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-2 {
+	font-family : "Liberation Serif";
+	font-size : 1.22em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-3 {
+	font-family : "Liberation Serif", serif;
+	font-size : 1.33em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-4 {
+	font-size : 0.75em;
+}
+span.char-style-override-5 {
+	font-family : "Liberation Serif";
+	font-size : 0.75em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-6 {
+	font-size : 1.25em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-7 {
+	color : #000000;
+	font-family : "Liberation Serif", serif;
+	font-size : 0.91em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-8 {
+	color : #000000;
+	font-family : "Liberation Serif", serif;
+	font-size : 0.91em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-9 {
+	color : #000000;
+	font-family : "Liberation Serif", serif;
+	font-size : 1em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-10 {
+	color : #000000;
+	font-family : "Liberation Serif", serif;
+	font-size : 0.83em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-11 {
+	font-size : 0.83em;
+}
+p.paragraf {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.36;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px;
+}
+p.anabaslik {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.25em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 250px 0px 40px 0px;
+}
+p.resim {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.56;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 0px;
+}
+p.Style16 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style18 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.27;
+	text-align : justify;
+	color : #000000;
+	text-indent : 21px;
+	margin : 0px;
+}
+p.Style23 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : left;
+	color : #000000;
+	text-indent : 21px;
+	margin : 0px;
+}
+p.Style25 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.24;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style27 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.paragraf-1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px;
+}
+p.resimalti-italik {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.56;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 5px 0px 30px 0px;
+}
+p.resim-alyazili {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.56;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 0px 5px 0px;
+}
+p.Basic-Paragraph {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 21px;
+	margin : 0px 0px 10px 0px;
+}
+p.No-Paragraph-Style {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Basic-Paragraph-1 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 21px;
+	margin : 0px 0px 10px 0px;
+}
+p.paragraf-2 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.36;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px;
+}
+p.bas {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 21px;
+	margin : 0px 0px 10px 0px;
+}
+p.alt {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 5px 0px 30px 0px;
+}
+p.G-vde {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 21px;
+	margin : 200px 0px 10px 0px;
+}
+p.para-style-override-1 {
+	text-align : center;
+	margin-top : 0em;
+	margin-bottom : 0em;
+}
+p.para-style-override-2 {
+	margin-top : 150px;
+	text-align : center;
+}
+p.para-style-override-3 {
+	text-align : center;
+}
+p.para-style-override-4 {
+	margin-top : 60px;
+	text-align : center;
+}
+p.para-style-override-5 {
+	margin-top : 300px;
+	text-align : center;
+}
+p.para-style-override-6 {
+	margin-top : 120px;
+	text-align : center;
+}
+p.para-style-override-7 {
+	text-indent : 0px;
+}
+p.para-style-override-8 {
+	margin-left : 20px;
+	text-indent : 0px;
+}
+p.para-style-override-9 {
+	margin-left : 22px;
+	margin-right : 115px;
+	text-align : left;
+	text-indent : 0px;
+}
+p.para-style-override-10 {
+	margin-left : 21px;
+	margin-right : 58px;
+}
+p.para-style-override-11 {
+	text-indent : 21px;
+}
+p.para-style-override-12 {
+	text-indent : 22px;
+}
+p.para-style-override-13 {
+	margin-left : 21px;
+	text-align : left;
+	text-indent : 0px;
+}
+p.para-style-override-14 {
+	margin-left : 22px;
+	text-align : left;
+	text-indent : 0px;
+}
+p.para-style-override-15 {
+	margin-top : 4px;
+	text-indent : 21px;
+}
+p.para-style-override-16 {
+	margin-left : 22px;
+	text-align : left;
+}
+p.para-style-override-17 {
+	text-align : left;
+}
+p.para-style-override-18 {
+	margin-right : 0px;
+	text-align : right;
+	text-indent : 0px;
+}
+p.para-style-override-19 {
+	text-align : left;
+	text-indent : 0px;
+}
+p.para-style-override-20 {
+	margin-top : 4px;
+}
+p.para-style-override-21 {
+	margin-right : 0px;
+	text-indent : 21px;
+}
+p.para-style-override-22 {
+	margin-left : 22px;
+	margin-right : 101px;
+	text-align : left;
+}
+div.Basic-Text-Frame {
+}

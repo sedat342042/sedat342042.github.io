@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Yaban Diyarlardaki Yabancı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Heinlein, Robert A.">Robert A. Heinlein</dc:creator>
+    <dc:identifier opf:scheme="UUID" id="BookId">67ba9c80-d5f0-4a3e-9ef7-b8058374c6df</dc:identifier>
+    <dc:date>2002-12-31T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2017-03-29</dc:date>
+    <dc:publisher>Artemis Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Gözden kaçmış hatalar varsa bildirir misiniz?&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Amerika’da yıllarca ‘sakıncalı’ bulunarak sansürlü ve değiştirilmiş versiyonuyla okura sunulan Yaban Diyarlardaki Yabancı, Türkçe’ye tam metin olarak kazandırıldı.&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;1962 Hugo Ödülü’nü alan Yaban Diyarlardaki Yabancı, Mars’tan Gelen Adam Valentine Smith’in insanlara groklamayı, su paylaşmayı ve Sevgiyi öğretmesinin öyküsü...&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">30f19931-ab51-4129-bea9-a54489894707</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="giris.xhtml" href="Text/giris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tesekkur.xhtml" href="Text/tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum01.xhtml" href="Text/bolum01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum02.xhtml" href="Text/bolum02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15.xhtml" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16.xhtml" href="Text/16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17.xhtml" href="Text/17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18.xhtml" href="Text/18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19.xhtml" href="Text/19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20.xhtml" href="Text/20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x21.xhtml" href="Text/21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum03.xhtml" href="Text/bolum03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x22.xhtml" href="Text/22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x23.xhtml" href="Text/23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x24.xhtml" href="Text/24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x25.xhtml" href="Text/25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x26.xhtml" href="Text/26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x27.xhtml" href="Text/27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x28.xhtml" href="Text/28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x29.xhtml" href="Text/29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum04.xhtml" href="Text/bolum04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x30.xhtml" href="Text/30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x31.xhtml" href="Text/31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x32.xhtml" href="Text/32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x33.xhtml" href="Text/33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum05.xhtml" href="Text/bolum05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x34.xhtml" href="Text/34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x35.xhtml" href="Text/35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x36.xhtml" href="Text/36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x37.xhtml" href="Text/37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x38.xhtml" href="Text/38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x39.xhtml" href="Text/39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="mute.css" href="Styles/mute.css" media-type="text/css"/>
+    <item id="artemis.jpg" href="Images/artemis.jpg" media-type="image/jpeg"/>
+    <item id="literata-bold-italic.otf" href="Fonts/literata-bold-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-bold.otf" href="Fonts/literata-bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-italic.otf" href="Fonts/literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-regular.otf" href="Fonts/literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="tesekkur.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="bolum01.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="bolum02.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="x21.xhtml"/>
+    <itemref idref="bolum03.xhtml"/>
+    <itemref idref="x22.xhtml"/>
+    <itemref idref="x23.xhtml"/>
+    <itemref idref="x24.xhtml"/>
+    <itemref idref="x25.xhtml"/>
+    <itemref idref="x26.xhtml"/>
+    <itemref idref="x27.xhtml"/>
+    <itemref idref="x28.xhtml"/>
+    <itemref idref="x29.xhtml"/>
+    <itemref idref="bolum04.xhtml"/>
+    <itemref idref="x30.xhtml"/>
+    <itemref idref="x31.xhtml"/>
+    <itemref idref="x32.xhtml"/>
+    <itemref idref="x33.xhtml"/>
+    <itemref idref="bolum05.xhtml"/>
+    <itemref idref="x34.xhtml"/>
+    <itemref idref="x35.xhtml"/>
+    <itemref idref="x36.xhtml"/>
+    <itemref idref="x37.xhtml"/>
+    <itemref idref="x38.xhtml"/>
+    <itemref idref="x39.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="text" title="Text" href="Text/ickapak.xhtml"/>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

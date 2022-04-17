@@ -1,0 +1,435 @@
+@namespace epub "http://www.idpf.org/2007/ops"; 
+
+@font-face {
+	font-family:"Caslon";
+	font-weight: normal;
+	font-style: normal;
+	src: url("font/Caslon.ttf");
+}
+
+@font-face {
+	font-family:"Caslon";
+	font-weight: normal;
+	font-style: italic;
+	src: url("font/Caslon-Italic.ttf");
+}
+
+@font-face {
+	font-family:"Caslon Open";
+	font-weight: normal;
+	font-style: normal;
+	src: url("font/CaslonOpen.ttf");
+}
+
+@font-face {
+	font-family:"Caslon Open";
+	font-weight: normal;
+	font-style: italic;
+	src: url("font/CaslonOpen-Italic.ttf");
+}
+
+@font-face {
+	font-family:"Palatino";
+	font-weight: normal;
+	font-style: normal;
+	src: url("font/Palatino.ttf");
+}
+
+@font-face {
+	font-family:"Helvetica";
+	font-weight: normal;
+	font-style: normal;
+	src: url("font/Helvetica.ttf");
+}
+
+@font-face {
+	font-family:"YKYstar";
+	font-weight: normal;
+	font-style: normal;
+	src: url("font/YKYstar.ttf");
+}
+
+@font-face {
+	font-family:"YKYlogo";
+	font-weight: normal;
+	font-style: normal;
+	src: url("font/YKYlogo.ttf");
+}
+
+/*cover*/
+
+
+.cover-container {
+	max-width: 500px;
+	margin: auto auto;
+	page-break-inside: avoid; 
+}
+
+.cover-container img {
+	width: 100%;
+}
+
+/*titlepage*/
+
+.titlepage .seri {
+	margin-bottom: 4em;
+	font: normal normal .9em/1.2em "Caslon";
+	text-align: center;
+	letter-spacing: .2em;
+}
+
+.titlepage .aut {
+	text-align: center;
+	font: normal normal 1.5em/1.2em "Caslon Open";
+	margin-top: 4em;
+	margin-bottom: 1em;
+}
+
+.titlepage .work {
+	text-align: center;
+	font: normal normal 1.5em/1.2em "Caslon Open";
+	margin-top: .3em;
+	margin-bottom: .3em;
+}
+
+.titlepage .work span {
+	font-size: 1.33em;
+}
+
+.titlepage .translator {
+	margin-top: 4em;
+	font: normal normal .9em/1.4em "Caslon";
+	text-align: center;
+}
+
+.logo{
+	width: 100px;
+	margin: auto;
+	page-break-inside: avoid;
+	margin-top: 4em;
+}
+
+.logo img {
+	width: 100%;
+}
+
+/*copyright-page*/
+
+.copyright-page section{
+	margin-top: 1em;
+	text-align: center;
+	font: normal normal .8em/1.2em "Caslon";
+}
+
+.copyright-page span {
+	display: block;
+	text-align: center;
+}
+
+.copyright-page a {
+	text-decoration: none;
+	color: #777;
+}
+
+/*dedication*/
+
+.dedication section {
+	text-align: right;
+	font: italic normal .83em/1.2em "Caslon";
+	margin-top: 4em;
+}
+
+.dedication section span {
+	display: block
+}
+
+.dedication cite {
+	display: block;
+	font: normal normal 1em/1.2em "Caslon";
+	margin-top: 1em;
+}
+
+
+/*preface*/
+
+.preface h1, .foreword .chapter-header{
+	font: normal normal 1.16em/1.2em "Caslon Open";
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+.preface p, .foreword p {
+	text-indent: 2em;
+}
+
+.preface p:first-of-type, .foreword p:first-of-type{
+	text-indent: 0;
+}
+
+.preface cite {
+	font:italic normal .85em/1.3em "Caslon";
+	display: block;
+	margin-top: 1em;
+	text-align: right;
+}
+
+.clear {
+	clear:both;
+}
+
+/*epigraph*/
+
+.epigraph > section > section {
+	float: right;
+	text-align: left;
+	
+}
+
+.epigraph section span {
+	display: block;
+}
+
+.epigraph .poem {
+	margin-top: 4em;
+}
+
+.epigraph .poem span{
+	padding-right: 2em;
+}
+
+.epigraph .poem cite {
+	font-style: italic;
+}
+
+.sone {
+	font:normal normal .85em/1.3em "Caslon";
+}
+
+.epigraph cite {
+	text-align: right;
+	display: block;
+}
+
+
+
+/*chapter*/
+
+.part-header {
+	font: normal normal 1.2em/1.2em "Caslon Open";
+	margin: 5em auto 2em auto;
+	text-align: center;
+}
+
+.chapter-header {
+	font: normal normal 1em/1.2em "Caslon Open";
+	margin: 5em auto 1em auto;
+	text-align: center;
+}
+
+.part-header + section > .chapter-header {
+	margin-top: 2em;
+}
+
+.text-header {
+	font: italic normal 1.08em/1.2em "Caslon";
+	margin: 2em auto 1em auto;
+
+}
+
+.s-text-header {
+	font: normal normal 1.08em/1.2em "Caslon";
+	margin: 2em auto 1em auto;
+}
+
+.spot {
+	font:italic normal 1em/1.3em "Caslon";
+	text-align: center;
+	margin: 1em auto 1em;
+}
+
+.sub-spot {
+	font:italic normal 1em/1.3em "Caslon";
+	text-align: center;
+	margin: 1em auto 0;
+}
+
+.sub-spot + ol {
+	margin-top: 0;
+}
+
+.chapter-header + .spot {
+	margin-top: 2.5em;
+}
+
+.entry {
+	text-indent: 2em;
+}
+
+.entry2 {
+	padding-left: 15em;
+}
+
+.margined {
+	margin-top: 1em;
+}
+
+.prey {
+	text-align: center;
+	margin-bottom: 1em;
+	font: normal normal .75em/1.5em "Caslon";
+}
+
+p {
+	font:normal normal .85em/1.3em "Caslon";
+	margin: 0 auto;
+}
+
+.latin1 {
+	font-style: italic;
+	text-indent: 2em;
+	margin-bottom: 1em;
+	font-size: 1em;
+}
+
+.latin2 {
+	font-style: italic;
+	text-indent: 2em;
+	margin-top: 1em;
+	font-size: 1em;
+}
+
+.end {
+	text-align: right;
+	margin-top: 1em;
+}
+
+.chapter .sone {
+	margin:1.2em auto 1.2em 2.3em;
+}
+
+.chapter .sone p {
+	font-size: .9em;
+}
+
+.poem {
+	margin: 1em auto 1em 2em;
+}
+
+.poem span {
+	display: block;
+	font:italic normal .85em/1.3em "Caslon";
+}
+
+.poem cite {
+	font:normal normal .85em/1.3em "Caslon";
+	padding-left: 9em;
+}
+
+
+
+section ol {
+	list-style: none;
+}
+
+section ol li{
+	display: block;
+	padding-right: 2em;
+	position: relative;
+	font:normal normal .85em/1.3em "Caslon";
+	padding-bottom: 1em;
+}
+
+section ol li span {
+	position: absolute;
+	padding-right: 3em;
+	left: -2em;
+	vertical-align: top;
+	display: inline-block;
+}
+
+
+ol li p {
+	font-size: 1em;
+}
+
+hr{
+	border: none;
+	text-align: center;
+	margin: 2em auto;
+}
+
+hr:after {
+	
+	font:normal normal .5em/1.5em "YKYstar";
+	
+	content: "A"
+}
+
+
+/*foreword*/
+
+.foreword .chapter-header {
+	margin-bottom: 2em;
+}
+
+.foreword .poem cite {
+	display: block;
+	font:normal normal .85em/1.3em "Caslon";
+	padding-left: 12em;
+}
+
+.foreword cite {
+	font:italic normal .85em/1.3em "Caslon";
+	display: block;
+	text-align: right;
+}
+
+/*bibliography*/
+
+.foreword .bibl-header {
+	font: normal normal .7em/1.6em "Caslon";
+	margin:4em 0 0 0; 
+}
+
+.foreword .bib-entry {
+	font: normal normal .7em/1.6em "Caslon";
+}
+
+.foreword .bibliography p {
+	font: normal normal .7em/1.6em "Caslon";
+	padding-left: 2em;
+	text-indent: -2em;
+}
+
+sup {
+	font-size: .6em;
+}
+
+.noteref {
+	vertical-align: super;
+	font-size: .6em;
+	color:#777;
+	text-decoration: none;
+}
+
+h1 .noteref {
+	font-size: .8em;
+}
+
+aside {
+	font:normal normal .7em/1.2em "Caslon";
+	padding-bottom: .2em;
+}
+
+aside blockquote {
+	margin: 0 0 0 1em;
+}
+
+aside blockquote span {
+	display: block;
+}
+
+aside ol {
+	margin: 0;
+	padding-left: 2.2em;
+}

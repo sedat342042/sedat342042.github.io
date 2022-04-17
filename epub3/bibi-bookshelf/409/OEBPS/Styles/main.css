@@ -1,0 +1,169 @@
+.ekdg-logo {
+  text-align: center;
+  margin: 5em 0 1em;
+}
+
+/*----TITLE----*/
+.center {
+  text-align: center;
+}
+.author {
+  margin-top: 2em;
+  font: normal bold 1.3em/1.2em "Berling LT Std Roman";
+}
+.work {
+  font: normal bold 2.35em/1.2em "Berling LT Std Roman";
+  margin-top: 0.5em;
+}
+.logo {
+  margin-top: 10em;
+}
+/*----KUNYE----*/
+.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+.copyright p.crt {
+  font: normal normal 0.751em "Gill Sans Std";
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-indent: 0;
+  text-align: center;
+}
+/*----AUTHOR----*/
+.bibl {
+  margin: 2em;
+}
+.bibl p {
+  font: normal normal 0.875em "Berling LT Std Roman";
+  text-align: justify;
+  text-indent: 0;
+}
+/*----ITHAF----*/
+.ithaf {
+  margin-top: 10em;
+}
+/*----H----*/
+h1 {
+  font: normal bold 1.25em/1.2em "Berling LT Std Roman";
+  margin-bottom: 2em;
+  text-align: center;
+}
+h2 {
+  font: normal normal 1em/1.2em "Berling LT Std Roman";
+  margin-bottom: 8em;
+  text-align: center;
+}
+/*----P----*/
+p {
+  font: normal normal 0.93em "Berling LT Std Roman";
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+p.extract {
+  font: normal normal 0.93em "Berling LT Std Roman";
+  margin-bottom: 0;
+  margin-top: 1em;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+/*----Block----*/
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+blockquote p {
+  text-indent: 0;
+  font-family: "Berling LT Std Roman";
+  font-size: 0.851em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  text-align: justify;
+}
+.poem {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3.5em;
+}
+.poem p {
+  text-indent: -2em;
+  text-align: justify;
+  font: italic normal 0.875em "Berling LT Std Roman";
+}
+.poem .extract1 {
+  margin-top: 1em;
+}
+/*Notlar*/
+.footnotes {
+  margin: 4em 0 1em;
+  text-align: justify;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.1em;
+}
+.footnote {
+  font-family: "Gill Sans Std";
+  font-size: 0.851em;
+  margin-bottom: 0.25em;
+  text-indent: 0;
+}
+.noteref {
+  font-family: sans-serif;
+  text-decoration: none;
+  font-size: 0.75em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+/* ----TABLES---- */
+table {
+  border-collapse: collapse;
+  margin-left: 1.5em;
+  font-family: "Gill Sans Std";
+  font-weight: normal;
+  font-size: 0.851em;
+}
+td {
+  padding-left: 8px;
+  padding-right: 16px;
+}
+/*****FONT*****/
+
+@font-face {
+  font-family: "Berling LT Std Roman";
+  font-style: italic;
+  font-weight: normal;
+  src : url("../Fonts/BerlingLTStd-Italic.ttf") 
+}
+@font-face {
+  font-family: "Berling LT Std Roman";
+  font-style: normal;
+  font-weight: bold;
+  src : url("../Fonts/BerlingLTStd-Bold.ttf") 
+}
+@font-face {
+  font-family: "Berling LT Std Roman";
+  font-style: normal;
+  font-weight: normal;
+  src : url("../Fonts/BerlingLTStd-Roman.ttf") 
+}
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: normal;
+  font-weight: normal;
+  src : url("../Fonts/GillSansStd.ttf") 
+}
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: italic;
+  font-weight: normal;
+  src : url("../Fonts/GillSansStd-Italic.ttf") 
+}

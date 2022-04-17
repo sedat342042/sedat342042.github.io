@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Nazlı Kar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tanizaki, Jun'ichiro">Jun'ichiro Tanizaki</dc:creator>
+    <dc:date>2015-11-30T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date opf:event="modification">2017-03-26</dc:date>
+    <dc:identifier id="uuid">{92768D73-8626-4EF6-9D3B-5ECE6268E7A5}</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Japon şiirinde kiraz çiçeklerine dair yüzlerce, binlerce şiir söylenmişti… Eskiler çiçeklerin açmasını sabırsızlıkla bekler… dalından düşüp giden çiçeklere hüzünlenirdi… defalarca, tekrar tekrar aynı şeyleri dillendiren sayısız şiir yazılmıştı… Sachiko küçük bir kızken, bu şiirler ona çok sıradan gelir, pek duygulanmadan okuyup geçerdi. Yıllar geçip yaşı ilerledikçe eski zamanlarda yaşamış bu insanların sadece hoş ve zarif bir söz söyleme kaygısında olmadığını fark etmişti. Kirazların çiçek açmasını nasıl özlemle beklediklerini… sonra en görkemli zamanlarında dökülüp giden çiçeklerin yarattığı hüznü… Sachiko da ruhunun derinliklerinde hissetmeye başlamıştı.&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Nazlı Kar bir döneme, farklı bir coğrafyaya, Japon algısına, kültürüne bir yolculuk gibi... Dört kız kardeşin odağında gelişen bir "kadın romanı". Yazar, satırlarında gelenek ve modernlik, Doğu ve Batı kavramlarını sorgularken okuyucusunu da kendisine katılmaya davet ediyor. Kitap adını, Japon şiirindeki bir söz sanatından alıyor. Kiraz çiçeklerinin baharda dallarından dökülmesini kar zannetmek… Kitabın kurgusu da bu imgeye uygun bir biçimde mevsimlerin döngüsünü aktarıyor, zamanın geçişine duyulan hüznü bize ulaştırıyor.&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;(Tanıtım Bülteninden)&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">445c90d7-dcce-4b88-9a2e-b14f9ca1c87d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750727221</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="kitapadi.xhtml" href="Text/kitapadi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="arasayfa.xhtml" href="Text/arasayfa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ceviren.xhtml" href="Text/ceviren.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara1.xhtml" href="Text/ara1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cilt1.xhtml" href="Text/cilt1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara2.xhtml" href="Text/ara2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cilt2.xhtml" href="Text/cilt2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ara3.xhtml" href="Text/ara3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cilt3.xhtml" href="Text/cilt3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id101" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="StyleM.css" href="Styles/StyleM.css" media-type="text/css"/>
+    <item id="can2.jpeg" href="Images/can2.jpeg" media-type="image/jpeg"/>
+    <item id="PalatinoTrBold.ttf" href="Fonts/PalatinoTrBold.ttf" media-type="application/x-font-ttf"/>
+    <item id="PalatinoTrBoldItalic.ttf" href="Fonts/PalatinoTrBoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="PalatinoTrItalic.ttf" href="Fonts/PalatinoTrItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="PalatinoTrNormal.ttf" href="Fonts/PalatinoTrNormal.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id101">
+    <itemref idref="titlepage"/>
+    <itemref idref="kitapadi.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="arasayfa.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ceviren.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="ara1.xhtml"/>
+    <itemref idref="cilt1.xhtml"/>
+    <itemref idref="ara2.xhtml"/>
+    <itemref idref="cilt2.xhtml"/>
+    <itemref idref="ara3.xhtml"/>
+    <itemref idref="cilt3.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

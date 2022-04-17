@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content=""/>
+		<meta name="dtb:depth" content="3"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Nasîruddîn Tûsî Hayatı, İlmi Hüviyeti, Ahlâk Eserleri ve İslâm Ahlâk Düşüncesindeki Yeri</text>
+			</navLabel>
+			<content src="8.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>1. Hayatı</text>
+				</navLabel>
+				<content src="8.html#toc_marker-1-1"/>
+			</navPoint>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>2. Bir “Rönesans Adamı” Olarak Tûsî ve Öğrencileri</text>
+				</navLabel>
+				<content src="8.html#toc_marker-1-2"/>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>3. Ahlak Eserleri</text>
+				</navLabel>
+				<content src="8.html#toc_marker-1-3"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>4. İslâm Ahlâk Düşüncesindeki Yeri</text>
+				</navLabel>
+				<content src="8.html#toc_marker-1-4"/>
+				<navPoint id="navpoint6" playOrder="6">
+					<navLabel>
+						<text>Müellifin Mukaddimesi</text>
+					</navLabel>
+					<content src="8.html#toc_marker-1-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint7" playOrder="7">
+					<navLabel>
+						<text>Seyr u Sülûk’un Gereçleri</text>
+					</navLabel>
+					<content src="8.html#toc_marker-1-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint8" playOrder="8">
+					<navLabel>
+						<text>Filozofların sevgi konusundaki düşünceleri</text>
+					</navLabel>
+					<content src="8.html#toc_marker-1-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint9" playOrder="9">
+					<navLabel>
+						<text>Nasîriyye Risâlesi (er-Risâletu’n-Nasîriyye)</text>
+					</navLabel>
+					<content src="8.html#toc_marker-1-4-4"/>
+				</navPoint>
+				<navPoint id="navpoint10" playOrder="10">
+					<navLabel>
+						<text>Asr Suresinin Tefsiri (Tefsîr-i Sûreti’l-Asr)</text>
+					</navLabel>
+					<content src="8.html#toc_marker-1-4-5"/>
+				</navPoint>
+				<navPoint id="navpoint11" playOrder="11">
+					<navLabel>
+						<text>İlk Yetkinlik ve İkinci Yetkinlik Hakkında (Risâle fî’l Kemâli’l-Evvel ve’l-Kemâli’s-Sânî)</text>
+					</navLabel>
+					<content src="8.html#toc_marker-1-4-6"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Bediüzzaman Said Nursi'den Denizli Hapishane Mektupları</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Şahiner, Necmettin">Necmettin Şahiner</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Şahdamar Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-03-19</dc:date>
+    <dc:subject>iz_hazir</dc:subject>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.79.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">89139302-366e-411d-ba51-7cdf9f665078</dc:identifier>
+    </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub.html" id="hapishane_mektuplari_epub" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-1.html" id="hapishane_mektuplari_epub-1" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-2.html" id="hapishane_mektuplari_epub-2" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-3.html" id="hapishane_mektuplari_epub-3" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-4.html" id="hapishane_mektuplari_epub-4" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-5.html" id="hapishane_mektuplari_epub-5" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-6.html" id="hapishane_mektuplari_epub-6" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-7.html" id="hapishane_mektuplari_epub-7" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-8.html" id="hapishane_mektuplari_epub-8" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-9.html" id="hapishane_mektuplari_epub-9" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-10.html" id="hapishane_mektuplari_epub-10" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-11.html" id="hapishane_mektuplari_epub-11" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-12.html" id="hapishane_mektuplari_epub-12" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-13.html" id="hapishane_mektuplari_epub-13" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-14.html" id="hapishane_mektuplari_epub-14" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-15.html" id="hapishane_mektuplari_epub-15" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-16.html" id="hapishane_mektuplari_epub-16" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-17.html" id="hapishane_mektuplari_epub-17" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-18.html" id="hapishane_mektuplari_epub-18" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-19.html" id="hapishane_mektuplari_epub-19" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-20.html" id="hapishane_mektuplari_epub-20" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-21.html" id="hapishane_mektuplari_epub-21" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-22.html" id="hapishane_mektuplari_epub-22" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-23.html" id="hapishane_mektuplari_epub-23" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-24.html" id="hapishane_mektuplari_epub-24" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-25.html" id="hapishane_mektuplari_epub-25" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-26.html" id="hapishane_mektuplari_epub-26" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-27.html" id="hapishane_mektuplari_epub-27" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-28.html" id="hapishane_mektuplari_epub-28" media-type="application/xhtml+xml"/>
+    <item href="Text/hapishane_mektuplari_epub-29.html" id="hapishane_mektuplari_epub-29" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/Necmettin Şahiner.jpg" id="Necmettin_Şahiner.jpg" media-type="image/jpeg"/>
+    <item href="Images/s_16 mektup _fmt.png" id="s_16-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_19 mektup _fmt.png" id="s_19-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_24 mektup _fmt.png" id="s_24-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_35 resim_fmt.png" id="s_35-20resim_fmt.png" media-type="image/png"/>
+    <item href="Images/s_37 mektup _fmt.png" id="s_37-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_43 mektup _fmt.jpeg" id="s_43-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_44 mektup _fmt.jpeg" id="s_44-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_45 mektup _fmt.png" id="s_45-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_46 mektup _fmt.jpeg" id="s_46-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_47 mektup _fmt.png" id="s_47-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_48 mektup _fmt.png" id="s_48-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_49 mektup _fmt.png" id="s_49-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_50 mektup _fmt.jpeg" id="s_50-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_52 mektup _fmt.jpeg" id="s_52-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_53 mektup _fmt.png" id="s_53-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_54 mektup _fmt.jpeg" id="s_54-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_56 mektup _fmt.jpeg" id="s_56-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_58 mektup _fmt.jpeg" id="s_58-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_60 mektup _fmt.png" id="s_60-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_62 mektup _fmt.jpeg" id="s_62-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_64 mektup _fmt.png" id="s_64-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_65 mektup _fmt.png" id="s_65-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_66 mektup _fmt.jpeg" id="s_66-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_68 mektup _fmt.jpeg" id="s_68-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_70 mektup _fmt.jpeg" id="s_70-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_72 mektup _fmt.jpeg" id="s_72-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_74 mektup _fmt.jpeg" id="s_74-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_76 mektup _fmt.jpeg" id="s_76-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_77 mektup _fmt.jpeg" id="s_77-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_78 mektup _fmt.png" id="s_78-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_79 mektup _fmt.jpeg" id="s_79-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_80 mektup _fmt.jpeg" id="s_80-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_82 mektup _fmt.jpeg" id="s_82-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_83 mektup _fmt.png" id="s_83-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_84 mektup _fmt.png" id="s_84-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_85 mektup _fmt.jpeg" id="s_85-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_86 mektup _fmt.png" id="s_86-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_87 mektup _fmt.png" id="s_87-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_88 mektup _fmt.jpeg" id="s_88-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_90 mektup _fmt.jpeg" id="s_90-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_92 mektup _fmt.png" id="s_92-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_93 mektup _fmt.png" id="s_93-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_94 mektup _fmt.jpeg" id="s_94-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_96 mektup _fmt.jpeg" id="s_96-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_98 mektup _fmt.jpeg" id="s_98-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_100 mektup _fmt.jpeg" id="s_100-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_102 mektup _fmt.jpeg" id="s_102-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_104 mektup _fmt.jpeg" id="s_104-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_106 mektup _fmt.jpeg" id="s_106-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_108 mektup _fmt.jpeg" id="s_108-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_110 mektup _fmt.jpeg" id="s_110-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_111 mektup _fmt.jpeg" id="s_111-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_112 mektup _fmt.jpeg" id="s_112-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_114 mektup _fmt.jpeg" id="s_114-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_116 mektup _fmt.jpeg" id="s_116-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_118 mektup _fmt.png" id="s_118-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_119mektup _fmt.png" id="s_119mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_120 mektup _fmt.jpeg" id="s_120-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_122 mektup _fmt.png" id="s_122-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_123 mektup _fmt.jpeg" id="s_123-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_124 mektup _fmt.jpeg" id="s_124-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_126 mektup _fmt.jpeg" id="s_126-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_128 mektup _fmt.jpeg" id="s_128-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_130 mektup _fmt.jpeg" id="s_130-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_131 mektup _fmt.jpeg" id="s_131-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_132 mektup _fmt.png" id="s_132-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_134 mektup _fmt.jpeg" id="s_134-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_137 mektup _fmt.jpeg" id="s_137-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_141 mektup _fmt.jpeg" id="s_141-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_143 mektup _fmt.jpeg" id="s_143-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_145 mektup _fmt.jpeg" id="s_145-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_147 mektup _fmt.jpeg" id="s_147-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_149 mektup _fmt.jpeg" id="s_149-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_151 mektup _fmt.jpeg" id="s_151-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_153 mektup _fmt.jpeg" id="s_153-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_155 mektup _fmt.jpeg" id="s_155-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_157 mektup _fmt.jpeg" id="s_157-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_159 mektup _fmt.jpeg" id="s_159-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_161 mektup _fmt.jpeg" id="s_161-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_163 mektup _fmt.jpeg" id="s_163-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_165 mektup _fmt.jpeg" id="s_165-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_167 mektup _fmt.jpeg" id="s_167-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_169 mektup _fmt.jpeg" id="s_169-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_171 mektup _fmt.jpeg" id="s_171-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_173 mektup _fmt.jpeg" id="s_173-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_175mektup _fmt.jpeg" id="s_175mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_177 mektup _fmt.png" id="s_177-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_179 mektup _fmt.png" id="s_179-20mektup-20_fmt.png" media-type="image/png"/>
+    <item href="Images/s_181 mektup _fmt.jpeg" id="s_181-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/s_183 mektup _fmt.jpeg" id="s_183-20mektup-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Sadik Bey ve babasi_fmt.png" id="Sadik-20Bey-20ve-20babasi_fmt.png" media-type="image/png"/>
+    <item href="Images/Sadik Bey ve babasi_fmt1.png" id="Sadik-20Bey-20ve-20babasi_fmt1.png" media-type="image/png"/>
+    <item href="Images/Sadik Bey_fmt.jpeg" id="Sadik-20Bey_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sahdamar_fmt.jpeg" id="sahdamar_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/telgraf_fmt.png" id="telgraf_fmt.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="hapishane_mektuplari_epub"/>
+    <itemref idref="hapishane_mektuplari_epub-1"/>
+    <itemref idref="hapishane_mektuplari_epub-2"/>
+    <itemref idref="hapishane_mektuplari_epub-3"/>
+    <itemref idref="hapishane_mektuplari_epub-4"/>
+    <itemref idref="hapishane_mektuplari_epub-5"/>
+    <itemref idref="hapishane_mektuplari_epub-6"/>
+    <itemref idref="hapishane_mektuplari_epub-7"/>
+    <itemref idref="hapishane_mektuplari_epub-8"/>
+    <itemref idref="hapishane_mektuplari_epub-9"/>
+    <itemref idref="hapishane_mektuplari_epub-10"/>
+    <itemref idref="hapishane_mektuplari_epub-11"/>
+    <itemref idref="hapishane_mektuplari_epub-12"/>
+    <itemref idref="hapishane_mektuplari_epub-13"/>
+    <itemref idref="hapishane_mektuplari_epub-14"/>
+    <itemref idref="hapishane_mektuplari_epub-15"/>
+    <itemref idref="hapishane_mektuplari_epub-16"/>
+    <itemref idref="hapishane_mektuplari_epub-17"/>
+    <itemref idref="hapishane_mektuplari_epub-18"/>
+    <itemref idref="hapishane_mektuplari_epub-19"/>
+    <itemref idref="hapishane_mektuplari_epub-20"/>
+    <itemref idref="hapishane_mektuplari_epub-21"/>
+    <itemref idref="hapishane_mektuplari_epub-22"/>
+    <itemref idref="hapishane_mektuplari_epub-23"/>
+    <itemref idref="hapishane_mektuplari_epub-24"/>
+    <itemref idref="hapishane_mektuplari_epub-25"/>
+    <itemref idref="hapishane_mektuplari_epub-26"/>
+    <itemref idref="hapishane_mektuplari_epub-27"/>
+    <itemref idref="hapishane_mektuplari_epub-28"/>
+    <itemref idref="hapishane_mektuplari_epub-29"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

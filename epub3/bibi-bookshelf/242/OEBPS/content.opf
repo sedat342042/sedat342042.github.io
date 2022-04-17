@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>İki İnatçı Keçi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Akıncı, Mustafa">Mustafa Akıncı</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">e0f00390-8216-4a39-996c-46725ab2d3cf</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="18_Iki_Inatci_Keci.xhtml" id="x18_Iki_Inatci_Keci" media-type="application/xhtml+xml"/>
+    <item href="18_Iki_Inatci_Keci-1.xhtml" id="x18_Iki_Inatci_Keci-1" media-type="application/xhtml+xml"/>
+    <item href="18_Iki_Inatci_Keci-2.xhtml" id="x18_Iki_Inatci_Keci-2" media-type="application/xhtml+xml"/>
+    <item href="18_Iki_Inatci_Keci-3.xhtml" id="x18_Iki_Inatci_Keci-3" media-type="application/xhtml+xml"/>
+    <item href="18_Iki_Inatci_Keci-4.xhtml" id="x18_Iki_Inatci_Keci-4" media-type="application/xhtml+xml"/>
+    <item href="18_Iki_Inatci_Keci-5.xhtml" id="x18_Iki_Inatci_Keci-5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/18_Iki_Inatci_Keci.css" id="x18_Iki_Inatci_Keci.css" media-type="text/css"/>
+    <item href="image/15_Tilki_ile_Leylek_KAPAK-o.jpg" id="x15_Tilki_ile_Leylek_KAPAK-o.jpg" media-type="image/jpeg"/>
+    <item href="image/18_Iki_Inatci_Keci_KAP_fmt.jpeg" id="x18_Iki_Inatci_Keci_KAP_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/esek_ile_kopek_01_fmt.jpeg" id="esek_ile_kopek_01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/esek_ile_kopek_02_fmt.jpeg" id="esek_ile_kopek_02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/esek_ile_kopek_03_fmt.jpeg" id="esek_ile_kopek_03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/esek_ile_kopek_04_fmt.jpeg" id="esek_ile_kopek_04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/esek_ile_kopek_05_fmt.jpeg" id="esek_ile_kopek_05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/esek_ile_kopek_06_fmt.jpeg" id="esek_ile_kopek_06_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/esek_ile_kopek_07_fmt.jpeg" id="esek_ile_kopek_07_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/esek_ile_kopek_08_fmt.jpeg" id="esek_ile_kopek_08_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/esek_ile_kopek_09_fmt.jpeg" id="esek_ile_kopek_09_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/giris_fmt.jpeg" id="giris_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/iki_inatci_keci_01_fmt.jpeg" id="iki_inatci_keci_01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/iki_inatci_keci_02_fmt.jpeg" id="iki_inatci_keci_02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/iki_inatci_keci_03_fmt.jpeg" id="iki_inatci_keci_03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/iki_inatci_keci_04_fmt.jpeg" id="iki_inatci_keci_04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/iki_inatci_keci_05_fmt.jpeg" id="iki_inatci_keci_05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/iki_inatci_keci_06_fmt.jpeg" id="iki_inatci_keci_06_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/iki_inatci_keci_07_fmt.jpeg" id="iki_inatci_keci_07_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikiguvercin_01_fmt.jpeg" id="ikiguvercin_01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikiguvercin_02_fmt.jpeg" id="ikiguvercin_02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikiguvercin_03_fmt.jpeg" id="ikiguvercin_03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikiguvercin_04_fmt.jpeg" id="ikiguvercin_04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikiguvercin_05_fmt.jpeg" id="ikiguvercin_05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikiguvercin_06_fmt.jpeg" id="ikiguvercin_06_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikiguvercin_07_fmt.jpeg" id="ikiguvercin_07_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/yabanarilari_balarila_fmt1.jpeg" id="yabanarilari_balarila_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/yabanarilari_balarila_fmt2.jpeg" id="yabanarilari_balarila_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/yabanarilari_balarila_fmt3.jpeg" id="yabanarilari_balarila_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="image/yabanarilari_balarila_fmt4.jpeg" id="yabanarilari_balarila_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="image/yabanarilari_balarila_fmt5.jpeg" id="yabanarilari_balarila_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="image/yabanarilari_balarilar_fmt.jpeg" id="yabanarilari_balarilar_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/yavrufare_horoz_kedi__fmt1.jpeg" id="yavrufare_horoz_kedi__fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/yavrufare_horoz_kedi__fmt2.jpeg" id="yavrufare_horoz_kedi__fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/yavrufare_horoz_kedi__fmt3.jpeg" id="yavrufare_horoz_kedi__fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="image/yavrufare_horoz_kedi__fmt4.jpeg" id="yavrufare_horoz_kedi__fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="image/yavrufare_horoz_kedi__fmt5.jpeg" id="yavrufare_horoz_kedi__fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="image/yavrufare_horoz_kedi_0_fmt.jpeg" id="yavrufare_horoz_kedi_0_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_size_fmt.jpeg" id="ZambakLogo_size_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x18_Iki_Inatci_Keci"/>
+    <itemref idref="x18_Iki_Inatci_Keci-1"/>
+    <itemref idref="x18_Iki_Inatci_Keci-2"/>
+    <itemref idref="x18_Iki_Inatci_Keci-3"/>
+    <itemref idref="x18_Iki_Inatci_Keci-4"/>
+    <itemref idref="x18_Iki_Inatci_Keci-5"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="9786055119232" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Risalei_Nura_Ilk_Adim</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>RİSALE-İ NUR’A İLK ADIM</text>
+      </navLabel>
+      <content src="Text/Cover.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>TAKDİM YERİNE</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-2.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Önsöz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-3.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Tarihçe-i Hayat (İlk Hayatı)</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-4.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Birinci Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-5.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>İkinci Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-6.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Üçüncü Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-7.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Dördüncü Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-8.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Beşinci Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-9.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Dokuzuncu Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-10.xhtml#_idParaDest-10"/>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>Birinci Nükte</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-10.xhtml#_idParaDest-11"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>İkinci Nükte</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-10.xhtml#_idParaDest-12"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>Üçüncü Nükte</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-10.xhtml#_idParaDest-13"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>Dördüncü Nükte</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-10.xhtml#_idParaDest-14"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>Beşinci Nükte</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-10.xhtml#_idParaDest-15"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Onuncu Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-16"/>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>Birinci Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-17"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>İkinci Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-18"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>Üçüncü Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-19"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>Dördüncü Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-20"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>Beşinci Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-21"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>Altıncı Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-22"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Yedinci Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-23"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>Sekizinci Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-24"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>Dokuzuncu Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-25"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>Onuncu Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-26"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>On Birinci Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-27"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>On İkinci Sûret</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-11.xhtml#_idParaDest-28"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>On İkinci Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-12.xhtml#_idParaDest-29"/>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>İkinci Esas</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-12.xhtml#_idParaDest-30"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>Üçüncü Esas</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-12.xhtml#_idParaDest-31"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>On Üçüncü Söz’ün İkinci Makamı</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-13.xhtml#_idParaDest-32"/>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>Birkaç Bîçâre Gençlere Verilen Bir Tenbih, Bir Ders, Bir İhtardır</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-14.xhtml#_idParaDest-33"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>On Dördüncü Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-15.xhtml#_idParaDest-34"/>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>Hâtime</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-15.xhtml#_idParaDest-35"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>On Dokuzuncu Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-16.xhtml#_idParaDest-36"/>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>Birinci Reşhası</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-16.xhtml#_idParaDest-37"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>Yedinci Reşha</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-16.xhtml#_idParaDest-38"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>Sekizinci Reşha</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-16.xhtml#_idParaDest-39"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>Dokuzuncu Reşha</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-16.xhtml#_idParaDest-40"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Yirmi Birinci Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-17.xhtml#_idParaDest-41"/>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>Birinci Makam</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-17.xhtml#_idParaDest-42"/>
+          <navPoint id="navPoint-43" playOrder="43">
+            <navLabel>
+              <text>Birinci İkaz</text>
+            </navLabel>
+            <content src="Text/risaleinur_ilk_adim_epub_cc-17.xhtml#_idParaDest-43"/>
+          </navPoint>
+          <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+              <text>İkinci İkaz</text>
+            </navLabel>
+            <content src="Text/risaleinur_ilk_adim_epub_cc-17.xhtml#_idParaDest-44"/>
+          </navPoint>
+          <navPoint id="navPoint-45" playOrder="45">
+            <navLabel>
+              <text>Üçüncü İkaz</text>
+            </navLabel>
+            <content src="Text/risaleinur_ilk_adim_epub_cc-17.xhtml#_idParaDest-45"/>
+          </navPoint>
+          <navPoint id="navPoint-46" playOrder="46">
+            <navLabel>
+              <text>Dördüncü İkaz</text>
+            </navLabel>
+            <content src="Text/risaleinur_ilk_adim_epub_cc-17.xhtml#_idParaDest-46"/>
+          </navPoint>
+          <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+              <text>Beşinci İkaz</text>
+            </navLabel>
+            <content src="Text/risaleinur_ilk_adim_epub_cc-17.xhtml#_idParaDest-47"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Yirmi Üçüncü Söz</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-18.xhtml#_idParaDest-48"/>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>Birinci Mebhas</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-18.xhtml#_idParaDest-49"/>
+          <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+              <text>Birinci Nokta</text>
+            </navLabel>
+            <content src="Text/risaleinur_ilk_adim_epub_cc-18.xhtml#_idParaDest-50"/>
+          </navPoint>
+          <navPoint id="navPoint-51" playOrder="51">
+            <navLabel>
+              <text>İkinci Nokta</text>
+            </navLabel>
+            <content src="Text/risaleinur_ilk_adim_epub_cc-18.xhtml#_idParaDest-51"/>
+          </navPoint>
+          <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+              <text>Üçüncü Nokta</text>
+            </navLabel>
+            <content src="Text/risaleinur_ilk_adim_epub_cc-18.xhtml#_idParaDest-52"/>
+          </navPoint>
+          <navPoint id="navPoint-53" playOrder="53">
+            <navLabel>
+              <text>Dördüncü Nokta</text>
+            </navLabel>
+            <content src="Text/risaleinur_ilk_adim_epub_cc-18.xhtml#_idParaDest-53"/>
+          </navPoint>
+          <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+              <text>Beşinci Nokta</text>
+            </navLabel>
+            <content src="Text/risaleinur_ilk_adim_epub_cc-18.xhtml#_idParaDest-54"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Birinci Lem’a</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-19.xhtml#_idParaDest-55"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>İkinci Lem’a</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-20.xhtml#_idParaDest-56"/>
+        <navPoint id="navPoint-57" playOrder="57">
+          <navLabel>
+            <text>Birinci Nükte</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-20.xhtml#_idParaDest-57"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>On Birinci Lem’a</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-21.xhtml#_idParaDest-58"/>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>Birinci Nükte</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-21.xhtml#_idParaDest-59"/>
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+          <navLabel>
+            <text>İkinci Nükte</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-21.xhtml#_idParaDest-60"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Yirmi Birinci Lem’a</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-22.xhtml#_idParaDest-61"/>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>Birinci Düsturunuz</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-22.xhtml#_idParaDest-62"/>
+        </navPoint>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>İkinci Düsturunuz</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-22.xhtml#_idParaDest-63"/>
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>Üçüncü Düsturunuz</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-22.xhtml#_idParaDest-64"/>
+        </navPoint>
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>Dördüncü Düsturunuz</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-22.xhtml#_idParaDest-65"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Bir Kısım Kardeşlerime Hususi Bir Mektuptur</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-23.xhtml#_idParaDest-66"/>
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>Birincisi</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-23.xhtml#_idParaDest-67"/>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>İkincisi</text>
+          </navLabel>
+          <content src="Text/risaleinur_ilk_adim_epub_cc-23.xhtml#_idParaDest-68"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Konferans</text>
+        </navLabel>
+        <content src="Text/risaleinur_ilk_adim_epub_cc-24.xhtml#_idParaDest-69"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

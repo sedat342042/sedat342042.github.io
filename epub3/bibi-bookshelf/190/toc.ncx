@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="eac4786e-1bd0-4c73-9104-94fddda65414" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sanat Nedir?</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="02384105-fa98-4772-888f-3c151c92cff3" playOrder="1">
+      <navLabel>
+        <text>Sanat Nedir?</text>
+      </navLabel>
+      <content src="SanatNedir_split_003.html"/>
+    </navPoint>
+    <navPoint id="aed77e6a-9d44-452b-9f92-1b08b627f03e" playOrder="2">
+      <navLabel>
+        <text>Ekler</text>
+      </navLabel>
+      <content src="SanatNedir_split_006.html"/>
+      <navPoint id="479f637d-fcfa-4b87-865c-a99ab3b86598" playOrder="3">
+        <navLabel>
+          <text>Ek I</text>
+        </navLabel>
+        <content src="SanatNedir_split_007.html"/>
+      </navPoint>
+      <navPoint id="8f24fbfa-579d-448a-889d-eee263931de9" playOrder="4">
+        <navLabel>
+          <text>Ek II</text>
+        </navLabel>
+        <content src="SanatNedir_split_011.html"/>
+      </navPoint>
+      <navPoint id="7b0b4f4a-a830-49bd-a819-4e2cf5ce8618" playOrder="5">
+        <navLabel>
+          <text>“Sanat Nedir?”in İngilizce Baskısına Önsöz [110]</text>
+        </navLabel>
+        <content src="SanatNedir_split_012.html"/>
+      </navPoint>
+      <navPoint id="0f0dab78-8d6b-4f50-a1f8-4776b2df2153" playOrder="6">
+        <navLabel>
+          <text>Guy de Maupassant’ın Yapıtlarına Önsöz [111]</text>
+        </navLabel>
+        <content src="SanatNedir_split_013.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="826cd22e-3aac-4b01-8906-f4e30781bdfb" playOrder="7">
+      <navLabel>
+        <text>S.T. Semyonov’un “Köylü Öyküleri” İçin Önsöz</text>
+      </navLabel>
+      <content src="SanatNedir_split_014.html"/>
+    </navPoint>
+    <navPoint id="baf28ced-2418-4a02-9729-ec8859309cc9" playOrder="8">
+      <navLabel>
+        <text>Von Polenz’in “Köylü” Adlı Romanına Önsöz</text>
+      </navLabel>
+      <content src="SanatNedir_split_015.html"/>
+    </navPoint>
+    <navPoint id="009707d3-ac8e-4b4d-888f-a322783495e4" playOrder="9">
+      <navLabel>
+        <text>Gogol Üzerine [117]</text>
+      </navLabel>
+      <content src="SanatNedir_split_016.html"/>
+    </navPoint>
+    <navPoint id="4cac8b9c-d236-4288-bc3b-3959612ca686" playOrder="10">
+      <navLabel>
+        <text>Çehov’un “Duşeçka” Adlı Öyküsüne Sonsöz [118]</text>
+      </navLabel>
+      <content src="SanatNedir_split_017.html"/>
+    </navPoint>
+    <navPoint id="47651d40-d1e8-4601-9e8c-d64ab3edad49" playOrder="11">
+      <navLabel>
+        <text>Shakespeare ve Dram Sanatı Üzerine [121]</text>
+      </navLabel>
+      <content src="SanatNedir_split_018.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

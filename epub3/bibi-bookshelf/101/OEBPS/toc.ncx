@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:isbn:9789750720086" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="Sistematik epub-tools" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Vurun Kahpeye</text>
+  </docTitle>
+  <navMap>
+    <navLabel>
+      <text>İçindekiler</text>
+    </navLabel>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Birinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Sunuş</text>
+        </navLabel>
+        <content src="Text/preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>1. Aliye kasabaya geliyor</text>
+        </navLabel>
+        <content src="Text/chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>2. Aliye mektepte</text>
+        </navLabel>
+        <content src="Text/chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>3. Hacı Fettah Efendi ile Tosun Bey</text>
+        </navLabel>
+        <content src="Text/chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>4. Aliye’nin nişanlısı</text>
+        </navLabel>
+        <content src="Text/chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>5. Hacı Fettah Efendi Yunan karargâhında</text>
+        </navLabel>
+        <content src="Text/chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>6. Mevlit ve ferdası</text>
+        </navLabel>
+        <content src="Text/chapter6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>7. Yunanlıların mutemedi</text>
+        </navLabel>
+        <content src="Text/chapter7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>8. Şeytanın kızı</text>
+        </navLabel>
+        <content src="Text/chapter8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>9. Kârbanı aşk ıssız bir beyabandan geçer</text>
+        </navLabel>
+        <content src="Text/chapter9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>10. Fırtınadan evvel</text>
+        </navLabel>
+        <content src="Text/chapter10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>11. Cephanenin atıldığı akşam</text>
+        </navLabel>
+        <content src="Text/chapter11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>12. Vurun kahpeye</text>
+        </navLabel>
+        <content src="Text/chapter12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>13. Tosun’un avdeti</text>
+        </navLabel>
+        <content src="Text/chapter13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Vurun Kahpeye: Birkaç izlenim</text>
+        </navLabel>
+        <content src="Text/afterword.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Kitabı yayına hazırlayanların yararlandığı kaynaklar</text>
+        </navLabel>
+        <content src="Text/bibliography.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,953 @@
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:bold;
+	src : url("font/BerlingLTStd-Bold.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:italic;
+	font-weight:bold;
+	src : url("font/BerlingLTStd-BoldItalic.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/BerlingLTStd-Roman.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:italic;
+	font-weight:normal;
+	src : url("font/BerlingLTStd-Italic.ttf");
+}
+
+@font-face {
+	font-family:"GillSans";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/GillSansStd.ttf");
+}
+
+@font-face {
+	font-family:"GillSans";
+	font-style:italic;
+	font-weight:normal;
+	src : url("font/GillSansStd-Italic.ttf");
+}
+@font-face {
+	font-family:"GillSans";
+	font-style:normal;
+	font-weight:300;
+	src : url("font/GillSansStd-Light.ttf");
+}
+
+@font-face {
+	font-family:"GillSans";
+	font-style:italic;
+	font-weight:300;
+	src : url("font/GillSansStd-LightItalic.ttf");
+}
+
+@font-face {
+	font-family:"Berling-Medium";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/BerlingLTStd-Medium.ttf");
+}
+@font-face {
+	font-family:"Goudy";
+	font-style: normal;
+	font-weight: normal;
+	src : url("font/GoudyCatTReg.ttf");
+}
+@font-face {
+	font-family: "MobilTurk";
+	font-weight: bold;
+	font-style: normal;
+	src: url("font/MobilTurk.ttf");
+}
+
+
+
+p {
+	text-indent: 1.9em;
+}
+
+.serial {
+	font: normal bold .6em "MobilTurk" !important;
+}
+.dedication {
+	margin: 4em auto 0 auto;
+	max-width: 550px;
+}
+.dedication, .epigraph {
+	font-size: .95em;
+}
+.dedication .by,.epigraph .by {
+	margin-top: .8em;
+}
+.epigraph {
+	max-width: 350px;
+	margin: 4em auto 0 auto;
+}
+.introduction h2 {
+	text-align: center;
+	margin: 2em auto .25em auto;
+	font: normal 1em "Berling-Medium";
+}
+.introduction strong {
+	font-family: "Berling-Medium";
+	font-weight: normal;
+}
+.chapter h1 {
+	font: normal .958em "Berling";
+	text-align: left;
+}
+.notes p, .notes td, .bibliography p {
+	font: normal .75em/1.5em "GillSans";
+}
+.notes td:first-of-type {
+	width: 5em;
+}
+.notes tr {
+	margin-top: 1em;
+}
+.notes h1, .bibliography h1 {
+	text-align: left;
+	margin: 0 0 2em 0;
+	font: normal .833em "GillSans";
+}
+.margin_bottom {
+	margin-bottom: 1.2em;
+}
+
+
+
+.indent11 {
+	padding-left: 1.1em;
+}
+.indent27 {
+	padding-left: 2.7em;
+}
+.indent29 {
+	padding-left: 2.9em;
+}
+.indent31 {
+	padding-left: 3.1em;
+}
+.indent41 {
+	padding-left: 4.1em;
+}
+.indent54 {
+	padding-left: 5.4em;
+}
+.indent59 {
+	padding-left: 5.9em;
+}
+.indented1 {
+	padding-left: 4.2em;
+}
+.indented2 {
+	padding-left: 11.2em;
+}
+.indented3 {
+	padding-left: 3.7em;
+}
+.indented4 {
+	padding-left: 7.2em;
+}
+.indented5 {
+	padding-left: 2.4em;
+}
+.indented6 {
+	padding-left: 2.9em;
+}
+.indented7 {
+	padding-left: 4.8em;
+}
+.indented8 {
+	padding-left: 4.4em;
+}
+.indented9 {
+	padding-left: 6.2em;
+}
+.indented10 {
+	padding-left: 1em;
+}
+.indented11 {
+	padding-left: 5.3em;
+}
+.indented12 {
+	padding-left: 6.4em;
+}
+.indented13 {
+	padding-left: 3.9em;
+}
+.indented14 {
+	padding-left: 4.2em;
+}
+.indented15 {
+	padding-left: 6.2em;
+}
+.indented16 {
+	padding-left: 6.3em;
+}
+.indented17 {
+	padding-left: 2.5em;
+}
+.indented18 {
+	padding-left: 3.3em;
+}
+.indented19 {
+	padding-left: 1.9em;
+}
+.indented20 {
+	padding-left: 3.7em;
+}
+.indented21 {
+	padding-left: 6.8em;
+}
+.indented22 {
+	padding-left: 10.2em;
+}
+.indented23 {
+	padding-left: 8.1em;
+}
+.indented24 {
+	padding-left: 2.1em;
+}
+.indented25 {
+	padding-left: 2.3em;
+}
+.indented26 {
+	padding-left: 9.5em;
+}
+.indented27 {
+	padding-left: 7.1em;
+}
+.indented28 {
+	padding-left: 4.7em;
+}
+.indented29 {
+	padding-left: 9em;
+}
+.indented30 {
+	padding-left: 3.8em;
+}
+.indented31 {
+	padding-left: 6.8em;
+}
+.indented32 {
+	padding-left: 10.2em;
+}
+.indented33 {
+	padding-left: 1.9em;
+}
+.indented34 {
+	padding-left: 7.5em;
+}
+.indented35 {
+	padding-left: 9.5em;
+}
+.indented36 {
+	padding-left: 4.3em;
+}
+.indented37 {
+	padding-left: 6.3em;
+}
+.indented38 {
+	padding-left: 4.9em;
+}
+.indented39 {
+	padding-left: 10em;
+}
+.indented40 {
+	padding-left: 1.7em;
+}
+.indented41 {
+	padding-left: 4.9em;
+}
+.indented42 {
+	padding-left: 2.4em;
+}
+.indented43 {
+	padding-left: 2.9em;
+}
+.indented44 {
+	padding-left: 4.7em;
+}
+.indented45 {
+	padding-left: 9.7em;
+}
+.indented46 {
+	padding-left: 1.7em;
+}
+.indented47 {
+	padding-left: 2.4em;
+}
+.indented48 {
+	padding-left: 6.6em;
+}
+.indented49 {
+	padding-left: 1.6em;
+}
+.indented50 {
+	padding-left: 6.3em;
+}
+.indented51 {
+	padding-left: 7.3em;
+}
+.indented52 {
+	padding-left: 4.6em;
+}
+.indented53 {
+	padding-left: 7.6em;
+}
+.indented54 {
+	padding-left: 4.6em;
+}
+.indented55 {
+	padding-left: 5.6em;
+}
+.indented56 {
+	padding-left: 2.5em;
+}
+.indented57 {
+	padding-left: 6.8em;
+}
+.indented58 {
+	padding-left: 4em;
+}
+.indented59 {
+	padding-left: 6.6em;
+}
+.indented60 {
+	padding-left: 1.6em;
+}
+.indented61 {
+	padding-left: 8em;
+}
+.indented62 {
+	padding-left: 11.8em;
+}
+.indented63 {
+	padding-left: 5.9em;
+}
+.indented64 {
+	padding-left: 3.3em;
+}
+.indented65 {
+	padding-left: 7.3em;
+}
+.indented66 {
+	padding-left: 11.3em;
+}
+.indented67 {
+	padding-left: 3em;
+}
+.indented68 {
+	padding-left: 8.9em;
+}
+.indented69 {
+	padding-left: 2.7em;
+}
+.indented70 {
+	padding-left: 6.1em;
+}
+.indented71 {
+	padding-left: 9.6em;
+}
+.indented72 {
+	padding-left: 14em;
+}
+.indented73 {
+	padding-left: 3em;
+}
+.indented74 {
+	padding-left: 3em;
+}
+.indented75 {
+	padding-left: 7.8em;
+}
+.indented76 {
+	padding-left: 2.5em;
+}
+.indented77 {
+	padding-left: 9.1em;
+}
+.indented78 {
+	padding-left: 6.2em;
+}
+.indented79 {
+	padding-left: 1.5em;
+}
+.indented80 {
+	padding-left: 5em;
+}
+.indented81 {
+	padding-left: 2.8em;
+}
+.indented82 {
+	padding-left: 5.8em;
+}
+.indented83 {
+	padding-left: 4.8em;
+}
+.indented84 {
+	padding-left: 3.8em;
+}
+.indented85 {
+	padding-left: 7.2em;
+}
+.indented86 {
+	padding-left: 2.8em;
+}
+.indented87 {
+	padding-left: 5.6em;
+}
+.indented88 {
+	padding-left: 10em;
+}
+.indented89 {
+	padding-left: 3em;
+}
+.indented90 {
+	padding-left: 10em;
+}
+.indented91 {
+	padding-left: 3em;
+}
+.indented92 {
+	padding-left: 9.5em;
+}
+.indented93 {
+	padding-left: 2em;
+}
+.indented94 {
+	padding-left: 4.2em;
+}
+.indented95 {
+	padding-left: 9.7em;
+}
+.indented96 {
+	padding-left: 4.5em;
+}
+.indented97 {
+	padding-left: 7em;
+}
+.indented98 {
+	padding-left: 5.2em;
+}
+.indented99 {
+	padding-left: 7.6em;
+}
+.indented100 {
+	padding-left: 6.5em;
+}
+.indented101 {
+	padding-left: 10.4em;
+}
+.indented102 {
+	padding-left: 3.4em;
+}
+.indented103 {
+	padding-left: 2.2em;
+}
+.indented104 {
+	padding-left: 5.4em;
+}
+.indented105 {
+	padding-left: 5.7em;
+}
+.indented106 {
+	padding-left: 3em;
+}
+.indented107 {
+	padding-left: 6em;
+}
+.indented108 {
+	padding-left: 2em;
+}
+.indented109 {
+	padding-left: 2em;
+}
+.indented110 {
+	padding-left: 2em;
+}
+.indented111 {
+	padding-left: 2.7em;
+}
+.indented112 {
+	padding-left: 5em;
+}
+.indented113 {
+	padding-left: 7.1em;
+}
+.indented114 {
+	padding-left: 8em;
+}
+.indented115 {
+	padding-left: 2.4em;
+}
+.indented116 {
+	padding-left: 6.4em;
+}
+.indented117 {
+	padding-left: 6.8em;
+}
+.indented118 {
+	padding-left: 11.6em;
+}
+.indented119 {
+	padding-left: 7.2em;
+}
+.indented120 {
+	padding-left: 12em;
+}
+.indented121 {
+	padding-left: 6.8em;
+}
+.indented122 {
+	padding-left: 4em;
+}
+.indented123 {
+	padding-left: 8em;
+}
+.indented124, .indented125, .indented126,.indented127,.indented128,.indented129,.indented130,.indented131 {
+	padding-left: 3.6em;
+}
+.indented132 {
+	padding-left: 4em;
+}
+.indented133 {
+	padding-left: 7.7em;
+}
+.indented134 {
+	padding-left: 4.2em;
+}
+.indented135 {
+	padding-left: 5.6em;
+}
+.indented136 {
+	padding-left: 8.1em;
+}
+.indented137 {
+	padding-left: 3.3em;
+}
+.indented138 {
+	padding-left: 7.9em;
+}
+.indented139 {
+	padding-left: 3.7em;
+}
+.indented140 {
+	padding-left: 8.3em;
+}
+.indented141 {
+	padding-left: 6.5em;
+}
+.indented142 {
+	padding-left: 8.1em;
+}
+.indented143,.indented145 {
+	padding-left: 5.3em;
+}
+.indented144 {
+	padding-left: 9.3em;
+}
+.indented146 {
+	padding-left: 11em;
+}
+.indented147,.indented148,.indented149,.indented150,.indented160 {
+	padding-left: 3.1em;
+}
+.indented161 {
+	padding-left: 7.1em;
+}
+.indented162 {
+	padding-left: 11.2em;
+}
+.indented163 {
+	padding-left: 3.2em;
+}
+.indented164 {
+	padding-left: 9.1em;
+}
+.indented165 {
+	padding-left: 6.1em;
+}
+.indented166 {
+	padding-left: 5.1em;
+}
+.indented167 {
+	padding-left: 3.2em;
+}
+.indented168 {
+	padding-left: 5.9em;
+}
+.indented169 {
+	padding-left: 3.1em;
+}
+.indented170 {
+	padding-left: 4em;
+}
+.indented171,.indented172 {
+	padding-left: 3.6em;
+}
+.indented173 {
+	padding-left: 4.8em;
+}
+.indented174 {
+	padding-left: 3em;
+}
+.indented175 {
+	padding-left: 6.6em;
+}
+.indented176 {
+	padding-left: 1.8em;
+}
+.indented177 {
+	padding-left: 4.9em;
+}
+.indented178 {
+	padding-left: 7.7em;
+}
+.indented179 {
+	padding-left: 10.2em;
+}
+.indented180 {
+	padding-left: 3em;
+}
+.indented181 {
+	padding-left: 6.1em;
+}
+.indented182 {
+	padding-left: 11.3em;
+}
+.indented183 {
+	padding-left: 3em;
+}
+.indented184 {
+	padding-left: 6.4em;
+}
+.indented185 {
+	padding-left: 2.9em;
+}
+.indented186 {
+	padding-left: 12.6em;
+}
+.indented187 {
+	padding-left: 3em;
+}
+.indented188 {
+	padding-left: 6em;
+}
+.indented189 {
+	padding-left: 5.9em;
+}
+.indented190 {
+	padding-left: 9.6em;
+}
+.indented191 {
+	padding-left: 1.8em;
+}
+.indented192 {
+	padding-left: 4.4em;
+}
+.indented193 {
+	padding-left: 4.4em;
+}
+.indented194 {
+	padding-left: 8.8em;
+}
+.indented195 {
+	padding-left: 4.5em;
+}
+.indented196 {
+	padding-left: 10.7em;
+}
+.indented197 {
+	padding-left: 3.7em;
+}
+.indented198 {
+	padding-left: 10em;
+}
+.indented199 {
+	padding-left: 3.6em;
+}
+.indented200 {
+	padding-left: 7.4em;
+}
+.indented201 {
+	padding-left: 3.8em;
+}
+.indented202 {
+	padding-left: 3em;
+}
+.indented203 {
+	padding-left: 6em;
+}
+.indented204 {
+	padding-left: 3.4em;
+}
+.indented205 {
+	padding-left: 6em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+.indented {
+	padding-left: 1em;
+}
+
+/*
+ *chapter
+ */
+
+p {
+	font: normal .875em/1.3em "Berling";
+	margin: 0;
+	padding-left: 0em;
+	text-indent: 0;
+}
+
+h1 {
+	font: normal normal 1.25em/1.2em "Berling";
+	text-align: center;
+	margin: 3em 0 1.5em 0;
+}
+
+
+.foreword p {
+	text-indent: 1.9em;
+}
+.foreword .stanza {
+	text-indent: 1.9em;
+	padding-left: 0;
+}
+.foreword .indent1 {
+	text-indent: 4.2em;
+}
+.foreword .indent2 {
+	text-indent: 6.2em;
+}
+
+
+
+
+
+a{
+  text-decoration: none;
+  color: #7A7A7A;
+}
+.margin {
+	margin-top: 1.2em;
+}
+.double-margin {
+	margin-top: 2.2em;
+}
+.align-right {
+	text-align: right;
+}
+.by {
+	margin-top: 1.2em;
+	text-align: right;
+}
+.chapter-begin {
+	margin-top: 6em;
+}
+.center {
+	text-align: center;
+}
+.poem {
+	margin: 1.2em 0 0 0;
+}
+.stanza {
+	font-style: normal;
+	text-indent: 0;
+	padding-left: 1.9em;
+	margin-top: 1.2em;
+}
+.stanza span {
+	display: block;
+}
+.part {
+	margin-top: 4em;
+	text-align: center;
+	font: normal normal 1.25em "Berling";
+}
+hr {
+	border: 0;
+	max-width: 3em;
+	margin: 1em auto .6em auto;
+}
+hr:before {
+	content :"* * *";
+	font: normal 1em/1.2em "Berling-Medium";
+}
+figure {
+	width: 550px;
+	text-align: center;
+}
+figcaption {
+	text-align: left;
+	font: normal normal .75em "GillSans";
+}
+
+blockquote {
+	margin: 1.2em 0 0 0;
+}
+.letter {
+	margin-top: 1.2em;
+	margin-left: 1.2em;
+}
+.letter p {
+	font: normal 300 .875em/1.3em "GillSans";
+}
+
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+}
+.si-footnote {
+	font-family: "GillSans";
+	font-size: .8em;
+	margin-bottom: .25em;
+}
+.books p {
+	font: normal normal .75em/1.5em "GillSans";
+	text-indent: 0;
+}
+.books ul {
+	padding-left: 0;
+}
+.books ul li {
+	font: normal normal .75em/1.6em "GillSans";
+	list-style-type: none;
+	text-indent: 0;
+}
+.kunye .margin, .press{
+  margin: .8em 0 0 ;
+}
+.isbn {
+	margin-top: 1.2em;
+}
+.kunye .publisher{
+	margin-top: 2em;
+}
+.kunye span{
+  font-family: "GillSans";
+  font-size:0.667em;
+  display: block;
+}
+.title{
+  text-align: center;
+}
+.aut{
+  font-family: "Goudy";
+  font-size: 1.7em;
+  margin-bottom: 0;
+}
+.aut span{
+  font-size: 1.15em;
+}
+.work{
+  font-family: "Goudy";
+  font-size: 2.3em;
+  margin-top: .5em;
+}
+.award {
+	font: normal 1.04em "GillSans";
+	margin-top: 1.5em;
+}
+.seri{
+  font-family: "GillSans";
+  font-size: 1em;
+  margin-top: 3.5em
+}
+.trans{
+  font-family: "GillSans";
+  font-size: .9em;
+  margin-top: 1.5em;
+  line-height: 1.5em
+}
+.trans span{
+  font-size: 1.2em;
+}
+.logo{
+  margin: 3em auto 0 auto;
+  width: 60px;
+  text-align: center;
+}
+.cover-container img{
+  max-width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+img{
+  max-width: 100%;
+}
+#biography p{
+	font: normal normal .75em/1.5em "GillSans";
+  text-indent: 0;
+}
+#biography .translator {
+  margin-top: 2em;
+}

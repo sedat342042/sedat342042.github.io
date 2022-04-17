@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yalnız Efe</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Seyfettin, Ömer">Ömer Seyfettin</dc:creator>
+    <dc:description>Bu kitapta Ömer Seyfettin’in sekiz hikâyesi yer alıyor. Kitaba adını veren Yalnız Efe’de, Kezban isimli genç bir kızın, kendisi ve mağdur duruma düşen halkı için zalimlere karşı erkek kılığına girerek yaptığı mücadele anlatılıyor.</dc:description>
+    <dc:publisher>Sedir Yayınları</dc:publisher>
+    <dc:date>2012-12-29T23:00:00+00:00</dc:date>
+    <dc:rights>© 2012, Sedir Yayınları AŞ</dc:rights>
+    <dc:identifier id="bookid">urn:uuid:c642af86-d8a1-4a61-9fd3-378488cb976e</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">0327795a-aa53-4c21-b818-4aa076537254</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="YalnizEfe.xhtml" id="YalnizEfe" media-type="application/xhtml+xml"/>
+    <item href="YalnizEfe-1.xhtml" id="YalnizEfe-1" media-type="application/xhtml+xml"/>
+    <item href="YalnizEfe-2.xhtml" id="YalnizEfe-2" media-type="application/xhtml+xml"/>
+    <item href="YalnizEfe-3.xhtml" id="YalnizEfe-3" media-type="application/xhtml+xml"/>
+    <item href="YalnizEfe-4.xhtml" id="YalnizEfe-4" media-type="application/xhtml+xml"/>
+    <item href="YalnizEfe-5.xhtml" id="YalnizEfe-5" media-type="application/xhtml+xml"/>
+    <item href="YalnizEfe-6.xhtml" id="YalnizEfe-6" media-type="application/xhtml+xml"/>
+    <item href="YalnizEfe-7.xhtml" id="YalnizEfe-7" media-type="application/xhtml+xml"/>
+    <item href="YalnizEfe-8.xhtml" id="YalnizEfe-8" media-type="application/xhtml+xml"/>
+    <item href="YalnizEfe-9.xhtml" id="YalnizEfe-9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/kapak.css" id="kapak.css" media-type="text/css"/>
+    <item href="css/stylemag.css" id="stylemag.css" media-type="text/css"/>
+    <item href="image/erdemlogo_fmt.jpeg" id="erdemlogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kapak_ilk_genclik_6_yalniz_efe.jpg" id="kapak_ilk_genclik_6_yalniz_efe.jpg" media-type="image/jpeg"/>
+    <item href="fonts/AGaramondPro-Bold.otf" id="AGaramondPro-Bold.otf" media-type="font/opentype"/>
+    <item href="fonts/AGaramondPro-BoldItalic.otf" id="AGaramondPro-BoldItalic.otf" media-type="font/opentype"/>
+    <item href="fonts/AGaramondPro-Italic.otf" id="AGaramondPro-Italic.otf" media-type="font/opentype"/>
+    <item href="fonts/AGaramondPro-Regular.otf" id="AGaramondPro-Regular.otf" media-type="font/opentype"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="YalnizEfe"/>
+    <itemref idref="YalnizEfe-1"/>
+    <itemref idref="YalnizEfe-2"/>
+    <itemref idref="YalnizEfe-3"/>
+    <itemref idref="YalnizEfe-4"/>
+    <itemref idref="YalnizEfe-5"/>
+    <itemref idref="YalnizEfe-6"/>
+    <itemref idref="YalnizEfe-7"/>
+    <itemref idref="YalnizEfe-8"/>
+    <itemref idref="YalnizEfe-9"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

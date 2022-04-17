@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Nasreddin Hoca Fıkraları</dc:title>
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Hoca, Nasreddin &amp; Özcan, Nurgül">Nasreddin Hoca</dc:creator>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">Nurgül Özcan</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">8e763a14-28e8-4162-ae61-34408a34a336</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="Nasreddin Hoca Fikralari_yeni.xhtml" id="Nasreddin-Hoca-Fikralari_yeni" media-type="application/xhtml+xml"/>
+    <item href="Nasreddin Hoca Fikralari_yeni-1.xhtml" id="Nasreddin-Hoca-Fikralari_yeni-1" media-type="application/xhtml+xml"/>
+    <item href="Nasreddin Hoca Fikralari_yeni-2.xhtml" id="Nasreddin-Hoca-Fikralari_yeni-2" media-type="application/xhtml+xml"/>
+    <item href="Nasreddin Hoca Fikralari_yeni-3.xhtml" id="Nasreddin-Hoca-Fikralari_yeni-3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/Nasreddin Hoca Fikralari_yeni.css" id="Nasreddin-Hoca-Fikralari_yeni.css" media-type="text/css"/>
+    <item href="image/ikon_fmt.jpeg" id="ikon_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt1.jpeg" id="ikon_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt2.jpeg" id="ikon_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt3.jpeg" id="ikon_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt4.jpeg" id="ikon_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt5.jpeg" id="ikon_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt6.jpeg" id="ikon_fmt6.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt7.jpeg" id="ikon_fmt7.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt8.jpeg" id="ikon_fmt8.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt9.jpeg" id="ikon_fmt9.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt10.jpeg" id="ikon_fmt10.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt11.jpeg" id="ikon_fmt11.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt12.jpeg" id="ikon_fmt12.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt13.jpeg" id="ikon_fmt13.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt14.jpeg" id="ikon_fmt14.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt15.jpeg" id="ikon_fmt15.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt16.jpeg" id="ikon_fmt16.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt17.jpeg" id="ikon_fmt17.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt18.jpeg" id="ikon_fmt18.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt19.jpeg" id="ikon_fmt19.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt20.jpeg" id="ikon_fmt20.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt21.jpeg" id="ikon_fmt21.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt22.jpeg" id="ikon_fmt22.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt23.jpeg" id="ikon_fmt23.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt24.jpeg" id="ikon_fmt24.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt25.jpeg" id="ikon_fmt25.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt26.jpeg" id="ikon_fmt26.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt27.jpeg" id="ikon_fmt27.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt28.jpeg" id="ikon_fmt28.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt29.jpeg" id="ikon_fmt29.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt30.jpeg" id="ikon_fmt30.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt31.jpeg" id="ikon_fmt31.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt32.jpeg" id="ikon_fmt32.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt33.jpeg" id="ikon_fmt33.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt34.jpeg" id="ikon_fmt34.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt35.jpeg" id="ikon_fmt35.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt36.jpeg" id="ikon_fmt36.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt37.jpeg" id="ikon_fmt37.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt38.jpeg" id="ikon_fmt38.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt39.jpeg" id="ikon_fmt39.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt40.jpeg" id="ikon_fmt40.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt41.jpeg" id="ikon_fmt41.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt42.jpeg" id="ikon_fmt42.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt43.jpeg" id="ikon_fmt43.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt44.jpeg" id="ikon_fmt44.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt45.jpeg" id="ikon_fmt45.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt46.jpeg" id="ikon_fmt46.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt47.jpeg" id="ikon_fmt47.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt48.jpeg" id="ikon_fmt48.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt49.jpeg" id="ikon_fmt49.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt50.jpeg" id="ikon_fmt50.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt51.jpeg" id="ikon_fmt51.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt52.jpeg" id="ikon_fmt52.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt53.jpeg" id="ikon_fmt53.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt54.jpeg" id="ikon_fmt54.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt55.jpeg" id="ikon_fmt55.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt56.jpeg" id="ikon_fmt56.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt57.jpeg" id="ikon_fmt57.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt58.jpeg" id="ikon_fmt58.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt59.jpeg" id="ikon_fmt59.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt60.jpeg" id="ikon_fmt60.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt61.jpeg" id="ikon_fmt61.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt62.jpeg" id="ikon_fmt62.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt63.jpeg" id="ikon_fmt63.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt64.jpeg" id="ikon_fmt64.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt65.jpeg" id="ikon_fmt65.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt66.jpeg" id="ikon_fmt66.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt67.jpeg" id="ikon_fmt67.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt68.jpeg" id="ikon_fmt68.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt69.jpeg" id="ikon_fmt69.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt70.jpeg" id="ikon_fmt70.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt71.jpeg" id="ikon_fmt71.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt72.jpeg" id="ikon_fmt72.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt73.jpeg" id="ikon_fmt73.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt74.jpeg" id="ikon_fmt74.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt75.jpeg" id="ikon_fmt75.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt76.jpeg" id="ikon_fmt76.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt77.jpeg" id="ikon_fmt77.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt78.jpeg" id="ikon_fmt78.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt79.jpeg" id="ikon_fmt79.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt80.jpeg" id="ikon_fmt80.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt81.jpeg" id="ikon_fmt81.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt82.jpeg" id="ikon_fmt82.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt83.jpeg" id="ikon_fmt83.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt84.jpeg" id="ikon_fmt84.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt85.jpeg" id="ikon_fmt85.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt86.jpeg" id="ikon_fmt86.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt87.jpeg" id="ikon_fmt87.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt88.jpeg" id="ikon_fmt88.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt89.jpeg" id="ikon_fmt89.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt90.jpeg" id="ikon_fmt90.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt91.jpeg" id="ikon_fmt91.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt92.jpeg" id="ikon_fmt92.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt93.jpeg" id="ikon_fmt93.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt94.jpeg" id="ikon_fmt94.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt95.jpeg" id="ikon_fmt95.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt96.jpeg" id="ikon_fmt96.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt97.jpeg" id="ikon_fmt97.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt98.jpeg" id="ikon_fmt98.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt99.jpeg" id="ikon_fmt99.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt100.jpeg" id="ikon_fmt100.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt101.jpeg" id="ikon_fmt101.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt102.jpeg" id="ikon_fmt102.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt103.jpeg" id="ikon_fmt103.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt104.jpeg" id="ikon_fmt104.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt105.jpeg" id="ikon_fmt105.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt106.jpeg" id="ikon_fmt106.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt107.jpeg" id="ikon_fmt107.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt108.jpeg" id="ikon_fmt108.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt109.jpeg" id="ikon_fmt109.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt110.jpeg" id="ikon_fmt110.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt111.jpeg" id="ikon_fmt111.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt112.jpeg" id="ikon_fmt112.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt113.jpeg" id="ikon_fmt113.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt114.jpeg" id="ikon_fmt114.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt115.jpeg" id="ikon_fmt115.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt116.jpeg" id="ikon_fmt116.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt117.jpeg" id="ikon_fmt117.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt118.jpeg" id="ikon_fmt118.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt119.jpeg" id="ikon_fmt119.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt120.jpeg" id="ikon_fmt120.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt121.jpeg" id="ikon_fmt121.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt122.jpeg" id="ikon_fmt122.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt123.jpeg" id="ikon_fmt123.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt124.jpeg" id="ikon_fmt124.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt125.jpeg" id="ikon_fmt125.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt126.jpeg" id="ikon_fmt126.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt127.jpeg" id="ikon_fmt127.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt128.jpeg" id="ikon_fmt128.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt129.jpeg" id="ikon_fmt129.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt130.jpeg" id="ikon_fmt130.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt131.jpeg" id="ikon_fmt131.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt132.jpeg" id="ikon_fmt132.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt133.jpeg" id="ikon_fmt133.jpeg" media-type="image/jpeg"/>
+    <item href="image/ikon_fmt134.jpeg" id="ikon_fmt134.jpeg" media-type="image/jpeg"/>
+    <item href="image/Nasreddin Hoca Fikrala_fmt.jpeg" id="Nasreddin-Hoca-Fikrala_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Nasreddin Hoca Fikralari_on_kapak.jpg" id="Nasreddin-Hoca-Fikralari_on_kapak.jpg" media-type="image/jpeg"/>
+    <item href="image/zambak_adres (11-2011)_fmt.jpeg" id="zambak_adres--11-2011-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_fmt.jpeg" id="ZambakLogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPS-BoldMT.ttf" id="TimesNewRomanPS-BoldMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS.ttf" id="TrebuchetMS.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="Nasreddin-Hoca-Fikralari_yeni"/>
+    <itemref idref="Nasreddin-Hoca-Fikralari_yeni-1"/>
+    <itemref idref="Nasreddin-Hoca-Fikralari_yeni-2"/>
+    <itemref idref="Nasreddin-Hoca-Fikralari_yeni-3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

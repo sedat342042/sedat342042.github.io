@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Mister Pickwick'in Serüvenleri</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Dickens, Charles">Charles Dickens</dc:creator>
+    <dc:description>İlkin tefrika olarak yayımlanan Mister Pickwick'in Serüvenleri, Dickens'ın ilk romanıdır ve ona büyük ün kazandırmıştır. Pickwick Kulübü'nün kurucusu Samuel Pickwick'le üç arkadaşı, sözde bilimsel gözlemlerde bulunmak amacıyla Londra'dan **yola** çıkarak İngiltere'nin pek çok yerini dolaşır, pek çok kişiyle tanışırlar; başlarından türlü olaylar geçer; böylece, pikaresk olarak nitelendirilebilecek romanın sonuna gelindiğinde, köyleri, kentleri, hanları, mahkeme salonları ve insanlarıyla 19. yüzyıl başındaki İngiltere'nin mizah duygusuyla çizilmiş, toplumsal bir tablosu ortaya çıkmış olur. Özellikle onuncu bölümde, feleğin çemberinden geçmiş, hazırcevap Sam Weller karakterinin saf ve idealist Mister Pickwick'in özel uşağı olarak romana dahil edilmesiyle yapıt, geniş kitlelerin beğenisini kazanmış, okurlar Sam Weller şakalarını ağızlarından düşürmez olmuşlardır. Sam Weller ve Mister Pickwick ikilisini Don Quijote ve Sanço Panza'ya benzeten eleştirmenlerin sayısı az değildir</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2016-11-23T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:75b4c139-6c42-4fa4-bb78-f14ea74d6003</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">9e9f415e-6ed6-43d4-921c-f56e5b07d4a6</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="kapak.xhtml" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.xhtml" id="x6" media-type="application/xhtml+xml"/>
+    <item href="6-1.xhtml" id="x6-1" media-type="application/xhtml+xml"/>
+    <item href="6-2.xhtml" id="x6-2" media-type="application/xhtml+xml"/>
+    <item href="6-3.xhtml" id="x6-3" media-type="application/xhtml+xml"/>
+    <item href="6-4.xhtml" id="x6-4" media-type="application/xhtml+xml"/>
+    <item href="6-5.xhtml" id="x6-5" media-type="application/xhtml+xml"/>
+    <item href="6-6.xhtml" id="x6-6" media-type="application/xhtml+xml"/>
+    <item href="6-7.xhtml" id="x6-7" media-type="application/xhtml+xml"/>
+    <item href="6-8.xhtml" id="x6-8" media-type="application/xhtml+xml"/>
+    <item href="6-9.xhtml" id="x6-9" media-type="application/xhtml+xml"/>
+    <item href="6-10.xhtml" id="x6-10" media-type="application/xhtml+xml"/>
+    <item href="6-11.xhtml" id="x6-11" media-type="application/xhtml+xml"/>
+    <item href="6-12.xhtml" id="x6-12" media-type="application/xhtml+xml"/>
+    <item href="6-13.xhtml" id="x6-13" media-type="application/xhtml+xml"/>
+    <item href="6-14.xhtml" id="x6-14" media-type="application/xhtml+xml"/>
+    <item href="6-15.xhtml" id="x6-15" media-type="application/xhtml+xml"/>
+    <item href="6-16.xhtml" id="x6-16" media-type="application/xhtml+xml"/>
+    <item href="6-17.xhtml" id="x6-17" media-type="application/xhtml+xml"/>
+    <item href="6-18.xhtml" id="x6-18" media-type="application/xhtml+xml"/>
+    <item href="6-19.xhtml" id="x6-19" media-type="application/xhtml+xml"/>
+    <item href="6-20.xhtml" id="x6-20" media-type="application/xhtml+xml"/>
+    <item href="6-21.xhtml" id="x6-21" media-type="application/xhtml+xml"/>
+    <item href="6-22.xhtml" id="x6-22" media-type="application/xhtml+xml"/>
+    <item href="6-23.xhtml" id="x6-23" media-type="application/xhtml+xml"/>
+    <item href="6-24.xhtml" id="x6-24" media-type="application/xhtml+xml"/>
+    <item href="6-25.xhtml" id="x6-25" media-type="application/xhtml+xml"/>
+    <item href="6-26.xhtml" id="x6-26" media-type="application/xhtml+xml"/>
+    <item href="6-27.xhtml" id="x6-27" media-type="application/xhtml+xml"/>
+    <item href="6-28.xhtml" id="x6-28" media-type="application/xhtml+xml"/>
+    <item href="6-29.xhtml" id="x6-29" media-type="application/xhtml+xml"/>
+    <item href="6-30.xhtml" id="x6-30" media-type="application/xhtml+xml"/>
+    <item href="6-31.xhtml" id="x6-31" media-type="application/xhtml+xml"/>
+    <item href="6-32.xhtml" id="x6-32" media-type="application/xhtml+xml"/>
+    <item href="6-33.xhtml" id="x6-33" media-type="application/xhtml+xml"/>
+    <item href="6-34.xhtml" id="x6-34" media-type="application/xhtml+xml"/>
+    <item href="6-35.xhtml" id="x6-35" media-type="application/xhtml+xml"/>
+    <item href="6-36.xhtml" id="x6-36" media-type="application/xhtml+xml"/>
+    <item href="6-37.xhtml" id="x6-37" media-type="application/xhtml+xml"/>
+    <item href="6-38.xhtml" id="x6-38" media-type="application/xhtml+xml"/>
+    <item href="6-39.xhtml" id="x6-39" media-type="application/xhtml+xml"/>
+    <item href="6-40.xhtml" id="x6-40" media-type="application/xhtml+xml"/>
+    <item href="6-41.xhtml" id="x6-41" media-type="application/xhtml+xml"/>
+    <item href="6-42.xhtml" id="x6-42" media-type="application/xhtml+xml"/>
+    <item href="6-43.xhtml" id="x6-43" media-type="application/xhtml+xml"/>
+    <item href="6-44.xhtml" id="x6-44" media-type="application/xhtml+xml"/>
+    <item href="6-45.xhtml" id="x6-45" media-type="application/xhtml+xml"/>
+    <item href="6-46.xhtml" id="x6-46" media-type="application/xhtml+xml"/>
+    <item href="6-47.xhtml" id="x6-47" media-type="application/xhtml+xml"/>
+    <item href="6-48.xhtml" id="x6-48" media-type="application/xhtml+xml"/>
+    <item href="6-49.xhtml" id="x6-49" media-type="application/xhtml+xml"/>
+    <item href="6-50.xhtml" id="x6-50" media-type="application/xhtml+xml"/>
+    <item href="6-51.xhtml" id="x6-51" media-type="application/xhtml+xml"/>
+    <item href="6-52.xhtml" id="x6-52" media-type="application/xhtml+xml"/>
+    <item href="6-53.xhtml" id="x6-53" media-type="application/xhtml+xml"/>
+    <item href="6-54.xhtml" id="x6-54" media-type="application/xhtml+xml"/>
+    <item href="6-55.xhtml" id="x6-55" media-type="application/xhtml+xml"/>
+    <item href="6-56.xhtml" id="x6-56" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/001_fmt.jpeg" id="x001_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/002_fmt.jpeg" id="x002_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/003_fmt.jpeg" id="x003_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/004_fmt.jpeg" id="x004_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/005_fmt.jpeg" id="x005_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/006_fmt.jpeg" id="x006_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/007_fmt.jpeg" id="x007_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/008_fmt.jpeg" id="x008_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/009_fmt.jpeg" id="x009_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/010_fmt.jpeg" id="x010_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/011_fmt.jpeg" id="x011_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/012_fmt.jpeg" id="x012_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/013_fmt.jpeg" id="x013_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/014_fmt.jpeg" id="x014_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/015_fmt.jpeg" id="x015_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/016_fmt.jpeg" id="x016_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/017_fmt.jpeg" id="x017_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/018_fmt.jpeg" id="x018_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/019_fmt.jpeg" id="x019_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/020_fmt.jpeg" id="x020_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/021_fmt.jpeg" id="x021_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/022_fmt.jpeg" id="x022_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/023_fmt.jpeg" id="x023_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/024_fmt.jpeg" id="x024_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/025_fmt.jpeg" id="x025_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/026_fmt.jpeg" id="x026_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/027_fmt.jpeg" id="x027_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/028_fmt.jpeg" id="x028_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/029_fmt.jpeg" id="x029_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/030_fmt.jpeg" id="x030_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/031_fmt.jpeg" id="x031_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/032_fmt.jpeg" id="x032_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/034_fmt.jpeg" id="x034_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/035_fmt.jpeg" id="x035_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/036_fmt.jpeg" id="x036_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/037_fmt.jpeg" id="x037_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/038_fmt.jpeg" id="x038_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/039_fmt.jpeg" id="x039_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/040_fmt.jpeg" id="x040_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/041_fmt.jpeg" id="x041_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/042_fmt.jpeg" id="x042_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/043_fmt.jpeg" id="x043_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/044_fmt.jpeg" id="x044_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/45_fmt.jpeg" id="x45_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="image/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+    <itemref idref="x6-3"/>
+    <itemref idref="x6-4"/>
+    <itemref idref="x6-5"/>
+    <itemref idref="x6-6"/>
+    <itemref idref="x6-7"/>
+    <itemref idref="x6-8"/>
+    <itemref idref="x6-9"/>
+    <itemref idref="x6-10"/>
+    <itemref idref="x6-11"/>
+    <itemref idref="x6-12"/>
+    <itemref idref="x6-13"/>
+    <itemref idref="x6-14"/>
+    <itemref idref="x6-15"/>
+    <itemref idref="x6-16"/>
+    <itemref idref="x6-17"/>
+    <itemref idref="x6-18"/>
+    <itemref idref="x6-19"/>
+    <itemref idref="x6-20"/>
+    <itemref idref="x6-21"/>
+    <itemref idref="x6-22"/>
+    <itemref idref="x6-23"/>
+    <itemref idref="x6-24"/>
+    <itemref idref="x6-25"/>
+    <itemref idref="x6-26"/>
+    <itemref idref="x6-27"/>
+    <itemref idref="x6-28"/>
+    <itemref idref="x6-29"/>
+    <itemref idref="x6-30"/>
+    <itemref idref="x6-31"/>
+    <itemref idref="x6-32"/>
+    <itemref idref="x6-33"/>
+    <itemref idref="x6-34"/>
+    <itemref idref="x6-35"/>
+    <itemref idref="x6-36"/>
+    <itemref idref="x6-37"/>
+    <itemref idref="x6-38"/>
+    <itemref idref="x6-39"/>
+    <itemref idref="x6-40"/>
+    <itemref idref="x6-41"/>
+    <itemref idref="x6-42"/>
+    <itemref idref="x6-43"/>
+    <itemref idref="x6-44"/>
+    <itemref idref="x6-45"/>
+    <itemref idref="x6-46"/>
+    <itemref idref="x6-47"/>
+    <itemref idref="x6-48"/>
+    <itemref idref="x6-49"/>
+    <itemref idref="x6-50"/>
+    <itemref idref="x6-51"/>
+    <itemref idref="x6-52"/>
+    <itemref idref="x6-53"/>
+    <itemref idref="x6-54"/>
+    <itemref idref="x6-55"/>
+    <itemref idref="x6-56"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="c3bca689-2795-4b6a-a66a-865ed129d865"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Komutan'ın Şüpheli Ölümü</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Önsöz</text>
+            </navLabel>
+            <content src="Text/ONSOZ.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Rota Diyarbakır’dı</text>
+            </navLabel>
+            <content src="Text/BOLUM_1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>“Bir kaza olmuş...”</text>
+            </navLabel>
+            <content src="Text/BOLUM_2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Enkaz alanında</text>
+            </navLabel>
+            <content src="Text/BOLUM_3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Bitlis Baba</text>
+            </navLabel>
+            <content src="Text/BOLUM_4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Bitlis Paşa</text>
+            </navLabel>
+            <content src="Text/BOLUM_5.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Çekiç Güç</text>
+            </navLabel>
+            <content src="Text/BOLUM_6.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>Bitlis’in helikopterine taciz</text>
+            </navLabel>
+            <content src="Text/BOLUM_7.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Dış görevler</text>
+            </navLabel>
+            <content src="Text/BOLUM_8.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>JİTEM</text>
+            </navLabel>
+            <content src="Text/BOLUM_9.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Hedef</text>
+            </navLabel>
+            <content src="Text/BOLUM_10.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>Aileler</text>
+            </navLabel>
+            <content src="Text/BOLUM_11.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>“Kaza”</text>
+            </navLabel>
+            <content src="Text/BOLUM_12.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>“Bitlis’in uçağı bozuk”</text>
+            </navLabel>
+            <content src="Text/BOLUM_13.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>Abla</text>
+            </navLabel>
+            <content src="Text/BOLUM_14.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>Rapor... Rapor... Rapor...</text>
+            </navLabel>
+            <content src="Text/BOLUM_15.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>“Kaza değil, suikast”</text>
+            </navLabel>
+            <content src="Text/BOLUM_16.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>Dava</text>
+            </navLabel>
+            <content src="Text/BOLUM_17.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>1. Rapor</text>
+            </navLabel>
+            <content src="Text/BOLUM_18.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>2. Rapor</text>
+            </navLabel>
+            <content src="Text/BOLUM_19.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>3. Rapor</text>
+            </navLabel>
+            <content src="Text/BOLUM_20.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>Tanık</text>
+            </navLabel>
+            <content src="Text/BOLUM_21.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>İstanbul</text>
+            </navLabel>
+            <content src="Text/BOLUM_22.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+                <text>Ankara</text>
+            </navLabel>
+            <content src="Text/BOLUM_23.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+                <text>Bursa</text>
+            </navLabel>
+            <content src="Text/BOLUM_24.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+                <text>Ev</text>
+            </navLabel>
+            <content src="Text/BOLUM_25.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+                <text>Bilirkişi</text>
+            </navLabel>
+            <content src="Text/BOLUM_26.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+                <text>Cem Ersever nasıl öldürüldü?</text>
+            </navLabel>
+            <content src="Text/BOLUM_27.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+                <text>Dosya yeniden açılıyor</text>
+            </navLabel>
+            <content src="Text/BOLUM_28.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+                <text>Sonsöz</text>
+            </navLabel>
+            <content src="Text/SONSOZ.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+            <navLabel>
+                <text>Ekler</text>
+            </navLabel>
+            <content src="Text/EKLER.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+            <navLabel>
+                <text>Ek 1</text>
+            </navLabel>
+            <content src="Text/EK_1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+                <text>Ek 2</text>
+            </navLabel>
+            <content src="Text/EK_2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+                <text>Ek 3</text>
+            </navLabel>
+            <content src="Text/EK_3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+                <text>Ek 4</text>
+            </navLabel>
+            <content src="Text/EK_4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+                <text>Ek 5</text>
+            </navLabel>
+            <content src="Text/EK_5.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+            <navLabel>
+                <text>Ek 6</text>
+            </navLabel>
+            <content src="Text/EK_6.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+                <text>Ek 7</text>
+            </navLabel>
+            <content src="Text/EK_7.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+            <navLabel>
+                <text>Ek 8</text>
+            </navLabel>
+            <content src="Text/EK_8.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+                <text>Ek 9</text>
+            </navLabel>
+            <content src="Text/EK_9.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+                <text>Fotoğraflar</text>
+            </navLabel>
+            <content src="Text/FOTOGRAFLAR.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

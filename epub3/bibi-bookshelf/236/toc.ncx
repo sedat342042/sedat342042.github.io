@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="00bd7a36-68ab-4d59-bfcd-2941983db4e9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Afrodit</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="b72a3fd9-2e26-4253-bee9-965b20d7c4a3" playOrder="1">
+      <navLabel>
+        <text>Yunan Mitolojisinde Afrodit</text>
+      </navLabel>
+      <content src="afrodit_split_002.html"/>
+    </navPoint>
+    <navPoint id="355305eb-00c5-4a53-9808-42eeb79e234c" playOrder="2">
+      <navLabel>
+        <text>Afrodit’in Doğuşu</text>
+      </navLabel>
+      <content src="afrodit_split_003.html"/>
+    </navPoint>
+    <navPoint id="005ff64b-7d64-4a1c-95bf-e1d5c3058a0e" playOrder="3">
+      <navLabel>
+        <text>Afrodit’in Pyglamion’un Heykelini Canlandırması</text>
+      </navLabel>
+      <content src="afrodit_split_004.html"/>
+    </navPoint>
+    <navPoint id="fa395236-8cb2-45f3-b9a9-f5ea7e636a7e" playOrder="4">
+      <navLabel>
+        <text>Afrodit’in Theseus’a Yardımı</text>
+      </navLabel>
+      <content src="afrodit_split_005.html"/>
+    </navPoint>
+    <navPoint id="a0e65966-ff9f-4991-aa8e-55b7a02a981d" playOrder="5">
+      <navLabel>
+        <text>Prokne’nin İntikamı</text>
+      </navLabel>
+      <content src="afrodit_split_006.html"/>
+    </navPoint>
+    <navPoint id="776be29b-c9f2-4776-8152-7b440151c6a5" playOrder="6">
+      <navLabel>
+        <text>Afrodit’in Yardımıyla Paris’in Helen’i Kaçırması</text>
+      </navLabel>
+      <content src="afrodit_split_007.html"/>
+    </navPoint>
+    <navPoint id="92d75ce4-517c-4303-85ac-4d9673207e0f" playOrder="7">
+      <navLabel>
+        <text>Akhilleus ile Hektor’un Düellosu, Hektor’un Ölüsünü Bekleyen Afrodit</text>
+      </navLabel>
+      <content src="afrodit_split_008.html"/>
+    </navPoint>
+    <navPoint id="661c4331-f9cc-4df6-a2dd-fe5bff83e915" playOrder="8">
+      <navLabel>
+        <text>Truva’nın Zapt Edilmesi, Afrodit’in Menelaos ve Helen’e Yardımı</text>
+      </navLabel>
+      <content src="afrodit_split_009.html"/>
+    </navPoint>
+    <navPoint id="c945fbff-ec09-4761-bd9d-0512db17523c" playOrder="9">
+      <navLabel>
+        <text>Afrodit’in Kuşa Dönüştürdüğü Daimonlar</text>
+      </navLabel>
+      <content src="afrodit_split_010.html"/>
+    </navPoint>
+    <navPoint id="42845471-51fa-4949-a088-c73a719b552f" playOrder="10">
+      <navLabel>
+        <text>Afrodit Tapınağı’nda Aşk</text>
+      </navLabel>
+      <content src="afrodit_split_011.html"/>
+    </navPoint>
+    <navPoint id="2bf7a1d4-901e-4a87-af00-d8961dd056a5" playOrder="11">
+      <navLabel>
+        <text>Afrodit Heykelleri</text>
+      </navLabel>
+      <content src="afrodit_split_012.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

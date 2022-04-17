@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Genç Plinius'un Anadolu Mektupları Plinius, Epistulae, 10. Kitap</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Minor, Plinius">Plinius Minor</dc:creator>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2000-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ca562bb2-7879-4d79-92a7-66b24335a4f1</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Anadolu Mektupları Plinius Minor (Genç Plinius) olarak tanınan Gaius Plinius Caecilius Secundus'un, döneminin kültürel, ekonomik, mimari, toplumsal ve dini hareketlerine ışık tutan bir yapıtı. Kitap Genç Plinius'un Roma İmparatoru Traianus'la birbirlerine yazdıkları mektuplardan oluşuyor. Anadolu toprakları üzerindeki mimari yapılanmanın, yeni bir dinin, genç Hıristiyanlığın nasıl karşılandığının, bir zamanlar Anadolu topraklarında yaşamış "başka" bir medeniyetin tanıklığına soyunuyor okur her mektupta. Halkın gereksinimlerinin, bu gereksinimler doğrultusunda hiçbir biçimde otorite boşluğuna izin vermeyen İmparator'un devlet harcamalarını nasıl yönlendirdiğinin...&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Tarihçiler için bir başvuru kaynağı niteliği taşıyan Anadolu Mektupları, bunun dışında da özellikle Türk okuru için üzerinde yaşadığı toprakların tarihiyle ilgili boşlukları dolduracak, insanlık tarihi üzerine ilginç ve yararlı bilgiler verecek klasik bir yapıt.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4b69cdcc-761c-4636-a219-79c846b2aca2</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Anadolu-Mektuplari_split_000.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Anadolu-Mektuplari_split_001.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Anadolu-Mektuplari_split_002.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Anadolu-Mektuplari_split_003.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Anadolu-Mektuplari_split_004.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Anadolu-Mektuplari_split_005.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Anadolu-Mektuplari_split_006.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Anadolu-Mektuplari_split_007.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Anadolu-Mektuplari_split_008.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="ykyistanbul_opt.jpeg" id="added" media-type="image/jpeg"/>
+    <item href="arial.ttf" id="cid5" media-type="application/octet-stream"/>
+    <item href="arialbd.ttf" id="cid6" media-type="application/octet-stream"/>
+    <item href="arialbi.ttf" id="cid8" media-type="application/octet-stream"/>
+    <item href="ariali.ttf" id="cid7" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Bold.ttf" id="cid2" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Italic.ttf" id="cid3" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Regular.ttf" id="cid1" media-type="application/octet-stream"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

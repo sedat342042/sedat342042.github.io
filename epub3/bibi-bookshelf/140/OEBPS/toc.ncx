@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{6EBE458C-6179-44B5-832F-B4559EFB0266}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yüzüklerin Efendisi [Tek Cilt]</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>YAYINCININ NOTU</text>
+      </navLabel>
+      <content src="Text/not.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>SUNUŞ</text>
+      </navLabel>
+      <content src="Text/sunus.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>1 Hobbitler Hakkında</text>
+        </navLabel>
+        <content src="Text/onsoz.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>2 Pipo Otları Hakkında</text>
+        </navLabel>
+        <content src="Text/onsoz.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>3 Shire Düzeni Hakkında</text>
+        </navLabel>
+        <content src="Text/onsoz.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>4 Yüzük'ün Bulunuşu</text>
+        </navLabel>
+        <content src="Text/onsoz.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>YÜZÜK KARDEŞLİĞİ - BİRİNCİ KİTAP</text>
+      </navLabel>
+      <content src="Text/K-001.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>BÖLÜM I DÖRT GÖZLE BEKLENEN DAVET</text>
+        </navLabel>
+        <content src="Text/P-001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>BÖLÜM II GEÇMİŞİN GÖLGESİ</text>
+        </navLabel>
+        <content src="Text/P-002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>BÖLÜM III ÜÇ KAFADAR</text>
+        </navLabel>
+        <content src="Text/P-003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>BÖLÜM IV MANTARLARA ÇIKAN KESTİRME YOL</text>
+        </navLabel>
+        <content src="Text/P-004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>BÖLÜM V SUÇ ORTAKLARI ORTAYA ÇIKIYOR</text>
+        </navLabel>
+        <content src="Text/P-005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>BÖLÜM VI YAŞLI ORMAN</text>
+        </navLabel>
+        <content src="Text/P-006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>BÖLÜM VII TOM BOMBADİL'İN EVİNDE</text>
+        </navLabel>
+        <content src="Text/P-007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>BÖLÜM VIII HÖYÜK YAYLALARINDA SİS</text>
+        </navLabel>
+        <content src="Text/P-008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>BÖLÜM IX SIÇRAYAN MİDİLLİ HANINDA</text>
+        </navLabel>
+        <content src="Text/P-009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>BÖLÜM X YOLGEZER</text>
+        </navLabel>
+        <content src="Text/P-010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>BÖLÜM XI KARANLIKTA BİR BIÇAK</text>
+        </navLabel>
+        <content src="Text/P-011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>BÖLÜM XII NEHİR GEÇİDİNE KAÇIŞ</text>
+        </navLabel>
+        <content src="Text/P-012.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>YÜZÜK KARDEŞLİĞİ - İKİNCİ KİTAP</text>
+      </navLabel>
+      <content src="Text/K-002.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>BÖLÜM I NİCE BULUŞMALAR</text>
+        </navLabel>
+        <content src="Text/P-013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>BÖLÜM II ELROND’UN DİVANI</text>
+        </navLabel>
+        <content src="Text/P-014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>BÖLÜM III YÜZÜK GÜNEYE GİDİYOR</text>
+        </navLabel>
+        <content src="Text/P-015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>BÖLÜM IV KARANLIKTA YOLCULUK</text>
+        </navLabel>
+        <content src="Text/P-016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>BÖLÜM V KHAZAD-DÛM KÖPRÜSÜ</text>
+        </navLabel>
+        <content src="Text/P-017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>BÖLÜM VI LOTHLÓRİEN</text>
+        </navLabel>
+        <content src="Text/P-018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>BÖLÜM VII GALADRİEL’İN AYNASI</text>
+        </navLabel>
+        <content src="Text/P-019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>BÖLÜM VIII LÓRİEN’E VEDA</text>
+        </navLabel>
+        <content src="Text/P-020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>BÖLÜM IX ULU NEHİR</text>
+        </navLabel>
+        <content src="Text/P-021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>BÖLÜM X KARDEŞLİK DAĞILIYOR</text>
+        </navLabel>
+        <content src="Text/P-022.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>İKİ KULE - ÜÇÜNCÜ KİTAP</text>
+      </navLabel>
+      <content src="Text/K-003.xhtml"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>BÖLÜM I BOROMİR'İN AYRILIŞI</text>
+        </navLabel>
+        <content src="Text/P-023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>BÖLÜM II ROHAN SÜVARİLERİ</text>
+        </navLabel>
+        <content src="Text/P-024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>BÖLÜM III URUK-HAİ</text>
+        </navLabel>
+        <content src="Text/P-025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>BÖLÜM IV AĞAÇSAKAL</text>
+        </navLabel>
+        <content src="Text/P-026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>BÖLÜM V AK SÜVARİ</text>
+        </navLabel>
+        <content src="Text/P-027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>BÖLÜM VI ALTIN KONAK’IN KRALI</text>
+        </navLabel>
+        <content src="Text/P-028.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>BÖLÜM VII MİĞFER DİBİ</text>
+        </navLabel>
+        <content src="Text/P-029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>BÖLÜM VIII İSENGARD’A GİDEN YOL</text>
+        </navLabel>
+        <content src="Text/P-030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>BÖLÜM IX KIYIYA VURAN ENKAZ</text>
+        </navLabel>
+        <content src="Text/P-031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>BÖLÜM X SARUMAN’IN SESİ</text>
+        </navLabel>
+        <content src="Text/P-032.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>BÖLÜM XI PALANTÍR</text>
+        </navLabel>
+        <content src="Text/P-033.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>İKİ KULE - DÖRDÜNCÜ KİTAP</text>
+      </navLabel>
+      <content src="Text/K-004.xhtml"/>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>BÖLÜM I SMÉAGOL’ÜN EHLİLEŞTİRİLMESİ</text>
+        </navLabel>
+        <content src="Text/P-034.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>BÖLÜM II BATAKLIKLARDAN GEÇİŞ</text>
+        </navLabel>
+        <content src="Text/P-035.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>BÖLÜM III KARA KAPI KAPALI</text>
+        </navLabel>
+        <content src="Text/P-036.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>BÖLÜM IV BAHARATLAR VE TAVŞAN YAHNİSİ</text>
+        </navLabel>
+        <content src="Text/P-037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>BÖLÜM V BATI'DAKİ PENCERE</text>
+        </navLabel>
+        <content src="Text/P-038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>BÖLÜM VI YASAK HAVUZ</text>
+        </navLabel>
+        <content src="Text/P-039.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>BÖLÜM VII KAVŞAĞA YOLCULUK</text>
+        </navLabel>
+        <content src="Text/P-040.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>BÖLÜM VIII CİRİTH UNGOL'UN MERDİVENLERİ</text>
+        </navLabel>
+        <content src="Text/P-041.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>BÖLÜM IX SHELOB'UN İNİ</text>
+        </navLabel>
+        <content src="Text/P-042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>BÖLÜM X EFENDİ SAMWISE'IN SEÇİMİ</text>
+        </navLabel>
+        <content src="Text/P-043.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>KRALIN DÖNÜŞÜ - BEŞİNCİ KİTAP</text>
+      </navLabel>
+      <content src="Text/K-005.xhtml"/>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>BÖLÜM I MİNAS TİRİTH</text>
+        </navLabel>
+        <content src="Text/P-044.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>BÖLÜM II GRİ BÖLÜĞÜN GEÇİŞİ</text>
+        </navLabel>
+        <content src="Text/P-045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>BÖLÜM III ROHAN'IN TOPLANIŞI</text>
+        </navLabel>
+        <content src="Text/P-046.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>BÖLÜM IV GONDOR KUŞATMASI</text>
+        </navLabel>
+        <content src="Text/P-047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>BÖLÜM V ROHİRRİM'İN GELİŞİ</text>
+        </navLabel>
+        <content src="Text/P-048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>BÖLÜM VI PELENNOR ÇAYIRLARI SAVAŞI</text>
+        </navLabel>
+        <content src="Text/P-049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>BÖLÜM VII DENETHOR’U YAKMAK İÇİN ÇATILAN ODUNLAR</text>
+        </navLabel>
+        <content src="Text/P-050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>BÖLÜM VIII ŞİFA EVLERİ</text>
+        </navLabel>
+        <content src="Text/P-051.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>BÖLÜM IX SON MÜZAKERE</text>
+        </navLabel>
+        <content src="Text/P-052.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>BÖLÜM X KARA KAPI AÇILIYOR</text>
+        </navLabel>
+        <content src="Text/P-053.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>KRALIN DÖNÜŞÜ - ALTINCI KİTAP</text>
+      </navLabel>
+      <content src="Text/K-006.xhtml"/>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>BÖLÜM I CİRİTH UNGOL KULESİ</text>
+        </navLabel>
+        <content src="Text/P-054.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>BÖLÜM II GÖLGE DİYARI</text>
+        </navLabel>
+        <content src="Text/P-055.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>BÖLÜM III HÜKÜM DAĞI</text>
+        </navLabel>
+        <content src="Text/P-056.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>BÖLÜM IV CORMALLEN KIRLARI</text>
+        </navLabel>
+        <content src="Text/P-057.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>BÖLÜM V VEKİLHARÇ İLE KRAL</text>
+        </navLabel>
+        <content src="Text/P-058.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>BÖLÜM VI NİCE AYRILIKLAR</text>
+        </navLabel>
+        <content src="Text/P-059.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>BÖLÜM VII MEMLEKET YOLU</text>
+        </navLabel>
+        <content src="Text/P-060.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>BÖLÜM VIII SHIRE TEMİZLİĞİ</text>
+        </navLabel>
+        <content src="Text/P-061.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>BÖLÜM IX GRİ LİMANLAR</text>
+        </navLabel>
+        <content src="Text/P-062.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>EKLER</text>
+      </navLabel>
+      <content src="Text/E-001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>Harita Hakkında</text>
+      </navLabel>
+      <content src="Text/H-001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Geniş Harita</text>
+      </navLabel>
+      <content src="Text/H-002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Detaylı Haritalar</text>
+      </navLabel>
+      <content src="Text/H-003.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

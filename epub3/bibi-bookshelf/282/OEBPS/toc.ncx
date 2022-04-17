@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{1A86DFCA-6E2E-44EB-8AF4-EDC1E605B23C}"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Doğa Üzerine Bir Epitom</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DOĞA ÜZERİNE BİR EPİTOM</text>
+      </navLabel>
+      <content src="Text/birinciparca.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>BİRİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/birinciparca.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>ÖNSÖZ</text>
+        </navLabel>
+        <content src="Text/onsoz.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>İKİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/ikinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>ÜÇÜNCÜ PARÇA</text>
+        </navLabel>
+        <content src="Text/ucuncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>DÖRDÜNCÜ PARÇA</text>
+        </navLabel>
+        <content src="Text/dorduncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>ALTINCI PARÇA</text>
+        </navLabel>
+        <content src="Text/altinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>YEDİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/yedinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>SEKİZİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/sekizinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>DOKUZUNCU PARÇA</text>
+        </navLabel>
+        <content src="Text/dokuzuncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>ONUNCU PARÇA</text>
+        </navLabel>
+        <content src="Text/onuncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>ON İKİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/onikinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>YİRMİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/yirminciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>YİRMİ BİRİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/yirmibirinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>YİRMİ İKİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/yirmiikinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>YİRMİ ÜÇÜNCÜ PARÇA</text>
+        </navLabel>
+        <content src="Text/yirmiucuncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>YİRMİ DOKUZUNCU PARÇA</text>
+        </navLabel>
+        <content src="Text/yirmidokuzuncuparca.xhtml"/>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>ALT KENAR</text>
+          </navLabel>
+          <content src="Text/yirmidokuzuncuparca.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>OTUZUNCU PARÇA</text>
+        </navLabel>
+        <content src="Text/otuzuncuparca.xhtml"/>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>ALT KENAR</text>
+          </navLabel>
+          <content src="Text/otuzuncuparca.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>OTUZ İKİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/otuzikinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>OTUZ ÜÇÜNCÜ PARÇA</text>
+        </navLabel>
+        <content src="Text/otuzucuncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>OTUZ DÖRDÜNCÜ PARÇA</text>
+        </navLabel>
+        <content src="Text/otuzdorduncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>OTUZ YEDİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/otuzyedinciparcaaltkenar.xhtml"/>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>ALT KENAR</text>
+          </navLabel>
+          <content src="Text/otuzyedinciparcaaltkenar.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>KIRK İKİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/kirkikinciparcaaltkenar.xhtml"/>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>ALT KENAR</text>
+          </navLabel>
+          <content src="Text/kirkikinciparcaaltkenar.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>KIRK DÖRDÜNCÜ PARÇA</text>
+        </navLabel>
+        <content src="Text/kirkdorduncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>KIRK YEDİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/kirkyedinciparcaaltkenar.xhtml"/>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>ALT KENAR</text>
+          </navLabel>
+          <content src="Text/kirkyedinciparcaaltkenar.xhtml#sigil_toc_id_6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>KIRK DOKUZUNCU PARÇA</text>
+        </navLabel>
+        <content src="Text/kirkdokuzuncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>ELLİ DÖRDÜNCÜ PARÇA</text>
+        </navLabel>
+        <content src="Text/ellidorduncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>ELLİ ALTINCI PARÇA</text>
+        </navLabel>
+        <content src="Text/ellialtinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>YETMİŞ BİRİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/yetmisbirinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>YÜZ BEŞİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/yuzbesinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>YÜZ ALTINCI PARÇA</text>
+        </navLabel>
+        <content src="Text/yuzaltinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>YÜZ SEKİZİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/yuzsekizinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>YÜZ DOKUZUNCU PARÇA</text>
+        </navLabel>
+        <content src="Text/yuzdokuzuncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>YÜZ ON BİRİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/yuzonbirinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>YÜZ ON İKİNCİ PARÇA</text>
+        </navLabel>
+        <content src="Text/yuzonikinciparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>YÜZ ON DOKUZUNCU PARÇA</text>
+        </navLabel>
+        <content src="Text/yuzondokuzuncuparca.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>YÜZ YİRMİ ALTINCI PARÇA</text>
+        </navLabel>
+        <content src="Text/yuzyirmialtinciparca.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

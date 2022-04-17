@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Erdoğan Yiğit Kısmetse</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Evren, Öcal Kemal">Öcal Kemal Evren</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:0c2fd3dc-2fcc-47e6-8230-057e56cbb7ed</dc:identifier>
+    <dc:publisher>Hemen Kitap</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;Erdoğan Yiğit bir aşk adamı değil.
+Erdoğan Yiğit bir Ankara polisiyesi kahramanı da değil.
+Ve hatta Erdoğan Yiğit, Ankaralı bile değil.
+Ama Erdoğan Yiğit Ankara'da yaşayan sıradışı bir kahraman!
+
+Arada bir âşık olan, kadın ruhundan anlayan ama kadınları terk eden bir adam; hiç görmediği çocukları olan bir baba!
+
+Devletle iç içe ama dışında, devletin gizli derinliklerinde bilmeden yürüyen bir avukat!
+
+Gururlu, egoist, vurdumduymaz, her daim sınırları zorlayan, kadınları çıldırtan bir Anadolu erkeği!
+
+Yani Erdoğan Yiğit babadır, kocadır, avukattır, harbi bir Anadolu adamıdır. Kayadır, taştır, serttir; ölüm bir yana hayatı cebindedir. Kadınları vardır, kadınım demez; çocukları vardır, hiç görmez hatta tanımaz! En pis davalara bakar, karanlıklarda kol gezer. Ankara, dünyasıdır.. kadın tavlamak, rüyasıdır.. yarınsız yaşamak ise... İşte o, Erdoğan Yiğit'in hayatıdır. Lakin Erdoğan Yiğit de sonunda bir insandır elbet etten, kemikten; ağlamasını bilir.
+
+Erdoğan Yiğit, Türkiye'nin sıradışı yeni kahramanı. "Kısmetse...", Erdoğan Yiğit serisinin ilk kitabı. Erdoğan Yiğit'in dünyasına hoş geldiniz. Yalnız dikkat edin, bağımlılık yapabilir. Çünkü o, tanıdığınız hiçbir adama benzemez! Erdoğan Yiğit'le tanıştıktan sonra, kendinizi kaybedebilirsiniz!...
+&lt;/p&gt;</dc:description>
+    <dc:date opf:event="modification">2014-06-01</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4b07ade9-0ff8-4715-a272-d29f506dc420</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756178393</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/erdogan yigit Kismetse_split_000.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/erdogan yigit Kismetse_split_001.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/erdogan yigit Kismetse_split_002.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/erdogan yigit Kismetse_split_003.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/erdogan yigit Kismetse_split_004.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/erdogan yigit Kismetse_split_005.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Fonts/arial.ttf" id="cid5" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbd.ttf" id="cid6" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbi.ttf" id="cid8" media-type="application/x-font-ttf"/>
+    <item href="Fonts/ariali.ttf" id="cid7" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Eşekarısı Fabrikası</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Banks, Iain">Iain Banks</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:20ec75ff-a9e3-4112-99fa-9c6a83b4c0c8</dc:identifier>
+    <dc:type>Roman</dc:type>
+    <dc:date>1996-10-27T22:00:00+00:00</dc:date>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Fay Weldon´ ın "çağdaş İngiliz edebiyatının büyük beyaz umudu" diyerek selamladığı İskoç yazar Iain Banks´ in ilk romanı Eşekarısı Fabrikası , 1980´ li yıllarda İngiltere´ de yayımlanan tüm romanlar arasında en çok tartışılan kitaplarından biri oldu. Gazete ve dergilerde abartılı yergi ve övgülerle sürdürülen tartışmaların harareti dindikten ve Banks yazdığı diğer romanlarla yeteneğini kanıtladıktan sonra kitaba gerçek değeri verilebildi: Metin, çocuk ve şiddet temasını işleyişindeki başarısı açısından Sineklerin Tanrısı ve Teneke Trampet gibi başyapıtlarla kıyaslanıyor artık.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4c327dec-b739-4e7c-83c0-8c77c38bf219</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:20ec75ff-a9e3-4112-99fa-9c6a83b4c0c8</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755391304</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="baslik.xhtml" href="Text/baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnot.xhtml" href="Text/dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="x1.jpg" href="Images/1.jpg" media-type="image/jpeg"/>
+    <item id="ayrinti.jpg" href="Images/ayrinti.jpg" media-type="image/jpeg"/>
+    <item id="title.png" href="Images/title.png" media-type="image/png"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="baslik.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="title-page" title="Title Page" href="Text/baslik.xhtml"/>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

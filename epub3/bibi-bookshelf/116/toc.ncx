@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="1eebfa6b-80c6-4993-842e-cc63d0cb32ba" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Düşündüşlem Deyişler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="175ccbb4-2a66-4538-8fbb-63f5b314350d" playOrder="1">
+      <navLabel>
+        <text>ÖNCEDEN BİRKAÇ SÖZ</text>
+      </navLabel>
+      <content src="1_split_004.html"/>
+    </navPoint>
+    <navPoint id="17f21da6-0c4d-4f64-9ea2-ecec2f471253" playOrder="2">
+      <navLabel>
+        <text>EL’Lİ SÖZ [1]</text>
+      </navLabel>
+      <content src="1_split_005.html"/>
+    </navPoint>
+    <navPoint id="2aaf8879-4885-4ac2-b6c1-7f514da5a092" playOrder="3">
+      <navLabel>
+        <text>FLU(X)US – Bir Denizin Kıyısından Bir Avuç Çakıl Taşı</text>
+      </navLabel>
+      <content src="1_split_006.html"/>
+    </navPoint>
+    <navPoint id="0ff23584-5b52-4821-ab3c-b52d61df1da8" playOrder="4">
+      <navLabel>
+        <text>FLU(X)US - I Bir Denizin Kıyısından Bir Avuç Çakıl Taşı</text>
+      </navLabel>
+      <content src="1_split_007.html"/>
+    </navPoint>
+    <navPoint id="cc77d06c-2024-407b-b792-73094ef61149" playOrder="5">
+      <navLabel>
+        <text>FLU(X)US – II Bir Denizin Kıyısından Bir Avuç Çakıl Taşı</text>
+      </navLabel>
+      <content src="1_split_008.html"/>
+    </navPoint>
+    <navPoint id="c9e2d04c-ab86-4820-ad3f-c1da655a45ec" playOrder="6">
+      <navLabel>
+        <text>FLU(X)US -III Bir Denizin Kıyısından Bir Avuç Çakıl Taşı</text>
+      </navLabel>
+      <content src="1_split_009.html"/>
+    </navPoint>
+    <navPoint id="f5cfd12c-3c9a-4130-bb68-fe44cbb1934b" playOrder="7">
+      <navLabel>
+        <text>FLU(X)US -IV Bir Denizin Kıyısından Bir Avuç Çakıl Taşı</text>
+      </navLabel>
+      <content src="1_split_010.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

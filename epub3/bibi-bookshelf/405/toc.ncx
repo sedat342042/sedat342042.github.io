@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="30fc5ecf-04fb-4541-995a-143ebdc235ee" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.10)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Deniz Feneri</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="0e663e47-d88a-4320-9fb5-d3f96aecd3b0" playOrder="1">
+      <navLabel>
+        <text>Birinci Bölüm PENCERE</text>
+      </navLabel>
+      <content src="denizfeneri_split_003.html"/>
+    </navPoint>
+    <navPoint id="4d526179-bfc1-4001-a524-a781b8985881" playOrder="2">
+      <navLabel>
+        <text>İkinci Bölüm ZAMAN GEÇER</text>
+      </navLabel>
+      <content src="denizfeneri_split_005.html"/>
+    </navPoint>
+    <navPoint id="e601adfc-9be9-4c09-a884-c1d167551821" playOrder="3">
+      <navLabel>
+        <text>Üçüncü Bölüm FENER</text>
+      </navLabel>
+      <content src="denizfeneri_split_006.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

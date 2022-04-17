@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="2c547fb3-4729-46c8-b325-c4cefbf34054" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Casus</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="9ca14f1a-ac51-44db-a20e-2788ab5b10ae" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="casus_split_003.html"/>
+    </navPoint>
+    <navPoint id="64280b8f-0d86-43f3-beee-98aa188cd046" playOrder="2">
+      <navLabel>
+        <text>Bölüm 1</text>
+      </navLabel>
+      <content src="casus_split_004.html"/>
+    </navPoint>
+    <navPoint id="d152d0e2-fb65-45da-9093-0cdf5db80763" playOrder="3">
+      <navLabel>
+        <text>Bölüm 2</text>
+      </navLabel>
+      <content src="casus_split_005.html"/>
+    </navPoint>
+    <navPoint id="62e13189-a4b5-4752-b5d9-422c07111053" playOrder="4">
+      <navLabel>
+        <text>Bölüm 3</text>
+      </navLabel>
+      <content src="casus_split_006.html"/>
+    </navPoint>
+    <navPoint id="533f65a5-c24e-4845-8fb4-c8640aa04f13" playOrder="5">
+      <navLabel>
+        <text>Bölüm 4</text>
+      </navLabel>
+      <content src="casus_split_007.html"/>
+    </navPoint>
+    <navPoint id="5ebedff5-203d-43eb-8d74-0d2054d36fbf" playOrder="6">
+      <navLabel>
+        <text>Bölüm 5</text>
+      </navLabel>
+      <content src="casus_split_008.html"/>
+    </navPoint>
+    <navPoint id="1d422d85-9dbf-4c9d-9208-8ffdff8ce4c1" playOrder="7">
+      <navLabel>
+        <text>Bölüm 6</text>
+      </navLabel>
+      <content src="casus_split_009.html"/>
+    </navPoint>
+    <navPoint id="4a53909a-fef2-46ac-923b-27c6f4fe6a16" playOrder="8">
+      <navLabel>
+        <text>Bölüm 7</text>
+      </navLabel>
+      <content src="casus_split_010.html"/>
+    </navPoint>
+    <navPoint id="e2d914f1-8358-4a90-b33d-e3d90b324f24" playOrder="9">
+      <navLabel>
+        <text>Bölüm 8</text>
+      </navLabel>
+      <content src="casus_split_011.html"/>
+    </navPoint>
+    <navPoint id="772f094c-2e54-4252-9415-a96e1bf32080" playOrder="10">
+      <navLabel>
+        <text>Bölüm 9</text>
+      </navLabel>
+      <content src="casus_split_012.html"/>
+    </navPoint>
+    <navPoint id="1edff757-a663-442b-8d53-b8d45b362f0d" playOrder="11">
+      <navLabel>
+        <text>Bölüm 10</text>
+      </navLabel>
+      <content src="casus_split_013.html"/>
+    </navPoint>
+    <navPoint id="f47705a7-d091-487a-85ae-09f8709d4921" playOrder="12">
+      <navLabel>
+        <text>Bölüm 11</text>
+      </navLabel>
+      <content src="casus_split_014.html"/>
+    </navPoint>
+    <navPoint id="b150eff1-3c8f-4a75-9105-2f9c5b383982" playOrder="13">
+      <navLabel>
+        <text>Bölüm 12</text>
+      </navLabel>
+      <content src="casus_split_015.html"/>
+    </navPoint>
+    <navPoint id="9f3ce02d-c619-4390-8cfd-049ab691f43f" playOrder="14">
+      <navLabel>
+        <text>Bölüm 13</text>
+      </navLabel>
+      <content src="casus_split_016.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

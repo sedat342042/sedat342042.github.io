@@ -1,0 +1,216 @@
+@font-face {
+	font-family : "Liberation Serif";
+	font-style : normal;
+	font-weight : normal;
+	src : url("../Fonts/LiberationSerif.ttf");
+}
+@font-face {
+	font-family : "Liberation Serif";
+	font-style : normal;
+	font-weight : bold;
+	src : url("../Fonts/LiberationSerif-Bold.ttf");
+}
+@font-face {
+	font-family : "Liberation Serif";
+	font-style : italic ;
+	font-weight : normal;
+	src : url("../Fonts/LiberationSerif-Italic.ttf");
+}
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.dipp {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	vertical-align : super;
+}
+span.char-style-override-1 {
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-2 {
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-3 {
+	font-size : 0.67em;
+}
+span.char-style-override-4 {
+	font-size : 0.67em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-5 {
+	font-size : 0.67em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-6 {
+	color : #0000ff;
+	font-size : 0.67em;
+}
+span.char-style-override-7 {
+	font-size : 1.33em;
+}
+span.char-style-override-8 {
+	font-size : 1.5em;
+	font-style : normal;
+	font-weight : bold;
+}
+p.paragraf {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 30px;
+}
+p.split {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.25em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 100px 30px 0px 30px;
+}
+p.anabaslik {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.25em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 50px 40px 50px;
+}
+p.arayazi {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : left;
+	color : #000000;
+	text-indent : 20px;
+	margin : 20px 50px;
+}
+p.dipnot {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.44;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 30px 0px 30px;
+}
+p.para-style-override-1 {
+	text-align : center;
+	margin-top : 0em;
+	margin-bottom : 0em;
+}
+p.para-style-override-2 {
+	text-indent : 0px;
+}
+p.para-style-override-3 {
+	margin-top : 20px;
+	text-indent : 0px;
+}
+p.para-style-override-4 {
+	margin-top : 30px;
+	text-indent : 0px;
+}
+p.para-style-override-5 {
+	margin-top : 40px;
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-6 {
+	text-align : left;
+	text-indent : 0px;
+}
+p.para-style-override-7 {
+	margin-bottom : 10px;
+	margin-top : 10px;
+	text-align : left;
+	text-indent : 0px;
+}
+p.para-style-override-8 {
+	margin-top : 20px;
+	text-align : left;
+	text-indent : 0px;
+}
+p.para-style-override-9 {
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-10 {
+	margin-top : 20px;
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-11 {
+	margin-top : 60px;
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-12 {
+	margin-top : 50px;
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-13 {
+	margin-top : 70px;
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-14 {
+	margin-bottom : 0px;
+}
+p.para-style-override-15 {
+	margin-top : 0px;
+}
+p.para-style-override-16 {
+	margin-bottom : 0px;
+	margin-top : 0px;
+}
+p.para-style-override-17 {
+	margin-top : 20px;
+}
+p.para-style-override-18 {
+	margin-bottom : 20px;
+	margin-top : 20px;
+}
+div.Basic-Text-Frame {
+}

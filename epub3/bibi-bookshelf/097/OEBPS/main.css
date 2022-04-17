@@ -1,0 +1,215 @@
+
+@font-face {
+  font-family: "Berling";
+  font-style: italic;
+  font-weight: normal;
+  src : url("font/BerlingLTStd-Italic.ttf") 
+}
+
+@font-face {
+  font-family: "Berling1";
+  font-style: normal;
+  font-weight: normal;
+  src : url("font/BerlingLTStd-Medium.ttf") 
+}
+
+@font-face {
+  font-family: "Berling";
+  font-style: normal;
+  font-weight: normal;
+  src : url("font/BerlingLTStd-Roman.ttf") 
+}
+
+@font-face {
+  font-family: "Gill";
+  font-style: normal;
+  font-weight: normal;
+  src : url("font/GillSansStd-Light.ttf") 
+}
+
+
+@font-face {
+  font-family: "Gill1";
+  font-style: normal;
+  font-weight: normal;
+  src : url("font/GillSansStd.ttf") 
+}
+
+@font-face {
+  font-family: "Gill1";
+  font-style: italic;
+  font-weight: normal;
+  src : url("font/GillSansStd-Italic.ttf") 
+}
+
+@font-face {
+  font-family: "Goudy";
+  font-style: normal;
+  font-weight: normal;
+  src : url("font/GoudyCatTReg.ttf") 
+}
+
+.baslik{
+  font: normal normal 1.25em "Berling";
+  margin: 5em auto .5em auto;
+  text-align: center;
+}
+
+.baslik1{
+  font: normal normal 1.25em "Berling";
+  margin: .5em auto 2em auto;
+  text-align: center;
+}
+
+.baslik2{
+  font: normal normal 1.16em "Berling";
+  margin: 5em auto 2em auto;
+  text-align: center;
+}
+
+p{
+  font: normal normal .875em/1.3em "Berling";
+  margin: 0;
+  text-indent: 1.5em;
+}
+
+.no-indent{
+  text-indent: 0;
+}
+
+.bosluk{
+  margin: 1em auto;
+  border: none;
+}
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+  margin:4em 0 1em;
+}
+.si-backref{
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+.si-footnote{
+  font-family: Gill1;
+  font-size: .8em;
+  margin-bottom: .25em;
+}
+
+/*Biography*/
+
+.biography p,.books p{
+  font: normal normal .75em/1.5em "Gill1";
+  margin: 0;
+}
+
+.s-margin{
+  margin-top: 5em;
+}
+
+/*Copyright*/
+
+.c1-margin{
+  margin: 2em auto 5em auto;
+}
+
+.copyright-page p{
+  font: normal normal .75em "Gill1";
+  margin: 0;
+  text-indent: 0;
+}
+
+.copyright-page a{
+  vertical-align: baseline;
+  font-size: 1em;
+  color: #7A7A7A;
+  text-decoration: none;
+}
+
+
+/*Titlepage*/
+
+.titlepage{
+  text-align: center;
+}
+
+.titlepage p{
+  text-indent: 0;
+}
+
+.t-1{
+  font: normal normal 1.87em "Goudy";
+  margin: 2em auto .2em auto;
+}
+
+.t-2{
+  font: normal normal 3.125em "Goudy";
+  margin: 0em auto 3em auto;
+}
+
+.t-3{
+  font: normal normal .93em "Gill1";
+  margin: 0 auto 2em auto;
+}
+
+.first{
+  font-size: 1.1em;
+}
+
+.logo{
+  margin: 3em auto 0 auto;
+}
+
+/*Cover*/
+
+.kapak img{
+  max-width: 100%;
+}
+.kapak{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+
+/*Introduction*/
+
+.introduction p{
+  font-size: .79em;
+}
+
+/*Kisaltma*/
+
+.kisaltma-h1{
+  font: normal normal 1.16em "Berling";
+  margin-bottom: 2em;
+}
+
+.tablo{
+  font: normal normal .79em "Berling";
+  width: 25%;
+}
+
+.t-left{
+  padding-left: .7em;
+}
+
+/*bibliography*/
+
+.baslik3{
+  font: normal normal .79em "Gill1";
+  margin: 0em auto 2em auto;
+}
+
+.bibliography p{
+  font: normal normal .68em "Gill1";
+  margin: .5em auto;
+  text-indent: 0;
+}

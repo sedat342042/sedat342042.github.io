@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="85984292-d899-4e53-be56-b8899050afe8" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Şölen - Dostluk</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="531f3a38-c29f-4c24-ae03-49d0a651c8d2" playOrder="1">
+      <navLabel>
+        <text>“Şölen” Üstüne Birkaç Söz</text>
+      </navLabel>
+      <content src="1_split_002.html"/>
+    </navPoint>
+    <navPoint id="7040b3cf-0def-48ea-adc5-f75fd9ac2939" playOrder="2">
+      <navLabel>
+        <text>ŞÖLEN</text>
+      </navLabel>
+      <content src="1_split_003.html"/>
+      <navPoint id="dcb9b6ba-5450-4e85-a830-31c34c7e9b42" playOrder="3">
+        <navLabel>
+          <text>Apollodoros [1] – Bir Arkadaş</text>
+        </navLabel>
+        <content src="1_split_004.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="f4b9e6af-cb5f-4034-ad9a-116b8646d66b" playOrder="4">
+      <navLabel>
+        <text>DOSTLUK</text>
+      </navLabel>
+      <content src="1_split_005.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

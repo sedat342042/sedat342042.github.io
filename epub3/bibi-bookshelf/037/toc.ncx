@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="781de6af-4d42-4253-9472-9b0211544b86" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Filozofun Mutluluk Seyahatnamesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="b6608829-8eb3-49a2-934f-68b149be0015" playOrder="1">
+      <navLabel>
+        <text>Açılış</text>
+      </navLabel>
+      <content src="epibaski_split_006.html"/>
+    </navPoint>
+    <navPoint id="81339cdc-13a1-47e2-be40-efac937995fa" playOrder="2">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="epibaski_split_007.html"/>
+    </navPoint>
+    <navPoint id="3bfdf883-febe-4489-bdfd-52529be929a5" playOrder="3">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="epibaski_split_009.html"/>
+    </navPoint>
+    <navPoint id="884b12ad-791b-4f5e-8b47-a591bf3a8737" playOrder="4">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="epibaski_split_011.html"/>
+    </navPoint>
+    <navPoint id="dcf8e905-b4c1-41b6-b32d-0db1811fa60a" playOrder="5">
+      <navLabel>
+        <text>Dördüncü Bölüm</text>
+      </navLabel>
+      <content src="epibaski_split_013.html"/>
+    </navPoint>
+    <navPoint id="d1653db5-ad90-4789-ab09-d04e1e05f69d" playOrder="6">
+      <navLabel>
+        <text>Beşinci Bölüm</text>
+      </navLabel>
+      <content src="epibaski_split_015.html"/>
+    </navPoint>
+    <navPoint id="362813f7-0eea-4ad9-9593-fe99286d6a56" playOrder="7">
+      <navLabel>
+        <text>Altıncı Bölüm</text>
+      </navLabel>
+      <content src="epibaski_split_017.html"/>
+    </navPoint>
+    <navPoint id="df5cc83b-d232-4f76-9bcd-f02fb276decd" playOrder="8">
+      <navLabel>
+        <text>Yedinci Bölüm</text>
+      </navLabel>
+      <content src="epibaski_split_019.html"/>
+    </navPoint>
+    <navPoint id="33de2b57-75db-4510-a994-c837da61b9fe" playOrder="9">
+      <navLabel>
+        <text>Kapanış</text>
+      </navLabel>
+      <content src="epibaski_split_021.html"/>
+    </navPoint>
+    <navPoint id="f7f8504f-b84f-4dc1-9cfb-6cc124b36083" playOrder="10">
+      <navLabel>
+        <text>Teşekkürler</text>
+      </navLabel>
+      <content src="epibaski_split_022.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

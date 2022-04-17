@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="761fa380-42c1-4545-a3a1-4b906a01cedd" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Gelecek İçin Denemeler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e56aae38-6ec9-42ee-b350-a6f3d1f3e509" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="gelecek_split_003.html"/>
+    </navPoint>
+    <navPoint id="9ae06638-0f9b-480d-850d-5149eb2e94fa" playOrder="2">
+      <navLabel>
+        <text>I ESKİYEN TÜRKİYE GÖRÜNTÜLERİ</text>
+      </navLabel>
+      <content src="gelecek_split_004.html"/>
+      <navPoint id="14a86ca7-e013-4304-bd3d-9e041ca54f9e" playOrder="3">
+        <navLabel>
+          <text>a) Eskimiş Zihniyetle Sözde Yenilik</text>
+        </navLabel>
+        <content src="gelecek_split_005.html"/>
+      </navPoint>
+      <navPoint id="6456070f-105e-46e3-a7b7-d5d3584fb7a4" playOrder="4">
+        <navLabel>
+          <text>b) Eskimiş Siyasetle Sözde Yenilik</text>
+        </navLabel>
+        <content src="gelecek_split_006.html"/>
+      </navPoint>
+      <navPoint id="b1b252f4-465e-40c0-9dfd-7f6398c82aaa" playOrder="5">
+        <navLabel>
+          <text>c) Eskimiş Ekonomide Sözde Yenilik</text>
+        </navLabel>
+        <content src="gelecek_split_007.html"/>
+      </navPoint>
+      <navPoint id="7e9b979f-e602-4005-825b-7f145db52a44" playOrder="6">
+        <navLabel>
+          <text>d) Eskimiş Dış Siyasetle Sözde Yenilik</text>
+        </navLabel>
+        <content src="gelecek_split_008.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="2b3f96b6-c950-4d10-bdd7-3988f4281fef" playOrder="7">
+      <navLabel>
+        <text>II GÜNEYDOĞU</text>
+      </navLabel>
+      <content src="gelecek_split_009.html"/>
+    </navPoint>
+    <navPoint id="6bd0631d-c3d5-4c52-a9d8-07b3093614b9" playOrder="8">
+      <navLabel>
+        <text>III İNSAN VE KÜLTÜR</text>
+      </navLabel>
+      <content src="gelecek_split_010.html"/>
+      <navPoint id="766529db-5e15-4c64-9a00-d1bcf5a9f1a1" playOrder="9">
+        <navLabel>
+          <text>a) “Kültürümüz” Nerede?</text>
+        </navLabel>
+        <content src="gelecek_split_011.html"/>
+      </navPoint>
+      <navPoint id="ea0ed2b8-0c7c-4a0a-99d2-de23cc83d247" playOrder="10">
+        <navLabel>
+          <text>b) Eşitsizlik Eğitimden Başlıyor</text>
+        </navLabel>
+        <content src="gelecek_split_012.html"/>
+      </navPoint>
+      <navPoint id="886edb23-dda5-49fb-8671-74e791d41bc9" playOrder="11">
+        <navLabel>
+          <text>c) “Özelleri” Ne Yapmalı?</text>
+        </navLabel>
+        <content src="gelecek_split_013.html"/>
+      </navPoint>
+      <navPoint id="0b50493a-9130-471e-b4d4-41a41d3dd31b" playOrder="12">
+        <navLabel>
+          <text>d) “Hemşerisiz” Şehirler...</text>
+        </navLabel>
+        <content src="gelecek_split_014.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="4cc27126-44c0-4989-b70a-028839397e8a" playOrder="13">
+      <navLabel>
+        <text>IV BATI, TÜRKİYE’Yİ İSTİYOR MU?</text>
+      </navLabel>
+      <content src="gelecek_split_015.html"/>
+    </navPoint>
+    <navPoint id="4be57aab-3b3b-408b-9f81-966d367b623c" playOrder="14">
+      <navLabel>
+        <text>V ORTADOĞU SAVAŞIYOR</text>
+      </navLabel>
+      <content src="gelecek_split_016.html"/>
+    </navPoint>
+    <navPoint id="07e1aaba-6ad0-466d-a140-c0eefe254cd2" playOrder="15">
+      <navLabel>
+        <text>VI DÜNYA NEREYE GİDİYOR?</text>
+      </navLabel>
+      <content src="gelecek_split_017.html"/>
+    </navPoint>
+    <navPoint id="f9dc7838-3ffc-4a69-b989-3eb6ce73e38b" playOrder="16">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="gelecek_split_018.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

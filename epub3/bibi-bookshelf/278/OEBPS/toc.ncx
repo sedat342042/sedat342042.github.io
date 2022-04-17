@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>BİRİNCİ BÖLÜM</text>
+			</navLabel>
+			<content src="Text/9.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>İKİNCİ BÖLÜM</text>
+			</navLabel>
+			<content src="Text/9-2.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>ÜÇÜNCÜ BÖLÜM</text>
+			</navLabel>
+			<content src="Text/9-4.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>DÖRDÜNCÜ BÖLÜM</text>
+			</navLabel>
+			<content src="Text/9-6.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>BEŞİNCİ BÖLÜM</text>
+			</navLabel>
+			<content src="Text/9-8.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>ALTINCI BÖLÜM</text>
+			</navLabel>
+			<content src="Text/9-10.html#toc_marker-6"/>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>İnsan Düzelince, Tüm Dünya Düzeldi</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-1"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>Hayallerden Sıfır Almak?</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-2"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>Tek Kollu Şampiyon</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-3"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>Einstein ve Şoförü</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-4"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>Henry Ford’dan Muhteşem Bir Ders</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-5"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>Çiviler ve Bıraktığı İzler</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-6"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>Misafiriniz Var</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-7"/>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>Lincoln’den Oğlunun Öğretmenine Mektup</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-8"/>
+			</navPoint>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>Bilge, Elma ve Vazo</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-9"/>
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>Mine Çiçeği</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-10"/>
+			</navPoint>
+			<navPoint id="navpoint17" playOrder="17">
+				<navLabel>
+					<text>Bakalım Zaman Neyi Gösterecek…</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-11"/>
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>Baltayı Bilemek</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-12"/>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>Muhteşem Jerry’nin Hikâyesi</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-13"/>
+			</navPoint>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>Bilge ve Savaşçı</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-14"/>
+			</navPoint>
+			<navPoint id="navpoint21" playOrder="21">
+				<navLabel>
+					<text>Hangisini Beslersen, O Büyür!</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-15"/>
+			</navPoint>
+			<navPoint id="navpoint22" playOrder="22">
+				<navLabel>
+					<text>Geleceğini Biliyordum</text>
+				</navLabel>
+				<content src="Text/9-10.html#toc_marker-6-16"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>SONSÖZ</text>
+			</navLabel>
+			<content src="Text/9-11.html#toc_marker-7"/>
+		</navPoint>
+	</navMap>
+</ncx>

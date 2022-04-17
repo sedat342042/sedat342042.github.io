@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="1.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Osmancık</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Buğra, Tarık">Tarık Buğra</dc:creator>
+    <dc:description>"Osmanlı'nın sırrı nedir" sorusunun cevabını arayan yazarın Osmanlı kuruluş döneminin dinamiklerini ve felsefesini bugünkü dille inşa ettiği romandır. Duvarları süsleyen "Ey Osmancık; beğsin. Bundan sonra öfke bize, uysallık sana; güceniklik bize, gönül alma sana; suçlama bizde, katlanma sende; bundan böyle, yanılgı bize, hoş görmek sana; aciz bize, yardım sana; geçimsizlikler, uyuşmazlıklar, anlaşmazlıklar, çatışmalar bize, adalet sana; kötü göz bize, şom ağız bize, haksız yorum bize, bağışlama sana. Ey Osmancık bundan böyle, bölmek bize, bütünlemek sana; üşengenlik bize, gayret sana; uyuşukluk bize, rahat bize, uyarmak şevklendirmek, gayretlendirmek sana" gibi sözler bu kitabın eseridir.</dc:description>
+    <dc:publisher>Ötüken Neşriyat</dc:publisher>
+    <dc:date>1995-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:32D046BA-C979-48FC-AE6F-459AC8A3A0BB</dc:identifier>
+    <dc:identifier>9786051551579</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-06-27</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">b6691aec-abe7-4a0b-a564-cece3170e59e</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786051551579</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik.xhtml" id="tarik-bugra-osmancik" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-1.xhtml" id="tarik-bugra-osmancik-1" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-2.xhtml" id="tarik-bugra-osmancik-2" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-3.xhtml" id="tarik-bugra-osmancik-3" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-4.xhtml" id="tarik-bugra-osmancik-4" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-5.xhtml" id="tarik-bugra-osmancik-5" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-6.xhtml" id="tarik-bugra-osmancik-6" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-7.xhtml" id="tarik-bugra-osmancik-7" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-8.xhtml" id="tarik-bugra-osmancik-8" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-9.xhtml" id="tarik-bugra-osmancik-9" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-10.xhtml" id="tarik-bugra-osmancik-10" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-11.xhtml" id="tarik-bugra-osmancik-11" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-12.xhtml" id="tarik-bugra-osmancik-12" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-13.xhtml" id="tarik-bugra-osmancik-13" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-14.xhtml" id="tarik-bugra-osmancik-14" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-15.xhtml" id="tarik-bugra-osmancik-15" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-16.xhtml" id="tarik-bugra-osmancik-16" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-17.xhtml" id="tarik-bugra-osmancik-17" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-18.xhtml" id="tarik-bugra-osmancik-18" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-19.xhtml" id="tarik-bugra-osmancik-19" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-20.xhtml" id="tarik-bugra-osmancik-20" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-21.xhtml" id="tarik-bugra-osmancik-21" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-22.xhtml" id="tarik-bugra-osmancik-22" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-23.xhtml" id="tarik-bugra-osmancik-23" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-24.xhtml" id="tarik-bugra-osmancik-24" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-25.xhtml" id="tarik-bugra-osmancik-25" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-26.xhtml" id="tarik-bugra-osmancik-26" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-27.xhtml" id="tarik-bugra-osmancik-27" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-28.xhtml" id="tarik-bugra-osmancik-28" media-type="application/xhtml+xml"/>
+    <item href="Text/tarik-bugra-osmancik-29.xhtml" id="tarik-bugra-osmancik-29" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/osmancik_idstyles.css" id="osmancik_idstyles.css" media-type="text/css"/>
+    <item href="Images/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+    <item href="Images/osmancik.jpg" id="osmancik.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uzoXqajaNgqlm8LSnGEQ4eB" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="tarik-bugra-osmancik"/>
+    <itemref idref="tarik-bugra-osmancik-1"/>
+    <itemref idref="tarik-bugra-osmancik-2"/>
+    <itemref idref="tarik-bugra-osmancik-3"/>
+    <itemref idref="tarik-bugra-osmancik-4"/>
+    <itemref idref="tarik-bugra-osmancik-5"/>
+    <itemref idref="tarik-bugra-osmancik-6"/>
+    <itemref idref="tarik-bugra-osmancik-7"/>
+    <itemref idref="tarik-bugra-osmancik-8"/>
+    <itemref idref="tarik-bugra-osmancik-9"/>
+    <itemref idref="tarik-bugra-osmancik-10"/>
+    <itemref idref="tarik-bugra-osmancik-11"/>
+    <itemref idref="tarik-bugra-osmancik-12"/>
+    <itemref idref="tarik-bugra-osmancik-13"/>
+    <itemref idref="tarik-bugra-osmancik-14"/>
+    <itemref idref="tarik-bugra-osmancik-15"/>
+    <itemref idref="tarik-bugra-osmancik-16"/>
+    <itemref idref="tarik-bugra-osmancik-17"/>
+    <itemref idref="tarik-bugra-osmancik-18"/>
+    <itemref idref="tarik-bugra-osmancik-19"/>
+    <itemref idref="tarik-bugra-osmancik-20"/>
+    <itemref idref="tarik-bugra-osmancik-21"/>
+    <itemref idref="tarik-bugra-osmancik-22"/>
+    <itemref idref="tarik-bugra-osmancik-23"/>
+    <itemref idref="tarik-bugra-osmancik-24"/>
+    <itemref idref="tarik-bugra-osmancik-25"/>
+    <itemref idref="tarik-bugra-osmancik-26"/>
+    <itemref idref="tarik-bugra-osmancik-27"/>
+    <itemref idref="tarik-bugra-osmancik-28"/>
+    <itemref idref="tarik-bugra-osmancik-29"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

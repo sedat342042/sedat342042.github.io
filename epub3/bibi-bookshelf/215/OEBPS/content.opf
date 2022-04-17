@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kader Nedir? - Ruh Nedir? - Nasıl Aldanıyorlar?</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kırkıncı, Mehmed">Mehmed Kırkıncı</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b0fe8db6-adec-43b6-b445-19505c339003</dc:identifier>
+    <dc:date>2013-11-05T21:00:00+00:00</dc:date>
+    <dc:publisher>Zafer Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">86c6f9e6-b0c0-42c8-a596-09037b3ea699</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:b0fe8db6-adec-43b6-b445-19505c339003</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Bütün Eserleri - 3- Kader-ruh-Nasıl Aldanıyorlar.htm" id="Bütün_Eserleri_-_3-_Kader-ruh-Nasıl_Aldanıyorlar.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Bütün_Eserleri_-_3-_Kader-ruh-Nasıl_Aldanıyorlar.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Altın Yumurtlayan Kaz</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Pala, Mustafa">Mustafa Pala</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">fb94d425-05ae-4567-ac92-a821e630e2f9</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="13_Altin_Yumurtlayan_Kaz.xhtml" id="x13_Altin_Yumurtlayan_Kaz" media-type="application/xhtml+xml"/>
+    <item href="13_Altin_Yumurtlayan_Kaz-1.xhtml" id="x13_Altin_Yumurtlayan_Kaz-1" media-type="application/xhtml+xml"/>
+    <item href="13_Altin_Yumurtlayan_Kaz-2.xhtml" id="x13_Altin_Yumurtlayan_Kaz-2" media-type="application/xhtml+xml"/>
+    <item href="13_Altin_Yumurtlayan_Kaz-3.xhtml" id="x13_Altin_Yumurtlayan_Kaz-3" media-type="application/xhtml+xml"/>
+    <item href="13_Altin_Yumurtlayan_Kaz-4.xhtml" id="x13_Altin_Yumurtlayan_Kaz-4" media-type="application/xhtml+xml"/>
+    <item href="13_Altin_Yumurtlayan_Kaz-5.xhtml" id="x13_Altin_Yumurtlayan_Kaz-5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/13_Altin_Yumurtlayan_Kaz.css" id="x13_Altin_Yumurtlayan_Kaz.css" media-type="text/css"/>
+    <item href="image/13_Altin_Yumurtlayan_K_fmt.jpeg" id="x13_Altin_Yumurtlayan_K_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/13_Altin_Yumurtlayan_Kaz_KAPAK-o.jpg" id="x13_Altin_Yumurtlayan_Kaz_KAPAK-o.jpg" media-type="image/jpeg"/>
+    <item href="image/altın yumurtlayan kaz _fmt.jpeg" id="alt-n-yumurtlayan-kaz-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/altın yumurtlayan kaz_fmt1.jpeg" id="alt-n-yumurtlayan-kaz_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/altın yumurtlayan kaz_fmt2.jpeg" id="alt-n-yumurtlayan-kaz_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/altın yumurtlayan kaz_fmt3.jpeg" id="alt-n-yumurtlayan-kaz_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="image/altın yumurtlayan kaz_fmt4.jpeg" id="alt-n-yumurtlayan-kaz_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="image/altın yumurtlayan kaz_fmt5.jpeg" id="alt-n-yumurtlayan-kaz_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="image/altın yumurtlayan kaz_fmt6.jpeg" id="alt-n-yumurtlayan-kaz_fmt6.jpeg" media-type="image/jpeg"/>
+    <item href="image/giris_fmt.jpeg" id="giris_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kaplumbağa 1_fmt.jpeg" id="kaplumba-a-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kaplumbağa 2_fmt.jpeg" id="kaplumba-a-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kaplumbağa 3_fmt.jpeg" id="kaplumba-a-3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kaplumbağa 5_fmt.jpeg" id="kaplumba-a-5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kaplumbağa 6_fmt.jpeg" id="kaplumba-a-6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kaplumbağa 7_fmt.jpeg" id="kaplumba-a-7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kaplumbağa 8_fmt.jpeg" id="kaplumba-a-8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kaplumbağa 9_fmt.jpeg" id="kaplumba-a-9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/karga ve tilki 1_fmt.jpeg" id="karga-ve-tilki-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/karga ve tilki 2_fmt.jpeg" id="karga-ve-tilki-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/karga ve tilki 3_fmt.jpeg" id="karga-ve-tilki-3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/karga ve tilki 4_fmt.jpeg" id="karga-ve-tilki-4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/karınca ve kumru 1_fmt.jpeg" id="kar-nca-ve-kumru-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/karınca ve kumru 2_fmt.jpeg" id="kar-nca-ve-kumru-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/karınca ve kumru 3_fmt.jpeg" id="kar-nca-ve-kumru-3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/karınca ve kumru 4_fmt.jpeg" id="kar-nca-ve-kumru-4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kurt ve koyunlar 1_fmt.jpeg" id="kurt-ve-koyunlar-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kurt ve koyunlar 2_fmt.jpeg" id="kurt-ve-koyunlar-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kurt ve koyunlar 3_fmt.jpeg" id="kurt-ve-koyunlar-3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kurt ve koyunlar 4_fmt.jpeg" id="kurt-ve-koyunlar-4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kurt ve koyunlar 5_fmt.jpeg" id="kurt-ve-koyunlar-5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kurt ve koyunlar 6_fmt.jpeg" id="kurt-ve-koyunlar-6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_size_fmt.jpeg" id="ZambakLogo_size_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x13_Altin_Yumurtlayan_Kaz"/>
+    <itemref idref="x13_Altin_Yumurtlayan_Kaz-1"/>
+    <itemref idref="x13_Altin_Yumurtlayan_Kaz-2"/>
+    <itemref idref="x13_Altin_Yumurtlayan_Kaz-3"/>
+    <itemref idref="x13_Altin_Yumurtlayan_Kaz-4"/>
+    <itemref idref="x13_Altin_Yumurtlayan_Kaz-5"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Piç</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Günday, Hakan">Hakan Günday</dc:creator>
+    <dc:description>D&amp;R E-Kitap Formatlı ürün.</dc:description>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:30CA7669-9D4D-40F5-BFC8-65740E814773</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">9dd74e61-607e-49e2-9e53-4a2df3e0d3d1</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="KAPAK.html" id="KAPAK" media-type="application/xhtml+xml"/>
+    <item href="KUNYE.html" id="KUNYE" media-type="application/xhtml+xml"/>
+    <item href="GIRIS.html" id="GIRIS" media-type="application/xhtml+xml"/>
+    <item href="ITHAF.html" id="ITHAF" media-type="application/xhtml+xml"/>
+    <item href="ITHAF-1.html" id="ITHAF-1" media-type="application/xhtml+xml"/>
+    <item href="01.html" id="x01" media-type="application/xhtml+xml"/>
+    <item href="02.html" id="x02" media-type="application/xhtml+xml"/>
+    <item href="03.html" id="x03" media-type="application/xhtml+xml"/>
+    <item href="04.html" id="x04" media-type="application/xhtml+xml"/>
+    <item href="05.html" id="x05" media-type="application/xhtml+xml"/>
+    <item href="06.html" id="x06" media-type="application/xhtml+xml"/>
+    <item href="07.html" id="x07" media-type="application/xhtml+xml"/>
+    <item href="08.html" id="x08" media-type="application/xhtml+xml"/>
+    <item href="09.html" id="x09" media-type="application/xhtml+xml"/>
+    <item href="10.html" id="x10" media-type="application/xhtml+xml"/>
+    <item href="11.html" id="x11" media-type="application/xhtml+xml"/>
+    <item href="12.html" id="x12" media-type="application/xhtml+xml"/>
+    <item href="13.html" id="x13" media-type="application/xhtml+xml"/>
+    <item href="14.html" id="x14" media-type="application/xhtml+xml"/>
+    <item href="15.html" id="x15" media-type="application/xhtml+xml"/>
+    <item href="16.html" id="x16" media-type="application/xhtml+xml"/>
+    <item href="17.html" id="x17" media-type="application/xhtml+xml"/>
+    <item href="18.html" id="x18" media-type="application/xhtml+xml"/>
+    <item href="19.html" id="x19" media-type="application/xhtml+xml"/>
+    <item href="20.html" id="x20" media-type="application/xhtml+xml"/>
+    <item href="21.html" id="x21" media-type="application/xhtml+xml"/>
+    <item href="22.html" id="x22" media-type="application/xhtml+xml"/>
+    <item href="ARKA_KAPAK.html" id="ARKA_KAPAK" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/01_fmt.jpeg" id="x01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/dk_logo_fmt.png" id="dk_logo_fmt.png" media-type="image/png"/>
+    <item href="images/icon1b_fmt.jpeg" id="icon1b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/on_D_fmt.jpeg" id="on_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/on_D.jpg" id="on_D.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uJIIBVZbaxZz3fPbWjVml22" media-type="image/jpeg"/>
+    <item href="fonts/Serif6BetaRgitalic.ttf" id="Serif6BetaRgitalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Serif12Beta-Roman.ttf" id="Serif12Beta-Roman.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Serif12BetaRgBold.ttf" id="Serif12BetaRgBold.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KAPAK"/>
+    <itemref idref="KUNYE"/>
+    <itemref idref="GIRIS"/>
+    <itemref idref="ITHAF"/>
+    <itemref idref="ITHAF-1"/>
+    <itemref idref="x01"/>
+    <itemref idref="x02"/>
+    <itemref idref="x03"/>
+    <itemref idref="x04"/>
+    <itemref idref="x05"/>
+    <itemref idref="x06"/>
+    <itemref idref="x07"/>
+    <itemref idref="x08"/>
+    <itemref idref="x09"/>
+    <itemref idref="x10"/>
+    <itemref idref="x11"/>
+    <itemref idref="x12"/>
+    <itemref idref="x13"/>
+    <itemref idref="x14"/>
+    <itemref idref="x15"/>
+    <itemref idref="x16"/>
+    <itemref idref="x17"/>
+    <itemref idref="x18"/>
+    <itemref idref="x19"/>
+    <itemref idref="x20"/>
+    <itemref idref="x21"/>
+    <itemref idref="x22"/>
+    <itemref idref="ARKA_KAPAK"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

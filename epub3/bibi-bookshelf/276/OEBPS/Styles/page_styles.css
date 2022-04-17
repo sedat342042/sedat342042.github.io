@@ -1,0 +1,26 @@
+@page {
+  margin-bottom: 0;
+  margin-top: 0;
+  }
+@font-face {
+  font-family: "Minion Pro";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/MinionPro-Bold.otf);
+  }
+@font-face {
+  font-family: "Minion Pro";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/MinionPro-It.otf);
+  }
+@font-face {
+  font-family: "Minion Pro";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/MinionPro-Regular.otf);
+  }
+@font-face {
+  src: url(../Fonts/Vollkorn.otf);
+  font-family: "Vollkorn";
+  }

@@ -1,0 +1,51 @@
+p {
+margin:0 auto 0 auto;
+text-indent:1.5em;
+text-align:justify;}
+a:link {text-decoration: none;}
+sub, sup { 
+font-size: 75%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.res{text-indent:0em;text-align:center;margin-top:1em;margin-bottom:1em;}
+
+.ort {margin-top:1em;margin-bottom:1em;}
+.ort p{text-indent:0em;text-align:center;}
+
+.simge{text-indent:0em;text-align:center;margin-top:1em;margin-bottom:1em;}
+.bos05{margin-top:0.5em;}
+.bos1{margin-top:1em;}
+.bas1{margin-bottom:8em;margin-top:1em;}
+.bas1 p{text-indent:0em;text-align:center; font-size:1.2em;}
+.bas1 .ad{font-size:1.4em;}
+
+.sag{text-indent:0em;text-align:right;font-size:0.8em;}
+.gir1{text-indent:0em;margin-left:1.5em;}
+.gir11{text-indent:0em;margin-left:2.5em;}
+.gir2{margin-left:1.5em;margin-top:1em;margin-bottom:1em;}
+.gir2 p{text-indent:0em;}
+
+.gir3{margin-left:1.5em;margin-top:1em;margin-bottom:1em;}
+.gir3 p{text-indent:0em;font-size:0.9em;}
+.gir3 .eksi{margin-left:-1.5em;text-indent:0em;}
+.gir3 .art1{margin-left:1.5em;}
+.gir3 .art2{margin-left:3em;}
+
+.gir4{margin-left:3em;margin-top:1em;margin-bottom:1em;}
+.gir4 p{text-indent:0em;font-size:0.9em;}
+
+.ilk{text-indent:0em;}
+table {
+   border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    text-indent: 0em;
+    margin: 1em auto;  
+  }
+table p{text-indent: 0em;text-align:center;margin-left:0.5em;margin-right:0.5em;}
+  

@@ -1,0 +1,382 @@
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:bold;
+	src : url("font/BerlingLTStd-Bold.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:italic;
+	font-weight:bold;
+	src : url("font/BerlingLTStd-BoldItalic.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/BerlingLTStd-Roman.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:italic;
+	font-weight:normal;
+	src : url("font/BerlingLTStd-Italic.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:medium;
+	font-weight:normal;
+	src : url("font/BerlingLTStd-Medium.ttf");
+}
+
+@font-face {
+	font-family:"GillSans";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/GillSansStd.ttf");
+}
+
+@font-face {
+	font-family:"GillSans";
+	font-style:italic;
+	font-weight:normal;
+	src : url("font/GillSansStd-Italic.ttf");
+}
+@font-face {
+	font-family:"GillSans";
+	font-style:normal;
+	font-weight:300;
+	src : url("font/GillSansStd-Light.ttf");
+}
+
+@font-face {
+	font-family:"GillSans";
+	font-style:italic;
+	font-weight:300;
+	src : url("font/GillSansStd-LightItalic.ttf");
+}
+
+@font-face {
+	font-family:"Berling-Medium";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/BerlingLTStd-Medium.ttf");
+}
+@font-face {
+	font-family:"Goudy";
+	font-style: normal;
+	font-weight: normal;
+	src : url("font/GoudyCatTReg.ttf");
+}
+
+
+
+
+/*
+ *chapter
+ */
+
+p {
+	font: normal normal .875em/1.3em "Berling";
+	margin: 0;
+	text-indent: 1.9em;
+}
+
+.preface p {
+	font: normal normal 1em/1.3em "Berling";
+}
+
+h1 {
+	font: normal normal 1.4em/1.2em "Berling";
+	text-align: center;
+	margin: 10em 0 1.5em 0;
+}
+
+.preface h1 {
+	font: normal normal 1.5em/1.2em "Berling";
+	margin-top: 10em;
+}
+
+.preface h1 + p {
+	margin-top: 2em;
+}
+
+.preface blockquote {
+	margin: 1em 1.2em 1em 1.2em;
+}
+
+.preface blockquote p {
+	font: normal normal 1em/1.3em "GillSans";
+}
+
+h2 {
+	font: normal normal 1.25em/1.2em "Berling";
+	text-align: center;
+	margin: 10em 0 1.5em 0;
+}
+
+h3 {
+	font: normal normal 1em/1.2em "Berling";
+	margin: 1em 0 .4em 0;
+	text-indent: 1.7em;
+}
+
+h1 + p {
+	margin-top: 10em;
+}
+
+h1 + .no-indent{
+	margin-top: 10em;
+}
+
+h2 + p {
+	margin-top: 2em;
+}
+
+a{
+  text-decoration: none;
+  color: #7A7A7A;
+}
+
+hr {
+	border: 0;
+	max-width: 3em;
+	margin: 1em auto .6em auto;
+}
+hr:before {
+	content :"* * *";
+	font: normal 1em/1.2em "Berling-Medium";
+}
+
+blockquote {
+	margin: 1em 1.2em 1em 1.2em;
+}
+
+blockquote p {
+	font: normal normal .875em/1.3em "GillSans";
+}
+
+p.indent-1 {
+	text-indent: 2.8em;
+}
+
+p.indent-2 {
+	text-indent: 3.8em;
+}
+
+p.indent-3 {
+	text-indent: 4.8em;
+}
+
+.gap {
+	margin-top: 1em;
+}
+
+.gap-twice {
+	margin-top: 2em;
+}
+
+.center {
+	text-align: center;
+	margin-top: 1em;
+}
+
+table {
+	margin: 1em auto;
+	border-spacing: 50px 0;
+	font: normal .875em/1.3em "Berling";
+}
+
+.left-table {
+	margin: 1em 0;
+	border-spacing: 50px 0;
+	font: normal .875em/1.3em "Berling";
+}
+
+.ara-baslik {
+	font: normal normal .875em/1.3em "Berling";
+	margin-top: 1em;
+}
+
+.right {
+	text-align: right;
+}
+
+.letter {
+	margin: 1em 0;
+}
+
+.letter p{
+	font: normal normal .875em/1.3em "GillSans";
+}
+
+.diyalog {
+	margin: 2em 0 0 0;
+}
+
+.diyalog p {
+	text-indent: 0;
+}
+
+.diyalog .gap {
+	text-indent: 0;
+}
+
+.no-indent {
+	margin: 0 0 1em 0;
+}
+
+.no-indent p {
+	text-indent: 0;
+	font: normal normal .83em/1.3em "Berling";
+}
+
+.right-gap {
+	text-align: right;
+	margin-top: 1em;
+}
+
+.line {
+	margin-top: 2em;
+}
+
+
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+}
+.si-footnote {
+	font-family: "GillSans";
+	font-size: .8em;
+	margin-bottom: .25em;
+}
+.books p {
+	font: normal normal .75em/1.5em "GillSans";
+	text-indent: 0;
+}
+.books ul {
+	padding-left: 0;
+}
+.books ul li {
+	font: normal normal .75em/1.6em "GillSans";
+	list-style-type: none;
+	text-indent: 0;
+}
+.kunye .margin, .press{
+  margin: .8em 0 0 ;
+}
+.isbn {
+	margin-top: 1.2em;
+}
+.kunye .publisher{
+	margin-top: 2em;
+}
+.kunye span{
+  font-family: "GillSans";
+  font-size:0.667em;
+  display: block;
+}
+.title{
+  text-align: center;
+}
+.aut{
+  font-family: "Goudy";
+  font-size: 1.7em;
+  margin-bottom: 0;
+}
+.aut span{
+  font-size: 1.15em;
+}
+.work{
+  font-family: "Goudy";
+  font-size: 2.3em;
+  margin-top: .5em;
+}
+.award {
+	font: normal 1.04em "GillSans";
+	margin-top: 1.5em;
+}
+.seri{
+  font-family: "GillSans";
+  font-size: 1em;
+  margin-top: 3.5em
+}
+.interheader {
+	font-family: "GillSans";
+	font-size: 1.2em;
+	margin-top: 4em;
+}
+.trans{
+  font-family: "GillSans";
+  font-size: .9em;
+  margin-top: 1.5em;
+  line-height: 1.5em
+}
+.trans span{
+  font-size: 1.2em;
+  display: block;
+}
+.logo{
+  margin: 3em auto 0 auto;
+  width: 60px;
+  text-align: center;
+}
+.cover-container img{
+  max-width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+img{
+  max-width: 100%;
+}
+#biography p{
+	font: normal normal .75em/1.5em "GillSans";
+  text-indent: 0;
+}
+#biography .translator {
+  margin-top: 2em;
+}
+
+
+.dedication, .acknowledgments, .preface, .introduction, .epigraph, .chronology, .acknowledgments, .bibliography {
+	font-size: .8em;
+}
+.dedication .by, .acknowledgments .by, .preface .by, .introduction .by, .epigraph .by {
+	margin-top: .9em;
+}
+.bibliography h1, .epigraph h1, .chronology h1 {
+	text-align: left;
+	margin: .1em auto 2em 0;
+}
+.dedication {
+	margin-top: 5em;
+}
+.dedication p {
+	text-align: right;
+	text-indent: 0;
+}
+.epigraph {
+	max-width: 20em;
+	text-align: right;
+	margin: 5em 0 0 auto;
+}

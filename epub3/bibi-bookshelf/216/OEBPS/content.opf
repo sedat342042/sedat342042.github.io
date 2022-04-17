@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Kalblerin Güneşi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Akar, Mehmet">Mehmet Akar</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:description>D&amp;R E-Kitap Formatlı ürün.</dc:description>
+    <dc:publisher>Şahdamar Yayınları</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-03-19</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">fba27e80-b171-45ca-b110-dc5e1d236d9a</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Kalbin_Gunesi.html" id="Kalbin_Gunesi" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-1.html" id="Kalbin_Gunesi-1" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-2.html" id="Kalbin_Gunesi-2" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-3.html" id="Kalbin_Gunesi-3" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-4.html" id="Kalbin_Gunesi-4" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-5.html" id="Kalbin_Gunesi-5" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-6.html" id="Kalbin_Gunesi-6" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-7.html" id="Kalbin_Gunesi-7" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-8.html" id="Kalbin_Gunesi-8" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-9.html" id="Kalbin_Gunesi-9" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-10.html" id="Kalbin_Gunesi-10" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-11.html" id="Kalbin_Gunesi-11" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-12.html" id="Kalbin_Gunesi-12" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-13.html" id="Kalbin_Gunesi-13" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-14.html" id="Kalbin_Gunesi-14" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-15.html" id="Kalbin_Gunesi-15" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-16.html" id="Kalbin_Gunesi-16" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-17.html" id="Kalbin_Gunesi-17" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-18.html" id="Kalbin_Gunesi-18" media-type="application/xhtml+xml"/>
+    <item href="Text/Kalbin_Gunesi-19.html" id="Kalbin_Gunesi-19" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/sahdamar_logo_fmt.jpeg" id="sahdamar_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="ugFalMOtHy64I46SlMRnhEA" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Kalbin_Gunesi"/>
+    <itemref idref="Kalbin_Gunesi-1"/>
+    <itemref idref="Kalbin_Gunesi-2"/>
+    <itemref idref="Kalbin_Gunesi-3"/>
+    <itemref idref="Kalbin_Gunesi-4"/>
+    <itemref idref="Kalbin_Gunesi-5"/>
+    <itemref idref="Kalbin_Gunesi-6"/>
+    <itemref idref="Kalbin_Gunesi-7"/>
+    <itemref idref="Kalbin_Gunesi-8"/>
+    <itemref idref="Kalbin_Gunesi-9"/>
+    <itemref idref="Kalbin_Gunesi-10"/>
+    <itemref idref="Kalbin_Gunesi-11"/>
+    <itemref idref="Kalbin_Gunesi-12"/>
+    <itemref idref="Kalbin_Gunesi-13"/>
+    <itemref idref="Kalbin_Gunesi-14"/>
+    <itemref idref="Kalbin_Gunesi-15"/>
+    <itemref idref="Kalbin_Gunesi-16"/>
+    <itemref idref="Kalbin_Gunesi-17"/>
+    <itemref idref="Kalbin_Gunesi-18"/>
+    <itemref idref="Kalbin_Gunesi-19"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

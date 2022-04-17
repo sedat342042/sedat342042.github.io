@@ -1,0 +1,482 @@
+@font-face {
+	font-family : "Liberation Serif";
+	font-style : normal;
+	font-weight : normal;
+	src : url("fonts/LiberationSerif.ttf");
+}
+@font-face {
+	font-family : "Liberation Serif";
+	font-style : normal;
+	font-weight : bold;
+	src : url("fonts/LiberationSerif-Bold.ttf");
+}
+@font-face {
+	font-family : "Liberation Serif";
+	font-style : italic ;
+	font-weight : normal;
+	src : url("fonts/LiberationSerif-Italic.ttf");
+}
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.alinti {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.77em;
+}
+span.regular-metin {
+}
+span.dipnot {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+}
+span.italik {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1em;
+}
+span.dipnotlar-bold {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.71em;
+}
+span.alinti-1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+}
+span.bolum-baslik {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.25em;
+}
+span.dipnot-numarasi {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	vertical-align : super;
+	color : #000000;
+}
+span.Normal-1 {
+	font-family : "ITC Century Book", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.metinbold {
+	font-family : "NewCenturySchlbkTurkB Medium", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+}
+span.Normal-2 {
+	font-family : "ITC Century Book", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.regular-metin-1 {
+}
+span.italik-1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1em;
+}
+span.kisim-baslik {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.char-style-override-1 {
+	font-family : "Liberation Serif", serif;
+	font-size : 0.67em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-2 {
+	font-size : 0.67em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-3 {
+	font-size : 0.67em;
+}
+span.char-style-override-4 {
+	font-family : "Liberation Serif", serif;
+	font-size : 0.67em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-5 {
+	color : #0000ff;
+	font-family : "Liberation Serif", serif;
+	font-size : 0.67em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-6 {
+	font-family : "Liberation Serif", serif;
+	font-size : 1.92em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-7 {
+	font-family : "Liberation Serif", serif;
+	font-size : 1.5em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-8 {
+	font-family : "Liberation Serif", serif;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-9 {
+	font-size : 1.3em;
+}
+span.char-style-override-10 {
+	font-size : 1.08em;
+}
+span.char-style-override-11 {
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-12 {
+	font-style : normal;
+	font-weight : bold;
+}
+p.alinti {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.77em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.49;
+	text-align : justify;
+	color : #000000;
+	text-indent : 11px;
+	margin : 0px 0px 0px 11px;
+}
+p.paragraf {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : left;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 30px;
+}
+p.split {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.04em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 20px;
+	margin : 70px 30px 0px 30px;
+}
+p.bosluk {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 20px 0px 0px 0px;
+}
+p.dipnot {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.44;
+	text-align : left;
+	color : #000000;
+	text-indent : 20px;
+	margin : 20px 30px 0px 30px;
+}
+p.Normal {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.alinti-1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.77em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.49;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 40px;
+}
+p.bolum-baslik {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.25em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1;
+	text-align : center;
+	color : #000000;
+	text-indent : 20px;
+	margin : 10px 30px 0px 30px;
+}
+p.tarih {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : right;
+	color : #000000;
+	text-indent : 20px;
+	margin : 5px 30px 0px 30px;
+}
+p.sus {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.13em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : center;
+	color : #000000;
+	text-indent : 20px;
+	margin : 40px 30px 0px 30px;
+}
+p.Normal-1 {
+	font-family : "ITC Century Book", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.No-Paragraph-Style {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Basic-Paragraph {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.perde-yazar {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 0px 0px 0px;
+}
+p.Normal-2 {
+	font-family : "ITC Century Book", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.paragraf-1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : left;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 30px;
+}
+p.bolum-baslik-1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.25em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1;
+	text-align : center;
+	color : #000000;
+	text-indent : 20px;
+	margin : 30px 30px 70px 30px;
+}
+p.para-style-override-1 {
+	text-align : center;
+	margin-top : 0em;
+	margin-bottom : 0em;
+}
+p.para-style-override-2 {
+	margin-bottom : 22px;
+	margin-left : 30px;
+	margin-top : 30px;
+}
+p.para-style-override-3 {
+	margin-left : 30px;
+}
+p.para-style-override-4 {
+	margin-left : 30px;
+	margin-top : 22px;
+}
+p.para-style-override-5 {
+	margin-bottom : 22px;
+	margin-left : 30px;
+}
+p.para-style-override-6 {
+	margin-bottom : 30px;
+	margin-top : 30px;
+	text-align : center;
+}
+p.para-style-override-7 {
+	text-align : center;
+}
+p.para-style-override-8 {
+	margin-bottom : 70px;
+	text-align : center;
+}
+p.para-style-override-9 {
+	text-align : center;
+	text-indent : 20px;
+}
+p.para-style-override-10 {
+	text-align : right;
+}
+p.para-style-override-11 {
+	margin-left : 45px;
+	text-align : center;
+}
+p.para-style-override-12 {
+	margin-top : 30px;
+	text-align : center;
+}
+p.para-style-override-13 {
+	margin-left : 0px;
+	margin-top : 70px;
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-14 {
+	margin-left : 0px;
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-15 {
+	margin-bottom : 30px;
+	margin-left : 0px;
+	margin-top : 10px;
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-16 {
+	margin-left : 0px;
+	margin-top : 10px;
+	text-align : center;
+	text-indent : 0px;
+}
+div.Basic-Text-Frame {
+}
+div.Basic-Text-Frame-1 {
+}
+div.Basic-Text-Frame-2 {
+}
+div.Basic-Text-Frame-3 {
+}
+div.Basic-Text-Frame-4 {
+}

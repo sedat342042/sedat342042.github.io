@@ -1,0 +1,485 @@
+.ICERLEK {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.baslik {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.baslik1 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: center
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre10 {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: center;
+    vertical-align: inherit
+    }
+.calibre11 {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: inherit
+    }
+.calibre12 {
+    height: 79px;
+    width: 389px
+    }
+.calibre13 {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: right;
+    vertical-align: inherit
+    }
+.calibre14 {
+    height: 34px;
+    width: 442px
+    }
+.calibre15 {
+    height: 31px;
+    width: 367px
+    }
+.calibre16 {
+    height: 16px;
+    width: 283px
+    }
+.calibre17 {
+    height: 15px;
+    width: 247px
+    }
+.calibre18 {
+    height: 17px;
+    width: 257px
+    }
+.calibre19 {
+    height: 17px;
+    width: 504px
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre20 {
+    height: 37px;
+    width: 478px
+    }
+.calibre21 {
+    height: 17px;
+    width: 510px
+    }
+.calibre22 {
+    height: 53px;
+    width: 499px
+    }
+.calibre23 {
+    height: 198px;
+    width: 458px
+    }
+.calibre24 {
+    height: 47px;
+    width: 330px
+    }
+.calibre25 {
+    height: 33px;
+    width: 459px
+    }
+.calibre26 {
+    height: 16px;
+    width: 291px
+    }
+.calibre27 {
+    height: 36px;
+    width: 304px
+    }
+.calibre28 {
+    height: 128px;
+    width: 489px
+    }
+.calibre29 {
+    height: 33px;
+    width: 470px
+    }
+.calibre3 {
+    height: 120px;
+    width: 112px
+    }
+.calibre30 {
+    height: 14px;
+    width: 369px
+    }
+.calibre31 {
+    height: 14px;
+    width: 209px
+    }
+.calibre32 {
+    height: 33px;
+    width: 435px
+    }
+.calibre33 {
+    height: 95px;
+    width: 436px
+    }
+.calibre34 {
+    height: 158px;
+    width: 516px
+    }
+.calibre35 {
+    height: 82px;
+    width: 300px
+    }
+.calibre36 {
+    height: 43px;
+    width: 265px
+    }
+.calibre37 {
+    height: 219px;
+    width: 469px
+    }
+.calibre38 {
+    height: 40px;
+    width: 471px
+    }
+.calibre39 {
+    height: 15px;
+    width: 363px
+    }
+.calibre4 {
+    height: 163px;
+    width: 450px
+    }
+.calibre40 {
+    height: 158px;
+    width: 497px
+    }
+.calibre41 {
+    height: 55px;
+    width: 408px
+    }
+.calibre42 {
+    height: 54px;
+    width: 410px
+    }
+.calibre43 {
+    height: 41px;
+    width: 253px
+    }
+.calibre5 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre6 {
+    height: 85%;
+    width: auto
+    }
+.calibre7 {
+    height: 1px;
+    width: 59px
+    }
+.calibre8 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre9 {
+    display: table-row;
+    vertical-align: middle
+    }
+.chapter {
+    display: block
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: center
+    }
+.h1baslik1 {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.h1baslik2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center
+    }
+.h1baslik3 {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    text-align: center
+    }
+.h2baslik {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.h2baslik1 {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: center
+    }
+.h2baslik2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center
+    }
+.idebold {
+    font-weight: bold
+    }
+.idebolditalik {
+    font-style: italic;
+    font-weight: bold
+    }
+.ideitalik {
+    font-style: italic;
+    line-height: 1.2
+    }
+.ideitalik1 {
+    font-style: italic
+    }
+.ideitalik2 {
+    display: table-cell;
+    font-style: italic;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: inherit
+    }
+.indentmetin {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.indentmetinitalik {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.kapakmetin {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.kapakmetin1 {
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortaitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resimalti {
+    display: block;
+    font-size: 0.8em;
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    text-align: center
+    }
+.sagnormal {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+
+    @font-face {
+font-style: normal;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: normal;
+src: url(../Fonts/LiberationSerif-Regular.ttf);
+}
+@font-face {
+font-style: italic;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: normal;
+src: url(../Fonts/LiberationSerif-Italic.ttf);
+}
+@font-face {
+font-style: bold;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: bold;
+src: url(../Fonts/LiberationSerif-Bold.ttf);
+}
+
+@font-face {
+font-style: italic;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: bold;
+src: url(../Fonts/LiberationSerif-BoldItalic.ttf);
+
+}
+
+@font-face {
+font-style: normal;
+font-family: 'Arial', sans-serif;
+font-weight: normal;
+src: url(../Fonts/arial.ttf);
+
+}
+
+@font-face {
+font-style: italic;
+font-family: 'Arial',sans-serif;
+font-weight: normal;
+src: url(../Fonts/ariali.ttf);
+
+}
+
+@font-face {
+
+font-style: normal;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+src: url(../Fonts/arialbd.ttf);
+
+}
+
+
+@font-face {
+font-style: italic;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+src: url(../Fonts/arialbi.ttf);
+}

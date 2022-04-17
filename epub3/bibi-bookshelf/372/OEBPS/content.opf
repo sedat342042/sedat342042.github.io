@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Reis - Gladio'nun Türk Tetikçisi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Yalçın, Soner &amp; Yurdakul, Doğan">Soner Yalçın</dc:creator>
+    <dc:creator opf:role="aut">Doğan Yurdakul</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:306de6ca-3d4c-417c-8621-f979e0aee960</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;p style="font-family: '.SF NS Text', sans-serif; font-size: 14px;"&gt;&lt;/p&gt;&lt;p&gt;"Reis, Gladio'nun Türk Tetikçisi, Susurluk kazasında ölen Abdullah Çatlı'nın yaşamöyküsü. Neler yaptı, nerelerde nasıl saklandı, kimlerin koruması altına girdi? Susurluk bağlantıları ve Susurluk olayına karışanlarla ilgili belgeler, bilgiler..."&lt;/p&gt;&lt;p&gt;- Emin Çölaşan, Hürriyet&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;"Reis, Soner Yalçın ve Doğan Yurdakul tarafından yazılan ve Türkiye'nin son 20 yıllık yakın tarihinin en önemli referans kitaplarından biridir."&lt;/p&gt;&lt;p&gt;- Sedat Ergin, Hürriyet&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;"Doğan Yurdakul ve Soner Yalçın'ın Reis adlı yeni çıkan kitabından öğreniyoruz ki, 70'li yıllarda Çatlı ve arkadaşları sahte mahkeme kararları yazarak cezaevlerinden insan kaçırıyordu... Bu kitap Abdullah Çatlı'nın hayatı ve maceraları üzerine yazılmış ilk gerçek derleme. İçindeki bilgiler, hep birkaç kaynaktan kontrol edilmiş, örneğin Çatlı'nın eşi Meral Çatlı ile belli ki uzun bir söyleşi yapılmış. Hiç tanımasak da hepimizin hayatına şu veya bu biçimde değen, etkileri olan Abdullah Çatlı'nın kim olduğunu, nasıl birisi olduğunu merak ediyorsanız, Reis'i elinizden bırakamayacaksınız..."&lt;/p&gt;&lt;p&gt;- İsmet Berkan, Radikal&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;"Abdullah Çatlı'nın yaşamını ele alan bu kitap, salt bir biyografi değildir. Çatlı'dan ve çevresinde meydana gelen olaylardan yola çıkarak, Türkiye'nin yakın tarihinin belli bir kesitini ele almaktadır..."&lt;/p&gt;&lt;p&gt;- Cumhuriyet Kitap&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;"... Kitabın iki yazarı Soner Yalçın ve Doğan Yurdakul daha önce de çeşitli başarılı gazetecilik ürünlerinin altına imzalarını koymuş iki meslektaşımız. Ama bu kez 'çok zor'un altına girmeyi göze almışlar. Kitapta Abdullah Çatlı'nın yaşamöyküsü ekseninde bir dönemin fotoğrafı sergilenirken tam 745 ad geçiyor... Anlaşılan bu kanlı mozaiğin raporlar, kitaplar, belgeler, tutanaklar, ifadelerden oluşan parçalarını biriktirmeye bir süre daha devam edeceğiz. Mozaik tamamlandığında Yalçın ve Yurdakul'un kitabı, tablonun en göz alıcı taşlarından biri olarak ışıldayacak."&lt;/p&gt;&lt;p&gt;- Aydın Ergin, Cumhuriyet Dergi&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">3496dcd7-db87-47a0-8640-30b84ef05f9a</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:306de6ca-3d4c-417c-8621-f979e0aee960</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">2789785869412</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">2014596</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF.xhtml" id="ITHAF.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ONSOZ.xhtml" id="ONSOZ.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BIRINCI_BOLUM.xhtml" id="BIRINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/IKINCI_BOLUM.xhtml" id="IKINCI_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/UCUNCU_BOLUM.xhtml" id="UCUNCU_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/UCUNCU_BOLUM_split1.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/DORDUNCU_BOLUM.xhtml" id="DORDUNCU_BOLUM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DORDUNCU_BOLUM_split1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="template.css" media-type="text/css"/>
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon1b_fmt.jpeg" id="icon1b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Reis_fmt.jpeg" id="Reis_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="ITHAF.xhtml"/>
+    <itemref idref="ONSOZ.xhtml"/>
+    <itemref idref="BIRINCI_BOLUM.xhtml"/>
+    <itemref idref="IKINCI_BOLUM.xhtml"/>
+    <itemref idref="UCUNCU_BOLUM.xhtml"/>
+    <itemref idref="id"/>
+    <itemref idref="DORDUNCU_BOLUM.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

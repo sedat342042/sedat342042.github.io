@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Bangır bangır Ferdi çalıyor evde...</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Eriş, Mahir Ünsal">Mahir Ünsal Eriş</dc:creator>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{F93A42E6-9DE9-4CF7-BFB7-9AA9E25DCFB5}</dc:identifier>
+    <dc:date opf:event="modification">2017-02-10</dc:date>
+    <dc:description>&lt;div&gt;&lt;div&gt;"Mahir Ünsal Eriş, bir sahilde oturmuş, can sıkıntısından esneyen, kendi çocukluğuna bakıyor; renkli, yuvarlacık, pütür pütür bir çocukluk anlatıyor bize. “Komen! komen!” diye ateş eden oğlan bebelerini, mobiletleri, leblebi tozunu, Kaynanalar Parkı’nı, Kız Meslek’in kızlarını, Klinsmann’ı, Evrenos’u, Allah’ın yanına aldığı iyileri, kale zindanındaki prensesleri resmediyor.&lt;/div&gt;&lt;div&gt;Yoksulluk, hoyratlık, yalnızlık, gamsızlık, kırk mumluk sarı ampulün ışığında belli belirsiz görünüp, kayboluyor. Merhamet, taşraya uğramadan Kaf Dağı’na gidiyor...&lt;/div&gt;&lt;div&gt;Canlı, anlatma iştahıyla dolu yeni bir ses var karşımızda. Eriş, soba boyasıyla boyanmış hikâyeleriyle edebiyat şehrengizinde... Mağlup ama baştan kaybetmişliğini bilen bir hınzırlıkla sırıtıyor okuruna..."-Tanıtım&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">42a216f4-bfcc-4af0-b7b5-58ef7d22502b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750510670</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tesekkur.xhtml" href="Text/tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id4" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo.svg" href="Images/logo.svg" media-type="image/svg+xml"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="PapyrusTr.ttf" href="Fonts/PapyrusTr.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="tesekkur.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

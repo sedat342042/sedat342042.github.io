@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789750723964"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Kızıl Saçlı Kontes</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Köpeğin Ölümü</text>
+         </navLabel>
+         <content src="chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>İso</text>
+         </navLabel>
+         <content src="chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Gecenin Gün Işığı</text>
+         </navLabel>
+         <content src="chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>Eğinli Yenge</text>
+         </navLabel>
+         <content src="chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Kızıl Saçlı Kontes</text>
+         </navLabel>
+         <content src="chapter5.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

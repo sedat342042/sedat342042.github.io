@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Germinal</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Zola, Emile">Emile Zola</dc:creator>
+    <dc:date>2009-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:14a33c5e-7e87-42b9-a737-d273e2304230</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p style="outline: none;"&gt;Émile Zola (1840-1902): Natüralizm akımının en önemli temsilcilerinden olan yazar, romanları için gerekli yaşam deneyimini zorluklar içinde geçen gençlik yıllarında kazandı. 1864’de ilk öykü kitabı Ninon’a Öyküler yayımlandı. 1865’de kendi yaşamından izler taşıyan Claude’un İtirafları çıktı. Zola, romancının olayları bir izleyici gibi kaydetmekle yetinmemesi, kişileri ve tutkularını bir dizi deneyden geçirirken, duygusal ve toplumsal olguları bir kimyacı gibi işlemesi gerektiğini savundu. l867’de yayımlanan Thérèse Raquin’den başlayarak tüm romanlarını aynı görüşle yazdı. Meyhane (1877), Nana (1880), Yaşama Sevinci (1884), Germinal (1885) ve Toprak (1887) en tanınmış romanları arasında yer alır. Kuzey Fransa’da uzlaşmaya yanaşmayan maden işçilerinin grevini konu alan Germinal sadece Zola’nın değil, Fransız edebiyatının da en değerli eserleri arasında sayılmaktadır.&lt;/p&gt;&lt;p style="outline: none;"&gt;Bertan Onaran (1937):Haydarpaşa Lisesi’ni,  İÜ Edebiyat Fakültesi Fransız Dili ve Edebiyat Bölümü’nü bitirdi. İlk çevirilerini 1963 yılında yayımladı. 1964’te Memet Fuat’la tanıştı; eserlerini çevirdiği yazarlar arasına Gide, Sartre, Camus, Mayakovski katıldı. Ardından Saint-Exupery, Marguerite Duras, Albertine Sarrazin, Gilles Martinet’den çeviriler yaptı. Cervantes’in başyapıtı Don Quijote’yi ilk kez tam metin olarak çevirdi. Wilhelm Reich’ın bütün kitaplarını Türkçeleştirdi. André Malraux, Émile Zola, Stendhal, Panait Istrati, Eugène Ionesco, Alain Robe Grillet, Nathalie Sarraute’dan çeviriler yapan Bertan Onaran’ın 1972’de Beauvoir’dan aktardığı Konuk Kız’a TDK çeviri ödülü verildi.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">6f5b0df3-7d09-49d3-ade3-fa9e7f44b6fa</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Screen Shot 2012-07-26 _fmt.png" id="Screen-20Shot-202012-07-26-20_fmt.png" media-type="image/png"/>
+    <item href="images/yuvarlak_fmt.jpeg" id="yuvarlak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-BoldIt.otf" id="MinionPro-BoldIt.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/x-font-otf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

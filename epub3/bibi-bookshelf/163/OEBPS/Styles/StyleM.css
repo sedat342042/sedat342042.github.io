@@ -1,0 +1,97 @@
+@font-face {
+    font-family:"Palantino Linotype";
+    font-weight: normal;
+    font-style: normal;
+    src: url("../Fonts/PalatinoTrNormal.ttf");
+}
+
+@font-face {
+    font-family: "Palantino Linotype";
+    font-weight: bold;
+    font-style: normal;
+    src: url("../Fonts/PalatinoTrBold.ttf");
+}
+
+@font-face {
+    font-family: "Palantino Linotype" ;
+    font-weight: normal;
+    font-style: italic;
+    src: url("../Fonts/PalatinoTrItalic.ttf");
+}
+
+@font-face {
+    font-family: "Palantino Linotype";
+    font-weight: bold;
+    font-style: italic;
+    src: url("../Fonts/PalatinoTrBoldItalic.ttf");
+
+}
+
+h1
+	{margin-top:30%;text-indent:0em;text-align:center;font-size:2.6em;font-weight:bold;}
+
+h2
+	{margin-top:3em;text-indent:0em;margin-bottom:2em;text-align:center;font-size:1.4em;font-weight:normal;}
+
+h3
+	{margin-top:2em;margin-bottom:1.4em;text-align:center;font-size:1.2em;text-indent:0em;font-weight:normal;}
+
+p
+	{text-align:justify;text-indent:1em;margin-top:0.0em;margin-bottom:0.0em;font-size:1em;}
+
+.p1 {text-indent:0em;font-size:.9em;}
+
+.p10 {margin-left:1em;text-indent:0em;font-size:.9em;}
+
+.p11 {text-indent:1em;margin-left:1em;margin-right:.9em;text-align:justify;font-size:.9em;font-family:"Palantino Linotype",serif;}
+
+.p12 {text-indent:0em;margin-left:2em;margin-right:2em;text-align:justify;font-size:.9em;}
+
+.p13 {text-indent:1em;text-align:justify;font-size:.9em;font-family:"Palantino Linotype",serif;}
+
+.p2 {text-align:right;text-indent:0em;margin-top:1em;}
+
+.p21 {text-align:right;text-indent:0em;margin-top:1em;margin-right:2em;text-align:justify;font-size:1em;}
+
+.p22 {text-align:right;text-indent:0em;font-size:.9em;font-family:"Palantino Linotype",serif;}
+
+.p3 {text-indent:0em;margin-bottom:1em;margin-top:1em;text-align:center;font-size:1em;font-weight:bold;}
+
+.p31 {text-indent:0em;margin-left:20%;font-size:.9em;}
+
+.p32 {text-indent:0em;margin-bottom:1em;margin-top:1em;text-align:center;font-size:1em;font-weight:normal;font-family:”Liberation Serif”, serif;}
+
+.kunye {text-align:left;text-indent:0em;margin-top:0em;margin-left:1em;margin-bottom:0em;font-size:0.7em;}
+
+.logo1 {text-indent:0em;text-align:center;margin-top:4em}
+
+.baslik {text-indent:0em;text-align:center;font-weight:bold;font-size:1.8em;margin-top:30%;}
+
+.baslik1 {text-indent:0em;text-align:center;font-weight:bold;font-size:2em;margin-top:1em}
+
+.baslik2 {text-indent:0em;text-align:center;font-weight:bold;font-size:2.1em;margin-top:2em}
+
+.baslik3 {text-indent:0em;text-align:center;font-weight:bold;font-size:2.6em;margin-top:.8em;margin-bottom:1.5em}
+
+.baslik4 {text-indent:0em;text-align:center;font-weight:normal;font-size:1.2em;}
+
+.baslik5 {text-indent:0em;text-align:center;font-weight:normal;font-size:1.4em;margin-top:1.4em;margin-bottom:0.4em}
+
+.dipnot {text-align:left;text-indent:0em;margin-top:1em;margin-bottom:1em;margin-left:1em;}
+
+.dipnot1 {text-align:left;text-indent:0em;margin-top:1em;margin-bottom:1em;page-break-before: always;margin-left:2em;}
+
+span.ilkharf {font-size:2.5em;font-weight:bold;float: left; margin: 0em 0.05em -0.1em -0.10em;}
+
+.ilkharf {font-size:2.5em;font-weight:bold;float: left;margin: 0em 0.05em -0.1em -0.10em;}
+
+sup, sub {line-height: 0;}
+
+.lettrine {float: left; margin: 0 0.5em -0.1em 0.25em;}
+
+.bosluk {text-align:center;margin-top:1.5em;font-size:1em;}
+
+.bosluk1 {text-align:center;margin-top:1.2em;font-size:1em;}
+
+.bosluk2 {text-align:center;margin-top:30%;font-size:1em;}
+

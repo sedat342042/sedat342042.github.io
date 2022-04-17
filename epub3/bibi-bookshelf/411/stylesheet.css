@@ -1,0 +1,556 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.baslik {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.baslik1 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always;
+    text-align: justify
+    }
+.calibre1 {
+    display: block;
+    page-break-after: always
+    }
+.calibre10 {
+    height: 400;
+    width: 209
+    }
+.calibre11 {
+    height: 400;
+    width: 304
+    }
+.calibre12 {
+    height: 400;
+    width: 278
+    }
+.calibre13 {
+    height: 330;
+    width: 400
+    }
+.calibre14 {
+    height: 302;
+    width: 400
+    }
+.calibre15 {
+    height: 294;
+    width: 252
+    }
+.calibre16 {
+    height: 400;
+    width: 202
+    }
+.calibre17 {
+    height: 275;
+    width: 360
+    }
+.calibre18 {
+    height: 400;
+    width: 229
+    }
+.calibre19 {
+    height: 319;
+    width: 400
+    }
+.calibre2 {
+    height: 100;
+    width: 94
+    }
+.calibre20 {
+    height: 400;
+    width: 356
+    }
+.calibre21 {
+    height: 400;
+    width: 376
+    }
+.calibre22 {
+    height: 277;
+    width: 400
+    }
+.calibre23 {
+    height: 400;
+    width: 194
+    }
+.calibre24 {
+    height: 284;
+    width: 400
+    }
+.calibre25 {
+    height: 351;
+    width: 288
+    }
+.calibre26 {
+    height: 384;
+    width: 288
+    }
+.calibre27 {
+    height: 400;
+    width: 391
+    }
+.calibre28 {
+    height: 400;
+    width: 230
+    }
+.calibre29 {
+    height: 265;
+    width: 400
+    }
+.calibre3 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre30 {
+    height: 400;
+    width: 331
+    }
+.calibre31 {
+    height: 300;
+    width: 400
+    }
+.calibre32 {
+    height: 258;
+    width: 376
+    }
+.calibre33 {
+    height: 208;
+    width: 400
+    }
+.calibre34 {
+    height: 400;
+    width: 284
+    }
+.calibre35 {
+    height: 150;
+    width: 76
+    }
+.calibre36 {
+    height: 382;
+    width: 400
+    }
+.calibre37 {
+    height: 321;
+    width: 400
+    }
+.calibre38 {
+    height: 289;
+    width: 172
+    }
+.calibre39 {
+    height: 299;
+    width: 400
+    }
+.calibre4 {
+    height: 302;
+    width: 222
+    }
+.calibre40 {
+    height: 217;
+    width: 400
+    }
+.calibre41 {
+    height: 397;
+    width: 400
+    }
+.calibre42 {
+    height: 400;
+    width: 350
+    }
+.calibre43 {
+    height: 245;
+    width: 264
+    }
+.calibre44 {
+    height: 400;
+    width: 384
+    }
+.calibre45 {
+    height: 400;
+    width: 288
+    }
+.calibre46 {
+    height: 316;
+    width: 400
+    }
+.calibre47 {
+    height: 301;
+    width: 400
+    }
+.calibre48 {
+    height: 400;
+    width: 241
+    }
+.calibre49 {
+    height: 288;
+    width: 383
+    }
+.calibre5 {
+    height: 404;
+    width: 275
+    }
+.calibre50 {
+    height: 270;
+    width: 400
+    }
+.calibre51 {
+    height: 293;
+    width: 198
+    }
+.calibre52 {
+    height: 400;
+    width: 282
+    }
+.calibre53 {
+    height: 296;
+    width: 389
+    }
+.calibre54 {
+    height: 288;
+    width: 265
+    }
+.calibre55 {
+    height: 400;
+    width: 240
+    }
+.calibre56 {
+    height: 400;
+    width: 287
+    }
+.calibre57 {
+    height: 400;
+    width: 266
+    }
+.calibre58 {
+    height: 174;
+    width: 400
+    }
+.calibre59 {
+    height: 253;
+    width: 400
+    }
+.calibre6 {
+    height: 226;
+    width: 312
+    }
+.calibre60 {
+    height: 337;
+    width: 400
+    }
+.calibre61 {
+    height: 397;
+    width: 258
+    }
+.calibre62 {
+    height: 400;
+    width: 264
+    }
+.calibre63 {
+    height: 388;
+    width: 396
+    }
+.calibre64 {
+    height: 261;
+    width: 366
+    }
+.calibre65 {
+    height: 257;
+    width: 360
+    }
+.calibre66 {
+    height: 270;
+    width: 378
+    }
+.calibre67 {
+    height: 400;
+    width: 299
+    }
+.calibre68 {
+    height: 220;
+    width: 400
+    }
+.calibre69 {
+    height: 400;
+    width: 201
+    }
+.calibre7 {
+    height: 400;
+    width: 300
+    }
+.calibre70 {
+    height: 366;
+    width: 341
+    }
+.calibre71 {
+    height: 284;
+    width: 284
+    }
+.calibre72 {
+    height: 400;
+    width: 249
+    }
+.calibre73 {
+    height: 252;
+    width: 210
+    }
+.calibre74 {
+    height: 360;
+    width: 284
+    }
+.calibre75 {
+    height: 295;
+    width: 400
+    }
+.calibre76 {
+    height: 367;
+    width: 268
+    }
+.calibre77 {
+    height: 400;
+    width: 328
+    }
+.calibre78 {
+    height: 226;
+    width: 284
+    }
+.calibre79 {
+    height: 338;
+    width: 270
+    }
+.calibre8 {
+    height: 400;
+    width: 301
+    }
+.calibre80 {
+    height: 230;
+    width: 172
+    }
+.calibre9 {
+    height: 400;
+    width: 281
+    }
+.chapter {
+    display: block
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.h2baslik {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.h2baslik1 {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-before: always;
+    text-align: center
+    }
+.h2baslik2 {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.ideitalik {
+    font-style: italic
+    }
+.indentmetin {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortaitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resimalti {
+    display: block;
+    font-size: 0.8em;
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    text-align: center
+    }
+.solbaslik {
+    display: block;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }
+    @font-face {
+font-style: normal;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: normal;
+src: url(LiberationSerif-Regular.ttf);
+}
+@font-face {
+font-style: italic;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: normal;
+src: url(LiberationSerif-Italic.ttf);
+}
+@font-face {
+font-style: bold;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: bold;
+src: url(LiberationSerif-Bold.ttf);
+}
+
+@font-face {
+font-style: italic;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: bold;
+src: url(LiberationSerif-BoldItalic.ttf);
+
+}
+
+@font-face {
+font-style: normal;
+font-family: 'Arial', sans-serif;
+font-weight: normal;
+src: url(arial.ttf);
+
+}
+
+@font-face {
+font-style: italic;
+font-family: 'Arial',sans-serif;
+font-weight: normal;
+src: url(ariali.ttf);
+
+}
+
+@font-face {
+
+font-style: normal;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+src: url(arialbd.ttf);
+
+}
+
+
+@font-face {
+font-style: italic;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+src: url(arialbi.ttf);
+}

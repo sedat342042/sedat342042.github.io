@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Binbaşı Ersever'in İtirafları</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Yalçın, Soner">Soner Yalçın</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-02-23</dc:date>
+    <dc:description>&lt;p&gt;Tarih 23 ekim 1993. Çalan bir telefon. "Ersever'i infaz ettik, sınra Soner'de." Telefon kapanıyor. Tarih 4 kasım 1993. Binbaşı Ersever, elleri arkadan bağlı, ağzı bantlı bir halde bulunuyor. Öldürülmüş. Kafasına iki kurşun sıkılarak. Ardından yakın arkadaşı itirafçı Mustafa Deniz ile sevgilisi Mahsune Dguebe'nin cesetleri bulunuyor. Kontrgerillacılar... Yeşil kod adlı Ahmet Demir... İtirafçılar... İtirafçılardan kurulu Yıldız Timleri... Kontrgerilla timleri: Anadolu Halk Cephesi... TİT... KAP... Faili meçhul cinayetleri işleyenler kim? Binbaşı Ersever'i kim öldürdü?&lt;/p&gt;</dc:description>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">ea141a54-8040-4d2d-8fb5-49d865515eca</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789759917265</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/KAPAK.html" id="KAPAK" media-type="application/xhtml+xml"/>
+    <item href="Text/KUNYE.html" id="KUNYE" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.html" id="GIRIS" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF.html" id="ITHAF" media-type="application/xhtml+xml"/>
+    <item href="Text/ONSOZ.html" id="ONSOZ" media-type="application/xhtml+xml"/>
+    <item href="Text/BINBASI_ERSEVER_IN_ITIRAFLARI.html" id="BINBASI_ERSEVER_IN_ITIRAFLARI" media-type="application/xhtml+xml"/>
+    <item href="Text/BIRINCI_BOLUM.html" id="BIRINCI_BOLUM" media-type="application/xhtml+xml"/>
+    <item href="Text/IKINCI_BOLUM.html" id="IKINCI_BOLUM" media-type="application/xhtml+xml"/>
+    <item href="Text/UCUNCU_BOLUM.html" id="UCUNCU_BOLUM" media-type="application/xhtml+xml"/>
+    <item href="Text/DORDUNCU_BOLUM.html" id="DORDUNCU_BOLUM" media-type="application/xhtml+xml"/>
+    <item href="Text/BESINCI_BOLUM.html" id="BESINCI_BOLUM" media-type="application/xhtml+xml"/>
+    <item href="Text/ALTINCI_BOLUM.html" id="ALTINCI_BOLUM" media-type="application/xhtml+xml"/>
+    <item href="Text/YEDINCI_BOLUM.html" id="YEDINCI_BOLUM" media-type="application/xhtml+xml"/>
+    <item href="Text/SEKIZINCI_BOLUM.html" id="SEKIZINCI_BOLUM" media-type="application/xhtml+xml"/>
+    <item href="Text/DOKUZUNCU_BOLUM.html" id="DOKUZUNCU_BOLUM" media-type="application/xhtml+xml"/>
+    <item href="Text/ONUNCU_BOLUM.html" id="ONUNCU_BOLUM" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.html" id="ARKA_KAPAK" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/_on_D_fmt.png" id="_on_D_fmt.png" media-type="image/png"/>
+    <item href="Images/ar_D_fmt.png" id="ar_D_fmt.png" media-type="image/png"/>
+    <item href="Images/dk logo_fmt.png" id="dk-20logo_fmt.png" media-type="image/png"/>
+    <item href="Images/icon2a_fmt.jpeg" id="icon2a_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/sema_fmt.jpeg" id="sema_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uxk6qwAvxgaEEebeTQS5JY3" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KAPAK"/>
+    <itemref idref="KUNYE"/>
+    <itemref idref="GIRIS"/>
+    <itemref idref="ITHAF"/>
+    <itemref idref="ONSOZ"/>
+    <itemref idref="BINBASI_ERSEVER_IN_ITIRAFLARI"/>
+    <itemref idref="BIRINCI_BOLUM"/>
+    <itemref idref="IKINCI_BOLUM"/>
+    <itemref idref="UCUNCU_BOLUM"/>
+    <itemref idref="DORDUNCU_BOLUM"/>
+    <itemref idref="BESINCI_BOLUM"/>
+    <itemref idref="ALTINCI_BOLUM"/>
+    <itemref idref="YEDINCI_BOLUM"/>
+    <itemref idref="SEKIZINCI_BOLUM"/>
+    <itemref idref="DOKUZUNCU_BOLUM"/>
+    <itemref idref="ONUNCU_BOLUM"/>
+    <itemref idref="ARKA_KAPAK"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

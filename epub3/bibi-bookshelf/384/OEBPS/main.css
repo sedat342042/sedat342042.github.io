@@ -1,0 +1,331 @@
+@font-face {
+font-family:"Berling-Medium";
+font-style:normal;
+font-weight:normal;
+src : url("font/BerlingLTStd-Medium.ttf");
+}
+
+@font-face {
+font-family:"Gill";
+font-style:normal;
+font-weight:normal;
+src : url("font/GillSansStd.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:bold;
+	src : url("font/BerlingLTStd-Bold.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:italic;
+	font-weight:bold;
+	src : url("font/BerlingLTStd-BoldItalic.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/BerlingLTStd-Roman.ttf");
+}
+
+@font-face {
+	font-family:"News702BT";
+	font-style:normal;
+	font-weight:bold;
+	src : url("font/News702BT-Bold.otf");
+}
+
+@font-face {
+	font-family:"News702BT";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/News702BT-Roman.otf");
+}
+
+@font-face {
+	font-family:"News702BT";
+	font-style:italic;
+	font-weight:normal;
+	src : url("font/News702BT-Italic.otf");
+}
+
+@font-face {
+	font-family:"NewBaskerville";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/NewBaskervilleITCbyBT-Roman.otf");
+}
+
+@font-face {
+	font-family:"Gill";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/GillSansStd.ttf");
+}
+
+@font-face {
+	font-family:"Gill";
+	font-style:italic;
+	font-weight:normal;
+	src : url("font/GillSansStd-Italic.ttf");
+}
+
+@font-face {
+	font-family:"Goudy";
+	font-style: normal;
+	font-weight: normal;
+	src : url("font/GoudyStd.ttf");
+}
+
+a{
+  text-decoration: none;
+  color: #7A7A7A;
+}
+
+
+
+/*
+ *chapter
+ */
+
+p {
+	font: normal .808em/1.3em "News702BT";
+	margin: 0;
+	text-indent: 1.9em;
+}
+
+.centered {
+	text-align: center;
+}
+
+h1 {
+	font: normal normal .9em/1.2em "News702BT";
+	text-align: center;
+	margin: 4em 0 1.5em 0;
+}
+
+.part h1 {
+	font-size: 1.166em;
+	margin-top: 1em;
+}
+
+h1.part-title {
+	margin-top: 3em;
+}
+
+.epigraph {
+	margin-top: 1em;
+	text-align: center;
+}
+
+.epigraph p {
+	text-indent: 0;
+}
+
+blockquote {
+	margin-left: 0;
+}
+
+blockquote p {
+	text-indent: 1.9em;
+	font-style: italic;
+	line-height: 1.5em;
+}
+
+.align-right {
+	text-align: right;
+}
+.right1 {
+	padding-right: 9.5em;
+}
+.right2 {
+	padding-right: 3.8em;
+}
+.right3 {
+	padding-right: 4.75em;
+}
+.right4 {
+	padding-right: 3.6em;
+}
+.indent {
+	padding-left: 2em;
+}
+.indent1 {
+	padding-left: 9.2em;
+}
+.indent2 {
+	padding-left: 12em;
+}
+.indent3 {
+	padding-left: 17em;
+}
+.indent4 {
+	padding-left: 3.5em;
+}
+.indent5 {
+	padding-left: 4.6em;
+}
+.indent6 {
+	padding-left: 5.8em;
+}
+.indent7 {
+	padding-left: 7.3em;
+}
+.indent8 {
+	padding-left: 8em;
+}
+.indent9 {
+	padding-left: 1em;
+}
+.indent10 {
+	padding-left: 2.9em;
+}
+.indent11 {
+	padding-left: 4.4em;
+}
+.indent12 {
+	padding-left: 11.25em;
+}
+.indent13 {
+	padding-left: 14.5em;
+}
+.indent14 {
+	padding-left: 5em;
+}
+.indent15 {
+	padding-left: 1.75em;
+}
+
+.no-indent {
+	margin-top: 1em;
+	text-indent: 0;
+}
+
+.after-bq , .margin-top {
+	margin-top: 1em;
+}
+
+.letter {
+	margin: 1em 0 0 0;
+}
+
+.letter p {
+	font-family: "Gill";
+}
+
+.by {
+	text-align: right;
+	margin-top: 0;
+	font-style: normal !important;
+}
+
+
+
+.appendix p , .preface p {
+	font: italic normal .808em/1.3em "News702BT";
+}
+
+.normal {
+	font-style: normal;
+}
+
+.appendix h1 {
+	font: normal normal .9em "News702BT";
+	margin-top: 4em;
+}
+
+hr {
+	border: 0;
+	max-width: 3em;
+	margin: 1em auto .6em auto;
+}
+
+hr:before {
+	content :"* * *";
+	font: normal .808em/1.2em "News702BT";
+}
+
+
+
+.books .books {
+	font: normal normal .666em/1.3em "News702BT";
+	text-indent: 0;
+	text-align: center;
+}
+
+.books ul {
+	padding-left: 0;
+}
+
+.books ul li {
+	font: normal normal .6em/1.5em "News702BT";
+	list-style-type: none;
+	text-align: center;
+}
+
+.copy {
+	margin-top: 2em;
+}
+.margin, .press{
+  margin-top: .8em;
+}
+.isbn {
+ 	margin-top: 1.2em
+}
+.kunye .publisher{
+	margin-top: 2em;
+}
+.kunye span{
+  font-family: "News702BT";
+  font-size:0.667em;
+  display: block;
+}
+.kunye .can {
+	font-size: 1.15em;
+}
+.title{
+  text-align: center;
+}
+.aut{
+  font-family: "NewBaskerville";
+  font-size: 1.7em;
+  margin-bottom: 0;
+}
+.aut span{
+  font-size: 1.15em;
+}
+.work{
+  font-family: "NewBaskerville";
+  font-size: 1.7em;
+}
+.award {
+	font-family: "NewBaskerville";
+	margin-top: .5em;
+	font-size: 1em;
+}
+.seri{
+  font-family: "News702BT";
+  font-size: .75em;
+  margin-top: 3.5em
+}
+.logo{
+  margin: 4em auto 0 auto;
+}
+.cover-container img{
+  max-width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+#biography p{
+  font-family: "News702BT";
+  font-size: .75em;
+  text-indent: 0;
+}

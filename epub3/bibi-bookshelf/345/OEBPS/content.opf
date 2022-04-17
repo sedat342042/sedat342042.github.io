@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="1.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yolcu</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Yalsızuçanlar, Sadık">Sadık Yalsızuçanlar</dc:creator>
+    <dc:identifier id="bookid">urn:uuid:b011579c-087d-43a3-9526-e23a3170e43f</dc:identifier>
+    <dc:publisher>Şahdamar Yayınları</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-03-19</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">48eadf40-4a32-4705-a35b-e486977ab4f1</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786055119218</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/yolcu_epub-1.xhtml" id="yolcu_epub-1" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-2.xhtml" id="yolcu_epub-2" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-3.xhtml" id="yolcu_epub-3" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-4.xhtml" id="yolcu_epub-4" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-5.xhtml" id="yolcu_epub-5" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-6.xhtml" id="yolcu_epub-6" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-7.xhtml" id="yolcu_epub-7" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-8.xhtml" id="yolcu_epub-8" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-9.xhtml" id="yolcu_epub-9" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-10.xhtml" id="yolcu_epub-10" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-11.xhtml" id="yolcu_epub-11" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-12.xhtml" id="yolcu_epub-12" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-13.xhtml" id="yolcu_epub-13" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-14.xhtml" id="yolcu_epub-14" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-15.xhtml" id="yolcu_epub-15" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-16.xhtml" id="yolcu_epub-16" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-17.xhtml" id="yolcu_epub-17" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-18.xhtml" id="yolcu_epub-18" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-19.xhtml" id="yolcu_epub-19" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-20.xhtml" id="yolcu_epub-20" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-21.xhtml" id="yolcu_epub-21" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-22.xhtml" id="yolcu_epub-22" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-23.xhtml" id="yolcu_epub-23" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-24.xhtml" id="yolcu_epub-24" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-25.xhtml" id="yolcu_epub-25" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-26.xhtml" id="yolcu_epub-26" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-27.xhtml" id="yolcu_epub-27" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-28.xhtml" id="yolcu_epub-28" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-29.xhtml" id="yolcu_epub-29" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-30.xhtml" id="yolcu_epub-30" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-31.xhtml" id="yolcu_epub-31" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-32.xhtml" id="yolcu_epub-32" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-33.xhtml" id="yolcu_epub-33" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-34.xhtml" id="yolcu_epub-34" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-35.xhtml" id="yolcu_epub-35" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-36.xhtml" id="yolcu_epub-36" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-37.xhtml" id="yolcu_epub-37" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-38.xhtml" id="yolcu_epub-38" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-39.xhtml" id="yolcu_epub-39" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-40.xhtml" id="yolcu_epub-40" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-41.xhtml" id="yolcu_epub-41" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-42.xhtml" id="yolcu_epub-42" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-43.xhtml" id="yolcu_epub-43" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-44.xhtml" id="yolcu_epub-44" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-45.xhtml" id="yolcu_epub-45" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-46.xhtml" id="yolcu_epub-46" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-47.xhtml" id="yolcu_epub-47" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-48.xhtml" id="yolcu_epub-48" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-49.xhtml" id="yolcu_epub-49" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-50.xhtml" id="yolcu_epub-50" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-51.xhtml" id="yolcu_epub-51" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-52.xhtml" id="yolcu_epub-52" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-53.xhtml" id="yolcu_epub-53" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-54.xhtml" id="yolcu_epub-54" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-55.xhtml" id="yolcu_epub-55" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-56.xhtml" id="yolcu_epub-56" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-57.xhtml" id="yolcu_epub-57" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-58.xhtml" id="yolcu_epub-58" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-59.xhtml" id="yolcu_epub-59" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-60.xhtml" id="yolcu_epub-60" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-61.xhtml" id="yolcu_epub-61" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-62.xhtml" id="yolcu_epub-62" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-63.xhtml" id="yolcu_epub-63" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-64.xhtml" id="yolcu_epub-64" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-65.xhtml" id="yolcu_epub-65" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-66.xhtml" id="yolcu_epub-66" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-67.xhtml" id="yolcu_epub-67" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-68.xhtml" id="yolcu_epub-68" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-69.xhtml" id="yolcu_epub-69" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-70.xhtml" id="yolcu_epub-70" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-71.xhtml" id="yolcu_epub-71" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-72.xhtml" id="yolcu_epub-72" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-73.xhtml" id="yolcu_epub-73" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-74.xhtml" id="yolcu_epub-74" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-75.xhtml" id="yolcu_epub-75" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-76.xhtml" id="yolcu_epub-76" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-77.xhtml" id="yolcu_epub-77" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-78.xhtml" id="yolcu_epub-78" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-79.xhtml" id="yolcu_epub-79" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-80.xhtml" id="yolcu_epub-80" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-81.xhtml" id="yolcu_epub-81" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-82.xhtml" id="yolcu_epub-82" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-83.xhtml" id="yolcu_epub-83" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-84.xhtml" id="yolcu_epub-84" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-85.xhtml" id="yolcu_epub-85" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-86.xhtml" id="yolcu_epub-86" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-87.xhtml" id="yolcu_epub-87" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-88.xhtml" id="yolcu_epub-88" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-89.xhtml" id="yolcu_epub-89" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-90.xhtml" id="yolcu_epub-90" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-91.xhtml" id="yolcu_epub-91" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-92.xhtml" id="yolcu_epub-92" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-93.xhtml" id="yolcu_epub-93" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-94.xhtml" id="yolcu_epub-94" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-95.xhtml" id="yolcu_epub-95" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-96.xhtml" id="yolcu_epub-96" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-97.xhtml" id="yolcu_epub-97" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-98.xhtml" id="yolcu_epub-98" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-99.xhtml" id="yolcu_epub-99" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-100.xhtml" id="yolcu_epub-100" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-101.xhtml" id="yolcu_epub-101" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-102.xhtml" id="yolcu_epub-102" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-103.xhtml" id="yolcu_epub-103" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-104.xhtml" id="yolcu_epub-104" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-105.xhtml" id="yolcu_epub-105" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-106.xhtml" id="yolcu_epub-106" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-107.xhtml" id="yolcu_epub-107" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-108.xhtml" id="yolcu_epub-108" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-109.xhtml" id="yolcu_epub-109" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-110.xhtml" id="yolcu_epub-110" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-111.xhtml" id="yolcu_epub-111" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-112.xhtml" id="yolcu_epub-112" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-113.xhtml" id="yolcu_epub-113" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-114.xhtml" id="yolcu_epub-114" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-115.xhtml" id="yolcu_epub-115" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-116.xhtml" id="yolcu_epub-116" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-117.xhtml" id="yolcu_epub-117" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-118.xhtml" id="yolcu_epub-118" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-119.xhtml" id="yolcu_epub-119" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-120.xhtml" id="yolcu_epub-120" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-121.xhtml" id="yolcu_epub-121" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-122.xhtml" id="yolcu_epub-122" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-123.xhtml" id="yolcu_epub-123" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-124.xhtml" id="yolcu_epub-124" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-125.xhtml" id="yolcu_epub-125" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-126.xhtml" id="yolcu_epub-126" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-127.xhtml" id="yolcu_epub-127" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-128.xhtml" id="yolcu_epub-128" media-type="application/xhtml+xml"/>
+    <item href="Text/yolcu_epub-129.xhtml" id="yolcu_epub-129" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="Images/sahdamar_fmt.png" id="sahdamar_fmt.png" media-type="image/png"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yolcu_epub-1"/>
+    <itemref idref="yolcu_epub-2"/>
+    <itemref idref="yolcu_epub-3"/>
+    <itemref idref="yolcu_epub-4"/>
+    <itemref idref="yolcu_epub-5"/>
+    <itemref idref="yolcu_epub-6"/>
+    <itemref idref="yolcu_epub-7"/>
+    <itemref idref="yolcu_epub-8"/>
+    <itemref idref="yolcu_epub-9"/>
+    <itemref idref="yolcu_epub-10"/>
+    <itemref idref="yolcu_epub-11"/>
+    <itemref idref="yolcu_epub-12"/>
+    <itemref idref="yolcu_epub-13"/>
+    <itemref idref="yolcu_epub-14"/>
+    <itemref idref="yolcu_epub-15"/>
+    <itemref idref="yolcu_epub-16"/>
+    <itemref idref="yolcu_epub-17"/>
+    <itemref idref="yolcu_epub-18"/>
+    <itemref idref="yolcu_epub-19"/>
+    <itemref idref="yolcu_epub-20"/>
+    <itemref idref="yolcu_epub-21"/>
+    <itemref idref="yolcu_epub-22"/>
+    <itemref idref="yolcu_epub-23"/>
+    <itemref idref="yolcu_epub-24"/>
+    <itemref idref="yolcu_epub-25"/>
+    <itemref idref="yolcu_epub-26"/>
+    <itemref idref="yolcu_epub-27"/>
+    <itemref idref="yolcu_epub-28"/>
+    <itemref idref="yolcu_epub-29"/>
+    <itemref idref="yolcu_epub-30"/>
+    <itemref idref="yolcu_epub-31"/>
+    <itemref idref="yolcu_epub-32"/>
+    <itemref idref="yolcu_epub-33"/>
+    <itemref idref="yolcu_epub-34"/>
+    <itemref idref="yolcu_epub-35"/>
+    <itemref idref="yolcu_epub-36"/>
+    <itemref idref="yolcu_epub-37"/>
+    <itemref idref="yolcu_epub-38"/>
+    <itemref idref="yolcu_epub-39"/>
+    <itemref idref="yolcu_epub-40"/>
+    <itemref idref="yolcu_epub-41"/>
+    <itemref idref="yolcu_epub-42"/>
+    <itemref idref="yolcu_epub-43"/>
+    <itemref idref="yolcu_epub-44"/>
+    <itemref idref="yolcu_epub-45"/>
+    <itemref idref="yolcu_epub-46"/>
+    <itemref idref="yolcu_epub-47"/>
+    <itemref idref="yolcu_epub-48"/>
+    <itemref idref="yolcu_epub-49"/>
+    <itemref idref="yolcu_epub-50"/>
+    <itemref idref="yolcu_epub-51"/>
+    <itemref idref="yolcu_epub-52"/>
+    <itemref idref="yolcu_epub-53"/>
+    <itemref idref="yolcu_epub-54"/>
+    <itemref idref="yolcu_epub-55"/>
+    <itemref idref="yolcu_epub-56"/>
+    <itemref idref="yolcu_epub-57"/>
+    <itemref idref="yolcu_epub-58"/>
+    <itemref idref="yolcu_epub-59"/>
+    <itemref idref="yolcu_epub-60"/>
+    <itemref idref="yolcu_epub-61"/>
+    <itemref idref="yolcu_epub-62"/>
+    <itemref idref="yolcu_epub-63"/>
+    <itemref idref="yolcu_epub-64"/>
+    <itemref idref="yolcu_epub-65"/>
+    <itemref idref="yolcu_epub-66"/>
+    <itemref idref="yolcu_epub-67"/>
+    <itemref idref="yolcu_epub-68"/>
+    <itemref idref="yolcu_epub-69"/>
+    <itemref idref="yolcu_epub-70"/>
+    <itemref idref="yolcu_epub-71"/>
+    <itemref idref="yolcu_epub-72"/>
+    <itemref idref="yolcu_epub-73"/>
+    <itemref idref="yolcu_epub-74"/>
+    <itemref idref="yolcu_epub-75"/>
+    <itemref idref="yolcu_epub-76"/>
+    <itemref idref="yolcu_epub-77"/>
+    <itemref idref="yolcu_epub-78"/>
+    <itemref idref="yolcu_epub-79"/>
+    <itemref idref="yolcu_epub-80"/>
+    <itemref idref="yolcu_epub-81"/>
+    <itemref idref="yolcu_epub-82"/>
+    <itemref idref="yolcu_epub-83"/>
+    <itemref idref="yolcu_epub-84"/>
+    <itemref idref="yolcu_epub-85"/>
+    <itemref idref="yolcu_epub-86"/>
+    <itemref idref="yolcu_epub-87"/>
+    <itemref idref="yolcu_epub-88"/>
+    <itemref idref="yolcu_epub-89"/>
+    <itemref idref="yolcu_epub-90"/>
+    <itemref idref="yolcu_epub-91"/>
+    <itemref idref="yolcu_epub-92"/>
+    <itemref idref="yolcu_epub-93"/>
+    <itemref idref="yolcu_epub-94"/>
+    <itemref idref="yolcu_epub-95"/>
+    <itemref idref="yolcu_epub-96"/>
+    <itemref idref="yolcu_epub-97"/>
+    <itemref idref="yolcu_epub-98"/>
+    <itemref idref="yolcu_epub-99"/>
+    <itemref idref="yolcu_epub-100"/>
+    <itemref idref="yolcu_epub-101"/>
+    <itemref idref="yolcu_epub-102"/>
+    <itemref idref="yolcu_epub-103"/>
+    <itemref idref="yolcu_epub-104"/>
+    <itemref idref="yolcu_epub-105"/>
+    <itemref idref="yolcu_epub-106"/>
+    <itemref idref="yolcu_epub-107"/>
+    <itemref idref="yolcu_epub-108"/>
+    <itemref idref="yolcu_epub-109"/>
+    <itemref idref="yolcu_epub-110"/>
+    <itemref idref="yolcu_epub-111"/>
+    <itemref idref="yolcu_epub-112"/>
+    <itemref idref="yolcu_epub-113"/>
+    <itemref idref="yolcu_epub-114"/>
+    <itemref idref="yolcu_epub-115"/>
+    <itemref idref="yolcu_epub-116"/>
+    <itemref idref="yolcu_epub-117"/>
+    <itemref idref="yolcu_epub-118"/>
+    <itemref idref="yolcu_epub-119"/>
+    <itemref idref="yolcu_epub-120"/>
+    <itemref idref="yolcu_epub-121"/>
+    <itemref idref="yolcu_epub-122"/>
+    <itemref idref="yolcu_epub-123"/>
+    <itemref idref="yolcu_epub-124"/>
+    <itemref idref="yolcu_epub-125"/>
+    <itemref idref="yolcu_epub-126"/>
+    <itemref idref="yolcu_epub-127"/>
+    <itemref idref="yolcu_epub-128"/>
+    <itemref idref="yolcu_epub-129"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

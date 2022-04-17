@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Uyku</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Murakami, Haruki">Haruki Murakami</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:105e14f0-b76c-471d-ba78-d378f2c0e542</dc:identifier>
+    <dc:date>2014-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:description>Uykuları çalınmış bir kadının öyküsü...</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fe8f6cc8-50c3-45d7-b541-eb58263e964d</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Images/01.jpg" id="x01.jpg" media-type="image/jpeg"/>
+    <item href="Images/02.jpg" id="x02.jpg" media-type="image/jpeg"/>
+    <item href="Images/03.jpg" id="x03.jpg" media-type="image/jpeg"/>
+    <item href="Images/04.jpg" id="x04.jpg" media-type="image/jpeg"/>
+    <item href="Images/05.jpg" id="x05.jpg" media-type="image/jpeg"/>
+    <item href="Images/06.jpg" id="x06.jpg" media-type="image/jpeg"/>
+    <item href="Images/07.jpg" id="x07.jpg" media-type="image/jpeg"/>
+    <item href="Images/08.jpg" id="x08.jpg" media-type="image/jpeg"/>
+    <item href="Images/09.jpg" id="x09.jpg" media-type="image/jpeg"/>
+    <item href="Images/10.jpg" id="x10.jpg" media-type="image/jpeg"/>
+    <item href="Images/11.jpg" id="x11.jpg" media-type="image/jpeg"/>
+    <item href="Images/12.jpg" id="x12.jpg" media-type="image/jpeg"/>
+    <item href="Images/13.jpg" id="x13.jpg" media-type="image/jpeg"/>
+    <item href="Images/14.jpg" id="x14.jpg" media-type="image/jpeg"/>
+    <item href="Images/15.jpg" id="x15.jpg" media-type="image/jpeg"/>
+    <item href="Images/16.jpg" id="x16.jpg" media-type="image/jpeg"/>
+    <item href="Images/17.jpg" id="x17.jpg" media-type="image/jpeg"/>
+    <item href="Images/18.jpg" id="x18.jpg" media-type="image/jpeg"/>
+    <item href="Images/19.jpg" id="x19.jpg" media-type="image/jpeg"/>
+    <item href="Images/20.jpg" id="x20.jpg" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

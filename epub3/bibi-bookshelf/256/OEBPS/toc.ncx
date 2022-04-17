@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="5" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>OSMANLI</text>
+			</navLabel>
+			<content src="Text/osmanli_devlet_duzeni_epub.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>DEVLET DÜZENİ</text>
+			</navLabel>
+			<content src="Text/osmanli_devlet_duzeni_epub.html#toc_marker-2"/>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>BİRİNCİ BÖLÜM</text>
+				</navLabel>
+				<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1"/>
+				<navPoint id="navpoint4" playOrder="4">
+					<navLabel>
+						<text>SARAY, EĞİTİM VE BİLİM, HUKUK, DİPLOMASİ, 
+MALİYE, ORDU, TIMAR SİSTEMİ, TAHRİR</text>
+					</navLabel>
+					<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1"/>
+					<navPoint id="navpoint5" playOrder="5">
+						<navLabel>
+							<text>A. SARAY</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-1"/>
+						<navPoint id="navpoint6" playOrder="6">
+							<navLabel>
+								<text>1. Bursa Bey Sarayı’ndan İstanbul Topkapı Sarayı’na </text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-1-1"/>
+						</navPoint>
+						<navPoint id="navpoint7" playOrder="7">
+							<navLabel>
+								<text>2. Saray görevlileri ve bunlara dair metinler:</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-1-2"/>
+						</navPoint>
+					</navPoint>
+					<navPoint id="navpoint8" playOrder="8">
+						<navLabel>
+							<text>B. EĞİTİM VE BİLİM</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-2"/>
+						<navPoint id="navpoint9" playOrder="9">
+							<navLabel>
+								<text>1. Medreseler</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-2-1"/>
+						</navPoint>
+						<navPoint id="navpoint10" playOrder="10">
+							<navLabel>
+								<text>2. İlim adamları, dervişler, şeyhler 
+- Osman Gazi’den II. Bayezid’e -</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-2-2"/>
+						</navPoint>
+						<navPoint id="navpoint11" playOrder="11">
+							<navLabel>
+								<text>3. Astronomi</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-2-3"/>
+						</navPoint>
+						<navPoint id="navpoint12" playOrder="12">
+							<navLabel>
+								<text>4. Astroloji</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-2-4"/>
+						</navPoint>
+					</navPoint>
+					<navPoint id="navpoint13" playOrder="13">
+						<navLabel>
+							<text>C. HUKUK</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-3"/>
+						<navPoint id="navpoint14" playOrder="14">
+							<navLabel>
+								<text>1. Adalet, hoşgörü ve istimâlete dayanan yönetim anlayışı</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-3-1"/>
+						</navPoint>
+						<navPoint id="navpoint15" playOrder="15">
+							<navLabel>
+								<text>2. Adalet mensupları</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-3-2"/>
+						</navPoint>
+						<navPoint id="navpoint16" playOrder="16">
+							<navLabel>
+								<text>3. Kanunlar</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-3-3"/>
+						</navPoint>
+						<navPoint id="navpoint17" playOrder="17">
+							<navLabel>
+								<text>4. Cezalar</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-3-4"/>
+						</navPoint>
+					</navPoint>
+					<navPoint id="navpoint18" playOrder="18">
+						<navLabel>
+							<text>D. DİPLOMASİ</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-4"/>
+						<navPoint id="navpoint19" playOrder="19">
+							<navLabel>
+								<text>1. Osmanlı sarayına gelen ilk elçi</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-4-1"/>
+						</navPoint>
+						<navPoint id="navpoint20" playOrder="20">
+							<navLabel>
+								<text>2. Elçilerin protokoldeki yerleri</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-4-2"/>
+						</navPoint>
+						<navPoint id="navpoint21" playOrder="21">
+							<navLabel>
+								<text>3. Görevinde şehit edilen ilk Osmanlı elçisi</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-4-3"/>
+						</navPoint>
+						<navPoint id="navpoint22" playOrder="22">
+							<navLabel>
+								<text>4. Yaylada elçi kabulü</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-4-4"/>
+						</navPoint>
+						<navPoint id="navpoint23" playOrder="23">
+							<navLabel>
+								<text>5. Osmanlı diplomasi tarihinde bir ilk: Eski başşehir Edirne halkının elçi karşılaması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-4-5"/>
+						</navPoint>
+						<navPoint id="navpoint24" playOrder="24">
+							<navLabel>
+								<text>6. Elçilerin bazen kız istemek için gelmeleri</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-4-6"/>
+						</navPoint>
+						<navPoint id="navpoint25" playOrder="25">
+							<navLabel>
+								<text>7. Macar elçisinin gelmesi. Tutsakların karşılıklı iadesi andlaşması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-4-7"/>
+						</navPoint>
+						<navPoint id="navpoint26" playOrder="26">
+							<navLabel>
+								<text>8. Çavuş’un ‘elçilik’ ve diğer görevleri</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-4-8"/>
+						</navPoint>
+						<navPoint id="navpoint27" playOrder="27">
+							<navLabel>
+								<text>9. Andlaşmalar</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-4-9"/>
+						</navPoint>
+					</navPoint>
+					<navPoint id="navpoint28" playOrder="28">
+						<navLabel>
+							<text>E. MALİYE/VERGİLER</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-5"/>
+						<navPoint id="navpoint29" playOrder="29">
+							<navLabel>
+								<text>1. Avarız vergisi</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-5-1"/>
+						</navPoint>
+						<navPoint id="navpoint30" playOrder="30">
+							<navLabel>
+								<text>2. Çift akçası</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-5-2"/>
+						</navPoint>
+						<navPoint id="navpoint31" playOrder="31">
+							<navLabel>
+								<text>3. Hüccet vergisi</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-5-3"/>
+						</navPoint>
+						<navPoint id="navpoint32" playOrder="32">
+							<navLabel>
+								<text>4. Pencik</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-5-4"/>
+						</navPoint>
+					</navPoint>
+					<navPoint id="navpoint33" playOrder="33">
+						<navLabel>
+							<text>F. ORDU</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6"/>
+						<navPoint id="navpoint34" playOrder="34">
+							<navLabel>
+								<text>1. Alperenler’den Anadolu ve Rumeli gazilerine</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-1"/>
+						</navPoint>
+						<navPoint id="navpoint35" playOrder="35">
+							<navLabel>
+								<text>2. Amanla fetih</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-2"/>
+						</navPoint>
+						<navPoint id="navpoint36" playOrder="36">
+							<navLabel>
+								<text>3. Subaşı</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-3"/>
+						</navPoint>
+						<navPoint id="navpoint37" playOrder="37">
+							<navLabel>
+								<text>4. Akıncılar ve akıncıbaşı</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-4"/>
+						</navPoint>
+						<navPoint id="navpoint38" playOrder="38">
+							<navLabel>
+								<text>5. Azaplar</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-5"/>
+						</navPoint>
+						<navPoint id="navpoint39" playOrder="39">
+							<navLabel>
+								<text>6. Emirialem</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-6"/>
+						</navPoint>
+						<navPoint id="navpoint40" playOrder="40">
+							<navLabel>
+								<text>7. Harçlıkçı </text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-7"/>
+						</navPoint>
+						<navPoint id="navpoint41" playOrder="41">
+							<navLabel>
+								<text>8. Martolos</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-8"/>
+						</navPoint>
+						<navPoint id="navpoint42" playOrder="42">
+							<navLabel>
+								<text>9. Müsellem </text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-9"/>
+						</navPoint>
+						<navPoint id="navpoint43" playOrder="43">
+							<navLabel>
+								<text>10. Solaklar</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-10"/>
+						</navPoint>
+						<navPoint id="navpoint44" playOrder="44">
+							<navLabel>
+								<text>11. Baltacılar</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-11"/>
+						</navPoint>
+						<navPoint id="navpoint45" playOrder="45">
+							<navLabel>
+								<text>12. Cerahor/Serahor</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-12"/>
+						</navPoint>
+						<navPoint id="navpoint46" playOrder="46">
+							<navLabel>
+								<text>13. Silahtarlar</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-13"/>
+						</navPoint>
+						<navPoint id="navpoint47" playOrder="47">
+							<navLabel>
+								<text>14. Toycalar</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-14"/>
+						</navPoint>
+						<navPoint id="navpoint48" playOrder="48">
+							<navLabel>
+								<text>15. Sipahi ve sipahi oğlanları</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-15"/>
+						</navPoint>
+						<navPoint id="navpoint49" playOrder="49">
+							<navLabel>
+								<text>16. Sekbanbaşı</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-16"/>
+						</navPoint>
+						<navPoint id="navpoint50" playOrder="50">
+							<navLabel>
+								<text>17. Rumeli Beylerbeyliğinin kuruluşu</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-17"/>
+						</navPoint>
+						<navPoint id="navpoint51" playOrder="51">
+							<navLabel>
+								<text>18. Topun Osmanlılarda ilk kullanımı ve Topçu Haydar</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-18"/>
+						</navPoint>
+						<navPoint id="navpoint52" playOrder="52">
+							<navLabel>
+								<text>19. Seferde ilk top dökümü</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-19"/>
+						</navPoint>
+						<navPoint id="navpoint53" playOrder="53">
+							<navLabel>
+								<text>20. Top arabaları</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-20"/>
+						</navPoint>
+						<navPoint id="navpoint54" playOrder="54">
+							<navLabel>
+								<text>21. Yaya teşkilatının kuruluşu</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-21"/>
+						</navPoint>
+						<navPoint id="navpoint55" playOrder="55">
+							<navLabel>
+								<text>22. Yayabaşı</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-22"/>
+						</navPoint>
+						<navPoint id="navpoint56" playOrder="56">
+							<navLabel>
+								<text>23. Yeniçeri Ocağı’nın kuruluşu </text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-23"/>
+						</navPoint>
+						<navPoint id="navpoint57" playOrder="57">
+							<navLabel>
+								<text>24. Yeniçerilerin ‘ilk sefer bahşişi’ talepleri</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-24"/>
+						</navPoint>
+						<navPoint id="navpoint58" playOrder="58">
+							<navLabel>
+								<text>25. Kapı halkı</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-6-25"/>
+						</navPoint>
+					</navPoint>
+					<navPoint id="navpoint59" playOrder="59">
+						<navLabel>
+							<text>G. DONANMA</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-7"/>
+						<navPoint id="navpoint60" playOrder="60">
+							<navLabel>
+								<text>15. yüzyılın sonlarında Osmanlı deniz gücü</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-7-1"/>
+						</navPoint>
+						<navPoint id="navpoint61" playOrder="61">
+							<navLabel>
+								<text>Gemi çeşitleri</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-7-2"/>
+						</navPoint>
+					</navPoint>
+					<navPoint id="navpoint62" playOrder="62">
+						<navLabel>
+							<text>H. TIMAR SİSTEMİ</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-8"/>
+					</navPoint>
+					<navPoint id="navpoint63" playOrder="63">
+						<navLabel>
+							<text>I. TAHRİR</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-5.html#toc_marker-2-1-1-9"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint64" playOrder="64">
+				<navLabel>
+					<text>İKİNCİ BÖLÜM </text>
+				</navLabel>
+				<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2"/>
+				<navPoint id="navpoint65" playOrder="65">
+					<navLabel>
+						<text>ESİR TİCARETİ, ZANAATLAR, BAYINDIRLIK HİZMETLERİ, MADENLER</text>
+					</navLabel>
+					<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1"/>
+					<navPoint id="navpoint66" playOrder="66">
+						<navLabel>
+							<text>A. ESİR TİCARETİ</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1"/>
+						<navPoint id="navpoint67" playOrder="67">
+							<navLabel>
+								<text>1. İlk fetihlerde esir alınmamasının nedenleri</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-1"/>
+						</navPoint>
+						<navPoint id="navpoint68" playOrder="68">
+							<navLabel>
+								<text>2. Sultan Orhan’ın gazilerden esirleri satın alması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-2"/>
+						</navPoint>
+						<navPoint id="navpoint69" playOrder="69">
+							<navLabel>
+								<text>3. Vezir Ali Paşa’nın esirleri gazilerden geri alıp sahiplerine iade etmesi</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-3"/>
+						</navPoint>
+						<navPoint id="navpoint70" playOrder="70">
+							<navLabel>
+								<text>4. Güzel bir Macar oğlanının üç yüz akçaya satılması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-4"/>
+						</navPoint>
+						<navPoint id="navpoint71" playOrder="71">
+							<navLabel>
+								<text>5. Güzel bir cariyenin bir çizmeye; ata hizmet edecek esirin yüz elli akçaya satılması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-5"/>
+						</navPoint>
+						<navPoint id="navpoint72" playOrder="72">
+							<navLabel>
+								<text>6. Dört yaşındaki oğlanın yirmi akçaya satılması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-6"/>
+						</navPoint>
+						<navPoint id="navpoint73" playOrder="73">
+							<navLabel>
+								<text>7. Tarihçi Âşık Paşazade’nin beş esiri dokuz yüz akçaya satması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-7"/>
+						</navPoint>
+						<navPoint id="navpoint74" playOrder="74">
+							<navLabel>
+								<text>8. Çok güzel cariyelerin üçer yüz akçaya alıcı bulması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-8"/>
+						</navPoint>
+						<navPoint id="navpoint75" playOrder="75">
+							<navLabel>
+								<text>9. Esir olan Leh Ban’ın satıla satıla kurtulması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-9"/>
+						</navPoint>
+						<navPoint id="navpoint76" playOrder="76">
+							<navLabel>
+								<text>10. Varat İskelesi’nde ‘esir bâcı’ alınması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-10"/>
+						</navPoint>
+						<navPoint id="navpoint77" playOrder="77">
+							<navLabel>
+								<text>11. Fatih Sultan Mehmed’in ele geçirilen ganimetin hepsini askere ve beylere dağıtması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-11"/>
+						</navPoint>
+						<navPoint id="navpoint78" playOrder="78">
+							<navLabel>
+								<text>12. Gazilerin, esirleri kendi hizmetlerinde kullanmaları</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-12"/>
+						</navPoint>
+						<navPoint id="navpoint79" playOrder="79">
+							<navLabel>
+								<text>13. Anadolu esirlerinin kaçıp Amasra Kalesi’ne sığınmaları</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-13"/>
+						</navPoint>
+						<navPoint id="navpoint80" playOrder="80">
+							<navLabel>
+								<text>14. Sultan II. Bayezid’in esirleri bağışlaması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-1-14"/>
+						</navPoint>
+					</navPoint>
+					<navPoint id="navpoint81" playOrder="81">
+						<navLabel>
+							<text>B. ZANAATLAR</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-2"/>
+						<navPoint id="navpoint82" playOrder="82">
+							<navLabel>
+								<text>1. Ahiler</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-2-1"/>
+						</navPoint>
+						<navPoint id="navpoint83" playOrder="83">
+							<navLabel>
+								<text>2. Dokumacılık</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-2-2"/>
+						</navPoint>
+						<navPoint id="navpoint84" playOrder="84">
+							<navLabel>
+								<text>3. Terzilik</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-2-3"/>
+						</navPoint>
+						<navPoint id="navpoint85" playOrder="85">
+							<navLabel>
+								<text>4. Ayakkabıcılık</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-2-4"/>
+						</navPoint>
+					</navPoint>
+					<navPoint id="navpoint86" playOrder="86">
+						<navLabel>
+							<text>C. BAYINDIRLIK HİZMETLERİ</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-3"/>
+						<navPoint id="navpoint87" playOrder="87">
+							<navLabel>
+								<text>1. Dinî ve sosyal kurumlar</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-3-1"/>
+						</navPoint>
+						<navPoint id="navpoint88" playOrder="88">
+							<navLabel>
+								<text>2. Sağlık kurumları</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-3-2"/>
+						</navPoint>
+						<navPoint id="navpoint89" playOrder="89">
+							<navLabel>
+								<text>3. Köprü yapımı</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-3-3"/>
+						</navPoint>
+						<navPoint id="navpoint90" playOrder="90">
+							<navLabel>
+								<text>4. Yeni yerleşim yerleri kurulması</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-3-4"/>
+						</navPoint>
+						<navPoint id="navpoint91" playOrder="91">
+							<navLabel>
+								<text>5. İstanbul’un imar ve iskânı</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-3-5"/>
+						</navPoint>
+					</navPoint>
+					<navPoint id="navpoint92" playOrder="92">
+						<navLabel>
+							<text>D. MADENLER</text>
+						</navLabel>
+						<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-4"/>
+						<navPoint id="navpoint93" playOrder="93">
+							<navLabel>
+								<text>1. Altın ve gümüş</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-4-1"/>
+						</navPoint>
+						<navPoint id="navpoint94" playOrder="94">
+							<navLabel>
+								<text>2. Bakır</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-4-2"/>
+						</navPoint>
+						<navPoint id="navpoint95" playOrder="95">
+							<navLabel>
+								<text>3. Şap</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-4-3"/>
+						</navPoint>
+						<navPoint id="navpoint96" playOrder="96">
+							<navLabel>
+								<text>4. Tuz</text>
+							</navLabel>
+							<content src="Text/osmanli_devlet_duzeni_epub-6.html#toc_marker-2-2-1-4-4"/>
+						</navPoint>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint97" playOrder="97">
+					<navLabel>
+						<text>KAYNAKLAR</text>
+					</navLabel>
+					<content src="Text/osmanli_devlet_duzeni_epub-7.html#toc_marker-2-2-2"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

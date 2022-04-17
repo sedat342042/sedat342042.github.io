@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Küçük Kara Balık</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Behrengi, Samed">Samed Behrengi</dc:creator>
+    <dc:publisher>Kırmızı Kedi Yayınevi</dc:publisher>
+    <dc:date>2014-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:AD7B1F55-C357-4A56-A46A-679638E48A39</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">f1ad5171-1575-43ab-b987-5c622a284b10</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="1-1.html" id="x1-1" media-type="application/xhtml+xml"/>
+    <item href="1-2.html" id="x1-2" media-type="application/xhtml+xml"/>
+    <item href="1-3.html" id="x1-3" media-type="application/xhtml+xml"/>
+    <item href="1-4.html" id="x1-4" media-type="application/xhtml+xml"/>
+    <item href="1-5.html" id="x1-5" media-type="application/xhtml+xml"/>
+    <item href="1-6.html" id="x1-6" media-type="application/xhtml+xml"/>
+    <item href="1-7.html" id="x1-7" media-type="application/xhtml+xml"/>
+    <item href="1-8.html" id="x1-8" media-type="application/xhtml+xml"/>
+    <item href="1-9.html" id="x1-9" media-type="application/xhtml+xml"/>
+    <item href="1-10.html" id="x1-10" media-type="application/xhtml+xml"/>
+    <item href="1-11.html" id="x1-11" media-type="application/xhtml+xml"/>
+    <item href="1-12.html" id="x1-12" media-type="application/xhtml+xml"/>
+    <item href="1-13.html" id="x1-13" media-type="application/xhtml+xml"/>
+    <item href="1-14.html" id="x1-14" media-type="application/xhtml+xml"/>
+    <item href="1-15.html" id="x1-15" media-type="application/xhtml+xml"/>
+    <item href="1-16.html" id="x1-16" media-type="application/xhtml+xml"/>
+    <item href="1-17.html" id="x1-17" media-type="application/xhtml+xml"/>
+    <item href="1-18.html" id="x1-18" media-type="application/xhtml+xml"/>
+    <item href="1-19.html" id="x1-19" media-type="application/xhtml+xml"/>
+    <item href="1-20.html" id="x1-20" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/5_fmt.jpeg" id="x5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/6_fmt.jpeg" id="x6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/6_fmt1.jpeg" id="x6_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/6_fmt2.jpeg" id="x6_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="images/7_fmt.jpeg" id="x7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/8_fmt.jpeg" id="x8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/9_fmt.jpeg" id="x9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/10_fmt.jpeg" id="x10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/10_fmt1.jpeg" id="x10_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/11_fmt.jpeg" id="x11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/11_fmt1.jpeg" id="x11_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/12_fmt.jpeg" id="x12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/12_fmt1.jpeg" id="x12_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/12_fmt2.jpeg" id="x12_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="images/13_fmt.jpeg" id="x13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/13_fmt1.jpeg" id="x13_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/14_fmt.jpeg" id="x14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/15_fmt.jpeg" id="x15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/17_fmt.jpeg" id="x17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/18_fmt.jpeg" id="x18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/19_fmt.jpeg" id="x19_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/20_fmt.jpeg" id="x20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/21_fmt.jpeg" id="x21_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/22_fmt.jpeg" id="x22_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/23_fmt.jpeg" id="x23_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/24_fmt.jpeg" id="x24_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/25_fmt.jpeg" id="x25_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/26_fmt.jpeg" id="x26_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/33_fmt.jpeg" id="x33_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/44_fmt.jpeg" id="x44_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/55_fmt.jpeg" id="x55_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/66_fmt.jpeg" id="x66_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/77_fmt.jpeg" id="x77_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/77_fmt1.jpeg" id="x77_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/88_fmt.jpeg" id="x88_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/99_fmt.jpeg" id="x99_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/251.jpg" id="x251.jpg" media-type="image/jpeg"/>
+    <item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/logo_fmt.jpeg" id="logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/logo_fmt1.jpeg" id="logo_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uNqZBDdtjE3B5wU7aDFH6YG" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-7"/>
+    <itemref idref="x1-8"/>
+    <itemref idref="x1-9"/>
+    <itemref idref="x1-10"/>
+    <itemref idref="x1-11"/>
+    <itemref idref="x1-12"/>
+    <itemref idref="x1-13"/>
+    <itemref idref="x1-14"/>
+    <itemref idref="x1-15"/>
+    <itemref idref="x1-16"/>
+    <itemref idref="x1-17"/>
+    <itemref idref="x1-18"/>
+    <itemref idref="x1-19"/>
+    <itemref idref="x1-20"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

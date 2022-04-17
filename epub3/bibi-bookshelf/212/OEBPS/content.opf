@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" unique-identifier="bookid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Arsen Lüpen Herlock Sholmes’a Karşı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Leblanc, Maurice">Maurice Leblanc</dc:creator>
+    <dc:publisher>Panama Yayıncılık</dc:publisher>
+    <dc:date>2013-08-26T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier>urn:uuid:784C2B23-7ACE-49EB-B09C-9151AFEE05E2</dc:identifier>
+    <dc:date opf:event="modification">2017-04-03</dc:date>
+    <dc:identifier id="bookid"/>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">9e18ac93-e25f-4a28-8405-3a72a9e034b6</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="kapak" href="Text/kapak.html" media-type="application/xhtml+xml"/>
+    <item id="x1" href="Text/1.html" media-type="application/xhtml+xml"/>
+    <item id="x2" href="Text/2.html" media-type="application/xhtml+xml"/>
+    <item id="x3" href="Text/3.html" media-type="application/xhtml+xml"/>
+    <item id="x4" href="Text/4.html" media-type="application/xhtml+xml"/>
+    <item id="x4-1" href="Text/4-1.html" media-type="application/xhtml+xml"/>
+    <item id="x4-2" href="Text/4-2.html" media-type="application/xhtml+xml"/>
+    <item id="x4-3" href="Text/4-3.html" media-type="application/xhtml+xml"/>
+    <item id="x4-4" href="Text/4-4.html" media-type="application/xhtml+xml"/>
+    <item id="x4-5" href="Text/4-5.html" media-type="application/xhtml+xml"/>
+    <item id="x4-6" href="Text/4-6.html" media-type="application/xhtml+xml"/>
+    <item id="x4-7" href="Text/4-7.html" media-type="application/xhtml+xml"/>
+    <item id="x4-8" href="Text/4-8.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css" href="Styles/template.css" media-type="text/css"/>
+    <item id="x186.jpg" href="Images/186.jpg" media-type="image/jpeg"/>
+    <item id="Image1005_fmt.jpeg" href="Images/Image1005_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="kapak_fmt.jpeg" href="Images/kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="panama_fmt.jpeg" href="Images/panama_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="LiberationSerif-Bold.ttf" href="Fonts/LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="LiberationSerif-Italic.ttf" href="Fonts/LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="LiberationSerif.ttf" href="Fonts/LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+    <itemref idref="x4-8"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

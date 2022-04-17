@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sokaktaki Adam</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Roth, Philip">Philip Roth</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7fa0bb7c-0bd3-4813-93ed-6b46a5878d56</dc:identifier>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>New York'ta bir reklam ajansından emekli olan Sokaktaki Adam görünüşte güzel bir hayat sürmüştür: Ödüllü bir sanat yönetmeni olarak, genç ve güzel kadınların ilgisini çekmiştir, kızı ona hayrandır, bir finans dehası olan ağabeyi zor zamanlarında hep yanında olmuştur. Ancak Sokaktaki Adam artık yaklaşan ölümün sesini duymaktadır; cenaze töreninde başlayan roman boyunca çocukluğundan itibaren hastaneye yattığı, ameliyat olduğu, kalp damar hastalıklarının ortaya çıktığı günleri ve 11 Eylül saldırılarından sonra taşındığı bir sahil kasabasında emeklilere resim dersi vererek geçirdiği anları hatırlar. Hatırladıkça, aklında mutlu geçmişi kadar, başarısız evlilikleri, sevdiği insanlara ihanet edişi, ressamlık hayalinin peşinden gitmeyişi, artık asla telafi edemeyeceği pişmanlıkları da canlanır.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Amerikan Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">0780e059-acc9-4250-9d47-442d61af4f29</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

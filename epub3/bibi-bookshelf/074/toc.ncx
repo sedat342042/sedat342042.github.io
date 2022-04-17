@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="36c2c54f-a911-4735-993f-5f51226d570a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dava</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="31fc4f03-9565-4316-a80c-0e452d9f191e" playOrder="1">
+      <navLabel>
+        <text>Kafka, Dava ve gerçeklik</text>
+      </navLabel>
+      <content src="dava_split_004.html"/>
+    </navPoint>
+    <navPoint id="d467a098-a810-467f-9b5b-c63a92ea94d2" playOrder="2">
+      <navLabel>
+        <text>Tutuklanma</text>
+      </navLabel>
+      <content src="dava_split_005.html"/>
+    </navPoint>
+    <navPoint id="1f076af4-a04c-4f47-84f6-9d358719ce50" playOrder="3">
+      <navLabel>
+        <text>Bayan Grubach’la / Ardından Bayan Bürstner’le konuşma</text>
+      </navLabel>
+      <content src="dava_split_006.html"/>
+    </navPoint>
+    <navPoint id="bbdac98d-8519-49c5-98d4-fb72b9373da6" playOrder="4">
+      <navLabel>
+        <text>İlk soruşturma</text>
+      </navLabel>
+      <content src="dava_split_007.html"/>
+    </navPoint>
+    <navPoint id="33e19a59-257e-44ee-92a2-b3b05ab0f702" playOrder="5">
+      <navLabel>
+        <text>Boş toplantı salonunda / Üniversite öğrencisi / Kalem odaları</text>
+      </navLabel>
+      <content src="dava_split_008.html"/>
+    </navPoint>
+    <navPoint id="fe967ec0-c041-4405-8d7b-0c98f9a4be2f" playOrder="6">
+      <navLabel>
+        <text>Dayakçı</text>
+      </navLabel>
+      <content src="dava_split_009.html"/>
+    </navPoint>
+    <navPoint id="ce47556f-b2a1-4c07-b02c-b46bc97a6c73" playOrder="7">
+      <navLabel>
+        <text>Amca / Leni</text>
+      </navLabel>
+      <content src="dava_split_010.html"/>
+    </navPoint>
+    <navPoint id="902ce765-3aec-40b9-a74c-2af82b4415f8" playOrder="8">
+      <navLabel>
+        <text>Avukat / Fabrikatör / Ressam</text>
+      </navLabel>
+      <content src="dava_split_011.html"/>
+    </navPoint>
+    <navPoint id="015031f3-9297-4c4f-a73f-c718c03cbbda" playOrder="9">
+      <navLabel>
+        <text>Tüccar Block / Avukat’ın azli</text>
+      </navLabel>
+      <content src="dava_split_012.html"/>
+    </navPoint>
+    <navPoint id="66920e1f-a123-4434-8368-d4eb00adab09" playOrder="10">
+      <navLabel>
+        <text>Katedralde</text>
+      </navLabel>
+      <content src="dava_split_013.html"/>
+    </navPoint>
+    <navPoint id="4843f087-d1a1-482b-932f-2a170ec2aeca" playOrder="11">
+      <navLabel>
+        <text>Son</text>
+      </navLabel>
+      <content src="dava_split_014.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

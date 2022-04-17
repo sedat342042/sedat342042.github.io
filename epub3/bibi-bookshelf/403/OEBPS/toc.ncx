@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789750721311"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Notre-Dame’ın Kamburu</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Nihai edisyona eklenen not (1832)</text>
+         </navLabel>
+         <content src="notice.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Birinci kitap</text>
+         </navLabel>
+         <content src="part1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>İkinci kitap</text>
+         </navLabel>
+         <content src="part2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>Üçüncü kitap</text>
+         </navLabel>
+         <content src="part3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Dördüncü kitap</text>
+         </navLabel>
+         <content src="part4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>Beşinci kitap</text>
+         </navLabel>
+         <content src="part5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>Altıncı kitap</text>
+         </navLabel>
+         <content src="part6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>Yedinci kitap</text>
+         </navLabel>
+         <content src="part7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>Sekizinci kitap</text>
+         </navLabel>
+         <content src="part8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>Dokuzuncu kitap</text>
+         </navLabel>
+         <content src="part9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>Onuncu kitap</text>
+         </navLabel>
+         <content src="part10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+         <navLabel>
+            <text>On birinci kitap</text>
+         </navLabel>
+         <content src="part11.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

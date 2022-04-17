@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="67ba9c80-d5f0-4a3e-9ef7-b8058374c6df" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yaban Diyarlardaki Yabancı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İÇ KAPAK</text>
+      </navLabel>
+      <content src="Text/ickapak.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ROBERT A. HEINLEIN</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İTHAF</text>
+      </navLabel>
+      <content src="Text/ithaf.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>KÜNYE</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>YABAN DİYARLARDAKİ YABANCI</text>
+      </navLabel>
+      <content src="Text/giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>TEŞEKKÜR</text>
+      </navLabel>
+      <content src="Text/tesekkur.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BÖLÜM BİR: KİRLİ KÖKENLERİ</text>
+      </navLabel>
+      <content src="Text/bolum01.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>BİR</text>
+        </navLabel>
+        <content src="Text/01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>İKİ</text>
+        </navLabel>
+        <content src="Text/02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>ÜÇ</text>
+        </navLabel>
+        <content src="Text/03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>DÖRT</text>
+        </navLabel>
+        <content src="Text/04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>BEŞ</text>
+        </navLabel>
+        <content src="Text/05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>ALTI</text>
+        </navLabel>
+        <content src="Text/06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>YEDİ</text>
+        </navLabel>
+        <content src="Text/07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>SEKİZ</text>
+        </navLabel>
+        <content src="Text/08.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>BÖLÜM İKİ: AKIL ALMAZ MİRASI</text>
+      </navLabel>
+      <content src="Text/bolum02.xhtml"/>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>DOKUZ</text>
+        </navLabel>
+        <content src="Text/09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>ON</text>
+        </navLabel>
+        <content src="Text/10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>ON BİR</text>
+        </navLabel>
+        <content src="Text/11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>ON İKİ</text>
+        </navLabel>
+        <content src="Text/12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>ON ÜÇ</text>
+        </navLabel>
+        <content src="Text/13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>ON DÖRT</text>
+        </navLabel>
+        <content src="Text/14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>ON BEŞ</text>
+        </navLabel>
+        <content src="Text/15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>ON ALTI</text>
+        </navLabel>
+        <content src="Text/16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>ON YEDİ</text>
+        </navLabel>
+        <content src="Text/17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>ON SEKİZ</text>
+        </navLabel>
+        <content src="Text/18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>ON DOKUZ</text>
+        </navLabel>
+        <content src="Text/19.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>YİRMİ</text>
+        </navLabel>
+        <content src="Text/20.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>YİRMİ BİR</text>
+        </navLabel>
+        <content src="Text/21.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>BÖLÜM ÜÇ: GARİP EĞİTİMİ</text>
+      </navLabel>
+      <content src="Text/bolum03.xhtml"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>YİRMİ İKİ</text>
+        </navLabel>
+        <content src="Text/22.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>YİRMİ ÜÇ</text>
+        </navLabel>
+        <content src="Text/23.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>YİRMİ DÖRT</text>
+        </navLabel>
+        <content src="Text/24.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>YİRMİ BEŞ</text>
+        </navLabel>
+        <content src="Text/25.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>YİRMİ ALTI</text>
+        </navLabel>
+        <content src="Text/26.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>YİRMİ YEDİ</text>
+        </navLabel>
+        <content src="Text/27.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>YİRMİ SEKİZ</text>
+        </navLabel>
+        <content src="Text/28.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>YİRMİ DOKUZ</text>
+        </navLabel>
+        <content src="Text/29.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>BÖLÜM DÖRT: SKANDALLARLA DOLU KARİYERİ</text>
+      </navLabel>
+      <content src="Text/bolum04.xhtml"/>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>OTUZ</text>
+        </navLabel>
+        <content src="Text/30.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>OTUZ BİR</text>
+        </navLabel>
+        <content src="Text/31.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>OTUZ İKİ</text>
+        </navLabel>
+        <content src="Text/32.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>OTUZ ÜÇ</text>
+        </navLabel>
+        <content src="Text/33.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>BÖLÜM BEŞ: MUTLU KADERİ</text>
+      </navLabel>
+      <content src="Text/bolum05.xhtml"/>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>OTUZ DÖRT</text>
+        </navLabel>
+        <content src="Text/34.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>OTUZ BEŞ</text>
+        </navLabel>
+        <content src="Text/35.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>OTUZ ALTI</text>
+        </navLabel>
+        <content src="Text/36.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>OTUZ YEDİ</text>
+        </navLabel>
+        <content src="Text/37.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>OTUZ SEKİZ</text>
+        </navLabel>
+        <content src="Text/38.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>OTUZ DOKUZ</text>
+        </navLabel>
+        <content src="Text/39.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

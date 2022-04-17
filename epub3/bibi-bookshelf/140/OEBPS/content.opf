@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yüzüklerin Efendisi (Tek Cilt)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tolkien, J. R. R.">J. R. R. Tolkien</dc:creator>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p style="margin: 6px 0px;"&gt;Dünya ikiye bölünmüştür, denir Tolkien'ın yapıtı söz konusu olduğunda: Yüzüklerin Efendisi'ni okumuş olanlar ve okuyacak olanlar. 1997 ile birlikte, çok sayıda Türkiyeli okur da "okumuş olanlar" safına geçme fırsatı buldu. Kitabın Türkçe basımı Yüzüklerin Efendisi'ne duyulan ilginin evrenselliğini kanıtladı.&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;Yapıtın bu başarısını taçlandırmak için üç kısmı bir araya getiren bu özel, tek cilt edisyonu sunuyoruz. Hem hâlâ okumamış, "okuyacak olanlar" için, hem de bu güzel kitabın kütüphanenizde gelecek kuşaklara devrolacak kadar kalıcı olması için...&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;Yüzüklerin Efendisi yirminci yüzyılın en çok okunan yüz kitabı arasında en başta geliyor; bilimkurgu, fantazi, polisiye, best-seller ya da ana akım demeden, tüm edebiyat türleri arasında tartışmasız bir önderliğe sahip. Bir açıdan bakarsanız bir fantazi romanı, başka bir açıdan baktığınızda, insanlık durumu, sorumluluk, iktidar ve savaş üzerine bir roman. bir yolculuk, bir büyüme öyküsü; fedakarlık ve dostluk üzerine, hırs ve ihanet üzerine bir roman.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier id="uuid">{6EBE458C-6179-44B5-832F-B4559EFB0266}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">82be9098-fc7a-4b6f-a426-3c1fb8551fe0</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="giris0.xhtml" href="Text/giris0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="giris.xhtml" href="Text/giris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="not.xhtml" href="Text/not.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sunus.xhtml" href="Text/sunus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-001.xhtml" href="Text/B-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="K-001.xhtml" href="Text/K-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-001.xhtml" href="Text/P-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-002.xhtml" href="Text/P-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-003.xhtml" href="Text/P-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-004.xhtml" href="Text/P-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-005.xhtml" href="Text/P-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-006.xhtml" href="Text/P-006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-007.xhtml" href="Text/P-007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-008.xhtml" href="Text/P-008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-009.xhtml" href="Text/P-009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-010.xhtml" href="Text/P-010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-011.xhtml" href="Text/P-011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-012.xhtml" href="Text/P-012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="K-002.xhtml" href="Text/K-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-013.xhtml" href="Text/P-013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-014.xhtml" href="Text/P-014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-015.xhtml" href="Text/P-015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-016.xhtml" href="Text/P-016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-017.xhtml" href="Text/P-017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-018.xhtml" href="Text/P-018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-019.xhtml" href="Text/P-019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-020.xhtml" href="Text/P-020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-021.xhtml" href="Text/P-021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-022.xhtml" href="Text/P-022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-002.xhtml" href="Text/B-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="K-003.xhtml" href="Text/K-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-023.xhtml" href="Text/P-023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-024.xhtml" href="Text/P-024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-025.xhtml" href="Text/P-025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-026.xhtml" href="Text/P-026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-027.xhtml" href="Text/P-027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-028.xhtml" href="Text/P-028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-029.xhtml" href="Text/P-029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-030.xhtml" href="Text/P-030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-031.xhtml" href="Text/P-031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-032.xhtml" href="Text/P-032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-033.xhtml" href="Text/P-033.xhtml" media-type="application/xhtml+xml"/>
+    <item id="K-004.xhtml" href="Text/K-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-034.xhtml" href="Text/P-034.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-035.xhtml" href="Text/P-035.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-036.xhtml" href="Text/P-036.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-037.xhtml" href="Text/P-037.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-038.xhtml" href="Text/P-038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-039.xhtml" href="Text/P-039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-040.xhtml" href="Text/P-040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-041.xhtml" href="Text/P-041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-042.xhtml" href="Text/P-042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-043.xhtml" href="Text/P-043.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-003.xhtml" href="Text/B-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="K-005.xhtml" href="Text/K-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-044.xhtml" href="Text/P-044.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-045.xhtml" href="Text/P-045.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-046.xhtml" href="Text/P-046.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-047.xhtml" href="Text/P-047.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-048.xhtml" href="Text/P-048.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-049.xhtml" href="Text/P-049.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-050.xhtml" href="Text/P-050.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-051.xhtml" href="Text/P-051.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-052.xhtml" href="Text/P-052.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-053.xhtml" href="Text/P-053.xhtml" media-type="application/xhtml+xml"/>
+    <item id="K-006.xhtml" href="Text/K-006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-054.xhtml" href="Text/P-054.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-055.xhtml" href="Text/P-055.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-056.xhtml" href="Text/P-056.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-057.xhtml" href="Text/P-057.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-058.xhtml" href="Text/P-058.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-059.xhtml" href="Text/P-059.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-060.xhtml" href="Text/P-060.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-061.xhtml" href="Text/P-061.xhtml" media-type="application/xhtml+xml"/>
+    <item id="P-062.xhtml" href="Text/P-062.xhtml" media-type="application/xhtml+xml"/>
+    <item id="E-001.xhtml" href="Text/E-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="E-002.xhtml" href="Text/E-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="E-003.xhtml" href="Text/E-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="E-004.xhtml" href="Text/E-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="E-005.xhtml" href="Text/E-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="H-001.xhtml" href="Text/H-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="H-002.xhtml" href="Text/H-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="H-003.xhtml" href="Text/H-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="H-004.xhtml" href="Text/H-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="H-005.xhtml" href="Text/H-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="H-006.xhtml" href="Text/H-006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DiPNOTLAR.xhtml" href="Text/DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id42" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Style.css" href="Styles/Style.css" media-type="text/css"/>
+    <item id="A9R2425.jpg" href="Images/A9R2425.jpg" media-type="image/jpeg"/>
+    <item id="A9R2428.jpg" href="Images/A9R2428.jpg" media-type="image/jpeg"/>
+    <item id="A9R4729.jpg" href="Images/A9R4729.jpg" media-type="image/jpeg"/>
+    <item id="A9R9493.jpg" href="Images/A9R9493.jpg" media-type="image/jpeg"/>
+    <item id="A9RB9F.png" href="Images/A9RB9F.png" media-type="image/png"/>
+    <item id="A9RB90.jpg" href="Images/A9RB90.jpg" media-type="image/jpeg"/>
+    <item id="A9RE9B7.jpg" href="Images/A9RE9B7.jpg" media-type="image/jpeg"/>
+    <item id="A9RE9BA.jpg" href="Images/A9RE9BA.jpg" media-type="image/jpeg"/>
+    <item id="A9RE9BD.jpg" href="Images/A9RE9BD.jpg" media-type="image/jpeg"/>
+    <item id="A9RF364.jpg" href="Images/A9RF364.jpg" media-type="image/jpeg"/>
+    <item id="h0.jpg" href="Images/h0.jpg" media-type="image/jpeg"/>
+    <item id="h1.jpg" href="Images/h1.jpg" media-type="image/jpeg"/>
+    <item id="h2.jpg" href="Images/h2.jpg" media-type="image/jpeg"/>
+    <item id="h3.jpg" href="Images/h3.jpg" media-type="image/jpeg"/>
+    <item id="h4.jpg" href="Images/h4.jpg" media-type="image/jpeg"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+    <item id="main-1.png" href="Images/main-1.png" media-type="image/png"/>
+    <item id="main-2.png" href="Images/main-2.png" media-type="image/png"/>
+    <item id="metis_yayinlari3418.jpg" href="Images/metis_yayinlari3418.jpg" media-type="image/jpeg"/>
+    <item id="metis.jpg" href="Images/metis.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uN8HsHymfBPqSeNKzQfUBkB" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id42">
+    <itemref idref="titlepage"/>
+    <itemref idref="giris0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="not.xhtml"/>
+    <itemref idref="sunus.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="B-001.xhtml"/>
+    <itemref idref="K-001.xhtml"/>
+    <itemref idref="P-001.xhtml"/>
+    <itemref idref="P-002.xhtml"/>
+    <itemref idref="P-003.xhtml"/>
+    <itemref idref="P-004.xhtml"/>
+    <itemref idref="P-005.xhtml"/>
+    <itemref idref="P-006.xhtml"/>
+    <itemref idref="P-007.xhtml"/>
+    <itemref idref="P-008.xhtml"/>
+    <itemref idref="P-009.xhtml"/>
+    <itemref idref="P-010.xhtml"/>
+    <itemref idref="P-011.xhtml"/>
+    <itemref idref="P-012.xhtml"/>
+    <itemref idref="K-002.xhtml"/>
+    <itemref idref="P-013.xhtml"/>
+    <itemref idref="P-014.xhtml"/>
+    <itemref idref="P-015.xhtml"/>
+    <itemref idref="P-016.xhtml"/>
+    <itemref idref="P-017.xhtml"/>
+    <itemref idref="P-018.xhtml"/>
+    <itemref idref="P-019.xhtml"/>
+    <itemref idref="P-020.xhtml"/>
+    <itemref idref="P-021.xhtml"/>
+    <itemref idref="P-022.xhtml"/>
+    <itemref idref="B-002.xhtml"/>
+    <itemref idref="K-003.xhtml"/>
+    <itemref idref="P-023.xhtml"/>
+    <itemref idref="P-024.xhtml"/>
+    <itemref idref="P-025.xhtml"/>
+    <itemref idref="P-026.xhtml"/>
+    <itemref idref="P-027.xhtml"/>
+    <itemref idref="P-028.xhtml"/>
+    <itemref idref="P-029.xhtml"/>
+    <itemref idref="P-030.xhtml"/>
+    <itemref idref="P-031.xhtml"/>
+    <itemref idref="P-032.xhtml"/>
+    <itemref idref="P-033.xhtml"/>
+    <itemref idref="K-004.xhtml"/>
+    <itemref idref="P-034.xhtml"/>
+    <itemref idref="P-035.xhtml"/>
+    <itemref idref="P-036.xhtml"/>
+    <itemref idref="P-037.xhtml"/>
+    <itemref idref="P-038.xhtml"/>
+    <itemref idref="P-039.xhtml"/>
+    <itemref idref="P-040.xhtml"/>
+    <itemref idref="P-041.xhtml"/>
+    <itemref idref="P-042.xhtml"/>
+    <itemref idref="P-043.xhtml"/>
+    <itemref idref="B-003.xhtml"/>
+    <itemref idref="K-005.xhtml"/>
+    <itemref idref="P-044.xhtml"/>
+    <itemref idref="P-045.xhtml"/>
+    <itemref idref="P-046.xhtml"/>
+    <itemref idref="P-047.xhtml"/>
+    <itemref idref="P-048.xhtml"/>
+    <itemref idref="P-049.xhtml"/>
+    <itemref idref="P-050.xhtml"/>
+    <itemref idref="P-051.xhtml"/>
+    <itemref idref="P-052.xhtml"/>
+    <itemref idref="P-053.xhtml"/>
+    <itemref idref="K-006.xhtml"/>
+    <itemref idref="P-054.xhtml"/>
+    <itemref idref="P-055.xhtml"/>
+    <itemref idref="P-056.xhtml"/>
+    <itemref idref="P-057.xhtml"/>
+    <itemref idref="P-058.xhtml"/>
+    <itemref idref="P-059.xhtml"/>
+    <itemref idref="P-060.xhtml"/>
+    <itemref idref="P-061.xhtml"/>
+    <itemref idref="P-062.xhtml"/>
+    <itemref idref="E-001.xhtml"/>
+    <itemref idref="E-002.xhtml"/>
+    <itemref idref="E-003.xhtml"/>
+    <itemref idref="E-004.xhtml"/>
+    <itemref idref="E-005.xhtml"/>
+    <itemref idref="H-001.xhtml"/>
+    <itemref idref="H-002.xhtml"/>
+    <itemref idref="H-003.xhtml"/>
+    <itemref idref="H-004.xhtml"/>
+    <itemref idref="H-005.xhtml"/>
+    <itemref idref="H-006.xhtml"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

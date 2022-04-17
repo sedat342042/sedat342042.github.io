@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="77aed54e-f96f-4397-ae9d-3c591a31d000" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>DENEMELER</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="89ee0404-18cc-4fa5-9636-31fb0c12544d" playOrder="1">
+      <navLabel>
+        <text>Önsöz I</text>
+      </navLabel>
+      <content src="denemeler_split_003.html"/>
+    </navPoint>
+    <navPoint id="08474df4-906e-4f91-82b2-b14d1e9686cc" playOrder="2">
+      <navLabel>
+        <text>Önsöz II</text>
+      </navLabel>
+      <content src="denemeler_split_004.html"/>
+    </navPoint>
+    <navPoint id="d011025f-bc4c-4868-8ed1-af0fcb93c2f6" playOrder="3">
+      <navLabel>
+        <text>Önsöz III</text>
+      </navLabel>
+      <content src="denemeler_split_005.html"/>
+    </navPoint>
+    <navPoint id="aa3ed9c8-717a-4c9b-9bf4-a16042a24870" playOrder="4">
+      <navLabel>
+        <text>Önsöz IV</text>
+      </navLabel>
+      <content src="denemeler_split_006.html"/>
+    </navPoint>
+    <navPoint id="699128f6-cf25-4da9-b45e-1fb55b1aec6a" playOrder="5">
+      <navLabel>
+        <text>Montaigne’in Hayatı</text>
+      </navLabel>
+      <content src="denemeler_split_007.html"/>
+    </navPoint>
+    <navPoint id="64e56c1a-2bbf-46b3-add8-130d57f0941d" playOrder="6">
+      <navLabel>
+        <text>Montaigne Üzerine Düşünceler</text>
+      </navLabel>
+      <content src="denemeler_split_008.html"/>
+    </navPoint>
+    <navPoint id="01281d1c-840e-4cc6-8ad8-b3b236f2ed18" playOrder="7">
+      <navLabel>
+        <text>Denemelerin Konusu</text>
+      </navLabel>
+      <content src="denemeler_split_009.html"/>
+    </navPoint>
+    <navPoint id="87b27bd7-b8d1-4c9e-b75a-4892c958397b" playOrder="8">
+      <navLabel>
+        <text>Kendimizi Anlatmak</text>
+      </navLabel>
+      <content src="denemeler_split_010.html"/>
+    </navPoint>
+    <navPoint id="ae1ccb78-6437-4844-ad60-33f2eec34957" playOrder="9">
+      <navLabel>
+        <text>Nasıl Yazmalı</text>
+      </navLabel>
+      <content src="denemeler_split_011.html"/>
+    </navPoint>
+    <navPoint id="d3cc7333-f38b-4c36-bd59-67090bd21125" playOrder="10">
+      <navLabel>
+        <text>Hayat ve Felsefe</text>
+      </navLabel>
+      <content src="denemeler_split_012.html"/>
+    </navPoint>
+    <navPoint id="28a3eff7-dc6d-4666-bfca-2e6d8c52e186" playOrder="11">
+      <navLabel>
+        <text>Kanunlar Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_013.html"/>
+    </navPoint>
+    <navPoint id="93d499bd-db7b-46bd-8005-36fb1fe93b05" playOrder="12">
+      <navLabel>
+        <text>Bilgi ve Düşünce</text>
+      </navLabel>
+      <content src="denemeler_split_014.html"/>
+    </navPoint>
+    <navPoint id="c44a9b14-04f2-4587-9b39-5ee681f065eb" playOrder="13">
+      <navLabel>
+        <text>Yaşamak ve Çalışmak</text>
+      </navLabel>
+      <content src="denemeler_split_015.html"/>
+    </navPoint>
+    <navPoint id="a01e62f6-0c74-4106-9f1a-4e4aa8704329" playOrder="14">
+      <navLabel>
+        <text>Ruh ve Beden</text>
+      </navLabel>
+      <content src="denemeler_split_016.html"/>
+    </navPoint>
+    <navPoint id="12bfe49b-4dc7-4c14-ac35-d93be2efe02c" playOrder="15">
+      <navLabel>
+        <text>İnsan ve Ötesi</text>
+      </navLabel>
+      <content src="denemeler_split_017.html"/>
+    </navPoint>
+    <navPoint id="5f08be67-bbbc-43e3-97de-fb3f0a552a5d" playOrder="16">
+      <navLabel>
+        <text>Evini Koruma</text>
+      </navLabel>
+      <content src="denemeler_split_018.html"/>
+    </navPoint>
+    <navPoint id="6761b8ee-6403-41e3-af8c-9a4c0b481421" playOrder="17">
+      <navLabel>
+        <text>Aşk Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_019.html"/>
+    </navPoint>
+    <navPoint id="3e6784f2-37dd-464e-8df4-7cbd211cee21" playOrder="18">
+      <navLabel>
+        <text>Dostluk</text>
+      </navLabel>
+      <content src="denemeler_split_020.html"/>
+    </navPoint>
+    <navPoint id="197007a6-b6ce-457d-b597-f3a7e92d5cbc" playOrder="19">
+      <navLabel>
+        <text>Dostluk Bağları</text>
+      </navLabel>
+      <content src="denemeler_split_021.html"/>
+    </navPoint>
+    <navPoint id="45974879-2d12-49aa-b6bd-be78e49642bd" playOrder="20">
+      <navLabel>
+        <text>Dırdırcılar</text>
+      </navLabel>
+      <content src="denemeler_split_022.html"/>
+    </navPoint>
+    <navPoint id="b895a69d-c549-4026-8d8c-51de5e2f169f" playOrder="21">
+      <navLabel>
+        <text>Yalnızlık</text>
+      </navLabel>
+      <content src="denemeler_split_023.html"/>
+    </navPoint>
+    <navPoint id="6862cfa8-1aec-4232-bad1-ac5433b56fe9" playOrder="22">
+      <navLabel>
+        <text>Devrim</text>
+      </navLabel>
+      <content src="denemeler_split_024.html"/>
+    </navPoint>
+    <navPoint id="6b7d9631-9a2c-478a-af16-e9abfe3c97f8" playOrder="23">
+      <navLabel>
+        <text>Paris</text>
+      </navLabel>
+      <content src="denemeler_split_025.html"/>
+    </navPoint>
+    <navPoint id="a896059c-bc50-4e9b-ad8d-801827581186" playOrder="24">
+      <navLabel>
+        <text>Çeviri</text>
+      </navLabel>
+      <content src="denemeler_split_026.html"/>
+    </navPoint>
+    <navPoint id="6dba184c-7719-437d-9764-57141f88e42e" playOrder="25">
+      <navLabel>
+        <text>İnsan Tabiatı</text>
+      </navLabel>
+      <content src="denemeler_split_027.html"/>
+    </navPoint>
+    <navPoint id="2b799725-3611-498c-8dbf-c0420e592515" playOrder="26">
+      <navLabel>
+        <text>İnsanın Güçsüzlüğü</text>
+      </navLabel>
+      <content src="denemeler_split_028.html"/>
+    </navPoint>
+    <navPoint id="6d4e7bf5-bb5f-4f0d-922f-ef12e9d69dd4" playOrder="27">
+      <navLabel>
+        <text>Ün</text>
+      </navLabel>
+      <content src="denemeler_split_029.html"/>
+    </navPoint>
+    <navPoint id="c521d4f5-fd5c-4e63-9675-cda9e4d281f5" playOrder="28">
+      <navLabel>
+        <text>Tanrılar Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_030.html"/>
+    </navPoint>
+    <navPoint id="1c4f5e79-694e-41a9-8428-bfdefcbf526c" playOrder="29">
+      <navLabel>
+        <text>Aylak Ruhlar</text>
+      </navLabel>
+      <content src="denemeler_split_031.html"/>
+    </navPoint>
+    <navPoint id="eb420d40-03dc-4f63-8902-16fcde2698ea" playOrder="30">
+      <navLabel>
+        <text>Bilinçsiz Duyular</text>
+      </navLabel>
+      <content src="denemeler_split_032.html"/>
+    </navPoint>
+    <navPoint id="c40f304a-ce2f-4b14-ab94-aec43618a00a" playOrder="31">
+      <navLabel>
+        <text>Filozoflar ve Tanrılar</text>
+      </navLabel>
+      <content src="denemeler_split_033.html"/>
+    </navPoint>
+    <navPoint id="d316e2d2-0bbb-4fd5-ae2c-f0e4362f6ea7" playOrder="32">
+      <navLabel>
+        <text>Arama Sevgisi</text>
+      </navLabel>
+      <content src="denemeler_split_034.html"/>
+    </navPoint>
+    <navPoint id="3cf9b51e-2f4e-48dd-ad33-45df29a38ce8" playOrder="33">
+      <navLabel>
+        <text>Mutluluk Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_035.html"/>
+    </navPoint>
+    <navPoint id="2c42f433-2ad5-4a17-9baa-35265bbcc890" playOrder="34">
+      <navLabel>
+        <text>Amerika’nın Bulunuşu</text>
+      </navLabel>
+      <content src="denemeler_split_036.html"/>
+    </navPoint>
+    <navPoint id="da29fb0a-27ec-476a-99b0-da1517a149a4" playOrder="35">
+      <navLabel>
+        <text>Hasta Görünmenin Zararları Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_037.html"/>
+    </navPoint>
+    <navPoint id="070503b5-d032-47a1-9002-981c74ff21a8" playOrder="36">
+      <navLabel>
+        <text>Vicdan Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_038.html"/>
+    </navPoint>
+    <navPoint id="2972e111-6325-4018-b161-68e58f5d668f" playOrder="37">
+      <navLabel>
+        <text>Kendi Kendisiyle Yetinme</text>
+      </navLabel>
+      <content src="denemeler_split_039.html"/>
+    </navPoint>
+    <navPoint id="7c469f95-901f-4555-b642-3da5cde50de6" playOrder="38">
+      <navLabel>
+        <text>İyi Amaç Uğruna Kötü Yollar</text>
+      </navLabel>
+      <content src="denemeler_split_040.html"/>
+    </navPoint>
+    <navPoint id="2af1d030-3ae0-4a8a-9748-879dc77647ec" playOrder="39">
+      <navLabel>
+        <text>Kendimizi İnceleme</text>
+      </navLabel>
+      <content src="denemeler_split_041.html"/>
+    </navPoint>
+    <navPoint id="30ed3cc8-7f2a-42d2-b722-04e88b7393b9" playOrder="40">
+      <navLabel>
+        <text>Ruh ve Beden Hazları</text>
+      </navLabel>
+      <content src="denemeler_split_042.html"/>
+    </navPoint>
+    <navPoint id="e80651ad-471a-4971-acd1-97bb7e49f2cf" playOrder="41">
+      <navLabel>
+        <text>Doğaya Uyma</text>
+      </navLabel>
+      <content src="denemeler_split_043.html"/>
+    </navPoint>
+    <navPoint id="e6014bfc-9f4f-4245-ae39-ef645b76cfcd" playOrder="42">
+      <navLabel>
+        <text>İnsan Aklı</text>
+      </navLabel>
+      <content src="denemeler_split_044.html"/>
+    </navPoint>
+    <navPoint id="317968b0-620d-4345-bf0b-8a9d30e39ebf" playOrder="43">
+      <navLabel>
+        <text>Cinsel Yanımız</text>
+      </navLabel>
+      <content src="denemeler_split_045.html"/>
+    </navPoint>
+    <navPoint id="d4ea0e64-185c-41c6-8e71-8dadf1caba73" playOrder="44">
+      <navLabel>
+        <text>İnsan Hali</text>
+      </navLabel>
+      <content src="denemeler_split_046.html"/>
+    </navPoint>
+    <navPoint id="5f73a477-ee6a-4346-b445-def459b7bf14" playOrder="45">
+      <navLabel>
+        <text>Özgürlük Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_047.html"/>
+    </navPoint>
+    <navPoint id="b4b466fc-59f3-4872-9687-dda5ad1e4509" playOrder="46">
+      <navLabel>
+        <text>Mutluluk</text>
+      </navLabel>
+      <content src="denemeler_split_048.html"/>
+    </navPoint>
+    <navPoint id="2228ea11-417a-41ef-902d-c19ac8cf196a" playOrder="47">
+      <navLabel>
+        <text>Ölüm</text>
+      </navLabel>
+      <content src="denemeler_split_049.html"/>
+    </navPoint>
+    <navPoint id="018639c2-3763-45b8-9da4-bb5c25cb9d57" playOrder="48">
+      <navLabel>
+        <text>Yaşayan Ölüler</text>
+      </navLabel>
+      <content src="denemeler_split_050.html"/>
+    </navPoint>
+    <navPoint id="efb9d47e-1ab0-4327-939e-b6e6f82974bb" playOrder="49">
+      <navLabel>
+        <text>Kökleşen Yanılmalar</text>
+      </navLabel>
+      <content src="denemeler_split_051.html"/>
+    </navPoint>
+    <navPoint id="718a6151-43bf-4deb-b3dc-e87371bab39c" playOrder="50">
+      <navLabel>
+        <text>İnsan Ömrü</text>
+      </navLabel>
+      <content src="denemeler_split_052.html"/>
+    </navPoint>
+    <navPoint id="d81d398c-937a-434d-abf1-834dd922391e" playOrder="51">
+      <navLabel>
+        <text>Varlık ve İnsan</text>
+      </navLabel>
+      <content src="denemeler_split_053.html"/>
+    </navPoint>
+    <navPoint id="133bc86b-43a7-4d28-87eb-7f2b824cd9a1" playOrder="52">
+      <navLabel>
+        <text>İnsan ve Akıl</text>
+      </navLabel>
+      <content src="denemeler_split_054.html"/>
+    </navPoint>
+    <navPoint id="4a5e99b5-6f1c-4965-9f2b-2a5c1d80d401" playOrder="53">
+      <navLabel>
+        <text>Ölçü</text>
+      </navLabel>
+      <content src="denemeler_split_055.html"/>
+    </navPoint>
+    <navPoint id="6f5b55d6-d260-4a41-a02c-3957b2c7f312" playOrder="54">
+      <navLabel>
+        <text>Tartışmalar</text>
+      </navLabel>
+      <content src="denemeler_split_056.html"/>
+    </navPoint>
+    <navPoint id="0ffec58e-cbbf-48de-8874-568eae966102" playOrder="55">
+      <navLabel>
+        <text>Gerçek Nedenler</text>
+      </navLabel>
+      <content src="denemeler_split_057.html"/>
+    </navPoint>
+    <navPoint id="4e913fb0-5a96-49bd-9414-7883d373aae1" playOrder="56">
+      <navLabel>
+        <text>Korku Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_058.html"/>
+    </navPoint>
+    <navPoint id="92ff56e2-9083-4e04-b9f9-eaeb78541f36" playOrder="57">
+      <navLabel>
+        <text>Kendine Acındırmak</text>
+      </navLabel>
+      <content src="denemeler_split_059.html"/>
+    </navPoint>
+    <navPoint id="826fc3df-00f4-4c0b-8c4c-24390354bc05" playOrder="58">
+      <navLabel>
+        <text>Alışkanlık</text>
+      </navLabel>
+      <content src="denemeler_split_060.html"/>
+    </navPoint>
+    <navPoint id="b603d540-6bae-483e-b7bc-e25a89397f40" playOrder="59">
+      <navLabel>
+        <text>Hayat ve Bilim</text>
+      </navLabel>
+      <content src="denemeler_split_061.html"/>
+    </navPoint>
+    <navPoint id="13646318-4b59-40d0-9d79-a85d8c165709" playOrder="60">
+      <navLabel>
+        <text>Yamyamlar Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_062.html"/>
+    </navPoint>
+    <navPoint id="c7355b15-e560-43f0-83ae-f7cb421cafe5" playOrder="61">
+      <navLabel>
+        <text>Birine Yarar Ötekine Zarar</text>
+      </navLabel>
+      <content src="denemeler_split_063.html"/>
+    </navPoint>
+    <navPoint id="b5593a85-6362-4379-8f8f-3c719d1c9107" playOrder="62">
+      <navLabel>
+        <text>Akıl Erdiremediğimiz Gerçekler</text>
+      </navLabel>
+      <content src="denemeler_split_064.html"/>
+    </navPoint>
+    <navPoint id="8a728ee3-2ba8-47e0-8299-073eeff0ad72" playOrder="63">
+      <navLabel>
+        <text>Babalar ve Çocuklar</text>
+      </navLabel>
+      <content src="denemeler_split_065.html"/>
+    </navPoint>
+    <navPoint id="a6c2f6e9-030e-443a-9449-db6469bac65c" playOrder="64">
+      <navLabel>
+        <text>Dizginsiz Tutkular</text>
+      </navLabel>
+      <content src="denemeler_split_066.html"/>
+    </navPoint>
+    <navPoint id="61c9e149-4365-4dbf-afed-d5f7fc76962c" playOrder="65">
+      <navLabel>
+        <text>Değişen Dil ve İnsan</text>
+      </navLabel>
+      <content src="denemeler_split_067.html"/>
+    </navPoint>
+    <navPoint id="3273d900-d410-49bc-8960-a5d14a0a530b" playOrder="66">
+      <navLabel>
+        <text>İnsanlar ve Hayvanlar</text>
+      </navLabel>
+      <content src="denemeler_split_068.html"/>
+    </navPoint>
+    <navPoint id="83b56f44-9dd6-451a-8b1e-6e09561f275a" playOrder="67">
+      <navLabel>
+        <text>Öldürülme Tehlikesine Karşı</text>
+      </navLabel>
+      <content src="denemeler_split_069.html"/>
+    </navPoint>
+    <navPoint id="01f7fd53-0ee2-4c2a-8664-d2d95ef36277" playOrder="68">
+      <navLabel>
+        <text>Ölmek Özgürlüğü</text>
+      </navLabel>
+      <content src="denemeler_split_070.html"/>
+    </navPoint>
+    <navPoint id="056eaba9-bbae-4232-bf46-5cb2324bb3e9" playOrder="69">
+      <navLabel>
+        <text>Gülmek ve Ağlamak</text>
+      </navLabel>
+      <content src="denemeler_split_071.html"/>
+    </navPoint>
+    <navPoint id="8e835da2-16d8-452c-aed4-b2b0ff964f24" playOrder="70">
+      <navLabel>
+        <text>Hainlere Hiyanet</text>
+      </navLabel>
+      <content src="denemeler_split_072.html"/>
+    </navPoint>
+    <navPoint id="8b499a34-29af-469e-9360-aa00c3ff3464" playOrder="71">
+      <navLabel>
+        <text>Hastalık</text>
+      </navLabel>
+      <content src="denemeler_split_073.html"/>
+    </navPoint>
+    <navPoint id="ce704694-9ca4-48a7-bd4b-ca278cb2e22d" playOrder="72">
+      <navLabel>
+        <text>Sağlık Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_074.html"/>
+    </navPoint>
+    <navPoint id="38a8111b-922f-4023-af53-6b8ea3552387" playOrder="73">
+      <navLabel>
+        <text>Üç Büyük Adam</text>
+      </navLabel>
+      <content src="denemeler_split_075.html"/>
+    </navPoint>
+    <navPoint id="c2d4d97a-b726-4f66-a25b-9cc6c3720a31" playOrder="74">
+      <navLabel>
+        <text>Her Şey Mevsiminde</text>
+      </navLabel>
+      <content src="denemeler_split_076.html"/>
+    </navPoint>
+    <navPoint id="f56ffb5d-cbd8-43ef-abe2-cbee36d2ce8f" playOrder="75">
+      <navLabel>
+        <text>İnsanın Kararsızlığı</text>
+      </navLabel>
+      <content src="denemeler_split_077.html"/>
+    </navPoint>
+    <navPoint id="3e0b9621-d0be-470f-8059-f002863ca561" playOrder="76">
+      <navLabel>
+        <text>Ruh Eşitliği</text>
+      </navLabel>
+      <content src="denemeler_split_078.html"/>
+    </navPoint>
+    <navPoint id="a00d61ed-fe6a-4cf1-b7e1-53e8b72c5973" playOrder="77">
+      <navLabel>
+        <text>Dünyanın Bize Göreliği</text>
+      </navLabel>
+      <content src="denemeler_split_079.html"/>
+    </navPoint>
+    <navPoint id="e125c551-2633-42b9-a4fe-f0ed3ff457cd" playOrder="78">
+      <navLabel>
+        <text>İnsanlar Arasında</text>
+      </navLabel>
+      <content src="denemeler_split_080.html"/>
+    </navPoint>
+    <navPoint id="30073242-21bd-40c3-81ee-b4aec8aaafd9" playOrder="79">
+      <navLabel>
+        <text>Hekimlik Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_081.html"/>
+    </navPoint>
+    <navPoint id="c6d579c1-8e69-49e3-9968-54ac53563b85" playOrder="80">
+      <navLabel>
+        <text>İnsanın İstekleri</text>
+      </navLabel>
+      <content src="denemeler_split_082.html"/>
+    </navPoint>
+    <navPoint id="e797409a-3f87-40b5-bcff-d0c3ddf6dc26" playOrder="81">
+      <navLabel>
+        <text>İnsan Bilgisi</text>
+      </navLabel>
+      <content src="denemeler_split_083.html"/>
+    </navPoint>
+    <navPoint id="261470c0-61ff-4542-9cb8-f1fa598bc51b" playOrder="82">
+      <navLabel>
+        <text>Dil Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_084.html"/>
+    </navPoint>
+    <navPoint id="91112c2c-146c-430b-bd31-6f6bc71dcde5" playOrder="83">
+      <navLabel>
+        <text>Kitap ve Hayat</text>
+      </navLabel>
+      <content src="denemeler_split_085.html"/>
+    </navPoint>
+    <navPoint id="f17d8109-f7e3-4b5d-a8fb-83197d92a46d" playOrder="84">
+      <navLabel>
+        <text>Kitapların Değeri</text>
+      </navLabel>
+      <content src="denemeler_split_086.html"/>
+    </navPoint>
+    <navPoint id="443d5068-4b63-4d7d-beb5-051fa65a5836" playOrder="85">
+      <navLabel>
+        <text>Düşünce Gelenekleri</text>
+      </navLabel>
+      <content src="denemeler_split_087.html"/>
+    </navPoint>
+    <navPoint id="00815afc-4303-489c-bdb9-aabcc01977c6" playOrder="86">
+      <navLabel>
+        <text>Kanunlar</text>
+      </navLabel>
+      <content src="denemeler_split_088.html"/>
+    </navPoint>
+    <navPoint id="87712975-2596-4582-908e-34bc5ca1208f" playOrder="87">
+      <navLabel>
+        <text>Söz Özgürlüğü</text>
+      </navLabel>
+      <content src="denemeler_split_089.html"/>
+    </navPoint>
+    <navPoint id="d31568bc-e0ec-440b-ad9a-626a8218856f" playOrder="88">
+      <navLabel>
+        <text>Vicdan Özgürlüğü</text>
+      </navLabel>
+      <content src="denemeler_split_090.html"/>
+    </navPoint>
+    <navPoint id="465593c5-7650-4995-9f77-b0a53672baf3" playOrder="89">
+      <navLabel>
+        <text>Kitaplar</text>
+      </navLabel>
+      <content src="denemeler_split_091.html"/>
+    </navPoint>
+    <navPoint id="08aaddc1-b016-4fa9-bce2-cc1183f7fc52" playOrder="90">
+      <navLabel>
+        <text>Dünya Yurttaşlığı</text>
+      </navLabel>
+      <content src="denemeler_split_092.html"/>
+    </navPoint>
+    <navPoint id="38228370-367c-4321-b596-2dc1cf29dc93" playOrder="91">
+      <navLabel>
+        <text>Baştakiler ve Biz</text>
+      </navLabel>
+      <content src="denemeler_split_093.html"/>
+    </navPoint>
+    <navPoint id="a482fea6-3431-4975-a1d6-c3472a8abdea" playOrder="92">
+      <navLabel>
+        <text>Yabancıdan Kaçınma</text>
+      </navLabel>
+      <content src="denemeler_split_094.html"/>
+    </navPoint>
+    <navPoint id="5a9d3919-f91d-410b-93c5-b0c375bdb5f3" playOrder="93">
+      <navLabel>
+        <text>Halk ve Kral</text>
+      </navLabel>
+      <content src="denemeler_split_095.html"/>
+    </navPoint>
+    <navPoint id="5d744af8-f6a6-4004-8127-9c6f71aa76a6" playOrder="94">
+      <navLabel>
+        <text>Pazarlık</text>
+      </navLabel>
+      <content src="denemeler_split_096.html"/>
+    </navPoint>
+    <navPoint id="c6f0f1e3-0541-4b47-a55f-ba4b6665ab08" playOrder="95">
+      <navLabel>
+        <text>Savaş Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_097.html"/>
+    </navPoint>
+    <navPoint id="a66b7721-5a88-46a1-91ee-3cd31b8490e0" playOrder="96">
+      <navLabel>
+        <text>Bilgelik ve Mutluluk</text>
+      </navLabel>
+      <content src="denemeler_split_098.html"/>
+    </navPoint>
+    <navPoint id="bd03ed9b-dbc0-4146-a081-e5bec82c363e" playOrder="97">
+      <navLabel>
+        <text>Öfke Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_099.html"/>
+    </navPoint>
+    <navPoint id="432674f3-deff-4817-bbc7-08a5f6873785" playOrder="98">
+      <navLabel>
+        <text>Körü Körüne İnanmak</text>
+      </navLabel>
+      <content src="denemeler_split_100.html"/>
+    </navPoint>
+    <navPoint id="7010b12f-2af8-49da-943b-a80c71ea5953" playOrder="99">
+      <navLabel>
+        <text>Ödemeli Kötülük</text>
+      </navLabel>
+      <content src="denemeler_split_101.html"/>
+    </navPoint>
+    <navPoint id="7d1c6886-7c1d-498d-b5dd-380824025ecd" playOrder="100">
+      <navLabel>
+        <text>Bitki ve İnsan</text>
+      </navLabel>
+      <content src="denemeler_split_102.html"/>
+    </navPoint>
+    <navPoint id="c57a9b60-a6a3-4b82-90c8-41786fa72a9e" playOrder="101">
+      <navLabel>
+        <text>Aramızdaki Eşitsizlik</text>
+      </navLabel>
+      <content src="denemeler_split_103.html"/>
+    </navPoint>
+    <navPoint id="b99630b0-1021-4ac8-948e-d0997d2e16da" playOrder="102">
+      <navLabel>
+        <text>İnsan ve Evren</text>
+      </navLabel>
+      <content src="denemeler_split_104.html"/>
+    </navPoint>
+    <navPoint id="35d30fc9-b18c-4f94-876e-b0037111064e" playOrder="103">
+      <navLabel>
+        <text>Her Şeyin Göreceliği</text>
+      </navLabel>
+      <content src="denemeler_split_105.html"/>
+    </navPoint>
+    <navPoint id="756c91bf-2817-4e80-8248-779a2b660204" playOrder="104">
+      <navLabel>
+        <text>Nasıl Konuşmalı</text>
+      </navLabel>
+      <content src="denemeler_split_106.html"/>
+    </navPoint>
+    <navPoint id="e49a9eec-795d-4682-8368-3b8c3712d9e3" playOrder="105">
+      <navLabel>
+        <text>İyilerin En İyisi</text>
+      </navLabel>
+      <content src="denemeler_split_107.html"/>
+    </navPoint>
+    <navPoint id="2148644f-5770-425a-86fc-78de8fefa18c" playOrder="106">
+      <navLabel>
+        <text>Doğruluk Kaygısı</text>
+      </navLabel>
+      <content src="denemeler_split_108.html"/>
+    </navPoint>
+    <navPoint id="551c840f-aa89-4e9a-aee7-5efc533264d7" playOrder="107">
+      <navLabel>
+        <text>Yaşamak Sanatı</text>
+      </navLabel>
+      <content src="denemeler_split_109.html"/>
+    </navPoint>
+    <navPoint id="0c345750-251c-4731-b69e-f17d2f07f844" playOrder="108">
+      <navLabel>
+        <text>Romalı ve Osmanlı Büyüklüğü</text>
+      </navLabel>
+      <content src="denemeler_split_110.html"/>
+    </navPoint>
+    <navPoint id="0e01ecbf-6a24-44d9-a063-f08780a24671" playOrder="109">
+      <navLabel>
+        <text>Bilgi ve İnanç</text>
+      </navLabel>
+      <content src="denemeler_split_111.html"/>
+    </navPoint>
+    <navPoint id="68eb4f29-92a1-41a4-98c2-6047cb94b52f" playOrder="110">
+      <navLabel>
+        <text>Eser ve Çocuk</text>
+      </navLabel>
+      <content src="denemeler_split_112.html"/>
+    </navPoint>
+    <navPoint id="5f952f18-b7f1-474c-a6d6-ba2efea531dd" playOrder="111">
+      <navLabel>
+        <text>Hüzün Düşkünlüğü</text>
+      </navLabel>
+      <content src="denemeler_split_113.html"/>
+    </navPoint>
+    <navPoint id="71b37a42-5d47-4895-926f-40d727e1c9d5" playOrder="112">
+      <navLabel>
+        <text>Şiir Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_114.html"/>
+    </navPoint>
+    <navPoint id="50c1aa93-5eb6-4b5c-aced-ea7e3d350dba" playOrder="113">
+      <navLabel>
+        <text>Eğitim ve Halk</text>
+      </navLabel>
+      <content src="denemeler_split_115.html"/>
+    </navPoint>
+    <navPoint id="65a9a131-d46e-4935-af0f-bfca7a978ef4" playOrder="114">
+      <navLabel>
+        <text>Gerçeküstü Kandırmacaları</text>
+      </navLabel>
+      <content src="denemeler_split_116.html"/>
+    </navPoint>
+    <navPoint id="6892faed-344e-4617-9563-c5c22f00a3f8" playOrder="115">
+      <navLabel>
+        <text>Yararlı ve Güzel Üstüne</text>
+      </navLabel>
+      <content src="denemeler_split_117.html"/>
+    </navPoint>
+    <navPoint id="c4e31f1e-003d-4364-af39-33ceb019a658" playOrder="116">
+      <navLabel>
+        <text>Sevenler ve Sevilenler</text>
+      </navLabel>
+      <content src="denemeler_split_118.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

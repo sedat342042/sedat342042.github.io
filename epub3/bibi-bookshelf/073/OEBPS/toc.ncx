@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789750724510"/>
+      <meta name="dtb:depth" content="2"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Babaya Mektup</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Sunuş</text>
+         </navLabel>
+         <content src="introduction.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>BABAYA MEKTUP</text>
+         </navLabel>
+         <content src="chapter.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Ekler</text>
+         </navLabel>
+         <content src="part.xhtml"/>
+         <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+               <text>Önnot</text>
+            </navLabel>
+            <content src="appendix.xhtml#subdiv1"/>
+         </navPoint>
+         <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+               <text>Biyografik arka plan</text>
+            </navLabel>
+            <content src="appendix.xhtml#subdiv2"/>
+         </navPoint>
+         <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+               <text>Babaya Mektup ve alıcısı Hermann Kafka</text>
+            </navLabel>
+            <content src="appendix.xhtml#subdiv3"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>Babaya Mektup ’un oluşumu ve işlevi</text>
+            </navLabel>
+            <content src="appendix.xhtml#subdiv4"/>
+         </navPoint>
+         <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+               <text>Notlar</text>
+            </navLabel>
+            <content src="notice.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+               <text>Kaynaklar</text>
+            </navLabel>
+            <content src="bibliography.xhtml"/>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>
