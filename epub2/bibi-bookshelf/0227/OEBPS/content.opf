@@ -1,0 +1,109 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7ca61a25-b718-4084-ad75-0eb75d8f2a03</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;Jack London, Londra'nın Doğu yakasındaki; Whitechapel, Hoxton, Spitalfields, Bethnal Green ve Wapping'i kapsayan bir bölgeyi, buradaki insanların içine girerek, onlar gibi giyinip, onlar gibi yaşayıp, onlar gibi karnını doyurarak bu yapıtını yaratmıştır.
+Bu yaratış, öylesine bir doğallık içermektedir ki, Jack London'ın kendi ifadesiyle; üzerindeki ceketten başka yitirecek şeyi yoktur. O ceket de, eski giysiler satan bir dükkândan alınmıştır.
+Buradaki yaşam hem gridir, hem de bulanık. Burada yaşayanlar acz içinde, umarsız, umutsuz, hastalıklıdır. Temizlik için yapılan en ufak bir girişim bile, kahkahalarla karşılanan davranışlar içine girer burada. Buralara yağan yağmur bile doğallıktan uzaktır ve ortalığı temizleme gücünden yoksundur. O da her şey gibi yağlıdır, düştüğü yeri daha çok pisletir. Buradaki duvarların ardında, sıkıntı içindeki insanlar yaşamını sürdürür. Burada ruh inceliğinden söz etmek alay konusu olur, dünya nimetleri yoktur burada.
+Londra'da öyle sokaklar vardır ki, burada yaşama gözlerini açan çocukların yüzde ellisi, iki yaşına varmadan ölür. Geriye kalan çocukların yüzde ellisi de, beş yaşına ulaşmadan yaşama gözlerini yumar. Denilebilir ki, buralarda korkunç bir katliam hüküm sürmektedir. Londra'nın kenar mahalleleri, ucu bucağı belirsiz bir mezbahadır.
+Jack London'ın tanıklığıyla tarihe not olarak düşülen Altta Kalanlar'ın hikâyesinin üzerinden yalnızca bir yüzyıl geçmiş.
+Batı'nın bugünkü uygar İngiltere'si, milyonlarca ezilmişin cesedinin yer aldığı temel üzerinde inşa edilmiş.
+Jack London, bir belgeyi, o eşsiz üslubuyla hikâyeleştirmiş.
+Yalçın Yayınları olarak; bu sürükleyici, bir solukta okunacak yapıtı yayınlamaktan onur duyuyoruz.&lt;/p&gt;</dc:description>
+    <dc:publisher>Yalçın Yayınları</dc:publisher>
+    <dc:date>2000-08-31T21:00:00+00:00</dc:date>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Jack London&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2014-07-08T12:29:01.498000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Altta Kalanlar" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="altta-kalanlar.jpg"/>
+  <dc:title>Altta Kalanlar</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Otobiyografi</dc:subject>
+<dc:subject>Dünya Klasikleri</dc:subject>
+<dc:subject>İngiliz Edebiyatı</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">90dee56d-56ee-4ad6-9876-c04122d1bfe3</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9754880905</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_001.html" id="altta_kalanlar_001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_002.html" id="altta_kalanlar_002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_003.html" id="altta_kalanlar_003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_101.html" id="altta_kalanlar_101.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_102.html" id="altta_kalanlar_102.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_103.html" id="altta_kalanlar_103.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_104.html" id="altta_kalanlar_104.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_105.html" id="altta_kalanlar_105.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_106.html" id="altta_kalanlar_106.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_107.html" id="altta_kalanlar_107.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_108.html" id="altta_kalanlar_108.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_109.html" id="altta_kalanlar_109.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_110.html" id="altta_kalanlar_110.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_111.html" id="altta_kalanlar_111.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_112.html" id="altta_kalanlar_112.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_113.html" id="altta_kalanlar_113.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_114.html" id="altta_kalanlar_114.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_115.html" id="altta_kalanlar_115.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_116.html" id="altta_kalanlar_116.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_117.html" id="altta_kalanlar_117.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_118.html" id="altta_kalanlar_118.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_119.html" id="altta_kalanlar_119.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_120.html" id="altta_kalanlar_120.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_121.html" id="altta_kalanlar_121.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_122.html" id="altta_kalanlar_122.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_123.html" id="altta_kalanlar_123.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_124.html" id="altta_kalanlar_124.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_125.html" id="altta_kalanlar_125.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_126.html" id="altta_kalanlar_126.html" media-type="application/xhtml+xml"/>
+    <item href="Text/altta_kalanlar_127.html" id="altta_kalanlar_127.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/altta-kalanlar.jpg" id="altta-kalanlar.jpg" media-type="image/jpeg"/>
+    <item href="Images/yalcin-yayinlari.jpg" id="yalcin-yayinlari.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/amasis-bold-italic.ttf" id="amasis-bold-italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/amasis-bold.ttf" id="amasis-bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/amasis-italic.ttf" id="amasis-italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/amasis-normal.ttf" id="amasis-normal.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="altta_kalanlar_001.html"/>
+    <itemref idref="altta_kalanlar_002.html"/>
+    <itemref idref="altta_kalanlar_003.html"/>
+    <itemref idref="altta_kalanlar_101.html"/>
+    <itemref idref="altta_kalanlar_102.html"/>
+    <itemref idref="altta_kalanlar_103.html"/>
+    <itemref idref="altta_kalanlar_104.html"/>
+    <itemref idref="altta_kalanlar_105.html"/>
+    <itemref idref="altta_kalanlar_106.html"/>
+    <itemref idref="altta_kalanlar_107.html"/>
+    <itemref idref="altta_kalanlar_108.html"/>
+    <itemref idref="altta_kalanlar_109.html"/>
+    <itemref idref="altta_kalanlar_110.html"/>
+    <itemref idref="altta_kalanlar_111.html"/>
+    <itemref idref="altta_kalanlar_112.html"/>
+    <itemref idref="altta_kalanlar_113.html"/>
+    <itemref idref="altta_kalanlar_114.html"/>
+    <itemref idref="altta_kalanlar_115.html"/>
+    <itemref idref="altta_kalanlar_116.html"/>
+    <itemref idref="altta_kalanlar_117.html"/>
+    <itemref idref="altta_kalanlar_118.html"/>
+    <itemref idref="altta_kalanlar_119.html"/>
+    <itemref idref="altta_kalanlar_120.html"/>
+    <itemref idref="altta_kalanlar_121.html"/>
+    <itemref idref="altta_kalanlar_122.html"/>
+    <itemref idref="altta_kalanlar_123.html"/>
+    <itemref idref="altta_kalanlar_124.html"/>
+    <itemref idref="altta_kalanlar_125.html"/>
+    <itemref idref="altta_kalanlar_126.html"/>
+    <itemref idref="altta_kalanlar_127.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

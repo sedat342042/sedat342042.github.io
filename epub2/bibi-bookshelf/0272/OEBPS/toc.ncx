@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="192a8853-9397-4d88-a985-42df0b9e3748" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ecel Saati</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İKİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ÜÇÜNCÜ KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>DÖRDÜNCÜ KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>BEŞİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ALTINCI KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>YEDİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>SEKİZİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>DOKUZUNCU KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>ONUNCU KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>ON BİRİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>ON İKİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/index_split_016.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

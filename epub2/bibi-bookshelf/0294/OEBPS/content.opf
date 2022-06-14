@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Gorki, Maksim">Maksim Gorki</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:publisher>Evrensel Basım Yayın</dc:publisher>
+    <dc:date>2012-06-16T21:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;Maksim Gorkiy-Seçme Eserler dizisinde yer alan kitapların en önemli özelliği, yazıldığı dilden, Rusçadan özenle çevrilmiş olmasıdır. Tam metin çevrilen kitapların dilinin doğallığı da dikkatinizi çekecek. Gorkiy'in öykülerinde yıkılmakta olan bir sınıfın dünyası ile dünyaya egemen olacak emekçi sınıfın dünyasının kesişme ve çatışmasının yansımalarını göreceksiniz.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Bozkırda" name="calibre:title_sort"/>
+    <meta content="{&quot;Maksim Gorki&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>Bozkırda</dc:title>
+<dc:subject>Hikaye</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">3ea4ea9b-c785-48c4-83e3-fb3c4cd4e11f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9799756525844</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="urn:uuid:218bbc42-17a4-4cf0-b7f0-3aa4b4bcd325" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bir Yufka Yürekli</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8bd2694e-7fe7-4f80-8c36-34d8b2a9dc59" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="../titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="ud2a85a2c-8411-4682-9f27-08ea0ff69259" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="u7d3a6726-36f3-4bbc-b708-2d48ed562453" playOrder="3">
+      <navLabel>
+        <text>Bir Yufka Yürekli</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml#u8ab2fbdc-10d4-4c2d-b385-e77a07c47b69"/>
+    </navPoint>
+  </navMap>
+</ncx>

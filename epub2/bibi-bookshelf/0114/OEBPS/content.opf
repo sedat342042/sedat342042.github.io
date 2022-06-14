@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Dostoyevski, Fyodor Mihailoviç">Fyodor Mihailoviç Dostoyevski</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:6d782ad3-e616-471c-b276-ab8ccabd3f22</dc:identifier>
+    <dc:date>2008-01-22T22:00:00+00:00</dc:date>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;1861-1862 yıllarında bu dergide yayımlanan Ölüler Evinden Anılar Dostoyevski´nin Sibirya´da geçirdiği sürgün yıllarının izlenimlerini bütün canlılığıyla yansıtır.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-06-14</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Ölüler Evinden Anılar" name="calibre:title_sort"/>
+    <meta content="Hasan Ali Yücel Klasikler Dizisi" name="calibre:series"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Fyodor Mihailoviç Dostoyevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <dc:title>Ölüler Evinden Anılar</dc:title>
+<dc:subject>Dünya Klasikleri</dc:subject>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">649e0ca9-60cd-4ada-957e-a7b6e852ef29</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789944884044</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:6d782ad3-e616-471c-b276-ab8ccabd3f22</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/2-1.html" id="x2-1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.html" id="Section0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.html" id="Section0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.html" id="Section0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.html" id="Section0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.html" id="Section0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.html" id="Section0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.html" id="Section0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.html" id="Section0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.html" id="Section0014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.html" id="Section0015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.html" id="Section0016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.html" id="Section0017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.html" id="Section0018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.html" id="Section0019.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="template.css" media-type="text/css"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="x1.html"/>
+    <itemref idref="x2.html"/>
+    <itemref idref="x2-1.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="Section0005.html"/>
+    <itemref idref="Section0006.html"/>
+    <itemref idref="Section0007.html"/>
+    <itemref idref="Section0008.html"/>
+    <itemref idref="Section0009.html"/>
+    <itemref idref="Section0010.html"/>
+    <itemref idref="Section0011.html"/>
+    <itemref idref="Section0012.html"/>
+    <itemref idref="Section0013.html"/>
+    <itemref idref="Section0014.html"/>
+    <itemref idref="Section0015.html"/>
+    <itemref idref="Section0016.html"/>
+    <itemref idref="Section0017.html"/>
+    <itemref idref="Section0018.html"/>
+    <itemref idref="Section0019.html"/>
+  </spine>
+</package>

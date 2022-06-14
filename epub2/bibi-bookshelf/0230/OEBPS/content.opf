@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+<dc:identifier id="uuid">{4AE17916-8C38-4F2B-9F97-66B915A17A90}</dc:identifier>
+    <dc:date>2012-03-06T22:00:00+00:00</dc:date>
+    <meta content="0.7.1" name="Sigil version"/>
+  <dc:title>Dehşet Ülkesi</dc:title>
+<meta name="calibre:title_sort" content="Dehşet Ülkesi"/>
+<dc:publisher>Oda Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Aşk</dc:subject>
+<dc:description>&lt;p&gt;Jack London'un yapıtları görkemli ve sürekli bir destandan alınma sürükleyici serüven parçaları gibidir. Issız tropik adaların balta girmemiş ormanlarında, kelle avcıları arasında geçen bir aşk ve serüven romanı olan Dehşet Ülkesi'nde, yine Jack London'a özgü o sürükleyici anlatımı bulacak, yabanıl doğadaki o dişe diş kavgayı yine yaşar gibi olacaksınız.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jack London&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d2d2ad8a-b8c4-4f99-ba89-9b4158e32975</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753850698</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section3.xhtml" id="Section3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section5.xhtml" id="Section5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section7.xhtml" id="Section7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section10.xhtml" id="Section10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section4.xhtml" id="Section4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section6.xhtml" id="Section6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section8.xhtml" id="Section8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section9.xhtml" id="Section9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section11.xhtml" id="Section11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section2.xhtml" id="Section2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section1.xhtml" id="Section1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section1.xhtml"/>
+    <itemref idref="Section2.xhtml"/>
+    <itemref idref="Section3.xhtml"/>
+    <itemref idref="Section4.xhtml"/>
+    <itemref idref="Section5.xhtml"/>
+    <itemref idref="Section6.xhtml"/>
+    <itemref idref="Section7.xhtml"/>
+    <itemref idref="Section8.xhtml"/>
+    <itemref idref="Section9.xhtml"/>
+    <itemref idref="Section10.xhtml"/>
+    <itemref idref="Section11.xhtml"/>
+  </spine>
+  <guide/>
+</package>

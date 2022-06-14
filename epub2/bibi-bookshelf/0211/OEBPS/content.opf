@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Balzac, Honoré De">Honoré De Balzac</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+    <dc:date>2012-06-12T21:00:00+00:00</dc:date>
+    <dc:publisher>Nakkal Yayıncılık</dc:publisher>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <dc:date opf:event="modification">2013-12-02</dc:date>
+  <dc:title>Top Oynayan Kedi Mağazası</dc:title>
+<meta name="calibre:title_sort" content="Top Oynayan Kedi Mağazası"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Honoré De Balzac&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">099d7c32-be53-4cbd-afbf-10db32de189d</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Text/rica.html" id="rica.html" media-type="application/xhtml+xml"/>
+    <item href="Images/Nakkal Siyah.png" id="Nakkal_Siyah.png" media-type="image/png"/>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/dikkat.xhtml" id="dikkat.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Text/telif.xhtml" id="telif.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="telif.xhtml"/>
+    <itemref idref="rica.html"/>
+    <itemref idref="dikkat.xhtml"/>
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover"/>
+    <reference href="Text/toc.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/rica.html" title="Text" type="text"/>
+    <reference href="Text/dikkat.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+    <reference href="Text/onsoz.xhtml" title="Preface" type="preface"/>
+  </guide>
+</package>

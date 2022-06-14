@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+  <head>
+    <meta content="{5B509816-BB82-48F9-8147-605B3E479B44}" name="uid"/>
+  </head>
+  <docTitle>
+    <text>Franz-Kafka-Şato</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="{D92E48B4-6157-4921-A49C-EC38ADDADFA5}" playOrder="1">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+    </navPoint>
+    <navPoint id="{2071DEB5-0FB8-4189-96E4-384E2C3D13CC}" playOrder="2">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml"/>
+    </navPoint>
+    <navPoint id="{84114CAA-4901-4DFB-81EE-319E061E8D72}" playOrder="3">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml"/>
+    </navPoint>
+    <navPoint id="{DF582466-3E0B-47F0-878C-6C9A8CB87F3E}" playOrder="4">
+      <navLabel>
+        <text>Dördüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml"/>
+    </navPoint>
+    <navPoint id="{F6B4A4AF-0C10-4091-A38E-6A2AE6C7D62B}" playOrder="5">
+      <navLabel>
+        <text>Beşinci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml"/>
+    </navPoint>
+    <navPoint id="{F0A3CFD7-81DB-4A16-AB69-104E506BCEE6}" playOrder="6">
+      <navLabel>
+        <text>Altıncı Bölüm</text>
+      </navLabel>
+      <content src="Text/main-6.xhtml"/>
+    </navPoint>
+    <navPoint id="{47D0494B-A52B-4C1B-9BC8-5B1C0EF28219}" playOrder="7">
+      <navLabel>
+        <text>Yedinci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-7.xhtml"/>
+    </navPoint>
+    <navPoint id="{02A5FF26-E1D3-484B-9179-62B14B4A6A1A}" playOrder="8">
+      <navLabel>
+        <text>Sekizinci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-8.xhtml"/>
+    </navPoint>
+    <navPoint id="{05E17118-123A-4B45-B3C8-FF9A357FB390}" playOrder="9">
+      <navLabel>
+        <text>Dokuzuncu Bölüm</text>
+      </navLabel>
+      <content src="Text/main-9.xhtml"/>
+    </navPoint>
+    <navPoint id="{62277793-12D6-40C7-88A9-8CD018238BE2}" playOrder="10">
+      <navLabel>
+        <text>Onuncu Bölüm</text>
+      </navLabel>
+      <content src="Text/main-10.xhtml"/>
+    </navPoint>
+    <navPoint id="{12B959E2-3BB1-4009-9F3F-719BDCC82876}" playOrder="11">
+      <navLabel>
+        <text>On Birinci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-11.xhtml"/>
+    </navPoint>
+    <navPoint id="{D3C6ED86-8A84-4B80-B781-737B4504814F}" playOrder="12">
+      <navLabel>
+        <text>On İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-12.xhtml"/>
+    </navPoint>
+    <navPoint id="{36D53F82-6F81-47AA-A79B-7C59573D45E4}" playOrder="13">
+      <navLabel>
+        <text>On Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/main-13.xhtml"/>
+    </navPoint>
+    <navPoint id="{AD65B8A7-10F9-4BAF-87AF-6E4F6215B8F1}" playOrder="14">
+      <navLabel>
+        <text>On Dördüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/main-14.xhtml"/>
+    </navPoint>
+    <navPoint id="{D8C6346D-5659-40AA-A696-7E7AFC603D2C}" playOrder="15">
+      <navLabel>
+        <text>On Beşinci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-15.xhtml"/>
+    </navPoint>
+    <navPoint id="{2027A0EC-5E01-4640-BC1B-9D6F1087C957}" playOrder="17">
+      <navLabel>
+        <text>On Altına Bölüm</text>
+      </navLabel>
+      <content src="Text/main-17.xhtml"/>
+    </navPoint>
+    <navPoint id="{AC9F0FB9-50A3-4C11-83B1-7D377868D7E8}" playOrder="18">
+      <navLabel>
+        <text>On Yedinci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-18.xhtml"/>
+    </navPoint>
+    <navPoint id="{48CD1E01-A874-43BA-B417-B00BD3362626}" playOrder="19">
+      <navLabel>
+        <text>On Sekizinci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-19.xhtml"/>
+    </navPoint>
+    <navPoint id="{47467DBE-0D98-4204-9E26-25BC1614125A}" playOrder="20">
+      <navLabel>
+        <text>On Dokuzuncu Bölüm</text>
+      </navLabel>
+      <content src="Text/main-20.xhtml"/>
+    </navPoint>
+    <navPoint id="{78BF1827-EDE3-4EB2-BEA2-520AF4BCCD06}" playOrder="21">
+      <navLabel>
+        <text>Yirminci Bölüm</text>
+      </navLabel>
+      <content src="Text/main-21.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

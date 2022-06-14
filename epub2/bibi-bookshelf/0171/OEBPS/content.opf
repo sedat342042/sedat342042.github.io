@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Orwell, George">George Orwell</dc:creator>
+<dc:publisher>Boğaziçi Yayınları</dc:publisher>
+    <meta content="Ümit Çiçeği" name="calibre:title_sort"/>
+    <dc:description>&lt;p&gt;Olgunlaşma çağında bir genç, hayatta nelerle karşılaşır? Niçin komünist, faşist, kapitalist veya antikapitalist olur? Çağımızın en ünlü yazarlarından biri olan George orwell, siyasi inançların çok defa hissi meselelerin bir sonucu olduğunu en iyi bilenlerden biridir. George Orwell, bu romanında, sosyalist düşüncelere sahip bir gencin «Para -Tanrısı» adını verdiği şeyden nefret edişini ve bu nefreti yüzünden sefil bir hayatı seçişini, sonunda «aşk» a mağlûp oluşunu anlatır. Derin bir sezgi gücü, akıcı üslûbu ve eşsiz mizah kabiliyeti ile, olgunlaşma yolundaki bir gencin ibretli macerasını dile getirir. Yalnız gençler değil, bütün dünyadaki gençlik dalgalanışını, çağımızın meselelerini merak edenler ve gerçek roman okuyucuları da bu kitabı büyük bir haz duyarak merakla okuyacaklardır.&lt;/p&gt;</dc:description>
+    <meta content="2015-06-05T11:56:13.117000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>1973-06-09T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0c543dcf-7e6c-4f5e-b7fa-0d383cba36c7</dc:identifier>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;George Orwell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-06-13</dc:date>
+  <dc:title>Ümit Çiçeği</dc:title>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">bf27c017-16b1-40fc-82f8-750cbd50ee03</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0007.htm" id="Section0007.htm" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/ic_kapak.htm" id="ic_kapak.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.htm" id="Section0004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.htm" id="Section0005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.htm" id="Section0013.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.htm" id="Section0006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.htm" id="Section0008.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.htm" id="Section0009.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.htm" id="Section0010.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.htm" id="Section0011.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.htm" id="Section0012.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ic_kapak.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0003.htm"/>
+    <itemref idref="Section0004.htm"/>
+    <itemref idref="Section0005.htm"/>
+    <itemref idref="Section0006.htm"/>
+    <itemref idref="Section0008.htm"/>
+    <itemref idref="Section0009.htm"/>
+    <itemref idref="Section0010.htm"/>
+    <itemref idref="Section0011.htm"/>
+    <itemref idref="Section0012.htm"/>
+    <itemref idref="Section0013.htm"/>
+    <itemref idref="Section0007.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

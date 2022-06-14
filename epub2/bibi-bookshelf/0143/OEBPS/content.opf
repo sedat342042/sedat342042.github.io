@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Dostoyevski, Fyodor Mihailoviç">Fyodor Mihailoviç Dostoyevski</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:218bbc42-17a4-4cf0-b7f0-3aa4b4bcd325</dc:identifier>
+    <dc:date>1994-01-18T22:00:00+00:00</dc:date>
+    <dc:publisher>Varlık Yayınları</dc:publisher>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Yufka Yürekli, Bir" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Fyodor Mihailoviç Dostoyevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-02-24</dc:date>
+    <dc:description>&lt;p&gt;Dünyanın en büyük birkaç romancısından biri sayılan Dostoyevski'nin ünlü romanları yanında kısa ve uzun öyküleri de vardır ve bunlar da o ünlü romanları kadar değerlidir. İşte bu ciltte size onlardan ikisini sunuyoruz. Yufka yürekli, saf ve ölesiye iradesiz, ama delicesine de aşık bir gencin yürek parçalayıcı halini korkunç bir tahlil gücüyle anlatır yazar birinci öyküsünde. Onun yanında toplum içinde bencil ve düzenbaz bir soytarılıkla işini yürütmeye çalışan bir adamın kendinden de düzenbaz bir şefin oyunu karşısında yere serilişi, ilk öykü ile tam bir çelişki halindedir.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2014-02-24T02:42:16.611000+00:00"/>
+    <meta name="cover" content="cover"/>
+  <dc:title>Bir Yufka Yürekli</dc:title>
+<dc:subject>Dünya Klasikleri</dc:subject>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:subject>Öykü</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">bb73537f-6c7c-473e-a5b1-236a1982962c</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754340570</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="../cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="../titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="../titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

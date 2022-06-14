@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title> Kasımpatları</dc:title>
+<dc:creator opf:file-as="Steinbeck, John" opf:role="aut">John Steinbeck</dc:creator>
+<dc:description>FK*</dc:description>
+<dc:publisher>j.ALL</dc:publisher>
+<dc:date>2014-07-29</dc:date>
+<dc:identifier id="BookId">AWP-24A9D09D-E2DF-4D89-A4F6-00D693A3FEA8</dc:identifier>
+<dc:language>tr</dc:language>
+<meta name="cover" content="cover"/>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="style" href="style.css" media-type="text/css"/>
+<item id="coverstyle" href="cover.css" media-type="text/css"/>
+<item id="id001" href="001.html" media-type="application/xhtml+xml"/>
+<item id="id002" href="002.html" media-type="application/xhtml+xml"/>
+<item id="id003" href="003.html" media-type="application/xhtml+xml"/>
+<item id="id004" href="004.html" media-type="application/xhtml+xml"/>
+<item id="id005" href="005.html" media-type="application/xhtml+xml"/>
+<item id="id006" href="006.html" media-type="application/xhtml+xml"/>
+<item id="id007" href="007.html" media-type="application/xhtml+xml"/>
+<item id="id008" href="008.html" media-type="application/xhtml+xml"/>
+<item id="id009" href="009.html" media-type="application/xhtml+xml"/>
+<item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+<item id="img1" href="images/img1.png" media-type="image/png"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="id001" linear="no"/>
+<itemref idref="id002"/>
+<itemref idref="id003"/>
+<itemref idref="id004"/>
+<itemref idref="id005"/>
+<itemref idref="id006"/>
+<itemref idref="id007"/>
+<itemref idref="id008"/>
+<itemref idref="id009"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover" href="001.html"/>
+<reference type="toc" title="Table of Contents" href="009.html#a11"/>
+<reference type="text" title="Beginning" href="003.html#a3"/>
+</guide>
+</package>

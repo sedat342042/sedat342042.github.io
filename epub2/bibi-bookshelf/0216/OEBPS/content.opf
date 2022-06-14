@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Asimov, Isaac">Isaac Asimov</dc:creator>
+<dc:identifier id="uuid">{40773C2D-1544-4725-9956-1EACBAF1214F}</dc:identifier>
+    <dc:date>1980-03-09T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2015-03-08</dc:date>
+    <dc:publisher>Okat Yayınevi</dc:publisher>
+    <meta content="Kan Damarlarında Yolculuk" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:series_index"/>
+    <meta content="{&quot;Isaac Asimov&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id24"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Kan Damarlarında Yolculuk</dc:title>
+<dc:subject>Bilimkurgu</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">224805d4-7906-4119-a1fb-2ef4b1799923</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/14.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/15.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/16.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/17.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/18.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id7" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="id24" media-type="image/jpeg"/>
+    <item href="Images/isaac.jpg" id="id25" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="id"/>
+    <itemref idref="id9"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.xhtml" type="cover"/>
+  </guide>
+</package>

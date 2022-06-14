@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Saramago, José">José Saramago</dc:creator>
+<dc:identifier id="uuid">{56A09085-18B4-4FBB-BE1C-4F8D693FB844}</dc:identifier>
+    <dc:date>2011-01-30T22:00:00+00:00</dc:date>
+    <dc:publisher>Kırmızı Kedi</dc:publisher>
+    <dc:description>&lt;p&gt;José Saramago ölümünden önce yazdığı ve yayımlandığı ülkelerde büyük tartışmalara yol açan son romanında insanlığın kutsal kitaplardaki başlangıcına geri dönüyor. 
+
+Adem ile Havva'nın oğlu, kardeş katili, "sürgün ve gezgin" Kabil'le çıkılan bu yolculuk, Eski Ahit'in loş ve tekinsiz diyarlarında, zaman ve mekân kavramlarını altüst ederek, süreğen bir şimdiki zaman içinde, edebiyatla felsefenin kesiştiği dar alanlarda dolaştırıyor okuru. 
+
+Suç, ceza, adalet, nefret, ihtiras gibi insana özgü kavramlar ile savaşlar, katliamlar, cinayetler, boyun eğmeler ve isyanlar gibi insana özgü eylemler arasında gidip gelirken, İbrahim'den Nuh'a, Adem ile Havva'dan Eyüb'e, Lilith'e kadar bütün kadim şahsiyetler de beklenmedik anlarda ve yerlerde karşımıza çıkıp insanlık panoramasını tamamlıyorlar. 
+
+Gerçeğin ironik, yalın ve dolaysız dilini kullanan Saramago bu son romanıyla bize tüm zamanların sorusunu miras bırakmış oluyor: İnsan türü evrendeki yerini ve varlığını hak etmiş midir?&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Kabil"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;José Saramago&quot;: &quot;&quot;}"/>
+  <dc:title>Kabil</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Din</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Yetişkin</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">990f1c2e-4547-4c6b-a3a0-b982e438cbe4</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789944756938</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

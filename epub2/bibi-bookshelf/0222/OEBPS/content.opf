@@ -1,0 +1,38 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Asimov, Isaac">Isaac Asimov</dc:creator>
+<meta content="Son Soru" name="calibre:title_sort"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="cover" content="cover"/>
+    <dc:description>&lt;p&gt;Isaac ASIMOV'un MULTIVAC (Multy-Analog-Computer) dizisinden olup 1956'da kaleme aldığı bu güzel öykü, insanlığın gelecekte nasıl bir evrensel şuur ve zihin olacağını ve yaratımı yeniden nasıl başlatacağını anlatması açısından ilginçtir.&lt;/p&gt;</dc:description>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="2015-01-14T16:42:20.044000+00:00" name="calibre:timestamp"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9d39fe50-db51-4c11-8082-7b0f1366eba4</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-01-16</dc:date>
+  <dc:title>Son Soru</dc:title>
+<dc:subject>Bilimkurgu</dc:subject>
+<dc:subject>Kısa Öykü</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Isaac Asimov&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d93aca75-408e-4cd1-aa40-45bd8f8236ac</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/index.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

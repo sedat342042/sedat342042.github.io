@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="d71c8f4e-3dda-4833-bb31-475254084ed8"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Şeker Portakalı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/index_split_003.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Nesneleri keşfederken</text>
+        </navLabel>
+        <content src="Text/index_split_004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Küçük bir şeker portakalı fidanı</text>
+        </navLabel>
+        <content src="Text/index_split_005.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Yoksulluğun cılız parmakları</text>
+        </navLabel>
+        <content src="Text/index_split_006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Kuş, okul ve çiçek</text>
+        </navLabel>
+        <content src="Text/index_split_007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>“Öldüğünü görmek istiyorum bir zindanda”</text>
+        </navLabel>
+        <content src="Text/index_split_008.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/index_split_009.xhtml#sigil_toc_id_2"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Yarasa</text>
+        </navLabel>
+        <content src="Text/index_split_010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Fetih</text>
+        </navLabel>
+        <content src="Text/index_split_011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Ufak tefek gevezelikler</text>
+        </navLabel>
+        <content src="Text/index_split_012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>İki unutulmaz dayak</text>
+        </navLabel>
+        <content src="Text/index_split_013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Sevgiyi oluşturan ufak tefek şeyler</text>
+        </navLabel>
+        <content src="Text/index_split_014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Mangaratiba</text>
+        </navLabel>
+        <content src="Text/index_split_015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>SON İTİRAF</text>
+        </navLabel>
+        <content src="Text/index_split_016.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>DİPNOT</text>
+      </navLabel>
+      <content src="Text/index_split_017.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

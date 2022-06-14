@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="2e78a11c-6d89-4565-bc8d-991226b542a4" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ursule Mirouet</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="a640112f-d91a-40c9-98c0-e2771e74e83a" playOrder="1">
+      <navLabel>
+        <text>Mutlu Son ve Tragedya</text>
+      </navLabel>
+      <content src="Text/balzac_split_003.html"/>
+    </navPoint>
+    <navPoint id="a1b70203-749c-4f5b-b71e-31efc0a40816" playOrder="2">
+      <navLabel>
+        <text>Matmazel Sophie Surville'e</text>
+      </navLabel>
+      <content src="Text/balzac_split_004.html"/>
+    </navPoint>
+    <navPoint id="5c1d92f8-f559-4a0d-aefe-5b9318bd0eb3" playOrder="3">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="Text/balzac_split_005.html"/>
+      <navPoint id="e770511f-a274-4cc9-aa05-5305326668dd" playOrder="4">
+        <navLabel>
+          <text>Etekleri Tutuşan Mirasçılar</text>
+        </navLabel>
+        <content src="Text/balzac_split_006.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="c3c3872e-b694-40ba-bc56-5f05135fcb40" playOrder="5">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/balzac_split_008.html"/>
+      <navPoint id="c31fbcd4-843f-4e69-95c7-f85f6c380591" playOrder="6">
+        <navLabel>
+          <text>Minoret'nin Mirası</text>
+        </navLabel>
+        <content src="Text/balzac_split_009.html"/>
+      </navPoint>
+      <navPoint id="2468f69f-174a-4041-ae56-8a83865350a6" playOrder="7">
+        <navLabel>
+          <text>EVLİLİK DIŞI KAYINBİRADERİM JOSEPH MIROUËT'YLEDINAH GROLLMAN'IN KIZI SEVGİLİ URSULE MIROUËT'YE</text>
+        </navLabel>
+        <content src="Text/balzac_split_010.html"/>
+      </navPoint>
+      <navPoint id="8744549e-e63f-48e4-997e-37c808d97c88" playOrder="8">
+        <navLabel>
+          <text>FONTAINEBLEAU MAHKEMESİ KATINDA SAYIN KRAL SAVCISINA</text>
+        </navLabel>
+        <content src="Text/balzac_split_011.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{41C46B48-8BCE-4F7D-894E-BF353002DBF4}" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Milan Kundera - Gulunesi Aşklar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>HİÇ KİMSE GÜLMEYECEK</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>SONSUZ ARZUNUN ALTIN ELMASI</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>OTOSTOP OYUNU</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>KOLOKYUM</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>YAŞLI ÖLÜLER YERLERİNİ GENÇ ÖLÜLERE BIRAKSINLAR</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>DR. HAVEL YİRMİ YIL SONRA</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>EDWARD İLE TANRI</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

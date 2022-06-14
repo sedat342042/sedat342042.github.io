@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <dc:identifier id="bookid" opf:scheme="uuid">144971e2-b45c-4fbd-b199-7eb3e6e452b8</dc:identifier>
+    <dc:title>Güneşin Tanrıları</dc:title>
+    <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:contributor opf:role="aut">Online Media Technologies Ltd.</dc:contributor>
+    <dc:subject>Bilimkurgu</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Uzay</dc:subject>
+    <dc:description>Solaria gezegeninde iki yüz yıldan bu yana ilk kez bir cinayet işlenmişti. Solaria teknolojik açıdan uzayın en gelişmiş ülkelerinden biriydi. Ve uygarlıklarının temeli de esirler değil robotlardı. Elijah Baley cinayetin esrarını çözmek üzere Solaria’ya çağırıldı. Kendi hükümeti de Elijah’tan bazı önemli sırları öğrenmesini istiyordu. Elijah Baley bu görevin güçlüklerini bilmekteydi. Ama Güneşin Tanrıları’nı hiç düşünmemişti.</dc:description>
+    <meta name="cover" content="id1000" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="Güneşin Tanrıları" name="calibre:title_sort" />
+    <meta content="Robot" name="calibre:series" />
+    <meta content="3.0" name="calibre:series_index" />
+    <meta content="8.0" name="calibre:rating" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Isaac Asimov&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:date opf:event="modification">2014-02-16</dc:date>
+  </metadata>
+  <manifest>
+    <opf:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/cover.xhtml" id="cover" media-type="application/xhtml+xml" />
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/image1.jpg" id="image1.jpg" media-type="image/jpeg" />
+    <item href="Text/content_1.xhtml" id="content_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" />
+    <itemref idref="content_1.xhtml" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="Section0003.xhtml" />
+    <itemref idref="Section0004.xhtml" />
+    <itemref idref="Section0005.xhtml" />
+    <itemref idref="Section0006.xhtml" />
+    <itemref idref="Section0015.xhtml" />
+    <itemref idref="Section0016.xhtml" />
+    <itemref idref="Section0017.xhtml" />
+    <itemref idref="Section0018.xhtml" />
+    <itemref idref="Section0014.xhtml" />
+    <itemref idref="Section0007.xhtml" />
+    <itemref idref="Section0008.xhtml" />
+    <itemref idref="Section0009.xhtml" />
+    <itemref idref="Section0010.xhtml" />
+    <itemref idref="Section0011.xhtml" />
+    <itemref idref="Section0012.xhtml" />
+    <itemref idref="Section0013.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/book_toc.xhtml#maintoc" title="Table of Contents" type="toc" />
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

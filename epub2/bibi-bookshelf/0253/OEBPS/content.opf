@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Steinbeck, John">John Steinbeck</dc:creator>
+<dc:identifier id="uuid">{B2657333-E925-48E1-8489-6C07279E2CB4}</dc:identifier>
+    <dc:publisher>Sel Yayıncılık</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;Pulitzer ve Nobei Edebiyat Ödülü’ne layık görülen John Steinbeck’in çağımızın toplumsal ve insani meselelerini ustalıkla resmettiği eserleri modern dünya edebiyatının başyapıtları arasında yer alır. Tomris Uyar’ın sunuş yazısında belirttiği gibi "İnsanoğlunun umudunun, var olma direncinin seyreldiği bir tarih anında olanca görkemiyle gerçek umudun türküsünü şsöylemiştir. Tozpembe olmayan gerçekçi bir umudun.” Bu nedenle eserleri edebi değerleri kadar güncelliklerini de hiç yitirmemiştir.&lt;/p&gt; &lt;p&gt;Bir Meksika halk hikayesinden esinlenmiş İnci, bir zamanlar İspanya Kralı’na büyük zenginlikler getiren bir koyda yaşayan fakir bir inci avcısının, Kino’nun ve ailesinin hikâyesini anlatır. Kino’nun çocuğunu kurtarmak umuduyla daldığı denizden çıkardığı eşi benzeri görülmemiş inci, yalnızca umut değil yıkım da getirecektir. İncinin özü insanların özüne; Kino’nun kulaklarında çınlayan ve kasabaya yayılan İncinin Türküsü, ailenin, kötülüğün, umudun ve düşmanlığın türküsüne karışacaktır.&lt;/p&gt; &lt;p&gt;Steinbeck, Kino’nun derinliklerden söküp çıkardığı inci ile içinde yaşadığımız dünyaya ve insanın dramına ışık tutuyor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2012-04-23T21:00:00+00:00</dc:date>
+    <meta content="İnci" name="calibre:title_sort"/>
+    <meta content="{&quot;John Steinbeck&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id4"/>
+    <meta content="0.8.6" name="Sigil version"/>
+  <dc:title>İnci</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">5039eb21-7b98-453a-8d9f-b701d73be0b7</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755705866</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/00.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/yay_bilgi.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/000.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/0000.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/arka_kapak.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="Images/cover1.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/cover2.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="Images/midye.png" id="id20" media-type="image/png"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="id6"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="id8"/>
+    <itemref idref="id18"/>
+    <itemref idref="id7"/>
+    <itemref idref="id9"/>
+    <itemref idref="id17"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id1"/>
+    <itemref idref="id16"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.xhtml" type="cover"/>
+  </guide>
+</package>

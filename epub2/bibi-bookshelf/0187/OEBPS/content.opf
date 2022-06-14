@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Toptaş, Hasan Ali">Hasan Ali Toptaş</dc:creator>
+<dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2006-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7d231437-4252-44d7-aba7-1e6ea3b95efa</dc:identifier>
+    <dc:date opf:event="modification">2015-01-23</dc:date>
+    <dc:description>&lt;p&gt;Metinlerini varoluş ve yokoluş üzerine kurarak varoluşçuluğu taşraya taşımasıyla özgünlük kazanan, tıpkı Kafka gibi sade dilinden yükselen müzikle giderek hayatı yazıya, yazıyı ise büyülü bir hayata benzeten bir yazar... 
+Yazma serüvenini “hayatı kelime kelime genişletmek” olarak adlandıran Hasan Ali Toptaş, metinlerini birer senfoniye de dönüştürerek, dışarıyla içerinin, görünenle iç dünyanın, gerçeklikle rüyaların, somutla soyutun çarpışmasından doğan tekinsiz bir atmosfere çağırıyor okurunu. Tam bir yazı ustalığıyla, Türkçenin imkânlarını sonuna kadar zorlayarak, edebiyatın büyülü dünyasına kapılar açarak...
+
+“Söylemeye gerek bile yok, ‘Ne anlatıyorsun?’ sorusu, oldukça hantal bir soru aslında. Ne zaman bu soruyla karşılaşsam, bir de ben, ‘Acaba hiçbir şey anlatmamış olmak mümkün müdür?’ diye soruyorum kendime. Doğrusu, hiçbir şey anlatmamış olmayı çok isterdim. Her şeyi ancak o zaman anlatmış olurdum çünkü.”
+“Toptaş, Doğu’dan çıkmış, İslâmi mistisizmin edebi kazanımlarıyla zenginleşmiş bir Kafka’dır.”
+Frankfurter Allgemeine Zeitung&lt;/p&gt;</dc:description>
+    <meta content="Harfler Ve Notalar" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="2015-01-19T22:11:39.961000+00:00" name="calibre:timestamp"/>
+    <meta content="{&quot;Hasan Ali Toptaş&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  <dc:title>Harfler Ve Notalar</dc:title>
+<dc:subject>Ruhsal</dc:subject>
+<dc:subject>Dil</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">398a60fc-14a9-48a0-8d4c-683b804f9872</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750506185</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">7694120</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Fonts/Georgia-Bold-Italic.ttf" id="font3" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Georgia-Bold.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Georgia-Italic.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Georgia.ttf" id="font" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

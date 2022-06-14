@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:6d782ad3-e616-471c-b276-ab8ccabd3f22" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ölüler Evinden Anılar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/2-1.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>I: Hastane</text>
+        </navLabel>
+        <content src="Text/2-1.html#toc_marker-2-1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/2.html"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Giriş</text>
+        </navLabel>
+        <content src="Text/2.html#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>I: Ölüler Evi</text>
+        </navLabel>
+        <content src="Text/Section0001.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>II: İlk İzlenimler</text>
+        </navLabel>
+        <content src="Text/Section0002.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>III: İlk İzlenimler</text>
+        </navLabel>
+        <content src="Text/Section0003.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>IV: İlk İzlenimler</text>
+        </navLabel>
+        <content src="Text/Section0004.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>V: Birinci Ay</text>
+        </navLabel>
+        <content src="Text/Section0005.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VI: Birinci Ay</text>
+        </navLabel>
+        <content src="Text/Section0006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>VII: Yeni Ahbaplıklar – Petrov</text>
+        </navLabel>
+        <content src="Text/Section0007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>VIII: Azimli Adamlar – Luçka</text>
+        </navLabel>
+        <content src="Text/Section0008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>IX: İsay Fomiç Hamam – Bakluşin’in Hikâyesi</text>
+        </navLabel>
+        <content src="Text/Section0009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>X: Noel Bayramı</text>
+        </navLabel>
+        <content src="Text/Section0010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>XI: Müsamere</text>
+        </navLabel>
+        <content src="Text/Section0011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>II: Hastane</text>
+        </navLabel>
+        <content src="Text/Section0012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>III: Hastane</text>
+        </navLabel>
+        <content src="Text/Section0013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>IV: Akulka’nın Kocası –Hikâye–</text>
+        </navLabel>
+        <content src="Text/Section0014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>V: Yaz Mevsimi</text>
+        </navLabel>
+        <content src="Text/Section0015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>VII: Şikâyet</text>
+        </navLabel>
+        <content src="Text/Section0016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>VIII: Arkadaşlar</text>
+        </navLabel>
+        <content src="Text/Section0017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>IX: Kaçış</text>
+        </navLabel>
+        <content src="Text/Section0018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>X: Hapisten Çıkış</text>
+        </navLabel>
+        <content src="Text/Section0019.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

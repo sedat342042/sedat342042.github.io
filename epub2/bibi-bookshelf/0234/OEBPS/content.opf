@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+<dc:identifier id="uuid">{29F456E9-D653-4C87-BA76-5591C60E32AF}</dc:identifier>
+    <dc:date>2015-01-30T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;San Francisco'da yaşayan Joe, kendini bir türlü derslerine veremeyen, arkadaşlarıyla sokak sokak gezmeyi sınavlara çalışmaya yeğleyen bir gençtir. Yaşamı sıradan, sıkıcı bulur, hep daha fazlasını bekler. Dolu dolu yaşamak ister ve günlerini çeşitli maceralara atılarak geçirenlere özenir. Kız kardeşinin okulda kendisinden daha başarılı olmasını, babasının hayal kırıklığını dile getirmesini kaldıramayan Joe, evden kaçarak denizci olmaya karar verir fakat kendini korsanların arasında bulur. Denizin Çağrısı, nefes aldığı her ânın tadını çıkarmak isteyen memnuniyetsiz bir gencin hayata ve yaşama dair farkındalık kazanma sürecini anlatıyor. Jack London'ın diğer birçok eserinde olduğu gibi, denize, denizciliğe dair ustaca gözlemler içeren roman, okurlara deli dolu bir gençlik hikâyesi sunuyor.
+(Tanıtım Bülteninden)
+&lt;/p&gt;</dc:description>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Denizin Çağrısı"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jack London&quot;: &quot;&quot;}"/>
+  <dc:title>Denizin Çağrısı</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0d93adf4-9df0-4a5a-b90e-827766996cac</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750722356</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-title.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-bio.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-intro.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/DC.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Steinbeck, John">John Steinbeck</dc:creator>
+<dc:identifier id="uuid">{096BDF65-5DB8-49BE-A6AC-9A985EBE3B10}</dc:identifier>
+    <dc:publisher>Varlık Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Kuşaklar boyu büyük trapezciler yetiştirmiş bir ailenin son bireyi Joe Saul'un, geçip giden yıllara karşın bir türlü çocuğu olmaz. Genç ve güzel eşiyle aralarında güçlü bir sevgi bağı bulunmakla birlikte, çocuksuzluğun acısı ikisini de sarsar. Üstün yetenekleri olan soyunun kuruyacağı korkusu, günden güne çökertir onu. Bir de, genç akrobat Viktor'un gizli bir ilişkiyle yaşamlarına girmesi, beklenmedik bunalımlar, trajik sonuçlar doğurur. Kolay çözümlenebilecek bir düğüm değildir olup bitenler. Steinbeck, en güçlü yapıtlarından biri olan Alev'de, insanoğlunun soyunu sürdürme tutkusunu roman-oyun dediği yeni bir yazın türüyle işliyor.&lt;/p&gt;</dc:description>
+    <dc:date>1951-04-23T21:00:00+00:00</dc:date>
+    <meta content="Alev" name="calibre:title_sort"/>
+    <meta content="{&quot;John Steinbeck&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id"/>
+    <meta content="0.8.6" name="Sigil version"/>
+  <dc:title>Alev</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">9b19f1a1-1a50-48ba-a63f-665350d18212</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/yay_bilgi.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/00.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/arka_kapak.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="Images/cover1.jpg" id="id" media-type="image/jpeg"/>
+    <item href="Images/cover2.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/John_Steinbeck.jpeg" id="id5" media-type="image/jpeg"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="id6"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="id7"/>
+    <itemref idref="id1"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.xhtml" type="cover"/>
+  </guide>
+</package>

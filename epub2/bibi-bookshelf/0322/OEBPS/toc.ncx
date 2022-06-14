@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:c12ae27a-dc17-4616-bfa9-75f3cf9fd8fb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Eylembilim</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>OĞUZ ATAY'A EYLEMBİLİM'LE İLGİLİ MEKTUP</text>
+      </navLabel>
+      <content src="Text/Mektup.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Bolum1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/Bolum2.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>İlk günler</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/Bolum3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/Bolum4.xhtml"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Sonra olanlar</text>
+        </navLabel>
+        <content src="Text/Bolum4.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

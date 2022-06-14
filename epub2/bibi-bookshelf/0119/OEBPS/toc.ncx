@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:5dfa30f2-8dc8-42bf-9dc1-984e721351a0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Erken Kaybedenler</text>
+      </navLabel>
+      <content src="Text/BuyukBaslik.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>ANNEANNEMİN SON ÖLÜMÜ</text>
+        </navLabel>
+        <content src="Text/AnneanneminSonOlumu.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>ZANNETTİĞİN GİBİ DEĞİL</text>
+        </navLabel>
+        <content src="Text/ZannettiginGibiDegil.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>KORHAN AĞBİ'NİN KARDEŞİ</text>
+        </navLabel>
+        <content src="Text/KorhanAgbininKardesi.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>DENİZİN ÇAĞRISI</text>
+        </navLabel>
+        <content src="Text/DenizinCagrisi.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>ÜST KATTAKİ TERÖRİST</text>
+        </navLabel>
+        <content src="Text/UstKattakiTerorist.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>ALÇAK GÖNÜLLÜ ARZULAR</text>
+        </navLabel>
+        <content src="Text/AlcakgonulluArzular.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>KİMİ SEVSEM ÇIKMAZI</text>
+        </navLabel>
+        <content src="Text/KimiSevsemCikmazi.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

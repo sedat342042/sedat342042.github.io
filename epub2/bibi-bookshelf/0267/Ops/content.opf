@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>CENUP YILDIZI</dc:title>
+<dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
+<dc:date>2013-07-14</dc:date>
+<dc:identifier id="BookId">AWP-0C027EFD-C029-4748-A0F3-F89D5DD543FA</dc:identifier>
+<dc:language>tr</dc:language>
+<meta name="cover" content="cover"/>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="style" href="style.css" media-type="text/css"/>
+<item id="coverstyle" href="cover.css" media-type="text/css"/>
+<item id="id001" href="001.html" media-type="application/xhtml+xml"/>
+<item id="id002" href="002.html" media-type="application/xhtml+xml"/>
+<item id="id003" href="003.html" media-type="application/xhtml+xml"/>
+<item id="idfont1" href="fonts/calibrib.ttf" media-type="application/vnd-ms-opentype"/>
+<item id="idfont2" href="fonts/calibri.ttf" media-type="application/vnd-ms-opentype"/>
+<item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="id001" linear="no"/>
+<itemref idref="id002"/>
+<itemref idref="id003"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover" href="001.html"/>
+</guide>
+</package>

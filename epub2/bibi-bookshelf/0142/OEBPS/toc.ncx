@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="urn:uuid:730d9fe2-ef31-442f-a2e5-967d8e28a069" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (1.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Beyaz Geceler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9855e5e2-de57-40ca-955d-ddf1a99ead4d" playOrder="1">
+      <navLabel>
+        <text>Beyaz Geceler - Başkasının Karısı</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="u6a065afa-1b7a-4fd9-90ef-b2a1059968ae" playOrder="2">
+      <navLabel>
+        <text>Beyaz Geceler</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+      <navPoint id="u3c8fc44b-b2a5-4dc3-8a82-e1b52c893428" playOrder="3">
+        <navLabel>
+          <text>Birinci Gece</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml"/>
+      </navPoint>
+      <navPoint id="ufc63a7cc-fc94-4f65-b211-857f25f0387f" playOrder="4">
+        <navLabel>
+          <text>İkinci Gece</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml"/>
+        <navPoint id="uc7b46858-d45b-431c-bf71-2d25dba5d7f6" playOrder="5">
+          <navLabel>
+            <text>Nastenka'nın Hikayesi</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="u65b54385-1867-4ab2-9874-4c9524b3f5e2" playOrder="6">
+        <navLabel>
+          <text>Üçüncü Gece</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml"/>
+      </navPoint>
+      <navPoint id="u49b7b09b-4eec-4285-93a2-f967983cf75f" playOrder="7">
+        <navLabel>
+          <text>Dördüncü Gece</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml"/>
+        <navPoint id="u2a8d14f1-39d4-4324-9e05-676e31e5ed76" playOrder="8">
+          <navLabel>
+            <text>Sabah</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uc0f2f7e8-5419-418e-a775-a34b208ef17e" playOrder="9">
+      <navLabel>
+        <text>Başkasının Karısı</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+      <navPoint id="u8ebd01b3-2eed-4042-816a-132b93a94565" playOrder="10">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml"/>
+      </navPoint>
+      <navPoint id="u5f50dce1-e074-49f9-b243-e8a5864a8f07" playOrder="11">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u0eebd842-39c8-431d-856f-76d016a6a088" playOrder="12">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

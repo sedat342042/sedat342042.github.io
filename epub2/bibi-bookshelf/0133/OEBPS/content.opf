@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:daf4b30a-f9d7-42c7-a7cc-f7065ef360a7</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div style="text-align: justify; margin: 0 0 0.5em;"&gt;İlk kez 1915'te "Die Weissen Blaetter" adlı aylık dergide yayımlanan Dönüşüm, Kafka'nın en uzun ve en tanınmış öyküsüdür ve yayımlanmasının üzerinden neredeyse bir asır geçmesine rağmen hâlâ tüm dünyada en çok okunan kitaplar arasındadır.&lt;/div&gt;&lt;div style="text-align: justify; margin: 0 0 0.5em;"&gt;17 Ekim 1912'de Felice Bauer'e gönderdiği mektupta Kafka, Amerika romanı üzerinde çalıştığını, ilerleyemediğini görünce sıkıldığını ve yataktan kalkamaz hale geldiğini, bu nedenle bir öykü yazarak ara vermek istediğini yazar. Dönüşüm işte böyle ortaya çıkar.&lt;/div&gt;&lt;div style="text-align: justify;"&gt;Kumaş pazarlamacısı olan Gregor Samsa'nın uykusundan kocaman bir böceğe dönüşerek uyanmasıyla başlayan Dönüşüm, giderek gerçeklikle kurmacanın sınırlarını zorlayan müthiş bir anlatıma dönüşür.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2013-09-02T21:00:00+00:00</dc:date>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Franz Kafka&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="26.0" name="calibre:series_index"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="10.0" name="calibre:rating"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2014-09-02T16:34:53.955000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Dönüşüm (İş Bankası)" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{}" name="calibre:user_categories"/>
+    <dc:title>Dönüşüm (İş Bankası)</dc:title>
+<dc:subject>Alman Edebiyatı</dc:subject>
+<dc:subject>Dünya Klasikleri</dc:subject>
+<dc:subject>Öykü</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">927ecabf-ebba-4c7c-9ffb-40c0e0d11170</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053609322</dc:identifier>
+<meta name="calibre:user_metadata:#tags" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 25, &quot;search_terms&quot;: [&quot;#tags&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {&quot;cache_to_list&quot;: &quot;|&quot;, &quot;list_to_ui&quot;: &quot;, &quot;, &quot;ui_to_list&quot;: &quot;,&quot;}, &quot;is_multiple&quot;: &quot;|&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: [], &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;tags&quot;, &quot;display&quot;: {&quot;is_names&quot;: false}, &quot;name&quot;: &quot;Etiketlerim&quot;}"/>
+        <meta name="calibre:user_metadata:#isbn" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#isbn&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;isbn&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{identifiers:select(isbn)}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;composite_sort&quot;: &quot;text&quot;, &quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;ISBN&quot;}"/>
+        <meta name="calibre:user_metadata:#mrating" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 4, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 24, &quot;search_terms&quot;: [&quot;#mrating&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;mrating&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_4&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Meritokrasi&quot;}"/>
+        <meta name="calibre:user_metadata:#rating" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 3, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#rating&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;rating&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;My Rating&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/donusum_000.xhtml" id="donusum_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_001.xhtml" id="donusum_001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_002.xhtml" id="donusum_002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_003.xhtml" id="donusum_003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_101.xhtml" id="donusum_101.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_102.xhtml" id="donusum_102.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_103.xhtml" id="donusum_103.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/donusum.jpg" id="donusum.jpg" media-type="image/jpeg"/>
+    <item href="Images/isbankasi.jpg" id="isbankasi.jpg" media-type="image/jpeg"/>
+    <item href="Images/isbankasi2.jpg" id="isbankasi2.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="donusum_000.xhtml"/>
+    <itemref idref="donusum_001.xhtml"/>
+    <itemref idref="donusum_002.xhtml"/>
+    <itemref idref="donusum_003.xhtml"/>
+    <itemref idref="donusum_101.xhtml"/>
+    <itemref idref="donusum_102.xhtml"/>
+    <itemref idref="donusum_103.xhtml"/>
+  </spine>
+</package>

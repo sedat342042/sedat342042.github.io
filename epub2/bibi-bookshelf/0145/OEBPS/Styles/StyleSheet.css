@@ -1,0 +1,14 @@
+@page {
+  margin-right: 5pt;
+  margin-top: 5pt;
+  margin-left: 5pt;
+  margin-bottom: 5pt;
+  }
+h1, h2, h3 {
+  text-align: center;
+  font-size: 1.5em;
+}
+p {
+  text-align: justify;
+  text-indent: 1.5em;
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Tahir, Kemal">Kemal Tahir</dc:creator>
+<dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:date>2005-12-09T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e298df60-3aea-48c9-80ab-1c02f48034bb</dc:identifier>
+    <dc:date opf:event="modification">2014-12-21</dc:date>
+    <dc:description>&lt;p&gt;Esir Şehir Üçlemesi'nde Millicileri İşgal Kuvvetleri'nin baskısı altındaki İstanbul'da anlatan Kemal Tahir, 'Yorgun Savaşçı'da onları Anadolu'ya gönderir. 'Yol Ayrımı'nda yan karakterlerden biri olarak karşımıza çıkan Cehennem Topçu Cemil, 'Yorgun Savaşçı'nın baş kahramanıdır. İstanbul'a geldiğinden beri, bir türlü üzerinden atamadığı yorgunluğu sanki dinlendikçe çoğalan Cemil, bir yandan aşık olup evlendiği teyze kızı Neriman ile her şeyi bırakıp uzakta bör köyde yaşamayı isteycek kadar bıkkın; diğer yandan Anadolu'ya geçip Milli Mücadele'de ön saflardayer almayı isteyecek kadar da cesurdur.
+
+1919 ve 1920 yıllarında İstanbul'daki örgütlenmeleri ve Anadolu direnişini anlatan 'Yorgun Savaşçı', Cumhuriyet'in kuruluşuna giden sürecin romanı olarak da okunabilir.
+&lt;/p&gt;</dc:description>
+    <meta content="Yorgun Savaşçı" name="calibre:title_sort"/>
+    <meta content="2014-11-16T20:02:42+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kemal Tahir&quot;: &quot;&quot;}"/>
+  <dc:title>Yorgun Savaşçı</dc:title>
+<dc:subject>Cumhuriyet Dönemi</dc:subject>
+<dc:subject>Roman</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">03ae4277-e454-46b3-9396-df6c0fe27d1a</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752731608</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/YS01.html" id="YS01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/YS02.html" id="YS02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/YS03.html" id="YS03.html" media-type="application/xhtml+xml"/>
+    <item href="Text/YS04.html" id="YS04.html" media-type="application/xhtml+xml"/>
+    <item href="Text/YS05.html" id="YS05.html" media-type="application/xhtml+xml"/>
+    <item href="Text/YS06.html" id="YS06.html" media-type="application/xhtml+xml"/>
+    <item href="Text/YS07.html" id="YS07.html" media-type="application/xhtml+xml"/>
+    <item href="Text/YS08.html" id="YS08.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/YS04_split1.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/YS07_split1.html" id="id1" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="YS01.html"/>
+    <itemref idref="YS02.html"/>
+    <itemref idref="YS03.html"/>
+    <itemref idref="YS04.html"/>
+    <itemref idref="id"/>
+    <itemref idref="YS05.html"/>
+    <itemref idref="YS06.html"/>
+    <itemref idref="YS07.html"/>
+    <itemref idref="id1"/>
+    <itemref idref="YS08.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

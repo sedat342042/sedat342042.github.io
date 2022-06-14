@@ -1,0 +1,21 @@
+.MsoPlainText {
+    display: block;
+    font-family: Consolas;
+    font-size: 0.77419em;
+    margin: 0 0 0.0001pt
+    }
+.Section {
+    display: block;
+    page: Section1
+    }
+.calibre {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-family: "Calibri", "sans-serif"
+    }

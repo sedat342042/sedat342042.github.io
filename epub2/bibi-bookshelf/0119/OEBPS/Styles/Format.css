@@ -1,0 +1,20 @@
+h1 {
+  font-size: 350%;
+  text-align: center;
+  font-family: "New Century Schoolbook", Times, sans-serif;
+  font-weight: bold;
+}
+h2 {
+  font-size: 150%;
+  text-align: center;
+  padding-bottom: 4em;
+}
+span.alt {
+  font-size: 140%;
+  text-align: center;
+  text-decoration: none;
+}
+p {
+  text-indent: 1em;
+  text-align: justify;
+}

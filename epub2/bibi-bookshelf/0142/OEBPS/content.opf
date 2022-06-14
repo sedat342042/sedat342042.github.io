@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Dostoyevski, Fyodor Mihailoviç">Fyodor Mihailoviç Dostoyevski</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:730d9fe2-ef31-442f-a2e5-967d8e28a069</dc:identifier>
+    <dc:date>2002-01-14T22:00:00+00:00</dc:date>
+    <dc:publisher>Varlık Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Beyaz Geceler büyük romancı Dostoyevski'nin bütün dillere çevrilerek çok sevilmiş en ünlü yapıtlarından birisidir. Gençlik yıllarının ürünlerinden olan bu kitapta yazar, ancak genç ruhlarda yaşayabilen saf ve büyük aşkların unutulmaz örneklerinden birini veriyor. Şiirsel bir hava içinde geçen öyküde, artık çağımızın malı olmaktan çıkmış, bununla birlikte, yeryüzünde insanlar yaşadıkça varolacak ateşli bir ruh çoşkunluğunun canlı bir anlatımını bulacaksınız.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="0.7.3" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Beyaz Geceler"/>
+    <meta name="calibre:author_link_map" content="{&quot;Fyodor Mihailoviç Dostoyevski&quot;: &quot;&quot;}"/>
+    <meta name="calibre:timestamp" content="2014-02-24T02:43:02.961000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Beyaz Geceler</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Dünya Klasikleri</dc:subject>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:subject>Öykü</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8d52aaca-6bd5-47b7-80ad-6bd8a9218b73</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754340549</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="../titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="../cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="../titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

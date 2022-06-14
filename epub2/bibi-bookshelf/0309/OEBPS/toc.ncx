@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="b39b6d4a-c73e-4fdd-89ab-2315b109e6fe" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Denemeler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ 1</text>
+      </navLabel>
+      <content src="Text/Section0121.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ÖNSÖZ 2</text>
+      </navLabel>
+      <content src="Text/Section0115.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ÖNSÖZ 3</text>
+      </navLabel>
+      <content src="Text/Section0116.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ÖNSÖZ 4</text>
+      </navLabel>
+      <content src="Text/Section0117.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>MONTAIGNE’İN YAŞAMI</text>
+      </navLabel>
+      <content src="Text/Section0118.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>MONTAIGNE ÜZERİNE DÜŞÜNCELER</text>
+      </navLabel>
+      <content src="Text/Section0119.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>OKUYUCUYA</text>
+      </navLabel>
+      <content src="Text/index_split_001.html" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>KENDİSİ</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>DENEMELERİN KONUSU</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>KENDİMİZİ TANIMAK</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>NASIL YAZMALI</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>HAYAT VE FELSEFE</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>YASALAR ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>BİLGİ VE DÜŞÜNCE</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>YAŞAMAK VE ÇALIŞMAK</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>RUH VE BEDEN</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>İNSAN VE ÖTESİ</text>
+      </navLabel>
+      <content src="Text/Section0120.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>EVİNİ KORUMA</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>DOSTLUK</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>YALNIZLIK</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>DEVRİM</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>PARİS</text>
+      </navLabel>
+      <content src="Text/Section0123.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>ÇEVİRİ</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>İNSAN DOĞASI</text>
+      </navLabel>
+      <content src="Text/Section0016.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>İNSANIN GÜÇSÜZLÜĞÜ</text>
+      </navLabel>
+      <content src="Text/Section0017.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>TANRILAR ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0018.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>FİLOZOFLAR VE TANRILAR</text>
+      </navLabel>
+      <content src="Text/Section0020.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>ARAMA SEVGİSİ</text>
+      </navLabel>
+      <content src="Text/Section0021.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>MUTLULUK ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0124.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>AMERİKA’NIN BULUNUŞU</text>
+      </navLabel>
+      <content src="Text/Section0022.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>VİCDAN ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0023.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>KENDİ KENDİSİYLE YETİNME</text>
+      </navLabel>
+      <content src="Text/Section0024.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>İYİ AMAÇ UĞRUNA KÖTÜ YOLLAR</text>
+      </navLabel>
+      <content src="Text/Section0125.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>DOĞAYA UYMA</text>
+      </navLabel>
+      <content src="Text/Section0026.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>İNSAN AKLI</text>
+      </navLabel>
+      <content src="Text/Section0027.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>ÖZGÜRLÜK ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0029.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>ÖLÜM</text>
+      </navLabel>
+      <content src="Text/Section0030.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>YAŞAYAN ÖLÜLER</text>
+      </navLabel>
+      <content src="Text/Section0031.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>KÖKLEŞEN YANILMALAR</text>
+      </navLabel>
+      <content src="Text/Section0032.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>İNSAN ÖMRÜ</text>
+      </navLabel>
+      <content src="Text/Section0033.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>VARLIK VE İNSAN</text>
+      </navLabel>
+      <content src="Text/Section0034.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>ÖLÇÜ</text>
+      </navLabel>
+      <content src="Text/Section0035.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>TARTIŞMALAR</text>
+      </navLabel>
+      <content src="Text/Section0036.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>GERÇEK NEDENLER</text>
+      </navLabel>
+      <content src="Text/Section0037.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>KORKU ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0038.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>KENDİNE ACINDIRMAK</text>
+      </navLabel>
+      <content src="Text/Section0039.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>ALIŞKANLIK</text>
+      </navLabel>
+      <content src="Text/Section0040.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>HAYAT VE BİLİM</text>
+      </navLabel>
+      <content src="Text/Section0041.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>YAMYAMLAR ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0042.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>BİRİNE YARAR ÖTEKİNE ZARAR</text>
+      </navLabel>
+      <content src="Text/Section0043.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>AKIL ERDİREMEDİĞİMİZ GERÇEKLER</text>
+      </navLabel>
+      <content src="Text/Section0044.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>BABALAR VE ÇOCUKLAR</text>
+      </navLabel>
+      <content src="Text/Section0045.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>DİZGİNSİZ TUTKULAR</text>
+      </navLabel>
+      <content src="Text/Section0046.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>DEĞİŞEN DİL VE İNSAN</text>
+      </navLabel>
+      <content src="Text/Section0047.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>ÖLDÜRME TEHLİKESİNE KARŞI</text>
+      </navLabel>
+      <content src="Text/Section0048.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>ÖLMEK ÖZGÜRLÜĞÜ</text>
+      </navLabel>
+      <content src="Text/Section0049.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>GÜLMEK VE AĞLAMAK</text>
+      </navLabel>
+      <content src="Text/Section0050.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>HAİNLERE HIYANET</text>
+      </navLabel>
+      <content src="Text/Section0051.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>SAĞLIK ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0126.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>İNSANIN KARARSIZLIĞI</text>
+      </navLabel>
+      <content src="Text/Section0055.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>RUH EŞİTLİĞİ</text>
+      </navLabel>
+      <content src="Text/Section0056.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>DÜNYANIN BİZE GÖRELİĞİ</text>
+      </navLabel>
+      <content src="Text/Section0057.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>HEKİMLİK ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0058.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>İNSAN BİLGİSİ</text>
+      </navLabel>
+      <content src="Text/Section0060.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>DİL ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0061.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>KİTAP VE YAŞAM</text>
+      </navLabel>
+      <content src="Text/Section0062.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>KİTAPLARIN DEĞERİ</text>
+      </navLabel>
+      <content src="Text/Section0063.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>DÜŞÜNCE GELENEKLERİ</text>
+      </navLabel>
+      <content src="Text/Section0064.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>SÖZ ÖZGÜRLÜĞÜ</text>
+      </navLabel>
+      <content src="Text/Section0065.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>VİCDAN ÖZGÜRLÜĞÜ</text>
+      </navLabel>
+      <content src="Text/Section0066.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>KİTAPLAR</text>
+      </navLabel>
+      <content src="Text/Section0067.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>DÜNYA YURTTAŞLIĞI</text>
+      </navLabel>
+      <content src="Text/Section0068.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>BAŞTAKİLER VE BİZ</text>
+      </navLabel>
+      <content src="Text/Section0069.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>YABANCIDAN KAÇINMA</text>
+      </navLabel>
+      <content src="Text/Section0070.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>HALK VE KRAL</text>
+      </navLabel>
+      <content src="Text/Section0071.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>PAZARLIK</text>
+      </navLabel>
+      <content src="Text/Section0072.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>SAVAŞ ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0073.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>BİLGELİK VE MUTLULUK</text>
+      </navLabel>
+      <content src="Text/Section0074.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>ÖFKE ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0075.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>KÖRÜ KÖRÜNE İNANMAK</text>
+      </navLabel>
+      <content src="Text/Section0076.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>ÖDEMELİ KÖTÜLÜK</text>
+      </navLabel>
+      <content src="Text/Section0077.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>BİTKİ VE İNSAN</text>
+      </navLabel>
+      <content src="Text/Section0078.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>ARAMIZDAKİ EŞİTSİZLİK</text>
+      </navLabel>
+      <content src="Text/Section0079.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>HER ŞEYİN GÖRECELİĞİ</text>
+      </navLabel>
+      <content src="Text/Section0080.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>NASIL KONUŞMALI</text>
+      </navLabel>
+      <content src="Text/Section0081.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>İYİLERİN EN İYİSİ</text>
+      </navLabel>
+      <content src="Text/Section0082.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>YAŞAMAK SANATI</text>
+      </navLabel>
+      <content src="Text/Section0084.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>ROMALI VE OSMANLI BÜYÜKLÜĞÜ</text>
+      </navLabel>
+      <content src="Text/Section0085.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>BİLGİ VE İNANÇ</text>
+      </navLabel>
+      <content src="Text/Section0086.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>ESER VE ÇOCUK</text>
+      </navLabel>
+      <content src="Text/Section0087.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-91" playOrder="91">
+      <navLabel>
+        <text>HÜZÜN DÜŞKÜNLÜĞÜ</text>
+      </navLabel>
+      <content src="Text/Section0088.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>ŞİİR ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0089.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>EĞİTİM VE HALK</text>
+      </navLabel>
+      <content src="Text/Section0090.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>GERÇEKÜSTÜ KANDIRMACALARI</text>
+      </navLabel>
+      <content src="Text/Section0091.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-95" playOrder="95">
+      <navLabel>
+        <text>YARARLI VE GÜZEL ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0092.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>SEVENLER VE SEVİLENLER</text>
+      </navLabel>
+      <content src="Text/Section0093.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>ÖLÜMÜN TADINA VARMAK</text>
+      </navLabel>
+      <content src="Text/Section0094.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>YAŞAMA BAĞLILIK</text>
+      </navLabel>
+      <content src="Text/Section0095.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>HERKESİN DEĞERİ KENDİNE GÖRE</text>
+      </navLabel>
+      <content src="Text/Section0096.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>ZORLUĞUN DEĞERİ</text>
+      </navLabel>
+      <content src="Text/Section0097.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>DÜŞÜNMEDE KENDİNDENLİK</text>
+      </navLabel>
+      <content src="Text/Section0098.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-102" playOrder="102">
+      <navLabel>
+        <text>EFENDİLER VE UŞAKLAR</text>
+      </navLabel>
+      <content src="Text/Section0099.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-103" playOrder="103">
+      <navLabel>
+        <text>PEŞİN VE KESİN YARGILARA KARŞI</text>
+      </navLabel>
+      <content src="Text/Section0100.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-104" playOrder="104">
+      <navLabel>
+        <text>BİLMEDİĞİNİ SÖYLEYEBİLME</text>
+      </navLabel>
+      <content src="Text/Section0101.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-105" playOrder="105">
+      <navLabel>
+        <text>BÜYÜKLÜK VE İNSANCALIK</text>
+      </navLabel>
+      <content src="Text/Section0102.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>KENDİ ZENGİNLİĞİMİZ</text>
+      </navLabel>
+      <content src="Text/Section0103.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-107" playOrder="107">
+      <navLabel>
+        <text>TÜRK ORDULARINDAKİ DİSİPLİN</text>
+      </navLabel>
+      <content src="Text/Section0104.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-108" playOrder="108">
+      <navLabel>
+        <text>ÖLÜME HAZIRLANMA</text>
+      </navLabel>
+      <content src="Text/Section0105.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-109" playOrder="109">
+      <navLabel>
+        <text>ÇİRKİNLİK ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0106.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>CİNSEL EYLEM ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/Section0107.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-111" playOrder="111">
+      <navLabel>
+        <text>İNSANA GÜVEN GÖSTERMENİN YARARI</text>
+      </navLabel>
+      <content src="Text/Section0108.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-112" playOrder="112">
+      <navLabel>
+        <text>KENDİNİ ÖLDÜRME</text>
+      </navLabel>
+      <content src="Text/Section0109.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-113" playOrder="113">
+      <navLabel>
+        <text>BÜYÜK EYLEMLER VE YAŞ</text>
+      </navLabel>
+      <content src="Text/Section0110.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-114" playOrder="114">
+      <navLabel>
+        <text>SAKLANAN KÖTÜLÜKLER</text>
+      </navLabel>
+      <content src="Text/Section0111.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-115" playOrder="115">
+      <navLabel>
+        <text>KİTAPLAR VE İNSANLAR</text>
+      </navLabel>
+      <content src="Text/Section0112.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-116" playOrder="116">
+      <navLabel>
+        <text>MUTLULUĞUN BİZE GÖRELİĞİ</text>
+      </navLabel>
+      <content src="Text/Section0113.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

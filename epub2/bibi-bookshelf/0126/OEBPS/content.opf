@@ -1,0 +1,89 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:752f8924-5853-41e8-ac0e-5ec4f5ae673c</dc:identifier>
+    <dc:date>1998-01-10T22:00:00+00:00</dc:date>
+    <meta name="cover" content="_kapak.jpeg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Aforizmalar" name="calibre:title_sort"/>
+    <dc:publisher>Altıkırkbeş Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;div&gt;&lt;div style="text-align: center; "&gt;Dünyada korku, acı ve yalnızlığın varlığını algılayabiliyor, ama bunları da yüzeye sürtünüp geçerlermiş gibi bulanık olarak anlayabiliyoruz...&lt;/div&gt;&lt;div style="text-align: center; "&gt;Bütün öbür duyguları yok sayıyor; bizim duygu olarak nitelendirdiklerimizi, kuruntu, peri masalı anılarımızın ve bilgilerimizin yansıması olarak görüyoruz...&lt;/div&gt;&lt;div style="text-align: center; "&gt;Çünkü duygularımız, bırakalım olayların karşısına çıkmayı, onlara yetişemiyor bile.&lt;/div&gt;&lt;div style="text-align: center; "&gt;Akıl almaz bir hızla, kuşlar gibi gelip geçen olaylardan önce ya da sonra yaşıyoruz duyguları; onlar düşsü duygulardır ve sadece bizimle sınırlıdırlar. Gece yarısının ıssızlığında yaşıyoruz, gündoğumunu ve günbatımını doğuya ve batıya dönerek hissediyoruz...&lt;/div&gt;&lt;div style="text-align: center; "&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align: center; "&gt;Arşimet noktasını buldu, ama kendisine karşı kullandı onu; anlaşılan bu koşulla keşfetmesine izin verilmişti.&lt;/div&gt;&lt;div style="text-align: center; "&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align: center; "&gt;&lt;b&gt;6:45 okuru, kuyunun en karanlık yerindesin ve yalnızca boşluğa gülümseyebilirsin...&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Franz Kafka&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-08-07</dc:date>
+  <dc:title>Aforizmalar</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Düşünce</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">6fe24120-79c8-44b3-8a40-6765b5e4c454</dc:identifier>
+<dc:identifier opf:scheme="AKBN">970917211057XFX</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:752f8924-5853-41e8-ac0e-5ec4f5ae673c</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+    <item href="Images/3.jpg" id="x3.jpg" media-type="image/jpeg"/>
+    <item href="Images/4.jpg" id="x4.jpg" media-type="image/jpeg"/>
+    <item href="Images/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/5.jpg" id="x5.jpg" media-type="image/jpeg"/>
+    <item href="Images/6.jpg" id="x6.jpg" media-type="image/jpeg"/>
+    <item href="Images/7.jpg" id="x7.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.xhtml" id="Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.xhtml" id="Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.xhtml" id="Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/8.jpg" id="x8.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0022.xhtml" id="Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="Section0022.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

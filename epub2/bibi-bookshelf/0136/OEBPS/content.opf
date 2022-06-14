@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+    <dc:date>2000-06-09T21:00:00+00:00</dc:date>
+    <dc:publisher>Say Yayınları</dc:publisher>
+    <meta content="0.5.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Sevgili Milena"/>
+    <meta name="calibre:author_link_map" content="{&quot;Franz Kafka&quot;: &quot;&quot;}"/>
+  <dc:title>Sevgili Milena</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Mektup</dc:subject>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Kafka, yapıtlarını Çekçeye çeviren Milena'ya, istirahata çekildiği Meran'dan mektuplar yazar. Dostça başlayan mektuplaşmalar bir süre sonra tutkulu bir aşka dönüşür. Üstelik yalnız mektuplarda kalan bir aşktır bu. Kierkegaard ve Werther'in aşkı gibi, Milena'yla mektuplaştıkları üç yıl boyunca iki ya da üç kez buluşan Kafka, her buluşma sonrasında suçluluk içinde kıvranır, kendinden tiksinir, kahrolur; ancak buna rağmen bir sonraki buluşma anını büyük bir özlem içinde bekler. Milena'nın evli, kendisinin nişanlı olması dahi bu özlemi önleyemez. Bu sebepledir ki Milena'ya yazdığı mektuplar, aşkın soyluluğunu ve soysuzluğunu yansıtır. Büyük bir yazarın iç hesaplaşmalarını, duyarlılığını sergiler...&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.24.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">6bed393f-7e22-40b7-85d2-c9acc51810e0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754680249</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/telif.xhtml" id="telif.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dikkat.xhtml" id="dikkat.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ceviren.xhtml" id="ceviren.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonuc.xhtml" id="sonuc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/Nakkal Siyah.png" id="Nakkal_Siyah.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="telif.xhtml"/>
+    <itemref idref="dikkat.xhtml"/>
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="ceviren.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="sonuc.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover"/>
+    <reference href="Text/toc.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/rica.html" title="Text" type="text"/>
+    <reference href="Text/dikkat.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

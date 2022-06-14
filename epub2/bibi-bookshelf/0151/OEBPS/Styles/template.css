@@ -1,0 +1,72 @@
+@page {
+  margin-right: 5pt;
+  margin-top: 5pt;
+  margin-left: 5pt;
+  margin-bottom: 5pt;
+  }
+h1.konu-ba-l- {
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1.83em;
+  line-height: 1.2em;
+  text-decoration: none;
+  font-variant: normal;
+  text-indent: 0;
+  text-align: center;
+  color: #000;
+  margin: 0.36em 0.45em 0.55em 0.45em;
+}
+p.g-vde {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.17em;
+  line-height: 1.29em;
+  text-decoration: none;
+  font-variant: normal;
+  text-indent: 0;
+  text-align: left;
+  color: #000;
+  margin: 0 0.71em 0.57em 0.71em;
+}
+p.g-vde-override-1 {
+  text-align: center;
+  margin: 0 0.4em 0.32em 0.4em;
+}
+p.g-vde-override-2 {
+  margin: 0 0.5em 0.4em 0.5em;
+}
+p.ana {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.17em;
+  line-height: 1.14em;
+  text-decoration: none;
+  font-variant: normal;
+  text-indent: 1.01em;
+  text-align: justify;
+  color: #000;
+  margin: 0;
+}
+p.ana-override {
+  text-align: left;
+}
+p.ana-override-1 {
+  text-align: center;
+}
+span.no-style-override-1 {
+  font-weight: bold;
+  font-size: 2.08em;
+  line-height: 1.16em;
+}
+span.no-style-override-2 {
+  font-size: 2.08em;
+  line-height: 1.16em;
+}
+span.no-style-override-3 {
+  font-weight: bold;
+  font-size: 1.67em;
+  line-height: 0.9em;
+}
+span.no-style-override-4 {
+  font-style: italic;
+}

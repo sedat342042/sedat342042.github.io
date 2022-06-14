@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:db971424-995e-4c39-b38c-8fc45f3b36ed" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Tüm Hikayeler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/ic_kapak.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Edgar Allan Poe</text>
+      </navLabel>
+      <content src="Text/Edgar_Allan_Poe.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Bon-Bon</text>
+      </navLabel>
+      <content src="Text/1832_bonbon.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Usher Evi’nin Çöküşü</text>
+      </navLabel>
+      <content src="Text/1833_Usher_evinin_cokusu.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Şişede Bulunan Not</text>
+      </navLabel>
+      <content src="Text/1833_sisede_bulunan_not.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Randevu</text>
+      </navLabel>
+      <content src="Text/1834_vizyoner.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Hans Pfaall Diye Birinin Benzeri Görülmemiş Öyküsü</text>
+      </navLabel>
+      <content src="Text/1835_hans_pfaall_diye%20birinin_benzeri_gorulmemis_oykusu.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Berenice</text>
+      </navLabel>
+      <content src="Text/1835_berenice.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Morella</text>
+      </navLabel>
+      <content src="Text/1835_morella.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Bir Aslanın Hayatından Pasajlar</text>
+      </navLabel>
+      <content src="Text/1835_aslanlasma.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Gölge: Bir Mesel Evet!</text>
+      </navLabel>
+      <content src="Text/1835_golge_bir_mesel_evet.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Nefesini Yitirmek</text>
+      </navLabel>
+      <content src="Text/1835_nefesini_yitirmek.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Veba Kralı</text>
+      </navLabel>
+      <content src="Text/1835_veba_kirali.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Bir Kudüs Öyküsü</text>
+      </navLabel>
+      <content src="Text/1836_bir_kudus_oykusu.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Dört Hayvan Bir Arada; İnsan-Zürafa</text>
+      </navLabel>
+      <content src="Text/1836_dort_hayvan_birarada.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Duk De L'Omelette</text>
+      </navLabel>
+      <content src="Text/1836_Duk_De_L_Omelette.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Metzengerstein</text>
+      </navLabel>
+      <content src="Text/1836_Metzengerstein.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Maelzel'in Satranç Oyuncusu</text>
+      </navLabel>
+      <content src="Text/1836_maelzelin_satranc_oyuncusu.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Aldatma</text>
+      </navLabel>
+      <content src="Text/1837_aldatma.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Bir Blackwood Makalesi Nasıl Yazılır?</text>
+      </navLabel>
+      <content src="Text/1838_Bir_Blackwood_Makalesi_Nasil_Yazilir.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Ligeia</text>
+      </navLabel>
+      <content src="Text/1838_ligeia.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Kötü Bir Durum</text>
+      </navLabel>
+      <content src="Text/1838_kotu_bir_durum.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Nantucketli Arthur Gordon Pym'in Öyküsü</text>
+      </navLabel>
+      <content src="Text/1938_Nantucketli.xhtml" />
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Önsöz</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli.xhtml#sigil_toc_id_1" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli.xhtml#sigil_toc_id_2" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli.xhtml#sigil_toc_id_3" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli.xhtml#sigil_toc_id_4" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli.xhtml#sigil_toc_id_5" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli.xhtml#sigil_toc_id_6" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli.xhtml#sigil_toc_id_7" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli.xhtml#sigil_toc_id_8" />
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli.xhtml#sigil_toc_id_9" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli.xhtml#sigil_toc_id_10" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Bölüm 11</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_11" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Bölüm 12</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_12" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Bölüm 13</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_13" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Bölüm 14</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_14" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Bölüm 15</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_15" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Bölüm 16</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_16" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Bölüm 17</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_17" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Bölüm 18</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_18" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Bölüm 19</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_19" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Bölüm 20</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_20" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Bölüm 21</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_21" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Bölüm 22</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_22" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Bolüm 23</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_23" />
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Bölüm 24</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_24" />
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Bölüm 25</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_25" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Not</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_26" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Notlar</text>
+        </navLabel>
+        <content src="Text/1938_Nantucketli_2.xhtml#sigil_toc_id_27" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>William Wilson</text>
+      </navLabel>
+      <content src="Text/1839_William_Wilson.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Eiros İle Charmion'un Sohbeti</text>
+      </navLabel>
+      <content src="Text/1839_eiros_ile_charmionun_sohbeti.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Bitmiş Adam</text>
+      </navLabel>
+      <content src="Text/1839_bitmis_adam.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Çan Kulesindeki Şeytan</text>
+      </navLabel>
+      <content src="Text/1839_can_kulesindeki_seytan.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Julius Rodman'in Günlüğü</text>
+      </navLabel>
+      <content src="Text/1839_julios_rodmanin_gunlugu.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Sessizlik Bir Masal</text>
+      </navLabel>
+      <content src="Text/1839_sessizlik_bir_masal.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Kalabalıkların Adamı</text>
+      </navLabel>
+      <content src="Text/1840_kalabaliklarin_adami.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Eşya Felsefesi</text>
+      </navLabel>
+      <content src="Text/1840_esya_felsefesi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Morgue Sokağı Cinayetleri</text>
+      </navLabel>
+      <content src="Text/1841_morgue_sokagi_cinayetleri.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Monos İle Una Arasında Görüşme</text>
+      </navLabel>
+      <content src="Text/1841_monos_ile_una_arasinda_gorusme.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Şeytanla Asla Kafan Üstüne Bahse Girme</text>
+      </navLabel>
+      <content src="Text/1841_seytanla_asla_kafan_ustune_bahse_girme.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Girdaba İniş</text>
+      </navLabel>
+      <content src="Text/1841_girdaba_inis.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Eleonora</text>
+      </navLabel>
+      <content src="Text/1841_Eleonora.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Peri Adası</text>
+      </navLabel>
+      <content src="Text/1841_peri_adasi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Bir Haftada Üç Pazar</text>
+      </navLabel>
+      <content src="Text/1841_bir_haftada_uc_pazar.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Kuyu ve Sarkaç</text>
+      </navLabel>
+      <content src="Text/1842_kuyu_ve_sarkac.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Oval Portre</text>
+      </navLabel>
+      <content src="Text/1842_oval_portre.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Marie Rogêt’nin Sırrı</text>
+      </navLabel>
+      <content src="Text/1842_marierogetinsirri.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Gammaz Yürek</text>
+      </navLabel>
+      <content src="Text/1843_gammaz_yurek.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Altın Böcek</text>
+      </navLabel>
+      <content src="Text/1843_altin_bocek.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Kara Kedi</text>
+      </navLabel>
+      <content src="Text/1843_karakedi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Dolandırıcılık</text>
+      </navLabel>
+      <content src="Text/1843_dolandiricilik.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Balon Şakası</text>
+      </navLabel>
+      <content src="Text/1844_balon_sakasi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Hipnoz Altında İfşa</text>
+      </navLabel>
+      <content src="Text/1844_hipnoz_altinda_ifsa.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>Gözlük</text>
+      </navLabel>
+      <content src="Text/1844_gozluk.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Bay Thingum Bob’ın Yazın Hayatı</text>
+      </navLabel>
+      <content src="Text/1844_Bay_Thingum_Bob.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Wissahiccon’da Bir Sabah</text>
+      </navLabel>
+      <content src="Text/1844_Wissahiccon_da_bir_sabah.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>Uzun Sandık</text>
+      </navLabel>
+      <content src="Text/1844_uzun_sandik.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>&quot;Sen Yaptın&quot;</text>
+      </navLabel>
+      <content src="Text/1844_sen_yaptin.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>Diri Diri Gömülüş</text>
+      </navLabel>
+      <content src="Text/1844_diri_diri_gomulmus.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>Tuhaflık Meleği</text>
+      </navLabel>
+      <content src="Text/1844_tuhaflik_melegi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>Engebeli Dağlara Dair Öykü</text>
+      </navLabel>
+      <content src="Text/1844_Bir_Engebeli_Daglar_oykusu.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>Sözcüklerin Gücü</text>
+      </navLabel>
+      <content src="Text/1845_kelimelerin_gucu.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>Bir Mumya İle Küçük Bir Hasbial</text>
+      </navLabel>
+      <content src="Text/1845_mumya_ile_konusma.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>Bay Valdemar Vakasındaki Gerçekler</text>
+      </navLabel>
+      <content src="Text/1845_Bay_Valdemar_Vakasindaki_Gercekler.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>Çalınan Mektup</text>
+      </navLabel>
+      <content src="Text/1845_calinan_mektup.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>Dr. Katran ile Prof. Telek’in Sistemi</text>
+      </navLabel>
+      <content src="Text/1845_dr_katran_ile_prof_telekin_sistemi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>Şehrazat’ın 1002. Masalı</text>
+      </navLabel>
+      <content src="Text/1845_sehrazatin_1002_masali.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-91" playOrder="91">
+      <navLabel>
+        <text>Zıtlık Şeytanı</text>
+      </navLabel>
+      <content src="Text/1845_zitlik_seytani.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>Amontillado Fıçısı</text>
+      </navLabel>
+      <content src="Text/1846_amontillado_ficisi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>Sfenks</text>
+      </navLabel>
+      <content src="Text/1846_sfenks.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>Arnheim Arazisi</text>
+      </navLabel>
+      <content src="Text/1847_Arnheim_Arazisi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-95" playOrder="95">
+      <navLabel>
+        <text>Von Kempelen Ve Buluşu</text>
+      </navLabel>
+      <content src="Text/1849_von_kemplen_ve_bulusu.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>Mellonta Tauta</text>
+      </navLabel>
+      <content src="Text/1849_mellonta_tauta.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>Aksak Kurbağa</text>
+      </navLabel>
+      <content src="Text/1849_aksak_kurbaga.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>Bir Makaleyi X’lemek</text>
+      </navLabel>
+      <content src="Text/1849_bir_makaleyi_xlemek.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>Deniz Feneri</text>
+      </navLabel>
+      <content src="Text/1849_deniz_feneri.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>Landor’un Yazlığı</text>
+      </navLabel>
+      <content src="Text/1850_landorun_yazligi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>Astoria</text>
+      </navLabel>
+      <content src="Text/1856_Astoria.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

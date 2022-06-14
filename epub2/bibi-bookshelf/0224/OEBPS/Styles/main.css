@@ -1,0 +1,271 @@
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/literata-regular.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../Fonts/literata-bold.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../Fonts/literata-bold-italic.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/literata-italic.otf');
+}
+
+body{
+font-family: 'Literata';
+}
+
+p {
+    text-indent: 1em;
+    margin-left: 0;
+    line-height: 115%;
+    margin-right: 0;
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: .45em;
+    font-size: 100%;
+}
+h1.title {
+     font-family: Times, sans-serif;
+     font-size:x-large;
+     text-align:center;
+     font-weight:bold;
+     margin-top:2em;
+     -webkit-hyphens:none;
+     -moz-hyphens:none;
+     hyphens:none;
+}
+
+h1.sub {
+     font-family: Times, sans-serif;
+     font-size:medium;
+     text-align:center;
+     font-weight:bold;
+     font-style:italic;
+     margin-top:1em;
+     text-indent:0;
+     -webkit-hyphens:none;
+     -moz-hyphens:none;
+     hyphens:none;
+}
+
+h1.author {
+     font-family: Times, sans-serif;
+     text-align:center;
+     margin-top:4em;
+     text-indent:0;
+     -webkit-hyphens:none;
+     -moz-hyphens:none;
+     hyphens:none;
+}
+
+.px {
+    text-indent: 0;
+    margin-left: 0;
+    line-height: 115%;
+    margin-right: 0;
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: .45em;
+    font-size: 100%;
+}
+
+.p1 {
+    text-indent: 0;
+    text-align: center;
+}
+
+.p2 {
+    text-indent: 0;
+    line-height: 100%;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.p3 {
+    text-indent: 0;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.p4 {
+    text-indent: 0;
+    text-align: left;
+}
+
+.p5 {
+    text-indent: 0;
+    text-align: right;
+}
+
+.p6 {
+    text-indent: 0;
+    text-align: left;
+    margin-bottom: .91em;
+}
+
+.p7 {
+    text-indent: -1.3em;
+    margin-left: 1.3em;
+    line-height: 100%;
+    margin-bottom: .27em;
+}
+
+.p8 {
+    text-indent: 0;
+}
+
+h2 {
+    text-indent: 0;
+    margin-left: 0;
+    line-height: 115%;
+    margin-right: 0;
+    page-break-after: avoid;
+    margin-top: 4.3em;
+    margin-bottom: 1.4em;
+    font-size: 127%;
+    font-weight: bold;
+}
+
+.h21 {
+    text-indent: 0;
+}
+
+.t1 {
+    font-size: 2em;
+    line-height: 115%;
+}
+
+.t2 {
+    font-family: "Book Antiqua",serif;
+    font-size: .36em;
+    line-height: 115%;
+}
+
+.t3 {
+    font-family: "Book Antiqua",serif;
+    font-size: 2.3em;
+    line-height: 115%;
+    font-weight: bold;
+}
+
+.t4 {
+    font-family: "Book Antiqua",serif;
+    font-size: .091em;
+    line-height: 115%;
+    font-weight: bold;
+}
+
+.t5 {
+    font-family: "Arial Black",sans-serif;
+    font-size: 1.8em;
+    line-height: 100%;
+}
+
+.t6 {
+    font-family: "Cambria Math",serif;
+    font-size: 5.5em;
+    line-height: 100%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.t7 {
+    font-size: 1.2em;
+    line-height: 115%;
+}
+
+.t8 {
+    font-family: "Book Antiqua",serif;
+    font-size: 1.5em;
+    line-height: 115%;
+}
+
+.t9 {
+    font-family: "Book Antiqua",serif;
+    font-size: 1.5em;
+    line-height: 115%;
+    font-weight: bold;
+}
+
+.t10 {
+    font-family: "Book Antiqua",serif;
+    font-size: 1.1em;
+    line-height: 115%;
+}
+
+.t12 {
+    font-style: italic;
+}
+
+.t13 {
+    font-weight: bold;
+}
+
+.t14 {
+    font-size: .65em;
+    line-height: 115%;
+    vertical-align: super;
+}
+
+.t15 {
+    font-size: .65em;
+    line-height: 115%;
+    font-style: italic;
+    vertical-align: super;
+}
+
+.t16 {
+    font-size: .82em;
+    line-height: 115%;
+}
+
+.t17 {
+    font-size: .65em;
+    line-height: 115%;
+    vertical-align: sub;
+}
+
+.t18 {
+    font-size: .53em;
+    line-height: 100%;
+    vertical-align: super;
+}
+
+.t19 {
+    font-size: .82em;
+    line-height: 100%;
+}
+
+.t20 {
+    font-size: .82em;
+    line-height: 100%;
+    letter-spacing: -.011em;
+}
+
+.t21 {
+    font-size: .82em;
+    line-height: 100%;
+    letter-spacing: -.022em;
+}
+
+.t22 {
+    font-size: .82em;
+    line-height: 100%;
+    font-style: italic;
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Kundera, Milan">Milan Kundera</dc:creator>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">14e03111-84ac-4996-a16f-895c6461c6b6</dc:identifier>
+    <dc:date>1999-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Sadece çağdaş Çekoslovak edebiyatının değil, dünya edebiyatının öde gelen yazarlarından Milan Kundera, erken yaşta üye olduğu Çekoslovak Komünist Partisi'nden 1949 yılından çıkarıldı.&lt;/p&gt;</dc:description>
+    <meta content="2013-12-14T21:12:29.005837+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Yaşam Başka Yerde"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Milan Kundera&quot;: &quot;&quot;}"/>
+  <dc:title>Yaşam Başka Yerde</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Çağdaş Edebiyat</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">002aa0ac-cc3e-417b-8cde-191972f9e5b0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754700022</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">23566787</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.html" id="Section0006.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/yby.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="index_split_000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="Section0005.html"/>
+    <itemref idref="Section0006.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

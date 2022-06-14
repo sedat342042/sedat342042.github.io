@@ -1,0 +1,316 @@
+@font-face {
+  font-family: "Liberation Serif";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/LiberationSerif.ttf);
+  }
+@font-face {
+  font-family: "Liberation Serif";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/LiberationSerif-Bold.ttf);
+  }
+@font-face {
+  font-family: "Liberation Serif";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/LiberationSerif-Italic.ttf);
+  }
+@font-face {
+  font-family: "Minion Pro";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/MinionPro-Bold.otf);
+  }
+@font-face {
+  font-family: "Minion Pro";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/MinionPro-It.otf);
+  }
+@font-face {
+  font-family: "Minion Pro";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/MinionPro-Regular.otf);
+  }
+@page {
+  margin: 0.5em;
+  }
+span.Normal {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  color: #000;
+  line-height: 1;
+}
+span.char-style-override-1 {
+  font-size: 1.33em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.char-style-override-2 {
+  font-family: "Liberation Serif", serif;
+  font-size: 1.33em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.char-style-override-3 {
+  font-family: "Liberation Serif";
+  font-size: 0.88em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.char-style-override-4 {
+  font-family: "Liberation Serif", serif;
+  font-size: 0.88em;
+  font-style: italic;
+  font-weight: normal;
+}
+span.char-style-override-5 {
+  font-family: "Liberation Serif";
+  font-size: 0.67em;
+  font-style: normal;
+  font-weight: normal;
+  vertical-align: super;
+}
+span.char-style-override-6 {
+  font-family: "Liberation Serif";
+  font-size: 0.67em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.char-style-override-8 {
+  font-family: "Liberation Serif", serif;
+  font-size: 0.88em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.char-style-override-9 {
+  font-family: "Liberation Serif", serif;
+  font-size: 0.67em;
+  font-style: italic;
+  font-weight: normal;
+}
+span.char-style-override-10 {
+  font-family: "Liberation Serif", serif;
+  font-size: 0.67em;
+  font-style: italic;
+  font-weight: normal;
+  vertical-align: super;
+}
+span.char-style-override-11 {
+  font-size: 0.57em;
+  vertical-align: super;
+}
+span.char-style-override-12 {
+  font-size: 0.67em;
+  vertical-align: super;
+}
+p.Basic-Paragraph {
+  font-family: "Minion Pro", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.Konu-Ba-l--- {
+  font-family: "Minion Pro", serif;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.17em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 50px 10px 20px 10px;
+}
+p.ara-bas {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.3;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 17px 0 6px 0;
+}
+p.Normal1 {
+  font-family: "Times New Roman (TT) Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 5px;
+}
+p.Normal2 {
+  font-family: "Times New Roman (TT) Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  margin-top: 1.5em;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 5px;
+}
+p.Normal3 {
+  font-family: "Times New Roman (TT) Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 5px;
+}
+p.Normal4 {
+  font-family: "Times New Roman (TT) Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 5px;
+}
+p.Normal5 {
+  font-family: "Times New Roman (TT) Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 5px;
+}
+p.Normal6 {
+  font-family: "Times New Roman (TT) Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 5px;
+}
+p.Normal7 {
+  font-family: "Times New Roman (TT) Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 5px;
+}
+p.Normal8 {
+  font-family: "Times New Roman (TT) Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 5px;
+}
+p.Normal9 {
+  font-family: "Times New Roman (TT) Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 5px;
+}
+p.Normal10 {
+  font-family: "Times New Roman (TT) Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 5px;
+}
+p.G-vde {
+  font-family: "Minion Pro", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 0 10px 8px 10px;
+}
+p.para-style-override-1 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+p.para-style-override-2 {
+  text-align: center;
+}
+p.para-style-override-3 {
+  text-align: justify;
+  text-indent: 14px;
+}
+p.para-style-override-4 {
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  text-indent: 14px;
+}
+p.para-style-override-5 {
+  text-align: justify;
+}

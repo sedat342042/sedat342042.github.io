@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Nietzsche, Friedrich">Friedrich Nietzsche</dc:creator>
+<meta content="Böyle Buyurdu Zerdüşt (İlgi)" name="calibre:title_sort"/>
+    <meta content="2013-04-11T21:42:22+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2013-04-11T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">aa86d96c-3c4d-44a1-8fc2-6ea4edb2bdcf</dc:identifier>
+    <meta content="0.7.1" name="Sigil version"/>
+    <dc:date opf:event="modification">2013-04-12</dc:date>
+  <dc:publisher>İlgi Kültür Sanat Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:description>&lt;p&gt;BÖYLE BUYURDU ZERDÜŞT
+
+
+Saygılı, dayanıklı ve kuvvetli bir ruhun ağır yükleri vardır. Onun kuvveti, daima ağırı ve en ağırı ister. "Ağır nedir?" Dayanıklı ruh böyle sorar. Deve gibi diz çöker ve iyi yüklenmek ister. "Yiğitler, en ağır şey nedir ki omzuma alayım ve kuvvetime sevineyim?" Her türlü cefayı çekebilen ruh böyle sorar. Kibirini zedelemek için alçalmak mı? Hikmetiyle alay için deliliğini belli etmek midir? Yoksa, zaferini kutlayan bir davadan ayrılmak mı?
+
+Akıl erdirmenin çayır ve otu ile geçinmek ve gerçeğin aşkıyla ruhta açlık çekmek midir? Hasta olmak ve teselliye geleni geri çevirmek ve senin istediğini hiçbir zaman duyamayan sağırlarla dostluk yapmak mıdır? Bizi hor görenleri sevmek ve bizi korkutmak isteyen hayalete el uzatmak mıdır? İçinde gerçek var, diye kirli sulara dalmak ve soğuk kurbağaları, sıcak yengeçleri itememek midir? Bütün bu en güç şeyleri dayanıklı bir ruh yüklenir. Yükünü almış ve çöl yolunu tutan bir deve gibi o da kendi çölüne doğru yürür. 
+
+…
+Alışıgelmiş söylemlerin dışına çıkıp, düşünerek yaşamını önemini anlatan, insan hayatını daha da anlamlandıran bir başucu kitabını elinizde tutuyorsunuz. Akıcı, doyurucu ve zengin dili ile tüm dünyada onlarca yıldır okunan eşsiz bir eser. Nietzsche'nin düşüncelerinin en yüksek düzeye eriştiği olgunluk dönemi, 'Böyle Buyurdu Zerdüşt' adlı bu eseri ile başlar. Bu eser, Nietzsche Felsefesi'nin de ana kitabıdır.&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Friedrich Nietzsche&quot;: &quot;&quot;}"/>
+<dc:title>Böyle Buyurdu Zerdüşt (İlgi)</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">061bdbe6-1728-434c-9b9b-74ae0d7d88a0</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

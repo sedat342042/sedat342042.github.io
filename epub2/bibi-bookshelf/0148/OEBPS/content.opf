@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Dostoyevski, Fyodor Mihailoviç">Fyodor Mihailoviç Dostoyevski</dc:creator>
+<dc:identifier id="pub-id">urn:isbn:9789750720284</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="aut">Sabri Gürses</dc:contributor>
+    <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf">2014-09-17T21:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt; &lt;p class="MsoNormal" style="margin-bottom: 0.0001pt;"&gt;&lt;span style="font-size:9.0pt"&gt;Yıl 1846'dır. Genç Dostoyevski, ilk romanı İnsancıklar'ı tamamlar tamamlamaz ev arkadaşı yazar Grigoroviç'e okutur. Grigoroviç o kadar heyecanlanır ki birkaç kez kalkıp Fyodor'un boynuna sarılmak ister; fakat arkadaşının aşırı duygu gösterilerinden hoşlanmadığını bildiği için yapmaz. Grigoroviç ertesi gün romanı yazar ve yayımcı Nekrasov'a götürür; kitaptan çok etkilenen Nekrasov da eleştirmen Belinski'ye... "Yeni Gogol doğdu!" der, Nekrasov, daha kapı ağzında. Aynı günün akşamı, Belinski'ye tekrar uğradığında onu heyecan içinde bulur: "Nerede kaldınız? Nerede bu Dostoyevskiniz? Genç mi? Kaç yaşında? Hemen getirin bana onu!" &lt;p&gt;&lt;/p&gt;&lt;/span&gt;&lt;/p&gt; &lt;p class="MsoNormal" style="margin-bottom: 0.0001pt;"&gt;&lt;span style="font-size:9.0pt"&gt; &lt;/span&gt;&lt;span style="font-size: 9pt;"&gt;Belinski'nin evine getirilen yirmi üç yaşındaki genç yazar, daha sonra orada olanları şöyle anlatacaktır: "Ve işte... beni onun yanına götürdüler. Belinski'yi birkaç yıl önce heyecanla okumuştum, ama bana ürkütücü ve sert gelmişti ve benim İnsancıklar'ımla alay edecek diye düşünüyordum. Beni çok saygılı ve ağırbaşlı bir şekilde karşıladı; ama daha bir dakika bile geçmeden her şey bambaşka oldu... Ateşli ateşli, alevli gözlerle konuşuyordu. "Siz kendiniz anlıyor musunuz?" diyordu bana tekrar tekrar, alışkanlığı olduğu üzere bağırarak, "Ne yazmış olduğunuzu anlıyor musunuz?.. Bütün bu korkunç gerçeği, bizlere göstermiş olduğunuz bu gerçeği siz mi düşündünüz? Olamaz, sizin gibi yirmi yaşında birinin bütün bunları anlamış olmasına imkân yok... Gerçeği keşfetmiş ve bir sanatçı olarak ilan etmişsiniz, size bir yetenek verilmiş, yeteneğinizin değerini bilin ve emin olun, siz büyük bir yazar olacaksınız."&lt;/span&gt;&lt;/p&gt; &lt;p class="MsoNormal" style="margin-bottom: 0.0001pt;"&gt;&lt;span style="font-size:9.0pt"&gt; &lt;/span&gt;&lt;span style="font-size: 9pt;"&gt;Yıl 2013. 167 yıl sonra Dostoyevski her kuşağın başucu yazarlarından olma özelliğini koruyor ve İnsancıklar, onun dünya edebiyatına ilk armağanı...&lt;/span&gt;&lt;/p&gt; &lt;/div&gt;</dc:description>
+    <meta content="İnsancıklar(Can)" name="calibre:title_sort"/>
+    <meta content="{&quot;Fyodor Mihailoviç Dostoyevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="23.0" name="calibre:series_index"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta name="cover" content="image__coverjpg"/>
+  <dc:title>İnsancıklar(Can)</dc:title>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:subject>Roman</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">4be32eed-69c6-49ab-be6d-995722899e34</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750720284</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789750720284</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraph.xhtml" id="epigraphxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/introduction.xhtml" id="introductionxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/fonts_1.css" id="font_embed1" media-type="text/css"/>
+    <item href="Styles/fonts.css" id="font_embed" media-type="text/css"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Fonts/GoudyCatTReg.ttf" id="image__logojpg" media-type="application/x-font-ttf"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Fonts/Book-Antiqua-Italic.ttf" id="font3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Book-Antiqua.ttf" id="font2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Nyala.ttf" id="font" media-type="application/x-font-ttf"/>
+    <item href="Images/logo.jpg" id="id" media-type="image/jpeg"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="epigraphxhtml"/>
+    <itemref idref="introductionxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Title Page" type="title-page"/>
+    <reference href="Text/copyright-page.xhtml" title="Copyright Page" type="copyright-page"/>
+    <reference href="Text/books.xhtml" title="Colophon" type="colophon"/>
+    <reference href="Text/biography.xhtml" title="Text" type="text"/>
+    <reference href="Text/introduction.xhtml" title="Epigraph" type="epigraph"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

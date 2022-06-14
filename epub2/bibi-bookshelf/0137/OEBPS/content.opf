@@ -1,0 +1,91 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+<dc:identifier id="uuid">{0D1CB4AF-1D34-4B90-95AD-B641821A9EC9}</dc:identifier>
+    <dc:date>2014-04-14T21:00:00+00:00</dc:date>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Kafka Şato'da, tıpkı Dava'da da olduğu gibi şeffaflıktan yoksun, işlemeyen kurumlarla, otorite ve bürokrasiyi hicveder. Esrarengiz bir kont, ona ait bir şato; diktatörce eğilimler gösteren, hiyerarşi içindeki çok sayıda bürokrat… Roman, Avusturya-Macaristan İmparatorluğu'nun modern ulus devletlere ayrışmasının ertesinde yazıldığından, Kafka geleneksel otoritenin nasıl bir düzene evrileceğini sorguluyor olsa gerektir. Okur, romanın muammalarını çözmek için her türlü karmaşa, ikilem ve belirsizlik arasından yolunu bulmaya çalışacağı "aktif" bir okumaya davetlidir.
+&lt;/p&gt;</dc:description>
+    <dc:date opf:event="modification">2015-04-25</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Şato" name="calibre:title_sort"/>
+    <meta content="{&quot;Franz Kafka&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="10.0"/>
+  <dc:title>Şato</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">75fa6a61-d17f-4527-b855-840a54173a1f</dc:identifier>
+<dc:identifier opf:scheme="AMAZON">6051006648</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053322528</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/main-11.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/main-12.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/main-13.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/main-14.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/main-15.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/main-17.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/main-18.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/main-19.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/main-20.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/main-21.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id26" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/0001.css" id="x0001.css" media-type="text/css"/>
+    <item href="Styles/main.css" id="id25" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Fonts/UnDotum.ttf" id="UnDotum.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/vijaya.ttf" id="vijaya.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/vijayab.ttf" id="vijayab.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id26">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="Section0004.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

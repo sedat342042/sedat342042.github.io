@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Moliere">Moliere</dc:creator>
+<dc:publisher>Remzi Kitabevi</dc:publisher>
+    <meta content="Cimri" name="calibre:title_sort"/>
+    <meta content="2014-05-03T08:51:45.660000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2006-05-02T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8838d9ce-2486-4cb3-8363-a49b4f4c3071</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-05-29</dc:date>
+  <dc:title>Cimri</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tiyatro Oyunu</dc:subject>
+<dc:description>&lt;p&gt;Molière'in ünlü yapıtlarından olan Cimri, ülkemizde 100 yılı aşkın bir süreden beri tanınmakta, okurların beğenisiyle karşılanmaktadır. Seyircinin ve okurun yer yer geleneksel tiyatromuzla da bağ kurabildiği bu klasik yapıtta, ünlü tiyatro eleştirmenimiz Dikmen Gürün'ün açıklayıcı önsözüne de yer veriyoruz. Cimri'nin bu eksiksiz çevirisini, dönemin özelliklerini yansıtan vurgulamalarla ve aslına sadık yorumlarla sunuyoruz.&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Moliere&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c10add94-3316-4c6f-a572-6d5a87e348fd</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789751410870</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0001_split_000.xhtml" id="Section0001.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001_split_001.xhtml" id="Section0001.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml2"/>
+    <itemref idref="Section0001.xhtml1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

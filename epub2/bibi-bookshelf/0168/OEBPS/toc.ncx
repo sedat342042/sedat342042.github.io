@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="c6cf4559-32db-4585-ae72-771ac24669cf" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Daralma</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="Text/DA_02.htm"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/DA_03.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/DA_04.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/DA_05.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/DA_06.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/DA_07.htm"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/DA_08.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/DA_09.htm#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/DA_10.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/DA_11.htm#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/DA_12.htm#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/DA_13.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/DA_14.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/DA_15.htm#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="Text/DA_15.htm#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>10</text>
+        </navLabel>
+        <content src="Text/DA_16.htm#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/DA_17.htm"/>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/DA_18.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/DA_19.htm#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/DA_20.htm#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Dördüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/DA_21.htm"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/DA_22.htm#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/DA_23.htm#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/DA_24.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/DA_25.htm#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/DA_25.htm#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/DA_26.htm"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

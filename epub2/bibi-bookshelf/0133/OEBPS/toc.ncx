@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+   <meta content="0" name="dtb:depth"/>
+   <meta content="0" name="dtb:totalPageCount"/>
+   <meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+   <text>İçindekiler</text>
+</docTitle>
+<navMap>
+<navPoint playOrder="1">
+  <navLabel>
+    <text>I</text>
+  </navLabel>
+  <content src="Text/donusum_101.xhtml"/>
+</navPoint>
+<navPoint playOrder="2">
+  <navLabel>
+    <text>II</text>
+  </navLabel>
+  <content src="Text/donusum_102.xhtml"/>
+</navPoint>
+<navPoint playOrder="3">
+  <navLabel>
+    <text>III</text>
+  </navLabel>
+  <content src="Text/donusum_103.xhtml"/>
+</navPoint>
+</navMap>
+</ncx>

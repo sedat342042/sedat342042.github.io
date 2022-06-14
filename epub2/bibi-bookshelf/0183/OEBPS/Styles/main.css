@@ -1,0 +1,112 @@
+
+/*
+ *chapter
+ */
+
+h1{
+	font-family:Berling;
+	font-size:1.14em;
+	font-weight:normal;
+	text-align:center;
+  margin-bottom:2em;
+}
+
+p{
+	font-family:Berling;
+	font-size:0.875em;
+	line-height:1.276em;
+	margin:0;
+	text-indent:1.5em;
+}
+
+.right{
+  text-align: right;
+  margin-top: 1em;
+}
+
+.double{
+	margin-top: 2em;
+}
+.margin-top{
+  margin-top: 1em;
+}
+blockquote{
+margin:1em 0 1em 1.5em;
+}
+blockquote p,.no-indent{
+	text-indent: 0;
+}
+.pull{
+  padding-left: 1.4em;
+}
+.epigraph{
+    width: 75%;
+    float: right;
+  }
+.clear{
+  clear: both;
+}
+.center{
+  text-align: center;
+}
+/*other*/
+.title{
+  text-align: center;
+}
+.aut{
+  font-family: Goudy;
+  font-size: 1.65em;
+  margin-bottom: 0;
+}
+.work{
+  font-family: Goudy;
+  font-size: 2.375em;
+  margin-top: .5em;
+}
+
+.seri{
+  font-family: Gill;
+  font-size: .92em;
+  margin-top: 2.5em
+}
+
+li{
+font-family: Gill;
+font-size: .75em;
+list-style: none;
+padding-bottom: .5em;
+}
+ul{
+	margin: 1.5em 0 0;
+	padding:0;
+}
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+  margin:4em 0 1em;
+}
+.si-backref{
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+.si-footnote{
+  font-family: Gill;
+  font-size: .8em;
+  margin-bottom: .3em;
+}
+.logo{
+  margin: 3em auto 0 auto;
+  
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 450px;
+  page-break-inside: avoid;
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Orwell, George">George Orwell</dc:creator>
+<dc:identifier id="uuid">{A343B2D6-347C-4256-AE31-1518EC34234E}</dc:identifier>
+    <dc:date>2004-01-15T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;"Bu ülkede bulunmamızın, hırsızlıktan başka bir nedeni olduğunu söyleyebilir misiniz? Bu öylesine kolay ki. İngiltere'nin memuru, Burmalı'nın kollarını tutar, tüccar da adamın ceplerini boşaltır. Britanya İmparatorluğu, İngilizlerin, daha doğrusu Yahudi ve İskoç çetelerinin ticaret tekelleri kurmalarını sağlayan bir aracıdan başka bir şey değildir." 
+Bu sözler, George Orwell'in Burma'daki İngiliz sömürgeciliğine bakış açısını yansıtıyro. Kendisi de Burma'da görev yapmış olan Orwell, en başarılı yapıtı olarak tanımlanan Burma Günleri'nde, İngilizlerin bu sömürgedeki yaşamını ve yaptıklarını, yerli işbirlikçileri ve fırsatçıları, yerli halka insanca yaklaşarak İmparatorluğun tutumuna karşı çıkanları, aşk, nefret, tutku çemberinde destansı bir anlatımla ele alıyor. Burma Günleri, ilk kez 1934 yılında Amerika Birleşik Devletleri'nde yayınlandı. Kitap ve yazarı hakkında herhangi bir dava açılmayınca, ertesi yıl İngiltere'de de basıldı. Ama sömürgecilik dönemi sona erinceye kadar kitabın Hindistan ve Burma'da satılması yasaklandı ve okuyanlar hakkında yasal işlemler yapıldı. Burma Günleri, İngiltere'nin, üzerinde güneş batmayan bir imparatorluk olduğu dönemdeki politik ve sosyal yaklaşımını göz önüne sererken, romandaki karakterlerin işlenmesindeki ayrıntılı ustalıkla da Orwell'in başarısını pekiştirdi.&lt;/p&gt;</dc:description>
+    <meta content="Burma Günleri" name="calibre:title_sort"/>
+    <meta content="{&quot;George Orwell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Burma Günleri</dc:title>
+<dc:subject>Kurgu</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Tarihi Kurgu</dc:subject>
+<dc:subject>İngiliz Edebiyatı</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">65c7b62d-cc86-41bd-bc39-797d574fff4e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750722400</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-title.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-bio.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-epg.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id7" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id6" media-type="text/css"/>
+    <item href="Images/GOBG.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id7">
+    <itemref idref="titlepage"/>
+    <itemref idref="id5"/>
+    <itemref idref="id"/>
+    <itemref idref="id8"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

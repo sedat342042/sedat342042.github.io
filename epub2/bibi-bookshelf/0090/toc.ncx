@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="f728f52a-1c2e-4421-bb5c-db6bb3b75b47" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.28.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Cemile - Öğretmen Duyşen</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Cemile</text>
+      </navLabel>
+      <content src="Cemile_-_Ogretmen_Duysen_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Öğretmen Duyşen</text>
+      </navLabel>
+      <content src="Cemile_-_Ogretmen_Duysen_split_002.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

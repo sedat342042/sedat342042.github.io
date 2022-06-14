@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:file-as="Dostoyevski, Fyodor Mihailoviç" ns0:role="aut">Fyodor Mihailoviç Dostoyevski</dc:creator>
+    <dc:description>&lt;p&gt;Fyodor Mihayloviç Dostoyevski (1821-1881): İlk romanı İnsancıklar 1846'da yayımlandı. Ünlü eleştirmen V. Byelinski bu eser üzerine Dostoyevski'den geleceğin büyük yazarı olarak söz etti. Ancak daha sonra yayımlanan eserleri çağımızda edebiyat klasikleri arasında yer alsa da o dönemde fazla ilgi görmedi. Yazar 1849'da I. Nikolay'ın baskıcı rejimine muhalif Petraşevski grubunun üyesi olduğu gerekçesiyle tutuklandı. Kurşuna dizilmek üzereyken cezası sürgün ve zorunlu askerliğe çevrildi. Sibirya sürgününden sonra yazdığı romanlarla tekrar eski ününe kavuştu. Dostoyevski Kumarbaz'da tutkulu bir aşkla kumar tutkusunu bir arada anlatırken insan ruhunun derinliklerini büyük bir güçle sergilemiştir.&lt;/p&gt;</dc:description>
+    <dc:publisher>Sonsuz Kitap</dc:publisher>
+    <dc:date>2009-12-31T22:00:00+00:00</dc:date>
+    <dc:source />
+    <dc:relation />
+    <dc:coverage />
+    <dc:rights />
+    <dc:identifier id="bookid">urn:uuid:410d2df1-6891-48c4-d654-e6d5049c8e4c</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-03-19</dc:date>
+    <meta content="Kumarbaz" name="calibre:title_sort" />
+    <meta content="{&quot;Fyodor Mihailoviç Dostoyevski&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="Kapak.jpeg" />
+    <dc:title>Kumarbaz</dc:title>
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Rus Edebiyatı</dc:subject>
+    <dc:subject>Klasikler</dc:subject>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.28.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">5e740e6a-4f33-4bf9-a882-093fe473391a</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">2789785859864</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/Ic_Kapak.xhtml" id="Ic_Kapak.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-1.xhtml" id="Kitap-1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-2.xhtml" id="Kitap-2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-3.xhtml" id="Kitap-3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-4.xhtml" id="Kitap-4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-5.xhtml" id="Kitap-5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-6.xhtml" id="Kitap-6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-7.xhtml" id="Kitap-7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-8.xhtml" id="Kitap-8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-9.xhtml" id="Kitap-9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-10.xhtml" id="Kitap-10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-11.xhtml" id="Kitap-11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-12.xhtml" id="Kitap-12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-13.xhtml" id="Kitap-13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-14.xhtml" id="Kitap-14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-15.xhtml" id="Kitap-15.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-16.xhtml" id="Kitap-16.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap-17.xhtml" id="Kitap-17.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/template.css" id="css" media-type="text/css" />
+    <item href="Images/Kapak.jpeg" id="Kapak.jpeg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="Ic_Kapak.xhtml" />
+    <itemref idref="Kunye.xhtml" />
+    <itemref idref="Kitap-1.xhtml" />
+    <itemref idref="Kitap-2.xhtml" />
+    <itemref idref="Kitap-3.xhtml" />
+    <itemref idref="Kitap-4.xhtml" />
+    <itemref idref="Kitap-5.xhtml" />
+    <itemref idref="Kitap-6.xhtml" />
+    <itemref idref="Kitap-7.xhtml" />
+    <itemref idref="Kitap-8.xhtml" />
+    <itemref idref="Kitap-9.xhtml" />
+    <itemref idref="Kitap-10.xhtml" />
+    <itemref idref="Kitap-11.xhtml" />
+    <itemref idref="Kitap-12.xhtml" />
+    <itemref idref="Kitap-13.xhtml" />
+    <itemref idref="Kitap-14.xhtml" />
+    <itemref idref="Kitap-15.xhtml" />
+    <itemref idref="Kitap-16.xhtml" />
+    <itemref idref="Kitap-17.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

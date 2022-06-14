@@ -1,0 +1,135 @@
+.calibre {
+    -webkit-line-break: after-white-space;
+    -webkit-nbsp-mode: space;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    word-wrap: break-word
+    }
+.calibre1 {
+    display: block;
+   
+    font-weight: bold;
+
+  
+
+    }
+.calibre10 {
+    display: block;
+
+    font-weight: bold;
+
+
+    }
+.calibre11 {
+    display: block;
+ 
+ 
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    display: block;
+ 
+    font-weight: bold;
+
+    }
+.calibre4 {
+    display: block;
+  
+    }
+.calibre5 {
+    display: block;
+    font-weight: bold;
+
+    }
+.calibre6 {
+    display: block;
+   
+
+    text-align: justify
+    }
+.calibre7 {
+    font-weight: bolder
+    }
+.calibre8 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 3%
+    }
+.calibre9 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify;
+    text-indent: 3%
+    }
+.sgc {
+    font-weight: bold
+    }
+.sgc1 {
+    font-weight: normal
+    }
+.softbreak {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    page-break-before: avoid;
+    text-align: center
+    }
+.whitespace {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.whitespace1 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.whitespace2 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify
+    }
+h1
+{
+margin-top:1em;
+margin-bottom:1em;
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}

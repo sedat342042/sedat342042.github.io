@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750720055" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Mor Salkımlı Ev</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Sunuş</text>
+         </navLabel>
+         <content src="Text/preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>BİRİNCİ BÖLÜM</text>
+         </navLabel>
+         <content src="Text/part1.xhtml"/>
+         <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+               <text>1. Bu, bir küçük kızın hikâyesidir</text>
+            </navLabel>
+            <content src="Text/chapter1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+               <text>2. Hikâye artık benim oluyor</text>
+            </navLabel>
+            <content src="Text/chapter2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+               <text>3. Üsküdar’da oturduğumuz eve dair</text>
+            </navLabel>
+            <content src="Text/chapter3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+               <text>4. Yine Mor Salkımlı Ev</text>
+            </navLabel>
+            <content src="Text/chapter4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>5. İkinci defa kolej hayatı</text>
+            </navLabel>
+            <content src="Text/chapter5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+               <text>6. Evlilik hayatı</text>
+            </navLabel>
+            <content src="Text/chapter6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+               <text>7. Meşrutiyet ilânı</text>
+            </navLabel>
+            <content src="Text/chapter7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+               <text>8. Memleket haricine ilk gidiş</text>
+            </navLabel>
+            <content src="Text/chapter8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+               <text>9. 1909 ile 1912 yılları arasında geçen hâdiseler</text>
+            </navLabel>
+            <content src="Text/chapter9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+               <text>10. Balkan Harbi’ne doğru</text>
+            </navLabel>
+            <content src="Text/chapter10.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+               <text>11. 1913-1914 yılları arası</text>
+            </navLabel>
+            <content src="Text/chapter11.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+               <text>12. 1914-1916 yılları arasında</text>
+            </navLabel>
+            <content src="Text/chapter12.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+         <navLabel>
+            <text>İKİNCİ BÖLÜM</text>
+         </navLabel>
+         <content src="Text/part2.xhtml"/>
+         <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+               <text>Suriye ve Arap diyarı</text>
+            </navLabel>
+            <content src="Text/chapter13.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+               <text>Epilog</text>
+            </navLabel>
+            <content src="Text/chapter14.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+         <navLabel>
+            <text>Mor Salkımlı Ev”in hikâyesi</text>
+         </navLabel>
+         <content src="Text/afterword.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+         <navLabel>
+            <text>Kitabı yayına hazırlayanların yararlandığı kaynaklar</text>
+         </navLabel>
+         <content src="Text/bibliography.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

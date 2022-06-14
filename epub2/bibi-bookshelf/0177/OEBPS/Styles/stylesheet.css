@@ -1,0 +1,101 @@
+.block {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 7.2pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block1 {
+    display: block;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 7.2pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block2 {
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block3 {
+    display: block;
+    font-family: serif;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block4 {
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    margin-bottom: 6pt;
+    margin-right: 0;
+    margin-top: 6pt;
+    text-align: center;
+    text-indent: 8.5pt;
+    padding: 0
+    }
+.block5 {
+    display: block;
+    font-family: serif;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    margin-bottom: 6pt;
+    margin-right: 0;
+    margin-top: 6pt;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0
+    }
+.block6 {
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    margin-bottom: 6pt;
+    margin-right: 0;
+    margin-top: 6pt;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0
+    }
+.block7 {
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0 6pt 44.5pt
+    }
+.block8 {
+    display: block;
+    font-family: serif;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0 6pt 44.5pt
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 1.5em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }

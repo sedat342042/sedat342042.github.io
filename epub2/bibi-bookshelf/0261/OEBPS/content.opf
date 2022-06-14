@@ -1,0 +1,91 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Saramago, José">José Saramago</dc:creator>
+<dc:identifier id="pub-id">urn:isbn:9789750720758</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf">2008-05-26T21:00:00+00:00</dc:date>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="Görmek" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;José Saramago&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Görmek</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Nobel</dc:subject>
+<dc:subject>Eleştiri</dc:subject>
+<dc:subject>Politik</dc:subject>
+<dc:description>&lt;p&gt;Adı belirsiz bir ülkenin başkentinde seçim günü bardaktan boşanırcasına yağmur yağmaya başlayınca kimse oy atmaya gitmez. Öğleden sonra yağmur durunca, saat tam dörtte, seçmenler sanki emir almışçasına sandıkların başına koşarlar. Ama sandıklar açıldığında, kullanılan oyların yüzde 83'ünün boş olduğu ortaya çıkar. Bunun bozguncu bir grubun, dahası uluslararası bir anarşist örgütün işi olduğunu düşünen hükümet olağanüstü hal ilan eder. Yıllar önce kenti saran "körlük salgını"ndan kurtulan tek kişinin bu olayla bağlantılı olduğundan kuşkulanılır. "Beyaz veba"nın öteki kentlere de yayılmasını önlemek için başkent abluka altına alınır, bir polis komiseri "suçlular"ı bulmakla görevlendirilir.
+
+Nobel Edebiyat Ödülü sahibi José Saramago'nun Körlük'ten sonra kaleme aldığı Görmek, demokrasinin kırılganlığı ve hükümetlerce saptırılması üstüne şaşırtıcı bir taşlama. Günümüz edebiyatının üslup ustasından derin bir çağ eleştirisi.
+&lt;/p&gt;</dc:description>
+<dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">e6fa3df0-9bbe-4aea-9702-f639b86061ef</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750720758</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789750720758</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="chapter10xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="chapter11xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="chapter12xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter13.xhtml" id="chapter13xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter14.xhtml" id="chapter14xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter15.xhtml" id="chapter15xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter16.xhtml" id="chapter16xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter17.xhtml" id="chapter17xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter18.xhtml" id="chapter18xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter19.xhtml" id="chapter19xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="chapter8xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="chapter9xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dedication.xhtml" id="dedicationxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dedication1.xhtml" id="dedication1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="dedicationxhtml"/>
+    <itemref idref="dedication1xhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+    <itemref idref="chapter8xhtml"/>
+    <itemref idref="chapter9xhtml"/>
+    <itemref idref="chapter10xhtml"/>
+    <itemref idref="chapter11xhtml"/>
+    <itemref idref="chapter12xhtml"/>
+    <itemref idref="chapter13xhtml"/>
+    <itemref idref="chapter14xhtml"/>
+    <itemref idref="chapter15xhtml"/>
+    <itemref idref="chapter16xhtml"/>
+    <itemref idref="chapter17xhtml"/>
+    <itemref idref="chapter18xhtml"/>
+    <itemref idref="chapter19xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

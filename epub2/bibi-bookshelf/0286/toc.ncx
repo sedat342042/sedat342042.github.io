@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="300ee8d0-ad5e-46eb-9883-3627a1dbd9bb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.54)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hayatın Anlamı</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Ops/001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Hayatın Anlamı - Tolstoy</text>
+      </navLabel>
+      <content src="Ops/002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Ops/005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>SUNUŞ</text>
+      </navLabel>
+      <content src="Ops/006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>Hayatın Anlamı</text>
+      </navLabel>
+      <content src="Ops/007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>Nerede Sevgi Orada Allah</text>
+      </navLabel>
+      <content src="Ops/008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>Üç Soru</text>
+      </navLabel>
+      <content src="Ops/009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>İnsan Ne İle Yaşar?</text>
+      </navLabel>
+      <content src="Ops/010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>Aydınlık Varoldukça, Aydınlıkta Dolaşın</text>
+      </navLabel>
+      <content src="Ops/011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>Allah Gerçeği Bilir Ama Geç Söyler</text>
+      </navLabel>
+      <content src="Ops/012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>Gerçek Mutluluk</text>
+      </navLabel>
+      <content src="Ops/013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>Irgat Emelyan ve Davul</text>
+      </navLabel>
+      <content src="Ops/014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>En Büyük Ceza</text>
+      </navLabel>
+      <content src="Ops/015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>İki Kardeş ve Altın</text>
+      </navLabel>
+      <content src="Ops/016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-15" playOrder="15">
+      <navLabel>
+        <text>Küçükler Büyüklerden Daha Akıllı Çıktı</text>
+      </navLabel>
+      <content src="Ops/017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-16" playOrder="16">
+      <navLabel>
+        <text>Üç İhtiyar</text>
+      </navLabel>
+      <content src="Ops/018.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <dc:identifier id="bookid" opf:scheme="uuid">d6f59713-4ddc-4263-b19b-6d7cc65b6c84</dc:identifier>
+    <dc:creator opf:file-as="Steinbeck, John" opf:role="aut">John Steinbeck</dc:creator>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:contributor opf:role="aut">Online Media Technologies Ltd.</dc:contributor>
+    <dc:title>Yukarı Mahalle</dc:title>
+    <dc:subject>Öykü</dc:subject>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Danny, yüzyıllar önce Kaliforniya'ya gelmiş İspanyol yerleşimcilerin neslinden bir paisano'dur. Arkadaşlığa paradan çok önem veren Danny, aniden bir mirasa konup iki eve birden sahip olunca, sokaktaki diğer arkadaşlarına kapılarını açar. Bu grubun özgürlük aşkı ve maddi dünyaya duydukları nefret, onları heyecanlı ve çoğu zaman komik maceralara sürükler. Ta ki, Danny, yeni yaşamındaki sorumluluklardan sıkılıp ortadan kaybolana kadar...&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.33.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">43531980-afcb-4f2d-98d4-f03bcb894cda</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751409164</dc:identifier>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="Yukarı Mahalle" name="calibre:title_sort" />
+    <meta content="8.0" name="calibre:rating" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;John Steinbeck&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta name="cover" content="phpThumb_generated_thumbnail.jpeg" />
+    <dc:date opf:event="modification">2014-04-21</dc:date>
+  </metadata>
+  <manifest>
+    <opf:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/book_toc.xhtml" id="book_toc_id" media-type="application/xhtml+xml" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/content_2.xhtml" id="id2" media-type="application/xhtml+xml" />
+    <item href="Text/content_3.xhtml" id="id3" media-type="application/xhtml+xml" />
+    <item href="Text/content_4.xhtml" id="id4" media-type="application/xhtml+xml" />
+    <item href="Text/content_1.xhtml" id="content_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/phpThumb_generated_thumbnail.jpeg" id="phpThumb_generated_thumbnail.jpeg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="content_1.xhtml" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="id2" />
+    <itemref idref="id3" />
+    <itemref idref="id4" />
+    <itemref idref="book_toc_id" />
+  </spine>
+  <guide>
+    <reference href="Text/book_toc.xhtml#maintoc" title="Table of Contents" type="toc" />
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

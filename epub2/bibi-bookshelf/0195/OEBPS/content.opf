@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Hesse, Hermann">Hermann Hesse</dc:creator>
+<dc:identifier id="uuid">{9E1BB19D-3D50-4687-B5DA-A8945A8A58E3}</dc:identifier>
+    <dc:date>1997-12-05T22:00:00+00:00</dc:date>
+    <dc:publisher>Afa Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;“Yolculuğun öyküsünü kaleme almamı zorlaştıran bir başka şey, yalnızca değişik mekanlarda değil, değişik zamanlar içinde de onu sürdürmemizdi. Doğuya gidiyor ama bir yandan da Ortaçağa ya da Altınçağa uzanıyorduk; İtalya ya da İsviçre içinde yol alıyor, ama bazen onuncu yüzyılda geceliyor, kilise babalarına ya da perilere konuk oluyorduk. (...) Öyle zamanlar oldu ki okuduğum kitaplardaki sevdiğim kişilerle sarıldı çevrem. (...) Amacımız yalnızca Doğuya ulaşmak değildi, daha doğrusu Doğu yalnızca bir toprak parçası, coğrafi bir yer olmakla kalmayıp aynı zamanda ruhlarımızın anavatanını ve gençliğini oluşturmaktaydı, hem her yerdeydi Doğu, hem hiçbir yerdeydi, tüm zamanların yekvücut olmasıydı.”
+Hermann Hesse&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Doğu'ya yolculuk"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hermann Hesse&quot;: &quot;&quot;}"/>
+  <dc:title>Doğu'ya yolculuk</dc:title>
+<dc:subject>Kurgu</dc:subject>
+<dc:subject>Alman Edebiyatı</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">5b9a2b0e-a505-41bc-81f4-96d95d041403</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9754142130</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/herman.xhtml" id="herman.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arkakapak.xhtml" id="arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="herman.xhtml"/>
+    <itemref idref="arkakapak.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

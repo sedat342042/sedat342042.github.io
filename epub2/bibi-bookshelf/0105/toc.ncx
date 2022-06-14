@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="af665474-5a30-4695-bdf0-426a8e57a6af" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.13.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kasvetli Ev II</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{1416F3E4-6350-4310-9B60-FA6B987F0E26}" playOrder="1">
+      <navLabel>
+        <text>XXXI. Bölüm HEMŞİRE VE HASTA</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{6A1284F8-7E61-484E-9ED1-0B4049CD40C4}" playOrder="2">
+      <navLabel>
+        <text>YÜREK BURGUSU</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{D4973AA4-27D3-4AAD-BB89-124C079108F9}" playOrder="3">
+      <navLabel>
+        <text>XXXVII. Bölüm JARNDYCE JARNDYCE'E KARŞI</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{6530D2F8-4E0D-4B23-9358-5B0F68FABF1E}" playOrder="4">
+      <navLabel>
+        <text>MİLLİ MESELELER VE EV MESELELERİ</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{8204914A-C4A6-4C49-BE40-EBB349824A89}" playOrder="5">
+      <navLabel>
+        <text>MEKTUP VE CEVABI</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{4221F10B-D4ED-48E2-B287-68FB9390AC32}" playOrder="6">
+      <navLabel>
+        <text>XLVIII. Bölüm KUŞATMA</text>
+      </navLabel>
+      <content src="main-6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{D08B40D8-B4F9-4F79-8CF2-F45CFF497935}" playOrder="7">
+      <navLabel>
+        <text>AYDINLANMA</text>
+      </navLabel>
+      <content src="main-7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{980BDEF2-F3CA-4380-9C57-377C33C51320}" playOrder="8">
+      <navLabel>
+        <text>Tek başına kalan Sir Leicester sanki hâlâ dinliyor</text>
+      </navLabel>
+      <content src="main-8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{EC89F0A8-A02D-4F2F-8E7D-BFB751800273}" playOrder="9">
+      <navLabel>
+        <text>KARLI BÎR GÜN VE GECESİ</text>
+      </navLabel>
+      <content src="main-9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{7833BF9E-2188-40D1-817C-35B1DAA2BE84}" playOrder="10">
+      <navLabel>
+        <text>BİR KESİF</text>
+      </navLabel>
+      <content src="main-10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{E463FF8D-9DEA-4627-B88F-802E04846945}" playOrder="11">
+      <navLabel>
+        <text>DÜNYANIN BAŞLANGICI</text>
+      </navLabel>
+      <content src="main-11.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

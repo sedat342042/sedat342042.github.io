@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{B4548490-543C-4E7D-A587-F1DF7DB158E8}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>bir_adam_yaratmak</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BİR ADAM YARATMAK</text>
+      </navLabel>
+      <content src="Text/main.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ PERDE</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml#sigil_toc_id_1"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>BİRİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>İKİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>ÜÇÜNCÜ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>DÖRDÜNCÜ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>BEŞİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>ALTINCI SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>YEDİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>SEKİZİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>DOKUZUNCU SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>ONUNCU SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>ONBİRİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0015.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>ONİKİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0016.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>İKİNCİ PERDE</text>
+      </navLabel>
+      <content src="Text/Section0017.xhtml#sigil_toc_id_11"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>BİRİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>İKİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0019.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>ÜÇÜNCÜ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0020.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>DÖRDÜNCÜ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0021.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>BEŞİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0022.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>ALTINCI SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0023.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>YEDİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0024.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>SEKİZİNCE SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0025.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>DOKUZUNCU SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0026.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>ONUNCU SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0027.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>ÜÇÜNCÜ PERDE</text>
+      </navLabel>
+      <content src="Text/Section0028.xhtml#sigil_toc_id_21"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>BİRİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>ÜÇÜNCÜ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0030.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>DÖRDÜNCÜ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0031.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>BEŞİNCİ PERDE</text>
+        </navLabel>
+        <content src="Text/Section0032.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>ALTINCI SAHNE</text>
+      </navLabel>
+      <content src="Text/Section0033.xhtml#sigil_toc_id_25"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>YEDİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0034.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>SEKİZİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0035.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>DOKUZUNCU SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0036.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>ONUNCU SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0037.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>ONBİRİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0038.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>ONİKİNCİ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0039.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>ONÜÇÜNCÜ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0040.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>ONDÖRDÜNCÜ SAHNE</text>
+        </navLabel>
+        <content src="Text/Section0041.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

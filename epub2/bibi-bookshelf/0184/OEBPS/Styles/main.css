@@ -1,0 +1,181 @@
+
+
+/*
+ *chapter
+ */
+
+h1,h2{
+	font-family:Berling;
+	font-size:1.25em;
+	font-weight:normal;
+	text-align:center;
+  margin: 0 0 .5em;
+}
+.head{
+  margin-bottom: 2.5em;
+}
+p{
+	font-family:Berling;
+	font-size:0.875em;
+	line-height:1.4em;
+	margin:0;
+	text-indent:1.5em;
+}
+
+.right{
+  text-align: right;
+  margin-top:1em;
+}
+.date{
+  text-align: right;
+  margin-bottom: 1em;
+}
+.center{
+  text-align: center;
+  margin-bottom: 1em;
+}
+.double{
+	margin-top: 2em;
+}
+.telg{
+  text-align: center;
+}
+.margin-top{
+  margin-top: 1em;
+}
+blockquote{
+margin:1em 0 1em 1.3em;
+}
+blockquote p,.note{
+	text-indent: 0;
+}
+.letter{
+  margin: 1em 0;
+}
+.text{
+  margin: 1em;
+}
+.letter p,.text p{
+  font-family: Gill;
+  text-indent: 1.5em;
+}
+.subtitle{
+  font-family: BerlingM;
+  font-size: 1em;
+  margin: 1.2em 0 1em;
+}
+/*other*/
+.kunye span{
+  font-family: Gill;
+  font-size:0.667em;
+  display: block;
+}
+.copy{
+  margin: .8em 0 0 ;
+}
+a{
+  text-decoration: none;
+  color: #7A7A7A;
+}
+
+.title{
+  text-align: center;
+}
+.aut{
+  font-family: Goudy;
+  font-size: 1.65em;
+  margin-bottom: 0;
+}
+.aut span{
+  font-size: 1.14em;
+}
+.work{
+  font-family: Goudy;
+  font-size: 2.6em;
+  margin-top: .5em;
+}
+
+.seri{
+  font-family: Gill;
+  font-size: .92em;
+  margin-top: 2.5em
+}
+
+.biography p{
+  font-family: Gill;
+  font-weight: normal;
+  font-size: .75em;
+  text-indent: 0;
+  line-height: 1.5em;
+}
+li{
+font-family: Gill;
+font-size: .75em;
+list-style: none;
+padding-bottom: .5em;
+}
+ul{
+	margin: 1.5em 0 0;
+	padding:0;
+}
+.books h1,.bibliography h1{
+font-family: Gill;
+font-weight: normal;
+font-size: .75em;
+text-align: left;
+}
+.bibliography p{
+	font-family: Gill;
+	text-indent: 0;
+	font-size: .7em;
+	padding-bottom: .5em;
+}
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .72em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+  margin:4em 0 1em;
+}
+.si-backref{
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+.si-footnote{
+  font-family: Gill;
+  font-size: .8em;
+  margin-bottom: .3em;
+}
+.logo{
+  margin: 3em auto 0 auto;
+  
+}
+.cover-container img{
+  max-width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 450px;
+  page-break-inside: avoid;
+}
+.preface, .afterword{
+font-size: .93em;
+}
+figcaption{
+  text-align: right;
+  font-family: Gill;
+  font-size: .7em;
+}
+.frontmatter figure{
+  margin:2em auto;
+  width:99%;
+  max-width: 450px;
+}
+figure img{
+  width: 100%;
+}

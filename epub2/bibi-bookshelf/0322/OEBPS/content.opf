@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Atay, Oğuz">Oğuz Atay</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c12ae27a-dc17-4616-bfa9-75f3cf9fd8fb</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Eylembilim, Oğuz Atay'ın aramızdan tamamlayamadan ayrıldığı son eseri. Geçtiğimiz yıllarda bu eserin "ulaşabildiğimiz" kadarını Günlük'e ekleyerek yayımlamıştık. Artık Oğuz Atay'ın yazdıklarının tamamına ulaştık ve Eylembilim bir kitap oldu. 12 Mart arefesindeki karışık ortamda üniversitedeki olaylar karşısında 'saflar'ını belirlemeye çalışan "akademikler"i anlatan metin, tadına doyulmaz bir kara mizah gösterisi.&lt;/p&gt;</dc:description>
+    <dc:publisher>İletişim Yayınevi</dc:publisher>
+    <meta content="{&quot;Oğuz Atay&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="2014-03-15T18:20:07.796000+00:00" name="calibre:timestamp"/>
+    <meta content="Eylembilim" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-03-18</dc:date>
+  <dc:title>Eylembilim</dc:title>
+<meta name="calibre:series" content="Oğuz Atay Bütün Eserleri"/>
+<meta name="calibre:series_index" content="7.0"/>
+<dc:subject>Kara Mizah</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8ce35dd5-9503-491a-9978-94173bfb8730</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9754706999</dc:identifier>
+<meta name="calibre:user_metadata:#tagread" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#tagread&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;tagread&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;use_decorations&quot;: 2}, &quot;name&quot;: &quot;TagRead?&quot;}"/>
+        <meta name="calibre:user_metadata:#goodreadsrating" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 3, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 24, &quot;search_terms&quot;: [&quot;#goodreadsrating&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;goodreadsrating&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;GRRating&quot;}"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;read&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Kapak.xhtml" id="Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Mektup.xhtml" id="Mektup.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Format.css" id="Format.css" media-type="text/css"/>
+    <item href="Text/Giris.xhtml" id="Giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1.xhtml" id="Bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2.xhtml" id="Bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3.xhtml" id="Bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4.xhtml" id="Bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Mektup.xhtml"/>
+    <itemref idref="Giris.xhtml"/>
+    <itemref idref="Bolum1.xhtml"/>
+    <itemref idref="Bolum2.xhtml"/>
+    <itemref idref="Bolum3.xhtml"/>
+    <itemref idref="Bolum4.xhtml"/>
+  </spine>
+  <guide/>
+</package>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Hemingway, Ernest" opf:role="aut">Ernest Hemingway</dc:creator>
+    <dc:publisher>Varlık Yayınevi</dc:publisher>
+    <meta content="1.0" name="calibre:series_index" />
+    <meta content="Kilimanjaro'nun Karları" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <dc:description>&lt;div&gt;&lt;p&gt;Filmi de çevrilerek büyük bir rağbet kazanan Kilimanjaro'nun Karları, ünlü Amerikan yazarı Hemingway'in en sevilmiş hikâyelerinden biridir. Esasen Hemingway, romanlarından çok, irili ufaklı hikayeleriyle asıl şöhretini yapmış, bu eserleri bütün dünya dillerine tekrar tekrar çevrilerek hayranlıkla okunmuştur.&lt;/p&gt; &lt;p&gt;Hemingway, dinamik, hareketli anlatış tarzıyla günümüz Amerika'sını en iyi temsil edenlerden biri olduğu için Amerika'da bugün yaşayan yazarların en ünlüsü sayılmak şerefine erişmiştir.&lt;/p&gt; &lt;p&gt;Bu ciltte onun çok sevilmiş hikâyelerinin başlıcalarını bulacaksınız.&lt;/p&gt; &lt;p&gt;(Arka kapaktan)&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <meta content="2014-02-23T20:55:12+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <dc:date>1957-07-01T20:55:12+00:00</dc:date>
+    <meta content="Varlık Büyük Cep Kitapları" name="calibre:series" />
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">01ddd830-ae5f-479d-a19f-37bab602cde0</dc:identifier>
+    <dc:title>Kilimanjaro'nun Karları</dc:title>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Kısa Öykü</dc:subject>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Ernest Hemingway&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">498cf1d2-217e-49d1-85ba-bc41f5380dad</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754941289</dc:identifier>
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2014-02-23</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Text/index_split_000.xhtml" id="id119" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_001.xhtml" id="id118" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_002.xhtml" id="id117" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_003.xhtml" id="id116" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_004.xhtml" id="id115" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_005.xhtml" id="id114" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_006.xhtml" id="id113" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_007.xhtml" id="id112" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_008.xhtml" id="id111" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_009.xhtml" id="id110" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_010.xhtml" id="id19" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_011.xhtml" id="id18" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_012.xhtml" id="id17" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_013.xhtml" id="id16" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_014.xhtml" id="id15" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_015.xhtml" id="id14" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_016.xhtml" id="id13" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_017.xhtml" id="id12" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_018.xhtml" id="id11" media-type="application/xhtml+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="id119" />
+    <itemref idref="id118" />
+    <itemref idref="id117" />
+    <itemref idref="id116" />
+    <itemref idref="id115" />
+    <itemref idref="id114" />
+    <itemref idref="id113" />
+    <itemref idref="id112" />
+    <itemref idref="id111" />
+    <itemref idref="id110" />
+    <itemref idref="id19" />
+    <itemref idref="id18" />
+    <itemref idref="id17" />
+    <itemref idref="id16" />
+    <itemref idref="id15" />
+    <itemref idref="id14" />
+    <itemref idref="id13" />
+    <itemref idref="id12" />
+    <itemref idref="id11" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

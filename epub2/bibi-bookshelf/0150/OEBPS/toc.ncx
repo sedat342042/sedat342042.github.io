@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="cb67de1e-cd61-4e02-a4b3-bfac3ec4d380" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Karamazov Kardeşler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazardan</text>
+      </navLabel>
+      <content src="Text/karamazov_split_004.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Birinci Bölüm Birinci Kitap Bir Ailenin Hikâyesi</text>
+      </navLabel>
+      <content src="Text/karamazov_split_005.html" />
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>I Fyodor Pavloviç Karamazov</text>
+        </navLabel>
+        <content src="Text/karamazov_split_006.html" />
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>II İlk Oğlunu Başından Atması</text>
+        </navLabel>
+        <content src="Text/karamazov_split_007.html" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>III İkinci Evlenme ve İkinci Çocuklar</text>
+        </navLabel>
+        <content src="Text/karamazov_split_008.html" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>IV Üçüncü Oğul Alyoşa</text>
+        </navLabel>
+        <content src="Text/karamazov_split_009.html" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>V Staretzler</text>
+        </navLabel>
+        <content src="Text/karamazov_split_010.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>İkinci Kitap Yersiz Bir Toplantı</text>
+      </navLabel>
+      <content src="Text/karamazov_split_011.html" />
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>I Manastıra Geliş</text>
+        </navLabel>
+        <content src="Text/karamazov_split_012.html" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>II Koca Soytarı</text>
+        </navLabel>
+        <content src="Text/karamazov_split_013.html" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>III İmanlı Kadınlar</text>
+        </navLabel>
+        <content src="Text/karamazov_split_014.html" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>IV İmanı Kıt Bir Hanımefendi</text>
+        </navLabel>
+        <content src="Text/karamazov_split_015.html" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>V Bu Olacaktır!</text>
+        </navLabel>
+        <content src="Text/karamazov_split_016.html" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>VI Böyle Bir Adam Ne Diye Yaşıyor!</text>
+        </navLabel>
+        <content src="Text/karamazov_split_017.html" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>VII Haris Bir Papaz Adayı</text>
+        </navLabel>
+        <content src="Text/karamazov_split_018.html" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>VIII Rezalet</text>
+        </navLabel>
+        <content src="Text/karamazov_split_019.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Üçüncü Kitap Şehvet Düşkünleri</text>
+      </navLabel>
+      <content src="Text/karamazov_split_020.html" />
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>I Uşaklar Odasında</text>
+        </navLabel>
+        <content src="Text/karamazov_split_021.html" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>II Lizaveta Smerdyaşçaya</text>
+        </navLabel>
+        <content src="Text/karamazov_split_022.html" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>III Ateşli Bir Kalbin Manzum İtirafı</text>
+        </navLabel>
+        <content src="Text/karamazov_split_023.html" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>IV Ateşli Bir Kalbin Fıkralar Halinde İtirafı</text>
+        </navLabel>
+        <content src="Text/karamazov_split_024.html" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>V Ateşli Kalbin İtirafı</text>
+        </navLabel>
+        <content src="Text/karamazov_split_025.html" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>VI Smerdyakov</text>
+        </navLabel>
+        <content src="Text/karamazov_split_026.html" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>VII Tartışma</text>
+        </navLabel>
+        <content src="Text/karamazov_split_027.html" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>VIII Konyak Âlemi</text>
+        </navLabel>
+        <content src="Text/karamazov_split_028.html" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>IX Şehvet Düşkünleri</text>
+        </navLabel>
+        <content src="Text/karamazov_split_029.html" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>X İkisi Bir arada</text>
+        </navLabel>
+        <content src="Text/karamazov_split_030.html" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>XI Lekeli Bir İsim Daha</text>
+        </navLabel>
+        <content src="Text/karamazov_split_031.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>İkinci Bölüm Dördüncü Kitap Acılar</text>
+      </navLabel>
+      <content src="Text/karamazov_split_032.html" />
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>I Ferapont Baba</text>
+        </navLabel>
+        <content src="Text/karamazov_split_033.html" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>II Babasında</text>
+        </navLabel>
+        <content src="Text/karamazov_split_034.html" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>III Okul Çocuklarıyla Çatışıyor</text>
+        </navLabel>
+        <content src="Text/karamazov_split_035.html" />
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>IV Hohlakovlar’da</text>
+        </navLabel>
+        <content src="Text/karamazov_split_036.html" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>V Salondaki Acılar</text>
+        </navLabel>
+        <content src="Text/karamazov_split_037.html" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>VI Kulübedeki Acılar</text>
+        </navLabel>
+        <content src="Text/karamazov_split_038.html" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>VII Temiz Havada</text>
+        </navLabel>
+        <content src="Text/karamazov_split_039.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Beşinci Kitap Pro ve Contra</text>
+      </navLabel>
+      <content src="Text/karamazov_split_040.html" />
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>I Söz Kesme</text>
+        </navLabel>
+        <content src="Text/karamazov_split_041.html" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>II Smerdyakov ve Gitarı</text>
+        </navLabel>
+        <content src="Text/karamazov_split_042.html" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>III Kardeşlerin Tanışması</text>
+        </navLabel>
+        <content src="Text/karamazov_split_043.html" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>IV İsyan</text>
+        </navLabel>
+        <content src="Text/karamazov_split_044.html" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>V Büyük Engizisyoncu</text>
+        </navLabel>
+        <content src="Text/karamazov_split_045.html" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>VI Karanlık Henüz Dağılmamış...</text>
+        </navLabel>
+        <content src="Text/karamazov_split_046.html" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>VII “Akıllı İnsanla Konuşmak Zevklidir!”</text>
+        </navLabel>
+        <content src="Text/karamazov_split_047.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Altıncı Kitap Rus Rahibi</text>
+      </navLabel>
+      <content src="Text/karamazov_split_048.html" />
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>I Staretz Zosima ve Konukları</text>
+        </navLabel>
+        <content src="Text/karamazov_split_049.html" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>II Tanrının Rahmetine Kavuşan Rahip ve Keşiş Staretz Zosima’nın Hayatı: Staretzin Ağzından Aleksey F</text>
+        </navLabel>
+        <content src="Text/karamazov_split_050.html" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>III Staretz Zosima’nın Konuşma ve Öğütlerinden</text>
+        </navLabel>
+        <content src="Text/karamazov_split_051.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Üçüncü Bölüm Yedinci Kitap Alyoşa</text>
+      </navLabel>
+      <content src="Text/karamazov_split_052.html" />
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>I Çürüme Kokusu</text>
+        </navLabel>
+        <content src="Text/karamazov_split_053.html" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>II Böyle Bir Dakikacık...</text>
+        </navLabel>
+        <content src="Text/karamazov_split_054.html" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>III Bir Baş Soğan</text>
+        </navLabel>
+        <content src="Text/karamazov_split_055.html" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>IV Celile’nin Kana Şehri</text>
+        </navLabel>
+        <content src="Text/karamazov_split_056.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Sekizinci Kitap Mitya</text>
+      </navLabel>
+      <content src="Text/karamazov_split_057.html" />
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>I Kuzma Samsonov</text>
+        </navLabel>
+        <content src="Text/karamazov_split_058.html" />
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>II Lyagavıy</text>
+        </navLabel>
+        <content src="Text/karamazov_split_059.html" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>III Altın Madeni</text>
+        </navLabel>
+        <content src="Text/karamazov_split_060.html" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>IV Karanlıkta</text>
+        </navLabel>
+        <content src="Text/karamazov_split_061.html" />
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>V Ani Karar</text>
+        </navLabel>
+        <content src="Text/karamazov_split_062.html" />
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>VI Ben Geliyorum!</text>
+        </navLabel>
+        <content src="Text/karamazov_split_063.html" />
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>VII İlk Gözağrısı</text>
+        </navLabel>
+        <content src="Text/karamazov_split_064.html" />
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>VIII Çılgınlık</text>
+        </navLabel>
+        <content src="Text/karamazov_split_065.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Dokuzuncu Kitap Ön Kovuşturma</text>
+      </navLabel>
+      <content src="Text/karamazov_split_066.html" />
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>I Memur Perhotkin’in Mesleğinde İlk Adımları</text>
+        </navLabel>
+        <content src="Text/karamazov_split_067.html" />
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>II Tehlike İşareti</text>
+        </navLabel>
+        <content src="Text/karamazov_split_068.html" />
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>III Ruhun Çileleri</text>
+        </navLabel>
+        <content src="Text/karamazov_split_069.html" />
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>IV İkinci Çile</text>
+        </navLabel>
+        <content src="Text/karamazov_split_070.html" />
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>V Üçüncü Çile</text>
+        </navLabel>
+        <content src="Text/karamazov_split_071.html" />
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>VI Savcı, Mitya’yı Açmaza Düşürüyor</text>
+        </navLabel>
+        <content src="Text/karamazov_split_072.html" />
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>VII Mitya’nın Büyük Sırrı Alaya Alınıyor</text>
+        </navLabel>
+        <content src="Text/karamazov_split_073.html" />
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>VIII Tanıkların Anlattıkları, Bebek</text>
+        </navLabel>
+        <content src="Text/karamazov_split_074.html" />
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>IX Mitya’yı Götürüyorlar</text>
+        </navLabel>
+        <content src="Text/karamazov_split_075.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Dördüncü Bölüm Onuncu Kitap Çocuklar</text>
+      </navLabel>
+      <content src="Text/karamazov_split_076.html" />
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>I Kolya Krasotkin</text>
+        </navLabel>
+        <content src="Text/karamazov_split_077.html" />
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>II Yumurcaklar</text>
+        </navLabel>
+        <content src="Text/karamazov_split_078.html" />
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>III Öğrenci</text>
+        </navLabel>
+        <content src="Text/karamazov_split_079.html" />
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>IV Juçka</text>
+        </navLabel>
+        <content src="Text/karamazov_split_080.html" />
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>V İlyuşa’nın Başucunda</text>
+        </navLabel>
+        <content src="Text/karamazov_split_081.html" />
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>VI Erken Gelişme</text>
+        </navLabel>
+        <content src="Text/karamazov_split_082.html" />
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>VII İlyuşa</text>
+        </navLabel>
+        <content src="Text/karamazov_split_083.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>On Birinci Kitap İvan Fyodoroviç Kardeş</text>
+      </navLabel>
+      <content src="Text/karamazov_split_084.html" />
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>I Gruşenka’da</text>
+        </navLabel>
+        <content src="Text/karamazov_split_085.html" />
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>II Hasta Ayak</text>
+        </navLabel>
+        <content src="Text/karamazov_split_086.html" />
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>III Küçük Şeytan</text>
+        </navLabel>
+        <content src="Text/karamazov_split_087.html" />
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>IV Kaside ve Sır</text>
+        </navLabel>
+        <content src="Text/karamazov_split_088.html" />
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>V Sen Değilsin, Sen Değilsin!</text>
+        </navLabel>
+        <content src="Text/karamazov_split_089.html" />
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>VI Smerdyakov’la Birinci Görüşme</text>
+        </navLabel>
+        <content src="Text/karamazov_split_090.html" />
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>VII Smerdyakov’la İkinci Görüşme</text>
+        </navLabel>
+        <content src="Text/karamazov_split_091.html" />
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>VIII Smerdyakov’la Üçüncü ve Son Görüşme</text>
+        </navLabel>
+        <content src="Text/karamazov_split_092.html" />
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>IX Şeytan. İvan Fyodoroviç’in Kâbusu</text>
+        </navLabel>
+        <content src="Text/karamazov_split_093.html" />
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>X “O Söyledi Bunu!”</text>
+        </navLabel>
+        <content src="Text/karamazov_split_094.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>On İkinci Kitap Adli Hata</text>
+      </navLabel>
+      <content src="Text/karamazov_split_095.html" />
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>I Uğursuz Gün</text>
+        </navLabel>
+        <content src="Text/karamazov_split_096.html" />
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>II Tehlikeli Tanıklar</text>
+        </navLabel>
+        <content src="Text/karamazov_split_097.html" />
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>III Tıbbi Muayene ve Bir Kilo Fındık</text>
+        </navLabel>
+        <content src="Text/karamazov_split_098.html" />
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>IV Talih Mitya’ya Gülüyor</text>
+        </navLabel>
+        <content src="Text/karamazov_split_099.html" />
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>V Ani Felaket</text>
+        </navLabel>
+        <content src="Text/karamazov_split_100.html" />
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>VI Savcının Konuşması. Tahliller.</text>
+        </navLabel>
+        <content src="Text/karamazov_split_101.html" />
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>VII Olayın Ardındaki Hikâye</text>
+        </navLabel>
+        <content src="Text/karamazov_split_102.html" />
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>VIII Smerdyakov Konusu</text>
+        </navLabel>
+        <content src="Text/karamazov_split_103.html" />
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>IX Bol Psikoloji. Doludizgin Troyka.</text>
+        </navLabel>
+        <content src="Text/karamazov_split_104.html" />
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>X Savunma. İki Ucu Sivri Değnek.</text>
+        </navLabel>
+        <content src="Text/karamazov_split_105.html" />
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>XI Ortada Ne Para, Ne Hırsızlık Vardı</text>
+        </navLabel>
+        <content src="Text/karamazov_split_106.html" />
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>XII Cinayet İşlenmiş Değil</text>
+        </navLabel>
+        <content src="Text/karamazov_split_107.html" />
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>XIII Düşünceye İhanet</text>
+        </navLabel>
+        <content src="Text/karamazov_split_108.html" />
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>XIV Mujikler Gösterdiler Kendilerini</text>
+        </navLabel>
+        <content src="Text/karamazov_split_109.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-107" playOrder="107">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="Text/karamazov_split_110.html" />
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>I Mitya’yı Kurtarma Tasarısı</text>
+        </navLabel>
+        <content src="Text/karamazov_split_111.html" />
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>II Bir An İçin Yalan Gerçek Oldu</text>
+        </navLabel>
+        <content src="Text/karamazov_split_112.html" />
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>III İlyuşeçka’nın Toprağa Verilmesi. Taşın Önündeki Nutuk.</text>
+        </navLabel>
+        <content src="Text/karamazov_split_113.html" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

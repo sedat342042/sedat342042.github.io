@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "Amasis";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/amasis-normal.ttf);
+  }
+@font-face {
+  font-family: "Amasis";
+  font-weight: italic;
+  font-style: italic;
+  src: url(../Fonts/amasis-italic.ttf);
+  }
+@font-face {
+  font-family: "Amasis";
+  font-weight: bold;
+  font-style: italic;
+  src: url(../Fonts/amasis-bold-italic.ttf);
+  }
+@font-face {
+  font-family: "Amasis";
+  font-weight: bold;
+  font-style: bold;
+  src: url(../Fonts/amasis-bold.ttf);
+  }
+p {
+  text-align: justify;
+  font-family: "Amasis";
+  text-indent: 1.5em;
+  margin: 0.4em 0;
+}
+h1 {
+  text-align: center;
+  font-family: "Amasis";
+  font-size: 1.5em;
+  margin: 1em 0 0.5em;
+}
+h2 {
+  text-align: center;
+  font-family: "Amasis";
+  margin: 0 0 3em;
+}
+h3 {
+  font-family: "Amasis";
+  font-size: 1.1em;
+  text-align: center;
+  margin: 0 0 0;
+  font-weight: normal;
+}
+#author-name {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin: 1em 0 2.5em;
+}
+#book-name {
+  font-size: 2.2em;
+  font-weight: bold;
+}
+#translator {
+  margin: 3em 0 0;
+}
+#translator2 {
+  font-weight: bold;
+  margin: 0 0 4em;
+}
+#publisher {
+  font-weight: bold;
+  margin: 1em 0 0;
+}
+#publisher2 {
+  font-weight: bold;
+}
+.quote {
+  text-indent: 15.6%;
+  font-style: italic;
+}
+.quote2 {
+  text-indent: 18.7%;
+  font-style: italic;
+}
+.quote3 {
+  text-align: right;
+  font-style: italic;
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Marquez, Gabriel Garcia">Gabriel Garcia Marquez</dc:creator>
+<dc:identifier id="BookId">AWP-47F407D8-2B2F-4257-8570-C84B29381B72</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2011-01-23T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-03-02</dc:date>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Mavi Köpeğin Gözleri</dc:title>
+<meta name="calibre:title_sort" content="Mavi Köpeğin Gözleri"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Kısa Öykü</dc:subject>
+<dc:subject>Büyülü Gerçeklik</dc:subject>
+<dc:subject>İspanyol</dc:subject>
+<dc:description>&lt;p&gt;"Görünmez bir güneş omuzlarımızı ısıtmaya başladı. Ama güneşin varlığı bile ilgimizi çekmiyordu. Mesafe, zaman ve yön kavramımızı kaybetmiş halde orada, nerede olduğunu bilmediğimiz bir yerde oturduk. Yanımızdan birçok ses geçti. 'Çulluklar gözlerimizi oydu,' dedik. Seslerden biriyse şöyle dedi: 'Bunlar gazeteleri fazla ciddiye almışlar.' Sesler ortadan kayboldu. Bizse öylece, omuz omuza oturmaya devam ettik." 
+Rüyalar, kazalar, pişmanlıklar, inanç, özlem ve ölüm... 
+Büyülü gerçekliğin gizemli ve puslu atmosferlerle buluştuğu bu öykülerde Gabriel García Márquez, yatalak bir genç adam, kedisinin bedenine girmek isteyen bir kadın, evladının ölümünün yaraladığı bir anne, ikizi ölen bir kardeş, gözleri çulluklar tarafından oyulan üç adam, kurbanını sabırla bekleyen ölüm meleği gibi birbirinden çok farklı kurgusal ve mitolojik kahramanlara gönderme yapan kişiliklerin, bedensel ve düşünsel hassasiyet anlarını anlatıyor.
+Yazarın ilk eserlerini barındıran Mavi Köpeğin Gözleri, Márquez'in 1947-1955 yılları arasında yazdığı on iki öyküden oluşuyor. Kitap, tarzı, temaları, karakterleri ve bilhassa yazarın "Yüzyıllık Yalnızlık'a değişmem," dediği "Çullukların Gecesi" öyküsüyle bir Márquez şenliği.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Gabriel Garcia Marquez&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e4e283f8-71cd-41b8-a005-26f60766a363</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750718540</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="id018" media-type="application/xhtml+xml"/>
+    <item href="Text/019.html" id="id019" media-type="application/xhtml+xml"/>
+    <item href="Text/020.html" id="id020" media-type="application/xhtml+xml"/>
+    <item href="Text/021.html" id="id021" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+    <item href="Images/img2.png" id="img2" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001" linear="no"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="id021"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/001.html" title="Cover" type="cover"/>
+    <reference href="Text/008.html#a3" title="Table of Contents" type="toc"/>
+    <reference href="Text/009.html#a15" title="Beginning" type="text"/>
+  </guide>
+</package>

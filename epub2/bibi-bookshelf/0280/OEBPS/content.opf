@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Hamsun, Knut">Knut Hamsun</dc:creator>
+<dc:identifier id="uuid">{80D77EBB-0D68-4E9D-ABFF-4680E9841ADF}</dc:identifier>
+    <dc:date>2009-01-15T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Knut Hamsun, benzersiz üslubuyla, yolu Nor-veç'in liman kentlerinden birine düşen gezgin öğrenci Parelius'un yanında kendi dünyasına götürüyor bizi. Güzel, çekingen tavırlı Rosa'ya gönlünü kaptıran Parelius'un izinde, henüz gelişmekte olan para ekonomisindeki dalgalanmaların, insanların sosyal, ekonomik, hatta duygusal yaşamlarında yarattığı sarsıntıları göz önüne seriyor Hamsun. İnsanın çevresini saran amansız boşluğu maddiyatla doldurmanın ancak görünüşte mümkün olduğu bu yeni dünyada, mutluluğun tanımının da değişen pek çok şeyden biri olduğunu bütün çıplaklığıyla yüzümüze haykıran Rosa, Nobel ödüllü büyük yazarın en önemli yapıtları arasındadır. Bu güzel kitabı Behçet Necatigil'in çevirisiyle yayımlıyoruz.&lt;/p&gt;</dc:description>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Rosa"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Knut Hamsun&quot;: &quot;&quot;}"/>
+  <dc:title>Rosa</dc:title>
+<dc:subject>İskandinav Edebiyatı</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">63a90402-e481-4872-bd56-e52f5f84a1ea</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750710919</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-title.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-bio.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/R.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="titlepage"/>
+    <itemref idref="id6"/>
+    <itemref idref="id"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

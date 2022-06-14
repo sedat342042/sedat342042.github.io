@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Kemal, Orhan">Orhan Kemal</dc:creator>
+<meta name="calibre:title_sort" content="Cemile"/>
+    <meta name="calibre:timestamp" content="2014-03-17T12:00:17.084000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-03-29T11:53:51+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.28.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5c7599da-764a-4157-8da6-12b22594765f</dc:identifier>
+    <dc:title>Cemile</dc:title>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Orhan Kemal&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">5c7599da-764a-4157-8da6-12b22594765f</dc:identifier>
+<dc:identifier opf:scheme="MOBI-ASIN">4957eda1-f5e9-4b57-95ea-c0c6cbb3eb44</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Cemile_split_000.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Cemile_split_001.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,14 @@
+@font-face{font-family:"Calibri";font-style:normal;font-weight:bold;src:url(fonts/calibrib.ttf)}
+@font-face{font-family:"Calibri";font-style:normal;font-weight:normal;src:url(fonts/calibri.ttf)}
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+p{text-indent:0;margin-left:0;line-height:108%;margin-right:0;text-align:justify;margin-top:0;margin-bottom:0;font-family:Calibri,sans-serif;font-size:100%}
+.p0{text-align:center}
+.p2{line-height:100%;text-align:left}
+.t0{font-weight:bold}
+.t1{font-size:4.4em;line-height:108%;font-weight:bold}
+.t2{font-size:3.3em;line-height:108%;font-weight:bold}
+.t3{font-size:2.4em;line-height:108%;font-weight:bold}
+.t4{font-size:1.6em;line-height:108%;font-weight:bold}
+.t6{font-size:1.1em;line-height:108%;font-weight:bold}
+.t7{font-size:1.3em;line-height:108%;font-weight:bold}

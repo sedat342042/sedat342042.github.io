@@ -1,0 +1,223 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Pamuk, Orhan">Orhan Pamuk</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+    <dc:date>1998-01-14T22:00:00+00:00</dc:date>
+    <dc:publisher>İletişim</dc:publisher>
+    <dc:date opf:event="modification">2014-01-20</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Benim Adım Kırmızı</dc:title>
+<meta name="calibre:title_sort" content="Benim Adım Kırmızı"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;Benim Adım Kırmızı romanı 1591 yılında Osmanlı padişahı III. Murat'ın saltanat döneminde 9 gün süreyle karlı bir havada İstanbul'da geçer. Saray hattatları ve nakkaşları padişahın emriyle hazırlanan bir kitap için gizlice Frenk etkisi taşıyan resimler yaparlar. Kitabın başlıca kahramanları, sanatçıları evinde barındıran evin kızı Şeküre ve ona aşık olan teyze oğlu Kara'dır. İstanbul'da pahalılık ve korku hüküm sürmekteyken bu evdeki hattatlar ve nakkaşlar kahvehanelerde toplanıp meddahların anlattığı hikâyeleri dinleyerek eğlenirler. Benim Adım Kırmızı 'nın bir özelliği de kitabın her karakterinin kendi dilinden konuşması, ölülerin ve cansız nesnelerin dile gelerek kitabın öyküsünü kendi bakış açılarından anlatmalarıdır.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Orhan Pamuk&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2a850254-f5d3-4e6c-955c-a756b3ba7aee</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">sUHkQwAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="MERITOKRASI NOTU">5</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Text/kapak.xhtml" id="kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Text/Section0061.xhtml" id="Section0061.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum6.xhtml" id="bolum6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum7.xhtml" id="bolum7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum8.xhtml" id="bolum8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum9.xhtml" id="bolum9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum10.xhtml" id="bolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum11.xhtml" id="bolum11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum12.xhtml" id="bolum12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum13.xhtml" id="bolum13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum14.xhtml" id="bolum14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum15.xhtml" id="bolum15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum16.xhtml" id="bolum16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum17.xhtml" id="bolum17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum18.xhtml" id="bolum18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum19.xhtml" id="bolum19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum20.xhtml" id="bolum20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum21.xhtml" id="bolum21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum22.xhtml" id="bolum22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum23.xhtml" id="bolum23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum24.xhtml" id="bolum24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum25.xhtml" id="bolum25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum26.xhtml" id="bolum26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum27.xhtml" id="bolum27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum28.xhtml" id="bolum28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum29.xhtml" id="bolum29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum30.xhtml" id="bolum30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum31.xhtml" id="bolum31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum32.xhtml" id="bolum32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum33.xhtml" id="bolum33.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum34.xhtml" id="bolum34.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum35.xhtml" id="bolum35.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum36.xhtml" id="bolum36.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum37.xhtml" id="bolum37.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum38.xhtml" id="bolum38.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum39.xhtml" id="bolum39.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum40.xhtml" id="bolum40.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum41.xhtml" id="bolum41.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum42.xhtml" id="bolum42.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum43.xhtml" id="bolum43.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum44.xhtml" id="bolum44.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum45.xhtml" id="bolum45.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum46.xhtml" id="bolum46.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum47.xhtml" id="bolum47.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum48.xhtml" id="bolum48.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum49.xhtml" id="bolum49.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum50.xhtml" id="bolum50.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum51.xhtml" id="bolum51.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum52.xhtml" id="bolum52.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum53.xhtml" id="bolum53.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum54.xhtml" id="bolum54.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum55.xhtml" id="bolum55.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum56.xhtml" id="bolum56.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum57.xhtml" id="bolum57.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum58.xhtml" id="bolum58.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum59.xhtml" id="bolum59.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum3.xhtml"/>
+    <itemref idref="bolum4.xhtml"/>
+    <itemref idref="bolum5.xhtml"/>
+    <itemref idref="bolum6.xhtml"/>
+    <itemref idref="bolum7.xhtml"/>
+    <itemref idref="bolum8.xhtml"/>
+    <itemref idref="bolum9.xhtml"/>
+    <itemref idref="bolum10.xhtml"/>
+    <itemref idref="bolum11.xhtml"/>
+    <itemref idref="bolum12.xhtml"/>
+    <itemref idref="bolum13.xhtml"/>
+    <itemref idref="bolum14.xhtml"/>
+    <itemref idref="bolum15.xhtml"/>
+    <itemref idref="bolum16.xhtml"/>
+    <itemref idref="bolum17.xhtml"/>
+    <itemref idref="bolum18.xhtml"/>
+    <itemref idref="bolum19.xhtml"/>
+    <itemref idref="bolum20.xhtml"/>
+    <itemref idref="bolum21.xhtml"/>
+    <itemref idref="bolum22.xhtml"/>
+    <itemref idref="bolum23.xhtml"/>
+    <itemref idref="bolum24.xhtml"/>
+    <itemref idref="bolum25.xhtml"/>
+    <itemref idref="bolum26.xhtml"/>
+    <itemref idref="bolum27.xhtml"/>
+    <itemref idref="bolum28.xhtml"/>
+    <itemref idref="bolum29.xhtml"/>
+    <itemref idref="bolum30.xhtml"/>
+    <itemref idref="bolum31.xhtml"/>
+    <itemref idref="bolum32.xhtml"/>
+    <itemref idref="bolum33.xhtml"/>
+    <itemref idref="bolum34.xhtml"/>
+    <itemref idref="bolum35.xhtml"/>
+    <itemref idref="bolum36.xhtml"/>
+    <itemref idref="bolum37.xhtml"/>
+    <itemref idref="bolum38.xhtml"/>
+    <itemref idref="bolum39.xhtml"/>
+    <itemref idref="bolum40.xhtml"/>
+    <itemref idref="bolum41.xhtml"/>
+    <itemref idref="bolum42.xhtml"/>
+    <itemref idref="bolum43.xhtml"/>
+    <itemref idref="bolum44.xhtml"/>
+    <itemref idref="bolum45.xhtml"/>
+    <itemref idref="bolum46.xhtml"/>
+    <itemref idref="bolum47.xhtml"/>
+    <itemref idref="bolum48.xhtml"/>
+    <itemref idref="bolum49.xhtml"/>
+    <itemref idref="bolum50.xhtml"/>
+    <itemref idref="bolum51.xhtml"/>
+    <itemref idref="bolum52.xhtml"/>
+    <itemref idref="bolum53.xhtml"/>
+    <itemref idref="bolum54.xhtml"/>
+    <itemref idref="bolum55.xhtml"/>
+    <itemref idref="bolum56.xhtml"/>
+    <itemref idref="bolum57.xhtml"/>
+    <itemref idref="bolum58.xhtml"/>
+    <itemref idref="bolum59.xhtml"/>
+    <itemref idref="Section0061.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum5.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum6.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum7.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum8.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum9.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum10.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum11.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum12.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum13.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum14.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum15.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum16.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum17.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum18.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum19.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum20.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum21.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum22.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum23.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum24.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum25.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum26.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum27.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum28.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum29.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum30.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum31.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum32.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum33.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum34.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum35.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum36.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum37.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum38.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum39.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum40.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum41.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum42.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum43.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum44.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum45.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum46.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum47.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum48.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum49.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum50.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum51.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum52.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum53.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum54.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum55.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum56.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum57.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum58.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum59.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

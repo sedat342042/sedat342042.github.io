@@ -1,0 +1,88 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Orwell, George">George Orwell</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">c6cf4559-32db-4585-ae72-771ac24669cf</dc:identifier>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;"Orwell söz konusu olduğunda biçem, insandır."&lt;br&gt;&lt;br&gt; George Bowling, kırk beş yaşında, evli ve çocuklu, evi &lt;br&gt; ipotekli, beli giderek kalınlaşan, takma dişleri &lt;br&gt; yenilenmiş ve kasvetli yaşamından kaçmayı umutsuzca &lt;br&gt; arzulayan bir sigortacıdır. &lt;br&gt;İkinci Dünya Savaşı patlak vermek üzeredir; yiyecek &lt;br&gt; kuyruklarının, askerlerin, gizli polisin ve zorbalığın &lt;br&gt; gelmekte olduğunu sezen Bowling modern çağdan &lt;br&gt; korkmaktadır. Böylece çocukluğunun dünyasına, huzur ve &lt;br&gt; dinginlikle dolu bir &lt;br&gt; pastoral sığınak olarak anımsadığı köye kaçmaya karar &lt;br&gt; verir. &lt;br&gt; Ancak sığınak saydığı yerde kendisini nelerin &lt;br&gt; beklediğinden habersizdir.&lt;br&gt;&lt;br&gt; "Çok şaşırtıcı, üstelik son derece gerçekçi" ''Bin Dokuz &lt;br&gt; Yüz Seksen Dört'' bu kitapta cenin halinde. ''Hayvan &lt;br&gt; Çiftliği''de öyle.. Pek az roman, hem iki klasiğin &lt;br&gt; tohumlarını taşıyıp hem de kendi başına bir okuma &lt;br&gt; ziyafeti sunabilir." &lt;br&gt; -John Carey, Sunday Times-&lt;br&gt;&lt;br&gt; "Orwell''ın kara mizahı her zamankinden daha canlı. &lt;br&gt;Kaçırılmaması gereken bir kitap." &lt;br&gt; -Observer-&lt;br&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2005-06-01T21:00:00+00:00</dc:date>
+    <meta content="Daralma" name="calibre:title_sort"/>
+    <meta content="2015-06-03T05:25:25.125000+00:00" name="calibre:timestamp"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;George Orwell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>Daralma</dc:title>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>İngiliz Edebiyatı</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">87721fe5-e847-405e-8708-2a4c59a931ab</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752730892</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/DA_02.htm" id="DA_02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_03.htm" id="DA_03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_04.htm" id="DA_04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_05.htm" id="DA_05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_07.htm" id="DA_07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_08.htm" id="DA_08.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_09.htm" id="DA_09.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_10.htm" id="DA_10.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_11.htm" id="DA_11.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_12.htm" id="DA_12.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_13.htm" id="DA_13.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_14.htm" id="DA_14.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_15.htm" id="DA_15.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_17.htm" id="DA_17.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_18.htm" id="DA_18.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_19.htm" id="DA_19.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_21.htm" id="DA_21.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_22.htm" id="DA_22.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_23.htm" id="DA_23.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_24.htm" id="DA_24.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_25.htm" id="DA_25.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_26.htm" id="DA_26.htm" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/DA_01.htm" id="DA_01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_06.htm" id="DA_06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_16.htm" id="DA_16.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/DA_20.htm" id="DA_20.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="DA_01.htm"/>
+    <itemref idref="DA_02.htm"/>
+    <itemref idref="DA_03.htm"/>
+    <itemref idref="DA_04.htm"/>
+    <itemref idref="DA_05.htm"/>
+    <itemref idref="DA_06.htm"/>
+    <itemref idref="DA_07.htm"/>
+    <itemref idref="DA_08.htm"/>
+    <itemref idref="DA_09.htm"/>
+    <itemref idref="DA_10.htm"/>
+    <itemref idref="DA_11.htm"/>
+    <itemref idref="DA_12.htm"/>
+    <itemref idref="DA_13.htm"/>
+    <itemref idref="DA_14.htm"/>
+    <itemref idref="DA_15.htm"/>
+    <itemref idref="DA_16.htm"/>
+    <itemref idref="DA_17.htm"/>
+    <itemref idref="DA_18.htm"/>
+    <itemref idref="DA_19.htm"/>
+    <itemref idref="DA_20.htm"/>
+    <itemref idref="DA_21.htm"/>
+    <itemref idref="DA_22.htm"/>
+    <itemref idref="DA_23.htm"/>
+    <itemref idref="DA_24.htm"/>
+    <itemref idref="DA_25.htm"/>
+    <itemref idref="DA_26.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

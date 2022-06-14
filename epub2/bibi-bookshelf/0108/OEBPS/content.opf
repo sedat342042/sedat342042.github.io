@@ -1,0 +1,144 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Palahniuk, Chuck">Chuck Palahniuk</dc:creator>
+<dc:identifier id="uuid">{16055025-2B66-4178-A8BC-299E260A0154}</dc:identifier>
+    <dc:date>2002-09-04T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta content="Gösteri Peygamberi" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Chuck Palahniuk&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Yalnızlık, yabancılaşma, şiddet, pornografi, tüketim ve şöhret açlığı... Televizyon kanallarından boca edilen sayısız yalanla kirlenmiş, hiçbir şeyin dolduramadığı bir boşluk... Gösteri Peygamberi, yeni bir binyılın başındaki modern dünyanın ürkütücü çılgınlığına ilişkin karanlık bir taşlama; medya, şöhret ve pop kültürüne yönelik sivri dilli bir aşağılama...
+Tender Branson, Creedish mezhebinin dünyadan yalıtılmış sahte cennetinde doğup büyümüş ve dış dünyaya gönderilmiş binlerce misyonerden biri. Kilise doktrinine göre görevi, yaşadığı sürece çalışmak ve gerekli olduğunda ölmek. Kaderi beklenmedik biçimde değişip onu şöhretin doruklarına taşırken aynı zamanda medya ve popüler kültürün içyüzüyle tanıştırıyor. Yarı tanrıya dönüşme yolunda yaşadıkları yakında yüzleşeceğimiz kıyametin çarpıcı bir habercisine dönüşüyor... Branson, mezhepte kendisine zaten hiç verilmemiş olan hayatı "dış dünya"nın çirkinliğine sonuna kadar gömülerek yok etmeyi deneyecektir. Ne var ki, hayatına karışan gizemli Fertility Hollis'e göre, kendine bir kader çizmeye çalışması anlamsızdır. Olacaklar zaten bellidir ve olmak zorundadır... Ve "intihar etmekle şehit olmak arasındaki tek fark gazetede manşet olmaktır."
+Chuck Palahniuk, önlenemez kaderine doğru nefes kesici bir hızla sürüklenen kahramanının gözünden tüketim toplumunun hastalıklı ve anlamsız yaşam biçimini bize bütün çıplaklığıyla gösteriyor. Dövüş Kulübü'nün yazarından, en az ilki kadar çarpıcı bir roman, benzersiz bir yeraltı edebiyatı örneği.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <dc:date opf:event="modification">2014-09-12</dc:date>
+  <dc:title>Gösteri Peygamberi</dc:title>
+<dc:subject>Yeraltı Edebiyatı</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">4a638c17-2d3b-496a-b9dc-a4c5f72c4b3b</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9755393692</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arka.xhtml" id="arka.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yeralti.xhtml" id="yeralti.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chuck.xhtml" id="chuck.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic.xhtml" id="ic.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP01.xhtml" id="GP01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP02.xhtml" id="GP02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP03.xhtml" id="GP03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP04.xhtml" id="GP04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP05.xhtml" id="GP05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP06.xhtml" id="GP06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP07.xhtml" id="GP07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP08.xhtml" id="GP08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP09.xhtml" id="GP09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP10.xhtml" id="GP10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP11.xhtml" id="GP11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP12.xhtml" id="GP12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP13.xhtml" id="GP13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP14.xhtml" id="GP14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP15.xhtml" id="GP15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP16.xhtml" id="GP16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP17.xhtml" id="GP17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP18.xhtml" id="GP18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP19.xhtml" id="GP19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP20.xhtml" id="GP20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP21.xhtml" id="GP21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP22.xhtml" id="GP22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP23.xhtml" id="GP23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP24.xhtml" id="GP24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP25.xhtml" id="GP25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP26.xhtml" id="GP26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP27.xhtml" id="GP27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP28.xhtml" id="GP28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP29.xhtml" id="GP29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP30.xhtml" id="GP30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP31.xhtml" id="GP31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP32.xhtml" id="GP32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP33.xhtml" id="GP33.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP34.xhtml" id="GP34.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP35.xhtml" id="GP35.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP36.xhtml" id="GP36.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP37.xhtml" id="GP37.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP38.xhtml" id="GP38.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP39.xhtml" id="GP39.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP40.xhtml" id="GP40.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP41.xhtml" id="GP41.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP42.xhtml" id="GP42.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP43.xhtml" id="GP43.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP44.xhtml" id="GP44.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP45.xhtml" id="GP45.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP46.xhtml" id="GP46.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GP47.xhtml" id="GP47.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/arka.jpg" id="arka.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/Candara.ttf" id="font" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Candara-Italic.ttf" id="font1" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Candara-Bold-Italic.ttf" id="font2" media-type="application/x-font-ttf"/>
+    <item href="Styles/fonts.css" id="font_embed" media-type="text/css"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="arka.xhtml"/>
+    <itemref idref="yeralti.xhtml"/>
+    <itemref idref="chuck.xhtml"/>
+    <itemref idref="ic.xhtml"/>
+    <itemref idref="GP01.xhtml"/>
+    <itemref idref="GP02.xhtml"/>
+    <itemref idref="GP03.xhtml"/>
+    <itemref idref="GP04.xhtml"/>
+    <itemref idref="GP05.xhtml"/>
+    <itemref idref="GP06.xhtml"/>
+    <itemref idref="GP07.xhtml"/>
+    <itemref idref="GP08.xhtml"/>
+    <itemref idref="GP09.xhtml"/>
+    <itemref idref="GP10.xhtml"/>
+    <itemref idref="GP11.xhtml"/>
+    <itemref idref="GP12.xhtml"/>
+    <itemref idref="GP13.xhtml"/>
+    <itemref idref="GP14.xhtml"/>
+    <itemref idref="GP15.xhtml"/>
+    <itemref idref="GP16.xhtml"/>
+    <itemref idref="GP17.xhtml"/>
+    <itemref idref="GP18.xhtml"/>
+    <itemref idref="GP19.xhtml"/>
+    <itemref idref="GP20.xhtml"/>
+    <itemref idref="GP21.xhtml"/>
+    <itemref idref="GP22.xhtml"/>
+    <itemref idref="GP23.xhtml"/>
+    <itemref idref="GP24.xhtml"/>
+    <itemref idref="GP25.xhtml"/>
+    <itemref idref="GP26.xhtml"/>
+    <itemref idref="GP27.xhtml"/>
+    <itemref idref="GP28.xhtml"/>
+    <itemref idref="GP29.xhtml"/>
+    <itemref idref="GP30.xhtml"/>
+    <itemref idref="GP31.xhtml"/>
+    <itemref idref="GP32.xhtml"/>
+    <itemref idref="GP33.xhtml"/>
+    <itemref idref="GP34.xhtml"/>
+    <itemref idref="GP35.xhtml"/>
+    <itemref idref="GP36.xhtml"/>
+    <itemref idref="GP37.xhtml"/>
+    <itemref idref="GP38.xhtml"/>
+    <itemref idref="GP39.xhtml"/>
+    <itemref idref="GP40.xhtml"/>
+    <itemref idref="GP41.xhtml"/>
+    <itemref idref="GP42.xhtml"/>
+    <itemref idref="GP43.xhtml"/>
+    <itemref idref="GP44.xhtml"/>
+    <itemref idref="GP45.xhtml"/>
+    <itemref idref="GP46.xhtml"/>
+    <itemref idref="GP47.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

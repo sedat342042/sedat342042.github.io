@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Aytmatov, Cengiz">Cengiz Aytmatov</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="Cengiz-Hana-Kusen-Bulut_1.jpg"/>
+    <dc:publisher>Ötüken</dc:publisher>
+    <dc:date>2012-09-10T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:efb454e5-7cab-49b8-b268-41abe0df9277</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Cengiz Han'a Küsen Bulut" name="calibre:title_sort"/>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.33.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Cengiz Aytmatov&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-19</dc:date>
+  <dc:title>Cengiz Han'a Küsen Bulut</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Eleştiri</dc:subject>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Gün Olur Asra Bedel içerisinde yer alabilecek ancak Sovyet Rusya'nın dağılmasından sonra yayınlanabilen Stalinizmin ve totaliterliğin güçlü bir eleştirisi… &lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;“Devletin çıkarlarından daha önemli ne olabilirdi? Bazıları insan hayatının önemli olduğunu sanıyorlardı... Ne laf ya! Devlet bir sobadır ve yakıtı da yalnız insandır. Yakılacak insan olmazsa soba söner. Sönen, yanmayan sobanın da hiçbir yararı yoktur. Ama öte yandan bu insanlar devlet olmadan yaşayamazlar: Sobayı tutuşturan, yakan onlardır. Sobayı yanar tutmakla görevli olanlar da ona yakıt temin etmeliydiler. Her şey buna bağlı.”&lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">69353978-2868-4b3f-ad98-4b758070370b</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789754370546</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="Text/cengiz_hana_kusen_bulut.xhtml" id="cengiz_hana_kusen_bulut" media-type="application/xhtml+xml"/>
+    <item href="Text/cengiz_hana_kusen_bulut-1.xhtml" id="cengiz_hana_kusen_bulut-1" media-type="application/xhtml+xml"/>
+    <item href="Text/cengiz_hana_kusen_bulut-2.xhtml" id="cengiz_hana_kusen_bulut-2" media-type="application/xhtml+xml"/>
+    <item href="Text/cengiz_hana_kusen_bulut-3.xhtml" id="cengiz_hana_kusen_bulut-3" media-type="application/xhtml+xml"/>
+    <item href="Text/cengiz_hana_kusen_bulut-4.xhtml" id="cengiz_hana_kusen_bulut-4" media-type="application/xhtml+xml"/>
+    <item href="Text/cengiz_hana_kusen_bulut-5.xhtml" id="cengiz_hana_kusen_bulut-5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cengiz_hana_kusen_bulut_vol1.css" id="cengiz_hana_kusen_bulut_vol1.css" media-type="text/css"/>
+    <item href="Images/Cengiz-Hana-Kusen-Bulut_1.jpg" id="Cengiz-Hana-Kusen-Bulut_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="cengiz_hana_kusen_bulut"/>
+    <itemref idref="cengiz_hana_kusen_bulut-1"/>
+    <itemref idref="cengiz_hana_kusen_bulut-2"/>
+    <itemref idref="cengiz_hana_kusen_bulut-3"/>
+    <itemref idref="cengiz_hana_kusen_bulut-4"/>
+    <itemref idref="cengiz_hana_kusen_bulut-5"/>
+  </spine>
+  <guide>
+    <reference href="Text/CoverImage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

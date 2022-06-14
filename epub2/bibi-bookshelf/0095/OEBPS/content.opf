@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Aytmatov, Cengiz">Cengiz Aytmatov</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="Kizil-Elma_1.jpg"/>
+    <dc:publisher>Ötüken</dc:publisher>
+    <dc:date>2012-09-11T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:b2712e39-6b88-4cb9-a9b2-69865ae8ce15</dc:identifier>
+    <meta content="0.5.3" name="Sigil version"/>
+  <meta name="calibre:title_sort" content="Kızıl Elma, Oğulla Buluşma, Beyaz Yağmur, Asker Çocuğu, Deve Gözü"/>
+<dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Cengiz Aytmatov&quot;: &quot;&quot;}"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Yazarın güçlü bir sembolizm kullanılarak yazılmış beş güzel hikâyesi... Aşk ve heyecan, gelenekler ve tarih, savaş ve Kırgız Türkünün dramı.. ve ille de vatan toprakları, toprak sevgisi, toprağı verimli kılmak için bütün yokluklara, güçlüklere göğüs gererek çalışan Kırgız gençleri... Bütün hikâyelerde yazarın çağlardan ses derleyen nefis üslûbunu ve eşsiz anlatım gücünü bulacaksınız.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+<dc:title>Kızıl Elma, Oğulla Buluşma, Beyaz Yağmur, Asker Çocuğu, Deve Gözü</dc:title>
+<dc:subject>Öykü</dc:subject>
+<dc:subject>Derleme</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">0168de7e-b9b0-456d-9309-678161440840</dc:identifier>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789754370935</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="Text/kizil_elma_hikayeler.xhtml" id="kizil_elma_hikayeler" media-type="application/xhtml+xml"/>
+    <item href="Text/kizil_elma_hikayeler-1.xhtml" id="kizil_elma_hikayeler-1" media-type="application/xhtml+xml"/>
+    <item href="Text/kizil_elma_hikayeler-2.xhtml" id="kizil_elma_hikayeler-2" media-type="application/xhtml+xml"/>
+    <item href="Text/kizil_elma_hikayeler-3.xhtml" id="kizil_elma_hikayeler-3" media-type="application/xhtml+xml"/>
+    <item href="Text/kizil_elma_hikayeler-4.xhtml" id="kizil_elma_hikayeler-4" media-type="application/xhtml+xml"/>
+    <item href="Text/kizil_elma_hikayeler-5.xhtml" id="kizil_elma_hikayeler-5" media-type="application/xhtml+xml"/>
+    <item href="Text/kizil_elma_hikayeler-6.xhtml" id="kizil_elma_hikayeler-6" media-type="application/xhtml+xml"/>
+    <item href="Text/kizil_elma_hikayeler-7.xhtml" id="kizil_elma_hikayeler-7" media-type="application/xhtml+xml"/>
+    <item href="Text/kizil_elma_hikayeler-8.xhtml" id="kizil_elma_hikayeler-8" media-type="application/xhtml+xml"/>
+    <item href="Text/kizil_elma_hikayeler-9.xhtml" id="kizil_elma_hikayeler-9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kizil_elma_hikayeler_vol2.css" id="kizil_elma_hikayeler_vol2.css" media-type="text/css"/>
+	<item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/vnd.ms-truetype"/>
+	<item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/vnd.ms-truetype"/>
+	<item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/vnd.ms-truetype"/>
+	<item href="Fonts/LiberationSerif-Regular.ttf" id="LiberationSerif-Regular.ttf" media-type="application/vnd.ms-truetype"/>
+    
+    <item href="Images/Kizil-Elma_1.jpg" id="Kizil-Elma_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="kizil_elma_hikayeler"/>
+    <itemref idref="kizil_elma_hikayeler-1"/>
+    <itemref idref="kizil_elma_hikayeler-2"/>
+    <itemref idref="kizil_elma_hikayeler-9"/>
+    <itemref idref="kizil_elma_hikayeler-3"/>
+    <itemref idref="kizil_elma_hikayeler-4"/>
+    <itemref idref="kizil_elma_hikayeler-5"/>
+    <itemref idref="kizil_elma_hikayeler-6"/>
+    <itemref idref="kizil_elma_hikayeler-7"/>
+    <itemref idref="kizil_elma_hikayeler-8"/>
+  </spine>
+  <guide>
+    <reference href="Text/CoverImage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Kemal, Orhan">Orhan Kemal</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:5fcff2a6-679f-4bc7-b277-8d3252e39025</dc:identifier>
+    <dc:date>2000-03-12T22:00:00+00:00</dc:date>
+    <meta content="0.8.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpeg"/>
+  <dc:title>Çamaşırcının Kızı Küçücük</dc:title>
+<meta name="calibre:title_sort" content="Çamaşırcının Kızı Küçücük"/>
+<dc:publisher>Epsilon Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Öykü</dc:subject>
+<dc:description>&lt;p&gt;Çamaşırcının Kızı, Çukurova öykülerinin yanında büyük şehir öykülerinin de yer aldığı bir Orhan Kemal kitabı. Öykülerin her biri, mutsuz, ama umutsuz olmayan; bezgin ama düşlerini bırakmayan ve hep dışarıdaki hayatların pırıltısına özenen kişileri anlatıyor. Ucuz romanlarla yerli filmlerin yapay dünyasında, yıldız olma hayallerine yapışan Neriman; yaşama sevincini her an yeniden yeşerten küçük cambaz kız; tüm varlığı olan atı Gümüş'ü takıntı haline getiren Halo, Orhan Kemal'in çok yakından gözlediği insanların günlük dramını aktardığı, buruk ama hayata dair öykülerin kahramanları. 
+Orhan Kemal'in hiçbir zaman lanetlemediği, hep anladığı ve affettiği, umutlarından vazgeçmeyen küçük insanların tıkanmış hayatlarını, aşklarını, aşklarını, çaresizliğini getirdiği yozlaşma ve istismarı anlatan uzun öyküsü, Küçücük de bu kitabın içinde yer alıyor.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Orhan Kemal&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">71eb39cb-c40c-4daa-8e59-49c6ccbc2701</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789944829670</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpeg" id="cover.jpeg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0000.xhtml" id="Section0000.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0000.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

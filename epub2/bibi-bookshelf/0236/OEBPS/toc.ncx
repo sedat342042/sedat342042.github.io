@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="504bc9f1-1860-48d7-974c-85b7edde4702" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Jack London</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/content_1.xhtml#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml#sigil_toc_id_4" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="Text/content_2.xhtml#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/content_2.xhtml#sigil_toc_id_7" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="Text/content_2.xhtml#sigil_toc_id_8" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="Text/content_2.xhtml#sigil_toc_id_9" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>X</text>
+      </navLabel>
+      <content src="Text/content_2.xhtml#sigil_toc_id_10" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>XI</text>
+      </navLabel>
+      <content src="Text/content_3.xhtml#sigil_toc_id_11" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>XIII</text>
+      </navLabel>
+      <content src="Text/content_3.xhtml#sigil_toc_id_12" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>XIV</text>
+      </navLabel>
+      <content src="Text/content_4.xhtml#sigil_toc_id_13" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>XV</text>
+      </navLabel>
+      <content src="Text/content_4.xhtml#sigil_toc_id_14" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>XVI</text>
+      </navLabel>
+      <content src="Text/content_4.xhtml#sigil_toc_id_15" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>XVII</text>
+      </navLabel>
+      <content src="Text/content_4.xhtml#sigil_toc_id_16" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>XVIII</text>
+      </navLabel>
+      <content src="Text/content_4.xhtml#sigil_toc_id_17" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>XIX</text>
+      </navLabel>
+      <content src="Text/content_4.xhtml#sigil_toc_id_18" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>XXI</text>
+      </navLabel>
+      <content src="Text/content_5.xhtml#sigil_toc_id_19" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>XXII</text>
+      </navLabel>
+      <content src="Text/content_5.xhtml#sigil_toc_id_20" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>XXIII</text>
+      </navLabel>
+      <content src="Text/content_5.xhtml#sigil_toc_id_21" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>XXIV</text>
+      </navLabel>
+      <content src="Text/content_5.xhtml#sigil_toc_id_22" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>XXV</text>
+      </navLabel>
+      <content src="Text/content_6.xhtml#sigil_toc_id_23" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>XXVI</text>
+      </navLabel>
+      <content src="Text/content_6.xhtml#sigil_toc_id_24" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>XXVII</text>
+      </navLabel>
+      <content src="Text/content_6.xhtml#sigil_toc_id_25" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>XXVIII</text>
+      </navLabel>
+      <content src="Text/content_6.xhtml#sigil_toc_id_26" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>XXIX</text>
+      </navLabel>
+      <content src="Text/content_7.xhtml#sigil_toc_id_27" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>XXX</text>
+      </navLabel>
+      <content src="Text/content_7.xhtml#sigil_toc_id_28" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>XXXI</text>
+      </navLabel>
+      <content src="Text/content_7.xhtml#sigil_toc_id_29" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>XXXII</text>
+      </navLabel>
+      <content src="Text/content_7.xhtml#sigil_toc_id_30" />
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>XXXIII</text>
+      </navLabel>
+      <content src="Text/content_7.xhtml#sigil_toc_id_31" />
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>XXXIV</text>
+      </navLabel>
+      <content src="Text/content_7.xhtml#sigil_toc_id_32" />
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>XXXV</text>
+      </navLabel>
+      <content src="Text/content_8.xhtml#sigil_toc_id_33" />
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>XXXVI</text>
+      </navLabel>
+      <content src="Text/content_8.xhtml#sigil_toc_id_34" />
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>XXXVII</text>
+      </navLabel>
+      <content src="Text/content_8.xhtml#sigil_toc_id_35" />
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>XXXVIII</text>
+      </navLabel>
+      <content src="Text/content_8.xhtml#sigil_toc_id_36" />
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>XXXIX</text>
+      </navLabel>
+      <content src="Text/content_8.xhtml#sigil_toc_id_37" />
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>XL</text>
+      </navLabel>
+      <content src="Text/content_8.xhtml#sigil_toc_id_38" />
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>XLI</text>
+      </navLabel>
+      <content src="Text/content_9.xhtml#sigil_toc_id_39" />
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>XLII</text>
+      </navLabel>
+      <content src="Text/content_9.xhtml#sigil_toc_id_40" />
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>XLIII</text>
+      </navLabel>
+      <content src="Text/content_9.xhtml#sigil_toc_id_41" />
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>XLIV</text>
+      </navLabel>
+      <content src="Text/content_9.xhtml#sigil_toc_id_42" />
+    </navPoint>
+  </navMap>
+</ncx>

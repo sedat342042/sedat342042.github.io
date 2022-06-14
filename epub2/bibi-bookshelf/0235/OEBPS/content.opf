@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="London, Jack" opf:role="aut">Jack London</dc:creator>
+    <dc:publisher>Klas yayınları</dc:publisher>
+    <meta content="1" name="calibre:series_index" />
+    <meta content="2012-11-29T13:11:35.178000+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <dc:date>2004-02-14T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3b62abb2-b731-4b20-b1cd-3564a16149bf</dc:identifier>
+    <meta content="Kız, Kar ve Kan" name="calibre:title_sort" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Jack London&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:title>Kız, Kar ve Kan</dc:title>
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Orijinal</dc:subject>
+    <dc:subject>Klasik Macera</dc:subject>
+    <dc:description>&lt;p&gt;"Gerçek, ayrıntıdadır" der Flaubert. Jack London, bu gerçeği, bir buz parçası üzerinde kristalleşen köpek kanında, bir madencinin donmuş nefesinin anaforunda anlatabilir...Jack London'un tehlikeli, ölüm-kalım zorbalığına yakalanan okur için hiçbir kaçış yolu yoktur.Ve bu gerçek, "Kız, Kar ve Kan" için de geçerlidir.&lt;/p&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">53f580ed-322f-406f-8384-3354a5ceab2d</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">I9VRtwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756295199</dc:identifier>
+    <meta content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB,MOBI&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}" name="calibre:user_metadata:#formats" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2014-02-24</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/octet-stream" />
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/octet-stream" />
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/octet-stream" />
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/octet-stream" />
+    <item href="Fonts/arial.ttf" id="cid5" media-type="application/octet-stream" />
+    <item href="Fonts/arialbd.ttf" id="cid6" media-type="application/octet-stream" />
+    <item href="Fonts/ariali.ttf" id="cid7" media-type="application/octet-stream" />
+    <item href="Fonts/arialbi.ttf" id="cid8" media-type="application/octet-stream" />
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg" />
+    <item href="Text/kizkarkan_split_000.html" id="html32" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_001.html" id="html31" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_002.html" id="html30" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_003.html" id="html29" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_004.html" id="html28" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_005.html" id="html27" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_006.html" id="html26" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_007.html" id="html25" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_008.html" id="html24" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_009.html" id="html23" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_010.html" id="html22" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_011.html" id="html21" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_012.html" id="html20" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_013.html" id="html19" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_014.html" id="html18" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_015.html" id="html17" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_016.html" id="html16" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_017.html" id="html15" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_018.html" id="html14" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_019.html" id="html13" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_020.html" id="html12" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_021.html" id="html11" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_022.html" id="html10" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_023.html" id="html9" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_024.html" id="html8" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_025.html" id="html7" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_026.html" id="html6" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_027.html" id="html5" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_028.html" id="html4" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_029.html" id="html3" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_030.html" id="html2" media-type="application/xhtml+xml" />
+    <item href="Text/kizkarkan_split_031.html" id="html1" media-type="application/xhtml+xml" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="html32" />
+    <itemref idref="html31" />
+    <itemref idref="html30" />
+    <itemref idref="html29" />
+    <itemref idref="html28" />
+    <itemref idref="html27" />
+    <itemref idref="html26" />
+    <itemref idref="html25" />
+    <itemref idref="html24" />
+    <itemref idref="html23" />
+    <itemref idref="html22" />
+    <itemref idref="html21" />
+    <itemref idref="html20" />
+    <itemref idref="html19" />
+    <itemref idref="html18" />
+    <itemref idref="html17" />
+    <itemref idref="html16" />
+    <itemref idref="html15" />
+    <itemref idref="html14" />
+    <itemref idref="html13" />
+    <itemref idref="html12" />
+    <itemref idref="html11" />
+    <itemref idref="html10" />
+    <itemref idref="html9" />
+    <itemref idref="html8" />
+    <itemref idref="html7" />
+    <itemref idref="html6" />
+    <itemref idref="html5" />
+    <itemref idref="html4" />
+    <itemref idref="html3" />
+    <itemref idref="html2" />
+    <itemref idref="html1" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

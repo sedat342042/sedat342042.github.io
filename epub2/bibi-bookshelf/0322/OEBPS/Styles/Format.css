@@ -1,0 +1,36 @@
+h1 {
+font-size:300% ;
+text-align:center;
+font-family:"New Century Schoolbook", Times, sans-serif ;
+font-weight: bold;
+}
+
+h2 {
+font-size:100% ;
+text-align:center;
+text-decoration:underline;
+padding-bottom: 5em;
+}
+
+h3 {
+font-size:100% ;
+text-align:right;
+font-style:italic;
+}
+
+div.indented{
+font-style:italic;
+text-indent:1em;
+}
+span.alt{
+font-family:'Comic Sans MS';
+#font-family:'Impact';
+font-size:140%;
+text-align:center;
+text-decoration:none;
+} 
+
+p {
+text-indent:1em;
+text-align:justify;
+}

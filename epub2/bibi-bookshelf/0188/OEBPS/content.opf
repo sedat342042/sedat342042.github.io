@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Toptaş, Hasan Ali">Hasan Ali Toptaş</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:5cf35fba-050d-4860-be81-6ac7f2ed2218</dc:identifier>
+    <dc:publisher>Adam Yayınları</dc:publisher>
+    <dc:date>1999-10-31T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-05-03</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>Kayıp Hayaller Kitabı</dc:title>
+<meta name="calibre:title_sort" content="Kayıp Hayaller Kitabı"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;"... sonra sarılıp inanılmaz bir şehvetle öptüm bu hikayenin en karanlık kuytularını ben ve o da uzanıp olanca unutulmuşluğu, yıpranmışlığı ve ayrıntılarıyla beni öptü; sonra ben öpüldükçe, öpüp öptükçe, öpülürken artık ağır ağır Kevser kıvamında kıvranıp duran bu hikayenin ta kendisine dönüştüğünü düşündüm ve bir yandan ellerimle ıslak mı - evet fena halde - ıslak bir vadinin baş döndürücü derinliklerine doğru ilerlerken, bir yandan da kasaba kırtasiyecilerinden satın alınmış ucuz bir dolmakalemle oturup gecenin bu vaktinde acaba kim yazıyor beni, dedim; sonra bir yandan o vadinin ıslaklığına olanca yalnızlığım, hasretim ve diriliğimle gömülürken, bir yandan da, hem kocaman bir bardakta çayını yudumlayıp hem de sigarasını tütürerek acaba müsveddelerimi kim daktiloya çekiyor şimdi, beni kim diziyor satır satır, ya da çoktan dizilip basıldım da şu anda hangi okurun gözünde tekrar yazılıyorum, dedim.."&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Hasan Ali Toptaş&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c4f225a4-ea12-467b-ad6a-5647327c57bd</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754185904</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

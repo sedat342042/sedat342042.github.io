@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">1c05ebf9-978d-436b-a107-c027b10e3957</dc:identifier>
+    <meta content="Demir Ökçe" name="calibre:title_sort"/>
+    <meta content="2013-11-26T16:45:39.552000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <dc:date>2013-11-30T22:00:00+00:00</dc:date>
+  <dc:title>Demir Ökçe</dc:title>
+<dc:publisher>Bordo Siyah Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Toplum</dc:subject>
+<dc:subject>Sosyoloji</dc:subject>
+<dc:subject>Politik</dc:subject>
+<dc:description>&lt;p&gt;Günümüzde Jack London, daha çok Vahşetin Çağrısı, Beyaz Dış, Deniz Kurdu romanları ve macera öyküleriyle hatırlanır. Ancak London'ın, bir maceracı olmanın yanı sıra, sosyal ve politik olaylarla da yakından ilgilendiği bilinmektedir. Demir Okçe, didaktik bir roman. 20. yüzyılın başında, sosyalizmin kavram ve görüşlerini Platon diyalogları tekniğini hatırlatan bir yoldan "öğretiyor". Öte yandan metin, yazılısından yaklaşık 20-30 yıl sonra Avrupa'da ete-kemiğe bürünen faşizmin de "ayak seslerini" duyuruyor okura. Sosyalist Ernest Everhard'ın eşi Avis, olayları, geçmişe bakan bir tanık gözüyle anlatıyor; onun varlığı, aynca romanın duygusal boyutunu da tamamlıyor. Metne 'sözde' 2700'lu yıllarda "eklenmiş" dipnotlar, romanı bilimkurgu türüne de yaklaştırıyor. Demir Okçe: Bir dönemin tanıklığı.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jack London&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8d758b02-f4a0-447d-897a-686aec0d0520</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9756323485</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Jack London - Demir Okce_split_000.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Jack London - Demir Okce_split_001.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Jack London - Demir Okce_split_002.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Jack London - Demir Okce_split_003.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Text/colorschememapping.xml" id="added2" media-type="application/xml"/>
+    <item href="Text/filelist.xml" id="added" media-type="application/xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Misc/themedata.thmx" id="added1" media-type="application/octet-stream"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

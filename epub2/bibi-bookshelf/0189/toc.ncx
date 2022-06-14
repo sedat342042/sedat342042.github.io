@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{03E13F75-1B5C-40E1-9D66-93C3F3F49D0E}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="calibre (2.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ölü Zaman Gezginleri</text>
+  </docTitle>
+   <navMap>
+    
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="kapak.xhtml"/>
+    </navPoint>
+    
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="kunye2.xhtml"/>
+    </navPoint>   
+    
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="kunye3.xhtml"/>
+    </navPoint> 
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Ölü Zaman Gezginleri</text>
+      </navLabel>
+      <content src="01.xhtml"/>
+      
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Balkon</text>
+      </navLabel>
+      <content src="01_1.xhtml"/>
+    </navPoint>            
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Zaman Kimi Zaman</text>
+      </navLabel>
+      <content src="01_2.xhtml"/>
+    </navPoint>            
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Şarap Lekesi</text>
+      </navLabel>
+      <content src="01_3.xhtml"/>
+    </navPoint>  
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Gökyüzü Gri</text>
+      </navLabel>
+      <content src="01_4.xhtml"/>
+    </navPoint>        
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Org</text>
+      </navLabel>
+      <content src="01_5.xhtml"/>
+    </navPoint>  
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Korkuyla Yaralı Dört Keklik</text>
+      </navLabel>
+      <content src="01_6.xhtml"/>
+    </navPoint>                    
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Ölü Zaman Gezginleri</text>
+      </navLabel>
+      <content src="01_7.xhtml"/>
+    </navPoint>  
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Neredesin Gringo</text>
+      </navLabel>
+      <content src="01_8.xhtml"/>
+    </navPoint>
+    </navPoint>       
+ 
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Yoklar Fısıltısı</text>
+      </navLabel>
+      <content src="02.xhtml"/>
+      
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Yabu</text>
+      </navLabel>
+      <content src="02_1.xhtml"/>
+    </navPoint>            
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Çift Çizgi</text>
+      </navLabel>
+      <content src="02_2.xhtml"/>
+    </navPoint>            
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Karanlık Beyaz</text>
+      </navLabel>
+      <content src="02_3.xhtml"/>
+    </navPoint>  
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Av</text>
+      </navLabel>
+      <content src="02_4.xhtml"/>
+    </navPoint>        
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Dünya Bir Gülnida</text>
+      </navLabel>
+      <content src="02_5.xhtml"/>
+    </navPoint>  
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Sabah Karanlığı</text>
+      </navLabel>
+      <content src="02_6.xhtml"/>
+    </navPoint>                    
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Sümbüller Sen Kokar</text>
+      </navLabel>
+      <content src="02_7.xhtml"/>
+    </navPoint>  
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Herkes Gibi Safa Bey</text>
+      </navLabel>
+      <content src="02_8.xhtml"/>
+    </navPoint>
+    </navPoint>                        
+    
+  </navMap>
+</ncx>

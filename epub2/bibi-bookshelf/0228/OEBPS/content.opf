@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">0f3a40ea-92b9-4084-b65d-0407d26ef488</dc:identifier>
+    <meta content="Ateş Yakmak" name="calibre:title_sort"/>
+    <meta content="2013-12-03T12:09:07.668000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2013-12-15T22:00:00+00:00</dc:date>
+  <dc:title>Ateş Yakmak</dc:title>
+<dc:publisher>Oda Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:description>&lt;p&gt;Bir kitap yazabilmek için insanın önce anlatacak bir şeyleri olmalı. İşte Jack London'ın inanılmaz başarısını sağlayan nedenlerden biri buydu. Kısacık yaşamı boyunca bin türlü şey görmüş, her boyaya boyanmıştı. Denizcilik, rıhtımlarda hamallık, inci avcılığı etmiş, kuzeyde, en uzak yerlerde, ayı balığı avına çıkmıştı. Dünyanın yarısını, adım adım, bir serseri olarak gezmişti; sonradan, bu gezintilerini kitaplarında anlattı. Çoğu zaman aç dolaşır, parklarda, sıraların üstünde, samanlıklarda, arabaların içinde uyurdu. Kuru toprak üstünde yaptığı geceler pek çoktu. A.B.D'de yüzlerce kez tutuklanıp cezaevine atıldı, ayrıca Meksika'da, Mançurya'da, Japonya'da, Kore'de çeşitli cezaevlerine girip çıktı. Üç öyküsünü çıktı. Üç öyküsünü içeren Ateş Yakmak yazarın memleketimizde en sevilen kitaplarından biri olmuştur.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jack London&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">748e2d1b-5614-4fbc-bce4-b638cbe200af</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754181371</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Ates_Yakmak_split_000.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_001.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_002.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_003.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_004.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_005.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_006.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_007.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_008.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_009.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_010.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Ates_Yakmak_split_011.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Misc/themedata.thmx" id="added1" media-type="application/octet-stream"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

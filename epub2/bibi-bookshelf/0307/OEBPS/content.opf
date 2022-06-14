@@ -1,0 +1,130 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Moliere">Moliere</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:d04a0bfa-37d0-45a9-bea1-13a88005652f</dc:identifier>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2011-03-15T12:26:34.699000+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.0.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-05-31</dc:date>
+    <dc:description>&lt;p&gt;Molière [Jean-Baptiste Poquelin] (1622-1673): Clermont Koleji'nde Latin ve Yunan dili ve edebiyatı dersleri aldı. Hukuk öğrenimi yaptı, bir süre sonra barodan ayrıldı. Oyunlarında insan gerçekliğini hayranlık verici bir derinlikle sergiledi. Yazdığı pek çok büyük komedya ile tanınan yazar, tiyatroda trup yöneticisi ve oyuncu olarak da çalıştı. 1668 yılında sahnelenen George Dandin Molière'in Versailles şenlikleri için yazdığı ve yapısında baleye yer verilmiş bir oyundur. Yazar bu eserinde kadın erkek ilişkilerini ve farklı sosyal sınıflardan gelen insanların evliliklerinde karşılaşılan sorunları ele almıştır. Bir fars olarak da nitelendirilen 
+
+George Dandin bazı eleştirmenlerce Molière'in en özgün, en gözü pek eseri sayılmaktadır.&lt;/p&gt;</dc:description>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="1" name="calibre:series_index"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2013-03-15T12:26:34.699000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="_kapak.jpg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="George Dandin veya Bir Koca Nasıl Rezil Edilir"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Moliere&quot;: &quot;&quot;}"/>
+  <dc:title>George Dandin veya Bir Koca Nasıl Rezil Edilir</dc:title>
+<dc:subject>Tiyatro Oyunu</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">7365e2ec-5f3e-456e-a905-77a47907850a</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053602910</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:d04a0bfa-37d0-45a9-bea1-13a88005652f</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_000.html" id="html44" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_001.html" id="html43" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_002.html" id="html42" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_003.html" id="html41" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_004.html" id="html40" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_005.html" id="html39" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_006.html" id="html38" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_007.html" id="html37" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_008.html" id="html36" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_009.html" id="html35" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_010.html" id="html34" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_011.html" id="html33" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_012.html" id="html32" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_013.html" id="html31" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_014.html" id="html30" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_015.html" id="html29" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_016.html" id="html28" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_017.html" id="html27" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_018.html" id="html26" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_019.html" id="html25" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_020.html" id="html24" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_021.html" id="html23" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_022.html" id="html22" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_023.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_024.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_025.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_026.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_027.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_028.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_029.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_030.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_031.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_032.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_033.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_034.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_035.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_036.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_037.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_038.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_039.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_040.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_041.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_042.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/george_split_043.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/00.jpg" id="added" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html44"/>
+    <itemref idref="html43"/>
+    <itemref idref="html42"/>
+    <itemref idref="html41"/>
+    <itemref idref="html40"/>
+    <itemref idref="html39"/>
+    <itemref idref="html38"/>
+    <itemref idref="html37"/>
+    <itemref idref="html36"/>
+    <itemref idref="html35"/>
+    <itemref idref="html34"/>
+    <itemref idref="html33"/>
+    <itemref idref="html32"/>
+    <itemref idref="html31"/>
+    <itemref idref="html30"/>
+    <itemref idref="html29"/>
+    <itemref idref="html28"/>
+    <itemref idref="html27"/>
+    <itemref idref="html26"/>
+    <itemref idref="html25"/>
+    <itemref idref="html24"/>
+    <itemref idref="html23"/>
+    <itemref idref="html22"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

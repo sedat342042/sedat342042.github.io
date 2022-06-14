@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Balzac, Honoré de">Honoré de Balzac</dc:creator>
+<dc:identifier id="pub-id">urn:isbn:9789750720741</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf">2000-05-26T21:00:00+00:00</dc:date>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="Goriot Baba" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Goriot Baba</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:description>&lt;p&gt;Büyük Fransız Romancısı Honore de Balzac'ın (1799-1850) ünlü dev yapıtı İnsanlık Güldürüsü, seksen sekiz ciltten oluşur. Goriot Baba, bu büyük yapıtın bir parçasıdır. Bu romanın ayrıcalıklı bir yeri vardır. Balzac'ın kafasında İnsanlık Güldürüsü'nü oluşturma düşüncesi Goriot Baba ile birlikte doğmuştur. Bu da bu büyük romanı, ister istemez, bir odak-yapıt durumuna getiriyor. Kurgusuyla, konusuyla, kişileriyle, içerdiği dünya görüşüyle, gerçekten çok ilginç bir roman olan Goriot Baba, İnsanlık Güldürüsü adlı bu dev yapıtın üç bine ulaşan kişilerinin önemli bir kısmını hem de en ilginçlerini bize tanıtır: Rastignac, Madame de Beauseant, Madame de Langeais ve daha birçokları, ünlü Balzac kişileri olarak ilk kez bu romanda karşımıza çıkarlar. Bu özelliği göz önüne alınınca, İnsanlık Güldürüsü'nün eşsiz evrenine girmek için en elverişli kapının Goriot Baba olduğu söylenebilir. Yalnızca yarattığı ilginç baba tipiyle değil, anlatım ustalığıyla da, öteki kahramanlarıyla da bu roman okuyanı sürükler&lt;/p&gt;</dc:description>
+<dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">baced6d6-d941-4069-a68c-8f1c4fffa001</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750720741</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789750720741</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface.xhtml" id="prefacexhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="prefacexhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+  </spine>
+  <guide/>
+</package>

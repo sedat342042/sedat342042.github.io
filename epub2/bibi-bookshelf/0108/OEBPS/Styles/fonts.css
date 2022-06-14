@@ -1,0 +1,17 @@
+@font-face {
+	src: url(../Fonts/Candara.ttf);
+	font-family: "Candara"
+}
+
+@font-face {
+	src: url(../Fonts/Candara-Italic.ttf);
+	font-family: "Candara";
+	font-style: italic
+}
+
+@font-face {
+	src: url(../Fonts/Candara-Bold-Italic.ttf);
+	font-family: "Candara";
+	font-weight: bold;
+	font-style: italic
+}

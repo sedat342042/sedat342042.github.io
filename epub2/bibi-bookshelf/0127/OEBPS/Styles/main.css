@@ -1,0 +1,156 @@
+@font-face {
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/BerlingLTStd-Roman.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: italic;
+	src:url("../Fonts/BerlingLTStd-Italic.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/GillSansStd.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: italic;
+	src:url("../Fonts/GillSansStd-Italic.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "Gill Sans Light";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/GillSansStd-Light.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "GoudyCat";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/GoudyCatTReg.ttf") format("truetype"); 
+}
+
+
+
+/*cover*/
+
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+
+/*copyright-page*/
+
+
+.press {
+	margin-bottom: 1em;
+}
+
+.copyright-page .copy{
+	margin-top: 1em;
+}
+.copyright-page .publisher{
+	margin-top: 2em;
+}
+
+/*titlepage*/
+
+.title{
+	text-align: center;
+}
+
+.aut{
+	margin-top: 2em;
+	font:normal normal 2.25em/1.2em "GoudyCat";
+	text-align: center;
+}
+
+.aut .bfl {
+	font-size: 1.2em;
+}
+
+.work{
+	font:normal normal 3.06em/1.2em "GoudyCat";
+	margin-top: .5em;
+
+}
+
+
+.seri{
+	font-family: "Gill Sans";
+	font-size: .92em;
+	margin-top: 3em;
+}
+
+.trans {
+	font-family: "Gill Sans";
+	font-size: .83em;
+	margin-top: 2.5em;
+}
+
+.logo{
+	margin: 3em auto 0 auto;
+}
+
+/*biography*/
+
+.biography .trl {
+	margin-top: 2em;
+}
+
+/*works*/
+
+/*dedication*/
+
+.dedication .container {
+	margin-top: 4em;
+	text-align: right;
+	font:normal normal .83em/1.3em "Berling";
+}
+
+
+/*chapter*/
+
+.chapter .container {
+	margin-top: 4em;
+}
+
+.chapter-header {
+	margin-bottom: 2em;
+	font:normal normal 1.25em/1.3em "Berling";
+	text-align: center;
+}
+
+blockquote {
+	margin: 1em auto;
+}
+
+.epigraph {
+	margin: 1em 1.3em 1em 1.3em;
+}
+
+/*appendix*/
+
+.appendix .container {
+	margin-top: 6em;
+}
+
+.app-header {
+	font:normal normal 1.42em/1.3em "Berling";
+	text-align: center;
+}
+
+
+/*common*/
+

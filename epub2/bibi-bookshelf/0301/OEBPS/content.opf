@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Kundera, Milan">Milan Kundera</dc:creator>
+<dc:description>&lt;p&gt;Milan Kundera, bütün yapıtları arasında en çok Gülünesi Aşklar'ı büyük keyifle, zevkle yazmış olduğunu söyler. Yedi öyküden oluşan bu kitapta, yazarın daha sonraki romanlarında geliştireceği aşk, yalan, yanılsama gibi temaların özünü, özgün ve yenilikçi anlatım tekniklerini bulmak mümkün. Hayatı, yanılsamalar üzerine kurulu bir parodi olarak sunduğu Gülünesi Aşklar'daki öyküler, 1958 ile 1968 arasında yazılmış. Milan Kundera, o eşsiz kara mizahı ve ironisiyle kahramanlarının kimlik sorunlarını, oyun gibi başlayan cinsel yanılsamalarını, trajik bir tutsaklıktan başka bir şey olmayan erotik güç tutkularını işliyor, cinsellik ve erotizmi benzersiz gözlem gücü ve duyarlılığıyla, kusursuz bir estetik düzeye oturtarak işliyor. Bu öykülerin her birinde 'gülünesi aşklar' yer alıyor, ya da gerçek aşk oyunları. Yirminci yüzyıl edebiyatına damgasını vuranlardan olan Çek yazar Milan Kundera'nın Gülünesi Aşklar'ı, zamana karşı durabilen bir başyapıt.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{41C46B48-8BCE-4F7D-894E-BF353002DBF4}</dc:identifier>
+    <dc:date>2002-12-26T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Gülünesi Aşklar"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Milan Kundera&quot;: &quot;&quot;}"/>
+  <dc:title>Gülünesi Aşklar</dc:title>
+<dc:subject>Öykü</dc:subject>
+<dc:subject>Çağdaş Edebiyat</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">be78c998-4032-4752-b6f5-33754a3e5263</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750702259</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/ga.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

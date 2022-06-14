@@ -1,0 +1,14 @@
+.calibre {
+    display: block;
+    font-size: 1em
+    }
+.calibre1 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1
+    }
+.calibre2 {
+    cursor: inherit;
+    text-decoration: inherit
+    }

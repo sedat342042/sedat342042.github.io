@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="0ea1ece9-e213-48e0-be5f-8992a51eb4a5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.4)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Nucingen Bankası</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="2220522e-4256-452c-b9c0-bf7a3fe6e3fb" playOrder="1">
+      <navLabel>
+        <text>Han</text>
+      </navLabel>
+      <content src="Nucingen_Bankasi.html#filepos1162"/>
+    </navPoint>
+    <navPoint class="chapter" id="885976e3-1c82-4b71-9b02-34c488350b76" playOrder="2">
+      <navLabel>
+        <text>Sessiz Köşe</text>
+      </navLabel>
+      <content src="Nucingen_Bankasi.html#filepos5960"/>
+    </navPoint>
+  </navMap>
+</ncx>

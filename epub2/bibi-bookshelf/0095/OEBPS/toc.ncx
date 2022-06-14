@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:b2712e39-6b88-4cb9-a9b2-69865ae8ce15" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Kızıl Elma - Oğulla Buluşma - Beyaz Yağmur - Asker Çocuğu - Deve Gözü</text>
+	</docTitle>
+	<docAuthor>
+		<text>Cengiz Aytmatov</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Kızıl Elma</text>
+			</navLabel>
+			<content src="Text/kizil_elma_hikayeler-3.xhtml#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Oğulla Buluşma</text>
+			</navLabel>
+			<content src="Text/kizil_elma_hikayeler-4.xhtml#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Beyaz Yağmur</text>
+			</navLabel>
+			<content src="Text/kizil_elma_hikayeler-5.xhtml#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Asker Çocuğu</text>
+			</navLabel>
+			<content src="Text/kizil_elma_hikayeler-6.xhtml#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Deve Gözü</text>
+			</navLabel>
+			<content src="Text/kizil_elma_hikayeler-7.xhtml#toc_marker-5"/>
+		</navPoint>
+	</navMap>
+</ncx>

@@ -1,0 +1,2486 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-style: italic
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    font-size: 1em
+    }
+.calibre6 {
+    font-size: 1em;
+    letter-spacing: -0.25pt
+    }
+.calibre7 {
+    letter-spacing: -0.1pt
+    }
+.calibre8 {
+    letter-spacing: -0.05pt
+    }
+.calibre9 {
+    font-size: 1em;
+    letter-spacing: -0.1pt
+    }
+.calibre10 {
+    letter-spacing: -0.15pt
+    }
+.calibre11 {
+    letter-spacing: -0.2pt
+    }
+.calibre12 {
+    letter-spacing: -0.55pt
+    }
+.calibre13 {
+    font-size: 1em;
+    letter-spacing: -0.3pt
+    }
+.calibre14 {
+    font-size: 1em;
+    letter-spacing: -0.2pt
+    }
+.calibre15 {
+    font-size: 1em;
+    letter-spacing: -0.05pt
+    }
+.calibre16 {
+    font-size: 1em;
+    letter-spacing: -0.15pt
+    }
+.calibre17 {
+    letter-spacing: -0.35pt
+    }
+.calibre18 {
+    letter-spacing: 0.5pt
+    }
+.calibre19 {
+    letter-spacing: -0.25pt
+    }
+.calibre20 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    letter-spacing: -0.1pt
+    }
+.calibre21 {
+    display: block;
+    page-break-before: auto
+    }
+.calibre22 {
+    font-size: 1em;
+    letter-spacing: -0.4pt
+    }
+.calibre23 {
+    letter-spacing: -0.6pt
+    }
+.calibre24 {
+    font-size: 1em;
+    letter-spacing: -0.65pt
+    }
+.calibre25 {
+    font-size: 1em;
+    letter-spacing: -0.5pt
+    }
+.calibre26 {
+    font-size: 1em;
+    letter-spacing: -0.35pt
+    }
+.calibre27 {
+    letter-spacing: -0.3pt
+    }
+.calibre28 {
+    font-size: 1em;
+    letter-spacing: -0.45pt
+    }
+.calibre29 {
+    font-size: 0.75em;
+    letter-spacing: -0.1pt
+    }
+.calibre30 {
+    letter-spacing: -0.5pt
+    }
+.calibre31 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre32 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre33 {
+    letter-spacing: -0.15pt;
+    line-height: 1.2
+    }
+.calibre34 {
+    letter-spacing: -0.4pt
+    }
+.calibre35 {
+    font-size: 1em;
+    letter-spacing: -0.6pt;
+    line-height: 1.2
+    }
+.calibre36 {
+    font-size: 1em;
+    letter-spacing: -0.3pt;
+    line-height: 1.2
+    }
+.calibre37 {
+    font-size: 1em;
+    letter-spacing: 0.6pt
+    }
+.calibre38 {
+    font-size: 1em;
+    letter-spacing: -0.6pt
+    }
+.calibre39 {
+    letter-spacing: -0.2pt;
+    line-height: 1.2
+    }
+.calibre40 {
+    font-size: 1em;
+    letter-spacing: -0.35pt;
+    line-height: 1.2
+    }
+.calibre41 {
+    letter-spacing: 0.55pt;
+    line-height: 1.2
+    }
+.calibre42 {
+    letter-spacing: -0.05pt;
+    line-height: 1.2
+    }
+.calibre43 {
+    letter-spacing: -0.3pt;
+    line-height: 1.2
+    }
+.calibre44 {
+    font-size: 1em;
+    letter-spacing: -0.05pt;
+    line-height: 1.2
+    }
+.calibre45 {
+    font-size: 1em;
+    letter-spacing: -0.55pt
+    }
+.calibre46 {
+    letter-spacing: -0.45pt
+    }
+.calibre47 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1em
+    }
+.calibre48 {
+    font-size: 1em;
+    letter-spacing: -0.15pt;
+    line-height: 1.2
+    }
+.calibre49 {
+    font-size: 1em;
+    letter-spacing: -0.2pt;
+    line-height: 1.2
+    }
+.calibre50 {
+    font-size: 1em;
+    letter-spacing: -0.1pt;
+    line-height: 1.2
+    }
+.calibre51 {
+    letter-spacing: 0.45pt
+    }
+.calibre52 {
+    font-size: 0.75em;
+    letter-spacing: -0.05pt
+    }
+.calibre53 {
+    font-variant: small-caps;
+    letter-spacing: -0.4pt
+    }
+.calibre54 {
+    font-size: 1em;
+    letter-spacing: -0.75pt
+    }
+.calibre55 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre56 {
+    letter-spacing: -0.75pt
+    }
+.calibre57 {
+    font-size: 0.75em;
+    letter-spacing: -0.25pt
+    }
+.calibre58 {
+    letter-spacing: -0.7pt
+    }
+.calibre59 {
+    letter-spacing: -0.65pt
+    }
+.calibre60 {
+    letter-spacing: 0.4pt
+    }
+.calibre61 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre62 {
+    letter-spacing: -0.1pt;
+    line-height: 1.2
+    }
+.calibre63 {
+    font-size: 1em;
+    letter-spacing: -0.25pt;
+    line-height: 1.2
+    }
+.calibre64 {
+    letter-spacing: 0.6pt
+    }
+.calibre65 {
+    letter-spacing: -0.8pt
+    }
+.calibre66 {
+    font-variant: small-caps
+    }
+.calibre67 {
+    font-size: 1em;
+    letter-spacing: -0.7pt
+    }
+.MsoNormal {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 1em 0
+    }
+.MsoNormal1 {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+.MsoNormal2 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 15.85pt 1.45pt 0.0001pt 0
+    }
+.MsoNormal3 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 0.7pt 0.0001pt 0.35pt
+    }
+.MsoNormal4 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0.35pt 0.7pt 0.0001pt
+    }
+.MsoNormal5 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0.35pt 0 0.0001pt 1.1pt
+    }
+.MsoNormal6 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 1.45pt 0.7pt 0.0001pt 1.45pt
+    }
+.MsoNormal7 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.1pt 0.0001pt 1.45pt
+    }
+.MsoNormal8 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 0.35pt 0.0001pt 1.1pt
+    }
+.MsoNormal9 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 0.7pt 0.0001pt 1.45pt
+    }
+.MsoNormal10 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 15.15pt;
+    margin: 1em 3.95pt 1em 0
+    }
+.MsoNormal11 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    tab-stops: 42.55pt;
+    text-align: justify;
+    text-indent: 20.15pt;
+    margin: 0 0.3pt 0.0001pt 1.15pt
+    }
+.MsoNormal12 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 15.8pt;
+    margin: 1em 0 1em 1.8pt
+    }
+.MsoNormal13 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 1em 0 1em 4.3pt
+    }
+.MsoNormal14 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0.7pt 4.3pt 0.0001pt 1.45pt
+    }
+.MsoNormal15 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1.8pt 4.3pt 0.0001pt 0
+    }
+.MsoNormal16 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 0.35pt
+    }
+.MsoNormal17 {
+    display: block;
+    text-indent: 21.3pt;
+    margin: 1em 0
+    }
+.MsoNormal18 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.8pt;
+    margin: 2.9pt 2.15pt 0.0001pt 0.35pt
+    }
+.MsoNormal19 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.8pt 0.0001pt 1.1pt
+    }
+.MsoNormal20 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0 1.8pt 0.0001pt 1.45pt
+    }
+.MsoNormal21 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 0.7pt 0.0001pt 2.15pt
+    }
+.MsoNormal22 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 0.7pt 0.0001pt 2.9pt
+    }
+.MsoNormal23 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 16.55pt;
+    margin: 0 13.3pt 0.0001pt 0.35pt
+    }
+.MsoNormal24 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 11.15pt 0.0001pt 3.95pt
+    }
+.MsoNormal25 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 8.65pt;
+    margin: 1em 0 1em 5.4pt
+    }
+.MsoNormal26 {
+    background: white;
+    display: block;
+    line-height: 16.9pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 4.7pt 0.0001pt 10.8pt
+    }
+.MsoNormal27 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0.35pt 0 0.0001pt 4.3pt
+    }
+.MsoNormal28 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 14.75pt;
+    margin: 1.1pt 3.25pt 0.0001pt 3.95pt
+    }
+.MsoNormal29 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 1.1pt 3.95pt 0.0001pt 2.9pt
+    }
+.MsoNormal30 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: center;
+    text-indent: 14.05pt;
+    margin: 1.1pt 3.95pt 0.0001pt 2.9pt
+    }
+.MsoNormal31 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.75pt;
+    margin: 12.25pt 5.75pt 0.0001pt 0.7pt
+    }
+.MsoNormal32 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-indent: 15.45pt;
+    margin: 0.35pt 0 1em
+    }
+.MsoNormal33 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 12.95pt
+    }
+.MsoNormal34 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 13.3pt
+    }
+.MsoNormal35 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 1em 5.4pt 1em 0
+    }
+.MsoNormal36 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 14.05pt
+    }
+.MsoNormal37 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 5.05pt 0.0001pt 0.35pt
+    }
+.MsoNormal38 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 4.7pt 0.0001pt 0.7pt
+    }
+.MsoNormal39 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.6pt;
+    margin: 0 2.9pt 0.0001pt 0.7pt
+    }
+.MsoNormal40 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 2.15pt 0.0001pt
+    }
+.MsoNormal41 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 0.35pt 0.0001pt 2.9pt
+    }
+.MsoNormal42 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 3.95pt
+    }
+.MsoNormal43 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0.35pt 0.7pt 0.0001pt 3.95pt
+    }
+.MsoNormal44 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 1.1pt 0.35pt 0.0001pt 3.6pt
+    }
+.MsoNormal45 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0.35pt 0 0.0001pt 3.6pt
+    }
+.MsoNormal46 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 0.7pt 0 0.0001pt 16.9pt
+    }
+.MsoNormal47 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0.7pt 1.1pt 0.0001pt 2.5pt
+    }
+.MsoNormal48 {
+    background: white;
+    display: block;
+    margin: 3.6pt 0 0.0001pt 16.55pt
+    }
+.MsoNormal49 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 1.1pt 2.15pt 0.0001pt
+    }
+.MsoNormal50 {
+    background: white;
+    display: block;
+    margin: 3.25pt 0 0.0001pt 16.2pt
+    }
+.MsoNormal51 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 1.8pt 0 0.0001pt 15.85pt
+    }
+.MsoNormal52 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 1em 0 1em 15.85pt
+    }
+.MsoNormal53 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 0.35pt 0 0.0001pt 15.5pt
+    }
+.MsoNormal54 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 1.45pt 2.15pt 0.0001pt 1.45pt
+    }
+.MsoNormal55 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 1.45pt 0 0.0001pt 15.1pt
+    }
+.MsoNormal56 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0.35pt 2.9pt 0.0001pt 0.35pt
+    }
+.MsoNormal57 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 1em 0 1em 13.7pt
+    }
+.MsoNormal58 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: -53.1pt;
+    margin: 1em 0 1em 67.3pt
+    }
+.MsoNormal59 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 14.2pt;
+    margin: 1em 0
+    }
+.MsoNormal60 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 0.35pt
+    }
+.MsoNormal61 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 12.95pt;
+    margin: 0.35pt 0 0.0001pt 1.45pt
+    }
+.MsoNormal62 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 1.1pt
+    }
+.MsoNormal63 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 1em 0 1em 14.75pt
+    }
+.MsoNormal64 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 0.35pt 0 0.0001pt 14.75pt
+    }
+.MsoNormal65 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 14.05pt;
+    margin: 1em 0 1em 1.1pt
+    }
+.MsoNormal66 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 14.4pt;
+    margin: 0.35pt 0 0.0001pt 1.1pt
+    }
+.MsoNormal67 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 1em 0 1em 15.5pt
+    }
+.MsoNormal68 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 0.35pt 0 0.0001pt 15.85pt
+    }
+.MsoNormal69 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 2.15pt
+    }
+.MsoNormal70 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 12.95pt;
+    margin: 1em 0 1em 3.25pt
+    }
+.MsoNormal71 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 2.35pt;
+    margin: 1em 0 1em 14.2pt
+    }
+.MsoNormal72 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 14.05pt;
+    margin: 1em 0 1em 2.9pt
+    }
+.MsoNormal73 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 13.3pt;
+    margin: 0.35pt 0 0.0001pt 3.6pt
+    }
+.MsoNormal74 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 13.7pt;
+    margin: 0.35pt 0 0.0001pt 3.6pt
+    }
+.MsoNormal75 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 0.35pt 0 0.0001pt 17.3pt
+    }
+.MsoNormal76 {
+    background: white;
+    display: block;
+    line-height: 15.5pt;
+    text-indent: 14.4pt;
+    margin: 1em 0 1em 3.25pt
+    }
+.MsoNormal77 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 3.95pt 0.0001pt 0.7pt
+    }
+.MsoNormal78 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 3.95pt 0.0001pt 1.1pt
+    }
+.MsoNormal79 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 3.6pt 0.0001pt 1.45pt
+    }
+.MsoNormal80 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 15.1pt
+    }
+.MsoNormal81 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 15.5pt
+    }
+.MsoNormal82 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 1.8pt 0.0001pt
+    }
+.MsoNormal83 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 2.5pt 0.0001pt 2.15pt
+    }
+.MsoNormal84 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 16.2pt
+    }
+.MsoNormal85 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 16.55pt
+    }
+.MsoNormal86 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.45pt 0.0001pt 3.25pt
+    }
+.MsoNormal87 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 17.3pt
+    }
+.MsoNormal88 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.1pt 0.0001pt 3.6pt
+    }
+.MsoNormal89 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 0.7pt 0.0001pt 3.95pt
+    }
+.MsoNormal90 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 11.15pt 0 1em
+    }
+.MsoNormal91 {
+    display: block;
+    text-indent: 17.65pt;
+    margin: 1em 0
+    }
+.MsoNormal92 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1.45pt 0 0.0001pt 17.65pt
+    }
+.MsoNormal93 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 17.65pt
+    }
+.MsoNormal94 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 0.35pt 0 0.0001pt 17.3pt
+    }
+.MsoNormal95 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 1em 0 1em 2.9pt
+    }
+.MsoNormal96 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0 0.7pt 0.0001pt 2.9pt
+    }
+.MsoNormal97 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0.35pt 0.7pt 0.0001pt 2.15pt
+    }
+.MsoNormal98 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 0.7pt 0 0.0001pt 16.55pt
+    }
+.MsoNormal99 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.8pt 0.0001pt
+    }
+.MsoNormal100 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 15.85pt
+    }
+.MsoNormal101 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0.7pt 2.15pt 0.0001pt 1.45pt
+    }
+.MsoNormal102 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 0.7pt 0 0.0001pt 15.5pt
+    }
+.MsoNormal103 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0.7pt 1.8pt 0.0001pt 1.1pt
+    }
+.MsoNormal104 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0 2.5pt 0.0001pt 0.7pt
+    }
+.MsoNormal105 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0.35pt 2.5pt 0.0001pt 0
+    }
+.MsoNormal106 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 0.35pt 0 0.0001pt 14.05pt
+    }
+.MsoNormal107 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 1em 6.5pt 1em 0
+    }
+.MsoNormal108 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 5.75pt 0.0001pt 1.1pt
+    }
+.MsoNormal109 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 5.05pt 0.0001pt 1.1pt
+    }
+.MsoNormal110 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 3.25pt 0.0001pt 1.45pt
+    }
+.MsoNormal111 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 1em 0 1em 16.55pt
+    }
+.MsoNormal112 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 2.5pt 0.0001pt 3.25pt
+    }
+.MsoNormal113 {
+    display: block;
+    text-indent: 16.2pt;
+    margin: 1em 0
+    }
+.MsoNormal114 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 14.4pt
+    }
+.MsoNormal115 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 0.35pt 0.0001pt
+    }
+.MsoNormal116 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 1em 0.35pt 1em 0
+    }
+.MsoNormal117 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 1em 0.7pt 1em 0
+    }
+.MsoNormal118 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 0.7pt 0.0001pt
+    }
+.MsoNormal119 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 0.35pt 0.0001pt 0.7pt
+    }
+.MsoNormal120 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 14.75pt
+    }
+.MsoNormal121 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 1em 10.1pt 1em 0
+    }
+.MsoNormal122 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 8.65pt 0.0001pt 0.35pt
+    }
+.MsoNormal123 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-indent: 6.85pt;
+    margin: 1em 0 1em 7.2pt
+    }
+.MsoNormal124 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 21.25pt
+    }
+.MsoNormal125 {
+    background: white;
+    display: block;
+    line-height: 16.2pt;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 7.55pt
+    }
+.MsoNormal126 {
+    background: white;
+    display: block;
+    line-height: 15.1pt;
+    text-indent: 12.95pt;
+    margin: 1em 0 1em 8.3pt
+    }
+.MsoNormal127 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 10.1pt;
+    margin: 1em 0 1em 11.15pt
+    }
+.MsoNormal128 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 2.5pt 1.1pt 0.0001pt 21.3pt
+    }
+.MsoNormal129 {
+    background: white;
+    display: block;
+    margin: 4.3pt 0 0.0001pt 23.4pt
+    }
+.MsoNormal130 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-indent: 1.05pt;
+    margin: 2.15pt 2.15pt 0.0001pt 21.3pt
+    }
+.MsoNormal131 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 1em 0 1em 21.95pt
+    }
+.MsoNormal132 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    margin: 0.35pt 0 0.0001pt 21.25pt
+    }
+.MsoNormal133 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1.8pt 0 0.0001pt 21.25pt
+    }
+.MsoNormal134 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1em 0 1em 20.5pt
+    }
+.MsoNormal135 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.35pt;
+    margin: 2.15pt 5.4pt 0.0001pt 19.45pt
+    }
+.MsoNormal136 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 3.6pt 6.5pt 0.0001pt 19.45pt
+    }
+.MsoNormal137 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 2.5pt 0 0.0001pt 14.4pt
+    }
+.MsoNormal138 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-indent: 13.3pt;
+    margin: 2.5pt 0 0.0001pt 1.1pt
+    }
+.MsoNormal139 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-indent: 14.4pt;
+    margin: 1.1pt 0 1em
+    }
+.MsoNormal140 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 1.45pt 2.9pt 0.0001pt 0
+    }
+.MsoNormal141 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 2.15pt 0.0001pt 0.35pt
+    }
+.MsoNormal142 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.8pt 0.0001pt 0.35pt
+    }
+.MsoNormal143 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 0.35pt 0 0.0001pt 14.4pt
+    }
+.MsoNormal144 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.1pt 0.0001pt 0.7pt
+    }
+.MsoNormal145 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0.35pt 0.35pt 0.0001pt 0.7pt
+    }
+.MsoNormal146 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 1em 0 1em 0.7pt
+    }
+.MsoNormal147 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0.35pt 0.35pt 0.0001pt 0.7pt
+    }
+.MsoNormal148 {
+    display: block;
+    text-indent: 14.05pt;
+    margin: 1em 0 1em 0.7pt
+    }
+.MsoNormal149 {
+    display: block;
+    text-indent: 14.75pt;
+    margin: 1em 0
+    }
+.MsoNormal150 {
+    display: block;
+    text-align: center;
+    text-indent: 36pt;
+    margin: 1em 0
+    }
+.MsoNormal151 {
+    display: block;
+    text-indent: 14.2pt;
+    margin: 1em 0
+    }
+.MsoNormal152 {
+    display: block;
+    margin: 1em 0 1em 14.2pt
+    }
+.MsoNormal153 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.35pt;
+    margin: 0 11.9pt 0.0001pt 0.7pt
+    }
+.MsoNormal154 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.6pt;
+    margin: 0 10.1pt 0.0001pt 1.45pt
+    }
+.MsoNormal155 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 8.3pt 0.0001pt 2.9pt
+    }
+.MsoNormal156 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 0 86.4pt 0.0001pt 18pt
+    }
+.MsoNormal157 {
+    background: white;
+    display: block;
+    line-height: 15.1pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 6.1pt 0.0001pt 5.05pt
+    }
+.MsoNormal158 {
+    background: white;
+    display: block;
+    line-height: 16.2pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 6.1pt 0.0001pt 5.75pt
+    }
+.MsoNormal159 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 11.9pt;
+    margin: 0 3.25pt 0.0001pt 6.1pt
+    }
+.MsoNormal160 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 1em 0 1em 8.65pt
+    }
+.MsoNormal161 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    margin: 1.45pt 1.45pt 0.0001pt 5.75pt
+    }
+.MsoNormal162 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 1.1pt 0 0.0001pt 3.95pt
+    }
+.MsoNormal163 {
+    background: white;
+    display: block;
+    line-height: 14.4pt;
+    text-align: justify;
+    margin: 1.45pt 5.05pt 0.0001pt 2.9pt
+    }
+.MsoNormal164 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 2.5pt 2.5pt 0.0001pt 0
+    }
+.MsoNormal165 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.8pt 0.0001pt 0.35pt
+    }
+.MsoNormal166 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 2.15pt 0.0001pt 0.7pt
+    }
+.MsoNormal167 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0.35pt 2.5pt 0.0001pt 0.7pt
+    }
+.MsoNormal168 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 1em 1.1pt 1em 0
+    }
+.MsoNormal169 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.45pt 0.0001pt 0.7pt
+    }
+.MsoNormal170 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.6pt;
+    margin: 1em 0 1em 0.35pt
+    }
+.MsoNormal171 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 0.35pt 0.0001pt 1.45pt
+    }
+.MsoNormal172 {
+    display: block;
+    text-align: justify;
+    margin: 1em 0
+    }
+.MsoNormal173 {
+    background: white;
+    display: block;
+    line-height: 29.5pt;
+    text-align: justify;
+    margin: 0 51.85pt 0.0001pt 55.45pt
+    }
+.MsoNormal174 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 11.9pt 6.1pt 0.0001pt 0
+    }
+.MsoNormal175 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 4.7pt 0.0001pt 0.35pt
+    }
+.MsoNormal176 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 3.25pt 1em 0
+    }
+.MsoNormal177 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 1.45pt 1em 0
+    }
+.MsoNormal178 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 0 0.7pt 0.0001pt 3.95pt
+    }
+.MsoNormal179 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 0 1em 5.05pt
+    }
+.MsoNormal180 {
+    display: block;
+    text-align: justify;
+    text-indent: 5.05pt;
+    margin: 1em 0
+    }
+.MsoNormal181 {
+    display: block;
+    text-align: justify;
+    text-indent: 7.1pt;
+    margin: 1em 0
+    }
+.MsoNormal182 {
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 1em 0
+    }
+.MsoNormal183 {
+    background: white;
+    display: block;
+    text-align: center;
+    margin: 31.7pt 4.7pt 0.0001pt 0
+    }
+.MsoNormal184 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.85pt;
+    margin: 0.7pt 4.7pt 0.0001pt 0.35pt
+    }
+.MsoNormal185 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 3.25pt 0.0001pt 2.15pt
+    }
+.MsoNormal186 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 2.9pt 0.0001pt
+    }
+.MsoNormal187 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 1.1pt 0.0001pt 3.25pt
+    }
+.MsoNormal188 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.1pt 0.0001pt 3.95pt
+    }
+.MsoNormal189 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 0.35pt 0 0.0001pt 18pt
+    }
+.MsoNormal190 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 0 1em 16.9pt
+    }
+.MsoNormal191 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 12.2pt;
+    margin: 1em 0 1em 3.1pt
+    }
+.MsoNormal192 {
+    display: block;
+    text-align: justify;
+    text-indent: 15.3pt;
+    margin: 1em 0
+    }
+.MsoNormal193 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 0.7pt 6.5pt 0.0001pt 0
+    }
+.MsoNormal194 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 5.4pt 0.0001pt 0.35pt
+    }
+.MsoNormal195 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 4.7pt 0.0001pt 1.45pt
+    }
+.MsoNormal196 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 4.3pt 0.0001pt 2.15pt
+    }
+.MsoNormal197 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 3.25pt 0.0001pt 2.5pt
+    }
+.MsoNormal198 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 2.5pt 0.0001pt 3.95pt
+    }
+.MsoNormal199 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.45pt 0.0001pt 4.3pt
+    }
+.MsoNormal200 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 4.7pt
+    }
+.MsoNormal201 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 0.35pt 0.7pt 0.0001pt 1.1pt
+    }
+.MsoNormal202 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 0.35pt
+    }
+.MsoNormal203 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0 1.1pt 0.0001pt 0.35pt
+    }
+.MsoNormal204 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 0.7pt 1em 0
+    }
+.MsoNormal205 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0.35pt 1.1pt 0.0001pt 0
+    }
+.MsoNormal206 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 5.75pt 0.0001pt 13.7pt
+    }
+.MsoNormal207 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 4.7pt 0.0001pt 1.1pt
+    }
+.MsoNormal208 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 4.7pt 0.0001pt 1.8pt
+    }
+.MsoNormal209 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 3.25pt 0.0001pt 2.5pt
+    }
+.MsoNormal210 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 2.5pt 0.0001pt 3.25pt
+    }
+.MsoNormal211 {
+    background: white;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 2.15pt 0.0001pt 3.6pt
+    }
+.MsoNormal212 {
+    display: block;
+    text-indent: 15.5pt;
+    margin: 1em 0
+    }
+.MsoNormal213 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 0.35pt 0.0001pt 1.45pt
+    }
+.MsoNormal214 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0.7pt 1.1pt 0.0001pt 0
+    }
+.MsoNormal215 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.1pt 0.0001pt 0.35pt
+    }
+.MsoNormal216 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.45pt 0.0001pt 0.35pt
+    }
+.MsoNormal217 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.1pt 0.0001pt 0.7pt
+    }
+.MsoNormal218 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.6pt;
+    margin: 1em 0 1em 0.7pt
+    }
+.MsoNormal219 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 1.1pt
+    }
+.MsoNormal220 {
+    display: block;
+    text-indent: 14.8pt;
+    margin: 1em 0
+    }
+.MsoNormal221 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0.35pt 0.35pt 0.0001pt 0.7pt
+    }
+.MsoNormal222 {
+    background: white;
+    display: block;
+    margin: 0.35pt 0 0.0001pt 14.75pt
+    }
+.MsoNormal223 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0.35pt 0 0.0001pt 0.7pt
+    }
+.MsoNormal224 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0.7pt 0 0.0001pt 0.7pt
+    }
+.MsoNormal225 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0.7pt 0.35pt 0.0001pt 0.7pt
+    }
+.MsoNormal226 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 1.1pt 0 0.0001pt 0.35pt
+    }
+.MsoNormal227 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0.35pt 0.7pt 0.0001pt 0
+    }
+.MsoNormal228 {
+    background: white;
+    display: block;
+    margin: 0.35pt 0 0.0001pt 14.05pt
+    }
+.MsoNormal229 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 0.35pt 0.0001pt
+    }
+.MsoNormal230 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 0.7pt
+    }
+.MsoNormal231 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 0.35pt 0.0001pt 0.7pt
+    }
+.MsoNormal232 {
+    background: white;
+    display: block;
+    margin: 1em 0 1em 14.4pt
+    }
+.MsoNormal233 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 0.35pt
+    }
+.MsoNormal234 {
+    background: white;
+    display: block;
+    margin: 1em 0 1em 14.05pt
+    }
+.MsoNormal235 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 1em 6.1pt 1em 0
+    }
+.MsoNormal236 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 5.4pt 0.0001pt 0.35pt
+    }
+.MsoNormal237 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 4.3pt 0.0001pt 0.35pt
+    }
+.MsoNormal238 {
+    background: white;
+    display: block;
+    margin: 1em 0 1em 14.75pt
+    }
+.MsoNormal239 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 3.25pt 0.0001pt 1.1pt
+    }
+.MsoNormal240 {
+    background: white;
+    display: block;
+    margin: 1em 0 1em 15.5pt
+    }
+.MsoNormal241 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 12.95pt;
+    margin: 0 2.5pt 0.0001pt 1.45pt
+    }
+.MsoNormal242 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.45pt 0.0001pt 2.9pt
+    }
+.MsoNormal243 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.1pt 0.0001pt 2.9pt
+    }
+.MsoNormal244 {
+    background: white;
+    display: block;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.1pt 0.0001pt 3.25pt
+    }
+.MsoNormal245 {
+    background: white;
+    display: block;
+    text-align: justify;
+    margin: 1em 0 1em 16.9pt
+    }
+.MsoNormal246 {
+    display: block;
+    text-align: justify;
+    text-indent: 16.9pt;
+    margin: 1em 0
+    }
+.MsoNormal247 {
+    display: block;
+    text-indent: 16.9pt;
+    margin: 1em 0
+    }
+.MsoNormal248 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 2.15pt 1.8pt 0.0001pt 0
+    }
+.MsoNormal249 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.45pt 0.0001pt 0.35pt
+    }
+.MsoNormal250 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 1em 1.45pt 1em 0
+    }
+.MsoNormal251 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.6pt;
+    margin: 1em 0
+    }
+.MsoNormal252 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 6.1pt 1em 0
+    }
+.MsoNormal253 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 1em 4.7pt 1em 0
+    }
+.MsoNormal254 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 11.9pt 3.95pt 0.0001pt 1.1pt
+    }
+.MsoNormal255 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 3.25pt 0.0001pt 1.1pt
+    }
+.MsoNormal256 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 2.9pt 0.0001pt 1.8pt
+    }
+.MsoNormal257 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 12.25pt;
+    margin: 1em 0 1em 2.5pt
+    }
+.MsoNormal258 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 0 1em 17.3pt
+    }
+.MsoNormal259 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 0.35pt 0.0001pt 4.3pt
+    }
+.MsoNormal260 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 0
+    }
+.MsoNormal261 {
+    display: block;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 0
+    }
+.MsoNormal262 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 1.8pt 1em 0
+    }
+.MsoNormal263 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 0.35pt 0.0001pt 0.7pt
+    }
+.MsoNormal264 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.45pt 0.0001pt 0.7pt
+    }
+.MsoNormal265 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0.35pt 1.1pt 0.0001pt 0.35pt
+    }
+.MsoNormal266 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 0 1em 14.4pt
+    }
+.MsoNormal267 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 0 1em 15.1pt
+    }
+.MsoNormal268 {
+    display: block;
+    text-align: justify;
+    text-indent: 15.1pt;
+    margin: 1em 0
+    }
+.MsoNormal269 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.65pt;
+    margin: 0 1.45pt 0.0001pt 0.35pt
+    }
+.MsoNormal270 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 0.7pt 0.0001pt
+    }
+.MsoNormal271 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 0.7pt 0.0001pt 1.1pt
+    }
+.MsoNormal272 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 1.1pt 0.0001pt
+    }
+.MsoNormal273 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 0.35pt 0.0001pt 1.8pt
+    }
+.MsoNormal274 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 3.95pt 1em 0
+    }
+.MsoNormal275 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 3.25pt 0.0001pt 1.45pt
+    }
+.MsoNormal276 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 1em 1.1pt 1em 0
+    }
+.MsoNormal277 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 1em 1.1pt 1em 0
+    }
+.MsoNormal278 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 0.7pt 0.0001pt 0.35pt
+    }
+.MsoNormal279 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 1em 0.35pt 1em 0
+    }
+.MsoNormal280 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 1.1pt 1.1pt 0.0001pt 0.35pt
+    }
+.MsoNormal281 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.8pt 0.0001pt 0.7pt
+    }
+.MsoNormal282 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 1em 0 1em 0.7pt
+    }
+.MsoNormal283 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 0.7pt 0.0001pt 1.1pt
+    }
+.MsoNormal284 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    margin: 0.35pt 0 0.0001pt 14.75pt
+    }
+.MsoNormal285 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 1em 0 1em 1.45pt
+    }
+.MsoNormal286 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0.35pt 0.35pt 0.0001pt 1.1pt
+    }
+.MsoNormal287 {
+    display: block;
+    text-align: justify;
+    margin: 1em 0 1em 14.2pt
+    }
+.MsoNormal288 {
+    display: block;
+    text-align: center;
+    text-indent: 14.2pt;
+    margin: 1em 0
+    }
+.MsoNormal289 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 1em 4.7pt 1em 0
+    }
+.MsoNormal290 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 0 3.25pt 0.0001pt 0.35pt
+    }
+.MsoNormal291 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 0 1em 15.85pt
+    }
+.MsoNormal292 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 0 1em 16.2pt
+    }
+.MsoNormal293 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.8pt 0.0001pt 2.15pt
+    }
+.MsoNormal294 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 0.35pt 0 0.0001pt 16.2pt
+    }
+.MsoNormal295 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.7pt;
+    margin: 0 1.1pt 0.0001pt 2.5pt
+    }
+.MsoNormal296 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 0.35pt 0.0001pt 3.25pt
+    }
+.MsoNormal297 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 0.35pt 0.0001pt 2.9pt
+    }
+.MsoNormal298 {
+    display: block;
+    text-align: justify;
+    text-indent: 16.95pt;
+    margin: 1em 0
+    }
+.MsoNormal299 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: center;
+    text-indent: 15.1pt;
+    margin: 1em 1.8pt 1em 0
+    }
+.MsoNormal300 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 1em 2.15pt 1em 0
+    }
+.MsoNormal301 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 0 1em 14.75pt
+    }
+.MsoNormal302 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.05pt;
+    margin: 0 1.8pt 0.0001pt 0.7pt
+    }
+.MsoNormal303 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 14.4pt;
+    margin: 0 1.8pt 0.0001pt 1.1pt
+    }
+.MsoNormal304 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    text-indent: 13.3pt;
+    margin: 1em 0 1em 2.15pt
+    }
+.MsoNormal305 {
+    display: block;
+    text-indent: 15.45pt;
+    margin: 1em 0
+    }
+.MsoNormal306 {
+    background: white;
+    display: block;
+    line-height: 14.75pt;
+    text-align: justify;
+    margin: 1em 0 1em 16.55pt
+    }
+.MsoNormal307 {
+    background: white;
+    display: block;
+    text-align: justify;
+    margin: 1em 0 1em 14.05pt
+    }
+.WordSection {
+    display: block
+    }

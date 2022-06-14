@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Kundera, Milan">Milan Kundera</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">43fcffe9-92c4-47b1-ac4b-16db921d4448</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2009-03-14T22:00:00+00:00</dc:date>
+    <meta content="Gülüşün ve Unutuşun Kitabı" name="calibre:title_sort"/>
+    <meta content="2014-03-26T16:23:47.072000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Gülüşün ve Unutuşun Kitabı</dc:title>
+<meta name="calibre:series" content="Çağdaş Dünya Edebiyatı Dizisi"/>
+<meta name="calibre:series_index" content="2.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Çek Edebiyatı</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:description>&lt;p&gt;Gülüşün ve Unutuşun Kitabı, ünlü Çek yazarı Milan Kundera'nın Fransa'ya göçtükten sonra orada yazdığı ilk roman. Bir kahvede servis yapan güzel göçmen kızı Tamina, hiçbir şeyin, hiç kimsenin yerini tutamayacağı ölmüş kocasının anısının giderek bulanıklaşmasına karşı umutsuz bir savaş veriyor. Onun öyküsü, bu kitabın iki temel gerçeğini yansıtıyor: Çekoslovakya'da yaşanan trajik deney (yani ünlü Prag Bahari, ardından Sovyet işgali) ve Batı'daki yaşam. Kundera, Kuşkulu bir bakışla dolaşır bu gerçekler üzerinde. Kitabın, birbirinden bağımsız görünen yedi bölümü, bir yolculuğun aşamaları gibi birbirini izliyor. Aynı durumlar, aynı sorular, müzikteki Kreşendo gibi bir tek görüntüde birleşiyorlar. Mizah, yoğun bir hüzünle birlikte gelişiyor. Her an gülünç bir pantomime dönüşebilecek erotizmin incinebilirliği ve bunun getirdiği şaşkınlık. Ve sonuna doğru bir koşuya dönüşen tarih; unutuşun tanrılarına adanmış, yazarın ve ülkesinin kaderi konusunda düşünceler, düşünceler.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Milan Kundera&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0ab3aeef-9eae-4184-b081-671acb147330</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">ujJZSgAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755102016</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/index_split_000.html" id="id219" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id218" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id217" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id216" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id215" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id214" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id213" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id212" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_011.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_012.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_013.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_014.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_015.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_016.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_017.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_018.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id219"/>
+    <itemref idref="id218"/>
+    <itemref idref="id217"/>
+    <itemref idref="id216"/>
+    <itemref idref="id215"/>
+    <itemref idref="id214"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

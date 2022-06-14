@@ -1,0 +1,218 @@
+.block_ {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_2 {
+    display: block;
+    font-family: serif;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_5 {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_6 {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_7 {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_8 {
+    display: block;
+    font-family: serif;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_9 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_10 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_11 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 21.2pt;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0
+    }
+.block_12 {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_13 {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_14 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+	font-size:1.2em;
+    text-align: center;
+    text-indent: 21.2pt;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0
+    }
+.block_15 {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.block_16 {
+    display: block;
+    font-family: serif;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.block_17 {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0 0 0 93.2pt
+    }
+.block_18 {
+    display: block;
+    font-family: serif;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0 0 0 93.2pt
+    }
+.block_19 {
+    display: block;
+    font-size: 0.8em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 21.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block_20 {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 0 0 6pt
+    }
+.block_22 {
+    display: block;
+    font-family: serif;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 0 0 3pt
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.25em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-style: italic
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.text_ {
+    color: #06C;
+    text-decoration: underline
+    }
+.text_1 {
+    font-family: "Cambria", serif;
+    font-weight: bold;
+    line-height: 1.2;
+    text-transform: uppercase
+    }
+.text_2 {
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+    text-transform: uppercase
+    }

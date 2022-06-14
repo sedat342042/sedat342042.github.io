@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+<dc:identifier id="uuid">{BA9D9302-572D-4E88-83A5-5DB19C9DEC42}</dc:identifier>
+    <dc:date>2003-03-04T22:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Vahşetin Çağrısı</dc:title>
+<meta name="calibre:title_sort" content="Vahşetin Çağrısı"/>
+<dc:publisher>Kum saati Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Kurgu</dc:subject>
+<dc:subject>Macera romanı</dc:subject>
+<dc:subject>Çocuk edebiyatı</dc:subject>
+<dc:subject>Macera filmi</dc:subject>
+<dc:subject>Tarihi Kurgu</dc:subject>
+<dc:subject>Spekülatif kurgu</dc:subject>
+<dc:description>&lt;p&gt;Vahşetin Çağrısı, Amerikalı Jack London tarafından yazılmış bir romandır. Roman, Klondike Altına Hücumunda evcil bir kızak köpeğinin, sahibinin haberi olmaksızın doğal/vahşi ortama sokulması neticesinde, vahşi doğaya adapte olması ve doğada yaşadığı olayları konu edinmektedir.
+Roman 1903 yılında yayınlanmış, Londra'da en çok okunan kitap olmuş ve yazarın en iyi yapıtlarından biri sayılmıştır. Roman bir köpeğin yaşadığı olayları onun gözü ile anlattığı için, genelde çocuklar için uygun olarak görülür, fakat tarzında karanlık bir anlatım ve birçok sahnesinde acımasızlık ile şiddet içerir. Hikâyede Buck adlı bir köpek anlatılır, sahibinin evinde mutlu ve huzurlu bir yaşam sürerken birden değişen hayatı vurgulanır.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jack London&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f2cf281b-fac6-49af-b89d-c9e7299af965</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789759990688</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section6.xhtml" id="Section6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section8.xhtml" id="Section8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section1.xhtml" id="Section1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section2.xhtml" id="Section2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section3.xhtml" id="Section3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section4.xhtml" id="Section4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section7.xhtml" id="Section7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section5.xhtml" id="Section5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section1.xhtml"/>
+    <itemref idref="Section2.xhtml"/>
+    <itemref idref="Section3.xhtml"/>
+    <itemref idref="Section4.xhtml"/>
+    <itemref idref="Section5.xhtml"/>
+    <itemref idref="Section6.xhtml"/>
+    <itemref idref="Section7.xhtml"/>
+    <itemref idref="Section8.xhtml"/>
+  </spine>
+  <guide/>
+</package>

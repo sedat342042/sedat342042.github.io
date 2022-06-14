@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Saramago, Jose">Jose Saramago</dc:creator>
+<dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>1998-03-02T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e38c7d85-ecff-4704-b52d-4e227ad16060</dc:identifier>
+    <dc:date opf:event="modification">2015-03-29</dc:date>
+    <dc:description>&lt;p&gt;Küçük Anılar, 1998’de Nobel Edebiyat Ödülü’ne değer görülen José Saramago’nun çocukluk ve ilkgençlik anılarından oluşuyor. Saramago, o kendine özgü şiirsel anlatımıyla ve hiç yakınmadan, büyük bir yoksulluk içinde geçen çocukluk çağını anlatıyor. Hayal gücünün genişliği dışında yazar Saramago’ya hiçbir gönderme yapmadan, yoksul bir çocuğun önce köyünde, sonra büyük kentin kenar mahallesindeki yaşamını betimliyor. Ama yine de, Küçük Anılar, sıkıntıları ve büyülü anlarıyla, Saramago’yu büyük bir yazar olmaya götüren kişisel zenginliği gözler önüne seriyor. Daha önce Umut Tarlaları, Ricardo Reis’in Öldüğü Yıl, Ressamın Elkitabı, Körlük ve Görmek adlı romanlarını yayınladığımız Saramago’yu, kısa bir süre önce yayınlanan bu otobiyografisiyle daha yakından ve içeriden tanıyacaksınız. Saramago’nun Küçük Anılar adını verdiği bu çok özel kitabını, İnci Kut’un Portekizce aslından yaptığı çeviriyle sunuyoruz.&lt;/p&gt;</dc:description>
+    <meta content="Küçük Anılar Çocukluk ve İlkgençlik Anıları" name="calibre:title_sort"/>
+    <meta content="2015-03-13T12:04:50.406000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Jose Saramago&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  <dc:title>Küçük Anılar Çocukluk ve İlkgençlik Anıları</dc:title>
+<dc:subject>Anı</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8877b7e7-08aa-4b1f-8ac2-67b579451f4e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750710117</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kucuk_01.htm" id="kucuk_01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/kucuk_03.htm" id="kucuk_03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/kucuk_04.htm" id="kucuk_04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/kucuk_05.htm" id="kucuk_05.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image002.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="Images/image004.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="Images/image006.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="Images/image008.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="Images/image010.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="Images/image012.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="Images/image014.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="Images/image016.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="Images/image018.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="Images/image020.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="Images/image022.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="Images/image024.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="Images/image026.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="Images/image028.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="Images/image030.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="Images/image032.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="Images/image034.jpg" id="added20" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kucuk_01.htm"/>
+    <itemref idref="kucuk_03.htm"/>
+    <itemref idref="kucuk_04.htm"/>
+    <itemref idref="kucuk_05.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

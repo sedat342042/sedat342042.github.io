@@ -1,0 +1,234 @@
+@font-face {
+font-family: Minion Pro;
+font-style: normal;
+font-weight: normal;
+
+}
+@font-face {
+font-family: Minion Pro;
+font-style: normal;
+font-weight: bold;
+
+}
+@font-face {
+font-family: Minion Pro;
+font-style: italic;
+font-weight: normal;
+
+}
+
+div.generated-style {
+}
+div.generated-style-2 {
+}
+h1.a {
+	font-family: "Times";
+	font-weight: bold;
+	font-style: normal;
+	font-size: 0.75em;
+	line-height: 1.56em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	color: #000000;
+	margin: 0em;
+}
+p.g-vde {
+	font-family: "Minion Pro";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.17em;
+	line-height: 1.29em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 0em 0.71em 0.57em 0.71em;
+}
+p.g-vde-override {
+	text-align: center;
+}
+p.normal {
+	font-family: "Minion Pro";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1em;
+	line-height: 1.20em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 0em;
+}
+p.normal-override {
+	text-align: center;
+}
+p.normal-override-1 {
+	text-align: justify;
+}
+p.no-paragraph-style {
+	font-family: "Minion Pro";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1em;
+	line-height: 1.20em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 0em;
+}
+p.no-paragraph-style-override {
+	text-align: justify;
+}
+p.no-paragraph-style-override-1 {
+	text-align: center;
+	margin: 0.35em 0em 0em 0em;
+}
+p.normal-override-2 {
+	text-indent: 1.77em;
+	text-align: justify;
+}
+p.normal-override-3 {
+	text-indent: 1.77em;
+	text-align: right;
+}
+p.normal-override-4 {
+	text-indent: 1.57em;
+	text-align: justify;
+}
+p.normal-override-5 {
+	text-indent: 1.57em;
+	text-align: center;
+}
+p.normal-override-6 {
+	text-indent: 1.77em;
+	text-align: center;
+}
+p.normal-override-7 {
+	text-indent: 1.57em;
+	text-align: right;
+}
+p.dipnot {
+	font-family: "Minion Pro";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 0.58em;
+	line-height: 1.43em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: -1.14em;
+	text-align: left;
+	color: #000000;
+	margin: 0em 0em 0em 1.29em;
+}
+p.dipnot-override {
+	text-align: justify;
+}
+span.no-style-override {
+}
+span.no-style-override-1 {
+	font-weight: bold;
+	font-size: 0.58em;
+	line-height: 1.39em;
+}
+span.no-style-override-2 {
+	font-weight: bold;
+	font-size: 0.58em;
+	line-height: 1.39em;
+	text-transform: uppercase;
+}
+span.no-style-override-3 {
+	font-size: 0.58em;
+	line-height: 1.39em;
+}
+span.no-style-override-4 {
+	font-size: 0.58em;
+	line-height: 1.39em;
+	text-transform: uppercase;
+}
+span.no-style-override-5 {
+	font-style: italic;
+	font-size: 0.58em;
+	line-height: 1.39em;
+	text-transform: uppercase;
+}
+span.no-style-override-6 {
+	font-style: italic;
+	font-size: 0.58em;
+	line-height: 1.39em;
+}
+span.normal {
+	font-family: "Minion Pro";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1em;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+	line-height: 1.20em;
+}
+span.normal-override {
+	font-weight: bold;
+	font-size: 0.83em;
+	line-height: 1.30em;
+}
+span.normal-override-1 {
+	font-size: 0.58em;
+	line-height: 1.86em;
+}
+span.no-style-override-7 {
+	font-style: italic;
+	font-size: 0.65em;
+	line-height: 1.68em;
+}
+span.no-style-override-8 {
+	font-size: 0.67em;
+	line-height: 1.62em;
+}
+span.no-style-override-9 {
+	font-weight: bold;
+	font-size: 0.67em;
+	line-height: 1.62em;
+}
+span.no-style-override-10 {
+	font-style: italic;
+	font-size: 0.67em;
+	line-height: 1.62em;
+}
+span.normal-override-2 {
+	font-weight: bold;
+	font-size: 0.83em;
+	line-height: 1.49em;
+}
+span.no-style-override-11 {
+	font-size: 0.75em;
+	line-height: 1.56em;
+}
+span.no-style-override-12 {
+	font-weight: bold;
+	font-size: 0.75em;
+	line-height: 1.56em;
+}
+span.no-style-override-13 {
+	font-size: 0.58em;
+	line-height: 2.01em;
+}
+span.no-style-override-14 {
+	font-style: italic;
+	font-size: 0.75em;
+	line-height: 1.56em;
+}
+span.no-style-override-15 {
+	font-style: italic;
+	font-size: 0.67em;
+	line-height: 1.76em;
+}
+span.normal-override-3 {
+	font-size: 0.58em;
+	line-height: 1.43em;
+}

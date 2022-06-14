@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Cellat ve Ağlayan Yüz</text>
+			</navLabel>
+			<content src="Text/9.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Kıskanç Han ve Tatar Güzeli</text>
+			</navLabel>
+			<content src="Text/9-1.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Fahir Şah ile Neriman Sultan</text>
+			</navLabel>
+			<content src="Text/9-2.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Nakkaş Körlüğe Yaklaşırken</text>
+			</navLabel>
+			<content src="Text/9-3.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Ben Bir Ağacım</text>
+			</navLabel>
+			<content src="Text/9-4.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Uyuyamıyor musunuz?</text>
+			</navLabel>
+			<content src="Text/9-5.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>Annem, Babam ve Kaybolmaları</text>
+			</navLabel>
+			<content src="Text/9-6.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>Okulun Sıkıntıları ve Zevkleri</text>
+			</navLabel>
+			<content src="Text/9-7.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>Okula Gitmeyeceğim</text>
+			</navLabel>
+			<content src="Text/9-8.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>Mevlut’un Ortaokul Yılları</text>
+			</navLabel>
+			<content src="Text/9-9.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>Katil ile Maktul Arasında İlk ve Son Konuşma</text>
+			</navLabel>
+			<content src="Text/9-10.html#toc_marker-11"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>Öpüş</text>
+			</navLabel>
+			<content src="Text/9-11.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>Alâaddin’in Dükkânı</text>
+			</navLabel>
+			<content src="Text/9-12.html#toc_marker-13"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>Boğaz’ın Suları Çekildiği Zaman</text>
+			</navLabel>
+			<content src="Text/9-13.html#toc_marker-14"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text/>
+			</navLabel>
+			<content src="Text/9-15.html#toc_marker-15"/>
+		</navPoint>
+	</navMap>
+</ncx>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="ee4968b7-5f51-49a2-a309-608f4f6005dc" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Aslan ve Unicorn</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ASLAN VE UNICORN</text>
+      </navLabel>
+      <content src="Text/aslan.htm" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/Section0002.htm" />
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>İNGİLTERE SENİN İNGİLTEREN</text>
+        </navLabel>
+        <content src="Text/Section0002.htm#sigil_toc_id_1" />
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/Section0002.htm#sigil_toc_id_2" />
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/Section0002.htm#sigil_toc_id_3" />
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/Section0002.htm#sigil_toc_id_4" />
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/Section0002.htm#sigil_toc_id_5" />
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/Section0002.htm#sigil_toc_id_6" />
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/Section0002.htm#sigil_toc_id_7" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>İKİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/Section0003.htm" />
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>ESNAFLAR SAVASTA</text>
+        </navLabel>
+        <content src="Text/Section0003.htm#sigil_toc_id_8" />
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/Section0003.htm#sigil_toc_id_9" />
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/Section0003.htm#sigil_toc_id_10" />
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/Section0003.htm#sigil_toc_id_11" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>ÜÇÜNCÜ KISIM</text>
+      </navLabel>
+      <content src="Text/Section0004.htm" />
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>İNGİLİZ DEVRİMİ</text>
+        </navLabel>
+        <content src="Text/Section0004.htm#sigil_toc_id_12" />
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/Section0004.htm#sigil_toc_id_13" />
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/Section0004.htm#sigil_toc_id_14" />
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/Section0004.htm#sigil_toc_id_15" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

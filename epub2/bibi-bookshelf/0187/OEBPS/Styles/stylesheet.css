@@ -1,0 +1,53 @@
+.calibre {
+  display: block;
+  font-family: "Georgia", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+  margin: 1em 0;
+}
+.calibre2 {
+  font-weight: bold;
+}
+.calibre3 {
+  display: block;
+}
+.calibre4 {
+  font-style: italic;
+}
+.calibre5 {
+  display: block;
+  font-size: 1.375em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 0.83em 0;
+}
+.calibre6 {
+  display: block;
+  margin: 0 0 0 40px;
+  padding: 0;
+  border: currentColor none medium;
+}
+img {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  text-align: center;
+  font-size: 1.5em;
+}
+p {
+  text-align: justify;
+  text-indent: 1em;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}

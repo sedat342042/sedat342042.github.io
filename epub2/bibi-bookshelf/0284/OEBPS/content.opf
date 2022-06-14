@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Tolstoy, Lev Nikolayeviç" opf:role="aut">Lev Nikolayeviç Tolstoy</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e41b7c1f-ed57-41b7-aa67-28c9bb545571</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <meta content="Diriliş" name="calibre:title_sort" />
+    <meta content="2011-09-12T07:07:49+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="Hasan Ali Yücel Klasikler Dizisi" name="calibre:series" />
+    <meta content="1.0" name="calibre:series_index" />
+    <meta content="10.0" name="calibre:rating" />
+    <dc:description>&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;1899'da yayımlanan Diriliş Tolstoy'un yaşadığı sırada çıkan son romanıdır. Tolstoy, yıllarca üzerinde düşündüğü ve pek çok kuramsal eser yazdığı insanlık sorunlarını bu kitapta edebi bir kurgu içinde ele aldı. Diriliş sadece Sibirya'ya giden bir mahkûm kafilesinin yolculuğunu değil, yaşamın anlamını kavramak adına kişinin kendini yeniden var etme sürecini anlatan bir başyapıttır.&lt;/span&gt;</dc:description>
+    <dc:date>2009-04-22T21:00:00+00:00</dc:date>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Lev Nikolayeviç Tolstoy&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:date opf:event="modification">2014-03-23</dc:date>
+    <dc:title>Diriliş</dc:title>
+    <dc:subject>Dünya Klasikleri</dc:subject>
+    <dc:subject>Rus Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">bacd481d-05ab-469c-8188-88f84e5aa4b3</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789944886666</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Text/dirilis_split_000.html" id="html232" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_001.html" id="html231" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_002.html" id="html230" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_003.html" id="html229" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_004.html" id="html228" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_005.html" id="html227" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_006.html" id="html226" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_007.html" id="html225" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_008.html" id="html224" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_009.html" id="html223" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_010.html" id="html222" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_011.html" id="html221" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_012.html" id="html220" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_013.html" id="html219" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_014.html" id="html218" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_015.html" id="html217" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_016.html" id="html216" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_017.html" id="html215" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_018.html" id="html214" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_019.html" id="html213" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_020.html" id="html212" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_021.html" id="html211" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_022.html" id="html210" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_023.html" id="html209" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_024.html" id="html208" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_025.html" id="html207" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_026.html" id="html206" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_027.html" id="html205" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_028.html" id="html204" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_029.html" id="html203" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_030.html" id="html202" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_031.html" id="html201" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_032.html" id="html200" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_033.html" id="html199" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_034.html" id="html198" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_035.html" id="html197" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_036.html" id="html196" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_037.html" id="html195" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_038.html" id="html194" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_039.html" id="html193" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_040.html" id="html192" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_041.html" id="html191" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_042.html" id="html190" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_043.html" id="html189" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_044.html" id="html188" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_045.html" id="html187" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_046.html" id="html186" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_047.html" id="html185" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_048.html" id="html184" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_049.html" id="html183" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_050.html" id="html182" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_051.html" id="html181" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_052.html" id="html180" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_053.html" id="html179" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_054.html" id="html178" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_055.html" id="html177" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_056.html" id="html176" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_057.html" id="html175" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_058.html" id="html174" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_059.html" id="html173" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_060.html" id="html172" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_061.html" id="html171" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_062.html" id="html170" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_063.html" id="html169" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_064.html" id="html168" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_065.html" id="html167" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_066.html" id="html166" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_067.html" id="html165" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_068.html" id="html164" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_069.html" id="html163" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_070.html" id="html162" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_071.html" id="html161" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_072.html" id="html160" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_073.html" id="html159" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_074.html" id="html158" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_075.html" id="html157" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_076.html" id="html156" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_077.html" id="html155" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_078.html" id="html154" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_079.html" id="html153" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_080.html" id="html152" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_081.html" id="html151" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_082.html" id="html150" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_083.html" id="html149" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_084.html" id="html148" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_085.html" id="html147" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_086.html" id="html146" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_087.html" id="html145" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_088.html" id="html144" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_089.html" id="html143" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_090.html" id="html142" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_091.html" id="html141" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_092.html" id="html140" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_093.html" id="html139" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_094.html" id="html138" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_095.html" id="html137" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_096.html" id="html136" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_097.html" id="html135" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_098.html" id="html134" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_099.html" id="html133" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_100.html" id="html132" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_101.html" id="html131" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_102.html" id="html130" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_103.html" id="html129" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_104.html" id="html128" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_105.html" id="html127" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_106.html" id="html126" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_107.html" id="html125" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_108.html" id="html124" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_109.html" id="html123" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_110.html" id="html122" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_111.html" id="html121" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_112.html" id="html120" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_113.html" id="html119" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_114.html" id="html118" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_115.html" id="html117" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_116.html" id="html116" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_117.html" id="html115" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_118.html" id="html114" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_119.html" id="html113" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_120.html" id="html112" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_121.html" id="html111" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_122.html" id="html110" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_123.html" id="html109" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_124.html" id="html108" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_125.html" id="html107" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_126.html" id="html106" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_127.html" id="html105" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_128.html" id="html104" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_129.html" id="html103" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_130.html" id="html102" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_131.html" id="html101" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_132.html" id="html100" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_133.html" id="html99" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_134.html" id="html98" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_135.html" id="html97" media-type="application/xhtml+xml" />
+    <item href="Text/dirilis_split_136.html" id="html96" media-type="application/xhtml+xml" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="html232" />
+    <itemref idref="html231" />
+    <itemref idref="html230" />
+    <itemref idref="html229" />
+    <itemref idref="html228" />
+    <itemref idref="html227" />
+    <itemref idref="html226" />
+    <itemref idref="html225" />
+    <itemref idref="html224" />
+    <itemref idref="html223" />
+    <itemref idref="html222" />
+    <itemref idref="html221" />
+    <itemref idref="html220" />
+    <itemref idref="html219" />
+    <itemref idref="html218" />
+    <itemref idref="html217" />
+    <itemref idref="html216" />
+    <itemref idref="html215" />
+    <itemref idref="html214" />
+    <itemref idref="html213" />
+    <itemref idref="html212" />
+    <itemref idref="html211" />
+    <itemref idref="html210" />
+    <itemref idref="html209" />
+    <itemref idref="html208" />
+    <itemref idref="html207" />
+    <itemref idref="html206" />
+    <itemref idref="html205" />
+    <itemref idref="html204" />
+    <itemref idref="html203" />
+    <itemref idref="html202" />
+    <itemref idref="html201" />
+    <itemref idref="html200" />
+    <itemref idref="html199" />
+    <itemref idref="html198" />
+    <itemref idref="html197" />
+    <itemref idref="html196" />
+    <itemref idref="html195" />
+    <itemref idref="html194" />
+    <itemref idref="html193" />
+    <itemref idref="html192" />
+    <itemref idref="html191" />
+    <itemref idref="html190" />
+    <itemref idref="html189" />
+    <itemref idref="html188" />
+    <itemref idref="html187" />
+    <itemref idref="html186" />
+    <itemref idref="html185" />
+    <itemref idref="html184" />
+    <itemref idref="html183" />
+    <itemref idref="html182" />
+    <itemref idref="html181" />
+    <itemref idref="html180" />
+    <itemref idref="html179" />
+    <itemref idref="html178" />
+    <itemref idref="html177" />
+    <itemref idref="html176" />
+    <itemref idref="html175" />
+    <itemref idref="html174" />
+    <itemref idref="html173" />
+    <itemref idref="html172" />
+    <itemref idref="html171" />
+    <itemref idref="html170" />
+    <itemref idref="html169" />
+    <itemref idref="html168" />
+    <itemref idref="html167" />
+    <itemref idref="html166" />
+    <itemref idref="html165" />
+    <itemref idref="html164" />
+    <itemref idref="html163" />
+    <itemref idref="html162" />
+    <itemref idref="html161" />
+    <itemref idref="html160" />
+    <itemref idref="html159" />
+    <itemref idref="html158" />
+    <itemref idref="html157" />
+    <itemref idref="html156" />
+    <itemref idref="html155" />
+    <itemref idref="html154" />
+    <itemref idref="html153" />
+    <itemref idref="html152" />
+    <itemref idref="html151" />
+    <itemref idref="html150" />
+    <itemref idref="html149" />
+    <itemref idref="html148" />
+    <itemref idref="html147" />
+    <itemref idref="html146" />
+    <itemref idref="html145" />
+    <itemref idref="html144" />
+    <itemref idref="html143" />
+    <itemref idref="html142" />
+    <itemref idref="html141" />
+    <itemref idref="html140" />
+    <itemref idref="html139" />
+    <itemref idref="html138" />
+    <itemref idref="html137" />
+    <itemref idref="html136" />
+    <itemref idref="html135" />
+    <itemref idref="html134" />
+    <itemref idref="html133" />
+    <itemref idref="html132" />
+    <itemref idref="html131" />
+    <itemref idref="html130" />
+    <itemref idref="html129" />
+    <itemref idref="html128" />
+    <itemref idref="html127" />
+    <itemref idref="html126" />
+    <itemref idref="html125" />
+    <itemref idref="html124" />
+    <itemref idref="html123" />
+    <itemref idref="html122" />
+    <itemref idref="html121" />
+    <itemref idref="html120" />
+    <itemref idref="html119" />
+    <itemref idref="html118" />
+    <itemref idref="html117" />
+    <itemref idref="html116" />
+    <itemref idref="html115" />
+    <itemref idref="html114" />
+    <itemref idref="html113" />
+    <itemref idref="html112" />
+    <itemref idref="html111" />
+    <itemref idref="html110" />
+    <itemref idref="html109" />
+    <itemref idref="html108" />
+    <itemref idref="html107" />
+    <itemref idref="html106" />
+    <itemref idref="html105" />
+    <itemref idref="html104" />
+    <itemref idref="html103" />
+    <itemref idref="html102" />
+    <itemref idref="html101" />
+    <itemref idref="html100" />
+    <itemref idref="html99" />
+    <itemref idref="html98" />
+    <itemref idref="html97" />
+    <itemref idref="html96" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

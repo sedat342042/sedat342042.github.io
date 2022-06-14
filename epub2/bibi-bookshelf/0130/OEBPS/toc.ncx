@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750720260" name="dtb:uid"/>
+      <meta content="3" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Ceza Kolonisinde</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>I. KİTAPLARDA YER ALAN ANLATILAR</text>
+         </navLabel>
+         <content src="Text/chapter1.xhtml"/>
+         <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+               <text>SEYİR (1913)</text>
+            </navLabel>
+            <content src="Text/chapter2.xhtml#cap-1"/>
+            <navPoint id="navPoint-3" playOrder="3">
+               <navLabel>
+                  <text>Şosede çocuklar</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-2"/>
+            </navPoint>
+            <navPoint id="navPoint-4" playOrder="4">
+               <navLabel>
+                  <text>Bir dolandırıcının foyasının meydana çıkışı</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-3"/>
+            </navPoint>
+            <navPoint id="navPoint-5" playOrder="5">
+               <navLabel>
+                  <text>Ani gezinti</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-4"/>
+            </navPoint>
+            <navPoint id="navPoint-6" playOrder="6">
+               <navLabel>
+                  <text>Kararlar</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-5"/>
+            </navPoint>
+            <navPoint id="navPoint-7" playOrder="7">
+               <navLabel>
+                  <text>Dağlara gezi</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-6"/>
+            </navPoint>
+            <navPoint id="navPoint-8" playOrder="8">
+               <navLabel>
+                  <text>Bekârın mutsuzluğu</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-7"/>
+            </navPoint>
+            <navPoint id="navPoint-9" playOrder="9">
+               <navLabel>
+                  <text>Tüccar</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-8"/>
+            </navPoint>
+            <navPoint id="navPoint-10" playOrder="10">
+               <navLabel>
+                  <text>Dalgınca dışarı bakış</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-9"/>
+            </navPoint>
+            <navPoint id="navPoint-11" playOrder="11">
+               <navLabel>
+                  <text>Eve dönüş yolu</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-10"/>
+            </navPoint>
+            <navPoint id="navPoint-12" playOrder="12">
+               <navLabel>
+                  <text>Koşa koşa geçenler</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-11"/>
+            </navPoint>
+            <navPoint id="navPoint-13" playOrder="13">
+               <navLabel>
+                  <text>Yolcu</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-12"/>
+            </navPoint>
+            <navPoint id="navPoint-14" playOrder="14">
+               <navLabel>
+                  <text>Elbiseler</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-13"/>
+            </navPoint>
+            <navPoint id="navPoint-15" playOrder="15">
+               <navLabel>
+                  <text>Reddediş</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-14"/>
+            </navPoint>
+            <navPoint id="navPoint-16" playOrder="16">
+               <navLabel>
+                  <text>Binici beyler bir düşünmeli</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-15"/>
+            </navPoint>
+            <navPoint id="navPoint-17" playOrder="17">
+               <navLabel>
+                  <text>Sokağa bakan pencere</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-16"/>
+            </navPoint>
+            <navPoint id="navPoint-18" playOrder="18">
+               <navLabel>
+                  <text>Kızılderili olma isteği</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-17"/>
+            </navPoint>
+            <navPoint id="navPoint-19" playOrder="19">
+               <navLabel>
+                  <text>Ağaçlar</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-18"/>
+            </navPoint>
+            <navPoint id="navPoint-20" playOrder="20">
+               <navLabel>
+                  <text>Mutsuzluk</text>
+               </navLabel>
+               <content src="Text/chapter2.xhtml#cap-19"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+               <text>HÜKÜM (1913)</text>
+            </navLabel>
+            <content src="Text/chapter3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+               <text>ATEŞÇİ (1913)</text>
+            </navLabel>
+            <content src="Text/chapter4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+               <text>CEZA KOLONİSİNDE (1919)</text>
+            </navLabel>
+            <content src="Text/chapter5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+               <text>BİR TAŞRA HEKİMİ (1919)</text>
+            </navLabel>
+            <content src="Text/chapter6.xhtml"/>
+            <navPoint id="navPoint-25" playOrder="25">
+               <navLabel>
+                  <text>Yeni avukat</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-20"/>
+            </navPoint>
+            <navPoint id="navPoint-26" playOrder="26">
+               <navLabel>
+                  <text>Bir taşra hekimi</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-21"/>
+            </navPoint>
+            <navPoint id="navPoint-27" playOrder="27">
+               <navLabel>
+                  <text>Galeride</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-22"/>
+            </navPoint>
+            <navPoint id="navPoint-28" playOrder="28">
+               <navLabel>
+                  <text>Eski bir varak</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-23"/>
+            </navPoint>
+            <navPoint id="navPoint-29" playOrder="29">
+               <navLabel>
+                  <text>Yasa önünde</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-24"/>
+            </navPoint>
+            <navPoint id="navPoint-30" playOrder="30">
+               <navLabel>
+                  <text>Çakallar ile araplar</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-25"/>
+            </navPoint>
+            <navPoint id="navPoint-31" playOrder="31">
+               <navLabel>
+                  <text>Bir maden gezmesi</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-26"/>
+            </navPoint>
+            <navPoint id="navPoint-32" playOrder="32">
+               <navLabel>
+                  <text>Komşu köy</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-27"/>
+            </navPoint>
+            <navPoint id="navPoint-33" playOrder="33">
+               <navLabel>
+                  <text>İmparatorun bir mesajı</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-28"/>
+            </navPoint>
+            <navPoint id="navPoint-34" playOrder="34">
+               <navLabel>
+                  <text>Aile babasının endişesi</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-29"/>
+            </navPoint>
+            <navPoint id="navPoint-35" playOrder="35">
+               <navLabel>
+                  <text>On bir oğul</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-30"/>
+            </navPoint>
+            <navPoint id="navPoint-36" playOrder="36">
+               <navLabel>
+                  <text>Bir kardeş katli</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-31"/>
+            </navPoint>
+            <navPoint id="navPoint-37" playOrder="37">
+               <navLabel>
+                  <text>Bir rüya</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-32"/>
+            </navPoint>
+            <navPoint id="navPoint-38" playOrder="38">
+               <navLabel>
+                  <text>Akademi için bir rapor</text>
+               </navLabel>
+               <content src="Text/chapter6.xhtml#cap-33"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="navPoint-39" playOrder="39">
+            <navLabel>
+               <text>BİR AÇLIK SANATÇISI (1924)</text>
+            </navLabel>
+            <content src="Text/chapter7.xhtml"/>
+            <navPoint id="navPoint-40" playOrder="40">
+               <navLabel>
+                  <text>İlk ıstırap</text>
+               </navLabel>
+               <content src="Text/chapter7.xhtml#cap-34"/>
+            </navPoint>
+            <navPoint id="navPoint-41" playOrder="41">
+               <navLabel>
+                  <text>Küçümen bir kadın</text>
+               </navLabel>
+               <content src="Text/chapter7.xhtml#cap-35"/>
+            </navPoint>
+            <navPoint id="navPoint-42" playOrder="42">
+               <navLabel>
+                  <text>Bir açlık sanatçısı</text>
+               </navLabel>
+               <content src="Text/chapter7.xhtml#cap-36"/>
+            </navPoint>
+            <navPoint id="navPoint-43" playOrder="43">
+               <navLabel>
+                  <text>Şarkıcı Josefine ya da fare halkı</text>
+               </navLabel>
+               <content src="Text/chapter7.xhtml#cap-37"/>
+            </navPoint>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+         <navLabel>
+            <text>II. KİTAPLARDA YER ALMAYAN, AYRI OLARAK YAYIMLANMIŞ ANLATILAR</text>
+         </navLabel>
+         <content src="Text/chapter8.xhtml"/>
+         <navPoint id="navPoint-45" playOrder="45">
+            <navLabel>
+               <text>Duacıyla konuşma</text>
+            </navLabel>
+            <content src="Text/chapter9.xhtml#cap-38"/>
+         </navPoint>
+         <navPoint id="navPoint-46" playOrder="46">
+            <navLabel>
+               <text>Sarhoşla konuşma</text>
+            </navLabel>
+            <content src="Text/chapter9.xhtml#cap-39"/>
+         </navPoint>
+         <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+               <text>Büyük gürültü</text>
+            </navLabel>
+            <content src="Text/chapter9.xhtml#cap-40"/>
+         </navPoint>
+         <navPoint id="navPoint-48" playOrder="48">
+            <navLabel>
+               <text>Küfeli süvari</text>
+            </navLabel>
+            <content src="Text/chapter9.xhtml#cap-41"/>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

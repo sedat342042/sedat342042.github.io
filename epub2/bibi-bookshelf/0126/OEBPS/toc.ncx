@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+   <meta content="urn:uuid:752f8924-5853-41e8-ac0e-5ec4f5ae673c" name="dtb:uid"/>
+   <meta content="0" name="dtb:depth"/>
+   <meta content="0" name="dtb:totalPageCount"/>
+   <meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+   <text>Aforizmalar</text>
+</docTitle>
+<navMap>
+<navPoint id="navPoint-1" playOrder="1">
+  <navLabel>
+    <text>kitap üzerine birkaç not</text>
+  </navLabel>
+  <content src="Text/Section0007.xhtml"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+  <navLabel>
+    <text>Günah, ıstırap, umut ve doğru yol üzerine aforizmalar</text>
+  </navLabel>
+  <content src="Text/Section0008.xhtml"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+  <navLabel>
+    <text>O:1920 günlüğünden aforizmalar</text>
+  </navLabel>
+  <content src="Text/Section0010.xhtml"/>
+</navPoint>
+</navMap>
+</ncx>

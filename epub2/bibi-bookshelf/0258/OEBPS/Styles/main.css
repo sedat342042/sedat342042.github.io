@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "kids";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/playtime.ttf);
+}
+
+@font-face {
+    font-family: 'kids';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/playtimeoblique.ttf');
+}
+body { color:#000; font-family: "Georgia", serif; max-width:33em; margin:auto; padding-top:4em;}
+.il {
+	float: left; margin: 3px;
+}
+.ir {
+	float: right; margin: 3px;
+}
+
+p {line-height:120%;margin: 0;text-align:justify;text-indent:25px;font-size:1em;}
+h2 {text-indent:0px;text-align: center;margin-bottom: 30px;font-size:1.5em;}
+h3 {text-indent:0px;text-align: center;margin-bottom: 30px;}
+blockquote {
+	width: 16em;
+	padding: 10px;
+margin-left: 7em;
+	border: 3px dashed #ccc; 
+
+}
+blockquote p {
+text-align: center;
+margin: 0;
+}
+.mektup {
+border: 0; 
+}
+.mektup p {
+    text-align: justify;
+    font-style: italic;
+}
+.baslik {text-align:center;text-indent:0em;margin: 40px 0px;color: #c1a13c;font-size:1.75em;}
+.yazar {font-size:1.5em;text-align:center;text-indent:0em;margin-top:40px;margin-bottom:40px}
+.ara {font-size:0.875em;text-align:center;text-indent:0em;margin-top:40px;margin-bottom:40px}
+.detay {text-align:center;text-indent:0em;margin-top:10px;}
+.renk {color: #c1a13c;font-size:1.75em;}
+

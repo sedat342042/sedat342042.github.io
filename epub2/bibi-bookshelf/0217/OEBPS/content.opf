@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">14e614ea-adc2-41ed-9fc5-9e529f731b64</dc:identifier>
+    <dc:title>Melezler Venüste</dc:title>
+    <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:date opf:event="modification">2014-02-16</dc:date>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:subject>Bilimkurgu</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Uzay</dc:subject>
+    <dc:description>&lt;div&gt;&lt;p itemprop="description" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; background-color: transparent; "&gt;&lt;span id="small_desc" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "&gt;Isaac Asimov 1920 yılında Rusya'da doğdu. Amerika'ya göçüp uzun yıllar öğretim üyesi olarak çalıştı. Daha sonra üniversiteden ayrılarak kendini Bilim-Kurgu'ya adadı ve ölümüne kadar sayısız eserler verdi. 'Melezler Venüs'te Asimov'un en sevilen kısa öykülerinden derlenmiştir. (Arka Kapak Tanıtım Yazısı)&lt;/span&gt;&lt;/p&gt;&lt;br class="Apple-interchange-newline"&gt;&lt;/div&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="Melezler Venüste" name="calibre:title_sort" />
+    <meta content="8.0" name="calibre:rating" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Isaac Asimov&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+  </metadata>
+  <manifest>
+    <item href="Text/chapter.xhtml" id="text1" media-type="application/xhtml+xml" />
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml" />
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml" />
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml" />
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml" />
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml" />
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml" />
+    <item href="Text/chapter7.xhtml" id="text8" media-type="application/xhtml+xml" />
+    <item href="Text/chapter8.xhtml" id="text9" media-type="application/xhtml+xml" />
+    <item href="Text/chapter9.xhtml" id="text10" media-type="application/xhtml+xml" />
+    <item href="Text/chapter10.xhtml" id="text11" media-type="application/xhtml+xml" />
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="text1" />
+    <itemref idref="text2" />
+    <itemref idref="text3" />
+    <itemref idref="text4" />
+    <itemref idref="text5" />
+    <itemref idref="text6" />
+    <itemref idref="text7" />
+    <itemref idref="text8" />
+    <itemref idref="text9" />
+    <itemref idref="text10" />
+    <itemref idref="text11" />
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Text" type="text" />
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

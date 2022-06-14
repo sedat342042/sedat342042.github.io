@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{096BDF65-5DB8-49BE-A6AC-9A985EBE3B10}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="calibre (2.22.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Alev</text>
+  </docTitle>
+   <navMap>
+    
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/kapak.xhtml"/>
+    </navPoint>
+    
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>   
+ 
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/00.xhtml"/>
+    </navPoint> 
+   
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>I - Sirk</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+    </navPoint>        
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>II - Çiftlik</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+    </navPoint> 
+    
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>III - Deniz</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+    </navPoint>        
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>IV - Çocuk</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+    </navPoint>         
+
+          <navPoint playOrder="1">
+      <navLabel>
+        <text>Arka Kapak</text>
+      </navLabel>
+      <content src="Text/arka_kapak.xhtml"/>
+    </navPoint>         
+            
+  </navMap>
+</ncx>

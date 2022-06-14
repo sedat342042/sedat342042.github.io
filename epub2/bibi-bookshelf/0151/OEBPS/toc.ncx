@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:410d2df1-6891-48c4-d654-e6d5049c8e4c" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kumarbaz</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>KÜNYE</text>
+      </navLabel>
+      <content src="Text/Kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-1.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>II. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-2.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>III. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-3.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>IV. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-4.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>V. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-5.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>VI. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-6.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>VII. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-7.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>VIII. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-8.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>IX. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-9.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>X. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-10.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>XI. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-11.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>XII. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-12.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>XIII. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-13.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>XIV. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-14.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>XV. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-15.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>XVI. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-16.xhtml#toc-anchor"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>XVII. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Kitap-17.xhtml#toc-anchor"/>
+    </navPoint>
+  </navMap>
+</ncx>

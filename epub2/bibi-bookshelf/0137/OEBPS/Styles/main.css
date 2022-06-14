@@ -1,0 +1,15 @@
+img {
+  max-width: 100%;
+  
+  display: inline-block;
+}
+p {
+  color: black;
+  display: block;
+  text-align: justify;
+  text-indent: 1.5em;
+  border-top: currentColor none 0;
+  border-bottom: currentColor none 0;
+  padding: 0 0 2pt 0;
+  margin: 0;
+}

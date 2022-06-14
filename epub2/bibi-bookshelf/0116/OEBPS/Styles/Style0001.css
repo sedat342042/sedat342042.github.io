@@ -1,0 +1,48 @@
+h1 {
+text-align:center;
+font-size:2em;
+margin-top:2em;
+margin-bottom:2em;
+}
+h2 {
+text-align:center;
+font-size:1.5em;
+margin-top:2em;
+margin-bottom:2em;
+}
+
+
+p 
+{
+text-align:justify;
+font-size:1em;
+text-indent:1.5em;
+margin: 0.4em 0.1em 0.4em 0.1em;
+
+}
+
+
+p.ilk
+{ 
+text-indent:0em;
+}
+p.ori
+{ 
+text-indent:0em;
+text-align: center;
+margin-top:-3em;
+margin-bottom:3em;
+
+}
+.alinti
+
+{
+color:grey;
+text-align:justify;
+font-size: 0.8em;
+font-weight: bold;
+font-style:italic;
+margin-left:20%;
+margin-right:2em;
+
+}

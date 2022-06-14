@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="de2a688a-0489-4a29-a2db-8e146088f676" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Amcanın Rüyası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Fiyodor Mihayloviç Dostoyevski</text>
+      </navLabel>
+      <content src="Text/kitap1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>AMCANIN RÜYASI</text>
+      </navLabel>
+      <content src="Text/kitap1.html#filepos10996"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/kitap1.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/kitap1.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/kitap1.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/kitap1.html#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/kitap1.html#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/kitap1.html#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/kitap1.html#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/kitap1.html#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/kitap1.html#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/kitap1.html#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/kitap2.html#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/kitap2.html#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/kitap2.html#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/kitap2.html#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/kitap2.html#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

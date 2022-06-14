@@ -1,0 +1,109 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Tolstoy, Lev Nikolayeviç">Lev Nikolayeviç Tolstoy</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:1b0749e5-4e46-485f-bece-673a3eb4f9f7</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div style="text-align: justify; margin: 0 0 1em;"&gt;Tolstoy’un şiddetli bir ruhsal kriz içerisindeyken kaleme aldığı Kroyçer Sonat’ın merkezinde ‘Hristiyan evliliği’nin imkânsız olduğu düşüncesi yatar. Kadınlarla erkekleri birbirine bağlayan o duygusal ve cinsel bağın Tanrı’dan ne kadar uzak ve acı verici olduğunu bütün öfkesi ve açık sözlülüğüyle bu kitapta dile getirir Tolstoy ve bir adamın, içinde büyüttüğü kıskançlık duygusuyla nasıl karısını öldürecek hale geldiğini anlatırken, hem kendi kendisi, hem insan doğası, hem de Hristiyanlığın özü hakkında konuşur. Büyük yazarın son dönemlerinde yazdığı bu güçlü hikâyeyi Ergin Altay’ın Rusça aslından yaptığı çeviriyle sunuyoruz.&lt;/div&gt; &lt;div style="text-align: justify; margin: 0 0 0.3em;"&gt;“Bir bebeğimiz olursa ne yapacağız peki? Hele de çocukların gözü önünde – ne kadar da utanç verici olacak. Bebeği ne zaman yaptığımızı hemen tahmin edecekler ve Kroyçer Sonat’ı okuyacaklar. Utanç derecesinde mutsuzluk veriyor bütün bu olup bitenler. Ben de düşünüp karar verdim; insanlar önünde değil, Tanrı önünde korkmalı insan. Bu durumda Tanrı’nın huzurunda hâlim nedir benim diye sordum kendime. Ve hemen sakinleştiğimi hissettim.”&lt;/div&gt; &lt;div style="text-align: right;"&gt;Tolstoy’un günlüğünden, Ağustos 1889&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:date>2005-08-11T21:00:00+00:00</dc:date>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Lev Nikolayeviç Tolstoy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2014-07-17T16:07:17.143000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Kroyçer Sonat" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+  <dc:title>Kroyçer Sonat</dc:title>
+<dc:subject>Dünya Klasikleri</dc:subject>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:subject>Kısa Öykü</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0fefbc39-3158-4379-b988-ad0d7d944a88</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750503733</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/kroycer_sonat_200.xhtml" id="kroycer_sonat_200.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Text/kroycer_sonat_001.xhtml" id="kroycer_sonat_001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_002.xhtml" id="kroycer_sonat_002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_003.xhtml" id="kroycer_sonat_003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_004.xhtml" id="kroycer_sonat_004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_005.xhtml" id="kroycer_sonat_005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_100.xhtml" id="kroycer_sonat_100.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_101.xhtml" id="kroycer_sonat_101.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_102.xhtml" id="kroycer_sonat_102.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_103.xhtml" id="kroycer_sonat_103.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_104.xhtml" id="kroycer_sonat_104.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_105.xhtml" id="kroycer_sonat_105.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_106.xhtml" id="kroycer_sonat_106.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_107.xhtml" id="kroycer_sonat_107.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_108.xhtml" id="kroycer_sonat_108.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_109.xhtml" id="kroycer_sonat_109.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_110.xhtml" id="kroycer_sonat_110.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_111.xhtml" id="kroycer_sonat_111.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_112.xhtml" id="kroycer_sonat_112.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_113.xhtml" id="kroycer_sonat_113.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_114.xhtml" id="kroycer_sonat_114.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_115.xhtml" id="kroycer_sonat_115.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_116.xhtml" id="kroycer_sonat_116.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_117.xhtml" id="kroycer_sonat_117.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_118.xhtml" id="kroycer_sonat_118.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_119.xhtml" id="kroycer_sonat_119.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_120.xhtml" id="kroycer_sonat_120.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_121.xhtml" id="kroycer_sonat_121.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_122.xhtml" id="kroycer_sonat_122.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_123.xhtml" id="kroycer_sonat_123.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_124.xhtml" id="kroycer_sonat_124.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_125.xhtml" id="kroycer_sonat_125.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_126.xhtml" id="kroycer_sonat_126.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_127.xhtml" id="kroycer_sonat_127.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_128.xhtml" id="kroycer_sonat_128.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_129.xhtml" id="kroycer_sonat_129.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kroycer_sonat_000.xhtml" id="kroycer_sonat_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-BoldItalic.otf" id="MinionPro-BoldItalic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-Italic.otf" id="MinionPro-Italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kroycer_sonat_000.xhtml"/>
+    <itemref idref="kroycer_sonat_001.xhtml"/>
+    <itemref idref="kroycer_sonat_002.xhtml"/>
+    <itemref idref="kroycer_sonat_003.xhtml"/>
+    <itemref idref="kroycer_sonat_004.xhtml"/>
+    <itemref idref="kroycer_sonat_005.xhtml"/>
+    <itemref idref="kroycer_sonat_100.xhtml"/>
+    <itemref idref="kroycer_sonat_101.xhtml"/>
+    <itemref idref="kroycer_sonat_102.xhtml"/>
+    <itemref idref="kroycer_sonat_103.xhtml"/>
+    <itemref idref="kroycer_sonat_104.xhtml"/>
+    <itemref idref="kroycer_sonat_105.xhtml"/>
+    <itemref idref="kroycer_sonat_106.xhtml"/>
+    <itemref idref="kroycer_sonat_107.xhtml"/>
+    <itemref idref="kroycer_sonat_108.xhtml"/>
+    <itemref idref="kroycer_sonat_109.xhtml"/>
+    <itemref idref="kroycer_sonat_110.xhtml"/>
+    <itemref idref="kroycer_sonat_111.xhtml"/>
+    <itemref idref="kroycer_sonat_112.xhtml"/>
+    <itemref idref="kroycer_sonat_113.xhtml"/>
+    <itemref idref="kroycer_sonat_114.xhtml"/>
+    <itemref idref="kroycer_sonat_115.xhtml"/>
+    <itemref idref="kroycer_sonat_116.xhtml"/>
+    <itemref idref="kroycer_sonat_117.xhtml"/>
+    <itemref idref="kroycer_sonat_118.xhtml"/>
+    <itemref idref="kroycer_sonat_119.xhtml"/>
+    <itemref idref="kroycer_sonat_120.xhtml"/>
+    <itemref idref="kroycer_sonat_121.xhtml"/>
+    <itemref idref="kroycer_sonat_122.xhtml"/>
+    <itemref idref="kroycer_sonat_123.xhtml"/>
+    <itemref idref="kroycer_sonat_124.xhtml"/>
+    <itemref idref="kroycer_sonat_125.xhtml"/>
+    <itemref idref="kroycer_sonat_126.xhtml"/>
+    <itemref idref="kroycer_sonat_127.xhtml"/>
+    <itemref idref="kroycer_sonat_128.xhtml"/>
+    <itemref idref="kroycer_sonat_129.xhtml"/>
+    <itemref idref="kroycer_sonat_200.xhtml"/>
+  </spine>
+</package>

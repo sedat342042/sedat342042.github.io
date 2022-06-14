@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Pamuk, Orhan">Orhan Pamuk</dc:creator>
+<meta content="Kar" name="calibre:title_sort"/>
+    <meta content="2011-03-03T23:01:59.685483+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2002-03-03T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a7827764-c623-43de-87fa-c669c061d238</dc:identifier>
+    <opf:meta content="{}" name="calibre:user_categories"/>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <opf:meta content="8.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;On iki yıldır Almanya'da sürgün olan şair Ka Türkiye'ye dönüşünden dört gün sonra, bir röportaj için Kars şehrinde bulur kendini. Ağır ağır ve hiç durmadan yağan karın altında sokak sokak, dükkan dükkan bu hüzünlü ve güzel şehri ve insanları tanımaya çalışır. Kars'ta ağzına kadar işsizlerle dolu çayhaneler, dışarıdan gelmiş ve kardan mahsur kalmış gezgin bir tiyatro kumpanyası, intihar eden ve türban direnişi yapan kızlar, çeşitli siyasal gruplar, dedikodular, söylentiler, Karpalas Oteli ve sahibi Turgut Bey ile kızları İpek ve Kadife ve Ka için bir aşk ve mutluluk vaadi vardır. 
+
+"O ne bir ideolog, ne bir siyasetçi, ne de bir gazeteci. Orhan Pamuk büyük bir romancı."
+New York Times&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-05-01</dc:date>
+  <dc:title>Kar</dc:title>
+<dc:subject>Edebiyat</dc:subject>
+<meta name="calibre:author_link_map" content="{&quot;Orhan Pamuk&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">b54a9c8e-cb03-4895-81af-1241e9d859e9</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754709612</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.xhtml" id="index_split_000.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="index_split_000.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

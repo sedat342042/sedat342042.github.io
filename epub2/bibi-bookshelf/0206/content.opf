@@ -1,0 +1,38 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Balzac, Honore de">Honore de Balzac</dc:creator>
+<dc:publisher>MEB</dc:publisher>
+    <meta name="calibre:title_sort" content="Nucingen Bankası"/>
+    <meta name="calibre:timestamp" content="2012-10-27T23:19:58+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>1950-07-31T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0ea1ece9-e213-48e0-be5f-8992a51eb4a5</dc:identifier>
+  <meta name="calibre:series" content="Fransız Klasikleri"/>
+<meta name="calibre:series_index" content="182.0"/>
+<meta name="calibre:rating" content="0.0"/>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Honore de Balzac&quot;: &quot;&quot;}"/>
+<dc:title>Nucingen Bankası</dc:title>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">fc26f4cf-0edc-48c6-ab6a-5a4c2eec85b3</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Nucingen_Bankasi.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="images/00003.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Nucingen_Bankasi.html#filepos185633" type="toc" title="Table of Contents"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

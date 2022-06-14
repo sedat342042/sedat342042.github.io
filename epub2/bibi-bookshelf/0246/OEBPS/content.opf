@@ -1,0 +1,125 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Steinbeck, John">John Steinbeck</dc:creator>
+<dc:identifier id="uuid">{8C1476E3-B20B-41F4-9844-6D0A80D99BAB}</dc:identifier>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:description>&lt;p&gt;Dizginlenemez denize açılma ve korsanlık tutkusuyla Karayipler'e sürüklenen genç Henry, 17. yüzyıl İspanya İmparatorluğu'nun yüreğine korku salan namlı bir kaptan olacaktır. Onun asıl amacı ise bölgede efsane olan La Santa Roja adlı gizemli bir kadını bulmak ve Altın Kupa'yı ele geçirmektir. Karayiplerin kanlı tarihine ateşten bir sayfa ekleyen Sir Henry Morgan'ın yaşamı, Steinbeck'in kalemiyle coşkulu bir anlatıya dönüşüyor.&lt;/p&gt;</dc:description>
+    <meta content="Altın Kupa" name="calibre:title_sort"/>
+    <meta content="{&quot;John Steinbeck&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id42"/>
+    <meta content="0.8.6" name="Sigil version"/>
+    <dc:date>2006-04-23T21:00:00+00:00</dc:date>
+  <dc:title>Altın Kupa</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">13ab1c41-13eb-4ba5-a88b-e7b5b0c41521</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789751410931</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/1_1.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/1_2.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/1_3.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/1_4.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/1_5.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/1_6.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/1_7.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/2_0.xhtml" id="id46" media-type="application/xhtml+xml"/>
+    <item href="Text/2_1.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/2_2.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/2_3.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/2_4.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/2_5.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/2_6.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/2_7.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/3_0.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/3_1.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/3_2.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/3_3.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/3_4.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/3_5.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/3_6.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/4_0.xhtml" id="id48" media-type="application/xhtml+xml"/>
+    <item href="Text/4_1.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="Text/4_2.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="Text/4_3.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="Text/4_4.xhtml" id="id33" media-type="application/xhtml+xml"/>
+    <item href="Text/4_5.xhtml" id="id34" media-type="application/xhtml+xml"/>
+    <item href="Text/4_6.xhtml" id="id35" media-type="application/xhtml+xml"/>
+    <item href="Text/4_7.xhtml" id="id36" media-type="application/xhtml+xml"/>
+    <item href="Text/4_8.xhtml" id="id37" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="id38" media-type="application/xhtml+xml"/>
+    <item href="Text/5_1.xhtml" id="id39" media-type="application/xhtml+xml"/>
+    <item href="Text/5_2.xhtml" id="id40" media-type="application/xhtml+xml"/>
+    <item href="Text/5_3.xhtml" id="id41" media-type="application/xhtml+xml"/>
+    <item href="Text/5_4.xhtml" id="id49" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="id50" media-type="application/xhtml+xml"/>
+    <item href="Text/arka_kapak.xhtml" id="id45" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/cem.png" id="id1" media-type="image/png"/>
+    <item href="Images/cover1.jpg" id="id42" media-type="image/jpeg"/>
+    <item href="Images/cover2.jpg" id="id43" media-type="image/jpeg"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="id"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id2"/>
+    <itemref idref="id14"/>
+    <itemref idref="id46"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id3"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id48"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id45"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.xhtml" type="cover"/>
+  </guide>
+</package>

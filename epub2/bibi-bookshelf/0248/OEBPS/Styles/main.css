@@ -1,0 +1,104 @@
+p {
+  text-indent: 1.5em;
+	margin-top:0.1em;
+  margin-bottom:0.1em;
+  text-align:justify;
+  }
+
+.gunluk{
+margin-left: 2.5em;
+font-style: italic;
+}
+
+.logo {text-indent:0em; margin-top:5em; text-align:center;}
+
+.b_sayfa_k_adi{
+  font-weight:bold;
+text-indent:0px;
+text-align:center;
+font-size:2.5em;
+margin-top:0.5em;
+ 
+}
+
+.b_sayfa_k_adi2{
+text-indent:0px;
+text-align:center;
+font-size:1.5em;
+margin-bottom:1em;
+}
+
+.b_sayfa_y_adi{
+text-indent:0px;
+text-align:center;
+font-size:1.8em;
+margin-bottom:3em;
+
+ }
+ .b_sayfa_y_resim{
+   margin-top:2.5em;
+text-indent:0px;
+text-align:center;
+ }
+ 
+ .ceviri{
+   text-indent:0px;
+ text-align:center; 
+ margin-top:2.5em;
+}
+
+ .yayin_evi{
+   text-indent:0px;
+   font-size:0.8em;
+ text-align:center; 
+ margin-top:2em;
+}
+
+.dipnot_sayi{
+    font-size:0.6em; 
+}
+
+
+.ortali{
+  margin-bottom:1em;
+margin-top:1em;
+  text-indent:0em;
+text-align:center; 
+}
+.tablo{
+   text-indent:0px;
+   font-size:0.9em;
+text-indent:1em;
+}
+.kucuk{
+  font-size:0.8em; 
+  line-height: 90%
+}
+.siir2{
+   margin-left: 2.5em;
+}
+.girintili{
+ margin-left: 2.5em; 
+}
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always; }
+
+
+.bolum_adi{
+font-size:1.8em; 
+text-align:center;
+margin-top:5em;
+}
+.kisim_adi{
+text-indent:0em;
+font-size:1.8em;
+margin-bottom:1em;
+margin-top:1em;
+
+}
+ .yay_bilgi{
+ font-size:0.7em; 
+ }
+ .yazar_tanitim {
+   margin: 0 2.5em 0 2.5em;   
+   font-size:0.8em;
+  }

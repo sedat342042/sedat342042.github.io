@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="0f3a40ea-92b9-4084-b65d-0407d26ef488" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ateş Yakmak</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Arka Kapak</text>
+      </navLabel>
+      <content src="Text/Ates_Yakmak_split_000.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/Ates_Yakmak_split_001.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Ateş Yakmak</text>
+      </navLabel>
+      <content src="Text/Ates_Yakmak_split_002.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Yaşama Hırsı</text>
+      </navLabel>
+      <content src="Text/Ates_Yakmak_split_003.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Yaşamın Yasası</text>
+      </navLabel>
+      <content src="Text/Ates_Yakmak_split_004.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Uzak Bir Ülkede</text>
+      </navLabel>
+      <content src="Text/Ates_Yakmak_split_005.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Beyaz Sessizlik</text>
+      </navLabel>
+      <content src="Text/Ates_Yakmak_split_006.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Yoldaki Adam</text>
+      </navLabel>
+      <content src="Text/Ates_Yakmak_split_007.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Serüven</text>
+      </navLabel>
+      <content src="Text/Ates_Yakmak_split_008.htm"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Ates_Yakmak_split_008.htm#calibre_toc_10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Ates_Yakmak_split_009.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/Ates_Yakmak_split_010.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Onurlu Bir Ölüm</text>
+      </navLabel>
+      <content src="Text/Ates_Yakmak_split_011.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

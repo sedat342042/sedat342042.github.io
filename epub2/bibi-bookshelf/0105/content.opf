@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+    <dc:description>&lt;div&gt;&lt;span style="font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;19. yüzyıl İngiliz romanının Oliver Twist ve David Copperfield gibi unutulmaz tiplerinin ve çağdaş Noel mitinin yaratıcısı Charles Dickens, önemli bir toplumsal tarih kayıtçısı olarak roman sanatına büyük katkıda bulunmuştur. Kafka'ya ilham veren romanları, döneminde büyük popülerliğe sahip olduğu halde eleştirmenlerce ciddiye alınmamıştı, ancak 1950'lerden sonra yeniden değerlendirilmeye başlandı. &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Sürükleyici polisiye kurgusu ve çok katmanlı anlatımı ile Charles Dickens'ın olgunluk çağı romanı kabul edilen Kasvetli Ev güçlü bir toplumsal eleştiri ve sarsıcı bir gözlem gücü ile modern dünyaya geçişin sancılarını, Victoria çağının katı ahlakçılığını, çılgın Chancery Mahkemesi'nin delirticiliğini yansıtır. &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;"Romanın Shakespeare'i"nden "soğuk ikindinin en soğuğu, koyu sisin en koyusu ve çamurlu sokakların en çamurlusu", H. K. Browne'un ilk baskı için hazırladığı illüstrasyonlar ve Aslı Biçen'in titiz çevirisiyle ilk kez dilimizde.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <meta name="calibre:title_sort" content="Kasvetli Ev II"/>
+    <dc:contributor opf:role="bkp">calibre (2.13.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2014-12-27T12:48:10.345000+00:00"/>
+    <dc:language>tr</dc:language>
+    <dc:title>Kasvetli Ev II</dc:title>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>YKY</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">af665474-5a30-4695-bdf0-426a8e57a6af</dc:identifier>
+    <dc:identifier opf:scheme="calibre">af665474-5a30-4695-bdf0-426a8e57a6af</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-1.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="main-10.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="main-11.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-2.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main-3.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="main-4.png" id="id4" media-type="image/png"/>
+    <item href="main-4.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="main-5.png" id="id5" media-type="image/png"/>
+    <item href="main-5.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="main-6.png" id="id6" media-type="image/png"/>
+    <item href="main-6.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="main-7.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="main-8.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="main-9.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

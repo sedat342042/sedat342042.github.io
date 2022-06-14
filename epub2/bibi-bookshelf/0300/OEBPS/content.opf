@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Kundera, Milan">Milan Kundera</dc:creator>
+<dc:description>&lt;p&gt;1968. Prag'da Sovyet tankları. Prag Baharı'nın sonu gelmiştir. Yurdundan ayrılan pek çok göçmenden biri de Irena'dır. Kocasıyla birlikte Paris'e yerleşen Irena, onun ölümüyle yalnız kalır. Kendine yurt edindiği bu yerde duygularını, özlemlerini anlayacak, 'bilecek' kimse yoktur. Yıllar sonra, soğuk savaşın bitimiyle birlikte, eski yurdunu sık sık ziyaret etmeye başlar. Bu yolculuklarından birinde havaalanında yine eski bir göçmen olan Josef'le karşılaşır. Josef, onun bir türlü kopamadığı, ama yabancılaştığı geçmişinden bir sayfadır. Bütünüyle farklı nedenlerle çıktıkları Prag yolculuğu, Irena ile Josef'in yurtsuzluklarına, özlemlerine yeni halkalar ekleyecektir. Bilmemek, hatırlama üzerine, yalnızlık, yabancılaşma, yurtsuzluk, bellek ve unutuş üzerine bir roman. Yoğunluk, derinlik, duyarlık ve yorum açısından Milan Kundera'nın en önemli yapıtlarından olduğu kesin. İnsanlığın en güncel sorunlarından biri haline gelen 'göçmen olma' durumunu psikolojik ve siyasal kalıplar içinde tutkuyla inceleyen Milan Kundera, romanına kendi kişisel tarihini de ilk kez bu kadar açıkça katmış. 20'nci yüzyıla damgasını vuran yazarlardan olan Milan Kundera'nın bu son romanı, yaşadığı ve yazdığı ülke olan Fransa'dan önce Türkiye'de ve Türkçe yayınlanıyor.
+(Arka Kapak)
+&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{8C889E68-BBFA-49FA-A9CF-A3B8ED49C672}</dc:identifier>
+    <dc:date>2013-12-26T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Bilmemek"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Milan Kundera&quot;: &quot;&quot;}"/>
+  <dc:title>Bilmemek</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Çağdaş Edebiyat</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e8b771b1-c655-49d7-87f3-0a9c571517ed</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750701221</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/b.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

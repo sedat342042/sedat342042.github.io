@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="ca628b0a-6134-485b-bb2f-e2e9e2d3505f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Öteki Ben</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖTEKİ BEN</text>
+      </navLabel>
+      <content src="Text/Oteki_Ben_split_002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>FYODOR MİHAYLOVİÇ DOSTOYEVSKİ</text>
+      </navLabel>
+      <content src="Text/Oteki_Ben_split_003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/Oteki_Ben_split_003.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ÖTEKİ BEN</text>
+      </navLabel>
+      <content src="Text/Oteki_Ben_split_004.html"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_005.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_005.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_005.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_005.html#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_005.html#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_005.html#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_005.html#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_005.html#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_006.html#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_006.html#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/Oteki_Ben_split_006.html#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

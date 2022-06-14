@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookID" opf:scheme="UUID" />
+    <dc:title>Bozkırkurdu</dc:title>
+    <dc:creator opf:file-as="Hesse, Hermann" opf:role="aut">Hermann Hesse</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Piskoloji</dc:subject>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Bozkırkurdu'nun, deneysel cesaret anlamında Ulysses'ten aşağı kalmayan bir yapıt olduğunu söylemeye gerek var mı? Bozkırkurdu, okumanın ne demek olduğunu uzun zamandır ilk kez hatırlattı bana."&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;-Thomas Mann-&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;"Harry kendi içinde bir 'insan' bulur, düşüncelerden, duygulardan, uygarlıktan, dizginlenmiş ve yüceltilmiş doğadan kurulup çatılmış bir dünyadır bu; ayrıca, bir 'kurt' bulur içinde, içgüdülerden, vahşilikten, acımasızlıktan, yüceltilmemiş, yontulmamış doğadan bir dünya bulur. Varlığının böyle açık seçik ikiye ayrılmasına, birbirine düşman iki yarıma bölünmesine karşın, yine de kurt ile insanın bazı mutlu anlarda birbiriyle kardeş kardeş geçindiğini görür."&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Uçarı bir "yaşam" insanı olmaya kalkışan katıksız bir "düşün" insanının, bu ikilemin gelgitleriyle oradan oraya savrulan yalnız bir ruhun, Bozkırkurdu'nun hikayesi. Aydın geçinenlerin, bildikleriyle büyüklenenlerin, bilmediklerini küçümseyenlerin, bunu yaparken -bilinçli ya da bilinçsiz- yaşamı kaçıranların yüzüne inen bir tokat.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier opf:scheme="ISBN">9789750805561</dc:identifier>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+    <meta content="Bozkırkurdu" name="calibre:title_sort" />
+    <meta content="{&quot;Hermann Hesse&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:date opf:event="modification">2014-02-22</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css" />
+    <item href="Styles/style.css" id="style.css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="Section0003.xhtml" />
+    <itemref idref="Section0004.xhtml" />
+    <itemref idref="Section0005.xhtml" />
+    <itemref idref="Section0006.xhtml" />
+    <itemref idref="Section0007.xhtml" />
+    <itemref idref="Section0008.xhtml" />
+    <itemref idref="Section0009.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover" />
+  </guide>
+</package>

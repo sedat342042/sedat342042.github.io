@@ -1,0 +1,33 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Bukowski, Charles">Charles Bukowski</dc:creator>
+<meta name="calibre:title_sort" content="Suda Yan Ateşte Boğul"/>
+    <meta name="calibre:timestamp" content="2014-03-17T12:30:59.323000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-03-22T02:46:46+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.28.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">25f9647a-b9fb-4f66-a353-0af631afbf99</dc:identifier>
+    <dc:title>Suda Yan Ateşte Boğul</dc:title>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Charles Bukowski&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">25f9647a-b9fb-4f66-a353-0af631afbf99</dc:identifier>
+<dc:identifier opf:scheme="MOBI-ASIN">821397bb-64aa-4301-8e3a-4941e87a9e47</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Suda_Yan_Ate_351_te_Bo_287_ul.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

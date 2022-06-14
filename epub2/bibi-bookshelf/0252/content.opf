@@ -1,0 +1,102 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Steinbeck, John">John Steinbeck</dc:creator>
+<dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;John Steinbeck, Gazap Üzümleri'ni 1930'larda ABD'de yaşanan Büyük Göç'ün bir anlamda destanı olarak kaleme aldı.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;Genç yaşlı, kadın erkek, binlerce emekçinin verimli topraklara yolculuğunu ve bir ulusun yaşadığı dönüşümü işleyen bu roman, aynı zamanda iyi bir yaşam düşüyle Oklahoma'dan kalkıp Kaliforniya'ya doğru yola çıkan Joad ailesinin öyküsüdür.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;Steinbeck'in Büyük Bunalım dönemi sırasında Amerika'da var olma savaşı veren insanların yaşamından yarattığı bu dram, toplumsal içeriği ve etik bakışıyla görkemli bir atmosfer yaratırken, getirdiği insani boyutları ve yalınlığıyla da içten bir yapıta dönüşüyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:date>1972-01-05T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e12d883e-6772-49e9-bf3e-d62dacf1794d</dc:identifier>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:timestamp" content="2014-07-06T17:15:46.419000+00:00"/>
+    <meta name="calibre:title_sort" content="Gazap Üzümleri"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;John Steinbeck&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Gazap Üzümleri</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a3ff3c0a-39b9-40ed-978f-95b16000cb9c</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_000.html" id="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_001.html" id="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_002.html" id="index_split_002.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_003.html" id="index_split_003.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_004.html" id="index_split_004.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_005.html" id="index_split_005.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_006.html" id="index_split_006.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_007.html" id="index_split_007.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_008.html" id="index_split_008.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_009.html" id="index_split_009.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_010.html" id="index_split_010.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_011.html" id="index_split_011.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_012.html" id="index_split_012.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_013.html" id="index_split_013.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_014.html" id="index_split_014.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_015.html" id="index_split_015.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_016.html" id="index_split_016.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_017.html" id="index_split_017.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_018.html" id="index_split_018.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_019.html" id="index_split_019.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_020.html" id="index_split_020.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_021.html" id="index_split_021.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_022.html" id="index_split_022.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_023.html" id="index_split_023.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_024.html" id="index_split_024.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_025.html" id="index_split_025.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_026.html" id="index_split_026.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_027.html" id="index_split_027.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_028.html" id="index_split_028.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_029.html" id="index_split_029.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_030.html" id="index_split_030.html" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/index_split_031.html" id="index_split_031.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.jpg" id="id" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="index_split_000.html"/>
+    <itemref idref="id1"/>
+    <itemref idref="index_split_001.html"/>
+    <itemref idref="index_split_002.html"/>
+    <itemref idref="index_split_003.html"/>
+    <itemref idref="index_split_004.html"/>
+    <itemref idref="index_split_005.html"/>
+    <itemref idref="index_split_006.html"/>
+    <itemref idref="index_split_007.html"/>
+    <itemref idref="index_split_008.html"/>
+    <itemref idref="index_split_009.html"/>
+    <itemref idref="index_split_010.html"/>
+    <itemref idref="index_split_011.html"/>
+    <itemref idref="index_split_012.html"/>
+    <itemref idref="index_split_013.html"/>
+    <itemref idref="index_split_014.html"/>
+    <itemref idref="index_split_015.html"/>
+    <itemref idref="index_split_016.html"/>
+    <itemref idref="index_split_017.html"/>
+    <itemref idref="index_split_018.html"/>
+    <itemref idref="index_split_019.html"/>
+    <itemref idref="index_split_020.html"/>
+    <itemref idref="index_split_021.html"/>
+    <itemref idref="index_split_022.html"/>
+    <itemref idref="index_split_023.html"/>
+    <itemref idref="index_split_024.html"/>
+    <itemref idref="index_split_025.html"/>
+    <itemref idref="index_split_026.html"/>
+    <itemref idref="index_split_027.html"/>
+    <itemref idref="index_split_028.html"/>
+    <itemref idref="index_split_029.html"/>
+    <itemref idref="index_split_030.html"/>
+    <itemref idref="index_split_031.html"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference type="toc" title="İçindekiler" href="toc.xhtml#calibre_generated_inline_toc"/>
+  </guide>
+</package>
