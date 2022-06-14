@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Buzluk, Pelin">Pelin Buzluk</dc:creator>
+<dc:description>&lt;p&gt;Pelin Buzluk masallardan, düşlerden geçerek hakikati bozup yeniden kuruyor ve yarattığı gerçeküstü atmosferde hep insanın olabilirliklerini, duygularını, varoluşunu sorguluyor. Dokunaklı konuları melodrama kaçmadan işleyen genç yazar, öykülerinde ilginç sözcüklerin peşinden gidiyor, duyulmamış seslere kulak kabartıyor; merak dozunu hiç düşürmeden dehşet, ironi ve kederi harmanlayarak insan doğasının en karanlık bölgelerinden kesitler sunuyor okura. 
+
+Kendi deyişiyle, "Uyku ile uyanıklık arasında çok açık, hatta aşırı açık bir bilinç durumu vardır. Birdenbire kafamızı kurcalayan bir sorunun çözümünü yakalayıveririz. Ancak bu açık bilinç durumu aynı zamanda çok kısa sürer ve uçucudur da. Ulaştığımız anlamlar zihnimizi yalayıp geçer, yakalamak zordur. İsterim ki benim öykülerim uykunun buğusundaki o apaçık gökte okuru biraz daha tutsun; o aydınlık, bir çakımlık bir süreden daha uzun sürsün. Hatta öykü bittiğinde de devam etsin."
+&lt;/p&gt;</dc:description>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2009-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:99DE70B6-B31E-4441-8CBE-87F243FD6234</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-02-20</dc:date>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x186.png"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Deli Bal"/>
+    <meta name="calibre:author_link_map" content="{&quot;Pelin Buzluk&quot;: &quot;&quot;}"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Deli Bal</dc:title>
+<dc:subject>Öykü</dc:subject>
+<dc:subject>Anlatı</dc:subject>
+<dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">5d6dc48b-ac01-4437-9bd4-148088da7f1b</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750715471</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOODREADS">16082425</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/KAPAK.html" id="KAPAK" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/delibal_fmt.png" id="delibal_fmt.png" media-type="image/png"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="KAPAK"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+  </spine>
+</package>

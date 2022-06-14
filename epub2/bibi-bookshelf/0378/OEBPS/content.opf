@@ -1,0 +1,190 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Ali, Sabahattin">Sabahattin Ali</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:07b893e0-26e4-4658-a285-5f677471041b</dc:identifier>
+    <dc:date>1998-10-24T21:00:00+00:00</dc:date>
+    <dc:description>Sabahattin Ali'nin "düşünür" ve "eleştirmen" yüzünü görmek için, onun dergilerde yayımlanmış yazılarını okumak gerek.Öykü ve romanlarında bir anlatı ustası olduğunu kanıtlayan ve Türk edebiyatının klasikleri arasında yer alan Sabahattin Ali'nin gündeme ve sanata ilişkin yazıları, onunla yapılmış söyleşiler Hikmet Altınkaynak'ın derlemesiyle dergi sayfalarından sıyrılıp kitap boyutuna ulaşıyor.</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="23.9.14" name="Nakkal"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Markopaşa Yazıları ve Ötekiler"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sabahattin Ali&quot;: &quot;&quot;}"/>
+  <dc:title>Markopaşa Yazıları ve Ötekiler</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Makale</dc:subject>
+<dc:subject>Derleme</dc:subject>
+<dc:subject>Söyleşi</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f82abb4a-d411-4e21-a59a-19489b491dd5</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753638425</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yayinevibilgi.xhtml" id="yayinevibilgi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/derleyen.xhtml" id="derleyen.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz2.xhtml" id="onsoz2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz3.xhtml" id="onsoz3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/anket.xhtml" id="anket.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/anketimiz.xhtml" id="anketimiz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/edebiyatadair.xhtml" id="edebiyatadair.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/anketimiz2.xhtml" id="anketimiz2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nesirnotlar.xhtml" id="nesirnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/diyorki.xhtml" id="diyorki.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ali.xhtml" id="ali.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/diyorki2.xhtml" id="diyorki2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/siirgorusme.xhtml" id="siirgorusme.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/birgorusme.xhtml" id="birgorusme.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazilar.xhtml" id="yazilar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/mutalaa.xhtml" id="mutalaa.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/knut.xhtml" id="knut.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tetkit.xhtml" id="tetkit.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bacon.xhtml" id="bacon.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/vere.xhtml" id="vere.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/birfelsefe.xhtml" id="birfelsefe.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deprofundis.xhtml" id="deprofundis.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/once.xhtml" id="once.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/halk.xhtml" id="halk.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/otelci.xhtml" id="otelci.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toska.xhtml" id="toska.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tercume.xhtml" id="tercume.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/gyges.xhtml" id="gyges.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/antigone.xhtml" id="antigone.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/muellif.xhtml" id="muellif.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar01.xhtml" id="okuduklar01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar02.xhtml" id="okuduklar02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar03.xhtml" id="okuduklar03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar04.xhtml" id="okuduklar04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar05.xhtml" id="okuduklar05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar06.xhtml" id="okuduklar06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar07.xhtml" id="okuduklar07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar08.xhtml" id="okuduklar08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar09.xhtml" id="okuduklar09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar10.xhtml" id="okuduklar10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar11.xhtml" id="okuduklar11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar12.xhtml" id="okuduklar12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar13.xhtml" id="okuduklar13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar14.xhtml" id="okuduklar14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar15.xhtml" id="okuduklar15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar16.xhtml" id="okuduklar16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar17.xhtml" id="okuduklar17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar18.xhtml" id="okuduklar18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar19.xhtml" id="okuduklar19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar20.xhtml" id="okuduklar20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar21.xhtml" id="okuduklar21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar22.xhtml" id="okuduklar22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar23.xhtml" id="okuduklar23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar24.xhtml" id="okuduklar24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar25.xhtml" id="okuduklar25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar26.xhtml" id="okuduklar26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar27.xhtml" id="okuduklar27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar28.xhtml" id="okuduklar28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar29.xhtml" id="okuduklar29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar30.xhtml" id="okuduklar30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar31.xhtml" id="okuduklar31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar32.xhtml" id="okuduklar32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar33.xhtml" id="okuduklar33.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar34.xhtml" id="okuduklar34.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar35.xhtml" id="okuduklar35.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okuduklar36.xhtml" id="okuduklar36.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/secmeler.xhtml" id="secmeler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/siyasalortam.xhtml" id="siyasalortam.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/okurken.xhtml" id="okurken.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/marko.xhtml" id="marko.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/markoyazi.xhtml" id="markoyazi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/still.css" id="still.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="yayinevibilgi.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="derleyen.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="onsoz2.xhtml"/>
+    <itemref idref="onsoz3.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="anket.xhtml"/>
+    <itemref idref="anketimiz.xhtml"/>
+    <itemref idref="edebiyatadair.xhtml"/>
+    <itemref idref="anketimiz2.xhtml"/>
+    <itemref idref="nesirnotlar.xhtml"/>
+    <itemref idref="diyorki.xhtml"/>
+    <itemref idref="ali.xhtml"/>
+    <itemref idref="diyorki2.xhtml"/>
+    <itemref idref="siirgorusme.xhtml"/>
+    <itemref idref="birgorusme.xhtml"/>
+    <itemref idref="yazilar.xhtml"/>
+    <itemref idref="mutalaa.xhtml"/>
+    <itemref idref="knut.xhtml"/>
+    <itemref idref="tetkit.xhtml"/>
+    <itemref idref="bacon.xhtml"/>
+    <itemref idref="vere.xhtml"/>
+    <itemref idref="birfelsefe.xhtml"/>
+    <itemref idref="deprofundis.xhtml"/>
+    <itemref idref="once.xhtml"/>
+    <itemref idref="halk.xhtml"/>
+    <itemref idref="otelci.xhtml"/>
+    <itemref idref="toska.xhtml"/>
+    <itemref idref="tercume.xhtml"/>
+    <itemref idref="gyges.xhtml"/>
+    <itemref idref="antigone.xhtml"/>
+    <itemref idref="muellif.xhtml"/>
+    <itemref idref="okuduklar01.xhtml"/>
+    <itemref idref="okuduklar02.xhtml"/>
+    <itemref idref="okuduklar03.xhtml"/>
+    <itemref idref="okuduklar04.xhtml"/>
+    <itemref idref="okuduklar05.xhtml"/>
+    <itemref idref="okuduklar06.xhtml"/>
+    <itemref idref="okuduklar07.xhtml"/>
+    <itemref idref="okuduklar08.xhtml"/>
+    <itemref idref="okuduklar09.xhtml"/>
+    <itemref idref="okuduklar10.xhtml"/>
+    <itemref idref="okuduklar11.xhtml"/>
+    <itemref idref="okuduklar12.xhtml"/>
+    <itemref idref="okuduklar13.xhtml"/>
+    <itemref idref="okuduklar14.xhtml"/>
+    <itemref idref="okuduklar15.xhtml"/>
+    <itemref idref="okuduklar16.xhtml"/>
+    <itemref idref="okuduklar17.xhtml"/>
+    <itemref idref="okuduklar18.xhtml"/>
+    <itemref idref="okuduklar19.xhtml"/>
+    <itemref idref="okuduklar20.xhtml"/>
+    <itemref idref="okuduklar21.xhtml"/>
+    <itemref idref="okuduklar22.xhtml"/>
+    <itemref idref="okuduklar23.xhtml"/>
+    <itemref idref="okuduklar24.xhtml"/>
+    <itemref idref="okuduklar25.xhtml"/>
+    <itemref idref="okuduklar26.xhtml"/>
+    <itemref idref="okuduklar27.xhtml"/>
+    <itemref idref="okuduklar28.xhtml"/>
+    <itemref idref="okuduklar29.xhtml"/>
+    <itemref idref="okuduklar30.xhtml"/>
+    <itemref idref="okuduklar31.xhtml"/>
+    <itemref idref="okuduklar32.xhtml"/>
+    <itemref idref="okuduklar33.xhtml"/>
+    <itemref idref="okuduklar34.xhtml"/>
+    <itemref idref="okuduklar35.xhtml"/>
+    <itemref idref="okuduklar36.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+    <itemref idref="secmeler.xhtml"/>
+    <itemref idref="siyasalortam.xhtml"/>
+    <itemref idref="okurken.xhtml"/>
+    <itemref idref="marko.xhtml"/>
+    <itemref idref="markoyazi.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

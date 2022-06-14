@@ -1,0 +1,222 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.calibre1 {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    text-align: center
+    }
+.calibre10 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify
+    }
+.calibre11 {
+    font-variant: small-caps;
+    line-height: 1.2
+    }
+.calibre12 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre13 {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em
+    }
+.calibre14 {
+    font-weight: bold
+    }
+.calibre15 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.33em
+    }
+.calibre16 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre17 {
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.calibre18 {
+    display: block;
+    text-align: right
+    }
+.calibre19 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre2 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre20 {
+    display: block
+    }
+.calibre21 {
+    font-size: 0.75em
+    }
+.calibre22 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.calibre23 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.33em;
+    text-align: center
+    }
+.calibre24 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: center
+    }
+.calibre25 {
+    display: block;
+    text-align: center
+    }
+.calibre26 {
+    height: 88pt;
+    width: 305pt
+    }
+.calibre27 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.calibre28 {
+    font-style: normal;
+    font-weight: bold
+    }
+.calibre29 {
+    font-style: normal
+    }
+.calibre3 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre30 {
+    height: 457pt;
+    width: 293pt
+    }
+.calibre31 {
+    height: 176pt;
+    width: 237pt
+    }
+.calibre32 {
+    height: 498pt;
+    width: 323pt
+    }
+.calibre33 {
+    height: 496pt;
+    width: 336pt
+    }
+.calibre34 {
+    height: 468pt;
+    width: 331pt
+    }
+.calibre35 {
+    height: 497pt;
+    width: 309pt
+    }
+.calibre36 {
+    height: 468pt;
+    width: 301pt
+    }
+.calibre4 {
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.calibre6 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+	text-indent:1em;
+	text-align:justify 
+}
+.calibre7 {
+    font-style: italic
+    }
+.calibre8 {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    text-align: justify
+    }
+.calibre9 {
+    font-style: italic;
+    font-variant: small-caps;
+    line-height: 1.2
+    }

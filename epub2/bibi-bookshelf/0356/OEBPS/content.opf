@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="1.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Safa, Peyami">Peyami Safa</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="Bir-Tereddutun-Romani_1.jpg"/>
+    <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Eşsiz kıvraklıktaki psikolojik tahlillerle karakterlerini ve okuyucularını insan tabiatının birbirine en zıt hallerinde dolaştıran bir romandır. Kitabın teklifler, tehditler, tehlikeler ve ihtimaller arasında bocalayıp duran romancı kahramanı sanki yazarın kendisidir. Ferdin tereddüt karşısındaki dramını ele almıştır. “Ne ret, ne kabul: tereddüt.”&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; widows: 1; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Ötüken</dc:publisher>
+    <dc:date>2012-09-10T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:07799825-a86c-4a8e-bf4e-e53d65e9c890</dc:identifier>
+    <meta content="0.8.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-04-24</dc:date>
+  <meta name="calibre:title_sort" content="Tereddüdün Romanı, Bir"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Peyami Safa&quot;: &quot;&quot;}"/>
+<dc:title>Bir Tereddüdün Romanı</dc:title>
+<dc:subject>Roman</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">ab87e82c-b2eb-4662-8855-73f8a28a3bd8</dc:identifier>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789754370263</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;comments&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="Text/bir_tereddudun_romani.xhtml" id="bir_tereddudun_romani" media-type="application/xhtml+xml"/>
+    <item href="Text/bir_tereddudun_romani-1.xhtml" id="bir_tereddudun_romani-1" media-type="application/xhtml+xml"/>
+    <item href="Text/bir_tereddudun_romani-2.xhtml" id="bir_tereddudun_romani-2" media-type="application/xhtml+xml"/>
+    <item href="Text/bir_tereddudun_romani-3.xhtml" id="bir_tereddudun_romani-3" media-type="application/xhtml+xml"/>
+    <item href="Text/bir_tereddudun_romani-4.xhtml" id="bir_tereddudun_romani-4" media-type="application/xhtml+xml"/>
+    <item href="Text/bir_tereddudun_romani-5.xhtml" id="bir_tereddudun_romani-5" media-type="application/xhtml+xml"/>
+    <item href="Text/bir_tereddudun_romani-6.xhtml" id="bir_tereddudun_romani-6" media-type="application/xhtml+xml"/>
+    <item href="Text/bir_tereddudun_romani-7.xhtml" id="bir_tereddudun_romani-7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/bir_tereddudun_romani.css" id="bir_tereddudun_romani.css" media-type="text/css"/>
+    <item href="Images/Bir-Tereddutun-Romani_1.jpg" id="Bir-Tereddutun-Romani_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="bir_tereddudun_romani"/>
+    <itemref idref="bir_tereddudun_romani-1"/>
+    <itemref idref="bir_tereddudun_romani-2"/>
+    <itemref idref="bir_tereddudun_romani-3"/>
+    <itemref idref="bir_tereddudun_romani-4"/>
+    <itemref idref="bir_tereddudun_romani-5"/>
+    <itemref idref="bir_tereddudun_romani-6"/>
+    <itemref idref="bir_tereddudun_romani-7"/>
+  </spine>
+</package>

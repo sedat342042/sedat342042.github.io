@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:contributor opf:role="bkp">calibre (3.23.0) [https://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2018-05-04T16:33:15.069000+00:00"/>
+    <meta name="calibre:title_sort" content="Microsoft Word - Yeni Microsoft Word Belgesi.docx"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">413b44e7-92b5-4c38-a246-d804e5a1429d</dc:identifier>
+    <dc:identifier opf:scheme="calibre">413b44e7-92b5-4c38-a246-d804e5a1429d</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:title>Microsoft Word - Yeni Microsoft Word Belgesi.docx</dc:title>
+    <dc:date>2011-12-05T06:38:34+00:00</dc:date>
+    <dc:creator opf:file-as="op" opf:role="aut">op</dc:creator>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

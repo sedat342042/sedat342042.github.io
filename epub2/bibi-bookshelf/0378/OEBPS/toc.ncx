@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:07b893e0-26e4-4658-a285-5f677471041b" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Markopaşa Yazıları ve Ötekiler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Sabahattin Ali</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İkinci Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Üçüncü Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Sabahattin Ali</text>
+      </navLabel>
+      <content src="Text/giris.xhtml" />
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Toplumcu gerçekçi bir yazarın çileli hayatı</text>
+        </navLabel>
+        <content src="Text/giris.xhtml#sigil_toc_id_1" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>ANKET YANITLARI KONUŞMALAR</text>
+      </navLabel>
+      <content src="Text/anket.xhtml" />
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Gençler Diyorlar ki</text>
+        </navLabel>
+        <content src="Text/anketimiz.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Sabahattin Ali ile Bir Konuşma</text>
+        </navLabel>
+        <content src="Text/edebiyatadair.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Sabahattin Ali ile Bir Konuşma</text>
+        </navLabel>
+        <content src="Text/nesirnotlar.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Sabahattin Ali Diyor ki:1</text>
+        </navLabel>
+        <content src="Text/diyorki.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Sabahattin Ali</text>
+        </navLabel>
+        <content src="Text/ali.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Sabahattin Ali Diyor ki:</text>
+        </navLabel>
+        <content src="Text/diyorki2.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Sabahattin Ali ile Şiire Dair Bir Görüşme*</text>
+        </navLabel>
+        <content src="Text/siirgorusme.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Sabahattin Ali ile Bir Görüşme</text>
+        </navLabel>
+        <content src="Text/birgorusme.xhtml" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>YAZILAR</text>
+      </navLabel>
+      <content src="Text/yazilar.xhtml" />
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Görüş Mecmuası Hakkında Şahsî Bazı Mütalâalar</text>
+        </navLabel>
+        <content src="Text/mutalaa.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Knut Hamsun</text>
+        </navLabel>
+        <content src="Text/knut.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Shakespeare Meselesi -Hakikî Shakespeare-</text>
+        </navLabel>
+        <content src="Text/tetkit.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Shakespeare Meselesi -Sahte Shakespeare'ler: Bacon-</text>
+        </navLabel>
+        <content src="Text/bacon.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Shakespeare Meselesi -Sahte Shakespeare'ler: Eduard de Vere-</text>
+        </navLabel>
+        <content src="Text/vere.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Bir Felsefe Kitabı</text>
+        </navLabel>
+        <content src="Text/birfelsefe.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>De Profundis -Burhan Toprak'ın Tercümesi Münasebetiyle-</text>
+        </navLabel>
+        <content src="Text/deprofundis.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Başlamadan Önce1</text>
+        </navLabel>
+        <content src="Text/once.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Sabahattin Ali Diyor ki Halkçı Edebiyat ve Realizm</text>
+        </navLabel>
+        <content src="Text/halk.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Otelci Kadın</text>
+        </navLabel>
+        <content src="Text/otelci.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Toska</text>
+        </navLabel>
+        <content src="Text/toska.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>İkinci Dilden Tercüme Meselesi ve Bir Misâl</text>
+        </navLabel>
+        <content src="Text/tercume.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Gyges ve Yüzüğü Piyesi Hakkında</text>
+        </navLabel>
+        <content src="Text/gyges.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Antigone'ye Giriş</text>
+        </navLabel>
+        <content src="Text/antigone.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Eserin Müellifi Hakkında</text>
+        </navLabel>
+        <content src="Text/muellif.xhtml" />
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>KİTAPLAR</text>
+          </navLabel>
+          <content src="Text/okuduklar01.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Rıfat Ilgaz ve Son Yıllarda Türk Şiiri</text>
+        </navLabel>
+        <content src="Text/okuduklar01.xhtml#sigil_toc_id_2" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Yarı Münevver</text>
+        </navLabel>
+        <content src="Text/okuduklar02.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Bu Memleketi Kurtarmak İçin</text>
+        </navLabel>
+        <content src="Text/okuduklar03.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>&quot;Milliyetçi&quot;nin Tarifi</text>
+        </navLabel>
+        <content src="Text/okuduklar04.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Hürriyet Meselesi</text>
+        </navLabel>
+        <content src="Text/okuduklar05.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>İstiklâl</text>
+        </navLabel>
+        <content src="Text/okuduklar06.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Yabancı Sermaye</text>
+        </navLabel>
+        <content src="Text/okuduklar07.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Ayıp</text>
+        </navLabel>
+        <content src="Text/okuduklar08.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Tam Demokrasi</text>
+        </navLabel>
+        <content src="Text/okuduklar09.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Kokuyor</text>
+        </navLabel>
+        <content src="Text/okuduklar10.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Hep Lâf</text>
+        </navLabel>
+        <content src="Text/okuduklar11.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Yeşil Sarık</text>
+        </navLabel>
+        <content src="Text/okuduklar12.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Ne İstiyoruz?</text>
+        </navLabel>
+        <content src="Text/okuduklar13.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Yabancı Şahit; Yalancı Şahit</text>
+        </navLabel>
+        <content src="Text/okuduklar14.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Ne İnkılâpçılık1</text>
+        </navLabel>
+        <content src="Text/okuduklar15.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Görülmemiş Tiyatro</text>
+        </navLabel>
+        <content src="Text/okuduklar16.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Lânet Olsun</text>
+        </navLabel>
+        <content src="Text/okuduklar17.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Adalet</text>
+        </navLabel>
+        <content src="Text/okuduklar18.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Gütenberg Matbaası1</text>
+        </navLabel>
+        <content src="Text/okuduklar19.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Hangi Cepheden Gelirse Gelsin, Emperyalizmin Aleyhindeyiz</text>
+        </navLabel>
+        <content src="Text/okuduklar20.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>18 Milyon Türk Ne Olacak?</text>
+        </navLabel>
+        <content src="Text/okuduklar21.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Yaşasın Millet</text>
+        </navLabel>
+        <content src="Text/okuduklar22.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Milleti Aldatmasınlar</text>
+        </navLabel>
+        <content src="Text/okuduklar23.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Genç Arkadaş</text>
+        </navLabel>
+        <content src="Text/okuduklar24.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Aczimiz</text>
+        </navLabel>
+        <content src="Text/okuduklar25.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Milletin Postunu Paylaşıyorlar</text>
+        </navLabel>
+        <content src="Text/okuduklar26.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Fikir ve Küfür</text>
+        </navLabel>
+        <content src="Text/okuduklar27.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Bir Gazete Çıktı</text>
+        </navLabel>
+        <content src="Text/okuduklar28.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Çok Yaşayın</text>
+        </navLabel>
+        <content src="Text/okuduklar29.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Bekliyoruz</text>
+        </navLabel>
+        <content src="Text/okuduklar30.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Bir Alçak</text>
+        </navLabel>
+        <content src="Text/okuduklar31.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Herşey Tamam</text>
+        </navLabel>
+        <content src="Text/okuduklar32.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Ne Zor Şeymiş</text>
+        </navLabel>
+        <content src="Text/okuduklar33.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>İnsanlara İnanmak</text>
+        </navLabel>
+        <content src="Text/okuduklar34.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Bizi Sevmiyorlar</text>
+        </navLabel>
+        <content src="Text/okuduklar35.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Uşak Ruhu</text>
+        </navLabel>
+        <content src="Text/okuduklar36.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Notlar</text>
+        </navLabel>
+        <content src="Text/notlar.xhtml" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>KİTAP ÜSTÜNE YAZILAN YAZILARDAN SEÇMELER</text>
+      </navLabel>
+      <content src="Text/secmeler.xhtml" />
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Markopaşa Yazıları'nın Arka Planındaki Siyasal Ortam</text>
+        </navLabel>
+        <content src="Text/siyasalortam.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Sabahattin Ali'yi Okurken</text>
+        </navLabel>
+        <content src="Text/okurken.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Marko Paşa</text>
+        </navLabel>
+        <content src="Text/marko.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Markopaşa Yazıları ve Ötekiler</text>
+        </navLabel>
+        <content src="Text/markoyazi.xhtml" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

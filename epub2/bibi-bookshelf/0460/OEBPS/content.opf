@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Pratchett, Terry">Terry Pratchett</dc:creator>
+<meta content="4.0" name="calibre:series_index"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <dc:description>&lt;div&gt;Gelecek vaat etmeyen, beceriksiz Mort, Ölüm'ün yardımcısı olur, ama yeni görevini, yani ruhları dünyanın dışına götürme işini yüzüne gözüne bulaştırır. Güzel Prenses Keli'yi öldürmesi gerekirken, prensesi öldürecek kişiyi öldürür. Böylece, Kader'in işine burnunu sokar. Ama gerçeklik bu kadar kolay değişmez; tarih, olması gerektiği üzere, Keli'nin şehri Sto-Lat'ta şekillenmeye başlayacaktır. Acaba Mort, Keli'yi, kız varoluştan şutlanmadan önce kurtarabilecek midir?&lt;br&gt;&lt;br&gt;Birçok yetkisini Mort'a devreden Ölüm, rahatsız edici insan karakterleri sergiler: içer, zar atar ve eğlencenin doğasını merak eder hale gelir. Bu sırada Mort, neşesini kaybetmeye ve Büyük Harflerle Konuşma konusunda kaygı verici bir eğilim göstermeye başlar.&lt;br&gt;&lt;br&gt;Mort, Terry Pratchett'in 'katışıksız lezzet zincirine' eklediği, tıpkı bundan önceki yapıtları gibi yaratıcı bir kara mizah örneği.&lt;br&gt;- Tom Shippey, Guardian-&lt;br&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+    <meta content="Diskdünya" name="calibre:series"/>
+    <meta content="Mort" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2000-12-11T22:00:00+00:00</dc:date>
+    <meta content="2013-12-12T09:51:35+00:00" name="calibre:timestamp"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b3d6c356-d181-49eb-ad2a-6cb4f795fd60</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-06-14</dc:date>
+  <dc:title>Mort</dc:title>
+<dc:publisher>İthaki Yayınları</dc:publisher>
+<dc:subject>Fantastik</dc:subject>
+<dc:subject>Mizah</dc:subject>
+<dc:subject>Bilim Kurgu</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Terry Pratchett&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">293c0b7c-a75e-40c5-bde6-c3034d271001</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9756902787</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/main-1.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

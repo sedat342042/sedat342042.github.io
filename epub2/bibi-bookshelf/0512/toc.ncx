@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="800f82d5-1200-4c9d-a498-4da0c798451f" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.9.39)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kara Kule 3: Çorak Topraklar</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Kara_Kule_3_Corak_Topraklar_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>JAKE</text>
+      </navLabel>
+      <content src="Kara_Kule_3_Corak_Topraklar_split_003.html"/>
+      <navPoint class="chapter" id="num_3" playOrder="3">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Kara_Kule_3_Corak_Topraklar_split_004.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_4" playOrder="4">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Kara_Kule_3_Corak_Topraklar_split_005.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_5" playOrder="5">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM</text>
+        </navLabel>
+        <content src="Kara_Kule_3_Corak_Topraklar_split_006.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>LUD</text>
+      </navLabel>
+      <content src="Kara_Kule_3_Corak_Topraklar_split_007.html"/>
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Kara_Kule_3_Corak_Topraklar_split_008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_8" playOrder="8">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Kara_Kule_3_Corak_Topraklar_split_009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM</text>
+        </navLabel>
+        <content src="Kara_Kule_3_Corak_Topraklar_split_010.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

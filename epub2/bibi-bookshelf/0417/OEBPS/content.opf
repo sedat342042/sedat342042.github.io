@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Shakespeare, William">William Shakespeare</dc:creator>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <meta content="Fırtına" name="calibre:title_sort"/>
+    <meta content="2014-03-17T15:27:54.384000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2003-04-07T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c321e709-9ac6-43a5-affa-c1fbc18faf3c</dc:identifier>
+    <meta content="{&quot;William Shakespeare&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-04-03</dc:date>
+    <dc:title>Fırtına</dc:title>
+    <meta name="calibre:rating" content="8.0"/>
+    <dc:subject>Tiyatro Oyunu</dc:subject>
+    <dc:description>&lt;p&gt;Fırtına (*), günümüze ulaşan bilgilere göre Shakespearein son oyunu; yazarın ölümünden (1616) beş yıl önce, 1611 yılında yazılmış ve aynı yıl sarayda oynanmış. İlk basımı ise,1623 yılında "First Folio" da (Shakespearein oyunlarının ilk toplu basımı) olmuş. Bazı eleştirmenler bu oyunu Shakespearein veda mesajı olarak yorumlama eğiliminde. Ancak, gerek oyunun kendisi, gerekse başkişi Prospero öylesine çok yönlü ki, Fırtınanın anlamını yalnızca bir veda mesajına indirmek yanıltıcı olur.&lt;/p&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6ac84050-e235-44a5-8f4a-41a00192403d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751404428</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Firtina_split_000.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_001.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_002.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_003.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_004.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_005.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_006.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_007.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_008.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_009.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_010.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_011.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Firtina_split_012.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Images/image001.png" id="added3" media-type="image/png"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="../fonts/Times-New-Roman.ttf" id="font" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Times-New-Roman-Bold.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Times-New-Roman-Italic.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="../fonts.css" id="font_embed" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

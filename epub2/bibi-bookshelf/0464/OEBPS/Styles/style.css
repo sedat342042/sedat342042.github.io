@@ -1,0 +1,126 @@
+@font-face {
+	font-family:"Benguiat Bk BT";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../Fonts/1563.TTF");
+}
+@font-face {
+	font-family:"Benguiat Bk BT";
+	font-style:oblique;
+	font-weight:bold;
+	src : url("../Fonts/1563.TTF");
+}
+@font-face {
+	font-family:"Benguiat Bk BT";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/04351_BENGUIAN.TTF");
+}
+@font-face {
+	font-family:"Benguiat Bk BT";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/1564.TTF");
+}
+@font-face {
+	font-family:"Benguiat Bk BT";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../Fonts/1564.TTF");
+}
+
+@font-face {
+	font-family:SLBookArts;
+	font-style:normal;
+	font-weight:500;
+	src : url("../Fonts/SLBookArts.ttf");
+}
+@font-face {
+	font-family:"VariShapes Solid";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/VARIS.TTF");
+}
+
+@page{margin-left:0.3cm;margin-right:0.3cm;margin-top:0.3cm;margin-bottom:0.3cm}
+body{margin:0}
+p{text-indent:1.5em;margin-left:0;line-height:120%;margin-right:0;text-align:justify;margin-top:.55em;margin-bottom:.55em;font-family:"Benguiat Bk BT",serif;font-size:100%}
+.p0{text-indent:1.5em;margin-bottom:.45em}
+.p2{text-indent:0;margin-left:0;text-align:center}
+.p3{text-indent:1.3em;margin-left:0;margin-right:2.6em;text-align:right;margin-top:6.5em}
+.p4{text-indent:1.3em;margin-left:0;margin-right:2.6em;text-align:right}
+.p5{text-indent:1.3em;margin-left:0}
+.p6{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p7{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-bottom:0}
+.p8{text-indent:0;margin-left:0;text-align:center;margin-top:4.4em}
+.p9{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:4.4em;margin-bottom:0}
+.p10{text-indent:1.5em;text-align:center;margin-top:3.8em}
+.p11{text-indent:1.5em;text-align:left}
+.p12{text-indent:0;margin-left:9em;line-height:110%;margin-top:.27em;margin-bottom:.27em}
+.p13{text-indent:0;margin-left:0;text-align:center;margin-top:1.1em}
+.p14{text-indent:1.5em;text-align:right;margin-top:1.1em;margin-bottom:2.7em}
+.p15{text-indent:0;margin-left:1.5em;margin-bottom:1.6em}
+.p16{text-indent:1.5em;text-align:right}
+.p17{text-indent:0;margin-left:1.5em}
+.p18{text-indent:0;margin-left:3.9em}
+.p19{text-indent:1.5em;text-align:right;margin-top:1.1em}
+.p20{text-indent:1.5em;text-align:right;margin-bottom:2.7em}
+.p21{text-indent:1.5em;text-align:right;margin-top:1.1em;margin-bottom:0}
+.p22{text-indent:1.5em;text-align:right;margin-top:0;margin-bottom:2.7em}
+.p23{text-indent:0;margin-left:0;line-height:100%;text-align:right;margin-top:1.1em}
+.p24{text-indent:0;margin-left:0;line-height:100%;text-align:right;margin-bottom:2.7em}
+.p25{text-indent:1.5em;margin-bottom:2.7em}
+.p26{text-indent:1.5em;line-height:100%;margin-top:0;margin-bottom:0}
+.p27{text-indent:0}
+h1{text-indent:0;margin-left:0;line-height:120%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.43em;margin-bottom:1.7em;font-family:"Benguiat Bk BT",serif;font-size:127%;font-weight:bold}
+.h11{text-indent:0}
+.t2{font-size:2.2em;line-height:120%}
+.t3{font-size:.91em;line-height:120%;font-weight:bold}
+.t4{font-size:.91em;line-height:100%}
+.t5{font-size:.91em;line-height:120%;font-weight:bold;font-style:italic;text-decoration:underline}
+.t6{font-size:.91em;line-height:120%}
+.t7{font-size:1.3em;line-height:120%}
+.t8{font-size:2.9em;line-height:120%}
+.t9{font-size:1.3em;line-height:100%}
+.t10{font-style:italic}
+.t11{font-size:.81em;line-height:120%;font-style:italic}
+.t12{font-family:"VariShapes Solid";font-size:1.3em;line-height:120%}
+.t13{font-weight:bold}
+.t14{font-size:.65em;line-height:120%;vertical-align:super}
+.t15{font-size:.82em;line-height:120%;font-weight:bold;font-style:italic}
+.t16{font-size:.59em;line-height:120%;vertical-align:super}
+.t17{font-weight:bold;font-style:italic}
+.t18{font-weight:bold}
+.t19{font-size:.59em;line-height:100%;vertical-align:super}
+.t20{font-family:"Benguiat Bk BT",serif;font-size:.82em;line-height:100%;font-weight:bold;font-style:italic}
+.t21{font-family:"Benguiat Bk BT",serif;font-size:.82em;line-height:120%;font-weight:bold;font-style:italic}
+.t22{font-family:"Benguiat Bk BT",serif;font-size:.91em;line-height:100%;font-weight:bold;font-style:italic}
+.t23{font-family:SLBookArts;font-size:4.8em;line-height:120%}
+
+
+p.Paragraf-Stili-1 {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Benguiat Bk BT", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+    margin-top:1px;
+	margin-bottom:1px;
+	margin-left:20px;
+	margin-right:0px;
+	text-align:left;
+	text-indent:0.5px;
+}
+
+table.Tablo-Stili-1 {
+	border-color:#FFFFFF;
+	border-style:solid;
+	border-width:0px;
+	width:100%;
+    height:120px;
+    margin-bottom:3px;
+	margin-top:3px;
+}

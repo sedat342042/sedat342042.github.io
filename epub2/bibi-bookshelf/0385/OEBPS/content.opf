@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:a4bfbc84-dc29-4368-8cb3-e476216d136c</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2013-01-01T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt; &lt;p class="MsoNormal" style="margin-bottom: 0.0001pt;"&gt;&lt;span style="font-size:9.0pt"&gt;Hem düşsel hem de tarihsel karakterler üstüne yorumlarıyla tanıdığımız Stefan Zweig'ı derin karakter incelemelerine yönelten, psikolojiye ve Freud'un öğretisine duyduğu ilgidir. Beş tarihsel kişiliğin portrelerini içeren Yıldızın Parladığı Anlar, Fransız Devrimi'nde bir politikacının portresi niteliğindeki Joseph Fouché'yle birlikte Amerigo da Zweig'ın nesnellikten çok sezgiye dayanan yaşamöykülerinin en başarılarından biridir. Zweig, bu yapıtında, bugün Amerika adıyla bildiğimiz anakaranın bu adı alışının ardındaki inanılması güç rastlantılarla örülü 'yanlışlıklar komedyası'nı anlatır. Kristof Kolomb'un keşfettiği toprakların 'yeni bir dünya' olması gerektiği kanısına varan İtalyan denizci Amerigo Vespucci, ün peşinde koşan bir sahtekâr mıdır, yoksa adını tarihe yazdırmayı hak eden bir bilge mi? Zweig, esrar perdesini aralamaya çalışırken, Amerigo Vespucci'nin yaşamöyküsünü yaratıcı bir anlatıya dönüştürüyor, usta işi bir yapıt sunuyor bize.&lt;p&gt;&lt;/p&gt;&lt;/span&gt;&lt;/p&gt; &lt;/div&gt;</dc:description>
+    <dc:date opf:event="modification">2014-10-02</dc:date>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Amerigo" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2014-06-02T14:47:11+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="10.0" name="calibre:rating"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Stefan Zweig&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+  <dc:title>Amerigo</dc:title>
+<dc:subject>Biyografi</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Coğrafya</dc:subject>
+<dc:subject>Keşif</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">6d3e8a8b-88a7-4296-aafc-0203c9a9f7a6</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750705281</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage_1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd-Light.ttf" id="font__GillSansStd-Lightttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd-LightItalic.ttf" id="font__GillSansStd-LightItalicttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/titlepage_1.xhtml" title="Kapak" type="cover"/>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

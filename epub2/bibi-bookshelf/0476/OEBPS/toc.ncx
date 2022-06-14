@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:74fa348d-e5d4-44db-bbd2-810c63af4ae8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Büyücü</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/Kapak.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Haritalar</text>
+      </navLabel>
+      <content src="Text/harita1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Büyücü</text>
+      </navLabel>
+      <content src="Text/baslik.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>KİTAP 1: Pug ve Tomas</text>
+      </navLabel>
+      <content src="Text/Kitap1.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>FIRTINA</text>
+        </navLabel>
+        <content src="Text/Kitap101.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>ÇIRAK</text>
+        </navLabel>
+        <content src="Text/Kitap102.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>KALE İÇİ</text>
+        </navLabel>
+        <content src="Text/Kitap103.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>SALDIRI</text>
+        </navLabel>
+        <content src="Text/Kitap104.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>GEMİ ENKAZI</text>
+        </navLabel>
+        <content src="Text/Kitap105.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>ELF MECLİSİ</text>
+        </navLabel>
+        <content src="Text/Kitap106.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>ANLAYIŞ</text>
+        </navLabel>
+        <content src="Text/Kitap107.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>YOLCULUK</text>
+        </navLabel>
+        <content src="Text/Kitap108.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>MAC MORDAIN CADAL</text>
+        </navLabel>
+        <content src="Text/Kitap109.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>KURTARMA</text>
+        </navLabel>
+        <content src="Text/Kitap110.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>EFSUNCUNUN ADASI</text>
+        </navLabel>
+        <content src="Text/Kitap111.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>MECLİSLER</text>
+        </navLabel>
+        <content src="Text/Kitap112.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>RILLANON</text>
+        </navLabel>
+        <content src="Text/Kitap113.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>İSTİLA</text>
+        </navLabel>
+        <content src="Text/Kitap114.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>ÇATIŞMALAR</text>
+        </navLabel>
+        <content src="Text/Kitap115.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>BASKIN</text>
+        </navLabel>
+        <content src="Text/Kitap116.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>SALDIRI</text>
+        </navLabel>
+        <content src="Text/Kitap117.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>KUŞATMA</text>
+        </navLabel>
+        <content src="Text/Kitap118.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>KİTAP 2: Milamber ve Valheru</text>
+      </navLabel>
+      <content src="Text/Kitap2.xhtml"/>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>KÖLE</text>
+        </navLabel>
+        <content src="Text/Kitap201.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>MALİKÂNE</text>
+        </navLabel>
+        <content src="Text/Kitap202.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>DEĞİŞTİRİLMİŞ ÇOCUK</text>
+        </navLabel>
+        <content src="Text/Kitap203.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>EĞİTİM</text>
+        </navLabel>
+        <content src="Text/Kitap204.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>YOLCULUK</text>
+        </navLabel>
+        <content src="Text/Kitap205.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>KRONDOR</text>
+        </navLabel>
+        <content src="Text/Kitap206.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>KAÇIŞ</text>
+        </navLabel>
+        <content src="Text/Kitap207.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>YÜCE</text>
+        </navLabel>
+        <content src="Text/Kitap208.html"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>BİRLEŞME</text>
+        </navLabel>
+        <content src="Text/Kitap209.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>TEMSİLCİ</text>
+        </navLabel>
+        <content src="Text/Kitap210.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>KARAR</text>
+        </navLabel>
+        <content src="Text/Kitap211.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>AYAKLANMA</text>
+        </navLabel>
+        <content src="Text/Kitap212.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>HİLELER</text>
+        </navLabel>
+        <content src="Text/Kitap213.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>İHANET</text>
+        </navLabel>
+        <content src="Text/Kitap214.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>MİRAS</text>
+        </navLabel>
+        <content src="Text/Kitap215.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>RÖNESANS</text>
+        </navLabel>
+        <content src="Text/Kitap216.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/Yazar.html"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Yayınevi</text>
+      </navLabel>
+      <content src="Text/yayinevi.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

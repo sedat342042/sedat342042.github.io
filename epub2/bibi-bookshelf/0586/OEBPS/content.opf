@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Zaman Çarkı 14 - Işığın Anısı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Jordan, Robert">Robert Jordan</dc:creator>
+    <dc:date>2016-10-27</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:subject>Fantastik Kurgu</dc:subject>
+    <dc:description>Ulusların hükümdarları, Rand al’Thor’a katılmak veya Karanlık Varlık’ın zindanının mühürlerini kırma planını engellemek için Merrilor Meydanı’nda toplanır. Rand’ın planı deliliğinin bir işareti de olabilir, dünyanın son umudu da. Amyrlin Makamı Egwene, ilki olduğunu düşünmektedir.
+
+Andor’da, Trolloclar Caemlyn’i ele geçirir.
+Perrin Aybara kurt düşünde Katil’le savaşır.
+Ebou Dar’a yaklaşan Mat Cauthon, artık Seanchan İmparatoriçesi Fortuona olan karısı Tuon'u ziyaret etmeyi planlamaktadır. 
+Tüm insanlık tehlikededir – ve akıbeti Shayol Goul’de belli olacaktır. Çark dönmekte, Çağ sona ermektedir. Son Savaş dünyanın kaderini belirleyecektir.</dc:description>
+    <dc:identifier id="BookId">AWP-C3EB89B7-CDE2-4729-9B47-10559A6D30D7</dc:identifier>
+    <dc:language>tr</dc:language>
+    <meta name="cover" content="cover" />
+    <meta content="0.9.6" name="Sigil version" />
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2016-10-29</dc:date>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="style" href="Styles/style.css" media-type="text/css"/>
+    <item id="coverstyle" href="Styles/cover.css" media-type="text/css"/>
+    <item id="Section0001.html" href="Text/Section0001.html" media-type="application/xhtml+xml"/>
+    <item id="Section0059.html" href="Text/Section0059.html" media-type="application/xhtml+xml"/>
+    <item id="cover" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="img1" href="Images/img1.jpg" media-type="image/jpeg"/>
+    <item id="Section0002.html" href="Text/Section0002.html" media-type="application/xhtml+xml"/>
+    <item id="Section0003.html" href="Text/Section0003.html" media-type="application/xhtml+xml"/>
+    <item id="Section0004.html" href="Text/Section0004.html" media-type="application/xhtml+xml"/>
+    <item id="Section0005.html" href="Text/Section0005.html" media-type="application/xhtml+xml"/>
+    <item id="Section0006.html" href="Text/Section0006.html" media-type="application/xhtml+xml"/>
+    <item id="Section0009.html" href="Text/Section0009.html" media-type="application/xhtml+xml"/>
+    <item id="Section0010.html" href="Text/Section0010.html" media-type="application/xhtml+xml"/>
+    <item id="Section0011.html" href="Text/Section0011.html" media-type="application/xhtml+xml"/>
+    <item id="Section0012.html" href="Text/Section0012.html" media-type="application/xhtml+xml"/>
+    <item id="Section0013.html" href="Text/Section0013.html" media-type="application/xhtml+xml"/>
+    <item id="Section0014.html" href="Text/Section0014.html" media-type="application/xhtml+xml"/>
+    <item id="Section0015.html" href="Text/Section0015.html" media-type="application/xhtml+xml"/>
+    <item id="Section0016.html" href="Text/Section0016.html" media-type="application/xhtml+xml"/>
+    <item id="Section0017.html" href="Text/Section0017.html" media-type="application/xhtml+xml"/>
+    <item id="Section0018.html" href="Text/Section0018.html" media-type="application/xhtml+xml"/>
+    <item id="Section0019.html" href="Text/Section0019.html" media-type="application/xhtml+xml"/>
+    <item id="Section0020.html" href="Text/Section0020.html" media-type="application/xhtml+xml"/>
+    <item id="Section0021.html" href="Text/Section0021.html" media-type="application/xhtml+xml"/>
+    <item id="Section0022.html" href="Text/Section0022.html" media-type="application/xhtml+xml"/>
+    <item id="Section0023.html" href="Text/Section0023.html" media-type="application/xhtml+xml"/>
+    <item id="Section0024.html" href="Text/Section0024.html" media-type="application/xhtml+xml"/>
+    <item id="Section0025.html" href="Text/Section0025.html" media-type="application/xhtml+xml"/>
+    <item id="Section0026.html" href="Text/Section0026.html" media-type="application/xhtml+xml"/>
+    <item id="Section0027.html" href="Text/Section0027.html" media-type="application/xhtml+xml"/>
+    <item id="Section0028.html" href="Text/Section0028.html" media-type="application/xhtml+xml"/>
+    <item id="Section0029.html" href="Text/Section0029.html" media-type="application/xhtml+xml"/>
+    <item id="Section0030.html" href="Text/Section0030.html" media-type="application/xhtml+xml"/>
+    <item id="Section0031.html" href="Text/Section0031.html" media-type="application/xhtml+xml"/>
+    <item id="Section0032.html" href="Text/Section0032.html" media-type="application/xhtml+xml"/>
+    <item id="Section0033.html" href="Text/Section0033.html" media-type="application/xhtml+xml"/>
+    <item id="Section0034.html" href="Text/Section0034.html" media-type="application/xhtml+xml"/>
+    <item id="Section0035.html" href="Text/Section0035.html" media-type="application/xhtml+xml"/>
+    <item id="Section0036.html" href="Text/Section0036.html" media-type="application/xhtml+xml"/>
+    <item id="Section0037.html" href="Text/Section0037.html" media-type="application/xhtml+xml"/>
+    <item id="Section0038.html" href="Text/Section0038.html" media-type="application/xhtml+xml"/>
+    <item id="Section0039.html" href="Text/Section0039.html" media-type="application/xhtml+xml"/>
+    <item id="Section0040.html" href="Text/Section0040.html" media-type="application/xhtml+xml"/>
+    <item id="Section0041.html" href="Text/Section0041.html" media-type="application/xhtml+xml"/>
+    <item id="Section0042.html" href="Text/Section0042.html" media-type="application/xhtml+xml"/>
+    <item id="Section0043.html" href="Text/Section0043.html" media-type="application/xhtml+xml"/>
+    <item id="Section0044.html" href="Text/Section0044.html" media-type="application/xhtml+xml"/>
+    <item id="Section0045.html" href="Text/Section0045.html" media-type="application/xhtml+xml"/>
+    <item id="Section0046.html" href="Text/Section0046.html" media-type="application/xhtml+xml"/>
+    <item id="Section0047.html" href="Text/Section0047.html" media-type="application/xhtml+xml"/>
+    <item id="Section0048.html" href="Text/Section0048.html" media-type="application/xhtml+xml"/>
+    <item id="Section0049.html" href="Text/Section0049.html" media-type="application/xhtml+xml"/>
+    <item id="Section0050.html" href="Text/Section0050.html" media-type="application/xhtml+xml"/>
+    <item id="Section0051.html" href="Text/Section0051.html" media-type="application/xhtml+xml"/>
+    <item id="Section0052.html" href="Text/Section0052.html" media-type="application/xhtml+xml"/>
+    <item id="Section0053.html" href="Text/Section0053.html" media-type="application/xhtml+xml"/>
+    <item id="Section0054.html" href="Text/Section0054.html" media-type="application/xhtml+xml"/>
+    <item id="Section0055.html" href="Text/Section0055.html" media-type="application/xhtml+xml"/>
+    <item id="Section0056.html" href="Text/Section0056.html" media-type="application/xhtml+xml"/>
+    <item id="Section0057.html" href="Text/Section0057.html" media-type="application/xhtml+xml"/>
+    <item id="Section0058.html" href="Text/Section0058.html" media-type="application/xhtml+xml"/>
+    <item id="Harita_1.jpg" href="Images/Harita%201.jpg" media-type="image/jpeg"/>
+    <item id="Harita_2.jpg" href="Images/Harita%202.jpg" media-type="image/jpeg"/>
+    <item id="İthaki.jpg" href="Images/%C4%B0thaki.jpg" media-type="image/jpeg"/>
+    <item id="Section0007.html" href="Text/Section0007.html" media-type="application/xhtml+xml"/>
+    <item id="Section0008.html" href="Text/Section0008.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.html" linear="no"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="Section0005.html"/>
+    <itemref idref="Section0006.html"/>
+    <itemref idref="Section0007.html"/>
+    <itemref idref="Section0008.html"/>
+    <itemref idref="Section0009.html"/>
+    <itemref idref="Section0010.html"/>
+    <itemref idref="Section0011.html"/>
+    <itemref idref="Section0012.html"/>
+    <itemref idref="Section0013.html"/>
+    <itemref idref="Section0014.html"/>
+    <itemref idref="Section0015.html"/>
+    <itemref idref="Section0016.html"/>
+    <itemref idref="Section0017.html"/>
+    <itemref idref="Section0018.html"/>
+    <itemref idref="Section0019.html"/>
+    <itemref idref="Section0020.html"/>
+    <itemref idref="Section0021.html"/>
+    <itemref idref="Section0022.html"/>
+    <itemref idref="Section0023.html"/>
+    <itemref idref="Section0024.html"/>
+    <itemref idref="Section0025.html"/>
+    <itemref idref="Section0026.html"/>
+    <itemref idref="Section0027.html"/>
+    <itemref idref="Section0028.html"/>
+    <itemref idref="Section0029.html"/>
+    <itemref idref="Section0030.html"/>
+    <itemref idref="Section0031.html"/>
+    <itemref idref="Section0032.html"/>
+    <itemref idref="Section0033.html"/>
+    <itemref idref="Section0034.html"/>
+    <itemref idref="Section0035.html"/>
+    <itemref idref="Section0036.html"/>
+    <itemref idref="Section0037.html"/>
+    <itemref idref="Section0038.html"/>
+    <itemref idref="Section0039.html"/>
+    <itemref idref="Section0040.html"/>
+    <itemref idref="Section0041.html"/>
+    <itemref idref="Section0042.html"/>
+    <itemref idref="Section0043.html"/>
+    <itemref idref="Section0044.html"/>
+    <itemref idref="Section0045.html"/>
+    <itemref idref="Section0046.html"/>
+    <itemref idref="Section0047.html"/>
+    <itemref idref="Section0048.html"/>
+    <itemref idref="Section0049.html"/>
+    <itemref idref="Section0050.html"/>
+    <itemref idref="Section0051.html"/>
+    <itemref idref="Section0052.html"/>
+    <itemref idref="Section0053.html"/>
+    <itemref idref="Section0054.html"/>
+    <itemref idref="Section0055.html"/>
+    <itemref idref="Section0056.html"/>
+    <itemref idref="Section0057.html"/>
+    <itemref idref="Section0058.html"/>
+    <itemref idref="Section0059.html"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/Section0001.html"/>
+  </guide>
+</package>

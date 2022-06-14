@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Süskind, Patrick">Patrick Süskind</dc:creator>
+<dc:publisher>Can Yayınları</dc:publisher>
+    <meta content="Üç Buçuk Öykü" name="calibre:title_sort"/>
+    <dc:description>&lt;div&gt;Patrick Süskind , Türkiyeli okur için bildik bir ad. Umutulmaz romanı Koku, kısa romanı Güvercin ve Bay Somer'in Öyküsü'nün ardından bu kez de öyküleriyle karşınızda. İnsan doğasını, zayıflıkları ve erdemleriyle iyi bilen bir yazar Patrick Süskind. Derin bir gözlem gücü, kendini hissettiren, ama dozunda bir ironi, fantastik bir kurgulama bu öykülerin ortak özelliği. Patrick Sükind'in usta bir anlatıcı olduğunu bir kez daha kanıtlayan, Üç Buçuk Öykü, küçük ama belleklerde hoş bir lezzet bırakan türden bir kitapçık.&lt;br&gt;&lt;/div&gt;</dc:description>
+    <meta content="2015-06-10T15:57:03.022000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>1998-06-13T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">cad1f6b3-05ee-416f-9a59-4f5801eac0c7</dc:identifier>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Patrick Süskind&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-06-14</dc:date>
+  <dc:title>Üç Buçuk Öykü</dc:title>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Kısa Öykü</dc:subject>
+<dc:subject>Alman Edebiyatı</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a327b08d-ad49-45b5-ba0d-00a807c69b0b</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755108902</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/U.htm" id="U.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="U.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

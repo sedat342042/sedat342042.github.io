@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Beckett, Samuel">Samuel Beckett</dc:creator>
+<dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Mercier ile Camier'nin aynı adlı kahramanları, Beckett'ın olgunluk dönemi yapıtlarında sıkça karşımıza çıkan ikililere öncülük ediyor: Trajik ile komik, düş ile gerçek ya da beden ile usun birer yansıması; birbiriyle çatışsa, birbirinden uzaklaşsa da asla kopamayan iki yalnız yabancı, aynı "ben" in iki yarısı.Amaçsız ve anlamsız bir yolculuk için bir araya gelir Mercier ile Camier. Modern karşı kahramanların parçalanmış iç dünyasına yapılacak ürkütücü ve karanlık bir yolculuktur bu. Ama hüzünlendirirken aynı zamanda eğlendirir. Yazarın karşı konulmaz bir sevgiyle yaklaştığı bu iki berduş arasındaki sarsak dayanışma yer yer zorlaşsa da, kaosun yükünü, hep var olan trajikomik iletişim hafifletir. Beckett'ın erdemi, durumun acıklılığına ağıt yakmak değil, kendi kendini alaya alabilmektir. Bu yüzden en karamsar izlekler bile bir karamizah başyapıtına dönüşür Beckett'ta.Beckett, Mercier ile Camier'yi Fransızca olarak yazdı. Yazın dili olarak anadilini kullanmaması modern dünyanın kaçınılmaz hastalığı olan yabancılaşmayı okuyucusuna biçimsel olarak daha evrensel bir düzlemde aktarmasını sağlayacaktı. Sanatçı için her sözcüğün yepyeni bir keşif olduğu zorlu bir yaratıcılık serüveniydi giriştiği.Mercier ile Camier, Beckett'ın çarpıcı yapıtlara imza attığı en üretken döneminin çok önemli bir basamağını oluşturan bir yapıttır.Beckett severlere...&lt;/p&gt;</dc:description>
+    <dc:date>2010-03-07T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0c45b646-4104-4520-ab2e-61306130f6db</dc:identifier>
+    <dc:date opf:event="modification">2015-03-08</dc:date>
+    <meta content="Mercier ile Camier" name="calibre:title_sort"/>
+    <meta content="2015-03-02T09:16:32.441000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Samuel Beckett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  <dc:title>Mercier ile Camier</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a1330aac-9954-4aff-ad3f-d69c6c83c68d</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755392158</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MC_01.htm" id="MC_01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/MC_02.htm" id="MC_02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/MC_03.htm" id="MC_03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/MC_04.htm" id="MC_04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/MC_05.htm" id="MC_05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/MC_06.htm" id="MC_06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/MC_07.htm" id="MC_07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/MC_08.htm" id="MC_08.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/MC_09.htm" id="MC_09.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="MC_01.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="MC_02.htm"/>
+    <itemref idref="MC_03.htm"/>
+    <itemref idref="MC_04.htm"/>
+    <itemref idref="MC_05.htm"/>
+    <itemref idref="MC_06.htm"/>
+    <itemref idref="MC_07.htm"/>
+    <itemref idref="MC_08.htm"/>
+    <itemref idref="MC_09.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="1.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Hasan Öztoprak, Özlem İşbilir">Hasan Öztoprak, Özlem İşbilir</dc:creator>
+<dc:publisher>Kafe Kültür Yayıncılık</dc:publisher>
+    <dc:date>2013-01-07T12:56:37.274000+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">10967540-06f8-4669-8ccd-326ca7a0bd13</dc:identifier>
+    <dc:date opf:event="modification">2014-12-28</dc:date>
+    <dc:description>&lt;p&gt;Çok eski zamanlarda Danyal adında bilgelerin bilgesi bir adam yaşarmış. Bu bilgenin onu her zaman saygı ve hayranlıkla dinleyen, bilgisinden yararlanmak isteyen pek çok öğrencisi ve seveni varmış. Ama gel gör ki, değerli el yazmalarına ve onca kitabına sahip çıkacak, mirasçısı olacak bir çocuğu yokmuş. Derdinden ve üzüntüsünden ne yapacağını bilemeyen bilge, bir evlat sahibi olmak için neyi denediyse de olumlu bir sonuç elde edememiş.
+&lt;/p&gt;</dc:description>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2013-01-07T12:56:37.274000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Anadolu Masalları"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hasan Öztoprak, Özlem İşbilir&quot;: &quot;&quot;}"/>
+  <dc:title>Anadolu Masalları</dc:title>
+<dc:subject>Masal</dc:subject>
+<dc:subject>Çocuk Edebiyatı</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">015ca88b-282d-4e6e-b5eb-bdd3639d4afe</dc:identifier>
+<dc:identifier opf:scheme="ISBN">2789785927839</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/masallar_split_000.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/masallar_split_001.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/masallar_split_002.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/masallar_split_003.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/masallar_split_004.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/masallar_split_005.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/masallar_split_006.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/masallar_split_007.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

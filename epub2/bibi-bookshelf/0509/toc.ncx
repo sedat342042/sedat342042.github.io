@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="80168029-f690-4cd3-82b9-18666cfa2c4c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.39)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ozan Beedle'in Hikayeleri</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Ozan_Beedle%27in_Hikayeleri_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Dipnotlar Üzerine Bir Not</text>
+      </navLabel>
+      <content src="Ozan_Beedle%27in_Hikayeleri_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>1) BÜYÜCÜ VE ZIPLAYAN KAZAN</text>
+      </navLabel>
+      <content src="Ozan_Beedle%27in_Hikayeleri_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>2) İYİ KADER ÇEŞMESİ</text>
+      </navLabel>
+      <content src="Ozan_Beedle%27in_Hikayeleri_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>3) SİHİRBAZIN KILLI KALBİ</text>
+      </navLabel>
+      <content src="Ozan_Beedle%27in_Hikayeleri_split_011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>4) BABBITTY RABBITTY VE KIKIRDAYAN KÜTÜĞÜ</text>
+      </navLabel>
+      <content src="Ozan_Beedle%27in_Hikayeleri_split_013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>5) ÜÇ KARDEŞİN HİKAYESİ</text>
+      </navLabel>
+      <content src="Ozan_Beedle%27in_Hikayeleri_split_016.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

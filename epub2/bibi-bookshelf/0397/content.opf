@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Mürebbiye</dc:title>
+    <dc:language>en</dc:language>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1dcc4fbc-405f-43e9-ac55-a4c4961211eb</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (3.25.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Stefan Zweig</dc:creator>
+    <meta name="calibre:timestamp" content="2018-06-13T11:38:23.260752+00:00"/>
+    <dc:date>2017-04-06T14:12:47+00:00</dc:date>
+  </metadata>
+  <manifest>
+    <item href="index-17_1.png" id="id9" media-type="image/png"/>
+    <item href="index-1_1.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="index-20_1.png" id="id8" media-type="image/png"/>
+    <item href="index-2_1.png" id="id18" media-type="image/png"/>
+    <item href="index-45_1.png" id="id20" media-type="image/png"/>
+    <item href="index-46_1.png" id="id22" media-type="image/png"/>
+    <item href="index-46_2.png" id="id5" media-type="image/png"/>
+    <item href="index-47_1.png" id="id13" media-type="image/png"/>
+    <item href="index-4_1.png" id="id14" media-type="image/png"/>
+    <item href="index-4_2.png" id="id11" media-type="image/png"/>
+    <item href="index-4_3.png" id="id21" media-type="image/png"/>
+    <item href="index-52_1.png" id="id6" media-type="image/png"/>
+    <item href="index-55_1.png" id="id10" media-type="image/png"/>
+    <item href="index-57_1.png" id="id3" media-type="image/png"/>
+    <item href="index-58_1.png" id="id4" media-type="image/png"/>
+    <item href="index-6_1.png" id="id19" media-type="image/png"/>
+    <item href="index-75_1.png" id="id17" media-type="image/png"/>
+    <item href="index-79_1.png" id="id7" media-type="image/png"/>
+    <item href="index-8_1.png" id="id2" media-type="image/png"/>
+    <item href="index-91_1.jpg" id="id16" media-type="image/jpeg"/>
+    <item href="index-9_1.png" id="id15" media-type="image/png"/>
+    <item href="index_split_000.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+  </spine>
+  <guide/>
+</package>

@@ -1,0 +1,128 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Ali, Sabahattin">Sabahattin Ali</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:07b893e0-26e4-4658-a285-5f677471041b</dc:identifier>
+    <dc:date>2004-10-24T21:00:00+00:00</dc:date>
+    <dc:description>Sabahattin Ali'nin, kızı Filiz ve eşi Aliye Ali tarafından uzun yıllar titizlikle korunan sandığındaki evraklar arasından Nüket Esen, Zeynep Uysal, Engin Kılıç ve Olcay Akyıldız'ın derlediği hikâye, şiir ve makaleleri ilk kez günışığına çıkıyor. Kitapta yer alan hikâye ve şiirler, hikâye, roman ve şiirlerinde tanımlamakta güçlük çektiğimiz kimi duyguları ustalıkla anlatan, insanın zavallılığı ve gücünü aynı sarsılmaz üslup ve gerçekçi bir yaklaşımla aktaran Sabahattin Ali'nin bu ustalığa ulaşırken geçirdiği aşamaları örneklemesi; makaleleri ise Sabahattin Ali'nin siyasal görüş ve mücadelesini yansıtması bakımından son derece önemli "belge"ler niteliğinde. Kitapta, "Çakıcı'nın İlk Kurşunu" adlı uzun hikâyenin yanı sıra üç hikâye (O Arkadaşım, Bir Hakitatin Hikâyesi, Barsak); onbir şiir ( İsimsiz, Bir Serenadın Sonu, Kurbağaname, Kurbağaya Mersiye, İsimsiz, Oyuncak, Merhuma Mersiye, Simyager, Sokakta Kalan Adam, İsimsiz); "Kağnı" adlı hikâyenin opera metni; yazmayı planladığı hikâye ve romanların listesi; sekiz makale (Kadınlar Üzerine Bir Konferans, Türkiye Hapishaneleri, Emperyalistin tarifi, Bu Memleketi Kurtarmak İçin, Milliyetçinin Tarifi, Hürriyet Meselesi, Asıl Büyük Tehlike Bugünkü Ehliyetsiz İktidarın Devamıdır)... ve Sabahattin Ali'nin kaleminden sekiz desen ile şiirlerin, kendi elyazısıyla eski Türkçe orijinalleri yer alıyor.</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="26.9.14" name="Nakkal"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+  <dc:title>Çakıcı'nın İlk kurşunu (Tereke)</dc:title>
+<meta name="calibre:title_sort" content="Çakıcı'nın İlk kurşunu (Tereke)"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Öykü</dc:subject>
+<dc:subject>Deneme</dc:subject>
+<dc:subject>Derleme</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Sabahattin Ali&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">3779b716-ddab-4d59-bdad-a8154165e3ee</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750803505</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/still.css" id="still.css" media-type="text/css"/>
+    <item href="Text/yayinevibilgi.xhtml" id="yayinevibilgi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/d06.xhtml" id="d06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/hikayeler.xhtml" id="hikayeler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/h01.xhtml" id="h01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/h02.xhtml" id="h02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/h03.xhtml" id="h03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/h04.xhtml" id="h04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/h05.xhtml" id="h05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/siirler.xhtml" id="siirler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s02.xhtml" id="s02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s03.xhtml" id="s03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s04.xhtml" id="s04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s06.xhtml" id="s06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s08.xhtml" id="s08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s09.xhtml" id="s09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s10.xhtml" id="s10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s12.xhtml" id="s12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/operaolarak.xhtml" id="operaolarak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s01.xhtml" id="s01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s05.xhtml" id="s05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s07.xhtml" id="s07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/s11.xhtml" id="s11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/liste.xhtml" id="liste.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazilar.xhtml" id="yazilar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/y01.xhtml" id="y01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/y02.xhtml" id="y02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/y03.xhtml" id="y03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/y04.xhtml" id="y04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/y05.xhtml" id="y05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/y06.xhtml" id="y06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/y08.xhtml" id="y08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/desenler.xhtml" id="desenler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/y07.xhtml" id="y07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/d01.xhtml" id="d01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/d02.xhtml" id="d02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/d03.xhtml" id="d03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/d04.xhtml" id="d04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/d05.xhtml" id="d05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/desen1.jpg" id="desen1.jpg" media-type="image/jpeg"/>
+    <item href="Images/desen2.jpg" id="desen2.jpg" media-type="image/jpeg"/>
+    <item href="Images/desen3.jpg" id="desen3.jpg" media-type="image/jpeg"/>
+    <item href="Images/desen4.jpg" id="desen4.jpg" media-type="image/jpeg"/>
+    <item href="Images/desen5.jpg" id="desen5.jpg" media-type="image/jpeg"/>
+    <item href="Images/desen6.jpg" id="desen6.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="yayinevibilgi.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="hikayeler.xhtml"/>
+    <itemref idref="h01.xhtml"/>
+    <itemref idref="h02.xhtml"/>
+    <itemref idref="h03.xhtml"/>
+    <itemref idref="h04.xhtml"/>
+    <itemref idref="h05.xhtml"/>
+    <itemref idref="siirler.xhtml"/>
+    <itemref idref="s01.xhtml"/>
+    <itemref idref="s02.xhtml"/>
+    <itemref idref="s03.xhtml"/>
+    <itemref idref="s04.xhtml"/>
+    <itemref idref="s05.xhtml"/>
+    <itemref idref="s06.xhtml"/>
+    <itemref idref="s07.xhtml"/>
+    <itemref idref="s08.xhtml"/>
+    <itemref idref="s09.xhtml"/>
+    <itemref idref="s10.xhtml"/>
+    <itemref idref="s11.xhtml"/>
+    <itemref idref="s12.xhtml"/>
+    <itemref idref="operaolarak.xhtml"/>
+    <itemref idref="liste.xhtml"/>
+    <itemref idref="yazilar.xhtml"/>
+    <itemref idref="y01.xhtml"/>
+    <itemref idref="y02.xhtml"/>
+    <itemref idref="y03.xhtml"/>
+    <itemref idref="y04.xhtml"/>
+    <itemref idref="y05.xhtml"/>
+    <itemref idref="y06.xhtml"/>
+    <itemref idref="y07.xhtml"/>
+    <itemref idref="y08.xhtml"/>
+    <itemref idref="desenler.xhtml"/>
+    <itemref idref="d01.xhtml"/>
+    <itemref idref="d02.xhtml"/>
+    <itemref idref="d03.xhtml"/>
+    <itemref idref="d04.xhtml"/>
+    <itemref idref="d05.xhtml"/>
+    <itemref idref="d06.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

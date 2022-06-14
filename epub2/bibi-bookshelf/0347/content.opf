@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:publisher>Can</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <dc:creator opf:file-as="Modiano, Patrick" opf:role="aut">Patrick Modiano</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:title>Yıkıntı Çiçekleri</dc:title>
+    <dc:language>tr</dc:language>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1f9e3455-786a-48e2-805d-d8228972b7a0</dc:identifier>
+    <dc:identifier opf:scheme="calibre">1f9e3455-786a-48e2-805d-d8228972b7a0</dc:identifier>
+    <meta name="calibre:title_sort" content="Yıkıntı Çiçekleri"/>
+    <meta name="calibre:timestamp" content="2016-01-16T14:58:10.569000+00:00"/>
+    <dc:contributor opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Can Yayınları, çağdaş roman cangılında keşiflerini sürdürüyor: Türkiye'de ilk kez yayımlanan Patrick Modiano (1945) son dönem Fransız romancılığının en büyük adlarından biri. Yıkıntı Çiçekleri adlı bu romanında Modiano, kendi doğumundan on iki yıl öncesinin gizemli bir olayından yola çıkıyor : Çok düzenli, çok sakin, 'mazbut' yaşamları olan bir genç çift, bir gece rastlantı sonucu tanıdıkları iki çiftle, komşularını şaşırtacak ölçüde şamata yaparak eğlendikten sonra, sabaha karşı intihar ederler. Modiano, kolektif belleğin labirentlerinde yitmiş bir dedektif gibi, bu çiftin son gecesini yeniden kurmaya çalışır; artık eskisi gibi olmayan, taparcasına sevdiği Paris'te dolaşır ve genç çiftin intihar nedenini araştırırken sanki kendi geçmişini, kendi kimliğini de araştırmaktadır; bir süre sonra gerçek, yapıntıya (fiction), imgelem de, anılara karışır. Kimlik araştırması, elbette, insanın kendi geçmişiyle hesaplaşmasıdır ve sonucu önceden kestiremezsiniz. Öyle bir an gelir ki, romandan romana kendi derisini biraz daha soyan Modiano'nun neşterinin soğuk ve keskin çeliğini kendi derinizde duyumsarsınız; bir oda müziği dinlediğinizi sanırken derin bir gerçeğin senfonisiyle karşılaşırsınız. Sarsıcı, sersemletici, yürek buran, ama lirik bir roman Yıkıntı Çiçekleri.&lt;/span&gt;&lt;/font&gt;</dc:description>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

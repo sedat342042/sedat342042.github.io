@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="a24629d0-6821-43fb-b300-18bf3d1eea00" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (3.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kralların Çarpışması</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="index_split_000.html#p2"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="index_split_000.html#p4"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Arya</text>
+      </navLabel>
+      <content src="index_split_000.html#p30"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Sansa</text>
+      </navLabel>
+      <content src="index_split_000.html#p37"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_000.html#p50"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Bran</text>
+      </navLabel>
+      <content src="index_split_001.html#p66"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Arya</text>
+      </navLabel>
+      <content src="index_split_001.html#p76"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Jon</text>
+      </navLabel>
+      <content src="index_split_001.html#p87"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Catelyn</text>
+      </navLabel>
+      <content src="index_split_001.html#p100"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_001.html#p113"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Arya</text>
+      </navLabel>
+      <content src="index_split_002.html#p126"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Davos</text>
+      </navLabel>
+      <content src="index_split_002.html#p134"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Theon</text>
+      </navLabel>
+      <content src="index_split_002.html#p150"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Daenerys</text>
+      </navLabel>
+      <content src="index_split_002.html#p172"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Jon</text>
+      </navLabel>
+      <content src="index_split_003.html#p187"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Arya</text>
+      </navLabel>
+      <content src="index_split_003.html#p194"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_003.html#p209"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Bran</text>
+      </navLabel>
+      <content src="index_split_003.html#p222"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_004.html#p238"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Sansa</text>
+      </navLabel>
+      <content src="index_split_004.html#p254"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Arya</text>
+      </navLabel>
+      <content src="index_split_004.html#p263"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_004.html#p279"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Bran</text>
+      </navLabel>
+      <content src="index_split_005.html#p293"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Catelyn</text>
+      </navLabel>
+      <content src="index_split_005.html#p303"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Jon</text>
+      </navLabel>
+      <content src="index_split_005.html#p321"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Theon</text>
+      </navLabel>
+      <content src="index_split_006.html#p342"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_006.html#p360"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Arya</text>
+      </navLabel>
+      <content src="index_split_006.html#p375"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>Daenerys</text>
+      </navLabel>
+      <content src="index_split_006.html#p382"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>Bran</text>
+      </navLabel>
+      <content src="index_split_006.html#p392"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_007.html#p402"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Arya</text>
+      </navLabel>
+      <content src="index_split_007.html#p411"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>Catelyn</text>
+      </navLabel>
+      <content src="index_split_007.html#p424"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>Sansa</text>
+      </navLabel>
+      <content src="index_split_007.html#p438"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>Catelyn</text>
+      </navLabel>
+      <content src="index_split_007.html#p447"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>Jon</text>
+      </navLabel>
+      <content src="index_split_008.html#p457"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>Bran</text>
+      </navLabel>
+      <content src="index_split_008.html#p467"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_008.html#p475"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>Theon</text>
+      </navLabel>
+      <content src="index_split_008.html#p484"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>Arya</text>
+      </navLabel>
+      <content src="index_split_008.html#p493"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>Catelyn</text>
+      </navLabel>
+      <content src="index_split_008.html#p502"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>Daenerys</text>
+      </navLabel>
+      <content src="index_split_009.html#p518"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="43">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_009.html#p530"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="44">
+      <navLabel>
+        <text>Davos</text>
+      </navLabel>
+      <content src="index_split_009.html#p545"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="45">
+      <navLabel>
+        <text>Jon</text>
+      </navLabel>
+      <content src="index_split_009.html#p564"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_010.html#p573"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>Catelyn</text>
+      </navLabel>
+      <content src="index_split_010.html#p587"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>Bran</text>
+      </navLabel>
+      <content src="index_split_010.html#p599"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>Arya</text>
+      </navLabel>
+      <content src="index_split_010.html#p609"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="50">
+      <navLabel>
+        <text>Daenerys</text>
+      </navLabel>
+      <content src="index_split_011.html#p627"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_51" playOrder="51">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_011.html#p638"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="52">
+      <navLabel>
+        <text>Theon</text>
+      </navLabel>
+      <content src="index_split_011.html#p648"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_53" playOrder="53">
+      <navLabel>
+        <text>Jon</text>
+      </navLabel>
+      <content src="index_split_011.html#p663"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>Sansa</text>
+      </navLabel>
+      <content src="index_split_011.html#p676"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_55" playOrder="55">
+      <navLabel>
+        <text>Jon</text>
+      </navLabel>
+      <content src="index_split_012.html#p687"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_56" playOrder="56">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_012.html#p696"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_57" playOrder="57">
+      <navLabel>
+        <text>Catelyn</text>
+      </navLabel>
+      <content src="index_split_012.html#p706"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_58" playOrder="58">
+      <navLabel>
+        <text>Theon</text>
+      </navLabel>
+      <content src="index_split_012.html#p722"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_59" playOrder="59">
+      <navLabel>
+        <text>Sansa</text>
+      </navLabel>
+      <content src="index_split_012.html#p732"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_60" playOrder="60">
+      <navLabel>
+        <text>Davos</text>
+      </navLabel>
+      <content src="index_split_013.html#p740"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_61" playOrder="61">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_013.html#p756"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_62" playOrder="62">
+      <navLabel>
+        <text>Sansa</text>
+      </navLabel>
+      <content src="index_split_013.html#p762"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_63" playOrder="63">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_013.html#p769"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_64" playOrder="64">
+      <navLabel>
+        <text>Sansa</text>
+      </navLabel>
+      <content src="index_split_013.html#p777"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_65" playOrder="65">
+      <navLabel>
+        <text>Daenerys</text>
+      </navLabel>
+      <content src="index_split_013.html#p785"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_66" playOrder="66">
+      <navLabel>
+        <text>Arya</text>
+      </navLabel>
+      <content src="index_split_013.html#p798"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_67" playOrder="67">
+      <navLabel>
+        <text>Sansa</text>
+      </navLabel>
+      <content src="index_split_014.html#p815"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_68" playOrder="68">
+      <navLabel>
+        <text>Theon</text>
+      </navLabel>
+      <content src="index_split_014.html#p825"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_69" playOrder="69">
+      <navLabel>
+        <text>Tyrion</text>
+      </navLabel>
+      <content src="index_split_014.html#p838"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_70" playOrder="70">
+      <navLabel>
+        <text>Jon</text>
+      </navLabel>
+      <content src="index_split_014.html#p848"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_71" playOrder="71">
+      <navLabel>
+        <text>Bran</text>
+      </navLabel>
+      <content src="index_split_014.html#p860"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_72" playOrder="72">
+      <navLabel>
+        <text>Ekler</text>
+      </navLabel>
+      <content src="index_split_014.html#p872"/>
+      <navPoint class="chapter" id="num_73" playOrder="73">
+        <navLabel>
+          <text>Krallar ve Maiyetleri</text>
+        </navLabel>
+        <content src="index_split_014.html#p873"/>
+        <navPoint class="chapter" id="num_74" playOrder="74">
+          <navLabel>
+            <text>Demir Taht’taki Kral</text>
+          </navLabel>
+          <content src="index_split_014.html#p874"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_75" playOrder="75">
+          <navLabel>
+            <text>Dar Deniz’deki Kral</text>
+          </navLabel>
+          <content src="index_split_014.html#p877"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_76" playOrder="76">
+          <navLabel>
+            <text>Yüksek Bahçe’deki Kral</text>
+          </navLabel>
+          <content src="index_split_014.html#p879"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_77" playOrder="77">
+          <navLabel>
+            <text>Kuzey’deki Kral</text>
+          </navLabel>
+          <content src="index_split_014.html#p881"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_78" playOrder="78">
+          <navLabel>
+            <text>Denizin Karşısındaki Kraliçe</text>
+          </navLabel>
+          <content src="index_split_014.html#p886"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_79" playOrder="79">
+        <navLabel>
+          <text>Büyük ve Küçük Diğer Hanedanlar</text>
+        </navLabel>
+        <content src="index_split_014.html#p888"/>
+        <navPoint class="chapter" id="num_80" playOrder="80">
+          <navLabel>
+            <text>Arryn Hanedanı</text>
+          </navLabel>
+          <content src="index_split_014.html#p889"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_81" playOrder="81">
+          <navLabel>
+            <text>Florent Hanedanı</text>
+          </navLabel>
+          <content src="index_split_014.html#p891"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_82" playOrder="82">
+          <navLabel>
+            <text>Frey Hanedanı</text>
+          </navLabel>
+          <content src="index_split_014.html#p892"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_83" playOrder="83">
+          <navLabel>
+            <text>Greyjoy Hanedanı</text>
+          </navLabel>
+          <content src="index_split_014.html#p897"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_84" playOrder="84">
+          <navLabel>
+            <text>Lannister Hanedanı</text>
+          </navLabel>
+          <content src="index_split_014.html#p899"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_85" playOrder="85">
+          <navLabel>
+            <text>Martell Hanedanı</text>
+          </navLabel>
+          <content src="index_split_014.html#p901"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_86" playOrder="86">
+          <navLabel>
+            <text>Tyrell Hanedanı</text>
+          </navLabel>
+          <content src="index_split_014.html#p902"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_87" playOrder="87">
+        <navLabel>
+          <text>Gece Nöbetçileri</text>
+        </navLabel>
+        <content src="index_split_014.html#p904"/>
+        <navPoint class="chapter" id="num_88" playOrder="88">
+          <navLabel>
+            <text>Gece Nöbetçilerinin Adamları</text>
+          </navLabel>
+          <content src="index_split_014.html#p905"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_89" playOrder="89">
+      <navLabel>
+        <text>Haritalar</text>
+      </navLabel>
+      <content src="index_split_014.html#p907"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Anonim" opf:role="aut">Anonim</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">517d5344-8a7d-4b34-89a4-73841b84baf6</dc:identifier>
+    <dc:date opf:event="">2013-10-16</dc:date>
+    <dc:date opf:event="modification">2014-02-18</dc:date>
+    <dc:date>1992-09-30T21:00:00+00:00</dc:date>
+    <dc:publisher>AFA Yayınları</dc:publisher>
+    <dc:contributor opf:role="trl">Alim Şerif Onaran</dc:contributor>
+    <dc:type>Masal</dc:type>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="_image001.jpg" />
+    <meta content="Binbir Gece Masalları - Cilt 6" name="calibre:title_sort" />
+    <meta content="Binbir Gece Masalları" name="calibre:series" />
+    <meta content="6.0" name="calibre:series_index" />
+    <meta content="8.0" name="calibre:rating" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Anonim&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:description>&lt;p&gt;Yüzlerce yıl boyunca, Çin'den Kuzey Afrika'ya uzanan ve Çin, Çin Hindi, Hindistan, İran, Irak, Türkiye, Suriye ve Mısır'ı kapsayan bir alanda anlatılan Binbir Gece Masalları, ilk kez Antoine Galland tarafından düzenlenip Fransızcaya çevrilerek (1704-17, 12 cilt) dünyaya tanıtıldı. Bugüne kadar bellibaşlı bütün dillere çevrilen bu masallar, Galland'dan çok daha öncesinden başlayarak, edebiyattan müziğe, sinemadan baleye kadar bütün alanlarda pek çok sanatçıyı derinliğine etkiledi, defalarca işlendi, yeniden yorumlandı, taklit edildi. Binbir Gece Masalları, sadece insanların düşgücünü ateşlemekle kalmadı; bilinen en eski örneğini oluşturduğu "çerçeve öykü" tekniğiyle de, hem geçmişte hem de günümüzde, dünya edebiyatını en çok etkileyen kitapların başındaki yerini korudu. Alim Şerif Onaran (1921-2000), Binbir Gece Masalları'nı ilk kez tam metin halinde dilimize kazandırdı.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.21.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>Binbir Gece Masalları - Cilt 6</dc:title>
+    <dc:subject>Masal</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d0b64e20-9256-4a62-b4ad-b2a791e5c179</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750808586</dc:identifier>
+    <dc:identifier opf:scheme="UUID">517d5344-8a7d-4b34-89a4-73841b84baf6</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml" />
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml" />
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml" />
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml" />
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml" />
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml" />
+    <item href="Text/chapter7.xhtml" id="text8" media-type="application/xhtml+xml" />
+    <item href="Text/chapter8.xhtml" id="text9" media-type="application/xhtml+xml" />
+    <item href="Text/chapter9.xhtml" id="text10" media-type="application/xhtml+xml" />
+    <item href="Text/chapter10.xhtml" id="text11" media-type="application/xhtml+xml" />
+    <item href="Text/chapter11.xhtml" id="text12" media-type="application/xhtml+xml" />
+    <item href="Text/chapter12.xhtml" id="text13" media-type="application/xhtml+xml" />
+    <item href="Text/chapter13.xhtml" id="text14" media-type="application/xhtml+xml" />
+    <item href="Text/chapter14.xhtml" id="text15" media-type="application/xhtml+xml" />
+    <item href="Text/chapter15.xhtml" id="text16" media-type="application/xhtml+xml" />
+    <item href="Text/chapter16.xhtml" id="text17" media-type="application/xhtml+xml" />
+    <item href="Text/chapter17.xhtml" id="text18" media-type="application/xhtml+xml" />
+    <item href="Text/chapter18.xhtml" id="text19" media-type="application/xhtml+xml" />
+    <item href="Text/chapter19.xhtml" id="text20" media-type="application/xhtml+xml" />
+    <item href="Text/chapter20.xhtml" id="text21" media-type="application/xhtml+xml" />
+    <item href="Text/chapter21.xhtml" id="text22" media-type="application/xhtml+xml" />
+    <item href="Text/chapter22.xhtml" id="text23" media-type="application/xhtml+xml" />
+    <item href="Text/chapter23.xhtml" id="text24" media-type="application/xhtml+xml" />
+    <item href="Text/chapter24.xhtml" id="text25" media-type="application/xhtml+xml" />
+    <item href="Text/chapter25.xhtml" id="text26" media-type="application/xhtml+xml" />
+    <item href="Text/chapter26.xhtml" id="text27" media-type="application/xhtml+xml" />
+    <item href="Text/chapter27.xhtml" id="text28" media-type="application/xhtml+xml" />
+    <item href="Text/chapter28.xhtml" id="text29" media-type="application/xhtml+xml" />
+    <item href="Text/chapter29.xhtml" id="text30" media-type="application/xhtml+xml" />
+    <item href="Text/chapter30.xhtml" id="text31" media-type="application/xhtml+xml" />
+    <item href="Text/chapter31.xhtml" id="text32" media-type="application/xhtml+xml" />
+    <item href="Text/chapter32.xhtml" id="text33" media-type="application/xhtml+xml" />
+    <item href="Text/chapter33.xhtml" id="text34" media-type="application/xhtml+xml" />
+    <item href="Text/chapter34.xhtml" id="text35" media-type="application/xhtml+xml" />
+    <item href="Text/chapter35.xhtml" id="text36" media-type="application/xhtml+xml" />
+    <item href="Text/chapter36.xhtml" id="text37" media-type="application/xhtml+xml" />
+    <item href="Text/chapter37.xhtml" id="text38" media-type="application/xhtml+xml" />
+    <item href="Text/chapter38.xhtml" id="text39" media-type="application/xhtml+xml" />
+    <item href="Text/chapter39.xhtml" id="text40" media-type="application/xhtml+xml" />
+    <item href="Text/chapter40.xhtml" id="text41" media-type="application/xhtml+xml" />
+    <item href="Text/chapter41.xhtml" id="text42" media-type="application/xhtml+xml" />
+    <item href="Text/chapter42.xhtml" id="text43" media-type="application/xhtml+xml" />
+    <item href="Text/chapter43.xhtml" id="text44" media-type="application/xhtml+xml" />
+    <item href="Text/chapter44.xhtml" id="text45" media-type="application/xhtml+xml" />
+    <item href="Text/chapter45.xhtml" id="text46" media-type="application/xhtml+xml" />
+    <item href="Text/chapter46.xhtml" id="text47" media-type="application/xhtml+xml" />
+    <item href="Text/chapter47.xhtml" id="text48" media-type="application/xhtml+xml" />
+    <item href="Text/chapter48.xhtml" id="text49" media-type="application/xhtml+xml" />
+    <item href="Text/chapter49.xhtml" id="text50" media-type="application/xhtml+xml" />
+    <item href="Text/chapter50.xhtml" id="text51" media-type="application/xhtml+xml" />
+    <item href="Text/chapter51.xhtml" id="text52" media-type="application/xhtml+xml" />
+    <item href="Text/chapter52.xhtml" id="text53" media-type="application/xhtml+xml" />
+    <item href="Text/chapter53.xhtml" id="text54" media-type="application/xhtml+xml" />
+    <item href="Text/chapter54.xhtml" id="text55" media-type="application/xhtml+xml" />
+    <item href="Text/chapter55.xhtml" id="text56" media-type="application/xhtml+xml" />
+    <item href="Text/chapter56.xhtml" id="text57" media-type="application/xhtml+xml" />
+    <item href="Text/chapter57.xhtml" id="text58" media-type="application/xhtml+xml" />
+    <item href="Text/chapter58.xhtml" id="text59" media-type="application/xhtml+xml" />
+    <item href="Text/chapter59.xhtml" id="text60" media-type="application/xhtml+xml" />
+    <item href="Text/chapter60.xhtml" id="text61" media-type="application/xhtml+xml" />
+    <item href="Text/chapter61.xhtml" id="text62" media-type="application/xhtml+xml" />
+    <item href="Text/chapter62.xhtml" id="text63" media-type="application/xhtml+xml" />
+    <item href="Text/chapter63.xhtml" id="text64" media-type="application/xhtml+xml" />
+    <item href="Text/chapter64.xhtml" id="text65" media-type="application/xhtml+xml" />
+    <item href="Text/chapter65.xhtml" id="text66" media-type="application/xhtml+xml" />
+    <item href="Text/chapter66.xhtml" id="text67" media-type="application/xhtml+xml" />
+    <item href="Text/chapter67.xhtml" id="text68" media-type="application/xhtml+xml" />
+    <item href="Text/chapter68.xhtml" id="text69" media-type="application/xhtml+xml" />
+    <item href="Text/chapter69.xhtml" id="text70" media-type="application/xhtml+xml" />
+    <item href="Text/chapter70.xhtml" id="text71" media-type="application/xhtml+xml" />
+    <item href="Text/chapter71.xhtml" id="text72" media-type="application/xhtml+xml" />
+    <item href="Text/chapter72.xhtml" id="text73" media-type="application/xhtml+xml" />
+    <item href="Text/chapter73.xhtml" id="text74" media-type="application/xhtml+xml" />
+    <item href="Text/chapter74.xhtml" id="text75" media-type="application/xhtml+xml" />
+    <item href="Text/chapter75.xhtml" id="text76" media-type="application/xhtml+xml" />
+    <item href="Text/chapter76.xhtml" id="text77" media-type="application/xhtml+xml" />
+    <item href="Text/chapter77.xhtml" id="text78" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/styles1.css" id="resource57" media-type="text/css" />
+    <item href="Images/_image001.jpg" id="_image001.jpg" media-type="image/jpeg" />
+    <item href="Images/Binbir_Gece_Masallari_Arapca_Isim.png" id="Binbir_Gece_Masallari_Arapca_Isim.png" media-type="image/png" />
+    <item href="Images/image002.png" id="image002.png" media-type="image/png" />
+    <item href="Images/image003.jpg" id="image003.jpg" media-type="image/jpeg" />
+    <item href="Images/image004.jpg" id="image004.jpg" media-type="image/jpeg" />
+    <item href="Images/image005.jpg" id="image005.jpg" media-type="image/jpeg" />
+    <item href="Images/image006.jpg" id="image006.jpg" media-type="image/jpeg" />
+    <item href="Images/image007.jpg" id="image007.jpg" media-type="image/jpeg" />
+    <item href="Images/image008.jpg" id="image008.jpg" media-type="image/jpeg" />
+    <item href="Images/image009.jpg" id="image009.jpg" media-type="image/jpeg" />
+    <item href="Images/image010.jpg" id="image010.jpg" media-type="image/jpeg" />
+    <item href="Images/image011.jpg" id="image011.jpg" media-type="image/jpeg" />
+    <item href="Images/image012.jpg" id="image012.jpg" media-type="image/jpeg" />
+    <item href="Images/image013.jpg" id="image013.jpg" media-type="image/jpeg" />
+    <item href="Images/image014.jpg" id="image014.jpg" media-type="image/jpeg" />
+    <item href="Images/image015.jpg" id="image015.jpg" media-type="image/jpeg" />
+    <item href="Images/image016.jpg" id="image016.jpg" media-type="image/jpeg" />
+    <item href="Images/image017.jpg" id="image017.jpg" media-type="image/jpeg" />
+    <item href="Images/image018.jpg" id="image018.jpg" media-type="image/jpeg" />
+    <item href="Images/image019.jpg" id="image019.jpg" media-type="image/jpeg" />
+    <item href="Images/image020.jpg" id="image020.jpg" media-type="image/jpeg" />
+    <item href="Images/image021.jpg" id="image021.jpg" media-type="image/jpeg" />
+    <item href="Images/image022.jpg" id="image022.jpg" media-type="image/jpeg" />
+    <item href="Images/image023.jpg" id="image023.jpg" media-type="image/jpeg" />
+    <item href="Images/image024.jpg" id="image024.jpg" media-type="image/jpeg" />
+    <item href="Images/image025.jpg" id="image025.jpg" media-type="image/jpeg" />
+    <item href="Images/image026.jpg" id="image026.jpg" media-type="image/jpeg" />
+    <item href="Images/image027.jpg" id="image027.jpg" media-type="image/jpeg" />
+    <item href="Images/image028.jpg" id="image028.jpg" media-type="image/jpeg" />
+    <item href="Images/image029.jpg" id="image029.jpg" media-type="image/jpeg" />
+    <item href="Images/image030.jpg" id="image030.jpg" media-type="image/jpeg" />
+    <item href="Images/image031.jpg" id="image031.jpg" media-type="image/jpeg" />
+    <item href="Images/image032.jpg" id="image032.jpg" media-type="image/jpeg" />
+    <item href="Images/image033.jpg" id="image033.jpg" media-type="image/jpeg" />
+    <item href="Images/image034.jpg" id="image034.jpg" media-type="image/jpeg" />
+    <item href="Images/image035.jpg" id="image035.jpg" media-type="image/jpeg" />
+    <item href="Images/image036.jpg" id="image036.jpg" media-type="image/jpeg" />
+    <item href="Images/image037.jpg" id="image037.jpg" media-type="image/jpeg" />
+    <item href="Images/image038.jpg" id="image038.jpg" media-type="image/jpeg" />
+    <item href="Images/image039.jpg" id="image039.jpg" media-type="image/jpeg" />
+    <item href="Images/image040.jpg" id="image040.jpg" media-type="image/jpeg" />
+    <item href="Images/image041.jpg" id="image041.jpg" media-type="image/jpeg" />
+    <item href="Images/image042.jpg" id="image042.jpg" media-type="image/jpeg" />
+    <item href="Images/image043.jpg" id="image043.jpg" media-type="image/jpeg" />
+    <item href="Images/image044.jpg" id="image044.jpg" media-type="image/jpeg" />
+    <item href="Images/image045.jpg" id="image045.jpg" media-type="image/jpeg" />
+    <item href="Images/image046.jpg" id="image046.jpg" media-type="image/jpeg" />
+    <item href="Images/image047.jpg" id="image047.jpg" media-type="image/jpeg" />
+    <item href="Images/image048.jpg" id="image048.jpg" media-type="image/jpeg" />
+    <item href="Images/image049.jpg" id="image049.jpg" media-type="image/jpeg" />
+    <item href="Images/image050.jpg" id="image050.jpg" media-type="image/jpeg" />
+    <item href="Images/image051.jpg" id="image051.jpg" media-type="image/jpeg" />
+    <item href="Images/image052.jpg" id="image052.jpg" media-type="image/jpeg" />
+    <item href="Images/image053.jpg" id="image053.jpg" media-type="image/jpeg" />
+    <item href="Images/image054.jpg" id="image054.jpg" media-type="image/jpeg" />
+    <item href="Images/image055.jpg" id="image055.jpg" media-type="image/jpeg" />
+    <item href="Images/image056.jpg" id="image056.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="text2" />
+    <itemref idref="text3" />
+    <itemref idref="text4" />
+    <itemref idref="text5" />
+    <itemref idref="text6" />
+    <itemref idref="text7" />
+    <itemref idref="text8" />
+    <itemref idref="text9" />
+    <itemref idref="text10" />
+    <itemref idref="text11" />
+    <itemref idref="text12" />
+    <itemref idref="text13" />
+    <itemref idref="text14" />
+    <itemref idref="text15" />
+    <itemref idref="text16" />
+    <itemref idref="text17" />
+    <itemref idref="text18" />
+    <itemref idref="text19" />
+    <itemref idref="text20" />
+    <itemref idref="text21" />
+    <itemref idref="text22" />
+    <itemref idref="text23" />
+    <itemref idref="text24" />
+    <itemref idref="text25" />
+    <itemref idref="text26" />
+    <itemref idref="text27" />
+    <itemref idref="text28" />
+    <itemref idref="text29" />
+    <itemref idref="text30" />
+    <itemref idref="text31" />
+    <itemref idref="text32" />
+    <itemref idref="text33" />
+    <itemref idref="text34" />
+    <itemref idref="text35" />
+    <itemref idref="text36" />
+    <itemref idref="text37" />
+    <itemref idref="text38" />
+    <itemref idref="text39" />
+    <itemref idref="text40" />
+    <itemref idref="text41" />
+    <itemref idref="text42" />
+    <itemref idref="text43" />
+    <itemref idref="text44" />
+    <itemref idref="text45" />
+    <itemref idref="text46" />
+    <itemref idref="text47" />
+    <itemref idref="text48" />
+    <itemref idref="text49" />
+    <itemref idref="text50" />
+    <itemref idref="text51" />
+    <itemref idref="text52" />
+    <itemref idref="text53" />
+    <itemref idref="text54" />
+    <itemref idref="text55" />
+    <itemref idref="text56" />
+    <itemref idref="text57" />
+    <itemref idref="text58" />
+    <itemref idref="text59" />
+    <itemref idref="text60" />
+    <itemref idref="text61" />
+    <itemref idref="text62" />
+    <itemref idref="text63" />
+    <itemref idref="text64" />
+    <itemref idref="text65" />
+    <itemref idref="text66" />
+    <itemref idref="text67" />
+    <itemref idref="text68" />
+    <itemref idref="text69" />
+    <itemref idref="text70" />
+    <itemref idref="text71" />
+    <itemref idref="text72" />
+    <itemref idref="text73" />
+    <itemref idref="text74" />
+    <itemref idref="text75" />
+    <itemref idref="text76" />
+    <itemref idref="text77" />
+    <itemref idref="text78" />
+  </spine>
+  <guide>
+    <reference href="Text/chapter3.xhtml" title="Text" type="text" />
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

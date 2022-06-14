@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{F1FB39DF-C113-4319-B4E3-EFC6F1C37E9D}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Samuel Taylor Coleridge - Yaşlı Gemici</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Yaşlı Gemici</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Samuel Taylor Coleridge</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Yaşlı Gemici</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>PART THE FIRST</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>PART THE SECOND</text>
+        </navLabel>
+        <content src="Text/Section0021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>PART THE THİRD</text>
+        </navLabel>
+        <content src="Text/Section0029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>PART THE FOURTH</text>
+        </navLabel>
+        <content src="Text/Section0037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>DÖRDÜNCÜ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>PART THE FIFTH</text>
+        </navLabel>
+        <content src="Text/Section0047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>BEŞİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>PART THE SIXTH</text>
+        </navLabel>
+        <content src="Text/Section0059.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>ALTINCI BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0060.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>PART THE SEVENTH</text>
+        </navLabel>
+        <content src="Text/Section0069.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>YEDİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0070.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

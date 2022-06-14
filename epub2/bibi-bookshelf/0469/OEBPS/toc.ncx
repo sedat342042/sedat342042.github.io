@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{145B0F25-6B21-4641-8ECE-3B9D723D8F09}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kralların Yolu - Brandon Sanderson (Fırtınaışığı Arşivi 1.Cilt)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>TEŞEKKÜRLER</text>
+      </navLabel>
+      <content src="Text/tesekkur.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>FIRTINAIŞIĞI ARŞİVİ</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BİRİNCİ CİLT</text>
+      </navLabel>
+      <content src="Text/cilt01.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>GİRİŞ</text>
+        </navLabel>
+        <content src="Text/giris.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>BİRİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/arakapak01.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>BÖLÜM-001</text>
+        </navLabel>
+        <content src="Text/B-001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>BÖLÜM-002</text>
+        </navLabel>
+        <content src="Text/B-002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>BÖLÜM-003</text>
+        </navLabel>
+        <content src="Text/B-003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>BÖLÜM-004</text>
+        </navLabel>
+        <content src="Text/B-004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>BÖLÜM-005</text>
+        </navLabel>
+        <content src="Text/B-005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>BÖLÜM-006</text>
+        </navLabel>
+        <content src="Text/B-006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>BÖLÜM-007</text>
+        </navLabel>
+        <content src="Text/B-007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>BÖLÜM-008</text>
+        </navLabel>
+        <content src="Text/B-008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>BÖLÜM-009</text>
+        </navLabel>
+        <content src="Text/B-009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>BÖLÜM-010</text>
+        </navLabel>
+        <content src="Text/B-010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>BÖLÜM-011</text>
+        </navLabel>
+        <content src="Text/B-011.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>ARA SÖZ</text>
+      </navLabel>
+      <content src="Text/arasoz01.xhtml"/>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>A-001</text>
+        </navLabel>
+        <content src="Text/A-001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>A-002</text>
+        </navLabel>
+        <content src="Text/A-002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>A-003</text>
+        </navLabel>
+        <content src="Text/A-003.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>İKİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/arakapak02.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>BÖLÜM-012</text>
+        </navLabel>
+        <content src="Text/B-012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>BÖLÜM-013</text>
+        </navLabel>
+        <content src="Text/B-013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>BÖLÜM-014</text>
+        </navLabel>
+        <content src="Text/B-014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>BÖLÜM-015</text>
+        </navLabel>
+        <content src="Text/B-015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>BÖLÜM-016</text>
+        </navLabel>
+        <content src="Text/B-016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>BÖLÜM-017</text>
+        </navLabel>
+        <content src="Text/B-017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>BÖLÜM-018</text>
+        </navLabel>
+        <content src="Text/B-018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>BÖLÜM-019</text>
+        </navLabel>
+        <content src="Text/B-019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>BÖLÜM-020</text>
+        </navLabel>
+        <content src="Text/B-020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>BÖLÜM-021</text>
+        </navLabel>
+        <content src="Text/B-021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>BÖLÜM-022</text>
+        </navLabel>
+        <content src="Text/B-022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>BÖLÜM-023</text>
+        </navLabel>
+        <content src="Text/B-023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>BÖLÜM-024</text>
+        </navLabel>
+        <content src="Text/B-024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>BÖLÜM-025</text>
+        </navLabel>
+        <content src="Text/B-025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>BÖLÜM-026</text>
+        </navLabel>
+        <content src="Text/B-026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>BÖLÜM-027</text>
+        </navLabel>
+        <content src="Text/B-027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>BÖLÜM-028</text>
+        </navLabel>
+        <content src="Text/B-028.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>ARA SÖZ</text>
+      </navLabel>
+      <content src="Text/arasoz02.xhtml"/>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>A-004</text>
+        </navLabel>
+        <content src="Text/A-004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>A-005</text>
+        </navLabel>
+        <content src="Text/A-005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>A-006</text>
+        </navLabel>
+        <content src="Text/A-006.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>ÜÇÜNCÜ KISIM</text>
+      </navLabel>
+      <content src="Text/arakapak03.xhtml"/>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>BÖLÜM-029</text>
+        </navLabel>
+        <content src="Text/B-029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>BÖLÜM-030</text>
+        </navLabel>
+        <content src="Text/B-030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>BÖLÜM-031</text>
+        </navLabel>
+        <content src="Text/B-031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>BÖLÜM-032</text>
+        </navLabel>
+        <content src="Text/B-032.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>BÖLÜM-033</text>
+        </navLabel>
+        <content src="Text/B-033.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>BÖLÜM-034</text>
+        </navLabel>
+        <content src="Text/B-034.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>BÖLÜM-035</text>
+        </navLabel>
+        <content src="Text/B-035.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>BÖLÜM-036</text>
+        </navLabel>
+        <content src="Text/B-036.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>BÖLÜM-037</text>
+        </navLabel>
+        <content src="Text/B-037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>BÖLÜM-038</text>
+        </navLabel>
+        <content src="Text/B-038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>BÖLÜM-039</text>
+        </navLabel>
+        <content src="Text/B-039.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>BÖLÜM-040</text>
+        </navLabel>
+        <content src="Text/B-040.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>BÖLÜM-041</text>
+        </navLabel>
+        <content src="Text/B-041.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>BÖLÜM-042</text>
+        </navLabel>
+        <content src="Text/B-042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>BÖLÜM-043</text>
+        </navLabel>
+        <content src="Text/B-043.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>BÖLÜM-044</text>
+        </navLabel>
+        <content src="Text/B-044.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>BÖLÜM-045</text>
+        </navLabel>
+        <content src="Text/B-045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>BÖLÜM-046</text>
+        </navLabel>
+        <content src="Text/B-046.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>BÖLÜM-047</text>
+        </navLabel>
+        <content src="Text/B-047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>BÖLÜM-048</text>
+        </navLabel>
+        <content src="Text/B-048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>BÖLÜM-049</text>
+        </navLabel>
+        <content src="Text/B-049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>BÖLÜM-050</text>
+        </navLabel>
+        <content src="Text/B-050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>BÖLÜM-051</text>
+        </navLabel>
+        <content src="Text/B-051.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>ARA SÖZ</text>
+      </navLabel>
+      <content src="Text/arasoz03.xhtml"/>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>A-007</text>
+        </navLabel>
+        <content src="Text/A-007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>A-008</text>
+        </navLabel>
+        <content src="Text/A-008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>A-009</text>
+        </navLabel>
+        <content src="Text/A-009.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>DÖRDÜNCÜ</text>
+      </navLabel>
+      <content src="Text/arakapak04.xhtml"/>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>BÖLÜM-052</text>
+        </navLabel>
+        <content src="Text/B-052.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>BÖLÜM-053</text>
+        </navLabel>
+        <content src="Text/B-053.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>BÖLÜM-054</text>
+        </navLabel>
+        <content src="Text/B-054.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>BÖLÜM-055</text>
+        </navLabel>
+        <content src="Text/B-055.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>BÖLÜM-056</text>
+        </navLabel>
+        <content src="Text/B-056.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>BÖLÜM-057</text>
+        </navLabel>
+        <content src="Text/B-057.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>BÖLÜM-058</text>
+        </navLabel>
+        <content src="Text/B-058.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>BÖLÜM-059</text>
+        </navLabel>
+        <content src="Text/B-059.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>BÖLÜM-060</text>
+        </navLabel>
+        <content src="Text/B-060.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>BÖLÜM-061</text>
+        </navLabel>
+        <content src="Text/B-061.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>BÖLÜM-062</text>
+        </navLabel>
+        <content src="Text/B-062.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>BÖLÜM-063</text>
+        </navLabel>
+        <content src="Text/B-063.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>BÖLÜM-064</text>
+        </navLabel>
+        <content src="Text/B-064.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>BÖLÜM-065</text>
+        </navLabel>
+        <content src="Text/B-065.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>BÖLÜM-066</text>
+        </navLabel>
+        <content src="Text/B-066.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>BÖLÜM-067</text>
+        </navLabel>
+        <content src="Text/B-067.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>BÖLÜM-068</text>
+        </navLabel>
+        <content src="Text/B-068.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>BÖLÜM-069</text>
+        </navLabel>
+        <content src="Text/B-069.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>BEŞİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/arakapak05.xhtml"/>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>BÖLÜM-70</text>
+        </navLabel>
+        <content src="Text/B-070.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>BÖLÜM-71</text>
+        </navLabel>
+        <content src="Text/B-071.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>BÖLÜM-72</text>
+        </navLabel>
+        <content src="Text/B-072.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>BÖLÜM-73</text>
+        </navLabel>
+        <content src="Text/B-073.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>BÖLÜM-74</text>
+        </navLabel>
+        <content src="Text/B-074.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>BÖLÜM-75</text>
+        </navLabel>
+        <content src="Text/B-075.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>SON SÖZ</text>
+        </navLabel>
+        <content src="Text/sonsoz.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>SON NOT</text>
+      </navLabel>
+      <content src="Text/sonnot.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

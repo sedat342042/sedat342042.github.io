@@ -1,0 +1,41 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+ 
+    font-family: "Times New Roman", "serif";
+    font-size: 1.2em;
+    line-height: 150%
+    }
+.calibre2 {
+    text-transform: uppercase
+    }
+.calibre3 {
+    color: black;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.2em;
+    line-height: 150%
+    }
+.MsoPlainText {
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.83333em;
+    line-height: 150%;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.MsoPlainText1 {
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.83333em;
+    line-height: 150%;
+    margin: 0 0 0.0001pt
+    }
+.WordSection {
+    display: block;
+    page: WordSection1
+    }

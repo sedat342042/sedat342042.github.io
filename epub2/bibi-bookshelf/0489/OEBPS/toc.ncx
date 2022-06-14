@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="tr" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="329062d7-41ad-4c6d-92b1-6e6359d678c1" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.42.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>02 - Tilkiler Kralı - Gölgeler Meclisi Üçlemesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>İç Kapak</text>
+        </navLabel>
+        <content src="Text/index_split_000.html"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>Yazar Hakkında</text>
+        </navLabel>
+        <content src="Text/index_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>Künye</text>
+        </navLabel>
+        <content src="Text/index_split_002.html"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Yazarın Mesajı</text>
+        </navLabel>
+        <content src="Text/index_split_003.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Harita</text>
+      </navLabel>
+      <content src="Text/index_split_004.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Birinci Bölüm - Ajan</text>
+      </navLabel>
+      <content src="Text/index_split_005.html"/>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>Dönüş</text>
+        </navLabel>
+        <content src="Text/index_split_006.html"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Davet</text>
+        </navLabel>
+        <content src="Text/index_split_007.html"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>Av</text>
+        </navLabel>
+        <content src="Text/index_split_008.html"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>Seçim</text>
+        </navLabel>
+        <content src="Text/index_split_009.html"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>Hizmet</text>
+        </navLabel>
+        <content src="Text/index_split_010.html"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>Rillanon</text>
+        </navLabel>
+        <content src="Text/index_split_011.html"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>Yemin</text>
+        </navLabel>
+        <content src="Text/index_split_012.html"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>Görev</text>
+        </navLabel>
+        <content src="Text/index_split_013.html"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>Casus</text>
+        </navLabel>
+        <content src="Text/index_split_014.html"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>Keşif</text>
+        </navLabel>
+        <content src="Text/index_split_015.html"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>Salador</text>
+        </navLabel>
+        <content src="Text/index_split_016.html"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>İhanet</text>
+        </navLabel>
+        <content src="Text/index_split_017.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>İkinci Bölüm - Asker</text>
+      </navLabel>
+      <content src="Text/index_split_018.html"/>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>Hapis</text>
+        </navLabel>
+        <content src="Text/index_split_019.html"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>Aşçı</text>
+        </navLabel>
+        <content src="Text/index_split_020.html"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>Kaçış</text>
+        </navLabel>
+        <content src="Text/index_split_021.html"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>Yaşamak</text>
+        </navLabel>
+        <content src="Text/index_split_022.html"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>Paralı Askerler</text>
+        </navLabel>
+        <content src="Text/index_split_023.html"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>Aldatmaca</text>
+        </navLabel>
+        <content src="Text/index_split_024.html"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>Saldırı</text>
+        </navLabel>
+        <content src="Text/index_split_025.html"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>Sonuç</text>
+        </navLabel>
+        <content src="Text/index_split_026.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>Sonsöz - İntikam</text>
+      </navLabel>
+      <content src="Text/index_split_027.html"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/index_split_028.html"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>Arka Kapak</text>
+      </navLabel>
+      <content src="Text/index_split_029.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

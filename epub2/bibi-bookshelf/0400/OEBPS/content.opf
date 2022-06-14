@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Zweig, Stefan" opf:role="aut">Stefan Zweig</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ec1aef70-142f-462a-80cc-8eec4f1df594</dc:identifier>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <meta content="1.0" name="calibre:series_index" />
+    <meta content="2012-06-14T14:12:18.538000+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <meta content="Satranç" name="calibre:title_sort" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Stefan Zweig&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date>2012-02-22T22:00:00+00:00</dc:date>
+    <dc:title>Satranç</dc:title>
+    <meta content="Bütün Eserler" name="calibre:series" />
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Orjinal</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Alman</dc:subject>
+    <dc:description>&lt;p&gt;Stefan Zweig, çok geniş bir psikoloji birikimini eserlerinde bütünüyle kullanmış ender yazarlardandır. Onun dünya edebiyatında bir biyografi yazarı olarak kazandığı haklı ünün temelinde de bu özelliği, yani yazarlığının yanı sıra çok usta bir psikolog olması yatar. Satranç, Zweig'ın psikolojik birikimini bütünüyle devreye soktuğu bir öyküdür ve bu öykünün baş kişileri, tamamen yazarın biyografilerinde ele aldığı kişileri işleyiş biçimiyle sergilenmiştir. Zweig ölümünden hemen önce tamamladığı birkaç düzyazı metinden biri olan Satranç'ı kaleme aldığı sırada, karısı Lotte Zweig ile birlikte göç ettiği Brezilya'da yaşamaktaydı. Satranç'ta da, olay yeri olarak New York'dan Buenos Aires'e gitmekte olan bir yolcu gemisini seçmiştir. Bu gemide tamamen rastlantı sonucu karşılaşan üç kişi: yeni dünya satranç şampiyonu Mirko Czentovic, sıradan bir satranç oyuncusu olan anlatıcı ve bir zamanlar çok usta bir satranç oyuncusu olan, ama hayli zamandır satrançtan uzak kalmış bulunan Dr. B., öykünün aktörleridir.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">738a1892-d63c-4d57-8e89-17edaa23d803</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053606116</dc:identifier>
+    <meta content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB,MOBI&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}" name="calibre:user_metadata:#formats" />
+    <dc:date opf:event="modification">2014-02-27</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/01%20Klasik%20kitap_split_000.html" id="html11" media-type="application/xhtml+xml" />
+    <item href="Text/01%20Klasik%20kitap_split_001.html" id="html10" media-type="application/xhtml+xml" />
+    <item href="Text/01%20Klasik%20kitap_split_002.html" id="html9" media-type="application/xhtml+xml" />
+    <item href="Text/01%20Klasik%20kitap_split_003.html" id="html8" media-type="application/xhtml+xml" />
+    <item href="Text/01%20Klasik%20kitap_split_004.html" id="html7" media-type="application/xhtml+xml" />
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg" />
+    <item href="Images/iskultur.jpg" id="added" media-type="image/jpeg" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="html11" />
+    <itemref idref="html10" />
+    <itemref idref="html9" />
+    <itemref idref="html8" />
+    <itemref idref="html7" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

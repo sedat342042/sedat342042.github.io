@@ -1,0 +1,108 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Safa, Peyami">Peyami Safa</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b6fa6645-b33a-4c30-8925-a6ec9ba052e6</dc:identifier>
+    <dc:date>1996-06-13T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Yalnızız</dc:title>
+<meta name="calibre:title_sort" content="Yalnızız"/>
+<dc:publisher>Ötüken Neşriyat</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Cumhuriyet Dönemi</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;Peyami'nin kendisine has bir roman tekniği kullanarak cemiyet hakkındaki orijinal tasavvurlarını bir ütopya yazarı vasıtasıyla aksettirdiği romanıdır. Geride kalan yarım asırda kendisine en çok atıf yapılan edebî ütopya haline gelen “Simeranya” bu eserde ortaya konmuştur. Bir evin içerisinde yaşayan fakat yaşayışları arasında alaka kurulamayan fertler üzerinden toplumun bölünmüşlüğünün resmi… Ruhunu arayan bir duyarlılığın hikâyesi...&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Peyami Safa&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">abc955bd-00a9-40df-9b36-9dd75a6c0d95</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754370577</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Fonts/literata-bold-italic.otf" id="literata-bold-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/literata-bold.otf" id="literata-bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/literata-italic.otf" id="literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/literata-regular.otf" id="literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Images/437-057-7.jpg" id="x437-057-7.jpg" media-type="image/jpeg"/>
+    <item href="Images/arasi.png" id="arasi.png" media-type="image/png"/>
+    <item href="Images/otuken.png" id="otuken.png" media-type="image/png"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/foot.xhtml" id="foot.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki1.xhtml" id="ki1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki10.xhtml" id="ki10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki11.xhtml" id="ki11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki12.xhtml" id="ki12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki13.xhtml" id="ki13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki14.xhtml" id="ki14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki15.xhtml" id="ki15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki16.xhtml" id="ki16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki17.xhtml" id="ki17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki18.xhtml" id="ki18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki19.xhtml" id="ki19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki2.xhtml" id="ki2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki20.xhtml" id="ki20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki21.xhtml" id="ki21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki22.xhtml" id="ki22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki23.xhtml" id="ki23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki24.xhtml" id="ki24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki25.xhtml" id="ki25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki26.xhtml" id="ki26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki27.xhtml" id="ki27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki28.xhtml" id="ki28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki29.xhtml" id="ki29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki3.xhtml" id="ki3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki30.xhtml" id="ki30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki31.xhtml" id="ki31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki32.xhtml" id="ki32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki33.xhtml" id="ki33.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki34.xhtml" id="ki34.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki4.xhtml" id="ki4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki5.xhtml" id="ki5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki6.xhtml" id="ki6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki7.xhtml" id="ki7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki8.xhtml" id="ki8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ki9.xhtml" id="ki9.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ki1.xhtml"/>
+    <itemref idref="ki2.xhtml"/>
+    <itemref idref="ki3.xhtml"/>
+    <itemref idref="ki4.xhtml"/>
+    <itemref idref="ki5.xhtml"/>
+    <itemref idref="ki6.xhtml"/>
+    <itemref idref="ki7.xhtml"/>
+    <itemref idref="ki8.xhtml"/>
+    <itemref idref="ki9.xhtml"/>
+    <itemref idref="ki10.xhtml"/>
+    <itemref idref="ki11.xhtml"/>
+    <itemref idref="ki12.xhtml"/>
+    <itemref idref="ki13.xhtml"/>
+    <itemref idref="ki14.xhtml"/>
+    <itemref idref="ki15.xhtml"/>
+    <itemref idref="ki16.xhtml"/>
+    <itemref idref="ki17.xhtml"/>
+    <itemref idref="ki18.xhtml"/>
+    <itemref idref="ki19.xhtml"/>
+    <itemref idref="ki20.xhtml"/>
+    <itemref idref="ki21.xhtml"/>
+    <itemref idref="ki22.xhtml"/>
+    <itemref idref="ki23.xhtml"/>
+    <itemref idref="ki24.xhtml"/>
+    <itemref idref="ki25.xhtml"/>
+    <itemref idref="ki26.xhtml"/>
+    <itemref idref="ki27.xhtml"/>
+    <itemref idref="ki28.xhtml"/>
+    <itemref idref="ki29.xhtml"/>
+    <itemref idref="ki30.xhtml"/>
+    <itemref idref="ki31.xhtml"/>
+    <itemref idref="ki32.xhtml"/>
+    <itemref idref="ki33.xhtml"/>
+    <itemref idref="ki34.xhtml"/>
+    <itemref idref="foot.xhtml"/>
+  </spine>
+</package>

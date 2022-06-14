@@ -1,0 +1,81 @@
+body { 
+   text-align: 		justify;
+   line-height: 	25px;
+   padding: 		1px 11px 1px 11px;
+}
+
+.genel{ 
+text-align:center;
+}
+.kitap-ismi		{ font-weight: 	900; 	margin-top: 3em;	}
+.seri-ismi		{ font-weight: 	700; 	margin-top: 0.5em;	}
+.yazar			{ font-weight: 	700; 	margin-top: 1.5em; 	}
+.cevirmen		{ font-weight: 	400; 	margin-top: 3em; 	}
+.yayinevi		{ font-weight: 	400; 	margin-top: 3em; 	}
+.bilgi{ font-size: 	75%; 	margin-top: 0.3em; 	text-align: center; text-indent: 0;}
+
+p 	{
+    text-indent: 	1em;
+    text-align: 	justify;
+    font-size: 		95%;
+    line-height:	117%;
+    margin-top:		0.3em;
+    margin-bottom:	0.3em;
+	}
+
+
+
+.dipnot	{ 
+	text-align:		justify;  
+	margin: 		7px 0 17px 100px; 
+	font-style: 	italic; 
+	font-weight:  	bold; 
+	font-size: 		75%;
+	}
+
+
+a:link 		{ color:	  #2995b0;	text-decoration:underline }
+a:visited 	{ color:	#b02952;	text-decoration:underline }
+a:hover 	{ color:	#94d7c3; 	text-decoration:underline } 
+
+p.resim { text-align: center; }
+
+p.resim span {
+	display: 		block;
+	margin-top: 	0.5em;
+	font-style: 	italic;
+	font-size: 		80%;
+	}
+
+
+.ilkharf {
+    font-size: 225%;
+    font-weight: bold;
+}
+
+.n0bosluk {
+	padding-top:	0.2em;
+	padding-bottom:	0.2em;
+    }
+
+
+.n1bosluk {
+	padding-top:	0.5em;
+	padding-bottom:	0.5em;
+    }
+
+.n2bosluk {
+	padding-top:	0.9em;
+	padding-bottom:	0.9em;
+    }
+
+.n3bosluk {
+    padding-top:	1.5em;
+    padding-bottom:	1.5em;
+    }
+
+.n4bosluk {
+    padding-top:	2.2em;
+    padding-bottom:	2.2em;
+    }
+

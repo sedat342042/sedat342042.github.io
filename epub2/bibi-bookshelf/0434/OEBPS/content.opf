@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Atılgan, Yusuf">Yusuf Atılgan</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+    <dc:date>2007-06-04T21:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta content="0.5.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Aylak Adam"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yusuf Atılgan&quot;: &quot;&quot;}"/>
+  <dc:title>Aylak Adam</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Her şeye "karşı" duran, "karşı" çıkan, "karşı" olan bir adam... Aylak Adam... Bir adı bile yok. "C." diyor Yusuf Atılgan kısaca.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;İnsan her şeye bunca "karşı"yken kendine de "karşı" olmadan nasıl sürdürülebiler bir "karşı" yaşamı?&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;C., sıradanlığa, tekdüzeliğe, alışılmışın kolaycılığına hiç mi hiç katlanamıyor. Hem farklıyı, hem doğru olanı arıyor. Çabasının boşuna olduğunun da farkında üstelik.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Zor bir karakter, zor bir yaşam, yalın bir roman.&lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.24.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">4c53e072-7bba-44ff-9314-1c94d72eb65c</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750802447</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/telif.xhtml" id="telif.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dikkat.xhtml" id="dikkat.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/Nakkal Siyah.png" id="Nakkal_Siyah.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="telif.xhtml"/>
+    <itemref idref="dikkat.xhtml"/>
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover"/>
+    <reference href="Text/toc.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/rica.html" title="Text" type="text"/>
+    <reference href="Text/dikkat.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+    <reference href="Text/yazar.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

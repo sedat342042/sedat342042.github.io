@@ -1,0 +1,219 @@
+.block_ {
+    display: block;
+    line-height: 1.2;
+    text-indent: -0.5pt;
+    padding: 0;
+    margin: 0 0.7pt 0.25pt -0.25pt
+    }
+.block_1 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt
+    }
+.block_2 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt
+    }
+.block_3 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.block_4 {
+    display: block;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 8pt
+    }
+.block_5 {
+    display: block;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt 177pt
+    }
+.block_6 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt 177pt
+    }
+.block_7 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt
+    }
+.block_8 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt 177pt
+    }
+.block_9 {
+    color: black;
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt
+    }
+.block_10 {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt
+    }
+.block_11 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 8pt
+    }
+.block_12 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt
+    }
+.block_13 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.block_14 {
+    display: block;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt
+    }
+.block_15 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 8pt
+    }
+.block_16 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 1.6pt
+    }
+.block_17 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 1.6pt
+    }
+.block_18 {
+    display: block;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.25pt
+    }
+.block_19 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 8pt
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    height: 30pt;
+    line-height: 1.2;
+    width: 184pt
+    }
+.calibre2 {
+    height: 23.5pt;
+    line-height: 1.2;
+    width: 144pt
+    }
+.calibre3 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    height: auto;
+    line-height: 1.2;
+    width: auto
+    }
+.calibre5 {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.calibre6 {
+    height: 21.6pt;
+    line-height: 1.2;
+    width: 144pt
+    }

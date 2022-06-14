@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Dede Korkut Kitabı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Korkut, Dede">Dede Korkut</dc:creator>
+    <dc:publisher>Antik Kitap</dc:publisher>
+    <dc:date>2008-11-21T23:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:770ae362-e1c4-4b83-99d8-d618da21b614</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Masal</dc:subject>
+    <dc:subject>Destan</dc:subject>
+    <dc:subject>Mitoloji</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">333a72c5-856a-4077-826c-4ea02f384a24</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Dede Korkut Kitabı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Dede Korkut&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_metadata:#formats" content="{&quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_multiple&quot;: null, &quot;is_csp&quot;: false, &quot;name&quot;: &quot;Formats&quot;, &quot;display&quot;: {&quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;description&quot;: &quot;&quot;}, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple2&quot;: {}, &quot;rec_index&quot;: 22, &quot;is_editable&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;column&quot;: &quot;value&quot;, &quot;is_custom&quot;: true, &quot;category_sort&quot;: &quot;value&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub.html" id="dedekorkutkitabi-epub" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub-1.html" id="dedekorkutkitabi-epub-1" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub-2.html" id="dedekorkutkitabi-epub-2" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub-3.html" id="dedekorkutkitabi-epub-3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/antikturk_fmt.jpeg" id="antikturk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/dedekorkutkitabi-dis.jpg" id="dedekorkutkitabi-dis.jpg" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="dedekorkutkitabi-epub"/>
+    <itemref idref="dedekorkutkitabi-epub-1"/>
+    <itemref idref="dedekorkutkitabi-epub-2"/>
+    <itemref idref="dedekorkutkitabi-epub-3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

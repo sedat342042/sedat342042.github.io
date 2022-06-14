@@ -1,0 +1,119 @@
+@font-face{font-family:"Candara";font-style:normal;font-weight:normal;src:url(../Fonts/candara.ttf)}
+@font-face{font-family:"Book Antiqua";font-style:normal;font-weight:bold;src:url(../Fonts/ANTQUAB.TTF)}
+@font-face{font-family:"Book Antiqua";font-style:normal;font-weight:normal;src:url(../Fonts/BKANT.TTF)}
+@font-face{font-family:"Book Antiqua";font-style:italic;font-weight:normal;src:url(../Fonts/ANTQUAI.TTF)}
+@font-face{font-family:"Times New Roman";font-style:normal;font-weight:normal;src:url(../Fonts/times.ttf)}
+@font-face{font-family:"Calibri Light";font-style:normal;font-weight:normal;src:url(../Fonts/calibril.ttf)}
+@font-face{font-family:"Candara";font-style:normal;font-weight:bold;src:url(../Fonts/candarab.ttf)}
+@font-face{font-family:"Calibri";font-style:normal;font-weight:normal;src:url(../Fonts/calibri.ttf)}
+@font-face{font-family:"Candara";font-style:italic;font-weight:normal;src:url(../Fonts/candarai.ttf)}
+@font-face{font-family:"Times New Roman";font-style:normal;font-weight:bold;src:url(../Fonts/timesbd.ttf)}
+@font-face{font-family:"Candara";font-style:italic;font-weight:bold;src:url(../Fonts/candaraz.ttf)}
+@font-face{font-family:"Segoe UI";font-style:normal;font-weight:normal;src:url(../Fonts/segoeui.ttf)}
+@font-face{font-family:"Gadugi";font-style:normal;font-weight:normal;src:url(../Fonts/gadugi.ttf)}
+@font-face{font-family:"Segoe UI Symbol";font-style:normal;font-weight:normal;src:url(../Fonts/seguisym.ttf)}
+@font-face{font-family:"Verdana";font-style:normal;font-weight:normal;src:url(../Fonts/verdana.ttf)}
+@font-face{font-family:"David";font-style:normal;font-weight:normal;src:url(../Fonts/david.ttf)}
+p{text-indent:4.4em;margin-left:0;margin-right:0;widows:2;orphans:2;margin-top:1.8em;margin-bottom:1.8em;font-family:Candara,sans-serif;font-size:73%}
+.p0{text-indent:0;margin-left:0;margin-top:0}
+.p1{text-indent:0;margin-left:0}
+.p2{text-indent:0;margin-left:0;text-align:center}
+.p3{text-indent:0;margin-left:0;text-align:center;margin-top:0}
+.p4{text-indent:0;margin-left:0;line-height:107%;page-break-after:avoid;page-break-inside:avoid;margin-top:1.5em;margin-bottom:0}
+.p5{text-indent:0;margin-left:1.4em;line-height:107%;margin-top:0;margin-bottom:.63em}
+.p6{text-indent:0;margin-left:0;margin-top:0;margin-bottom:0}
+.p7{text-indent:0;margin-left:0;text-align:right}
+.p8{text-indent:0;margin-left:0;text-align:right;margin-top:0}
+.p9{text-indent:0;margin-left:0;text-align:center;margin-top:0;margin-bottom:0}
+.p10{text-indent:0;margin-left:0;margin-bottom:0}
+.p12{text-indent:4.4em;margin-bottom:0}
+.p13{text-indent:4.4em;margin-top:0}
+.p14{text-indent:4.4em;margin-top:0;margin-bottom:0}
+.p15{text-indent:4.4em;margin-left:13em}
+.p16{text-indent:0;margin-left:22em}
+.p17{text-indent:4.4em;margin-left:18em}
+.p18{text-indent:0;margin-left:18em}
+.p19{text-indent:0;margin-left:0;text-align:center;margin-bottom:0}
+.p20{text-indent:0;margin-left:27em}
+.p21{text-indent:4.4em;margin-left:22em}
+.p22{text-indent:4.4em;text-align:center}
+.p23{text-indent:0;margin-left:4.4em;text-align:center}
+.p24{text-indent:0;margin-left:4.4em}
+.p25{text-indent:4.4em;margin-left:4.4em}
+.p26{text-indent:0}
+h2{text-indent:0;margin-left:0;margin-right:0;text-align:center;widows:2;orphans:2;margin-top:1.3em;margin-bottom:1.3em;font-family:Candara,sans-serif;font-size:100%;font-weight:bold}
+.h21{text-indent:0;text-align:left}
+.h22{text-indent:0}
+h4{text-indent:0;margin-left:0;margin-right:0;text-align:center;widows:2;orphans:2;margin-top:1.3em;margin-bottom:1.3em;font-family:Candara,sans-serif;font-size:100%;font-weight:bold}
+.h41{text-indent:0;text-align:left}
+.h42{text-indent:0;text-align:left;margin-top:0}
+.h43{text-indent:0}
+h5{text-indent:0;margin-left:0;margin-right:0;text-align:center;widows:2;orphans:2;margin-top:1em;margin-bottom:1em;font-family:Candara,sans-serif;font-size:127%;font-weight:bold}
+.h51{text-indent:0;text-align:left}
+.h52{text-indent:0}
+.t1{font-family:"Book Antiqua",serif;font-weight:bold}
+.t2{font-family:"Book Antiqua",serif}
+.t3{font-family:"Book Antiqua",serif;font-style:italic}
+.t4{font-family:"Times New Roman",serif;font-size:1.5em;line-height:100%}
+.t5{font-family:"Book Antiqua",serif;color:blue;text-decoration:underline}
+.t7{font-family:"Book Antiqua",serif;font-size:1.5em;line-height:100%}
+.t8{font-family:"Calibri Light",sans-serif;font-size:2em;line-height:107%;color:#2e74b5}
+.t9{font-size:1.4em;line-height:107%;font-weight:bold;color:blue;text-decoration:underline}
+.t10{font-family:Calibri,sans-serif;font-size:1.4em;line-height:107%}
+.t11{font-size:1.4em;line-height:107%;color:blue;text-decoration:underline}
+.t12{font-size:1.3em;line-height:100%;font-weight:bold;color:#2e74b5}
+.t13{font-size:1.3em;line-height:100%;font-weight:bold}
+.t14{font-size:.75em;line-height:100%}
+.t15{font-weight:bold}
+.t16{font-style:italic}
+.t17{font-size:.65em;line-height:100%;vertical-align:super}
+.t18{font-family:"Times New Roman",serif}
+.t19{font-size:3em;line-height:100%;font-weight:bold}
+.t20{font-size:1.4em;line-height:100%;font-weight:bold}
+.t21{font-family:"Times New Roman",serif;font-size:1.4em;line-height:100%}
+.t22{font-size:1.1em;line-height:100%}
+.t23{font-size:.73em;line-height:100%;color:blue;vertical-align:super;text-decoration:underline}
+.t24{font-size:.73em;line-height:100%;vertical-align:super}
+.t25{font-size:1.1em;line-height:100%;font-style:italic}
+.t26{font-family:"Times New Roman",serif;font-size:1.5em;line-height:100%;font-weight:bold}
+.t27{font-size:1.1em;line-height:100%;font-weight:bold}
+.t28{font-size:.63em;line-height:100%}
+.t29{font-size:.5em;line-height:100%}
+.t30{font-family:"Times New Roman",serif;font-size:1.4em;line-height:100%;font-weight:bold}
+.t31{font-size:1.3em;line-height:100%}
+.t32{font-family:"Times New Roman",serif;font-size:2em;line-height:100%}
+.t33{font-size:1.8em;line-height:100%;font-weight:bold}
+.t34{font-size:2.3em;line-height:100%}
+.t35{font-size:.88em;line-height:100%}
+.t36{font-family:"Times New Roman",serif;font-size:1.8em;line-height:100%}
+.t37{font-family:"Times New Roman",serif;font-size:1.3em;line-height:100%}
+.t38{font-size:1.5em;line-height:100%;font-style:italic}
+.t39{font-weight:bold;font-style:italic}
+.t40{font-size:1.5em;line-height:100%}
+.t41{font-family:"Segoe UI",sans-serif;font-size:1.1em;line-height:100%}
+.t42{font-family:Gadugi,sans-serif;font-size:1.1em;line-height:100%}
+.t43{font-family:"Segoe UI Symbol",sans-serif;font-size:1.1em;line-height:100%}
+.t44{font-size:.75em;line-height:100%;font-weight:bold;font-style:italic}
+.t45{font-size:.75em;line-height:100%;font-style:italic}
+.t46{font-family:Verdana,sans-serif;font-size:1.3em;line-height:100%}
+.t47{font-size:.65em;line-height:100%;vertical-align:sub}
+.t48{font-family:"Times New Roman",serif;font-size:2em;line-height:100%;font-weight:bold}
+.t49{font-size:1.4em;line-height:100%}
+.t50{font-family:"Times New Roman",serif;font-size:1.1em;line-height:100%}
+.t51{font-size:.65em;line-height:100%;font-style:italic;vertical-align:super}
+.t52{font-family:"Times New Roman",serif;font-size:1.5em;line-height:100%;color:blue;text-decoration:underline}
+.t53{font-family:David,sans-serif;font-size:1.4em;line-height:100%}
+.th22{font-family:"Times New Roman",serif;font-size:1.6em;line-height:100%}
+.th23{font-size:1.3em;line-height:100%}
+.th24{font-size:.82em;line-height:100%;font-weight:normal}
+.th25{font-size:.82em;line-height:100%}
+.th26{font-family:"Times New Roman",serif;font-size:.91em;line-height:100%}
+.th27{font-family:"Times New Roman",serif;font-size:1.1em;line-height:100%}
+.th28{font-family:"Times New Roman",serif}
+.th42{font-family:"Times New Roman",serif;font-size:1.1em;line-height:100%}
+.th43{font-weight:normal}
+.th51{font-size:.79em;line-height:100%}
+.th52{font-family:"Times New Roman",serif;font-size:.71em;line-height:100%}
+.th53{font-size:.64em;line-height:100%}
+.th54{font-family:"Times New Roman",serif;font-size:.57em;line-height:100%}
+.th56{font-family:"Times New Roman",serif;font-size:.86em;line-height:100%}

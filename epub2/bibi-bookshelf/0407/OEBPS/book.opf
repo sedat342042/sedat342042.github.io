@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Faulkner, William">William Faulkner</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">f07f3c35-1629-44bc-af4d-cb4caa763de3</dc:identifier>
+    <dc:date>2010-01-17T22:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;1897'de, Mississippi, New Albany'de doğan William Faulkner, 20. Yüzyıl Amerikan Yazınının yetiştirdiği en büyük yazar ve modern dünya romancılarının en iyilerinden biridir. Romanları, doğup büyüdüğü güneyin efsanesinden esin alır. Bu yüzden iç savaş, zenci sorunu gibi konuları sık sık işlemiştir. Ailesinin onur, beyazların sosyal konumu, tarihi kahramanlıklar gibi konulara yaklaşımı da Faulkner'a yapıtları için malzeme oluşturmuştur. Ülkemizde "Ses ve Öfke", "Döşeğimde Ölürken", "Kutsal Sığınak", "O Ağustos Güneşi", "Ayı" gibi kitaplarıyla tanınan yazarın en önemli romanlarından biri olan "Abşalom, Abşalom!", Aslı Biçen çevirisiyle Yapı Kredi Yayınları tarafından yayımlandı. Faulkner'ın yarı-kurgusal bölgesi Yoknapatawpha'da geçen "Abşalom, Abşalom!", Thomas Sutpen'in ve sonunda kendi oğulları tarafından mahvedilen planının -1830'larda, Missisippi'de bir hanedanı ağır ağır sürdürmek- hikâyesi üzerine kurulu. "Kitab-ı Mukaddes"ten Güney'in efsanesine, oradan da modern dünyanın karmaşısına uzanan roman, farklı anlatıcılar aynı olayları üst üste anlattıkları için tekrarlar üzerine kuruluymuş sanısı yaratır; aslında okuyucudan doğrunun eksik anlatımlarından geçerek, doğruyu daha derin bir biçimde kavramesı beklenmektedir. Karmaşık dil yapısıyla zor okuma uğraşlarını seven okur için biçilmiş kaftan olan "Abşalom, Abşalom!", -Murat Belge'nin deyişiyle- tiz sesle yazılmış bir güney profili. Faulkner'ın romanlarındaki kuruluş bir senfoniyi andırır. Keskin bir toplum gözlemcisi olan Faulkner, ilk bakışta yapıtlarının yapılarını okurdan gizlemeye çalışır gözükse de, aslında kitaplarında tüm ipuçlarını vermiştir. Diğer Faulkner romanlarında olduğu gibi "Abşalom, Abşalom"da da tekrarlar ve geri-dönüşler sık sık kullanılır: Sutpen ailesinin öyküsü, önce Miss Rosa tarafından Quentin Compson'a anlatıldığı sıra, Quentin Compson'ın bilinci yoluyla bize parça parça sunulur. Sonra Quentin aynı öykünün öteki episodlarını da babasından dinler; daha sonra da Quentin, Shreve'e anlatmaya çalışır; en sonunda her ikisi de Sutpen öyküsünün bilinmeyen parçalarını kendi hayallerinde canlandırırlar ve okuyucu da o anda onlarla işbirliği yapar. Faulkner, doğrunun tek yanlı olarak kavranabileceği üzerindeki şüphesini böylece dolaylı olarak açıklamış olduğuna göre, okuyucuyu da aynı eylem örneklerini ayrı ayrı görüş açısından incelemeye zorlarken, tipleri bir sanatçı ustalığıyla canlı olarak sunmaktan başka bir şey yapmak niyetinde değildir. İlişiğindeki Yoknapatawpha haritasıyla güneye, alınyazısına ve Faulkner'a bir yolculuk bileti...&lt;/p&gt;</dc:description>
+    <meta name="cover" content="cover-image"/>
+    <meta name="calibre:title_sort" content="Abşalom, Abşalom!"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;William Faulkner&quot;: &quot;&quot;}"/>
+  <dc:title>Abşalom, Abşalom!</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Tarihi</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">6ce86a5e-c2f8-4e51-9abe-3222ad638c76</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750802126</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="chapter.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="chapter1.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="chapter2.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="chapter3.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="chapter4.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="chapter5.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="chapter6.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="chapter7.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="chapter8.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="chapter9.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="chapter10.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="chapter11.xhtml" id="text11" media-type="application/xhtml+xml"/>
+    <item href="chapter12.xhtml" id="text12" media-type="application/xhtml+xml"/>
+    <item href="chapter13.xhtml" id="text13" media-type="application/xhtml+xml"/>
+    <item href="book.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles/styles1.css" id="resource2" media-type="text/css"/>
+    <item href="images/image001.png" id="cover-image" media-type="image/png"/>
+    <item href="images/image002.png" id="resource1" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+    <itemref idref="text11"/>
+    <itemref idref="text12"/>
+    <itemref idref="text13"/>
+  </spine>
+  <guide>
+    <reference href="chapter.xhtml" title="Cover" type="cover"/>
+    <reference href="chapter1.xhtml" title="Title page" type="title-page"/>
+    <reference href="chapter2.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

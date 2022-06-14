@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:813a0af7-8ab9-4b7d-b4fa-fb757375655a</dc:identifier>
+    <dc:title>Gümüşdiken</dc:title>
+    <dc:creator opf:file-as="Feist, Raymond E." opf:role="aut">Raymond E. Feist</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor opf:role="trl">Gamze Sarı</dc:contributor>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="Gümüş_diken.png" />
+    <dc:date opf:event="modification">2014-04-13</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/baslik.html" id="baslik.html" media-type="application/xhtml+xml" />
+    <item href="Text/yayinevi.html" id="yayinevi.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap301.html" id="Kitap301.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap302.html" id="Kitap302.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap303.html" id="Kitap303.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap304.html" id="Kitap304.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap305.html" id="Kitap305.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap306.html" id="Kitap306.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap307.html" id="Kitap307.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap308.html" id="Kitap308.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap309.html" id="Kitap309.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap310.html" id="Kitap310.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap311.html" id="Kitap311.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap312.html" id="Kitap312.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap313.html" id="Kitap313.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap314.html" id="Kitap314.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap315.html" id="Kitap315.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap316.html" id="Kitap316.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap317.html" id="Kitap317.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap318.html" id="Kitap318.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap319.html" id="Kitap319.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap320.html" id="Kitap320.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap03Notlar.html" id="Kitap03Notlar.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap321.html" id="Kitap321.html" media-type="application/xhtml+xml" />
+    <item href="Text/Kitap300.html" id="Kitap300.html" media-type="application/xhtml+xml" />
+    <item href="Styles/ogz.css" id="ogz.css" media-type="text/css" />
+    <item href="Images/G%C3%BCm%C3%BC%C5%9F%20diken.png" id="Gümüş_diken.png" media-type="image/png" />
+    <item href="Images/ithaki_logo.jpg" id="ithaki_logo.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/harita.xhtml" id="harita.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/map.jpg" id="map.jpg" media-type="image/jpeg" />
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css" />
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="baslik.html" />
+    <itemref idref="TOC.xhtml" />
+    <itemref idref="harita.xhtml" />
+    <itemref idref="Kitap300.html" />
+    <itemref idref="Kitap301.html" />
+    <itemref idref="Kitap302.html" />
+    <itemref idref="Kitap303.html" />
+    <itemref idref="Kitap304.html" />
+    <itemref idref="Kitap305.html" />
+    <itemref idref="Kitap306.html" />
+    <itemref idref="Kitap307.html" />
+    <itemref idref="Kitap308.html" />
+    <itemref idref="Kitap309.html" />
+    <itemref idref="Kitap310.html" />
+    <itemref idref="Kitap311.html" />
+    <itemref idref="Kitap312.html" />
+    <itemref idref="Kitap313.html" />
+    <itemref idref="Kitap314.html" />
+    <itemref idref="Kitap315.html" />
+    <itemref idref="Kitap316.html" />
+    <itemref idref="Kitap317.html" />
+    <itemref idref="Kitap318.html" />
+    <itemref idref="Kitap319.html" />
+    <itemref idref="Kitap320.html" />
+    <itemref idref="Kitap321.html" />
+    <itemref idref="yazar.xhtml" />
+    <itemref idref="yayinevi.html" />
+    <itemref idref="Kitap03Notlar.html" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc" />
+  </guide>
+</package>

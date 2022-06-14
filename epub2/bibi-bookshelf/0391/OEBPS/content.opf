@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Gömülü Şamdan</dc:title>
+    <dc:creator opf:file-as="Zweig, Stefan" opf:role="aut">Stefan Zweig</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Süleyman’ın tapınağından çıkan, Yahudilerin kutsal emaneti yedi kollu şamdanın 455 yılında Roma’yı yağmalayan Vandalların eline geçmesi, kentin Yahudi cemaatinde şok etkisi yaratır. Cemaatin yaşlıları, olan biteni gelecek kuşaklara aktarması için o sırada yedi yaşında olan Benjamin’i de yanlarına alarak kutsal Menora’yı denizaşırı yolculuğuna uğurlarlar. Seksen yıl sonra aynı Benjamin, şamdanı Yahudilere geri vermesi için İmparator İustinianos’a yalvarmak üzere Bizans’a gider. İustinianos’un Kudüs’teki bir Hıristiyan kilisesine gönderdiği şamdan, orada kaybolmuştur. Ancak Zweig &lt;em&gt;Gömülü Şamdan&lt;/em&gt;’da söylenceye bir gün yeniden kavuşma umudu barındıran bir final atfeder.&lt;/p&gt;</dc:description>
+    <dc:date>2017-03-19T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{98433146-EA4A-4258-A4ED-DC7E2C8E2251}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-29</dc:date>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">95fcb1f5-5678-4766-bd5e-3a88f598d1c3</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-605-332-616-8</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+    <meta name="Sigil version" content="0.9.7" />
+    <meta name="calibre:title_sort" content="Gömülü Şamdan" />
+    <meta name="calibre:author_link_map" content="{&quot;Stefan Zweig&quot;: &quot;&quot;}" />
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epigraf.xhtml" href="Text/epigraf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id3" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="epigraf.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

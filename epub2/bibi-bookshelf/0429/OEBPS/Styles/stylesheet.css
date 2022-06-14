@@ -1,0 +1,72 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-weight: bold
+    }
+.calibre2 {
+    color: black;
+    font-size: 1.55em;
+    line-height: 1.2
+    }
+.calibre3 {
+    color: black;
+    font-size: 1.2em
+    }
+.calibre4 {
+    font-size: 1.2em
+    }
+.calibre5 {
+    font-style: italic
+    }
+.calibre6 {
+    color: black;
+    font-family: "Arial", "sans-serif";
+    font-size: 1.2em
+    }
+.calibre7 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre8 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre9 {
+    color: black
+    }
+.calibre10 {
+    color: black;
+    font-size: 1.2em;
+    text-transform: uppercase
+    }
+.calibre11 {
+    text-transform: uppercase
+    }
+.MsoNormal {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.MsoNormal1 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    margin: 0 0 0.0001pt
+    }
+.WordSection {
+    display: block;
+    page: WordSection1
+    }

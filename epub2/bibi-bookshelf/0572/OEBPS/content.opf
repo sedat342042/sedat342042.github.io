@@ -1,0 +1,105 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Jordan, Robert">Robert Jordan</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:cf892201-c9ac-4c9b-bb25-6a2e3627a540</dc:identifier>
+    <dc:date>2008-04-24T21:00:00+00:00</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:description>Tar Valon kuşatılmış. Vakanüvis, dünyayı Karanlık Varlık'tan kurtarabilecek yegâne insanın, Ejder'in, doğduğuna dair kehanette bulunuyor ve sırf tesadüf eseri, Vakanüvis'in yanında Moiraine Damodred ve Siuan Sanche var. Dünyanın Gözü'nde Emond Meydanı'na gelen soğuk ve vakur Aes Sedai'den çok farklı bir Kabuledilmiş olan saf, eşek şakalarından hoşlanan Moiraine Damodred, en iyi arkadaşı Siuan Sanche ile birlikte, yeni doğan bebeği bulmayı ve ona yardım etmeyi aklına koyuyor.</dc:description>
+    <meta name="cover" content="yeni_bahar.jpg"/>
+    <meta content="0.8.6" name="Sigil version"/>
+  <dc:title>Yeni Bahar</dc:title>
+<meta name="calibre:title_sort" content="Yeni Bahar"/>
+<meta name="calibre:series" content="Zaman Çarkı"/>
+<meta name="calibre:series_index" content="0.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fantastik Kurgu</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">470be5df-53e1-4d0a-b61d-6eea0c8d18b3</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752733985</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/yeni_bahar.jpg" id="yeni_bahar.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.xhtml" id="Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.xhtml" id="Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.xhtml" id="Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0022.xhtml" id="Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0023.xhtml" id="Section0023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0024.xhtml" id="Section0024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0025.xhtml" id="Section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0026.xhtml" id="Section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0027.xhtml" id="Section0027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0028.xhtml" id="Section0028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0029.xhtml" id="Section0029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0030.xhtml" id="Section0030.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0031.xhtml" id="Section0031.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0032.xhtml" id="Section0032.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0033.xhtml" id="Section0033.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0034.xhtml" id="Section0034.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/rand_diyari_1.jpg" id="rand_diyari_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/rand_diyari_2.jpg" id="rand_diyari_2.jpg" media-type="image/jpeg"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="Section0022.xhtml"/>
+    <itemref idref="Section0023.xhtml"/>
+    <itemref idref="Section0024.xhtml"/>
+    <itemref idref="Section0025.xhtml"/>
+    <itemref idref="Section0026.xhtml"/>
+    <itemref idref="Section0027.xhtml"/>
+    <itemref idref="Section0028.xhtml"/>
+    <itemref idref="Section0029.xhtml"/>
+    <itemref idref="Section0030.xhtml"/>
+    <itemref idref="Section0031.xhtml"/>
+    <itemref idref="Section0032.xhtml"/>
+    <itemref idref="Section0033.xhtml"/>
+    <itemref idref="Section0034.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0001.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

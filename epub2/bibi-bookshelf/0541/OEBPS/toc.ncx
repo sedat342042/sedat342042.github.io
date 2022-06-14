@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="c29caebb-8a6c-4301-9bd3-b67e7b0136d9" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Peter Pan</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Peter Ortaya Çıkıyor</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_005.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Gölge</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_007.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Haydi Gidelim!</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_008.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Uçuş</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_009.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Ada Gerçekleşiyor</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_010.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Küçük Ev</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_011.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Yer altındaki Ev</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_012.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Denizkızlarının Koyu</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_013.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Mutlu Yuva</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_015.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Wendy’nin Masalı</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_016.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Çocuklar Yakalanıyorlar</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_017.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Perilere İnanır Mısınız?</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_018.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Korsan Gemisi</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_019.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>‘Bu Kez Ya Kanca, Ya Ben’</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_020.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Eve Dönüş</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_021.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Wendy Büyüyünce</text>
+      </navLabel>
+      <content src="Text/peter_pan_split_022.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

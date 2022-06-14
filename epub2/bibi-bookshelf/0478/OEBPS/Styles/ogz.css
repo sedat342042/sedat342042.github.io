@@ -1,0 +1,104 @@
+
+/*gövde,paragraf*/
+
+body
+{
+	text-align: justify;
+	text-indent: 1em;
+	margin-left:  1.2em;
+	margin-right:  1.2em;
+	line-height: 1.2em;
+}
+
+p.giriş
+{
+	font-size: small;
+	text-indent: 0;
+	margin-top: 0;
+ 	margin-bottom: 0;
+ 	line-height: 1,2em;
+}
+
+p
+{
+	font-size: small;
+	text-indent: 1em;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 1.2em;
+	orphans: 2;
+	widows: 2;
+}
+p.kitap-adı
+{
+	font-size: large;
+	margin-top: 4em;
+	margin-bottom: 0m;
+	line-height: 1em;
+	orphans: 2;
+	widows: 2;
+}
+p.yayıevi
+{
+	font-size: small;
+	text-indent: 1em;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 1em;
+	orphans: 2;
+	widows: 2;
+}
+/*bölüm numara, başlık*/
+
+
+h2.bölüm-no
+{
+	font-weight: bold;
+ 	text-align: center;
+ 	page-break-after: avoid;
+ 	margin-top: 2em;
+ 	margin-bottom: 3em;
+}
+
+h2.bölüm-ad
+{
+	font-weight: bold;
+	text-align: center;
+	page-break-after: avoid;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	
+}
+
+/*Kitap adı, yazar, yayınevi*/
+p.yayınevi
+{
+	text-align: center;
+	line-height: 1.1em;
+}
+h1.kitap-adı
+{
+	font-weight: normal;
+	text-align: center;
+	margin-bottom: 4em;
+	line-height: 1.2em;
+}
+h2.kitap-alt-adı
+{
+	text-align: center;
+	margin-bottom: 1em;
+}
+h2.kitap-yazar
+{
+	margin-top: 2em;
+	text-align: center;
+	margin-bottom: 2em;
+}
+/*logo, resim, harita*/
+p.logo
+{
+	margin-top:  10em;
+	text-indent: 0em;
+	text-align: center;
+	margin-bottom: 0;
+}

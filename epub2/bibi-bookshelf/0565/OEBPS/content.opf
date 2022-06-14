@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Brooks, Terry">Terry Brooks</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">e562d484-b35a-4fa8-abfe-158104af2f02</dc:identifier>
+    <dc:date>2014-01-09T22:00:00+00:00</dc:date>
+    <meta content="Shannara'nın Kılıcı I" name="calibre:title_sort"/>
+    <meta content="2014-01-07T07:08:32.828000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:publisher>İthaki Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Dünya uzun yıllar önce kadim kötülük güçlerinin saldırılarına sahne olmuş, ancak Shea'nın atası Jerle Shannara ile kılıcı sayesinde kudretli Karabüyücü Lord yenilgiye uğratılabilmişti. Bu savaşlar artık çok gerilerde kalmış, huzur dolu Vale köyünde yarı insan yarı elf olan Shea Ohmsford bütün dünyadan habersiz, sakin bir yaşam sürmekteydi -ta ki gizimli ve sert mizaçlı Allanon ortaya çıkıp da uzun süre önce ölmüş olması gereken Karabüyücü Lord'un sağ olduğunu ve dünyaya hükmetmeyi aklına koyduğunu söyleyene dek.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Jerle Shannara'nın yegane varisi olan Shea Ohmsford karanlığın yaratıklarını uzak tutabilecek olan tek silahı, Shannara'nın Kılıcı'nı bulmak için büyük ve tehlikeli bir maceraya atılmak zorundadır.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;"Muhteşem bir fantazya yolculuğu"&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;-Frank Herbert-&lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Terry Brooks&quot;: &quot;&quot;}"/>
+<dc:title>Shannara'nın Kılıcı I</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Fantastik</dc:subject>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">e2101cd4-7a1a-441d-9cc6-89059d9d20cd</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789756902363</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.xhtml" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.xhtml" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_011.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/index_split_000.xhtml" id="index_split_000.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="index_split_000.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

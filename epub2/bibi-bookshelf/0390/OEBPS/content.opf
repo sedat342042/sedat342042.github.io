@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f58724c4-5262-4f4b-a7c9-86f44256fe70</dc:identifier>
+    <dc:date>2010-11-20T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <meta name="cover" content="can-clarissa.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Clarissa</dc:title>
+<meta name="calibre:title_sort" content="Clarissa"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Alman Edebiyatı</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Dram</dc:subject>
+<dc:description>&lt;p&gt;"Şimdi başka bir yüzyıldan ya da başka bir ulustan geliyormuş gibi kendini tecrit etmek mümkün değildir. İnsan zorla tarafsız kalamaz. Savaş ile ilgili normal ve insancıl bir görüşe sahip olabilmek için tek bir olasılık vardır: savaşın farkında olmak ve savaşı, kendileri asla cephede bulunmamış savaş çığırtkanlarından dinlememek. Bunun dışındaki her şey kendini kandırmak, kendini aldatmak, soyut şeylerle kendini uyuşturmak ve kendinden geçmek anlamına gelir."
+
+Ölmeden önce üzerinde çalıştığı son kitabı Clarissa, Zweig'ın sözleriyle, "Bir kadının yaşadıklarından hareketle, 1902'den savaşın patlak vermesine kadar geçen süre içinde dünyanın anlatıldığı roman"dır. Zweig, Avusturyalı bir subayın kızı Clarissa Schuhmeister'in hayatını anlatırken, Birinci Dünya Savaşı'nın gerek Avusturya ve Orta Avrupa kültürü, gerek bireyler üzerindeki etkisini gözler önüne serer. Clarissa, yazarının 1942'deki intiharıyla yarım kalmış, ancak 39 yıl sonra 1981'de gün ışığına çıkarılan metni Zweig'ın yayıncısı Knut Beck tamamlamıştı.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Stefan Zweig&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">6ab5f274-6186-4c34-b8e2-fb54ea91ebcb</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750711961</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/can-clarissa.jpg" id="can-clarissa.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0001.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,884 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Sefiller</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Hugo, Victor">Victor Hugo</dc:creator>
+    <dc:description>Tam Metin, 3 Cilt Tek Kitap Halinde,</dc:description>
+    <dc:publisher>Ötüken Neşriyat</dc:publisher>
+    <dc:date>2014-03-24T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:6a61bc00-ec29-490f-98ae-1e312ff12429</dc:identifier>
+    <dc:subject>Sefiller</dc:subject>
+    <dc:subject>Sefiller Tam Metin</dc:subject>
+    <dc:subject>Victor Hugo</dc:subject>
+    <dc:subject>Erol Kılınç</dc:subject>
+    <dc:subject>Ötüken Neşriyat</dc:subject>
+    <dc:subject>Klasikler</dc:subject>
+    <dc:subject>978-605-155-051-0</dc:subject>
+    <dc:subject>9786051550510</dc:subject>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (3.14.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>ar-SA</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">48216eaf-8d38-4965-b3b3-452d49f0b1b0</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="Sefiller_e-kitap.jpeg"/>
+    <meta name="calibre:title_sort" content="Sefiller"/>
+    <meta name="calibre:author_link_map" content="{&quot;Victor Hugo&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="sefiller.xhtml" id="sefiller" media-type="application/xhtml+xml"/>
+    <item href="sefiller-1.xhtml" id="sefiller-1" media-type="application/xhtml+xml"/>
+    <item href="sefiller-2.xhtml" id="sefiller-2" media-type="application/xhtml+xml"/>
+    <item href="sefiller-3.xhtml" id="sefiller-3" media-type="application/xhtml+xml"/>
+    <item href="sefiller-4.xhtml" id="sefiller-4" media-type="application/xhtml+xml"/>
+    <item href="sefiller-5.xhtml" id="sefiller-5" media-type="application/xhtml+xml"/>
+    <item href="sefiller-6.xhtml" id="sefiller-6" media-type="application/xhtml+xml"/>
+    <item href="sefiller-7.xhtml" id="sefiller-7" media-type="application/xhtml+xml"/>
+    <item href="sefiller-8.xhtml" id="sefiller-8" media-type="application/xhtml+xml"/>
+    <item href="sefiller-9.xhtml" id="sefiller-9" media-type="application/xhtml+xml"/>
+    <item href="sefiller-10.xhtml" id="sefiller-10" media-type="application/xhtml+xml"/>
+    <item href="sefiller-11.xhtml" id="sefiller-11" media-type="application/xhtml+xml"/>
+    <item href="sefiller-12.xhtml" id="sefiller-12" media-type="application/xhtml+xml"/>
+    <item href="sefiller-13.xhtml" id="sefiller-13" media-type="application/xhtml+xml"/>
+    <item href="sefiller-14.xhtml" id="sefiller-14" media-type="application/xhtml+xml"/>
+    <item href="sefiller-15.xhtml" id="sefiller-15" media-type="application/xhtml+xml"/>
+    <item href="sefiller-16.xhtml" id="sefiller-16" media-type="application/xhtml+xml"/>
+    <item href="sefiller-17.xhtml" id="sefiller-17" media-type="application/xhtml+xml"/>
+    <item href="sefiller-18.xhtml" id="sefiller-18" media-type="application/xhtml+xml"/>
+    <item href="sefiller-19.xhtml" id="sefiller-19" media-type="application/xhtml+xml"/>
+    <item href="sefiller-20.xhtml" id="sefiller-20" media-type="application/xhtml+xml"/>
+    <item href="sefiller-21.xhtml" id="sefiller-21" media-type="application/xhtml+xml"/>
+    <item href="sefiller-22.xhtml" id="sefiller-22" media-type="application/xhtml+xml"/>
+    <item href="sefiller-23.xhtml" id="sefiller-23" media-type="application/xhtml+xml"/>
+    <item href="sefiller-24.xhtml" id="sefiller-24" media-type="application/xhtml+xml"/>
+    <item href="sefiller-25.xhtml" id="sefiller-25" media-type="application/xhtml+xml"/>
+    <item href="sefiller-26.xhtml" id="sefiller-26" media-type="application/xhtml+xml"/>
+    <item href="sefiller-27.xhtml" id="sefiller-27" media-type="application/xhtml+xml"/>
+    <item href="sefiller-28.xhtml" id="sefiller-28" media-type="application/xhtml+xml"/>
+    <item href="sefiller-29.xhtml" id="sefiller-29" media-type="application/xhtml+xml"/>
+    <item href="sefiller-30.xhtml" id="sefiller-30" media-type="application/xhtml+xml"/>
+    <item href="sefiller-31.xhtml" id="sefiller-31" media-type="application/xhtml+xml"/>
+    <item href="sefiller-32.xhtml" id="sefiller-32" media-type="application/xhtml+xml"/>
+    <item href="sefiller-33.xhtml" id="sefiller-33" media-type="application/xhtml+xml"/>
+    <item href="sefiller-34.xhtml" id="sefiller-34" media-type="application/xhtml+xml"/>
+    <item href="sefiller-35.xhtml" id="sefiller-35" media-type="application/xhtml+xml"/>
+    <item href="sefiller-36.xhtml" id="sefiller-36" media-type="application/xhtml+xml"/>
+    <item href="sefiller-37.xhtml" id="sefiller-37" media-type="application/xhtml+xml"/>
+    <item href="sefiller-38.xhtml" id="sefiller-38" media-type="application/xhtml+xml"/>
+    <item href="sefiller-39.xhtml" id="sefiller-39" media-type="application/xhtml+xml"/>
+    <item href="sefiller-40.xhtml" id="sefiller-40" media-type="application/xhtml+xml"/>
+    <item href="sefiller-41.xhtml" id="sefiller-41" media-type="application/xhtml+xml"/>
+    <item href="sefiller-42.xhtml" id="sefiller-42" media-type="application/xhtml+xml"/>
+    <item href="sefiller-43.xhtml" id="sefiller-43" media-type="application/xhtml+xml"/>
+    <item href="sefiller-44.xhtml" id="sefiller-44" media-type="application/xhtml+xml"/>
+    <item href="sefiller-45.xhtml" id="sefiller-45" media-type="application/xhtml+xml"/>
+    <item href="sefiller-46.xhtml" id="sefiller-46" media-type="application/xhtml+xml"/>
+    <item href="sefiller-47.xhtml" id="sefiller-47" media-type="application/xhtml+xml"/>
+    <item href="sefiller-48.xhtml" id="sefiller-48" media-type="application/xhtml+xml"/>
+    <item href="sefiller-49.xhtml" id="sefiller-49" media-type="application/xhtml+xml"/>
+    <item href="sefiller-50.xhtml" id="sefiller-50" media-type="application/xhtml+xml"/>
+    <item href="sefiller-51.xhtml" id="sefiller-51" media-type="application/xhtml+xml"/>
+    <item href="sefiller-52.xhtml" id="sefiller-52" media-type="application/xhtml+xml"/>
+    <item href="sefiller-53.xhtml" id="sefiller-53" media-type="application/xhtml+xml"/>
+    <item href="sefiller-54.xhtml" id="sefiller-54" media-type="application/xhtml+xml"/>
+    <item href="sefiller-55.xhtml" id="sefiller-55" media-type="application/xhtml+xml"/>
+    <item href="sefiller-56.xhtml" id="sefiller-56" media-type="application/xhtml+xml"/>
+    <item href="sefiller-57.xhtml" id="sefiller-57" media-type="application/xhtml+xml"/>
+    <item href="sefiller-58.xhtml" id="sefiller-58" media-type="application/xhtml+xml"/>
+    <item href="sefiller-59.xhtml" id="sefiller-59" media-type="application/xhtml+xml"/>
+    <item href="sefiller-60.xhtml" id="sefiller-60" media-type="application/xhtml+xml"/>
+    <item href="sefiller-61.xhtml" id="sefiller-61" media-type="application/xhtml+xml"/>
+    <item href="sefiller-62.xhtml" id="sefiller-62" media-type="application/xhtml+xml"/>
+    <item href="sefiller-63.xhtml" id="sefiller-63" media-type="application/xhtml+xml"/>
+    <item href="sefiller-64.xhtml" id="sefiller-64" media-type="application/xhtml+xml"/>
+    <item href="sefiller-65.xhtml" id="sefiller-65" media-type="application/xhtml+xml"/>
+    <item href="sefiller-66.xhtml" id="sefiller-66" media-type="application/xhtml+xml"/>
+    <item href="sefiller-67.xhtml" id="sefiller-67" media-type="application/xhtml+xml"/>
+    <item href="sefiller-68.xhtml" id="sefiller-68" media-type="application/xhtml+xml"/>
+    <item href="sefiller-69.xhtml" id="sefiller-69" media-type="application/xhtml+xml"/>
+    <item href="sefiller-70.xhtml" id="sefiller-70" media-type="application/xhtml+xml"/>
+    <item href="sefiller-71.xhtml" id="sefiller-71" media-type="application/xhtml+xml"/>
+    <item href="sefiller-72.xhtml" id="sefiller-72" media-type="application/xhtml+xml"/>
+    <item href="sefiller-73.xhtml" id="sefiller-73" media-type="application/xhtml+xml"/>
+    <item href="sefiller-74.xhtml" id="sefiller-74" media-type="application/xhtml+xml"/>
+    <item href="sefiller-75.xhtml" id="sefiller-75" media-type="application/xhtml+xml"/>
+    <item href="sefiller-76.xhtml" id="sefiller-76" media-type="application/xhtml+xml"/>
+    <item href="sefiller-77.xhtml" id="sefiller-77" media-type="application/xhtml+xml"/>
+    <item href="sefiller-78.xhtml" id="sefiller-78" media-type="application/xhtml+xml"/>
+    <item href="sefiller-79.xhtml" id="sefiller-79" media-type="application/xhtml+xml"/>
+    <item href="sefiller-80.xhtml" id="sefiller-80" media-type="application/xhtml+xml"/>
+    <item href="sefiller-81.xhtml" id="sefiller-81" media-type="application/xhtml+xml"/>
+    <item href="sefiller-82.xhtml" id="sefiller-82" media-type="application/xhtml+xml"/>
+    <item href="sefiller-83.xhtml" id="sefiller-83" media-type="application/xhtml+xml"/>
+    <item href="sefiller-84.xhtml" id="sefiller-84" media-type="application/xhtml+xml"/>
+    <item href="sefiller-85.xhtml" id="sefiller-85" media-type="application/xhtml+xml"/>
+    <item href="sefiller-86.xhtml" id="sefiller-86" media-type="application/xhtml+xml"/>
+    <item href="sefiller-87.xhtml" id="sefiller-87" media-type="application/xhtml+xml"/>
+    <item href="sefiller-88.xhtml" id="sefiller-88" media-type="application/xhtml+xml"/>
+    <item href="sefiller-89.xhtml" id="sefiller-89" media-type="application/xhtml+xml"/>
+    <item href="sefiller-90.xhtml" id="sefiller-90" media-type="application/xhtml+xml"/>
+    <item href="sefiller-91.xhtml" id="sefiller-91" media-type="application/xhtml+xml"/>
+    <item href="sefiller-92.xhtml" id="sefiller-92" media-type="application/xhtml+xml"/>
+    <item href="sefiller-93.xhtml" id="sefiller-93" media-type="application/xhtml+xml"/>
+    <item href="sefiller-94.xhtml" id="sefiller-94" media-type="application/xhtml+xml"/>
+    <item href="sefiller-95.xhtml" id="sefiller-95" media-type="application/xhtml+xml"/>
+    <item href="sefiller-96.xhtml" id="sefiller-96" media-type="application/xhtml+xml"/>
+    <item href="sefiller-97.xhtml" id="sefiller-97" media-type="application/xhtml+xml"/>
+    <item href="sefiller-98.xhtml" id="sefiller-98" media-type="application/xhtml+xml"/>
+    <item href="sefiller-99.xhtml" id="sefiller-99" media-type="application/xhtml+xml"/>
+    <item href="sefiller-100.xhtml" id="sefiller-100" media-type="application/xhtml+xml"/>
+    <item href="sefiller-101.xhtml" id="sefiller-101" media-type="application/xhtml+xml"/>
+    <item href="sefiller-102.xhtml" id="sefiller-102" media-type="application/xhtml+xml"/>
+    <item href="sefiller-103.xhtml" id="sefiller-103" media-type="application/xhtml+xml"/>
+    <item href="sefiller-104.xhtml" id="sefiller-104" media-type="application/xhtml+xml"/>
+    <item href="sefiller-105.xhtml" id="sefiller-105" media-type="application/xhtml+xml"/>
+    <item href="sefiller-106.xhtml" id="sefiller-106" media-type="application/xhtml+xml"/>
+    <item href="sefiller-107.xhtml" id="sefiller-107" media-type="application/xhtml+xml"/>
+    <item href="sefiller-108.xhtml" id="sefiller-108" media-type="application/xhtml+xml"/>
+    <item href="sefiller-109.xhtml" id="sefiller-109" media-type="application/xhtml+xml"/>
+    <item href="sefiller-110.xhtml" id="sefiller-110" media-type="application/xhtml+xml"/>
+    <item href="sefiller-111.xhtml" id="sefiller-111" media-type="application/xhtml+xml"/>
+    <item href="sefiller-112.xhtml" id="sefiller-112" media-type="application/xhtml+xml"/>
+    <item href="sefiller-113.xhtml" id="sefiller-113" media-type="application/xhtml+xml"/>
+    <item href="sefiller-114.xhtml" id="sefiller-114" media-type="application/xhtml+xml"/>
+    <item href="sefiller-115.xhtml" id="sefiller-115" media-type="application/xhtml+xml"/>
+    <item href="sefiller-116.xhtml" id="sefiller-116" media-type="application/xhtml+xml"/>
+    <item href="sefiller-117.xhtml" id="sefiller-117" media-type="application/xhtml+xml"/>
+    <item href="sefiller-118.xhtml" id="sefiller-118" media-type="application/xhtml+xml"/>
+    <item href="sefiller-119.xhtml" id="sefiller-119" media-type="application/xhtml+xml"/>
+    <item href="sefiller-120.xhtml" id="sefiller-120" media-type="application/xhtml+xml"/>
+    <item href="sefiller-121.xhtml" id="sefiller-121" media-type="application/xhtml+xml"/>
+    <item href="sefiller-122.xhtml" id="sefiller-122" media-type="application/xhtml+xml"/>
+    <item href="sefiller-123.xhtml" id="sefiller-123" media-type="application/xhtml+xml"/>
+    <item href="sefiller-124.xhtml" id="sefiller-124" media-type="application/xhtml+xml"/>
+    <item href="sefiller-125.xhtml" id="sefiller-125" media-type="application/xhtml+xml"/>
+    <item href="sefiller-126.xhtml" id="sefiller-126" media-type="application/xhtml+xml"/>
+    <item href="sefiller-127.xhtml" id="sefiller-127" media-type="application/xhtml+xml"/>
+    <item href="sefiller-128.xhtml" id="sefiller-128" media-type="application/xhtml+xml"/>
+    <item href="sefiller-129.xhtml" id="sefiller-129" media-type="application/xhtml+xml"/>
+    <item href="sefiller-130.xhtml" id="sefiller-130" media-type="application/xhtml+xml"/>
+    <item href="sefiller-131.xhtml" id="sefiller-131" media-type="application/xhtml+xml"/>
+    <item href="sefiller-132.xhtml" id="sefiller-132" media-type="application/xhtml+xml"/>
+    <item href="sefiller-133.xhtml" id="sefiller-133" media-type="application/xhtml+xml"/>
+    <item href="sefiller-134.xhtml" id="sefiller-134" media-type="application/xhtml+xml"/>
+    <item href="sefiller-135.xhtml" id="sefiller-135" media-type="application/xhtml+xml"/>
+    <item href="sefiller-136.xhtml" id="sefiller-136" media-type="application/xhtml+xml"/>
+    <item href="sefiller-137.xhtml" id="sefiller-137" media-type="application/xhtml+xml"/>
+    <item href="sefiller-138.xhtml" id="sefiller-138" media-type="application/xhtml+xml"/>
+    <item href="sefiller-139.xhtml" id="sefiller-139" media-type="application/xhtml+xml"/>
+    <item href="sefiller-140.xhtml" id="sefiller-140" media-type="application/xhtml+xml"/>
+    <item href="sefiller-141.xhtml" id="sefiller-141" media-type="application/xhtml+xml"/>
+    <item href="sefiller-142.xhtml" id="sefiller-142" media-type="application/xhtml+xml"/>
+    <item href="sefiller-143.xhtml" id="sefiller-143" media-type="application/xhtml+xml"/>
+    <item href="sefiller-144.xhtml" id="sefiller-144" media-type="application/xhtml+xml"/>
+    <item href="sefiller-145.xhtml" id="sefiller-145" media-type="application/xhtml+xml"/>
+    <item href="sefiller-146.xhtml" id="sefiller-146" media-type="application/xhtml+xml"/>
+    <item href="sefiller-147.xhtml" id="sefiller-147" media-type="application/xhtml+xml"/>
+    <item href="sefiller-148.xhtml" id="sefiller-148" media-type="application/xhtml+xml"/>
+    <item href="sefiller-149.xhtml" id="sefiller-149" media-type="application/xhtml+xml"/>
+    <item href="sefiller-150.xhtml" id="sefiller-150" media-type="application/xhtml+xml"/>
+    <item href="sefiller-151.xhtml" id="sefiller-151" media-type="application/xhtml+xml"/>
+    <item href="sefiller-152.xhtml" id="sefiller-152" media-type="application/xhtml+xml"/>
+    <item href="sefiller-153.xhtml" id="sefiller-153" media-type="application/xhtml+xml"/>
+    <item href="sefiller-154.xhtml" id="sefiller-154" media-type="application/xhtml+xml"/>
+    <item href="sefiller-155.xhtml" id="sefiller-155" media-type="application/xhtml+xml"/>
+    <item href="sefiller-156.xhtml" id="sefiller-156" media-type="application/xhtml+xml"/>
+    <item href="sefiller-157.xhtml" id="sefiller-157" media-type="application/xhtml+xml"/>
+    <item href="sefiller-158.xhtml" id="sefiller-158" media-type="application/xhtml+xml"/>
+    <item href="sefiller-159.xhtml" id="sefiller-159" media-type="application/xhtml+xml"/>
+    <item href="sefiller-160.xhtml" id="sefiller-160" media-type="application/xhtml+xml"/>
+    <item href="sefiller-161.xhtml" id="sefiller-161" media-type="application/xhtml+xml"/>
+    <item href="sefiller-162.xhtml" id="sefiller-162" media-type="application/xhtml+xml"/>
+    <item href="sefiller-163.xhtml" id="sefiller-163" media-type="application/xhtml+xml"/>
+    <item href="sefiller-164.xhtml" id="sefiller-164" media-type="application/xhtml+xml"/>
+    <item href="sefiller-165.xhtml" id="sefiller-165" media-type="application/xhtml+xml"/>
+    <item href="sefiller-166.xhtml" id="sefiller-166" media-type="application/xhtml+xml"/>
+    <item href="sefiller-167.xhtml" id="sefiller-167" media-type="application/xhtml+xml"/>
+    <item href="sefiller-168.xhtml" id="sefiller-168" media-type="application/xhtml+xml"/>
+    <item href="sefiller-169.xhtml" id="sefiller-169" media-type="application/xhtml+xml"/>
+    <item href="sefiller-170.xhtml" id="sefiller-170" media-type="application/xhtml+xml"/>
+    <item href="sefiller-171.xhtml" id="sefiller-171" media-type="application/xhtml+xml"/>
+    <item href="sefiller-172.xhtml" id="sefiller-172" media-type="application/xhtml+xml"/>
+    <item href="sefiller-173.xhtml" id="sefiller-173" media-type="application/xhtml+xml"/>
+    <item href="sefiller-174.xhtml" id="sefiller-174" media-type="application/xhtml+xml"/>
+    <item href="sefiller-175.xhtml" id="sefiller-175" media-type="application/xhtml+xml"/>
+    <item href="sefiller-176.xhtml" id="sefiller-176" media-type="application/xhtml+xml"/>
+    <item href="sefiller-177.xhtml" id="sefiller-177" media-type="application/xhtml+xml"/>
+    <item href="sefiller-178.xhtml" id="sefiller-178" media-type="application/xhtml+xml"/>
+    <item href="sefiller-179.xhtml" id="sefiller-179" media-type="application/xhtml+xml"/>
+    <item href="sefiller-180.xhtml" id="sefiller-180" media-type="application/xhtml+xml"/>
+    <item href="sefiller-181.xhtml" id="sefiller-181" media-type="application/xhtml+xml"/>
+    <item href="sefiller-182.xhtml" id="sefiller-182" media-type="application/xhtml+xml"/>
+    <item href="sefiller-183.xhtml" id="sefiller-183" media-type="application/xhtml+xml"/>
+    <item href="sefiller-184.xhtml" id="sefiller-184" media-type="application/xhtml+xml"/>
+    <item href="sefiller-185.xhtml" id="sefiller-185" media-type="application/xhtml+xml"/>
+    <item href="sefiller-186.xhtml" id="sefiller-186" media-type="application/xhtml+xml"/>
+    <item href="sefiller-187.xhtml" id="sefiller-187" media-type="application/xhtml+xml"/>
+    <item href="sefiller-188.xhtml" id="sefiller-188" media-type="application/xhtml+xml"/>
+    <item href="sefiller-189.xhtml" id="sefiller-189" media-type="application/xhtml+xml"/>
+    <item href="sefiller-190.xhtml" id="sefiller-190" media-type="application/xhtml+xml"/>
+    <item href="sefiller-191.xhtml" id="sefiller-191" media-type="application/xhtml+xml"/>
+    <item href="sefiller-192.xhtml" id="sefiller-192" media-type="application/xhtml+xml"/>
+    <item href="sefiller-193.xhtml" id="sefiller-193" media-type="application/xhtml+xml"/>
+    <item href="sefiller-194.xhtml" id="sefiller-194" media-type="application/xhtml+xml"/>
+    <item href="sefiller-195.xhtml" id="sefiller-195" media-type="application/xhtml+xml"/>
+    <item href="sefiller-196.xhtml" id="sefiller-196" media-type="application/xhtml+xml"/>
+    <item href="sefiller-197.xhtml" id="sefiller-197" media-type="application/xhtml+xml"/>
+    <item href="sefiller-198.xhtml" id="sefiller-198" media-type="application/xhtml+xml"/>
+    <item href="sefiller-199.xhtml" id="sefiller-199" media-type="application/xhtml+xml"/>
+    <item href="sefiller-200.xhtml" id="sefiller-200" media-type="application/xhtml+xml"/>
+    <item href="sefiller-201.xhtml" id="sefiller-201" media-type="application/xhtml+xml"/>
+    <item href="sefiller-202.xhtml" id="sefiller-202" media-type="application/xhtml+xml"/>
+    <item href="sefiller-203.xhtml" id="sefiller-203" media-type="application/xhtml+xml"/>
+    <item href="sefiller-204.xhtml" id="sefiller-204" media-type="application/xhtml+xml"/>
+    <item href="sefiller-205.xhtml" id="sefiller-205" media-type="application/xhtml+xml"/>
+    <item href="sefiller-206.xhtml" id="sefiller-206" media-type="application/xhtml+xml"/>
+    <item href="sefiller-207.xhtml" id="sefiller-207" media-type="application/xhtml+xml"/>
+    <item href="sefiller-208.xhtml" id="sefiller-208" media-type="application/xhtml+xml"/>
+    <item href="sefiller-209.xhtml" id="sefiller-209" media-type="application/xhtml+xml"/>
+    <item href="sefiller-210.xhtml" id="sefiller-210" media-type="application/xhtml+xml"/>
+    <item href="sefiller-211.xhtml" id="sefiller-211" media-type="application/xhtml+xml"/>
+    <item href="sefiller-212.xhtml" id="sefiller-212" media-type="application/xhtml+xml"/>
+    <item href="sefiller-213.xhtml" id="sefiller-213" media-type="application/xhtml+xml"/>
+    <item href="sefiller-214.xhtml" id="sefiller-214" media-type="application/xhtml+xml"/>
+    <item href="sefiller-215.xhtml" id="sefiller-215" media-type="application/xhtml+xml"/>
+    <item href="sefiller-216.xhtml" id="sefiller-216" media-type="application/xhtml+xml"/>
+    <item href="sefiller-217.xhtml" id="sefiller-217" media-type="application/xhtml+xml"/>
+    <item href="sefiller-218.xhtml" id="sefiller-218" media-type="application/xhtml+xml"/>
+    <item href="sefiller-219.xhtml" id="sefiller-219" media-type="application/xhtml+xml"/>
+    <item href="sefiller-220.xhtml" id="sefiller-220" media-type="application/xhtml+xml"/>
+    <item href="sefiller-221.xhtml" id="sefiller-221" media-type="application/xhtml+xml"/>
+    <item href="sefiller-222.xhtml" id="sefiller-222" media-type="application/xhtml+xml"/>
+    <item href="sefiller-223.xhtml" id="sefiller-223" media-type="application/xhtml+xml"/>
+    <item href="sefiller-224.xhtml" id="sefiller-224" media-type="application/xhtml+xml"/>
+    <item href="sefiller-225.xhtml" id="sefiller-225" media-type="application/xhtml+xml"/>
+    <item href="sefiller-226.xhtml" id="sefiller-226" media-type="application/xhtml+xml"/>
+    <item href="sefiller-227.xhtml" id="sefiller-227" media-type="application/xhtml+xml"/>
+    <item href="sefiller-228.xhtml" id="sefiller-228" media-type="application/xhtml+xml"/>
+    <item href="sefiller-229.xhtml" id="sefiller-229" media-type="application/xhtml+xml"/>
+    <item href="sefiller-230.xhtml" id="sefiller-230" media-type="application/xhtml+xml"/>
+    <item href="sefiller-231.xhtml" id="sefiller-231" media-type="application/xhtml+xml"/>
+    <item href="sefiller-232.xhtml" id="sefiller-232" media-type="application/xhtml+xml"/>
+    <item href="sefiller-233.xhtml" id="sefiller-233" media-type="application/xhtml+xml"/>
+    <item href="sefiller-234.xhtml" id="sefiller-234" media-type="application/xhtml+xml"/>
+    <item href="sefiller-235.xhtml" id="sefiller-235" media-type="application/xhtml+xml"/>
+    <item href="sefiller-236.xhtml" id="sefiller-236" media-type="application/xhtml+xml"/>
+    <item href="sefiller-237.xhtml" id="sefiller-237" media-type="application/xhtml+xml"/>
+    <item href="sefiller-238.xhtml" id="sefiller-238" media-type="application/xhtml+xml"/>
+    <item href="sefiller-239.xhtml" id="sefiller-239" media-type="application/xhtml+xml"/>
+    <item href="sefiller-240.xhtml" id="sefiller-240" media-type="application/xhtml+xml"/>
+    <item href="sefiller-241.xhtml" id="sefiller-241" media-type="application/xhtml+xml"/>
+    <item href="sefiller-242.xhtml" id="sefiller-242" media-type="application/xhtml+xml"/>
+    <item href="sefiller-243.xhtml" id="sefiller-243" media-type="application/xhtml+xml"/>
+    <item href="sefiller-244.xhtml" id="sefiller-244" media-type="application/xhtml+xml"/>
+    <item href="sefiller-245.xhtml" id="sefiller-245" media-type="application/xhtml+xml"/>
+    <item href="sefiller-246.xhtml" id="sefiller-246" media-type="application/xhtml+xml"/>
+    <item href="sefiller-247.xhtml" id="sefiller-247" media-type="application/xhtml+xml"/>
+    <item href="sefiller-248.xhtml" id="sefiller-248" media-type="application/xhtml+xml"/>
+    <item href="sefiller-249.xhtml" id="sefiller-249" media-type="application/xhtml+xml"/>
+    <item href="sefiller-250.xhtml" id="sefiller-250" media-type="application/xhtml+xml"/>
+    <item href="sefiller-251.xhtml" id="sefiller-251" media-type="application/xhtml+xml"/>
+    <item href="sefiller-252.xhtml" id="sefiller-252" media-type="application/xhtml+xml"/>
+    <item href="sefiller-253.xhtml" id="sefiller-253" media-type="application/xhtml+xml"/>
+    <item href="sefiller-254.xhtml" id="sefiller-254" media-type="application/xhtml+xml"/>
+    <item href="sefiller-255.xhtml" id="sefiller-255" media-type="application/xhtml+xml"/>
+    <item href="sefiller-256.xhtml" id="sefiller-256" media-type="application/xhtml+xml"/>
+    <item href="sefiller-257.xhtml" id="sefiller-257" media-type="application/xhtml+xml"/>
+    <item href="sefiller-258.xhtml" id="sefiller-258" media-type="application/xhtml+xml"/>
+    <item href="sefiller-259.xhtml" id="sefiller-259" media-type="application/xhtml+xml"/>
+    <item href="sefiller-260.xhtml" id="sefiller-260" media-type="application/xhtml+xml"/>
+    <item href="sefiller-261.xhtml" id="sefiller-261" media-type="application/xhtml+xml"/>
+    <item href="sefiller-262.xhtml" id="sefiller-262" media-type="application/xhtml+xml"/>
+    <item href="sefiller-263.xhtml" id="sefiller-263" media-type="application/xhtml+xml"/>
+    <item href="sefiller-264.xhtml" id="sefiller-264" media-type="application/xhtml+xml"/>
+    <item href="sefiller-265.xhtml" id="sefiller-265" media-type="application/xhtml+xml"/>
+    <item href="sefiller-266.xhtml" id="sefiller-266" media-type="application/xhtml+xml"/>
+    <item href="sefiller-267.xhtml" id="sefiller-267" media-type="application/xhtml+xml"/>
+    <item href="sefiller-268.xhtml" id="sefiller-268" media-type="application/xhtml+xml"/>
+    <item href="sefiller-269.xhtml" id="sefiller-269" media-type="application/xhtml+xml"/>
+    <item href="sefiller-270.xhtml" id="sefiller-270" media-type="application/xhtml+xml"/>
+    <item href="sefiller-271.xhtml" id="sefiller-271" media-type="application/xhtml+xml"/>
+    <item href="sefiller-272.xhtml" id="sefiller-272" media-type="application/xhtml+xml"/>
+    <item href="sefiller-273.xhtml" id="sefiller-273" media-type="application/xhtml+xml"/>
+    <item href="sefiller-274.xhtml" id="sefiller-274" media-type="application/xhtml+xml"/>
+    <item href="sefiller-275.xhtml" id="sefiller-275" media-type="application/xhtml+xml"/>
+    <item href="sefiller-276.xhtml" id="sefiller-276" media-type="application/xhtml+xml"/>
+    <item href="sefiller-277.xhtml" id="sefiller-277" media-type="application/xhtml+xml"/>
+    <item href="sefiller-278.xhtml" id="sefiller-278" media-type="application/xhtml+xml"/>
+    <item href="sefiller-279.xhtml" id="sefiller-279" media-type="application/xhtml+xml"/>
+    <item href="sefiller-280.xhtml" id="sefiller-280" media-type="application/xhtml+xml"/>
+    <item href="sefiller-281.xhtml" id="sefiller-281" media-type="application/xhtml+xml"/>
+    <item href="sefiller-282.xhtml" id="sefiller-282" media-type="application/xhtml+xml"/>
+    <item href="sefiller-283.xhtml" id="sefiller-283" media-type="application/xhtml+xml"/>
+    <item href="sefiller-284.xhtml" id="sefiller-284" media-type="application/xhtml+xml"/>
+    <item href="sefiller-285.xhtml" id="sefiller-285" media-type="application/xhtml+xml"/>
+    <item href="sefiller-286.xhtml" id="sefiller-286" media-type="application/xhtml+xml"/>
+    <item href="sefiller-287.xhtml" id="sefiller-287" media-type="application/xhtml+xml"/>
+    <item href="sefiller-288.xhtml" id="sefiller-288" media-type="application/xhtml+xml"/>
+    <item href="sefiller-289.xhtml" id="sefiller-289" media-type="application/xhtml+xml"/>
+    <item href="sefiller-290.xhtml" id="sefiller-290" media-type="application/xhtml+xml"/>
+    <item href="sefiller-291.xhtml" id="sefiller-291" media-type="application/xhtml+xml"/>
+    <item href="sefiller-292.xhtml" id="sefiller-292" media-type="application/xhtml+xml"/>
+    <item href="sefiller-293.xhtml" id="sefiller-293" media-type="application/xhtml+xml"/>
+    <item href="sefiller-294.xhtml" id="sefiller-294" media-type="application/xhtml+xml"/>
+    <item href="sefiller-295.xhtml" id="sefiller-295" media-type="application/xhtml+xml"/>
+    <item href="sefiller-296.xhtml" id="sefiller-296" media-type="application/xhtml+xml"/>
+    <item href="sefiller-297.xhtml" id="sefiller-297" media-type="application/xhtml+xml"/>
+    <item href="sefiller-298.xhtml" id="sefiller-298" media-type="application/xhtml+xml"/>
+    <item href="sefiller-299.xhtml" id="sefiller-299" media-type="application/xhtml+xml"/>
+    <item href="sefiller-300.xhtml" id="sefiller-300" media-type="application/xhtml+xml"/>
+    <item href="sefiller-301.xhtml" id="sefiller-301" media-type="application/xhtml+xml"/>
+    <item href="sefiller-302.xhtml" id="sefiller-302" media-type="application/xhtml+xml"/>
+    <item href="sefiller-303.xhtml" id="sefiller-303" media-type="application/xhtml+xml"/>
+    <item href="sefiller-304.xhtml" id="sefiller-304" media-type="application/xhtml+xml"/>
+    <item href="sefiller-305.xhtml" id="sefiller-305" media-type="application/xhtml+xml"/>
+    <item href="sefiller-306.xhtml" id="sefiller-306" media-type="application/xhtml+xml"/>
+    <item href="sefiller-307.xhtml" id="sefiller-307" media-type="application/xhtml+xml"/>
+    <item href="sefiller-308.xhtml" id="sefiller-308" media-type="application/xhtml+xml"/>
+    <item href="sefiller-309.xhtml" id="sefiller-309" media-type="application/xhtml+xml"/>
+    <item href="sefiller-310.xhtml" id="sefiller-310" media-type="application/xhtml+xml"/>
+    <item href="sefiller-311.xhtml" id="sefiller-311" media-type="application/xhtml+xml"/>
+    <item href="sefiller-312.xhtml" id="sefiller-312" media-type="application/xhtml+xml"/>
+    <item href="sefiller-313.xhtml" id="sefiller-313" media-type="application/xhtml+xml"/>
+    <item href="sefiller-314.xhtml" id="sefiller-314" media-type="application/xhtml+xml"/>
+    <item href="sefiller-315.xhtml" id="sefiller-315" media-type="application/xhtml+xml"/>
+    <item href="sefiller-316.xhtml" id="sefiller-316" media-type="application/xhtml+xml"/>
+    <item href="sefiller-317.xhtml" id="sefiller-317" media-type="application/xhtml+xml"/>
+    <item href="sefiller-318.xhtml" id="sefiller-318" media-type="application/xhtml+xml"/>
+    <item href="sefiller-319.xhtml" id="sefiller-319" media-type="application/xhtml+xml"/>
+    <item href="sefiller-320.xhtml" id="sefiller-320" media-type="application/xhtml+xml"/>
+    <item href="sefiller-321.xhtml" id="sefiller-321" media-type="application/xhtml+xml"/>
+    <item href="sefiller-322.xhtml" id="sefiller-322" media-type="application/xhtml+xml"/>
+    <item href="sefiller-323.xhtml" id="sefiller-323" media-type="application/xhtml+xml"/>
+    <item href="sefiller-324.xhtml" id="sefiller-324" media-type="application/xhtml+xml"/>
+    <item href="sefiller-325.xhtml" id="sefiller-325" media-type="application/xhtml+xml"/>
+    <item href="sefiller-326.xhtml" id="sefiller-326" media-type="application/xhtml+xml"/>
+    <item href="sefiller-327.xhtml" id="sefiller-327" media-type="application/xhtml+xml"/>
+    <item href="sefiller-328.xhtml" id="sefiller-328" media-type="application/xhtml+xml"/>
+    <item href="sefiller-329.xhtml" id="sefiller-329" media-type="application/xhtml+xml"/>
+    <item href="sefiller-330.xhtml" id="sefiller-330" media-type="application/xhtml+xml"/>
+    <item href="sefiller-331.xhtml" id="sefiller-331" media-type="application/xhtml+xml"/>
+    <item href="sefiller-332.xhtml" id="sefiller-332" media-type="application/xhtml+xml"/>
+    <item href="sefiller-333.xhtml" id="sefiller-333" media-type="application/xhtml+xml"/>
+    <item href="sefiller-334.xhtml" id="sefiller-334" media-type="application/xhtml+xml"/>
+    <item href="sefiller-335.xhtml" id="sefiller-335" media-type="application/xhtml+xml"/>
+    <item href="sefiller-336.xhtml" id="sefiller-336" media-type="application/xhtml+xml"/>
+    <item href="sefiller-337.xhtml" id="sefiller-337" media-type="application/xhtml+xml"/>
+    <item href="sefiller-338.xhtml" id="sefiller-338" media-type="application/xhtml+xml"/>
+    <item href="sefiller-339.xhtml" id="sefiller-339" media-type="application/xhtml+xml"/>
+    <item href="sefiller-340.xhtml" id="sefiller-340" media-type="application/xhtml+xml"/>
+    <item href="sefiller-341.xhtml" id="sefiller-341" media-type="application/xhtml+xml"/>
+    <item href="sefiller-342.xhtml" id="sefiller-342" media-type="application/xhtml+xml"/>
+    <item href="sefiller-343.xhtml" id="sefiller-343" media-type="application/xhtml+xml"/>
+    <item href="sefiller-344.xhtml" id="sefiller-344" media-type="application/xhtml+xml"/>
+    <item href="sefiller-345.xhtml" id="sefiller-345" media-type="application/xhtml+xml"/>
+    <item href="sefiller-346.xhtml" id="sefiller-346" media-type="application/xhtml+xml"/>
+    <item href="sefiller-347.xhtml" id="sefiller-347" media-type="application/xhtml+xml"/>
+    <item href="sefiller-348.xhtml" id="sefiller-348" media-type="application/xhtml+xml"/>
+    <item href="sefiller-349.xhtml" id="sefiller-349" media-type="application/xhtml+xml"/>
+    <item href="sefiller-350.xhtml" id="sefiller-350" media-type="application/xhtml+xml"/>
+    <item href="sefiller-351.xhtml" id="sefiller-351" media-type="application/xhtml+xml"/>
+    <item href="sefiller-352.xhtml" id="sefiller-352" media-type="application/xhtml+xml"/>
+    <item href="sefiller-353.xhtml" id="sefiller-353" media-type="application/xhtml+xml"/>
+    <item href="sefiller-354.xhtml" id="sefiller-354" media-type="application/xhtml+xml"/>
+    <item href="sefiller-355.xhtml" id="sefiller-355" media-type="application/xhtml+xml"/>
+    <item href="sefiller-356.xhtml" id="sefiller-356" media-type="application/xhtml+xml"/>
+    <item href="sefiller-357.xhtml" id="sefiller-357" media-type="application/xhtml+xml"/>
+    <item href="sefiller-358.xhtml" id="sefiller-358" media-type="application/xhtml+xml"/>
+    <item href="sefiller-359.xhtml" id="sefiller-359" media-type="application/xhtml+xml"/>
+    <item href="sefiller-360.xhtml" id="sefiller-360" media-type="application/xhtml+xml"/>
+    <item href="sefiller-361.xhtml" id="sefiller-361" media-type="application/xhtml+xml"/>
+    <item href="sefiller-362.xhtml" id="sefiller-362" media-type="application/xhtml+xml"/>
+    <item href="sefiller-363.xhtml" id="sefiller-363" media-type="application/xhtml+xml"/>
+    <item href="sefiller-364.xhtml" id="sefiller-364" media-type="application/xhtml+xml"/>
+    <item href="sefiller-365.xhtml" id="sefiller-365" media-type="application/xhtml+xml"/>
+    <item href="sefiller-366.xhtml" id="sefiller-366" media-type="application/xhtml+xml"/>
+    <item href="sefiller-367.xhtml" id="sefiller-367" media-type="application/xhtml+xml"/>
+    <item href="sefiller-368.xhtml" id="sefiller-368" media-type="application/xhtml+xml"/>
+    <item href="sefiller-369.xhtml" id="sefiller-369" media-type="application/xhtml+xml"/>
+    <item href="sefiller-370.xhtml" id="sefiller-370" media-type="application/xhtml+xml"/>
+    <item href="sefiller-371.xhtml" id="sefiller-371" media-type="application/xhtml+xml"/>
+    <item href="sefiller-372.xhtml" id="sefiller-372" media-type="application/xhtml+xml"/>
+    <item href="sefiller-373.xhtml" id="sefiller-373" media-type="application/xhtml+xml"/>
+    <item href="sefiller-374.xhtml" id="sefiller-374" media-type="application/xhtml+xml"/>
+    <item href="sefiller-375.xhtml" id="sefiller-375" media-type="application/xhtml+xml"/>
+    <item href="sefiller-376.xhtml" id="sefiller-376" media-type="application/xhtml+xml"/>
+    <item href="sefiller-377.xhtml" id="sefiller-377" media-type="application/xhtml+xml"/>
+    <item href="sefiller-378.xhtml" id="sefiller-378" media-type="application/xhtml+xml"/>
+    <item href="sefiller-379.xhtml" id="sefiller-379" media-type="application/xhtml+xml"/>
+    <item href="sefiller-380.xhtml" id="sefiller-380" media-type="application/xhtml+xml"/>
+    <item href="sefiller-381.xhtml" id="sefiller-381" media-type="application/xhtml+xml"/>
+    <item href="sefiller-382.xhtml" id="sefiller-382" media-type="application/xhtml+xml"/>
+    <item href="sefiller-383.xhtml" id="sefiller-383" media-type="application/xhtml+xml"/>
+    <item href="sefiller-384.xhtml" id="sefiller-384" media-type="application/xhtml+xml"/>
+    <item href="sefiller-385.xhtml" id="sefiller-385" media-type="application/xhtml+xml"/>
+    <item href="sefiller-386.xhtml" id="sefiller-386" media-type="application/xhtml+xml"/>
+    <item href="sefiller-387.xhtml" id="sefiller-387" media-type="application/xhtml+xml"/>
+    <item href="sefiller-388.xhtml" id="sefiller-388" media-type="application/xhtml+xml"/>
+    <item href="sefiller-389.xhtml" id="sefiller-389" media-type="application/xhtml+xml"/>
+    <item href="sefiller-390.xhtml" id="sefiller-390" media-type="application/xhtml+xml"/>
+    <item href="sefiller-391.xhtml" id="sefiller-391" media-type="application/xhtml+xml"/>
+    <item href="sefiller-392.xhtml" id="sefiller-392" media-type="application/xhtml+xml"/>
+    <item href="sefiller-393.xhtml" id="sefiller-393" media-type="application/xhtml+xml"/>
+    <item href="sefiller-394.xhtml" id="sefiller-394" media-type="application/xhtml+xml"/>
+    <item href="sefiller-395.xhtml" id="sefiller-395" media-type="application/xhtml+xml"/>
+    <item href="sefiller-396.xhtml" id="sefiller-396" media-type="application/xhtml+xml"/>
+    <item href="sefiller-397.xhtml" id="sefiller-397" media-type="application/xhtml+xml"/>
+    <item href="sefiller-398.xhtml" id="sefiller-398" media-type="application/xhtml+xml"/>
+    <item href="sefiller-399.xhtml" id="sefiller-399" media-type="application/xhtml+xml"/>
+    <item href="sefiller-400.xhtml" id="sefiller-400" media-type="application/xhtml+xml"/>
+    <item href="sefiller-401.xhtml" id="sefiller-401" media-type="application/xhtml+xml"/>
+    <item href="sefiller-402.xhtml" id="sefiller-402" media-type="application/xhtml+xml"/>
+    <item href="sefiller-403.xhtml" id="sefiller-403" media-type="application/xhtml+xml"/>
+    <item href="sefiller-404.xhtml" id="sefiller-404" media-type="application/xhtml+xml"/>
+    <item href="sefiller-405.xhtml" id="sefiller-405" media-type="application/xhtml+xml"/>
+    <item href="sefiller-406.xhtml" id="sefiller-406" media-type="application/xhtml+xml"/>
+    <item href="sefiller-407.xhtml" id="sefiller-407" media-type="application/xhtml+xml"/>
+    <item href="sefiller-408.xhtml" id="sefiller-408" media-type="application/xhtml+xml"/>
+    <item href="sefiller-409.xhtml" id="sefiller-409" media-type="application/xhtml+xml"/>
+    <item href="sefiller-410.xhtml" id="sefiller-410" media-type="application/xhtml+xml"/>
+    <item href="sefiller-411.xhtml" id="sefiller-411" media-type="application/xhtml+xml"/>
+    <item href="sefiller-412.xhtml" id="sefiller-412" media-type="application/xhtml+xml"/>
+    <item href="sefiller-413.xhtml" id="sefiller-413" media-type="application/xhtml+xml"/>
+    <item href="sefiller-414.xhtml" id="sefiller-414" media-type="application/xhtml+xml"/>
+    <item href="sefiller-415.xhtml" id="sefiller-415" media-type="application/xhtml+xml"/>
+    <item href="sefiller-416.xhtml" id="sefiller-416" media-type="application/xhtml+xml"/>
+    <item href="sefiller-417.xhtml" id="sefiller-417" media-type="application/xhtml+xml"/>
+    <item href="sefiller-418.xhtml" id="sefiller-418" media-type="application/xhtml+xml"/>
+    <item href="sefiller-419.xhtml" id="sefiller-419" media-type="application/xhtml+xml"/>
+    <item href="sefiller-420.xhtml" id="sefiller-420" media-type="application/xhtml+xml"/>
+    <item href="sefiller-421.xhtml" id="sefiller-421" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/sefiller_idstyles.css" id="sefiller_idstyles.css" media-type="text/css"/>
+    <item href="image/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+    <item href="image/Sefiller_e-kitap.jpeg" id="Sefiller_e-kitap.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="sefiller"/>
+    <itemref idref="sefiller-1"/>
+    <itemref idref="sefiller-2"/>
+    <itemref idref="sefiller-3"/>
+    <itemref idref="sefiller-4"/>
+    <itemref idref="sefiller-5"/>
+    <itemref idref="sefiller-6"/>
+    <itemref idref="sefiller-7"/>
+    <itemref idref="sefiller-8"/>
+    <itemref idref="sefiller-9"/>
+    <itemref idref="sefiller-10"/>
+    <itemref idref="sefiller-11"/>
+    <itemref idref="sefiller-12"/>
+    <itemref idref="sefiller-13"/>
+    <itemref idref="sefiller-14"/>
+    <itemref idref="sefiller-15"/>
+    <itemref idref="sefiller-16"/>
+    <itemref idref="sefiller-17"/>
+    <itemref idref="sefiller-18"/>
+    <itemref idref="sefiller-19"/>
+    <itemref idref="sefiller-20"/>
+    <itemref idref="sefiller-21"/>
+    <itemref idref="sefiller-22"/>
+    <itemref idref="sefiller-23"/>
+    <itemref idref="sefiller-24"/>
+    <itemref idref="sefiller-25"/>
+    <itemref idref="sefiller-26"/>
+    <itemref idref="sefiller-27"/>
+    <itemref idref="sefiller-28"/>
+    <itemref idref="sefiller-29"/>
+    <itemref idref="sefiller-30"/>
+    <itemref idref="sefiller-31"/>
+    <itemref idref="sefiller-32"/>
+    <itemref idref="sefiller-33"/>
+    <itemref idref="sefiller-34"/>
+    <itemref idref="sefiller-35"/>
+    <itemref idref="sefiller-36"/>
+    <itemref idref="sefiller-37"/>
+    <itemref idref="sefiller-38"/>
+    <itemref idref="sefiller-39"/>
+    <itemref idref="sefiller-40"/>
+    <itemref idref="sefiller-41"/>
+    <itemref idref="sefiller-42"/>
+    <itemref idref="sefiller-43"/>
+    <itemref idref="sefiller-44"/>
+    <itemref idref="sefiller-45"/>
+    <itemref idref="sefiller-46"/>
+    <itemref idref="sefiller-47"/>
+    <itemref idref="sefiller-48"/>
+    <itemref idref="sefiller-49"/>
+    <itemref idref="sefiller-50"/>
+    <itemref idref="sefiller-51"/>
+    <itemref idref="sefiller-52"/>
+    <itemref idref="sefiller-53"/>
+    <itemref idref="sefiller-54"/>
+    <itemref idref="sefiller-55"/>
+    <itemref idref="sefiller-56"/>
+    <itemref idref="sefiller-57"/>
+    <itemref idref="sefiller-58"/>
+    <itemref idref="sefiller-59"/>
+    <itemref idref="sefiller-60"/>
+    <itemref idref="sefiller-61"/>
+    <itemref idref="sefiller-62"/>
+    <itemref idref="sefiller-63"/>
+    <itemref idref="sefiller-64"/>
+    <itemref idref="sefiller-65"/>
+    <itemref idref="sefiller-66"/>
+    <itemref idref="sefiller-67"/>
+    <itemref idref="sefiller-68"/>
+    <itemref idref="sefiller-69"/>
+    <itemref idref="sefiller-70"/>
+    <itemref idref="sefiller-71"/>
+    <itemref idref="sefiller-72"/>
+    <itemref idref="sefiller-73"/>
+    <itemref idref="sefiller-74"/>
+    <itemref idref="sefiller-75"/>
+    <itemref idref="sefiller-76"/>
+    <itemref idref="sefiller-77"/>
+    <itemref idref="sefiller-78"/>
+    <itemref idref="sefiller-79"/>
+    <itemref idref="sefiller-80"/>
+    <itemref idref="sefiller-81"/>
+    <itemref idref="sefiller-82"/>
+    <itemref idref="sefiller-83"/>
+    <itemref idref="sefiller-84"/>
+    <itemref idref="sefiller-85"/>
+    <itemref idref="sefiller-86"/>
+    <itemref idref="sefiller-87"/>
+    <itemref idref="sefiller-88"/>
+    <itemref idref="sefiller-89"/>
+    <itemref idref="sefiller-90"/>
+    <itemref idref="sefiller-91"/>
+    <itemref idref="sefiller-92"/>
+    <itemref idref="sefiller-93"/>
+    <itemref idref="sefiller-94"/>
+    <itemref idref="sefiller-95"/>
+    <itemref idref="sefiller-96"/>
+    <itemref idref="sefiller-97"/>
+    <itemref idref="sefiller-98"/>
+    <itemref idref="sefiller-99"/>
+    <itemref idref="sefiller-100"/>
+    <itemref idref="sefiller-101"/>
+    <itemref idref="sefiller-102"/>
+    <itemref idref="sefiller-103"/>
+    <itemref idref="sefiller-104"/>
+    <itemref idref="sefiller-105"/>
+    <itemref idref="sefiller-106"/>
+    <itemref idref="sefiller-107"/>
+    <itemref idref="sefiller-108"/>
+    <itemref idref="sefiller-109"/>
+    <itemref idref="sefiller-110"/>
+    <itemref idref="sefiller-111"/>
+    <itemref idref="sefiller-112"/>
+    <itemref idref="sefiller-113"/>
+    <itemref idref="sefiller-114"/>
+    <itemref idref="sefiller-115"/>
+    <itemref idref="sefiller-116"/>
+    <itemref idref="sefiller-117"/>
+    <itemref idref="sefiller-118"/>
+    <itemref idref="sefiller-119"/>
+    <itemref idref="sefiller-120"/>
+    <itemref idref="sefiller-121"/>
+    <itemref idref="sefiller-122"/>
+    <itemref idref="sefiller-123"/>
+    <itemref idref="sefiller-124"/>
+    <itemref idref="sefiller-125"/>
+    <itemref idref="sefiller-126"/>
+    <itemref idref="sefiller-127"/>
+    <itemref idref="sefiller-128"/>
+    <itemref idref="sefiller-129"/>
+    <itemref idref="sefiller-130"/>
+    <itemref idref="sefiller-131"/>
+    <itemref idref="sefiller-132"/>
+    <itemref idref="sefiller-133"/>
+    <itemref idref="sefiller-134"/>
+    <itemref idref="sefiller-135"/>
+    <itemref idref="sefiller-136"/>
+    <itemref idref="sefiller-137"/>
+    <itemref idref="sefiller-138"/>
+    <itemref idref="sefiller-139"/>
+    <itemref idref="sefiller-140"/>
+    <itemref idref="sefiller-141"/>
+    <itemref idref="sefiller-142"/>
+    <itemref idref="sefiller-143"/>
+    <itemref idref="sefiller-144"/>
+    <itemref idref="sefiller-145"/>
+    <itemref idref="sefiller-146"/>
+    <itemref idref="sefiller-147"/>
+    <itemref idref="sefiller-148"/>
+    <itemref idref="sefiller-149"/>
+    <itemref idref="sefiller-150"/>
+    <itemref idref="sefiller-151"/>
+    <itemref idref="sefiller-152"/>
+    <itemref idref="sefiller-153"/>
+    <itemref idref="sefiller-154"/>
+    <itemref idref="sefiller-155"/>
+    <itemref idref="sefiller-156"/>
+    <itemref idref="sefiller-157"/>
+    <itemref idref="sefiller-158"/>
+    <itemref idref="sefiller-159"/>
+    <itemref idref="sefiller-160"/>
+    <itemref idref="sefiller-161"/>
+    <itemref idref="sefiller-162"/>
+    <itemref idref="sefiller-163"/>
+    <itemref idref="sefiller-164"/>
+    <itemref idref="sefiller-165"/>
+    <itemref idref="sefiller-166"/>
+    <itemref idref="sefiller-167"/>
+    <itemref idref="sefiller-168"/>
+    <itemref idref="sefiller-169"/>
+    <itemref idref="sefiller-170"/>
+    <itemref idref="sefiller-171"/>
+    <itemref idref="sefiller-172"/>
+    <itemref idref="sefiller-173"/>
+    <itemref idref="sefiller-174"/>
+    <itemref idref="sefiller-175"/>
+    <itemref idref="sefiller-176"/>
+    <itemref idref="sefiller-177"/>
+    <itemref idref="sefiller-178"/>
+    <itemref idref="sefiller-179"/>
+    <itemref idref="sefiller-180"/>
+    <itemref idref="sefiller-181"/>
+    <itemref idref="sefiller-182"/>
+    <itemref idref="sefiller-183"/>
+    <itemref idref="sefiller-184"/>
+    <itemref idref="sefiller-185"/>
+    <itemref idref="sefiller-186"/>
+    <itemref idref="sefiller-187"/>
+    <itemref idref="sefiller-188"/>
+    <itemref idref="sefiller-189"/>
+    <itemref idref="sefiller-190"/>
+    <itemref idref="sefiller-191"/>
+    <itemref idref="sefiller-192"/>
+    <itemref idref="sefiller-193"/>
+    <itemref idref="sefiller-194"/>
+    <itemref idref="sefiller-195"/>
+    <itemref idref="sefiller-196"/>
+    <itemref idref="sefiller-197"/>
+    <itemref idref="sefiller-198"/>
+    <itemref idref="sefiller-199"/>
+    <itemref idref="sefiller-200"/>
+    <itemref idref="sefiller-201"/>
+    <itemref idref="sefiller-202"/>
+    <itemref idref="sefiller-203"/>
+    <itemref idref="sefiller-204"/>
+    <itemref idref="sefiller-205"/>
+    <itemref idref="sefiller-206"/>
+    <itemref idref="sefiller-207"/>
+    <itemref idref="sefiller-208"/>
+    <itemref idref="sefiller-209"/>
+    <itemref idref="sefiller-210"/>
+    <itemref idref="sefiller-211"/>
+    <itemref idref="sefiller-212"/>
+    <itemref idref="sefiller-213"/>
+    <itemref idref="sefiller-214"/>
+    <itemref idref="sefiller-215"/>
+    <itemref idref="sefiller-216"/>
+    <itemref idref="sefiller-217"/>
+    <itemref idref="sefiller-218"/>
+    <itemref idref="sefiller-219"/>
+    <itemref idref="sefiller-220"/>
+    <itemref idref="sefiller-221"/>
+    <itemref idref="sefiller-222"/>
+    <itemref idref="sefiller-223"/>
+    <itemref idref="sefiller-224"/>
+    <itemref idref="sefiller-225"/>
+    <itemref idref="sefiller-226"/>
+    <itemref idref="sefiller-227"/>
+    <itemref idref="sefiller-228"/>
+    <itemref idref="sefiller-229"/>
+    <itemref idref="sefiller-230"/>
+    <itemref idref="sefiller-231"/>
+    <itemref idref="sefiller-232"/>
+    <itemref idref="sefiller-233"/>
+    <itemref idref="sefiller-234"/>
+    <itemref idref="sefiller-235"/>
+    <itemref idref="sefiller-236"/>
+    <itemref idref="sefiller-237"/>
+    <itemref idref="sefiller-238"/>
+    <itemref idref="sefiller-239"/>
+    <itemref idref="sefiller-240"/>
+    <itemref idref="sefiller-241"/>
+    <itemref idref="sefiller-242"/>
+    <itemref idref="sefiller-243"/>
+    <itemref idref="sefiller-244"/>
+    <itemref idref="sefiller-245"/>
+    <itemref idref="sefiller-246"/>
+    <itemref idref="sefiller-247"/>
+    <itemref idref="sefiller-248"/>
+    <itemref idref="sefiller-249"/>
+    <itemref idref="sefiller-250"/>
+    <itemref idref="sefiller-251"/>
+    <itemref idref="sefiller-252"/>
+    <itemref idref="sefiller-253"/>
+    <itemref idref="sefiller-254"/>
+    <itemref idref="sefiller-255"/>
+    <itemref idref="sefiller-256"/>
+    <itemref idref="sefiller-257"/>
+    <itemref idref="sefiller-258"/>
+    <itemref idref="sefiller-259"/>
+    <itemref idref="sefiller-260"/>
+    <itemref idref="sefiller-261"/>
+    <itemref idref="sefiller-262"/>
+    <itemref idref="sefiller-263"/>
+    <itemref idref="sefiller-264"/>
+    <itemref idref="sefiller-265"/>
+    <itemref idref="sefiller-266"/>
+    <itemref idref="sefiller-267"/>
+    <itemref idref="sefiller-268"/>
+    <itemref idref="sefiller-269"/>
+    <itemref idref="sefiller-270"/>
+    <itemref idref="sefiller-271"/>
+    <itemref idref="sefiller-272"/>
+    <itemref idref="sefiller-273"/>
+    <itemref idref="sefiller-274"/>
+    <itemref idref="sefiller-275"/>
+    <itemref idref="sefiller-276"/>
+    <itemref idref="sefiller-277"/>
+    <itemref idref="sefiller-278"/>
+    <itemref idref="sefiller-279"/>
+    <itemref idref="sefiller-280"/>
+    <itemref idref="sefiller-281"/>
+    <itemref idref="sefiller-282"/>
+    <itemref idref="sefiller-283"/>
+    <itemref idref="sefiller-284"/>
+    <itemref idref="sefiller-285"/>
+    <itemref idref="sefiller-286"/>
+    <itemref idref="sefiller-287"/>
+    <itemref idref="sefiller-288"/>
+    <itemref idref="sefiller-289"/>
+    <itemref idref="sefiller-290"/>
+    <itemref idref="sefiller-291"/>
+    <itemref idref="sefiller-292"/>
+    <itemref idref="sefiller-293"/>
+    <itemref idref="sefiller-294"/>
+    <itemref idref="sefiller-295"/>
+    <itemref idref="sefiller-296"/>
+    <itemref idref="sefiller-297"/>
+    <itemref idref="sefiller-298"/>
+    <itemref idref="sefiller-299"/>
+    <itemref idref="sefiller-300"/>
+    <itemref idref="sefiller-301"/>
+    <itemref idref="sefiller-302"/>
+    <itemref idref="sefiller-303"/>
+    <itemref idref="sefiller-304"/>
+    <itemref idref="sefiller-305"/>
+    <itemref idref="sefiller-306"/>
+    <itemref idref="sefiller-307"/>
+    <itemref idref="sefiller-308"/>
+    <itemref idref="sefiller-309"/>
+    <itemref idref="sefiller-310"/>
+    <itemref idref="sefiller-311"/>
+    <itemref idref="sefiller-312"/>
+    <itemref idref="sefiller-313"/>
+    <itemref idref="sefiller-314"/>
+    <itemref idref="sefiller-315"/>
+    <itemref idref="sefiller-316"/>
+    <itemref idref="sefiller-317"/>
+    <itemref idref="sefiller-318"/>
+    <itemref idref="sefiller-319"/>
+    <itemref idref="sefiller-320"/>
+    <itemref idref="sefiller-321"/>
+    <itemref idref="sefiller-322"/>
+    <itemref idref="sefiller-323"/>
+    <itemref idref="sefiller-324"/>
+    <itemref idref="sefiller-325"/>
+    <itemref idref="sefiller-326"/>
+    <itemref idref="sefiller-327"/>
+    <itemref idref="sefiller-328"/>
+    <itemref idref="sefiller-329"/>
+    <itemref idref="sefiller-330"/>
+    <itemref idref="sefiller-331"/>
+    <itemref idref="sefiller-332"/>
+    <itemref idref="sefiller-333"/>
+    <itemref idref="sefiller-334"/>
+    <itemref idref="sefiller-335"/>
+    <itemref idref="sefiller-336"/>
+    <itemref idref="sefiller-337"/>
+    <itemref idref="sefiller-338"/>
+    <itemref idref="sefiller-339"/>
+    <itemref idref="sefiller-340"/>
+    <itemref idref="sefiller-341"/>
+    <itemref idref="sefiller-342"/>
+    <itemref idref="sefiller-343"/>
+    <itemref idref="sefiller-344"/>
+    <itemref idref="sefiller-345"/>
+    <itemref idref="sefiller-346"/>
+    <itemref idref="sefiller-347"/>
+    <itemref idref="sefiller-348"/>
+    <itemref idref="sefiller-349"/>
+    <itemref idref="sefiller-350"/>
+    <itemref idref="sefiller-351"/>
+    <itemref idref="sefiller-352"/>
+    <itemref idref="sefiller-353"/>
+    <itemref idref="sefiller-354"/>
+    <itemref idref="sefiller-355"/>
+    <itemref idref="sefiller-356"/>
+    <itemref idref="sefiller-357"/>
+    <itemref idref="sefiller-358"/>
+    <itemref idref="sefiller-359"/>
+    <itemref idref="sefiller-360"/>
+    <itemref idref="sefiller-361"/>
+    <itemref idref="sefiller-362"/>
+    <itemref idref="sefiller-363"/>
+    <itemref idref="sefiller-364"/>
+    <itemref idref="sefiller-365"/>
+    <itemref idref="sefiller-366"/>
+    <itemref idref="sefiller-367"/>
+    <itemref idref="sefiller-368"/>
+    <itemref idref="sefiller-369"/>
+    <itemref idref="sefiller-370"/>
+    <itemref idref="sefiller-371"/>
+    <itemref idref="sefiller-372"/>
+    <itemref idref="sefiller-373"/>
+    <itemref idref="sefiller-374"/>
+    <itemref idref="sefiller-375"/>
+    <itemref idref="sefiller-376"/>
+    <itemref idref="sefiller-377"/>
+    <itemref idref="sefiller-378"/>
+    <itemref idref="sefiller-379"/>
+    <itemref idref="sefiller-380"/>
+    <itemref idref="sefiller-381"/>
+    <itemref idref="sefiller-382"/>
+    <itemref idref="sefiller-383"/>
+    <itemref idref="sefiller-384"/>
+    <itemref idref="sefiller-385"/>
+    <itemref idref="sefiller-386"/>
+    <itemref idref="sefiller-387"/>
+    <itemref idref="sefiller-388"/>
+    <itemref idref="sefiller-389"/>
+    <itemref idref="sefiller-390"/>
+    <itemref idref="sefiller-391"/>
+    <itemref idref="sefiller-392"/>
+    <itemref idref="sefiller-393"/>
+    <itemref idref="sefiller-394"/>
+    <itemref idref="sefiller-395"/>
+    <itemref idref="sefiller-396"/>
+    <itemref idref="sefiller-397"/>
+    <itemref idref="sefiller-398"/>
+    <itemref idref="sefiller-399"/>
+    <itemref idref="sefiller-400"/>
+    <itemref idref="sefiller-401"/>
+    <itemref idref="sefiller-402"/>
+    <itemref idref="sefiller-403"/>
+    <itemref idref="sefiller-404"/>
+    <itemref idref="sefiller-405"/>
+    <itemref idref="sefiller-406"/>
+    <itemref idref="sefiller-407"/>
+    <itemref idref="sefiller-408"/>
+    <itemref idref="sefiller-409"/>
+    <itemref idref="sefiller-410"/>
+    <itemref idref="sefiller-411"/>
+    <itemref idref="sefiller-412"/>
+    <itemref idref="sefiller-413"/>
+    <itemref idref="sefiller-414"/>
+    <itemref idref="sefiller-415"/>
+    <itemref idref="sefiller-416"/>
+    <itemref idref="sefiller-417"/>
+    <itemref idref="sefiller-418"/>
+    <itemref idref="sefiller-419"/>
+    <itemref idref="sefiller-420"/>
+    <itemref idref="sefiller-421"/>
+  </spine>
+</package>

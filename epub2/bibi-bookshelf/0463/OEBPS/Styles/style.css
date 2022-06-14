@@ -1,0 +1,155 @@
+@font-face {
+	font-family:"Benguiat Bk BT";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../Fonts/1563.TTF");
+}
+@font-face {
+	font-family:"Benguiat Bk BT";
+	font-style:oblique;
+	font-weight:bold;
+	src : url("../Fonts/1563.TTF");
+}
+@font-face {
+	font-family:"Benguiat Bk BT";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/04351_BENGUIAN.TTF");
+}
+@font-face {
+	font-family:"Benguiat Bk BT";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/1564.TTF");
+}
+@font-face {
+	font-family:"Benguiat Bk BT";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../Fonts/1564.TTF");
+}
+@font-face {
+	font-family:Fortunatus;
+	font-style:normal;
+	font-weight:500;
+	src : url("../Fonts/FORTUNATUS.TTF");
+}
+@font-face {
+	font-family:"VariShapes Solid";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/VARIS.TTF");
+}
+
+
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+
+p{text-indent:1.2em;margin-left:0;line-height:120%;margin-right:0;text-align:justify;margin-top:.55em;margin-bottom:.55em;font-family:"Benguiat Bk BT",serif;font-size:100%}
+.p0{text-indent:0;margin-left:0;text-align:center;margin-top:0;margin-bottom:0}
+.p2{text-indent:1.8em;margin-right:2.6em;text-align:right}
+.p3{text-indent:0;margin-left:0;text-align:center;margin-top:1.1em}
+.p4{text-indent:0;margin-left:0;text-align:center}
+.p5{text-indent:0;margin-left:0;text-align:center;margin-bottom:1.1em}
+.p6{text-indent:1.8em;text-align:center;margin-bottom:2.3em}
+.p7{text-indent:1.8em;text-align:center;margin-top:1.6em;margin-bottom:1.2em}
+.p8{text-indent:1.8em;text-align:center;margin-top:1.2em;margin-bottom:2.3em}
+.p9{text-indent:1.8em;text-align:center}
+.p10{text-indent:0;margin-left:7em;margin-top:0;margin-bottom:0}
+.p11{text-indent:1.8em;margin-left:10em}
+.p12{text-indent:1.8em;text-align:center;margin-top:.27em;margin-bottom:.27em}
+.p13{text-indent:0;margin-left:1.8em}
+.p14{text-indent:0;margin-left:9em;line-height:110%;margin-top:.27em;margin-bottom:.27em}
+.p15{text-indent:0;margin-left:0;text-align:right}
+.p16{text-indent:0;margin-left:0;text-align:center;margin-top:2.7em;margin-bottom:0}
+.p17{text-indent:0;margin-left:0;margin-right:10em;text-align:right;margin-top:0;margin-bottom:0}
+.p18{text-indent:0;margin-left:0;text-align:center;margin-top:2.7em}
+.p19{text-indent:0;margin-left:0;text-align:right;margin-top:0;margin-bottom:0}
+.p20{text-indent:0;margin-left:10em;text-align:right}
+.p21{text-indent:0;margin-left:5.2em;line-height:100%;margin-top:.27em;margin-bottom:.27em}
+.p22{text-indent:0;margin-left:13em;text-align:right}
+.p23{text-indent:1.8em;line-height:100%;text-align:right;margin-top:0;margin-bottom:0}
+.p24{text-indent:0;margin-left:6.4em;line-height:100%;margin-top:.27em;margin-bottom:.27em}
+.p25{text-indent:0;margin-left:0;line-height:100%;text-align:right;margin-top:.27em;margin-bottom:.27em}
+.p26{text-indent:0;margin-left:0;line-height:100%;text-align:right}
+.p27{text-indent:0;margin-left:0;line-height:100%;text-align:right;margin-top:0;margin-bottom:0}
+.p28{text-indent:0;margin-left:2.6em;line-height:100%;text-align:left;margin-top:.27em;margin-bottom:.27em}
+.p29{text-indent:0;margin-left:2.6em;line-height:100%;text-align:left;margin-top:.27em;margin-bottom:1.1em}
+.p30{text-indent:0;margin-left:5.2em;line-height:100%;text-align:left;margin-top:1.1em;margin-bottom:.27em}
+.p31{text-indent:0;margin-left:5.2em;line-height:100%;text-align:left;margin-top:.27em;margin-bottom:.27em}
+.p32{text-indent:0;margin-left:5.2em;line-height:100%;text-align:left;margin-top:.27em;margin-bottom:1.1em}
+.p33{text-indent:0;margin-left:2.6em;line-height:100%;text-align:left;margin-top:1.1em;margin-bottom:.27em}
+.p34{text-indent:1.8em;margin-left:3.9em;line-height:100%;margin-top:.27em;margin-bottom:.27em}
+.p35{text-indent:1.8em;text-align:right}
+.p36{text-indent:0}
+.p37{text-indent:0;margin-left:3em;margin-top:0;margin-bottom:0}
+h1{text-indent:0;margin-left:0;line-height:120%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.33em;margin-bottom:1.3em;font-family:"Benguiat Bk BT",serif;font-size:164%;font-weight:bold;font-style:italic}
+.h11{text-indent:0}
+h2{text-indent:0;margin-left:0;line-height:120%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.46em;margin-bottom:.46em;font-family:"Benguiat Bk BT",serif;font-size:118%;font-weight:bold;font-style:italic}
+.h21{text-indent:0}
+h3{text-indent:0;margin-left:0;line-height:120%;margin-right:1.1em;text-align:right;page-break-after:avoid;margin-top:7.4em;margin-bottom:.23em;font-family:"Benguiat Bk BT",serif;font-size:236%;font-weight:normal;font-style:normal}
+.h31{text-indent:0}
+h4{text-indent:0;margin-left:3em;line-height:120%;margin-right:0;text-align:justify;page-break-after:avoid;margin-top:.3em;margin-bottom:.3em;font-family:Fortunatus;font-size:132%;font-weight:bold;font-style:italic}
+.h41{text-indent:0}
+.t1{font-family:"Benguiat Bk BT",serif;font-size:1.7em;line-height:120%;font-weight:bold;letter-spacing:-.079em}
+.t2{font-size:1.8em;line-height:120%;font-weight:normal;font-style:normal;letter-spacing:-.025em}
+.t3{font-family:"Benguiat Bk BT",serif;font-size:1.2em;line-height:120%;font-weight:bold;letter-spacing:-.038em}
+.t4{letter-spacing:-.045em}
+.t5{font-weight:bold;font-style:italic;text-decoration:underline}
+.t7{font-weight:bold;font-style:italic;letter-spacing:-.045em;text-decoration:underline}
+.t8{font-weight:bold}
+.t9{font-weight:bold;letter-spacing:-.045em}
+.t10{font-weight:bold;text-decoration:underline}
+.t11{font-family:"Benguiat Bk BT",serif;font-size:.55em;line-height:120%;font-weight:bold;color:#0066cc;text-decoration:underline}
+.t12{font-size:1.0em;line-height:120%;font-weight:bold;letter-spacing:-.036em}
+.t13{font-size:1.3em;line-height:120%}
+.t14{font-size:4.4em;line-height:120%;letter-spacing:-.031em;vertical-align:.021em}
+.t15{font-size:4.4em;line-height:120%}
+.t16{font-size:2.5em;line-height:120%;letter-spacing:-.036em}
+.t17{font-size:2.5em;line-height:120%}
+.t18{font-size:0.9em;line-height:120%;font-weight:bold;letter-spacing:-.077em}
+.t19{font-size:0.9em;line-height:120%;font-weight:bold;letter-spacing:-.038em}
+.t21{font-weight:bold;font-style:italic}
+.t22{font-family:"Benguiat Bk BT",sans-serif}
+.t23{font-family:Fortunatus;font-size:1.3em;line-height:120%;letter-spacing:-.075em}
+.t24{font-size:1.1em;line-height:120%}
+.t25{font-size:1.1em;line-height:120%;font-style:italic}
+.t26{font-size:1.5em;line-height:120%}
+.t28{font-size:1.3em;line-height:120%;font-weight:bold;letter-spacing:-.071em}
+.t29{font-size:.82em;line-height:110%;font-style:italic}
+.t30{font-style:italic}
+.t31{font-family:"VariShapes Solid"}
+.t32{font-size:1.6em;line-height:120%}
+.t33{font-style:italic}
+.t34{font-size:.82em;line-height:120%;font-weight:bold;font-style:italic}
+.t35{font-size:1.1em;line-height:100%}
+.t37{font-size:.82em;line-height:110%}
+.t38{font-size:.91em;line-height:120%;font-weight:bold;font-style:italic}
+.th12{font-size:.89em;line-height:120%}
+
+p.Paragraf-Stili-1 {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Benguiat Bk BT", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+    margin-top:1px;
+	margin-bottom:1px;
+	margin-left:20px;
+	margin-right:0px;
+	text-align:left;
+	text-indent:0.5px;
+}
+
+table.Tablo-Stili-1 {
+	border-color:#FFFFFF;
+	border-style:solid;
+	border-width:0px;
+	width:100%;
+    height:120px;
+    margin-bottom:3px;
+	margin-top:3px;
+}

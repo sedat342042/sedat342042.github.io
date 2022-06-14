@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ncx version="2005-1" xml:lang="tr" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="f07f3c35-1629-44bc-af4d-cb4caa763de3" name="dtb:uid" />
+    <meta content="1" name="dtb:depth" />
+    <meta content="0" name="dtb:totalPageCount" />
+    <meta content="0" name="dtb:maxPageNumber" />
+  </head>
+  <docTitle>
+    <text>Abşalom, Abşalom!</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="text1" playOrder="1">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="chapter2.xhtml" />
+    </navPoint>
+    <navPoint id="text2" playOrder="2">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="chapter3.xhtml" />
+    </navPoint>
+    <navPoint id="text3" playOrder="3">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="chapter4.xhtml" />
+    </navPoint>
+    <navPoint id="text4" playOrder="4">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="chapter5.xhtml" />
+    </navPoint>
+    <navPoint id="text5" playOrder="5">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="chapter6.xhtml" />
+    </navPoint>
+    <navPoint id="text6" playOrder="6">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="chapter7.xhtml" />
+    </navPoint>
+    <navPoint id="text7" playOrder="7">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="chapter8.xhtml" />
+    </navPoint>
+    <navPoint id="text8" playOrder="8">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="chapter9.xhtml" />
+    </navPoint>
+    <navPoint id="text9" playOrder="9">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="chapter10.xhtml" />
+    </navPoint>
+    <navPoint id="text10" playOrder="10">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="chapter11.xhtml" />
+    </navPoint>
+    <navPoint id="text11" playOrder="11">
+      <navLabel>
+        <text>Kronoloji</text>
+      </navLabel>
+      <content src="chapter12.xhtml" />
+    </navPoint>
+    <navPoint id="text12" playOrder="12">
+      <navLabel>
+        <text>Soyağacı</text>
+      </navLabel>
+      <content src="chapter13.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

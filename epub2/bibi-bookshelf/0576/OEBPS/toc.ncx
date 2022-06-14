@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:4f013dbc-54b0-45ac-871f-df01855a1dcc" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Gölge Yükseliyor</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>1. Gölge Tohumları</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>2. Desen’de Burgaçlar</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>3. Düşünceler</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>4. İpler</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>5. Sorgucular</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>6. Eşikler</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>7. Ateşle Oynamak</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>8. Makul Düşünceler</text>
+      </navLabel>
+      <content src="Text/Section0016.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>9. Kararlar</text>
+      </navLabel>
+      <content src="Text/Section0017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>10. Taş Ayakta</text>
+      </navLabel>
+      <content src="Text/Section0018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>11. Saklı Kalan</text>
+      </navLabel>
+      <content src="Text/Section0019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>12. Tanchico ya da Kule</text>
+      </navLabel>
+      <content src="Text/Section0020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>13. Söylentiler</text>
+      </navLabel>
+      <content src="Text/Section0021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>14. Mayene Âdetleri</text>
+      </navLabel>
+      <content src="Text/Section0022.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>15. Eşikte</text>
+      </navLabel>
+      <content src="Text/Section0023.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>16. Vedalar</text>
+      </navLabel>
+      <content src="Text/Section0024.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>17. Aldatmacalar</text>
+      </navLabel>
+      <content src="Text/Section0025.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>18. Yollarda</text>
+      </navLabel>
+      <content src="Text/Section0026.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>19. Dalgadansözü</text>
+      </navLabel>
+      <content src="Text/Section0027.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>20. Rüzgâr Yükseliyor</text>
+      </navLabel>
+      <content src="Text/Section0028.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>21. Yürek’e</text>
+      </navLabel>
+      <content src="Text/Section0029.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>22. Taş’tan Çıkış</text>
+      </navLabel>
+      <content src="Text/Section0030.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>23. Taş’ın Ötesinde</text>
+      </navLabel>
+      <content src="Text/Section0031.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>24. Rhuidean</text>
+      </navLabel>
+      <content src="Text/Section0032.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>25. Mızrağa Giden Yol</text>
+      </navLabel>
+      <content src="Text/Section0033.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>26. Adanmışlar</text>
+      </navLabel>
+      <content src="Text/Section0034.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>27. Yollarda</text>
+      </navLabel>
+      <content src="Text/Section0035.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>28. Ghenjei Kulesi’ne</text>
+      </navLabel>
+      <content src="Text/Section0036.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>29. Eve Dönüş</text>
+      </navLabel>
+      <content src="Text/Section0037.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>30. Meşenin Ötesinde</text>
+      </navLabel>
+      <content src="Text/Section0038.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>31. Güvenceler</text>
+      </navLabel>
+      <content src="Text/Section0039.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>32. Sorulacak Sorular</text>
+      </navLabel>
+      <content src="Text/Section0040.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>33. Desen’de Yeni Bir Örgü</text>
+      </navLabel>
+      <content src="Text/Section0041.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>34. Şafakla Gelen</text>
+      </navLabel>
+      <content src="Text/Section0042.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>35. Keskin Dersler</text>
+      </navLabel>
+      <content src="Text/Section0043.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>36. Yanıltmacalar</text>
+      </navLabel>
+      <content src="Text/Section0044.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>37. Imre Dayanağı</text>
+      </navLabel>
+      <content src="Text/Section0045.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>38. Gizli Yüzler</text>
+      </navLabel>
+      <content src="Text/Section0046.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>39. Bir Kadeh Şarap</text>
+      </navLabel>
+      <content src="Text/Section0047.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>40. Trolloc Avcısı</text>
+      </navLabel>
+      <content src="Text/Section0048.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>41. Tuatha’anlar Arasında</text>
+      </navLabel>
+      <content src="Text/Section0049.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>42. Eksik Yaprak</text>
+      </navLabel>
+      <content src="Text/Section0050.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>43. Canlılarla İlgilenmek</text>
+      </navLabel>
+      <content src="Text/Section0051.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>44. Fırtına Patlarken</text>
+      </navLabel>
+      <content src="Text/Section0052.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>45. Tenekecinin Kılıcı</text>
+      </navLabel>
+      <content src="Text/Section0053.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>46. Peçeler</text>
+      </navLabel>
+      <content src="Text/Section0054.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>47. Bir Görünün Gerçekliği</text>
+      </navLabel>
+      <content src="Text/Section0055.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>48. Reddedilen Teklif</text>
+      </navLabel>
+      <content src="Text/Section0056.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>49. Soğuk Kayalar Mezrası</text>
+      </navLabel>
+      <content src="Text/Section0057.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>50. Tuzaklar</text>
+      </navLabel>
+      <content src="Text/Section0058.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>51. Tanchico’da Keşifler</text>
+      </navLabel>
+      <content src="Text/Section0059.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>52. İhtiyaç</text>
+      </navLabel>
+      <content src="Text/Section0060.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>53. Ayrılmanın Bedeli</text>
+      </navLabel>
+      <content src="Text/Section0061.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>54. Sarayda</text>
+      </navLabel>
+      <content src="Text/Section0062.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>55. Derinlerde</text>
+      </navLabel>
+      <content src="Text/Section0063.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>56. Altıngöz</text>
+      </navLabel>
+      <content src="Text/Section0064.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>57. Üç Kat Topraklar’da Bir Kırılış</text>
+      </navLabel>
+      <content src="Text/Section0065.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>58. Rhuidean Tuzakları</text>
+      </navLabel>
+      <content src="Text/Section0066.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Sözlük</text>
+      </navLabel>
+      <content src="Text/Section0068.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/Section0070.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

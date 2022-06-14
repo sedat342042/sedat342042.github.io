@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Beydaba">Beydaba</dc:creator>
+<dc:description>&lt;p&gt;Debşelem Şah, hikmet tutkusuyla bir maceraya atılır. Düşünde gördüğü ışığı izler. Ay ışığının yıkadığı patikada uyurgezer gibi bir gerçeğin peşindedir. 
+
+Gide gide gerçek bilginin ışığına ulaşır. 
+
+Yaşlı bilge Beydeba beklemektedir orada. Ve günler, belki de haftalar boyu süren söyleşiler sonda yüzlerce öykü çıkar ortaya. 
+
+O gün bugündür Kelile ve Dimne, yani fabl türünün en başarılı örneklerinden biri, bilgiye tutkun insanların elindedir.&lt;/p&gt;</dc:description>
+    <dc:publisher>Antik Kitap</dc:publisher>
+    <dc:date>2011-10-25T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">978-975-6107-24-9</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-09-10</dc:date>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpeg"/>
+    <meta name="calibre:title_sort" content="Kelile ve Dimmne"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Beydaba&quot;: &quot;&quot;}"/>
+  <dc:title>Kelile ve Dimmne</dc:title>
+<dc:subject>Hikaye</dc:subject>
+<dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">0e7ea56e-3b89-4b57-a51b-2a1154446bd1</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789756107249</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kelilevedimne-epub.html" id="kelilevedimne-epub" media-type="application/xhtml+xml"/>
+    <item href="Text/kelilevedimne-epub-1.html" id="kelilevedimne-epub-1" media-type="application/xhtml+xml"/>
+    <item href="Text/kelilevedimne-epub-2.html" id="kelilevedimne-epub-2" media-type="application/xhtml+xml"/>
+    <item href="Text/kelilevedimne-epub-3.html" id="kelilevedimne-epub-3" media-type="application/xhtml+xml"/>
+    <item href="Text/kelilevedimne-epub-4.html" id="kelilevedimne-epub-4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Images/12549.jpg" id="x12549.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="added3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kelilevedimne-epub"/>
+    <itemref idref="kelilevedimne-epub-1"/>
+    <itemref idref="kelilevedimne-epub-2"/>
+    <itemref idref="kelilevedimne-epub-3"/>
+    <itemref idref="kelilevedimne-epub-4"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

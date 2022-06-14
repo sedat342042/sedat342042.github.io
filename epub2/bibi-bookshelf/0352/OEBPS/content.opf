@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Coelho, Paulo">Paulo Coelho</dc:creator>
+<dc:publisher>Can Yayınları</dc:publisher>
+    <meta content="Zahir" name="calibre:title_sort"/>
+    <dc:description>&lt;p&gt;"Seni kendimden bile daha çok seviyorum." Eğer bunu söyleyebilirsem kendimle barış içinde yaşamayı sürdürebilirim, çünkü bu aşk beni rehin aldı. 
+Ünlü, başarılı, zengin bir yazarın savaş muhabirliği yapan karısı Esther bir gün ansızın ortadan kaybolur. Esther kaçırılmış mıdır, öldürülmüş müdür, yoksa kocasını mı terk etmiştir? Çok sevdiği karısını bulmak için yanıp tutuşan yazar, Esther'in en son birlikte görüldüğü Kazak genci Mikhail'le birlikte Fransa'dan İspanya'ya, Hırvatistan'dan Orta Asya steplerine uzanan bir yolculukta bulur kendini. Bu büyülü yolculuk giderek bir 'iç yolculuğa' dönüşecek, yazar yazgının gücü ve aşkın doğasını yeniden keşfedecek, yaşamına yeni değerler biçecektir... Günümüzün en çok okunan yazarlarından Paulo Coelho, daha önce yayınlanan Simyacı, On Bir Dakika, Veronika Ölmek İstiyor gibi romanlarından sonra Zâhir'de de, okurlarını bir ruh yolculuğuna çıkarıyor. Zâhir'i okuduğunuzda, kendinizi daha derinden tanıyacaksınız.
+&lt;/p&gt;</dc:description>
+    <meta content="2014-07-29T00:13:08.346000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2005-07-30T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">315a0c10-4a86-42e6-a5bc-cfccab7b7ed9</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-08-20</dc:date>
+  <dc:title>Zahir</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Ruhsal</dc:subject>
+<dc:subject>Roman</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Paulo Coelho&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">5d8de86d-76ce-470d-8fc0-dd2eb0094ca0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750705793</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/!.png" id="id3" media-type="image/png"/>
+    <item href="Text/index_split_000.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

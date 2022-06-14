@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="1dcc4fbc-405f-43e9-ac55-a4c4961211eb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Mürebbiye</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ukSwxGDhLC6KPeaGINc74zE" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

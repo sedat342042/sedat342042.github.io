@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="5c854cb7-63d2-4cb5-84be-72c5d60dbfd9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.11.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hikâyeler</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-2" playOrder="1">
+      <navLabel>
+        <text>YAKAN SIR</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-2_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="2">
+      <navLabel>
+        <text>KORKU</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="3">
+      <navLabel>
+        <text>SERİ KATİL</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-6_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="4">
+      <navLabel>
+        <text>KADIN VE MANZARA</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-6" playOrder="5">
+      <navLabel>
+        <text>AY IŞIĞI SOKAĞI</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="6">
+      <navLabel>
+        <text>BİR KALBİN ÇÖKÜŞÜ</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="7">
+      <navLabel>
+        <text>GÖRÜNMEYEN KOLEKSİYON</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-9" playOrder="8">
+      <navLabel>
+        <text>ALMAN ENFLASYONUNDAN BİR ALINTI</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-11.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="9">
+      <navLabel>
+        <text>LEPORELLA</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="10">
+      <navLabel>
+        <text>SATRANÇ ŞAMPİYONU</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-13_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="11">
+      <navLabel>
+        <text>HAÇ</text>
+      </navLabel>
+      <content src="OEBPS/Text/main-15.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Hikâyeler"/>
+    <meta name="calibre:timestamp" content="2017-12-08T20:50:35.650218+00:00"/>
+    <dc:title>Hikâyeler</dc:title>
+    <dc:language>tr</dc:language>
+    <dc:description>&lt;div id="descriptionContainer" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); color: rgb(24, 24, 24); font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;div id="description" class="readable stacked" style="margin-bottom: 10px; font-size: 14px; font-family: Merriweather, Georgia, serif; line-height: 21px; right: 0px;"&gt;&lt;br&gt;&lt;p&gt;Benim bu kitabın yüz elli oyununu günden güne sistematik olarak tekrarladığım mutlu zaman üç buçuk ay kadar devam etmişti. Sonra her oyunu yirmi veya otuz defa sonuna kadar oynamak, sürpriz olma ve tekrar oynama cazibesini kaybettiği ve önceki heyecan veren, aşka getiren gücü tükendiği için, tekrar hiçliğin önünde durmaya başlamış beklenmeyen bir şekilde çıkmaza girmiştim. Zorlukla ilk açılışı yapmış, akışı otomatik olarak dantel gibi işlemişim, sürpriz yok, heyecan yok, problem yoktu. Kendimi meşgul etmek için, artık zaruri olan zihnimi zorlamayı ve şaşırtma manevralarını oluşturmak için aslında başka oyunlarla başka bir kitaba ihtiyaç duyuyordum sanki. Bu tamamen imkânsız olunca, bu özel çılgın yoldan tek bir çıkış kalıyordu geride: Eski oyunların yerine yenilerini keşfetmeli, kendi kendimle daha doğrusu kendime karşı çok daha fazla oynamaya çalışmalıydım.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (3.11.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Hece Yayınları</dc:publisher>
+    <dc:subject>To-Read</dc:subject>
+    <dc:creator opf:file-as="Zweig, Stefan" opf:role="aut">Stefan Zweig</dc:creator>
+    <dc:identifier opf:scheme="GOODREADS">36394185</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5c854cb7-63d2-4cb5-84be-72c5d60dbfd9</dc:identifier>
+    <dc:identifier opf:scheme="calibre">5c854cb7-63d2-4cb5-84be-72c5d60dbfd9</dc:identifier>
+    <meta name="calibre:rating" content="6.00"/>
+    <dc:date>2016-03-31T21:00:00+00:00</dc:date>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-10.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-11.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-12.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-13_split_000.xhtml" id="id163" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-13_split_001.xhtml" id="id162" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-13_split_002.xhtml" id="id161" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-14.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-15.xhtml" id="main-15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-2_split_000.xhtml" id="id54" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-2_split_001.xhtml" id="id53" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-2_split_002.xhtml" id="id52" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-2_split_003.xhtml" id="id51" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-3.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-4.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-5.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-6_split_000.xhtml" id="id92" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-6_split_001.xhtml" id="id91" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-7.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-8.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-9.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id54"/>
+    <itemref idref="id53"/>
+    <itemref idref="id52"/>
+    <itemref idref="id51"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id92"/>
+    <itemref idref="id91"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id163"/>
+    <itemref idref="id162"/>
+    <itemref idref="id161"/>
+    <itemref idref="id17"/>
+    <itemref idref="main-15.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

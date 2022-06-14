@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dilek Ağacı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Faulkner, William">William Faulkner</dc:creator>
+    <dc:date>1993-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p style="margin: 6px 0px;"&gt;1920'ler. William Faulkner, mutsuz bir evliliği olan çocukluk arkadaşı Estelle’ye hala aşıktır. Onu elde edebilmek için, Estelle’nin sekiz yaşındaki kızı Victoria’ya doğumgünü armağanı olarak bir çocuk kitabı yazar. Kitabı bastırmaz, “tek kopya” olarak bizzat elleriyle hazırlar.&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;Sonunda istediği olur ve Estelle’yle evlenir.&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;Faulkner’in tek vukuatı evli bir kadını ayartmak değildir. Birkaç yıl sonra aynı kitabın ikinci bir kopyasını başka bir çocuk için de hazırlar. Ancak bu kez, aşktan daha hazin bir mazereti vardır: çocuk kanserdir.&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;40 yıl sonra, 1964 yılında torunu telif hakkını elde eder ve sadece 500 kopya bastırır (nedenini öğrenemedim, paraya ihtiyacı yoktu herhalde). Tabii bu baskıdan kalanlar müzelerde ve önemli koleksiyoncuların ellerinde olmalı şu anda. 1967’de Random House normal baskısını yapar ancak bu da tükenir (Amazon’da karaborsa fiyatıyla hala satılıyor).&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:identifier id="uuid">{0000428D-100B-AE13-B6E8-3557F49051DD}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>calibre_bincol</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">3a3fda72-e8a9-41b3-b058-d6553d19aae7</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="baslik.xhtml" href="Text/baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item id="illustr.xhtml" href="Text/illustr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf1.xhtml" href="Text/ithaf1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf2.xhtml" href="Text/ithaf2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="masal.xhtml" href="Text/masal.xhtml" media-type="application/xhtml+xml"/>
+    <item id="not.xhtml" href="Text/not.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id21" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id20" href="Styles/main.css" media-type="text/css"/>
+    <item id="x05.jpg" href="Images/05.jpg" media-type="image/jpeg"/>
+    <item id="x06.jpg" href="Images/06.jpg" media-type="image/jpeg"/>
+    <item id="x10.jpg" href="Images/10.jpg" media-type="image/jpeg"/>
+    <item id="x14.jpg" href="Images/14.jpg" media-type="image/jpeg"/>
+    <item id="x18.jpg" href="Images/18.jpg" media-type="image/jpeg"/>
+    <item id="x22.jpg" href="Images/22.jpg" media-type="image/jpeg"/>
+    <item id="x26.jpg" href="Images/26.jpg" media-type="image/jpeg"/>
+    <item id="x30.jpg" href="Images/30.jpg" media-type="image/jpeg"/>
+    <item id="x32.jpg" href="Images/32.jpg" media-type="image/jpeg"/>
+    <item id="x35.jpg" href="Images/35.jpg" media-type="image/jpeg"/>
+    <item id="x42.jpg" href="Images/42.jpg" media-type="image/jpeg"/>
+    <item id="x46.jpg" href="Images/46.jpg" media-type="image/jpeg"/>
+    <item id="x54.jpg" href="Images/54.jpg" media-type="image/jpeg"/>
+    <item id="x64.jpg" href="Images/64.jpg" media-type="image/jpeg"/>
+    <item id="x68.jpg" href="Images/68.jpg" media-type="image/jpeg"/>
+    <item id="x74.jpg" href="Images/74.jpg" media-type="image/jpeg"/>
+    <item id="cancocuk.png" href="Images/cancocuk.png" media-type="image/png"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id21">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="baslik.xhtml"/>
+    <itemref idref="illustr.xhtml"/>
+    <itemref idref="ithaf1.xhtml"/>
+    <itemref idref="ithaf2.xhtml"/>
+    <itemref idref="masal.xhtml"/>
+    <itemref idref="not.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

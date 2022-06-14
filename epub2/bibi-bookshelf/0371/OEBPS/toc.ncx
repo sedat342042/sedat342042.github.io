@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:07b893e0-26e4-4658-a285-5f677471041b" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Çakıcı'nın İlk kurşunu (Tereke)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Sabahattin Ali</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Hikâyeler</text>
+      </navLabel>
+      <content src="Text/hikayeler.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>O Arkadaşım</text>
+        </navLabel>
+        <content src="Text/h01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Bir Hakikatin Hikâyesi</text>
+        </navLabel>
+        <content src="Text/h02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Barsak</text>
+        </navLabel>
+        <content src="Text/h03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Çakıcı’nın İlk Kurşunu</text>
+        </navLabel>
+        <content src="Text/h04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Cinayetten Sonra Çakıcı’nın İlk İltica Ettiği Köy</text>
+        </navLabel>
+        <content src="Text/h05.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Şiirler</text>
+      </navLabel>
+      <content src="Text/siirler.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>KURBAĞA</text>
+        </navLabel>
+        <content src="Text/s01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>BİR SERENADIN SONU</text>
+        </navLabel>
+        <content src="Text/s03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>KURBAĞANAME</text>
+        </navLabel>
+        <content src="Text/s04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>KURBAĞAYA MERSİYE</text>
+        </navLabel>
+        <content src="Text/s05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>OYUNCAK</text>
+        </navLabel>
+        <content src="Text/s07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>MERHUMA MERSİYE</text>
+        </navLabel>
+        <content src="Text/s09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>SİMYAGER</text>
+        </navLabel>
+        <content src="Text/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>SOKAKTA KALAN ADAM</text>
+        </navLabel>
+        <content src="Text/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Opera Olarak "Kağnı"</text>
+        </navLabel>
+        <content src="Text/operaolarak.xhtml"/>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>Birinci Perde</text>
+          </navLabel>
+          <content src="Text/operaolarak.xhtml#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>İkinci Perde</text>
+          </navLabel>
+          <content src="Text/operaolarak.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>Üçüncü Perde</text>
+          </navLabel>
+          <content src="Text/operaolarak.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Yazmayı Planladığı Hikâye ve Romanların Listesi</text>
+        </navLabel>
+        <content src="Text/liste.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Yazılar</text>
+      </navLabel>
+      <content src="Text/yazilar.xhtml"/>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Kadınlar Üzerine Bir Konferans</text>
+        </navLabel>
+        <content src="Text/y01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Türkiye Hapishaneleri</text>
+        </navLabel>
+        <content src="Text/y02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Emperyalistin Tarifi</text>
+        </navLabel>
+        <content src="Text/y03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Bu Memleketi Kurtarmak İçin</text>
+        </navLabel>
+        <content src="Text/y04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Milliyetçinin Tarifi</text>
+        </navLabel>
+        <content src="Text/y05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Hürriyet Meselesi</text>
+        </navLabel>
+        <content src="Text/y06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Milliyetçi Gençlik</text>
+        </navLabel>
+        <content src="Text/y07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Asıl Büyük Tehlike Bugünkü Ehliyetsiz İktidarın Devamıdır</text>
+        </navLabel>
+        <content src="Text/y08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>SANDIĞINDA BULUNAN DESENLER</text>
+        </navLabel>
+        <content src="Text/desenler.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Dipnotlar</text>
+        </navLabel>
+        <content src="Text/dipnotlar.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

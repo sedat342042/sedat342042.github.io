@@ -1,0 +1,16 @@
+@font-face {
+	src: url(fonts/Times-New-Roman.ttf);
+	font-family: "Times New Roman"
+}
+
+@font-face {
+	src: url(fonts/Times-New-Roman-Bold.ttf);
+	font-family: "Times New Roman";
+	font-weight: bold
+}
+
+@font-face {
+	src: url(fonts/Times-New-Roman-Italic.ttf);
+	font-family: "Times New Roman";
+	font-style: italic
+}

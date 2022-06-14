@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Safa, Peyami" opf:role="aut">Peyami Safa</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4db51e68-8783-4837-aaf0-7f5648c7fac3</dc:identifier>
+    <dc:publisher>Ötüken Yayınları</dc:publisher>
+    <dc:date>2010-10-04T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-02-24</dc:date>
+    <meta content="Adobe InDesign" name="generator" xmlns="http://www.idpf.org/2007/opf" />
+    <meta name="cover" content="_Attila.jpg" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:title>Attila</dc:title>
+    <meta content="Attila" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Attila</dc:subject>
+    <dc:subject>Tarih</dc:subject>
+    <dc:subject>Türk</dc:subject>
+    <dc:subject>Biyografi</dc:subject>
+    <dc:subject>Orjinal</dc:subject>
+    <dc:description>&lt;p&gt;Attilâ Peyami Safa'nın yegâne tarihî romanıdır. 1940'lı yılların başlarında yazılmıştır. Yazar bu esriyle, Attilâ gibi büyük bir Türk cihangirinin devrine ve kişiliğine ilk defa bir Türk gözüyle bakmış, Batı dünyasının "geçtiği yerde ot bitmez" diye karaladığı bir devlet adamı ve kumandanı Türk gözüyle değerlendirmiştir. Yazar, yabancı kaynaklardan ve özellikle Bizans tarihçilerinin verdiği bilgilerden yola çıkarak eserini yazmıştır. Çelik iradeli, demir disiplinli bu Türk hakanının, şahsî ilişkilerde yumuşak huylu, zengin gönüllü, engin merhametli, kendisine sığınanlara karşı hassas yürekli bir insan olduğunu ortaya koymuştur. Romanda Türk cihan hâkimiyeti ülküsünün izlerini ve bozulmuş bir dünyaya yeniden nizam verme iradesini de görmekteyiz… "Attilâ" kimdir? Bunu kimse iyi bilmiyor. Bizzat kendi bile kendisini meçhuller içinde hissetmiştir. Kimdir Attilâ? Buna, beşinci asır halkının hayal gücüne tercüman olarak şöyle verelim: O, sessiz yollarıyla, gölge vermeyen şeffaf dallarıyla, alçak çalılarıyla, tavuklarla serçelerden başka bir kuş sesi duyulmayan nihayetsiz bir çölde, çalılarla şeytanlardan doğmuştur. Kimi tarihçiler "Attilâ bir barbardır!" diyor. Latin efsanelerine göre "Attilâ" kaza ve kaderin yarattığı bir ebedi azap ve harabe Mesihidir. Bir kısım Cermen şarkı ve masallarına göre de hiç dehşet vermeyen, hatta sulhperver, tatlı, misafirperver bir hakandır. Macar ananelerine gelince, burada "Attilâ" Hun'ların ruhu olarak izah edilmiştir. Öyle ise "Attilâ" kimdir? Buna kendisinin verdiği cevabı söyleyelim. "Attilâ": - Ben Allah'ın kamçısıyım! diyor. Yunanlılara, Romalılara, Cermenlere ayakları ucunda diz çöktürerek hepsine işlediği büyük kudretiyle kiminin suçlarını cezalandıran, kiminin şer ve fesadına mani olan büyük Türk Başbuğu! "Attilâ" Allah'ın kamçısıdır.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Peyami Safa&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">a2d70fe7-21f5-436e-9160-8cb9dbbad0e0</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754377842</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml" />
+    <item href="Text/attila.xhtml" id="attila" media-type="application/xhtml+xml" />
+    <item href="Text/attila-1.xhtml" id="attila-1" media-type="application/xhtml+xml" />
+    <item href="Text/attila-2.xhtml" id="attila-2" media-type="application/xhtml+xml" />
+    <item href="Text/attila-3.xhtml" id="attila-3" media-type="application/xhtml+xml" />
+    <item href="Text/attila-4.xhtml" id="attila-4" media-type="application/xhtml+xml" />
+    <item href="Text/attila-5.xhtml" id="attila-5" media-type="application/xhtml+xml" />
+    <item href="Text/attila-6.xhtml" id="attila-6" media-type="application/xhtml+xml" />
+    <item href="Styles/attila_idstyles.css" id="attila_idstyles.css" media-type="text/css" />
+    <item href="Images/_Attila.jpg" id="_Attila.jpg" media-type="image/jpeg" />
+    <item href="Images/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage" />
+    <itemref idref="attila" />
+    <itemref idref="attila-1" />
+    <itemref idref="attila-2" />
+    <itemref idref="attila-3" />
+    <itemref idref="attila-4" />
+    <itemref idref="attila-5" />
+    <itemref idref="attila-6" />
+  </spine>
+</package>

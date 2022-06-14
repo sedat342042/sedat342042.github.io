@@ -1,0 +1,101 @@
+.calibre {
+text-align:justify;
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.calibre3 {
+    font-family: Consolas
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.calibre6 {
+    line-height: 1.2
+    }
+.calibre7 {
+    font-family: Consolas;
+    font-size: 0.6em
+    }
+.calibre8 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.calibre9 {
+    font-weight: bold
+    }
+.calibre10 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre11 {
+    font-size: 0.6em
+    }
+.calibre12 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre13 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.calibre14 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre15 {
+    font-family: Consolas;
+    font-size: 0.5em
+    }
+.calibre16 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.WordSection {
+    display: block;
+    page: WordSection1
+    }

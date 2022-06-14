@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="98963ae1-a3c5-43ca-8c0e-45f366fb7595" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Bir Yaz Gecesi Rüyası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>KİŞİLER</text>
+      </navLabel>
+      <content src="Text/yaz%20gecesi%20ruyasi.htm" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>PERDE I - SAHNE 1I</text>
+      </navLabel>
+      <content src="Text/yaz%20gecesi%20ruyasi.htm#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>PERDE I - SAHNE 2</text>
+      </navLabel>
+      <content src="Text/yaz%20gecesi%20ruyasi.htm#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>PERDE I - SAHNE 2</text>
+      </navLabel>
+      <content src="Text/yaz%20gecesi%20ruyasi.htm#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>PERDE II - SAHNE 2</text>
+      </navLabel>
+      <content src="Text/yaz%20gecesi%20ruyasi.htm#sigil_toc_id_4" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>PERDE III - SAHNE 1</text>
+      </navLabel>
+      <content src="Text/Section0001.htm" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>PERDE III - SAHNE 2</text>
+      </navLabel>
+      <content src="Text/Section0001.htm#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>PERDE IV - SAHNE 1</text>
+      </navLabel>
+      <content src="Text/Section0001.htm#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>PERDE IV - SAHNE 2</text>
+      </navLabel>
+      <content src="Text/Section0001.htm#sigil_toc_id_7" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>PERDE V - SAHNE 1</text>
+      </navLabel>
+      <content src="Text/Section0001.htm#sigil_toc_id_8" />
+    </navPoint>
+  </navMap>
+</ncx>

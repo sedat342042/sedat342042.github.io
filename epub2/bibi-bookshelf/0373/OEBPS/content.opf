@@ -1,0 +1,128 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Ali, Sabahattin">Sabahattin Ali</dc:creator>
+<meta content="Değirmen, Kağnı, Ses" name="calibre:title_sort"/>
+    <meta content="2013-12-31T18:39:53.942000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_kapak.jpeg"/>
+    <dc:date>2000-02-09T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a79af557-85c7-4f40-bf5f-75bb736a9165</dc:identifier>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Sabahattin Ali&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-07-15</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta content="Bütün Öyküleri" name="calibre:series"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;"İşte adaşım, sana seven bir Çingene'nin hikayesi. Çiçeklerin açtığı mevsimde, senin kollarına yaslanan ve çiçekler kadar güzel kokan bir vücutla uzak su kenarlarında oturmak ve öpüşmek, yoruluncaya kadar öpüşmek hoş şeydir... Seni gördüğü zaman zalimce başını çeviren mağrur bir dilberin kapısı önünde ve ay ışığı altında sabaha kadar dolaşmak, bunu candan arkadaşlara ağlayarak anlatmak, -söz aramızda- gene hoş şeydir. Fakat sevgili bir vücutta bulunmayan bir şeyi kendisinde taşımaya tahammül etmeyerek onu koparıp atabilmek, işte adaşım, yalnız bu sevmektir." - ("Değirmen"den) -- Kimi yazarların yapıtları size göz kırpar, kendine doğru çeker hep. Sabahattin Ali işte bu yazarlardandır. YKY bu "daima genç" ustanın portresini tamamlama yolunda ilk adımı atıyor.&lt;/p&gt;</dc:description>
+    <dc:title>Değirmen, Kağnı, Ses</dc:title>
+<dc:subject>Öykü</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">3e3ea8fd-1004-4d84-92b9-d3975b6ecd7b</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9753637969</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Text/Sabahattin_Ali_Butun_Oykuleri_I_split_000.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.html" id="Section0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.html" id="Section0014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.html" id="Section0017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0028.html" id="Section0028.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0032.html" id="Section0032.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0034.html" id="Section0034.html" media-type="application/xhtml+xml"/>
+    <item href="Images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Sabahattin_Ali_Butun_Oykuleri_I_split_002.html" id="Sabahattin_Ali_Butun_Oykuleri_I_split_002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Sabahattin_Ali_Butun_Oykuleri_I_split_003.html" id="Sabahattin_Ali_Butun_Oykuleri_I_split_003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Sabahattin_Ali_Butun_Oykuleri_I_split_004.html" id="Sabahattin_Ali_Butun_Oykuleri_I_split_004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.html" id="Section0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.html" id="Section0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.html" id="Section0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.html" id="Section0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.html" id="Section0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.html" id="Section0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.html" id="Section0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Sabahattin_Ali_Butun_Oykuleri_I_split_005.html" id="Sabahattin_Ali_Butun_Oykuleri_I_split_005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.html" id="Section0015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.html" id="Section0016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Sabahattin_Ali_Butun_Oykuleri_I_split_006.html" id="Sabahattin_Ali_Butun_Oykuleri_I_split_006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.html" id="Section0018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.html" id="Section0019.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.html" id="Section0020.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.html" id="Section0021.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0022.html" id="Section0022.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0023.html" id="Section0023.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0024.html" id="Section0024.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0025.html" id="Section0025.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0026.html" id="Section0026.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0027.html" id="Section0027.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Sabahattin_Ali_Butun_Oykuleri_I_split_007.html" id="Sabahattin_Ali_Butun_Oykuleri_I_split_007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0029.html" id="Section0029.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0030.html" id="Section0030.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0031.html" id="Section0031.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Sabahattin_Ali_Butun_Oykuleri_I_split_008.html" id="Sabahattin_Ali_Butun_Oykuleri_I_split_008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0033.html" id="Section0033.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id19"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Sabahattin_Ali_Butun_Oykuleri_I_split_002.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Sabahattin_Ali_Butun_Oykuleri_I_split_003.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="Section0005.html"/>
+    <itemref idref="Section0006.html"/>
+    <itemref idref="Sabahattin_Ali_Butun_Oykuleri_I_split_004.html"/>
+    <itemref idref="Section0007.html"/>
+    <itemref idref="Section0008.html"/>
+    <itemref idref="Section0009.html"/>
+    <itemref idref="Section0010.html"/>
+    <itemref idref="Section0011.html"/>
+    <itemref idref="Section0012.html"/>
+    <itemref idref="Section0013.html"/>
+    <itemref idref="Section0014.html"/>
+    <itemref idref="Sabahattin_Ali_Butun_Oykuleri_I_split_005.html"/>
+    <itemref idref="Section0015.html"/>
+    <itemref idref="Section0016.html"/>
+    <itemref idref="Section0017.html"/>
+    <itemref idref="Sabahattin_Ali_Butun_Oykuleri_I_split_006.html"/>
+    <itemref idref="Section0018.html"/>
+    <itemref idref="Section0019.html"/>
+    <itemref idref="Section0020.html"/>
+    <itemref idref="Section0021.html"/>
+    <itemref idref="Section0022.html"/>
+    <itemref idref="Section0023.html"/>
+    <itemref idref="Section0024.html"/>
+    <itemref idref="Section0025.html"/>
+    <itemref idref="Section0026.html"/>
+    <itemref idref="Section0027.html"/>
+    <itemref idref="Section0028.html"/>
+    <itemref idref="Sabahattin_Ali_Butun_Oykuleri_I_split_007.html"/>
+    <itemref idref="Section0029.html"/>
+    <itemref idref="Section0030.html"/>
+    <itemref idref="Section0031.html"/>
+    <itemref idref="Section0032.html"/>
+    <itemref idref="Sabahattin_Ali_Butun_Oykuleri_I_split_008.html"/>
+    <itemref idref="Section0033.html"/>
+    <itemref idref="Section0034.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="İçindekiler" type="toc"/>
+  </guide>
+</package>

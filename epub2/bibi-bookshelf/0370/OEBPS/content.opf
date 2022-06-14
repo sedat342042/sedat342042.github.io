@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta content="1" name="calibre:series_index" />
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Güntekin, Reşat Nuri" opf:role="aut">Reşat Nuri Güntekin</dc:creator>
+    <meta content="2010-12-04T20:10:39.937000+00:00" name="calibre:timestamp" />
+    <dc:title>Son Sığınak</dc:title>
+    <meta name="cover" content="cover1" />
+    <dc:date>2010-12-04T08:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">053ad651-9364-4f45-9262-406a19ee20af</dc:identifier>
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2014-03-07</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/001_split_000.html" id="id0012" media-type="application/xhtml+xml" />
+    <item href="Text/001_split_001.html" id="id0011" media-type="application/xhtml+xml" />
+    <item href="Text/002_split_000.html" id="id0022" media-type="application/xhtml+xml" />
+    <item href="Text/002_split_001.html" id="id0021" media-type="application/xhtml+xml" />
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml" />
+    <item href="Fonts/ARIAL.TTF" id="idfont2" media-type="application/vnd-ms-opentype" />
+    <item href="Fonts/ARIALBD.TTF" id="idfont1" media-type="application/vnd-ms-opentype" />
+    <item href="Images/cover1.jpeg" id="cover1" media-type="image/jpeg" />
+    <item href="Styles/stylesheet1.css" id="css1" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="id0012" />
+    <itemref idref="id0011" />
+    <itemref idref="id0022" />
+    <itemref idref="id0021" />
+    <itemref idref="id003" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

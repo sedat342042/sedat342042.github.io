@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{95F9CF34-6426-49DC-9058-173227F3FE7F}" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Harry Potter ve Sırlar Odası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM: EN BERBAT DOĞUM GÜNÜ</text>
+      </navLabel>
+      <content src="Text/Section1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM: DOBBY'NİN UYARISI</text>
+      </navLabel>
+      <content src="Text/Section2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM: KOVUK</text>
+      </navLabel>
+      <content src="Text/Section3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM FLOURISH VE BLOTTS'TA</text>
+      </navLabel>
+      <content src="Text/Section4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM: ŞAMARCI SÖĞÜT</text>
+      </navLabel>
+      <content src="Text/Section5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ALTINCI BÖLÜM: GİLDEROY LOCKHART</text>
+      </navLabel>
+      <content src="Text/Section6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>YEDİNCİ BÖLÜM: BULANIKLAR VE MIRILTILAR</text>
+      </navLabel>
+      <content src="Text/Section7.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>SEKİZİNCİ BÖLÜM: ÖLÜM GÜNÜ PARTİSİ</text>
+      </navLabel>
+      <content src="Text/Section8.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>DOKUZUNCU BÖLÜM: DUVARDAKİ YAZI</text>
+      </navLabel>
+      <content src="Text/Section9.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>ONUNCU BÖLÜM: SERSERİ BLUDGER</text>
+      </navLabel>
+      <content src="Text/Section10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>ON BİRİNCİ BÖLÜM: DÜELLO KULÜBÜ</text>
+      </navLabel>
+      <content src="Text/Section11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>ON İKİNCİ BÖLÜM: ÇOK ÖZLÜ İKSİR</text>
+      </navLabel>
+      <content src="Text/Section12.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>ON ÜÇÜNCÜ BÖLÜM: ÇOK GİZLİ GÜNCE</text>
+      </navLabel>
+      <content src="Text/Section13.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>ON DÖRDÜNCÜ BÖLÜM: CORRELIUS FUDGE</text>
+      </navLabel>
+      <content src="Text/Section14.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>ON BEŞİNCİ BÖLÜM: ARAGOG</text>
+      </navLabel>
+      <content src="Text/Section15.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>ON ALTINCI BÖLÜM: SIRLAR ODASI</text>
+      </navLabel>
+      <content src="Text/Section16.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>ON YEDİNCİ BÖLÜM: SLYTHERİN'İN VÂRİSİ</text>
+      </navLabel>
+      <content src="Text/Section17.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>ON SEKİZİNCİ BÖLÜM: DOBBY'NİN ÖDÜLÜ</text>
+      </navLabel>
+      <content src="Text/Section18.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

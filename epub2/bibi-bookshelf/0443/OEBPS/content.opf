@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:file-as="Doyle, Arthur Conan" ns0:role="aut">Arthur Conan Doyle</dc:creator>
+    <meta content="Adobe InDesign" name="generator" />
+    <meta name="cover" content="x186.png" />
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Güzel bir sayfiye yerinin adı olan KIRMIZI GÜRGENLER'de iş bulmak için bir iş ilanına başvurmuş olan Bayan Hunter'ın başından geçen tuhaf öykü anlatılmaktadır. Garip davranışlar içinde olan bir karı-kocanın biricik kızlarına bakmak için evlerine yerleşmiş olan Bayan Hunter kısa süre içinde buranın hiç de tekin bir yer olmadığını anlayacaktır. Büyük evin içinde olan tuhaf şeyleri çözmesi için Sherlock Holmes ve Dr. Watson'a başvuran Bayan Hunter evde saçları kendi saçına benzeyen birinin hapis hayatı yaşadığını öğrenirler. Bu meraklıların kendi evinde sırrını öğrenmesinden hiç hoşlanmayan ev sahibinin de onlar hakkında başka planları vardır.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Mitra Yayınları</dc:publisher>
+    <dc:date>2012-10-03T21:00:00+00:00</dc:date>
+    <dc:source />
+    <dc:relation />
+    <dc:coverage />
+    <dc:rights />
+    <dc:identifier id="bookid" />
+    <dc:identifier>urn:uuid:6548910C-09B8-4777-90F4-4A84B7C7329E</dc:identifier>
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-02-21</dc:date>
+    <dc:title>Kırmızı Gürgenler</dc:title>
+    <meta content="Kırmızı Gürgenler" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Polisiye</dc:subject>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Gizem</dc:subject>
+    <dc:subject>Dedektif</dc:subject>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.24.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Arthur Conan Doyle&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">196a5809-85f9-4e90-a69f-3ba8d4cd1489</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9786055752330</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/template.css" id="css" media-type="text/css" />
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml" />
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml" />
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml" />
+    <item href="Images/186.png" id="x186.png" media-type="image/png" />
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="x2" />
+    <itemref idref="x3" />
+    <itemref idref="x4.html" />
+    <itemref idref="Section0001.html" />
+    <itemref idref="Section0002.html" />
+    <itemref idref="Section0003.html" />
+    <itemref idref="Section0004.html" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

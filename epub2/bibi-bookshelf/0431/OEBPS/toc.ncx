@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="0da12df4-203a-411c-9b1a-68d55fba05f8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Venedik Taciri</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>KİŞİLER</text>
+      </navLabel>
+      <content src="Text/Venedik%20Taciri_split_000.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ PERDE</text>
+      </navLabel>
+      <content src="Text/Venedik%20Taciri_split_001.htm"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Birinci Sahne</text>
+        </navLabel>
+        <content src="Text/Venedik%20Taciri_split_001.htm#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>İkinci Sahne</text>
+        </navLabel>
+        <content src="Text/Venedik%20Taciri_split_002.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Üçüncü Sahne</text>
+        </navLabel>
+        <content src="Text/Venedik%20Taciri_split_003.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>İKİNCİ PERDE</text>
+      </navLabel>
+      <content src="Text/Venedik%20Taciri_split_004.htm"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Birinci Sahne</text>
+        </navLabel>
+        <content src="Text/Venedik%20Taciri_split_004.htm#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>İkinci Sahne</text>
+        </navLabel>
+        <content src="Text/Venedik%20Taciri_split_005.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Üçüncü Sahne</text>
+        </navLabel>
+        <content src="Text/Venedik%20Taciri_split_006.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Dördüncü Sahne</text>
+        </navLabel>
+        <content src="Text/Venedik%20Taciri_split_007.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Beşinci Sahne</text>
+        </navLabel>
+        <content src="Text/Venedik%20Taciri_split_008.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Altıncı Sahne</text>
+        </navLabel>
+        <content src="Text/Venedik%20Taciri_split_009.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Sekizinci Sahne</text>
+        </navLabel>
+        <content src="Text/Venedik%20Taciri_split_010.htm"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

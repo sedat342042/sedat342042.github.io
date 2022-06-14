@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Kralların Çarpışması</dc:title>
+    <dc:subject>Fantastik</dc:subject>
+    <meta name="calibre:timestamp" content="2018-05-04T16:34:07.801000+00:00"/>
+    <dc:date>2011-06-13T21:00:00+00:00</dc:date>
+    <meta name="calibre:series" content="Buz ve Ateşin Şarkısı"/>
+    <meta name="calibre:title_sort" content="Kralların Çarpışması"/>
+    <dc:creator opf:file-as="Martin, George R. R." opf:role="aut">George R. R. Martin</dc:creator>
+    <dc:description>&lt;p class="description"&gt;Alev ve kan rengine bürünmüş bir kuyruklu yıldız, gökyüzünü baştan başa kaplamıştır. Ejderha Kayası'nın kadim kalesinden Kışyarı'nın haşin topraklarına kadar korkunç bir keşmekeş hâkimdir. Altı güç, Demir Taht'ı ve parçalanmış Yedi Krallık'ı ele geçirmek için kıyametvari bir savaşa hazırlanmaktadır. Gecenin karanlığında ölüler yürümekte, kardeş kardeşi katletmektedir. Bir akıl şövalyesi, tehlike saçan bir büyücü kadını zehirlemek peşindedir. Bir prenses, öksüz oğlan kılığında dolaşmakta; Ay Dağları'nın vahşi adamları, yağma için inmektedir. Kardeş katli, zillet, simya ve kıyımla ilerleyen bu macerada zafer, kılıcı ve kanı en soğuk olanların dahi olabilir...&lt;/p&gt;</dc:description>
+    <meta name="cover" content="cover"/>
+    <dc:contributor opf:role="bkp">calibre (3.23.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9789944824644</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a24629d0-6821-43fb-b300-18bf3d1eea00</dc:identifier>
+    <dc:identifier opf:scheme="calibre">a24629d0-6821-43fb-b300-18bf3d1eea00</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:publisher>Epsilon Yayınevi</dc:publisher>
+    <meta name="calibre:rating" content="10.00"/>
+    <meta name="calibre:series_index" content="2"/>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index-1_1.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="index-908_1.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="index-909_1.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="index-910_1.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id116" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_012.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_013.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_014.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_015.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

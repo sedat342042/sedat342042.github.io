@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Brooks, Terry">Terry Brooks</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">77382edd-200c-45da-b9c2-b909c3dd512c</dc:identifier>
+    <dc:date>2014-01-11T22:00:00+00:00</dc:date>
+    <meta content="Shannara'nın Kılıcı II" name="calibre:title_sort"/>
+    <meta content="2014-01-07T07:10:10.937000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:publisher>İthaki Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Allanon dışında hiçbir ölümlünün ayak basmadığı Krallar Salonu'nun kapılarındaki kafileyi Shannara'nın Kılıcı'nı arama yolunda yeni ve daha da çetin tehlikeler bekliyor. Yolculuklarının bu ayağında grubun her bir üyesi gücünü, sabrını ve cesaretini ölçen zorlu sınavlarla karşılaşıyor.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Dört karayı Karabüyücü Lord'un kötülüğünden kurtarabilecek tek kişi olan Shea Ohmsford ise gönülsüz atıldığı bu macerada, en korkulu düşmanların yanı sıra beklenmedik yardımcılarla da karşılaşıyor, en büyük sınavına doğru adım adım ilerlerken kendi özündeki cesareti keşfediyor.&lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Terry Brooks&quot;: &quot;&quot;}"/>
+<dc:title>Shannara'nın Kılıcı II</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Fantastik</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">b973f2ac-6639-46aa-a797-c3b334a9424d</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789756902677</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/index_split_000.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

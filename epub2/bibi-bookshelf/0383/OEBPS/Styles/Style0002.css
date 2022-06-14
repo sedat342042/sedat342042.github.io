@@ -1,0 +1,52 @@
+h1
+{
+margin-top:3em;
+margin-bottom:3em;
+text-align:center;
+Font-size:1.5em;
+}
+h2
+{
+margin-top:0em;
+margin-bottom:0em;
+Font-size:1em;
+text-decoration:underline;
+}
+
+
+
+p{
+text-align:justify;
+
+margin-top:0.3em;
+margin-bottom:0.3em;
+}
+.yildiz {
+Font-size:2em;
+margin-top:1em;
+margin-bottom:1em;
+text-align:center;
+
+}
+
+  .baslik{
+text-align:center;
+  font-style:bold;
+  font-size:2em;
+  margin-top:2em;
+  margin-bottom:2em;
+  }
+
+.yan {
+
+margin-left:-35%;
+font-style:italic;
+float:left;
+width:32%;
+font-size:0.8em;
+text-align:left;
+text-indent:0em;
+
+
+}
+

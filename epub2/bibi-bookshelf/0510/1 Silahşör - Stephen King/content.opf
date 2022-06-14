@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="King, Stephen">Stephen King</dc:creator>
+<meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:title_sort" content="Kara Kule 1: Silahşör"/>
+    <meta name="calibre:timestamp" content="2013-07-14T06:50:17+00:00"/>
+    <dc:title>Kara Kule 1: Silahşör</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2013-02-07T22:00:00+00:00</dc:date>
+    <meta name="calibre:series" content="Kara Kule"/>
+    <dc:contributor opf:role="bkp">calibre (0.9.39) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="MOBI-ASIN">00c0ff64-733f-4973-97e2-6a3dea428cff</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">93f5c3e4-e025-49ae-a76a-845dd7582614</dc:identifier>
+    <meta name="calibre:rating" content="0.0"/>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">93f5c3e4-e025-49ae-a76a-845dd7582614</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Kara_Kule_I_-_Silahsor_split_000.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Kara_Kule_I_-_Silahsor_split_001.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Kara_Kule_I_-_Silahsor_split_002.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Kara_Kule_I_-_Silahsor_split_003.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Kara_Kule_I_-_Silahsor_split_004.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Kara_Kule_I_-_Silahsor_split_005.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

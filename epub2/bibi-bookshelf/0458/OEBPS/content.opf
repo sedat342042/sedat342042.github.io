@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Pratchett, Terry">Terry Pratchett</dc:creator>
+<dc:identifier id="BookId">AWP-BBA39DD4-1882-4E5B-8A1E-489FE0FF00E3</dc:identifier>
+    <dc:date>2013-12-08T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-05-07</dc:date>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Büyünün Rengi</dc:title>
+<meta name="calibre:title_sort" content="Büyünün Rengi"/>
+<dc:publisher>İthaki Yayınları</dc:publisher>
+<meta name="calibre:series" content="Diskdünya"/>
+<meta name="calibre:series_index" content="1.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fantastik</dc:subject>
+<dc:subject>Mizah</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:description>&lt;p&gt;Cinsiyeti bilinmeyen bir kaplumbağanın sırtında duran disk şeklinde bir dünya... Her şeyin hayal gücünün sınırlarını zorladığı bu dünyada Görünmez Üniversite'den atılmış bir büyücülük öğrencisi: Rincewind, Agate İmparatorluğu'ndaki sıkıcı işinden bıkan, Diskdünya turisti dörtgöz 'skortacı' İkiçiçek ve onun akıllı armut ağacından yapılmış, yürüyen sandığı!
+
+Dilenciler Loncası, Büyücüler Mahallesi, ancak inandığınız takdirde var olan ejderler, 'yeraltı ruhlarının yansıyan sesi', medyum midyeler ve daha neler, neler...
+
+Tekmili birden bu romanda.
+
+"Yaşayan İngiliz yazarların en iyi ve en eğlencelilerinden biri." 
+-Independent-&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Terry Pratchett&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c59fa3f1-238d-4d47-9bc5-b25ed22651c4</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789756903322</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="Images/img2.png" id="img2" media-type="image/png"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Golding, William">William Golding</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">e8285594-5d97-41ce-98fe-3004d209a3a0</dc:identifier>
+    <dc:publisher>Sel Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;19. yüzyılın ilk yarısında İngiltere'den Avustralya'ya giden gemi, sıcak ve sisli bir günde durgun denizde rüzgarsızlıktan yol alamamaktadır. Bu zorunlu arayı önemsemeyen yolcular gemide bir balo düzenlerler. Gemidekiler, bu gerçeküstü parti havasına kendilerini hemen kaptırır, ellerinde içki kadehleri ile aşka doğru yelken açarlar; ancak hareketsiz duran gemilerinin tabanında küçük delikler çoktan açılmıştır. 
+
+Geçiş Ayinleri'nin devamı olan Yan Yana'da yolcuların yaşadığı gerginlik. Golding'in olağanüstü üslubunda yankı buluyor. Her yerinden su almaya başlayan, batması an meselesi olan bu geminin esrik yolcuları, korku ve aşkı aynı anda yaşarken delililğin eşiğine gelirler. Gemi yavaş yavaş parçalara ayrılırken yolcular da yaşamlarını gözden geçirmeye başlarlar.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2004-06-11T21:00:00+00:00</dc:date>
+    <meta content="2.0" name="calibre:series_index"/>
+    <meta content="2015-05-27T06:42:46.096000+00:00" name="calibre:timestamp"/>
+    <meta content="Yan Yana" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="Deniz Üçlemesi" name="calibre:series"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;William Golding&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Yan Yana</dc:title>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Tarihi Kurgu</dc:subject>
+<dc:subject>İngiliz Edebiyatı</dc:subject>
+<dc:subject>Nobel</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c2d577ab-02a2-4b1a-8cda-1fd9f2d852c8</dc:identifier>
+<dc:identifier opf:scheme="ISBN">975570213X</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/d3_01.htm" id="d3_01.htm" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/ic_kapak.htm" id="ic_kapak.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_03.htm" id="d3_03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_02.htm" id="d3_02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_04.htm" id="d3_04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_05.htm" id="d3_05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_06.htm" id="d3_06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_07.htm" id="d3_07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_08.htm" id="d3_08.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_09.htm" id="d3_09.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_10.htm" id="d3_10.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_11.htm" id="d3_11.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_12.htm" id="d3_12.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_13.htm" id="d3_13.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_14.htm" id="d3_14.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_15.htm" id="d3_15.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/d3_16.htm" id="d3_16.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ic_kapak.htm"/>
+    <itemref idref="d3_01.htm"/>
+    <itemref idref="d3_02.htm"/>
+    <itemref idref="d3_03.htm"/>
+    <itemref idref="d3_04.htm"/>
+    <itemref idref="d3_05.htm"/>
+    <itemref idref="d3_06.htm"/>
+    <itemref idref="d3_07.htm"/>
+    <itemref idref="d3_08.htm"/>
+    <itemref idref="d3_09.htm"/>
+    <itemref idref="d3_10.htm"/>
+    <itemref idref="d3_11.htm"/>
+    <itemref idref="d3_12.htm"/>
+    <itemref idref="d3_13.htm"/>
+    <itemref idref="d3_14.htm"/>
+    <itemref idref="d3_15.htm"/>
+    <itemref idref="d3_16.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

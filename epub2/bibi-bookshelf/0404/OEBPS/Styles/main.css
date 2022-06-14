@@ -1,0 +1,283 @@
+@font-face {
+font-family:"Berling-Medium";
+font-style:normal;
+font-weight:normal;
+src : url("../Fonts/BerlingLTStd-Medium.ttf");
+}
+
+@font-face {
+font-family:"Gill";
+font-style:normal;
+font-weight:normal;
+src : url("../Fonts/GillSansStd.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/BerlingLTStd-Bold.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../Fonts/BerlingLTStd-BoldItalic.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/BerlingLTStd-Roman.ttf");
+}
+
+@font-face {
+	font-family:"Berling";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/BerlingLTStd-Italic.ttf");
+}
+
+@font-face {
+	font-family:"Gill";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/GillSansStd-Italic.ttf");
+}
+
+@font-face {
+	font-family:"Gill";
+	font-style: normal;
+	font-weight: 300;
+	src : url("../Fonts/GillSansStd-Light.ttf");
+}
+
+@font-face {
+	font-family:"Gill";
+	font-style: italic;
+	font-weight: 300;
+	src : url("../Fonts/GillSansStd-LightItalic.ttf");
+}
+
+@font-face {
+	font-family:"Goudy";
+	font-style: normal;
+	font-weight: normal;
+	src : url("../Fonts/GoudyCatTReg.ttf");
+}
+
+a{
+  text-decoration: none;
+  color: #7A7A7A;
+}
+
+
+
+/*
+ *chapter
+ */
+
+p {
+	font: normal .875em/1.3em "Berling";
+	margin: 0;
+	text-indent: 1.9em;
+}
+
+.place {
+	text-align: right;
+	margin: 1em 0 1em 0;
+	font-style: italic;
+}
+
+.centered {
+	text-align: center;
+	margin-top: 1em;
+}
+
+h1 {
+	font: normal normal 1.25em/1.2em "Berling";
+	text-align: center;
+	margin: 3em 0 1.5em 0;
+}
+
+.part-title {
+	font-size: 1.416em;
+}
+
+
+
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000000 !important;
+}
+.si-footnote{
+	font-family: "Gill";
+	font-size: .8em;
+	margin-bottom: .25em;
+}
+
+blockquote {
+	margin: 1em 0 0 0;
+}
+
+blockquote div span {
+	font: normal .875em/1.3em "Berling";
+	display: block;
+	text-indent: 1.9em;
+}
+
+.by {
+	text-align: right;
+	margin-top: 1em;
+}
+
+.after-bq , .quatrain , .margin-top {
+	margin-top: 1em !important;
+}
+
+.no-margin {
+	margin-top: 0;
+}
+
+.letter {
+	margin: 1em 1em 0 1em;
+}
+
+.letter p {
+	font: normal normal .791em/1.3em "Gill" !important;
+	text-indent: 1.7em;
+}
+
+.preface h1 {
+	margin: 4em 0 1.5em 0;
+	font: normal normal 1.166em/1.3em "Berling";
+}
+
+.preface p {
+	text-indent: 1.7em;
+	font: normal normal .791em/1.4em "Berling";
+}
+
+dt {
+	text-align: center;
+	font: normal normal .875em/1.3em "Berling";
+	margin: 1.5em 0 0 0;
+}
+
+dd {
+	margin-left: 0;
+}
+
+.books .books {
+	font: normal normal .75em/1.3em "Gill";
+	text-indent: 0;
+}
+
+.books ul , .characters ul {
+	padding-left: 0;
+}
+
+.books ul li {
+	font: normal normal .75em/1.5em "Gill";
+	list-style-type: none;
+}
+
+.characters ul li {
+	font: normal normal .79em/1.3em "Berling";
+	list-style-type: none;
+}
+
+.characters {
+	margin: 6em 0 0 0;
+}
+
+.kunye, .margin, .press{
+  margin-top: .8em;
+}
+.isbn {
+	margin-top: 1.2em;
+}
+.kunye .publisher{
+	margin-top: 2em;
+}
+.kunye span{
+  font-family: "Gill";
+  font-size:0.667em;
+  display: block;
+}
+.title{
+  text-align: center;
+}
+.aut{
+  font-family: "Goudy";
+  font-size: 1.812em;
+  margin-bottom: 0;
+}
+.aut span{
+  font-size: 1.15em;
+}
+.work{
+  font-family: "Goudy";
+  font-size: 1.875em;
+  margin-top: .5em;
+}
+.work span {
+	font-size: .333em;
+	display: block;
+}
+.seri{
+  font-family: "Gill";
+  font-size: 1em;
+  margin-top: 3.5em
+}
+.trans{
+  font-family: "Gill";
+  font-size: .9em;
+  margin-top: 1.5em;
+  line-height: 1.5em
+}
+.trans span{
+  font-size: 1.2em;
+}
+.logo{
+  margin: 3em auto 0 auto;
+  width: 60px;
+}
+.logo img{
+  max-width: 100%;
+}
+.cover-container img{
+  max-width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+img{
+  width: 100%;
+}
+#biography p{
+  font-family: "Gill";
+  font-size: .75em;
+  line-height: 1.5em;
+  text-indent: 0;
+}
+#biography .translator {
+  margin-top: 2em;
+}

@@ -1,0 +1,133 @@
+.block {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: -1pt;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 0.83333em;
+    letter-spacing: -0.05pt;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block3 {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 0.83333em;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block4 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block5 {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0 42.6pt 0 35.5pt
+    }
+.block7 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0 42.6pt 0 35.5pt
+    }
+.block8 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    color: black;
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre2 {
+    height: 36.2pt;
+    width: 97.3pt
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.text {
+    font-family: "Calibri", sans-serif;
+    font-size: 1em
+    }
+.text1 {
+    color: #000;
+    font-family: "Book Antiqua", serif;
+    font-size: 2.4em;
+    line-height: 1.2
+    }
+.text2 {
+    color: #000;
+    font-family: "Arial Black", sans-serif;
+    font-size: 2.4em;
+    letter-spacing: -1pt;
+    line-height: 1.2
+    }

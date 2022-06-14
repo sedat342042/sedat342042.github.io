@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Tolkien, J. R. R.">J. R. R. Tolkien</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">3440064b-ede3-4730-8af3-74fe5db0072f</dc:identifier>
+    <dc:date>1999-05-27T21:00:00+00:00</dc:date>
+    <meta content="2011-01-05T20:01:25.634370+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="Silmarillion-Turkey-port.jpg"/>
+    <opf:meta content="Silmarillion" name="calibre:title_sort"/>
+    <opf:meta content="{}" name="calibre:user_categories"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Silmarillion</dc:title>
+<dc:publisher>Altıkırkbeş Basın Yayın</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Fantastik</dc:subject>
+<dc:description>&lt;p&gt;Tolkien'in en önemli çalışması olarak kabul edilen Silmarillion, onun yarattığı dünyanın özüdür. Kökleri Hobbit'ten önceye uzanır ve Yüzüklerin Efendisi'nde şekillenmeye başlayan bir dünyanın yaratılış öyküsünü barındırarak, tüm Tolkien eserlerinin üzerine yerleşebileceği bir yapı
+oluşturur. Yaşamı boyunca üzerinde çalışmayı terk edemediği ve giderek büyüyüp gelişen bu eser ancak ölümünden dört yıl sonra oğlu tarafından
+yayımlanabildi. Elflerin en beceriklisi olan Feanorun yarattığı üç Silmaril'in çalınmasıyla birlikte kadim dünyanın en kederli olayları gelişmeye başlar.
+Silmarillion, elflerin tanrılara isyan ederek Orta Dünya'ya sürülmelerini; orada insanlar ve Cücelerle birleşerek tanrıların en kötüsüne, Morgoth'a karşı verdiği umutsuz savaşı anlatır.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;J. R. R. Tolkien&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d006700e-d877-4870-b17b-c96a408f57dd</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9758467298</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/index_split_000.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/resim-5.png" id="resim-5.png" media-type="image/png"/>
+    <item href="Images/Untitled-3.png" id="Untitled-3.png" media-type="image/png"/>
+    <item href="Images/Silmarillion-Turkey-port.jpg" id="Silmarillion-Turkey-port.jpg" media-type="image/jpeg"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim-2.jpg" id="resim-2.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim-3.jpg" id="resim-3.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim-4.jpg" id="resim-4.jpg" media-type="image/jpeg"/>
+    <item href="Images/Harita-1.jpg" id="Harita-1.jpg" media-type="image/jpeg"/>
+    <item href="Images/Harita-2.jpg" id="Harita-2.jpg" media-type="image/jpeg"/>
+    <item href="Images/Harita-3.jpg" id="Harita-3.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

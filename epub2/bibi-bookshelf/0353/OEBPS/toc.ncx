@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:0aaeb5e1-9ab8-4fc1-833c-3c47305c3398" name="dtb:uid"/>
+		<meta content="0" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Attilâ</text>
+	</docTitle>
+	<docAuthor>
+		<text>Peyami Safa</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>CoverImage</text>
+			</navLabel>
+			<content src="Text/CoverImage.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>attila</text>
+			</navLabel>
+			<content src="Text/attila.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>attila-1</text>
+			</navLabel>
+			<content src="Text/attila-1.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>attila-2</text>
+			</navLabel>
+			<content src="Text/attila-2.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>attila-3</text>
+			</navLabel>
+			<content src="Text/attila-3.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>attila-4</text>
+			</navLabel>
+			<content src="Text/attila-4.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>attila-5</text>
+			</navLabel>
+			<content src="Text/attila-5.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>attila-6</text>
+			</navLabel>
+			<content src="Text/attila-6.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>

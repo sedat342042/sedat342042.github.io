@@ -1,0 +1,289 @@
+
+
+	
+/*copyright-page*/
+
+.copyright-page .series span{
+	margin-bottom: .8em;
+	font-family: "Mobil";
+	font-size: .65em;
+}
+
+
+.copyright-page .copy{
+	margin-top:.8em ;
+}
+.copyright-page .publisher{
+	margin-top: 2em;
+}
+
+.copyright-page span{
+	font-family: "GillSans";
+	font-size:0.7em;
+	display: block;
+}
+
+.copyright-page a{
+	color:#777;
+	text-decoration: none;
+}
+
+/*titlepage*/
+
+.title{
+	text-align: center;
+}
+.aut{
+	font-family: "Goudy";
+	font-size: 1.7em;
+	margin-bottom: 0;
+}
+.aut span{
+	font-size: 1.15em;
+}
+
+.bfl {
+	font-size: 1.2em;
+}
+
+.work{
+	font-family: "Goudy";
+	font-size: 2.6em;
+	margin-top: .3em;
+}
+.seri{
+	font-family: "GillSans";
+	font-size: 1em;
+	margin-top: 3.5em
+}
+.translator{
+	font-family: "GillSans";
+	font-size: .9em;
+	margin-top: 1.5em;
+	line-height: 1.5em
+}
+.translator span{
+	font-size: 1.2em;
+	
+}
+
+
+/*biography*/
+
+.biography p{
+	font-family: "GillSans";
+	font-size: .75em;
+	text-indent: 0;
+	margin-bottom: 2em;
+}
+
+.biography p:last-child{
+	margin-bottom: 0;
+}
+
+.works-container p{
+	margin-top: 2em;
+	font-family: "GillSans";
+	font-size: .75em;
+	text-indent: 0;
+}
+
+.works-container ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.works-container ul li {
+	font-family: "GillSans";
+	font-size: .75em;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+/*biography*/
+
+.preface .container {
+	margin-top: 4em;
+}
+
+.preface p,
+.notice p {
+	font-size: .8em;
+}
+
+.preface .epigraph span {
+	font-size: .8em;
+}
+
+.preface .date, .notice .date {
+	text-align: right;
+
+}
+
+/*notice*/
+
+.notice h1 {
+	font:normal normal 1.16em/1.2em "Berling";
+	text-align: center;
+	margin-bottom: 2em;
+	margin-top: 4em;
+}
+
+/*part*/
+
+.part-header {
+	margin-top: 4em;
+	font:normal normal 1.41em/1.3em "Berling";
+	text-align: center;
+	
+}
+
+/*chapter*/
+
+.chapter-container {
+	margin-top: 4em;
+}
+
+.subchapter {
+	margin-top: 3em;
+}
+
+.chapter-header {
+	font:normal normal 1.25em/1.2em "Berling";
+	text-align: center;
+	margin-bottom: 2em;
+	
+}
+
+.chapter-number {
+	display: block;
+	margin-bottom: .5em;
+}
+
+p {
+	margin: 0 auto;
+	font:normal normal .875em/1.3em "Berling";
+	text-indent: 2em;
+}
+
+blockquote {
+	margin:1em 0 1em 1.2em;
+}
+
+blockquote p {
+	font:normal normal .875em/1.3em "GillSans Light";
+	text-indent: 1.5em;
+}
+
+.poem {
+	margin:1em 0 1em 1.8em;
+}
+
+.poem span {
+	display: block;
+	font:normal normal .875em/1.3em "Berling";
+}
+
+.pull1 {
+	padding-left: 5em
+}
+
+.pull2 {
+	padding-left: 8em
+}
+
+.pull3 {
+	padding-left: 12em
+}
+
+.margin-top{
+	margin-top: 1em;
+}
+
+.epigraph {
+	margin: 1em auto;
+}
+
+.epigraph span {
+	display: block;
+	font:normal normal .875em/1.3em "Berling";
+	text-align: center;
+}
+
+.speech {
+	margin: 1em auto;
+}
+
+.speech .note {
+	margin-top: 1em;
+}
+
+.symbol, .epigraph .symbol {
+	font-family: "Symbol" !important;
+	display: inline !important;
+	font-size: 1em !important;
+}
+
+.latin {
+	font-family: "Times";
+	display: inline !important;
+}
+
+hr {
+	border: none;
+	font:normal normal .875em/1.3em "Berling";
+	margin:1em auto 2em 2em;
+
+}
+
+hr:after {
+	content: ". . . . . . . . . . . . . . . . . . . . .";
+	
+}
+
+.noteref {
+	vertical-align: super;
+	font-size:.6em;
+	line-height: 1em;
+	text-decoration: none;
+	color:#777;
+}
+
+h1 .noteref {
+	font-size: .3em;
+} 
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+margin:4em 0 1em;
+}
+.si-backref{
+font-weight: bold;
+font-family: sans-serif;
+text-decoration: none;
+color: #000;
+}
+.si-footnote{
+font-family: "GillSans";
+font-size: .8em;
+margin-bottom: .25em;
+}
+.logo{
+  margin: 3em auto 0 auto;
+  
+}
+.cover-container img{
+  max-width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}

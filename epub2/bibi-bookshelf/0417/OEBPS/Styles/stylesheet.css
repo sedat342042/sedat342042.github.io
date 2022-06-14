@@ -1,0 +1,287 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-size: 1.2em
+    }
+.calibre2 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-weight: bold;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: 0;
+    margin: 18pt 0 6pt
+    }
+.calibre3 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    float: left;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.calibre4 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre5 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre6 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre7 {
+    height: 48px;
+    width: 185px
+    }
+.calibre8 {
+    display: block
+    }
+.calibre9 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-weight: bold;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: -36.85pt;
+    margin: 6pt 0 6pt 36.85pt
+    }
+.calibre10 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-weight: bold;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: -36.85pt;
+    margin: 18pt 0 6pt 36.85pt
+    }
+.calibre11 {
+    color: black;
+    font-size: 1.2em
+    }
+.calibre12 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.29167em;
+    font-weight: bold;
+    layout-grid-mode: line;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: -36.85pt;
+    margin: 18pt 0 6pt 36.85pt
+    }
+.calibre13 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-weight: bold;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: -36.85pt;
+    margin: 18pt 0 6pt 36.85pt
+    }
+.calibre14 {
+    font-style: italic
+    }
+.calibre15 {
+    font-size: 0.83333em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre16 {
+    color: black;
+    font-size: 1.2em;
+    text-transform: uppercase
+    }
+.calibre17 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-weight: bold;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    page-break-after: avoid;
+    text-align: left;
+    text-indent: 19.85pt;
+    margin: 18pt 0 6pt 36.85pt
+    }
+.MsoBodyText {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: -36.85pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoBodyTextIndent {
+    background: white;
+    color: black;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: -36.85pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoBodyTextIndent1 {
+    background: white;
+    color: black;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: 19.85pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoBodyTextIndent2 {
+    background: white;
+    color: black;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: -36.85pt;
+    margin: 0 0 0.0001pt 36.85pt
+    }
+.MsoBodyTextIndent3 {
+    background: white;
+    color: black;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: 19.85pt;
+    margin: 0 0 0.0001pt 36.85pt
+    }
+.MsoCommentText {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-style: italic;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: 14.2pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoCommentText1 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-style: italic;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: 14.2pt;
+    margin: 0 0 0.0001pt 36.85pt
+    }
+.MsoNormal {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: -36.85pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoNormal1 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: -36.85pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoNormal2 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: -2cm;
+    margin: 0 0 0.0001pt 6cm
+    }
+.MsoNormal3 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: -2cm;
+    margin: 0 0 6pt 6cm
+    }
+.MsoNormal4 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: -36.85pt;
+    margin: 0 0 0.0001pt 36.85pt
+    }
+.MsoNormal5 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: 19.85pt;
+    margin: 0 0 0.0001pt 36.85pt
+    }
+.MsoNormal6 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    text-indent: 19.85pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoNormal7 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 15pt;
+    tab-stops: 2cm;
+    text-indent: -36.85pt;
+    margin: 0 0 0.0001pt 36.85pt
+    }
+.WordSection {
+    display: block;
+    page: WordSection1
+    }

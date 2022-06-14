@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="517d5344-8a7d-4b34-89a4-73841b84baf6" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text/>
+  </docTitle>
+  <navMap>
+    <navPoint id="text1" playOrder="1">
+      <navLabel>
+        <text>Bilgili Canayakın'ın Öyküsü</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint id="text2" playOrder="2">
+      <navLabel>
+        <text>Şair Ebu-Nuvas'ın Serüveni</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint id="text3" playOrder="3">
+      <navLabel>
+        <text>Gemici Sindbat'ın Öyküsü</text>
+      </navLabel>
+      <content src="Text/chapter7.xhtml"/>
+    </navPoint>
+    <navPoint id="text4" playOrder="4">
+      <navLabel>
+        <text>Gemici Sindbat'ın Birinci Gezisi</text>
+      </navLabel>
+      <content src="Text/chapter11.xhtml"/>
+    </navPoint>
+    <navPoint id="text5" playOrder="5">
+      <navLabel>
+        <text>Gemici Sindbat'ın İkinci Gezisi</text>
+      </navLabel>
+      <content src="Text/chapter19.xhtml"/>
+    </navPoint>
+    <navPoint id="text6" playOrder="6">
+      <navLabel>
+        <text>Gemici Sindbat'ın Üçüncü Gezisi</text>
+      </navLabel>
+      <content src="Text/chapter34.xhtml"/>
+    </navPoint>
+    <navPoint id="text7" playOrder="7">
+      <navLabel>
+        <text>Gemici Sindbat'ın Dördüncü Gezisi</text>
+      </navLabel>
+      <content src="Text/chapter41.xhtml"/>
+    </navPoint>
+    <navPoint id="text8" playOrder="8">
+      <navLabel>
+        <text>Gemici Sindbat'ın Beşinci Gezisi</text>
+      </navLabel>
+      <content src="Text/chapter52.xhtml"/>
+    </navPoint>
+    <navPoint id="text9" playOrder="9">
+      <navLabel>
+        <text>Gemici Sindbat'ın Altıncı Gezisi</text>
+      </navLabel>
+      <content src="Text/chapter64.xhtml"/>
+    </navPoint>
+    <navPoint id="text10" playOrder="10">
+      <navLabel>
+        <text>Gemici Sindbat'ın Yedinci Gezisi</text>
+      </navLabel>
+      <content src="Text/chapter68.xhtml"/>
+    </navPoint>
+    <navPoint id="text11" playOrder="11">
+      <navLabel>
+        <text>Güzel Zümrüt ile Şöhret'in Oğlu Alişar'ın Öyküsü</text>
+      </navLabel>
+      <content src="Text/chapter75.xhtml"/>
+    </navPoint>
+    <navPoint id="text12" playOrder="12">
+      <navLabel>
+        <text>Altı Ayrı Nitelikteki Genç Kadının Öyküsü</text>
+      </navLabel>
+      <content src="Text/chapter76.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

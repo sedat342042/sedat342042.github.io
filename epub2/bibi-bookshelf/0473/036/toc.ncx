@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="8213c6c5-12cc-4b45-b160-9232c28ce5c6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kılıçların Fırtınası</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="index_split_000.html#p6"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>JAIME</text>
+      </navLabel>
+      <content src="index_split_000.html#p16"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>CATELYN</text>
+      </navLabel>
+      <content src="index_split_000.html#p25"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_000.html#p31"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>TYRİON</text>
+      </navLabel>
+      <content src="index_split_000.html#p37"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>DAVOS</text>
+      </navLabel>
+      <content src="index_split_000.html#p45"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>SANSA</text>
+      </navLabel>
+      <content src="index_split_001.html#p50"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_001.html#p59"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>DAENERYS</text>
+      </navLabel>
+      <content src="index_split_001.html#p67"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>BRAN</text>
+      </navLabel>
+      <content src="index_split_001.html#p77"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>DAVOS</text>
+      </navLabel>
+      <content src="index_split_001.html#p84"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>JAIME</text>
+      </navLabel>
+      <content src="index_split_002.html#p92"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>TYRION</text>
+      </navLabel>
+      <content src="index_split_002.html#p101"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_002.html#p108"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>CATELYN</text>
+      </navLabel>
+      <content src="index_split_002.html#p117"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_002.html#p125"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>SANSA</text>
+      </navLabel>
+      <content src="index_split_003.html#p136"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_003.html#p140"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>SAMWELL</text>
+      </navLabel>
+      <content src="index_split_003.html#p145"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>TYRION</text>
+      </navLabel>
+      <content src="index_split_003.html#p155"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>CATELYN</text>
+      </navLabel>
+      <content src="index_split_003.html#p166"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>JAIME</text>
+      </navLabel>
+      <content src="index_split_003.html#p173"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_004.html#p181"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>DAENERYS</text>
+      </navLabel>
+      <content src="index_split_004.html#p189"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>BRAN</text>
+      </navLabel>
+      <content src="index_split_004.html#p201"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>DAVOS</text>
+      </navLabel>
+      <content src="index_split_004.html#p209"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_004.html#p215"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>DAENERYS</text>
+      </navLabel>
+      <content src="index_split_005.html#p222"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>SANSA</text>
+      </navLabel>
+      <content src="index_split_005.html#p231"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_005.html#p239"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_005.html#p245"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>JAIME</text>
+      </navLabel>
+      <content src="index_split_005.html#p249"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>TYRION</text>
+      </navLabel>
+      <content src="index_split_005.html#p256"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>SAMWELL</text>
+      </navLabel>
+      <content src="index_split_006.html#p265"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_006.html#p276"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>CATELYN</text>
+      </navLabel>
+      <content src="index_split_006.html#p284"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>DAVOS</text>
+      </navLabel>
+      <content src="index_split_006.html#p292"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>JAIME</text>
+      </navLabel>
+      <content src="index_split_006.html#p301"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>TYRION</text>
+      </navLabel>
+      <content src="index_split_007.html#p309"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_007.html#p317"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>BRAN</text>
+      </navLabel>
+      <content src="index_split_007.html#p327"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_007.html#p333"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="43">
+      <navLabel>
+        <text>DAENERYS</text>
+      </navLabel>
+      <content src="index_split_007.html#p342"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="44">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_008.html#p354"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="45">
+      <navLabel>
+        <text>CATELYN</text>
+      </navLabel>
+      <content src="index_split_008.html#p372"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>SAMWELL</text>
+      </navLabel>
+      <content src="index_split_008.html#p382"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_009.html#p397"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>CATELYN</text>
+      </navLabel>
+      <content src="index_split_009.html#p403"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_009.html#p413"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="50">
+      <navLabel>
+        <text>CATELYN</text>
+      </navLabel>
+      <content src="index_split_009.html#p417"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_51" playOrder="51">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_009.html#p424"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="52">
+      <navLabel>
+        <text>TYRION</text>
+      </navLabel>
+      <content src="index_split_009.html#p427"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_53" playOrder="53">
+      <navLabel>
+        <text>DAVOS</text>
+      </navLabel>
+      <content src="index_split_009.html#p434"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_009.html#p444"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_55" playOrder="55">
+      <navLabel>
+        <text>BRAN</text>
+      </navLabel>
+      <content src="index_split_010.html#p454"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_56" playOrder="56">
+      <navLabel>
+        <text>DAENERYS</text>
+      </navLabel>
+      <content src="index_split_010.html#p465"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_57" playOrder="57">
+      <navLabel>
+        <text>TYRION</text>
+      </navLabel>
+      <content src="index_split_010.html#p476"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_58" playOrder="58">
+      <navLabel>
+        <text>TYRION</text>
+      </navLabel>
+      <content src="index_split_010.html#p486"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_59" playOrder="59">
+      <navLabel>
+        <text>SANSA</text>
+      </navLabel>
+      <content src="index_split_011.html#p499"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_60" playOrder="60">
+      <navLabel>
+        <text>JAIME</text>
+      </navLabel>
+      <content src="index_split_011.html#p505"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_61" playOrder="61">
+      <navLabel>
+        <text>DAVOS</text>
+      </navLabel>
+      <content src="index_split_011.html#p515"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_62" playOrder="62">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_011.html#p521"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_63" playOrder="63">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_011.html#p529"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_64" playOrder="64">
+      <navLabel>
+        <text>TYRION</text>
+      </navLabel>
+      <content src="index_split_011.html#p535"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_65" playOrder="65">
+      <navLabel>
+        <text>JAIME</text>
+      </navLabel>
+      <content src="index_split_012.html#p546"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_66" playOrder="66">
+      <navLabel>
+        <text>SANSA</text>
+      </navLabel>
+      <content src="index_split_012.html#p555"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_67" playOrder="67">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_012.html#p566"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_68" playOrder="68">
+      <navLabel>
+        <text>TYRION</text>
+      </navLabel>
+      <content src="index_split_012.html#p574"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_69" playOrder="69">
+      <navLabel>
+        <text>DAENERYS</text>
+      </navLabel>
+      <content src="index_split_012.html#p584"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_70" playOrder="70">
+      <navLabel>
+        <text>JAIME</text>
+      </navLabel>
+      <content src="index_split_013.html#p595"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_71" playOrder="71">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_013.html#p604"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_72" playOrder="72">
+      <navLabel>
+        <text>ARYA</text>
+      </navLabel>
+      <content src="index_split_013.html#p613"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_73" playOrder="73">
+      <navLabel>
+        <text>SAMWELL</text>
+      </navLabel>
+      <content src="index_split_013.html#p622"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_74" playOrder="74">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_013.html#p629"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_75" playOrder="75">
+      <navLabel>
+        <text>TYRION</text>
+      </navLabel>
+      <content src="index_split_014.html#p634"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_76" playOrder="76">
+      <navLabel>
+        <text>SAMWELL</text>
+      </navLabel>
+      <content src="index_split_014.html#p641"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_77" playOrder="77">
+      <navLabel>
+        <text>JON</text>
+      </navLabel>
+      <content src="index_split_014.html#p649"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_78" playOrder="78">
+      <navLabel>
+        <text>SANSA</text>
+      </navLabel>
+      <content src="index_split_014.html#p655"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_79" playOrder="79">
+      <navLabel>
+        <text>SON</text>
+      </navLabel>
+      <content src="index_split_014.html#p666"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_80" playOrder="80">
+      <navLabel>
+        <text>EKLER</text>
+      </navLabel>
+      <content src="index_split_014.html#p673"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Güntekin, Reşat Nuri">Reşat Nuri Güntekin</dc:creator>
+<dc:publisher>İnkılâp Kitabevi</dc:publisher>
+    <dc:description>&lt;p&gt;ACIMAK'ta, görevine bağlılığıyla tanınmış bir ilkokul başöğretmeni olan Zehra Hanım'ın trajik serüveni dile getiriliyor. Doğruluk, temizlik, fedakârlık hastalığı, onda insanlığın en değerli yeteneğini öldürmüştür: Acımak yeteneğini.
+
+Duygusal, geniş ruhlu bir kadın. Güzel, doğru, temiz şeyleri çılgınca seviyor. Ama zaafa, düşkünlüğe ve çirkinliğe acımıyor. Yapılmış bir kötülük için hiçbir gerekçe tanımıyor ve acımadan söküp atıveriyor. Bütün insanları etkilemiş güzel bir duygunun romanı.&lt;/p&gt;</dc:description>
+    <dc:date>2007-05-23T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">75a13bec-430b-47b9-a207-cc31add46ccb</dc:identifier>
+    <dc:date opf:event="modification">2014-05-30</dc:date>
+    <meta content="Acımak" name="calibre:title_sort"/>
+    <meta content="2014-05-24T13:31:22.625000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Reşat Nuri Güntekin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  <dc:title>Acımak</dc:title>
+<meta name="calibre:series" content="Reşat Nuri Güntekin Bütün Eserleri"/>
+<meta name="calibre:series_index" content="5.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Cumhuriyet Dönemi</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">005b489c-77b4-4e74-9df8-3f91f142972a</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">mN0DuAAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789751026569</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:09a344ef-1b8b-49cc-9611-8bd374810822</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
