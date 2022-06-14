@@ -1,0 +1,25 @@
+
+/*gövde,paragraf*/
+
+body
+{
+	text-align: justify;
+	text-indent: 1em;
+	margin-left:  1.2em;
+	margin-right:  1.2em;
+	line-height: 1.2em;
+}
+
+p
+{
+	font-size: small;
+	text-indent: 1em;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 1.2em;
+	orphans: 2;
+	widows: 2;
+}
+/*bölüm numara, başlık*/
+
+

@@ -1,0 +1,87 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Heinlein, Robert A.">Robert A. Heinlein</dc:creator>
+<dc:identifier id="BookId">AWP-6CBA82AC-E70A-4916-A160-BEF57D96F9E9</dc:identifier>
+    <dc:date opf:event="">2015-02-08</dc:date>
+    <dc:date opf:event="modification">2015-10-31</dc:date>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:date opf:event="publication">1995-12-01</dc:date>
+    <dc:date>1942-10-31T22:00:00+00:00</dc:date>
+    <dc:format>spiderh</dc:format>
+    <dc:type>Roman, Fantastik, Bilim-Kurgu</dc:type>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Kaybolan Miras" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Üç arkadaş kendi beyinlerinde gizli inanılmaz yetenekler keşfettiler. Sorun bu yeteneklerin hangi amaçla kullanılacağıydı."Demek ben sahtekar oluyorum ha? Seni inatçı dinozor, bunu nasıl açıklayacaksın bakalım!" Huxley kendini halıdan bir metre havaya yükseltti. "Neyi nasıl açıklayacakmışım?" Huxley hayrete düştü. Brinckley olağandışı bir şey olduğunun farkına bile varmamıştı sanki; Phil'in yükselmeden önce başının durduğu noktaya bakıyordu...&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; widows: 1; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{&quot;Robert A. Heinlein&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:user_categories" content="{}"/>
+<dc:title>Kaybolan Miras</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Bilimkurgu</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">947ffcee-59ab-4538-bc52-cc718f6c8420</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753421003</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="id018" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Misc/DejavuSerif_Licence.txt" id="DejavuSerif_Licence.txt" media-type="text/plain"/>
+    <item href="Fonts/DejaVuSerif_Light.ttf" id="DejaVuSerif_Light.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/DejaVuSerif-Bold_Light.ttf" id="DejaVuSerif-Bold_Light.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/DejaVuSerif-BoldItalic_Light.ttf" id="DejaVuSerif-BoldItalic_Light.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/DejaVuSerif-Italic_Light.ttf" id="DejaVuSerif-Italic_Light.ttf" media-type="application/x-font-ttf"/>
+    <item href="Misc/Control Freak Upset - Readme.txt" id="Control_Freak_Upset_-_Readme.txt" media-type="text/plain"/>
+    <item href="Misc/Metal Lord - Read-this.7z" id="Metal_Lord_-_Read-this.7z" media-type="text/plain"/>
+    <item href="Fonts/Control_Freak_Upset_TR.ttf" id="Control_Freak_Upset_TR.ttf" media-type="application/x-font-ttf"/>
+    <item href="Images/img1.png" id="img1.png" media-type="image/png"/>
+    <item href="Images/img2.png" id="img2.png" media-type="image/png"/>
+    <item href="Fonts/Metal_Lord.ttf" id="Metal_Lord.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

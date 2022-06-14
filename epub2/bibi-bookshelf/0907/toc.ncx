@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="3a506b90-ca1a-45df-8a3a-350073af2f07" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Şeytan Tangosu</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{016CCEB6-0C94-4AAC-A38D-5BB3CF8ABE2A}" playOrder="1">
+      <navLabel>
+        <text>Bir şeyler bilmek</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{1893A8DC-40B4-4AFB-9B61-B548375A6017}" playOrder="2">
+      <navLabel>
+        <text>Schmidt havayı kokladı. "Bu koku da nesi? Daha dem</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{7D9B27C7-0695-4D1E-A153-F01EBF7B31B1}" playOrder="3">
+      <navLabel>
+        <text>Irimiâs konuşma yapıyor</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{2F87B7DB-DC65-4BFC-84EB-40EB5EE2CFAA}" playOrder="4">
+      <navLabel>
+        <text>riyor, gözlerinin önünde her şey, park, ağaçlar ve</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{80E3FA48-39F1-41B0-BB92-439C01FA6184}" playOrder="5">
+      <navLabel>
+        <text>Tur tamamianıyor</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

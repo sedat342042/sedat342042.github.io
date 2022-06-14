@@ -1,0 +1,353 @@
+.block {
+    display: block;
+    font-family: "Arial Unicode MS", sans-serif;
+    font-size: 0.625em;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 7.2pt
+    }
+.block2 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 7.2pt
+    }
+.block3 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 7.2pt
+    }
+.block4 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 0.83333em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 7.2pt
+    }
+.block5 {
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    font-family: "Arial Unicode MS", sans-serif;
+    font-size: 1em
+    }
+.block7 {
+    display: block;
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 0.625em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    display: block;
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 0.625em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    display: block;
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 0.625em;
+    text-align: center;
+    text-decoration: underline;
+    padding: 0;
+    margin: 0
+    }
+.block11 {
+    color: black;
+    display: block;
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 0.625em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block12 {
+    display: block;
+    font-family: "Arial Unicode MS", sans-serif;
+    font-size: 0.625em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block13 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    text-align: right;
+    padding: 0;
+    margin: 0
+    }
+.block14 {
+    display: block;
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: right;
+    padding: 0;
+    margin: 0
+    }
+.block15 {
+    display: block;
+    font-size: 0.75em;
+    font-weight: bold;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block16 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block17 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block18 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block19 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 18pt;
+    padding: 0;
+    margin: 0
+    }
+.block20 {
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block21 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -18pt;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.block22 {
+    display: block;
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: right;
+    padding: 0;
+    margin: 0
+    }
+.block23 {
+    color: black;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 18pt;
+    padding: 0;
+    margin: 0
+    }
+.block24 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block25 {
+    color: #C00000;
+    display: block;
+    font-family: "Arial Unicode MS", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block26 {
+    display: block;
+    font-family: "Arial Unicode MS", sans-serif;
+    font-size: 0.75em;
+    font-weight: bold;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block27 {
+    display: block;
+    font-family: "Arial Unicode MS", sans-serif;
+    font-size: 0.75em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block28 {
+    color: #C00000;
+    display: block;
+    font-family: "Arial Unicode MS", sans-serif;
+    font-size: 0.75em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block29 {
+    color: #C00000;
+    display: block;
+    font-family: "Arial Unicode MS", sans-serif;
+    font-size: 0.75em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block30 {
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-style: italic
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    float: left;
+    height: 68.9pt;
+    width: 86pt
+    }
+.calibre5 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre6 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre7 {
+    display: block;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.calibre8 {
+    font-size: 0.83333em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre9 {
+    height: 443pt;
+    line-height: 1.2;
+    width: 450pt
+    }
+.tab {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.text {
+    font-family: "Book Antiqua", serif;
+    font-size: 2.66667em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.text1 {
+    color: black;
+    text-decoration: none
+    }
+.text2 {
+    color: black
+    }
+.text3 {
+    font-family: "Garamond", serif;
+    font-size: 1.6em
+    }
+.text4 {
+    font-family: "Arial", sans-serif;
+    font-size: 2.06667em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text5 {
+    color: #000;
+    line-height: 1.2
+    }
+.text6 {
+    color: #06C;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.text7 {
+    font-family: "Arial Unicode MS", sans-serif;
+    font-size: 1.2em
+    }

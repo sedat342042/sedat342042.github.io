@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:isbn:9789750723803" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="Sistematik epub-tools" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Aslan Asker Şvayk</text>
+  </docTitle>
+  <navMap>
+    <navLabel>
+      <text>İçindekiler</text>
+    </navLabel>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Çevirmenin önsözü</text>
+      </navLabel>
+      <content src="Text/preface1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Jaroslav Hašek ve Aslan Asker Şvayk</text>
+      </navLabel>
+      <content src="Text/prologue.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Öndeyiş</text>
+      </navLabel>
+      <content src="Text/preface2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM: CEPHE GERİSİNDE</text>
+      </navLabel>
+      <content src="Text/part1.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>1. Aslan Asker Şvayk Dünya Savaşı’na burnunu sokuyor</text>
+        </navLabel>
+        <content src="Text/chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>2. Aslan Asker Şvayk emniyette</text>
+        </navLabel>
+        <content src="Text/chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>3. Şvayk, hekimlerin huzurunda</text>
+        </navLabel>
+        <content src="Text/chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>4. Şvayk akıl hastanesinden kovuluyor</text>
+        </navLabel>
+        <content src="Text/chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>5. Şvayk, Salmova Sokağı’ndaki karakolda</text>
+        </navLabel>
+        <content src="Text/chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>6. Şvayk kısırdöngüyü kırıp evine dönüyor</text>
+        </navLabel>
+        <content src="Text/chapter6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>7. Şvayk savaşa gidiyor</text>
+        </navLabel>
+        <content src="Text/chapter7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>8. Şvayk asker kaçağı</text>
+        </navLabel>
+        <content src="Text/chapter8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>9. Şvayk garnizon hapishanesinde</text>
+        </navLabel>
+        <content src="Text/chapter9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>10. Şvayk, Papaz Katz’ın emir eri</text>
+        </navLabel>
+        <content src="Text/chapter10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>11. Şvayk Askerî Rahip’le savaş ayininde</text>
+        </navLabel>
+        <content src="Text/chapter11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>12. Din tartışması</text>
+        </navLabel>
+        <content src="Text/chapter12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>13. Şvayk’tan son kutsama</text>
+        </navLabel>
+        <content src="Text/chapter13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>14. Şvayk, Teğmen Lukaş’ın emir eri oluyor</text>
+        </navLabel>
+        <content src="Text/chapter14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>15. Kara bulutlar</text>
+        </navLabel>
+        <content src="Text/chapter15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Birinci bölüme sonsöz</text>
+        </navLabel>
+        <content src="Text/conclusion.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM: CEPHEDE</text>
+      </navLabel>
+      <content src="Text/part2.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>1. Şvayk’ın trende başına gelenler</text>
+        </navLabel>
+        <content src="Text/chapter16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>2. Şvayk’ın Budyeyovitse seferi</text>
+        </navLabel>
+        <content src="Text/chapter17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>3. Şvayk’ın Kiralihida serüvenleri</text>
+        </navLabel>
+        <content src="Text/chapter18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>4. Yeni ıstıraplar</text>
+        </navLabel>
+        <content src="Text/chapter19.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>5. Leitha kıyısındaki Bruck’tan Sokol’a doğru</text>
+        </navLabel>
+        <content src="Text/chapter20.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM: ŞANLI BOZGUN</text>
+      </navLabel>
+      <content src="Text/part3.xhtml"/>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>1. Macar topraklarında</text>
+        </navLabel>
+        <content src="Text/chapter21.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>2. Budapeşte’de</text>
+        </navLabel>
+        <content src="Text/chapter22.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>3. Hatvan üzerinden Galiçya cephesine doğru</text>
+        </navLabel>
+        <content src="Text/chapter23.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>4. İleri marş!</text>
+        </navLabel>
+        <content src="Text/chapter24.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM: ŞANLI BOZGUNUN DEVAMI</text>
+      </navLabel>
+      <content src="Text/part4.xhtml"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>1. Şvayk Rus tutsaklar arasında</text>
+        </navLabel>
+        <content src="Text/chapter25.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>2. Ruhani telkin</text>
+        </navLabel>
+        <content src="Text/chapter26.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>3. Şvayk yeniden hücum bölüğünde</text>
+        </navLabel>
+        <content src="Text/chapter27.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Çevirmenin notu</text>
+      </navLabel>
+      <content src="Text/notice.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:ace5c657-0970-4e94-9946-61d4e900c8c5" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Aklından Bir Sayı Tut</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/Contents.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_000.htm" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_004.htm" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Birinci Kısım</text>
+      </navLabel>
+      <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_005.htm" />
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_006.htm" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_007.htm" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_008.htm" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_009.htm" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_010.htm" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_011.htm" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Yedinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_012.htm" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Sekizinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_013.htm" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Dokuzuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_014.htm" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Onuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_015.htm" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>On Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_016.htm" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>On İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_017.htm" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>On Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_018.htm" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>On Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_019.htm" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>On Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_020.htm" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>On Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_021.htm" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>İkinci Kısım</text>
+      </navLabel>
+      <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_022.htm" />
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>On Yedinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_023.htm" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>On Sekizinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_024.htm" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>On Dokuzuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_025.htm" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Yirminci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_026.htm" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Yirmi Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_027.htm" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Yirmi İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_028.htm" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Yirmi Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_029.htm" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Yirmi Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_030.htm" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Yirmi Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_031.htm" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Yirmi Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_032.htm" />
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Yirmi Yedinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_033.htm" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Yirmi Sekizinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_034.htm" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Yirmi Dokuzuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_035.htm" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Otuzuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_036.htm" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Otuz Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_037.htm" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Üçüncü Kısım</text>
+      </navLabel>
+      <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_038.htm" />
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Otuz İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_039.htm" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Otuz Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_040.htm" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Otuz Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_041.htm" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Otuz Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_042.htm" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Otuz Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_043.htm" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Otuz Yedinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_044.htm" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Otuz Sekizinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_045.htm" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Otuz Dokuzuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_046.htm" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Kırkıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_047.htm" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Kırk Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_048.htm" />
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Kırk İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_049.htm" />
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Kırk Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_050.htm" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Kırk Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_051.htm" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Kırk Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_052.htm" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Kırk Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_053.htm" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Kırk Yedinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_054.htm" />
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Kırk Sekizinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_055.htm" />
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Kırk Dokuzuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_056.htm" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Ellinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_057.htm" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Elli Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_058.htm" />
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Elli İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_059.htm" />
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Elli Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/John%20Verdon%20-%20Aklindan%20Bir%20Sayi%20Tut_split_060.htm" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

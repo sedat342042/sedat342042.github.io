@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Haruki Murakami</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>CBC42EDBEE876FD940E1FCFF6F3C51DD</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/images/Mura_9780307957023_epub_cvi_r1.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>9036701BBA26FB9E8FD16B027865C11E</string>
+		<key>publisher-unique-id</key>
+		<string>978-0-307-95702-3</string>
+		<key>unique-id</key>
+		<integer>8845326311891377843</integer>
+	</dict>
+	<key>itemName</key>
+	<string>1Q84</string>
+	<key>playlistName</key>
+	<string>1Q84</string>
+	<key>releaseDate</key>
+	<string>2011-10-25</string>
+	<key>sort-artist</key>
+	<string>Murakami, Haruki</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

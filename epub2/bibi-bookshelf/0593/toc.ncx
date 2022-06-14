@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="c41c0562-c904-49ac-971d-466cdf81cf1b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.10.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Oz</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{F8F6F5CA-BAF3-41D1-8353-E98FFE3F0C98}" playOrder="1">
+      <navLabel>
+        <text>A</text>
+      </navLabel>
+      <content src="main.xhtml#caption1"/>
+    </navPoint>
+    <navPoint class="chapter" id="{D0137DC1-D042-4DE2-92B2-66944EA48BDB}" playOrder="2">
+      <navLabel>
+        <text>&gt;</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{660B048E-83DB-45D1-AA8E-B87131E3EB01}" playOrder="3">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{14EDDBE0-A4EC-493E-8F76-5D6CF489D0A8}" playOrder="4">
+      <navLabel>
+        <text>... %</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{CCE0832F-E080-4C84-BB72-8301425BF1FA}" playOrder="5">
+      <navLabel>
+        <text>&gt;</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{658E68DF-538F-4E55-9856-AD4C55317B22}" playOrder="6">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{C552D84F-7A0C-40FF-BC46-CE8AC52D5DAD}" playOrder="7">
+      <navLabel>
+        <text>*</text>
+      </navLabel>
+      <content src="main-6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{844077F6-CB8C-42FE-AE11-FC0868AF3015}" playOrder="8">
+      <navLabel>
+        <text>♦</text>
+      </navLabel>
+      <content src="main-7.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

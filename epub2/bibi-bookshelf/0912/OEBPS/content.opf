@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Tolstoy, Lev Nikolayeviç">Lev Nikolayeviç Tolstoy</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:0d182765-09c7-42f0-b93f-6fa7a39e0442</dc:identifier>
+    <dc:date>2005-03-20T22:00:00+00:00</dc:date>
+    <dc:publisher>Arkhe Yayınları</dc:publisher>
+    <dc:date opf:event="creation">2014-03-21</dc:date>
+    <dc:description>&lt;p class="description"&gt;Bir Gencin Dramı Lev N. Tolstoy ARKHE YAYINLARI Yazı yazmak çin okyanus sahillerine giden bir yazar, sabaha karşı danseder gibi hareketler yapan birini görür. Biraz yaklaşınca bir gencin, sahile vuran deniz yıldızlarını birer birer alıp okyanusa fırtallığını farkeder. Genç adama yaklaşır ve sorar. - Neden bu deniz yıldızlarını okyanusa atıyorsun? Genç adan şöyle cevap verir: - Birazdan güneş yükselip sular çekilecek. Onları suya atmazsam ölecekler. Bunun üzerine yazar: - Kilometrelerce sahil, binlerce deniz yıldızı var. Bunların hepsini nasıl kurtaracaksın? Ne farkeder ki der. Genç adam eğilip yerden birdeniz yıldızı daha alır, okyanusa fırlatır. - Onun için farketti ama.&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>Bir Gencin Dramı</dc:title>
+<meta name="calibre:title_sort" content="Gencin Dramı, Bir"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Lev Nikolayeviç Tolstoy&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">98eeed4a-6ecb-46d7-aec5-92ae6923f0ee</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9756509686</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

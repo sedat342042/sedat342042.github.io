@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="TAHİR, KEMAL">Kemal Tahir</dc:creator>
+<dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:date>2005-12-09T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d1a90bdb-c838-4b2a-b65d-eb5ecb512e5f</dc:identifier>
+    <dc:date opf:event="modification">2014-12-20</dc:date>
+    <dc:description>&lt;p&gt;"Esir Şehir Üçlemesi" edebiyatımızın güçlü ve klasikleşmiş ismi Kemal Tahir'in başyapıtlarındandır. Her büyük ve klasik yapıt gibi, bir ya da birden çok problematiği mükemmel bir biçimde işleyen bu nehir roman dizisinin ilk kitabı olan "Esir Şehrin İnsanları"nda Kemal Tahir, Mütareke Dönemi Osmanlı aydınının ve İstanbul'unun destansı direnişinin ve mücadelesinin benzersiz bir fotoğrafını çekmektedir.
+
+Kurtuluş Savaşı öncesinin anlatıldığı pekçok roman yazılmıştır kuşkusuz, ama hiçbiri bu denli edebi ve ölümsüz olamamıştır.
+
+"Türkiye'yi, Türkleri sahiden tanımak isteyen yerli yabancı herkes Kemal Tahir'i okumak,
+anlamak zorundadır."
+&lt;/p&gt;</dc:description>
+    <meta content="Esir Şehrin İnsanları" name="calibre:title_sort"/>
+    <meta content="2014-11-20T00:16:54+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:series" content="Esir Şehir"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kemal Tahir&quot;: &quot;&quot;}"/>
+  <dc:title>Esir Şehrin İnsanları</dc:title>
+<dc:subject>Tarihi Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">4466b4d5-d946-4677-862c-f18e541d5427</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752730762</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/esir01.html" id="esir01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/esir02.html" id="esir02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/esir03.html" id="esir03.html" media-type="application/xhtml+xml"/>
+    <item href="Text/esir04.html" id="esir04.html" media-type="application/xhtml+xml"/>
+    <item href="Text/esir05.html" id="esir05.html" media-type="application/xhtml+xml"/>
+    <item href="Text/esir06.html" id="esir06.html" media-type="application/xhtml+xml"/>
+    <item href="Text/esir07.html" id="esir07.html" media-type="application/xhtml+xml"/>
+    <item href="Text/esir08.html" id="esir08.html" media-type="application/xhtml+xml"/>
+    <item href="Text/esir09.html" id="esir09.html" media-type="application/xhtml+xml"/>
+    <item href="Text/esir10.html" id="esir10.html" media-type="application/xhtml+xml"/>
+    <item href="Text/esir11.html" id="esir11.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="esir01.html"/>
+    <itemref idref="esir02.html"/>
+    <itemref idref="esir03.html"/>
+    <itemref idref="esir04.html"/>
+    <itemref idref="esir05.html"/>
+    <itemref idref="esir06.html"/>
+    <itemref idref="esir07.html"/>
+    <itemref idref="esir08.html"/>
+    <itemref idref="esir09.html"/>
+    <itemref idref="esir10.html"/>
+    <itemref idref="esir11.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

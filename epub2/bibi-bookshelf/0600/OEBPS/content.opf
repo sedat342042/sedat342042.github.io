@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Kristof, Agota">Agota Kristof</dc:creator>
+<dc:identifier id="uuid">{EACA57DA-D17B-4DEF-99B9-D700C133D0E8}</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x355096_2.jpg"/>
+    <dc:date>2011-01-02T22:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Tobias önemsiz bir ülkenin ismi olmayan bir köyünde doğmuştur. Annesiyle yokluk içinde yaşar. Annesi köyde dilenir; un, mısır veya süt karşılığında erkeklerle yatar; tarlalardan, bahçelerden meyve sebze toplar, bazen de çiftliklerden tavuk çalar. Küçük Tobias bir gün annesi bir erkekle yatarken ikisini de bıçaklar ve köyünden, ülkesinden kaçarak başka bir ülkeye sığınır. Yeni bir ülkede yeni bir hayata başlar. Adı artık Sandor Lester'dir. Bir fabrikada işe girer. Yazar olma hayalleri kurar. Ama ilkokuldaki kız arkadaşı Line'i unutamaz, onun bir gün yanına geleceğini umut eder... Ve günün birinde Caroline'le karşılaşır...
+Agota Kristof, "Büyük Defter~Kanıt~Üçüncü Yalan" üçlemesinin ardından bu kez okuru "Dün"de baş döndürücü bir hikâyeye davet ediyor.&lt;/p&gt;</dc:description>
+  <dc:title>Dün</dc:title>
+<meta name="calibre:title_sort" content="Dün"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Logolu</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Macaristan</dc:subject>
+<dc:subject>Avrupa Edebiyatı</dc:subject>
+<dc:subject>Kurgu</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Agota Kristof&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">ee8cdc06-da49-4134-b7cf-1e91cdccc927</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750819957</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id8" media-type="text/css"/>
+    <item href="toc.ncx" id="id9" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-007.xhtml" id="P-007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kitaplari.xhtml" id="kitaplari.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/355096_2.jpg" id="x355096_2.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/yapikredi.png" id="yapikredi.png" media-type="image/png"/>
+    <item href="Text/P-001.xhtml" id="P-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-002.xhtml" id="P-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-003.xhtml" id="P-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-004.xhtml" id="P-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-005.xhtml" id="P-005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-006.xhtml" id="P-006.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id9">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kitaplari.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="P-001.xhtml"/>
+    <itemref idref="P-002.xhtml"/>
+    <itemref idref="P-003.xhtml"/>
+    <itemref idref="P-004.xhtml"/>
+    <itemref idref="P-005.xhtml"/>
+    <itemref idref="P-006.xhtml"/>
+    <itemref idref="P-007.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

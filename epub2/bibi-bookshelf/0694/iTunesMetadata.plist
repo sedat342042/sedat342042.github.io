@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Ergün Candan</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>F92BD643229443423FEEF5B72B9A49BF</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>package-file-hash</key>
+		<string>782A066C67738F5E49EFE6D6F4406D28</string>
+		<key>publisher-unique-id</key>
+		<string>0f0963c5-1943-4c5e-ade7-3ad0cc6b2b44</string>
+		<key>unique-id</key>
+		<integer>6294165827759368628</integer>
+	</dict>
+	<key>composerName</key>
+	<string>0f0963c5-1943-4c5e-ade7-3ad0cc6b2b44</string>
+	<key>itemName</key>
+	<string>Antik Mısır Sırları</string>
+	<key>playlistName</key>
+	<string>Antik Mısır Sırları</string>
+	<key>releaseDate</key>
+	<string>2010-12-30T19:28:17.051280+00:00</string>
+	<key>sort-artist</key>
+	<string>Candan, Ergün</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+	<key>sort-composer</key>
+	<string></string>
+	<key>sort-composer-status</key>
+	<integer>128</integer>
+	<key>sort-name</key>
+	<string>Antik Mısır Sırları</string>
+	<key>sort-name-status</key>
+	<integer>1</integer>
+</dict>
+</plist>

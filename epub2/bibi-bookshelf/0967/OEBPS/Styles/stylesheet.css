@@ -1,0 +1,867 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 10pt;
+  margin-right: 10pt;
+  margin-top: 0;
+  page-break-before: always;
+}
+.calibre1 {
+  display: block;
+  page-break-after: always;
+}
+.calibre10 {
+  display: table-row-group;
+  vertical-align: middle;
+}
+.calibre11 {
+  display: table-row;
+  vertical-align: inherit;
+}
+.calibre12 {
+  height: 45;
+  width: 304;
+}
+.calibre13 {
+  height: 264;
+  width: 393;
+}
+.calibre2 {
+  height: 100;
+  width: 66;
+}
+.calibre3 {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.calibre4 {
+  font-size: smaller;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre5 {
+  background-color: #eee;
+  border: 1px solid #fff;
+  display: table-cell;
+  font-family: Arial, sans-serif;
+  font-size: 0.8em;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0.2em;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+  padding-top: 0.2em;
+  text-align: left;
+  vertical-align: inherit;
+}
+.calibre6 {
+  display: table-row;
+  vertical-align: middle;
+}
+.calibre7 {
+  height: 120;
+  width: 400;
+}
+.calibre8 {
+  height: 450;
+  width: 287;
+}
+.calibre9 {
+  height: 242;
+  width: 400;
+}
+.chapter {
+  display: block;
+}
+.generictable {
+  border: 0;
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+  width: 100%;
+}
+.h1baslik {
+  display: block;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.67em;
+  page-break-before: always;
+  text-align: center;
+}
+.h1baslik1 {
+  display: block;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.h1baslik2 {
+  font-size: 1.3em;
+  font-weight: bold;
+  text-align: center;
+}
+.h2baslik {
+  display: block;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.h2baslik1 {
+  display: block;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.83em;
+  page-break-before: always;
+  text-align: center;
+}
+.idebold {
+  font-weight: bold;
+}
+.idebold1 {
+  display: table-row;
+  font-weight: bold;
+  vertical-align: middle;
+}
+.ideitalik {
+  font-style: italic;
+}
+.ideitalik1 {
+  display: block;
+  font-style: italic;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.image {
+  height: 7;
+  width: 12;
+}
+.image1 {
+  height: 243;
+  width: 350;
+}
+.image10 {
+  height: 450;
+  width: 314;
+}
+.image11 {
+  height: 14;
+  width: 43;
+}
+.image12 {
+  height: 450;
+  width: 367;
+}
+.image13 {
+  height: 161;
+  width: 400;
+}
+.image14 {
+  height: 131;
+  width: 400;
+}
+.image15 {
+  height: 450;
+  width: 371;
+}
+.image16 {
+  height: 476;
+  width: 335;
+}
+.image17 {
+  height: 500;
+  width: 337;
+}
+.image18 {
+  height: 400;
+  width: 278;
+}
+.image19 {
+  height: 400;
+  width: 252;
+}
+.image2 {
+  height: 350;
+  width: 263;
+}
+.image20 {
+  height: 350;
+  width: 223;
+}
+.image21 {
+  height: 216;
+  width: 400;
+}
+.image22 {
+  height: 484;
+  width: 341;
+}
+.image23 {
+  height: 402;
+  width: 314;
+}
+.image24 {
+  height: 301;
+  width: 400;
+}
+.image25 {
+  height: 318;
+  width: 420;
+}
+.image26 {
+  height: 275;
+  width: 400;
+}
+.image27 {
+  height: 260;
+  width: 355;
+}
+.image28 {
+  height: 76;
+  width: 400;
+}
+.image29 {
+  height: 288;
+  width: 400;
+}
+.image3 {
+  height: 216;
+  width: 300;
+}
+.image30 {
+  height: 224;
+  width: 398;
+}
+.image31 {
+  height: 450;
+  width: 377;
+}
+.image32 {
+  height: 422;
+  width: 330;
+}
+.image33 {
+  height: 458;
+  width: 279;
+}
+.image34 {
+  height: 448;
+  width: 280;
+}
+.image35 {
+  height: 450;
+  width: 322;
+}
+.image36 {
+  height: 260;
+  width: 250;
+}
+.image37 {
+  height: 437;
+  width: 250;
+}
+.image38 {
+  height: 350;
+  width: 380;
+}
+.image39 {
+  height: 400;
+  width: 300;
+}
+.image4 {
+  height: 37;
+  width: 94;
+}
+.image40 {
+  height: 378;
+  width: 410;
+}
+.image41 {
+  height: 265;
+  width: 400;
+}
+.image42 {
+  height: 29;
+  width: 223;
+}
+.image43 {
+  height: 99;
+  width: 350;
+}
+.image44 {
+  height: 43;
+  width: 272;
+}
+.image45 {
+  height: 225;
+  width: 300;
+}
+.image46 {
+  height: 400;
+  width: 287;
+}
+.image47 {
+  height: 400;
+  width: 256;
+}
+.image48 {
+  height: 310;
+  width: 300;
+}
+.image49 {
+  height: 300;
+  width: 188;
+}
+.image5 {
+  height: 139;
+  width: 350;
+}
+.image50 {
+  height: 300;
+  width: 205;
+}
+.image51 {
+  height: 311;
+  width: 200;
+}
+.image52 {
+  height: 230;
+  width: 370;
+}
+.image53 {
+  height: 257;
+  width: 350;
+}
+.image6 {
+  height: 201;
+  width: 350;
+}
+.image7 {
+  height: 470;
+  width: 366;
+}
+.image8 {
+  height: 400;
+  width: 378;
+}
+.image9 {
+  height: 260;
+  width: 425;
+}
+.indentmetin {
+  display: block;
+  font-size: 1em;
+  margin-bottom: 0.25em;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.indentmetinbold {
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 0.25em;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.indentmetinitalik {
+  display: block;
+  font-size: 1em;
+  font-style: italic;
+  margin-bottom: 0.25em;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.kapakmetin {
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: center;
+}
+.kapakmetin1 {
+  font-size: 0.75em;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: center;
+}
+.kapakmetin2 {
+  font-size: 0.75em;
+  height: 366;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: center;
+  width: 400;
+}
+.kapakmetin3 {
+  font-size: 0.75em;
+  height: 368;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: center;
+  width: 250;
+}
+.kitapickapak {
+  display: block;
+  font-size: 1.5em;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: center;
+}
+.kitapickapak1 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: center;
+}
+.kunye {
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 0;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: left;
+}
+.kunye1 {
+  font-size: 0.75em;
+  margin-bottom: 0;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: left;
+}
+.media {
+  height: 93;
+  width: 400;
+}
+.media1 {
+  height: 151;
+  width: 400;
+}
+.media10 {
+  height: 156;
+  width: 300;
+}
+.media11 {
+  height: 203;
+  width: 400;
+}
+.media12 {
+  height: 197;
+  width: 400;
+}
+.media13 {
+  height: 166;
+  width: 300;
+}
+.media14 {
+  height: 119;
+  width: 300;
+}
+.media15 {
+  height: 142;
+  width: 300;
+}
+.media16 {
+  height: 201;
+  width: 400;
+}
+.media17 {
+  height: 163;
+  width: 420;
+}
+.media18 {
+  height: 274;
+  width: 400;
+}
+.media19 {
+  height: 185;
+  width: 350;
+}
+.media2 {
+  height: 74;
+  width: 400;
+}
+.media20 {
+  height: 150;
+  width: 400;
+}
+.media21 {
+  height: 118;
+  width: 420;
+}
+.media22 {
+  height: 124;
+  width: 400;
+}
+.media23 {
+  height: 116;
+  width: 400;
+}
+.media24 {
+  height: 311;
+  width: 325;
+}
+.media25 {
+  height: 348;
+  width: 386;
+}
+.media26 {
+  height: 210;
+  width: 393;
+}
+.media27 {
+  height: 198;
+  width: 400;
+}
+.media28 {
+  height: 269;
+  width: 400;
+}
+.media29 {
+  height: 235;
+  width: 400;
+}
+.media3 {
+  height: 144;
+  width: 400;
+}
+.media30 {
+  height: 300;
+  width: 400;
+}
+.media31 {
+  height: 256;
+  width: 400;
+}
+.media32 {
+  height: 270;
+  width: 400;
+}
+.media33 {
+  height: 134;
+  width: 400;
+}
+.media34 {
+  height: 470;
+  width: 337;
+}
+.media35 {
+  height: 222;
+  width: 370;
+}
+.media36 {
+  height: 324;
+  width: 200;
+}
+.media37 {
+  height: 319;
+  width: 200;
+}
+.media38 {
+  height: 275;
+  width: 380;
+}
+.media39 {
+  height: 200;
+  width: 267;
+}
+.media4 {
+  height: 241;
+  width: 400;
+}
+.media40 {
+  height: 226;
+  width: 400;
+}
+.media41 {
+  height: 233;
+  width: 400;
+}
+.media42 {
+  height: 281;
+  width: 400;
+}
+.media43 {
+  height: 300;
+  width: 216;
+}
+.media44 {
+  height: 300;
+  width: 198;
+}
+.media45 {
+  height: 266;
+  width: 400;
+}
+.media46 {
+  height: 257;
+  width: 400;
+}
+.media47 {
+  height: 245;
+  width: 400;
+}
+.media48 {
+  height: 235;
+  width: 160;
+}
+.media49 {
+  height: 315;
+  width: 438;
+}
+.media5 {
+  height: 142;
+  width: 400;
+}
+.media50 {
+  height: 279;
+  width: 400;
+}
+.media51 {
+  height: 255;
+  width: 400;
+}
+.media52 {
+  height: 268;
+  width: 400;
+}
+.media53 {
+  height: 252;
+  width: 400;
+}
+.media54 {
+  height: 260;
+  width: 400;
+}
+.media55 {
+  height: 144;
+  width: 210;
+}
+.media56 {
+  height: 142;
+  width: 210;
+}
+.media57 {
+  height: 273;
+  width: 400;
+}
+.media58 {
+  height: 298;
+  width: 400;
+}
+.media59 {
+  height: 324;
+  width: 400;
+}
+.media6 {
+  height: 156;
+  width: 400;
+}
+.media60 {
+  height: 400;
+  width: 294;
+}
+.media61 {
+  height: 267;
+  width: 400;
+}
+.media7 {
+  height: 285;
+  width: 400;
+}
+.media8 {
+  height: 180;
+  width: 400;
+}
+.media9 {
+  height: 191;
+  width: 340;
+}
+.normal {
+  display: block;
+  font-size: 1em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.normal1 {
+  display: block;
+  font-size: 1em;
+  font-style: italic;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.normal2 {
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.normal3 {
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.normal4 {
+  display: block;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.normal5 {
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.ortaitalik {
+  display: block;
+  font-style: italic;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.ortayazi {
+  display: block;
+  font-style: normal;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.resimalti {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  margin-bottom: 5px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 5px;
+  text-align: center;
+}
+.sagbold {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: right;
+}
+.sagitalik {
+  display: block;
+  font-style: italic;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: right;
+}
+.sagnormal {
+  display: block;
+  font-style: normal;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: right;
+}
+.solbaslik {
+  display: block;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+  cursor: default;
+}
+a[href] {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}

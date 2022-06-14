@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>OMERZEN</dc:publisher>
+    <meta name="calibre:title_sort" content="İmamın Ordusu"/>
+    <dc:language>tr</dc:language>
+    <dc:creator opf:file-as="Şık, Ahmet" opf:role="aut">Ahmet Şık</dc:creator>
+    <meta name="calibre:timestamp" content="2014-02-07T22:24:38.148000+00:00"/>
+    <dc:title>İmamın Ordusu</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2014-02-07T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.23.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">53f5a903-141d-4f19-bc32-e78dbd56f821</dc:identifier>
+    <dc:identifier opf:scheme="calibre">53f5a903-141d-4f19-bc32-e78dbd56f821</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OPS/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003_split_000.html" id="section-0003_html8" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003_split_001.html" id="section-0003_html7" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003_split_002.html" id="section-0003_html6" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003_split_003.html" id="section-0003_html5" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003_split_004.html" id="section-0003_html4" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003_split_005.html" id="section-0003_html3" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003_split_006.html" id="section-0003_html2" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003_split_007.html" id="section-0003_html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html8"/>
+    <itemref idref="section-0003_html7"/>
+    <itemref idref="section-0003_html6"/>
+    <itemref idref="section-0003_html5"/>
+    <itemref idref="section-0003_html4"/>
+    <itemref idref="section-0003_html3"/>
+    <itemref idref="section-0003_html2"/>
+    <itemref idref="section-0003_html1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

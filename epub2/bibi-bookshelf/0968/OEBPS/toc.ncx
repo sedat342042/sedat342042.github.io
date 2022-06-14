@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750721540" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Anne Kafamda Bit Var</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>BİRİNCİ BÖLÜM Bir dakika, beni nereye götürüyorsunuz?</text>
+         </navLabel>
+         <content src="Text/part1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>İKİNCİ BÖLÜM Burası Birinci Şube</text>
+         </navLabel>
+         <content src="Text/part2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>ÜÇÜNCÜ BÖLÜM Burası Selimiye</text>
+         </navLabel>
+         <content src="Text/part3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>DÖRDÜNCÜ BÖLÜM Bir “Yol” hikâyesi</text>
+         </navLabel>
+         <content src="Text/part4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>BEŞİNCİ BÖLÜM Nerede kalmıştık, burası Selimiye</text>
+         </navLabel>
+         <content src="Text/part5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>ALTINCI BÖLÜM Yeniden dışarıdayım</text>
+         </navLabel>
+         <content src="Text/part6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>YEDİNCİ BÖLÜM Bir şeyler yapmak zamanı</text>
+         </navLabel>
+         <content src="Text/part7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>SEKİZİNCİ BÖLÜM Mahkemede</text>
+         </navLabel>
+         <content src="Text/part8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>ALBÜM</text>
+         </navLabel>
+         <content src="Text/part9.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

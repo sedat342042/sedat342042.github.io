@@ -1,0 +1,100 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Calvino, Italo">Italo Calvino</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:8ec15a35-6e8c-4f8e-95aa-fc715c8c8078</dc:identifier>
+    <dc:contributor opf:role="trl">Eren Yücesan Cendey</dc:contributor>
+    <dc:date>2008-08-31T21:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>"Italo Calvino'nun Bir Kış Gecesi Eğer Bir Yolcu adlı yeni romanını okumaya başlamak üzeresin. Rahatla. Toparlan. Zihnindeki bütün düşünceleri kov gitsin. Seni çevreleyen dünya bırak belirsizlik içinde yok oluversin" cümlesiyle başlayan, Calvino'nun yazarlık dehasını konuşturduğu, Calvino'nun Calvino'yu okuduğu, okurluk ve yazarlık üzerine bir başyapıt olan Bir Kış Gecesi Eğer Bir Yolcu, ilk kez özgün dilinden yapılan çevirisiyle Türkçede...</dc:description>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:date opf:event="modification">2015-04-21</dc:date>
+    <meta content="0.8.4" name="Sigil version"/>
+    <meta name="cover" content="italo-calvino-bir-kis.jpg"/>
+  <meta name="calibre:title_sort" content="Kış Gece Eğer Bir Yolcu, Bir"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Italo Calvino&quot;: &quot;&quot;}"/>
+<dc:title>Bir Kış Gece Eğer Bir Yolcu</dc:title>
+<dc:subject>Roman</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">9ab5c428-b77e-4685-91a4-885752afcfc9</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750813818</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:8ec15a35-6e8c-4f8e-95aa-fc715c8c8078</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;comments&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/yazar.html" id="yazar.html" media-type="application/xhtml+xml"/>
+    <item href="Text/other.html" id="other.html" media-type="application/xhtml+xml"/>
+    <item href="Text/title.html" id="title.html" media-type="application/xhtml+xml"/>
+    <item href="Text/publ.html" id="publ.html" media-type="application/xhtml+xml"/>
+    <item href="Text/sunu.html" id="sunu.html" media-type="application/xhtml+xml"/>
+    <item href="Text/001.html" id="x001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="x002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="x003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="x004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="x005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="x006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="x007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="x008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="x009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="x010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="x011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="x012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="x013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="x014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="x015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="x016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="x017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="x018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/019.html" id="x019.html" media-type="application/xhtml+xml"/>
+    <item href="Text/020.html" id="x020.html" media-type="application/xhtml+xml"/>
+    <item href="Text/021.html" id="x021.html" media-type="application/xhtml+xml"/>
+    <item href="Text/022.html" id="x022.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/eldv0.1.css" id="eldv0.1.css" media-type="text/css"/>
+    <item href="Images/italo-calvino-bir-kis.jpg" id="italo-calvino-bir-kis.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+    <item href="Text/sunu_0001.html" id="sunu_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/blank.xhtml" id="blank.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/023_0001.html" id="x023_0001.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.html"/>
+    <itemref idref="other.html"/>
+    <itemref idref="title.html"/>
+    <itemref idref="publ.html"/>
+    <itemref idref="sunu.html"/>
+    <itemref idref="sunu_0001.html"/>
+    <itemref idref="blank.xhtml"/>
+    <itemref idref="x001.html"/>
+    <itemref idref="x002.html"/>
+    <itemref idref="x003.html"/>
+    <itemref idref="x004.html"/>
+    <itemref idref="x005.html"/>
+    <itemref idref="x006.html"/>
+    <itemref idref="x007.html"/>
+    <itemref idref="x008.html"/>
+    <itemref idref="x009.html"/>
+    <itemref idref="x010.html"/>
+    <itemref idref="x011.html"/>
+    <itemref idref="x012.html"/>
+    <itemref idref="x013.html"/>
+    <itemref idref="x014.html"/>
+    <itemref idref="x015.html"/>
+    <itemref idref="x016.html"/>
+    <itemref idref="x017.html"/>
+    <itemref idref="x018.html"/>
+    <itemref idref="x019.html"/>
+    <itemref idref="x020.html"/>
+    <itemref idref="x021.html"/>
+    <itemref idref="x022.html"/>
+    <itemref idref="x023_0001.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

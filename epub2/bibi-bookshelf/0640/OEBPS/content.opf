@@ -1,0 +1,98 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Camus, Albert">Albert Camus</dc:creator>
+<dc:identifier id="pub-id">urn:isbn:9789750720178</dc:identifier>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf">2009-05-28T21:00:00+00:00</dc:date>
+  <dc:title>Başkaldıran İnsan</dc:title>
+<meta name="calibre:title_sort" content="Başkaldıran İnsan"/>
+<dc:publisher>Can Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Deneme</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:description>&lt;p&gt;"Başkaldıran İnsan", başkaldırının kendisidir, ama ılımlı ve insanın boyutlarında. "Başkaldıran İnsan", adalete ve özellikle doğruluğa vurgundur, mutlak olan'ın iğvasından, mitoslardan, gurur, horlanma ve kanın romantik başdönmelerinden uzak durur. Ama insan, ne ise, o olmaya yanaşmayan tek yaratıktır. Bu yadsıma onu intihara mı, yoksa bir başkasını öldürmeye mi götürür? "Hayır!" demeyi bilen insandır "Başkaldıran İnsan", ama kime, neye, nerede, nasıl? Başkaldıran insanı kuşatan 'hayır'ın içeriği nedir? Bunun yanıtı "Başkaldıran İnsan"da...&lt;/p&gt;</dc:description>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Albert Camus&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">54a336db-b111-44dd-a95a-e12f80cc52ac</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789750720178</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1-title.xhtml" id="chapter1-titlexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2-title.xhtml" id="chapter2-titlexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3-title.xhtml" id="chapter3-titlexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4-title.xhtml" id="chapter4-titlexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5-title.xhtml" id="chapter5-titlexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2-1.xhtml" id="chapter2-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2-2.xhtml" id="chapter2-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2-3.xhtml" id="chapter2-3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2-4.xhtml" id="chapter2-4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2-5.xhtml" id="chapter2-5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2-6.xhtml" id="chapter2-6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3-1.xhtml" id="chapter3-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3-2.xhtml" id="chapter3-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3-3.xhtml" id="chapter3-3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3-4.xhtml" id="chapter3-4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3-5.xhtml" id="chapter3-5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3-6.xhtml" id="chapter3-6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3-7.xhtml" id="chapter3-7xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5-1.xhtml" id="chapter5-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5-2.xhtml" id="chapter5-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5-3.xhtml" id="chapter5-3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraph.xhtml" id="epigraphxhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Text/preface.xhtml" id="prefacexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="epigraphxhtml"/>
+    <itemref idref="prefacexhtml"/>
+    <itemref idref="chapter1-titlexhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2-titlexhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter2-1xhtml"/>
+    <itemref idref="chapter2-2xhtml"/>
+    <itemref idref="chapter2-3xhtml"/>
+    <itemref idref="chapter2-4xhtml"/>
+    <itemref idref="chapter2-5xhtml"/>
+    <itemref idref="chapter2-6xhtml"/>
+    <itemref idref="chapter3-titlexhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter3-1xhtml"/>
+    <itemref idref="chapter3-2xhtml"/>
+    <itemref idref="chapter3-3xhtml"/>
+    <itemref idref="chapter3-4xhtml"/>
+    <itemref idref="chapter3-5xhtml"/>
+    <itemref idref="chapter3-6xhtml"/>
+    <itemref idref="chapter3-7xhtml"/>
+    <itemref idref="chapter4-titlexhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5-titlexhtml"/>
+    <itemref idref="chapter5-1xhtml"/>
+    <itemref idref="chapter5-2xhtml"/>
+    <itemref idref="chapter5-3xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

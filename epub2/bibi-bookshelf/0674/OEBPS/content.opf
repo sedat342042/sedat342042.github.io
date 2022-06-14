@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Amok Koşucusu</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+    <dc:date>2010-01-26T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750721182</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor id="translator">İlknur Özdemir</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-05-31</dc:date>
+    <dc:description>&lt;blockquote&gt;İntihar, Stefan Zweig'ın zihnini gençlik yıllarından beri meşgul eden bir kavramdı. Yaşamanın bir anlamı kalmadığını anladığı anda yaşamına kendi eliyle son verebileceğini daha üniversite yıllarında söylemişti. İlk evliliği sırasında karısı Friederike'yi kendisiyle birlikte intihar etmesi için zorlayan, sonra bu düşüncesinden vazgeçen Stefan Zweig, yıllar sonra, İkinci Dünya Savaşı sırasında, ikinci karısıyla birlikte yaşamına son verdi. Yazar, önceki intihar girişimlerinden vazgeçmiş olsa da korkularını, romanlarındaki ve öykülerindeki kahramanlara yaşatıyor. Amok Koşucusu'nda yer alan öykülerin ortak izleği de intihar. Kendi yaşamından ya ada tarihteki gerçek kişilerin yaşamlarından kesitler katarak yazdığı bu öykülerde Stefan Zweig'ın duyarlı kişiliğini, olağanüstü gözlem gücünü olduğu gibi sayfalara yansıttığını görüyoruz. Yazdığı öykülerin en başarılı örneklerinin yer aldığı bu kitapta, bir uzun öykü olan Amok Koşucusu bir baş yapıt. İnsanı en güçsüz, en savunmasız yönleriyle ele alıp, insan ruhunun en derin katmanlarına inmeyi bilen, bütün bunları son derece canlı, ayrıntılı, çok yönlü bir anlatımla kaleme alabilen, okuru gerçekten etkileyebilen bir yazar Stefan Zweig. Yazdıklarının üzerinden bunca yıl geçmiş olmasına karşın, öykülerinin, romanlarının bugünkü kuşaklar tarafından da aynı ilgiyle okunması, onun kalıcı bir yazar olduğunun en büyük kanıtı. Amok Koşucusu'nun bu yeni çevirisinde, daha önceki basımda yer almayan öyküler de bulunuyor.&lt;/blockquote&gt;</dc:description>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">88cae3ad-5c44-4ecc-803b-6c385f81bfdf</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789750721182</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750721182</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Amok Koşucusu"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Stefan Zweig&quot;: &quot;&quot;}"/>
+    <meta name="calibre:timestamp" content="2017-02-17T00:54:47+00:00"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/x-font-ttf"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/titlepage-1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="../jacket.xhtml" id="jacket" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="jacket"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+  </spine>
+<guide>
+    <reference href="Text/titlepage-1.xhtml" title="Kapak" type="cover"/>
+</guide>
+</package>

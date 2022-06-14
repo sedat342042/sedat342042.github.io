@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750717109" name="dtb:uid"/>
+      <meta content="4" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Komünist Manifesto</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Karl Marx: Kısa Yaşamöyküsü</text>
+         </navLabel>
+         <content src="Text/biography-author1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="1">
+         <navLabel>
+            <text>Friedrich Engels: Kısa Yaşamöyküsü</text>
+         </navLabel>
+         <content src="Text/biography-author1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="2">
+         <navLabel>
+            <text>Sunu</text>
+         </navLabel>
+         <content src="Text/introduction.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="3">
+         <navLabel>
+            <text>Çeviriyle İlgili Açıklamalar</text>
+         </navLabel>
+         <content src="Text/notice.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="4">
+         <navLabel>
+            <text>Komünist Manifesto</text>
+         </navLabel>
+         <content src="Text/part1.xhtml"/>
+         <navPoint id="navPoint-6" playOrder="5">
+            <navLabel>
+               <text>1. Burjuvalar ve Proleterler</text>
+            </navLabel>
+            <content src="Text/chapter1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="6">
+            <navLabel>
+               <text>2. Proleterler ve Komünistler</text>
+            </navLabel>
+            <content src="Text/chapter2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-8" playOrder="7">
+            <navLabel>
+               <text>3. Sosyalist ve Komünist Literatür</text>
+            </navLabel>
+            <content src="Text/chapter3.xhtml"/>
+            <navPoint id="navPoint-9" playOrder="8">
+               <navLabel>
+                  <text>I. Gerici Sosyalizm</text>
+               </navLabel>
+               <content src="Text/chapter3.xhtml#sub-subchapter1"/>
+               <navPoint id="navPoint-10" playOrder="8">
+                  <navLabel>
+                     <text>a. Feodal Sosyalizm</text>
+                  </navLabel>
+                  <content src="Text/chapter3.xhtml#sub-subchapter1"/>
+               </navPoint>
+               <navPoint id="navPoint-11" playOrder="9">
+                  <navLabel>
+                     <text>b. Küçük Burjuva Sosyalizmi 79</text>
+                  </navLabel>
+                  <content src="Text/chapter3.xhtml#sub-subchapter2"/>
+               </navPoint>
+               <navPoint id="navPoint-12" playOrder="10">
+                  <navLabel>
+                     <text>c. Alman Sosyalizmi ya da “Gerçek” Sosyalizm</text>
+                  </navLabel>
+                  <content src="Text/chapter3.xhtml#sub-subchapter3"/>
+               </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-13" playOrder="11">
+               <navLabel>
+                  <text>II. Tutucu Sosyalizm ya da Burjuva Sosyalizmi</text>
+               </navLabel>
+               <content src="Text/chapter3.xhtml#subchapter2"/>
+            </navPoint>
+            <navPoint id="navPoint-14" playOrder="12">
+               <navLabel>
+                  <text>III. Eleştirel-Ütopyacı Sosyalizm ve Komünizm</text>
+               </navLabel>
+               <content src="Text/chapter3.xhtml#subchapter3"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="navPoint-15" playOrder="13">
+            <navLabel>
+               <text>4. Komünistlerin Günümüzdeki Çeşitli Muhalefet Partileri Karşısındaki Tutumu</text>
+            </navLabel>
+            <content src="Text/chapter4.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="14">
+         <navLabel>
+            <text>Karl Marx ve Friedrich Engels’in Komünist Manifesto’nun Çeşitli Basımları İçin Yazdıkları Önsözler</text>
+         </navLabel>
+         <content src="Text/part2.xhtml"/>
+         <navPoint id="navPoint-17" playOrder="15">
+            <navLabel>
+               <text>1872 Almanca Basımına Önsöz</text>
+            </navLabel>
+            <content src="Text/preface1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-18" playOrder="16">
+            <navLabel>
+               <text>1882 Rusça Basımına Önsöz</text>
+            </navLabel>
+            <content src="Text/preface2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-19" playOrder="17">
+            <navLabel>
+               <text>1883 Almanca Basımına Önsöz</text>
+            </navLabel>
+            <content src="Text/preface3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-20" playOrder="18">
+            <navLabel>
+               <text>1888 İngilizce Basımına Önsöz</text>
+            </navLabel>
+            <content src="Text/preface4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-21" playOrder="19">
+            <navLabel>
+               <text>1890 Almanca Basımına Önsöz</text>
+            </navLabel>
+            <content src="Text/preface5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-22" playOrder="20">
+            <navLabel>
+               <text>1892 Lehçe Basımına Önsöz</text>
+            </navLabel>
+            <content src="Text/preface6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-23" playOrder="21">
+            <navLabel>
+               <text>1893 İtalyanca Basımına Önsöz</text>
+            </navLabel>
+            <content src="Text/preface7.xhtml"/>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

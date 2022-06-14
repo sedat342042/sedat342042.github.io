@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Armstrong, Karen">Karen Armstrong</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7efc94fd-42d3-4dd1-be37-a3a2c5739f13</dc:identifier>
+    <dc:date>2006-08-09T21:00:00+00:00</dc:date>
+    <dc:publisher>Merkez Kitap</dc:publisher>
+    <dc:description>&lt;p&gt;Mitlerin tarihi insanlığın tarihidir. Mitler hayatımıza anlam ve biçim veren zamansız ve evrensel öyküleridir. 
+
+Karen Armstrong, tarih öncesi avcı toplumlarından başlayarak mitin doğuşunu, varoluş nedenlerini ve geçirdiği evreleri anlatıyor. Son beş yüz yıldaki gelişmelerle giderek hayatın her alanına yayılan teknoloji ve bilimsel bakış açısının mitolojiye ve insanlığa verdiği zararları irdeliyor. Thomas Mann, James Joyce, Picasso, Conrad gibi sanatçıların yapıtlarında, yaşantımızda etkisini bütünüyle yitirmiş hikâye ve etkinliklerin imgelemimizde ve bilinçaltındaki varlıklarına dikkat çekiyor. 21. yüzyılın tek bir kültür ve gerçeğin dayatıldığı küresel bir köy haline gelen, yok olmanın eşiğindeki dünyasında, okuru, insanlığın eski öykülerine kulak vermeye ve yaşamlarımızı anlamlı kılmak adına yeni mitler yaratmaya çağırıyor,&lt;/p&gt;</dc:description>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta name="cover" content="kit.jpg"/>
+    <meta content="Mitlerin Kısa Tarihi" name="calibre:title_sort"/>
+    <meta content="{&quot;Karen Armstrong&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:rating" content="10.0"/>
+  <dc:title>Mitlerin Kısa Tarihi</dc:title>
+<dc:subject>Mitoloji</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8a2b9977-0b43-4b9d-9ffc-2f7041234dfc</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789759174637</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004_split1.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section00014.xhtml" id="Section00014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/stylesheet_1.css" id="stylesheet_1.css" media-type="text/css"/>
+    <item href="Images/kit.jpg" id="kit.jpg" media-type="image/jpeg"/>
+    <item href="Images/MERKEZ_KITAPLAR.jpg" id="MERKEZ_KİTAPLAR.jpg" media-type="image/jpeg"/>
+    <item href="../fonts/Times-New-Roman.ttf" id="font" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Times-New-Roman-Bold.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="../fonts.css" id="font_embed" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="id"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section00014.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

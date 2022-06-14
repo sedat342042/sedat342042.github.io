@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="8abc622d-741f-4a37-8138-581dfdd8c1f8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.41.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Emma</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Birinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İkinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/chapter9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Onuncu bölüm</text>
+      </navLabel>
+      <content src="Text/chapter10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>On birinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>On ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>On üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>On dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>On beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>On altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/chapter16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>On yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>On sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>On dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/chapter19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Yirminci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Yirmi birinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Yirmi ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Yirmi üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Yirmi dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Yirmi beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter25.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Yirmi altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/chapter26.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Yirmi yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter27.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Yirmi sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter28.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Yirmi dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/chapter29.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Otuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/chapter30.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Otuz birinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter31.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Otuz ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter32.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Otuz üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter33.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Otuz dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter34.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Otuz beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter35.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Otuz altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/chapter36.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Otuz yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter37.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Otuz sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter38.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Otuz dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/chapter39.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Kırkıncı bölüm</text>
+      </navLabel>
+      <content src="Text/chapter40.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Kırk birinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter41.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Kırk ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter42.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Kırk üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter43.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Kırk dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter44.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Kırk beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter45.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Kırk altıncı bölüm</text>
+      </navLabel>
+      <content src="Text/chapter46.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Kırk yedinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter47.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Kırk sekizinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter48.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Kırk dokuzuncu bölüm</text>
+      </navLabel>
+      <content src="Text/chapter49.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Ellinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter50.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Elli birinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter51.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Elli ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter52.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Elli üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter53.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Elli dördüncü bölüm</text>
+      </navLabel>
+      <content src="Text/chapter54.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Elli beşinci bölüm</text>
+      </navLabel>
+      <content src="Text/chapter55.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,216 @@
+a {
+  text-decoration: none;
+  -webkit-text-fill-color: #7A7A7A;
+  color: #7A7A7A;
+}
+/*----H----*/
+h1 {
+  font: normal normal 1.25em/1.2em "Interstate";
+  margin-bottom: 2em;
+  margin-top: 6em;
+  text-align: center;
+}
+.reference {
+  margin-left: 1em;
+}
+.reference p {
+  font-family: "Berkeley";
+  font-size: 0.751em;
+  text-indent: -1em;
+  text-align: justify;
+  margin-top: 0.3em;
+}
+/*----Künye----*/
+div.copyright {
+  font: normal normal 0.751em "Berkeley";
+  margin-top: 4em;
+  margin-left: 2em;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  margin-top: 1em;
+  text-indent: 0;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: center;
+}
+.author {
+  font: normal bold 1.13em "Berkeley";
+  margin: 2em auto 0.2em auto;
+}
+.work {
+  font: normal bold 2.5em "Berkeley";
+  margin: 0;
+}
+.originaltitle {
+  font-family: "Berkeley";
+  font-size: 1em;
+  margin-top: 1em;
+}
+.trans {
+  font: normal normal 0.85em "Berkeley";
+  margin-top: 2em;
+}
+.logo {
+  margin: 7em auto 0 auto;
+}
+/*Önsöz*/
+/*----P----*/
+p {
+  font-family: "Berkeley";
+  font-size: 0.93em;
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.nonindent {
+  text-indent: 0;
+}
+.extract {
+  margin-top: 1em;
+  text-indent: 0em;
+}
+.right {
+  text-align: right;
+  margin-top: 1em;
+}
+hr {
+  margin: 1em auto;
+  border: none;
+  text-align: center;
+}
+hr:after {
+  content: "* * *";
+  font-size: 0.8em;
+}
+/*----Block----*/
+.clear {
+  clear: both;
+}
+.epigraf {
+  max-width: 20em;
+  float: right;
+  text-align: justify;
+  margin-bottom: 1em;
+}
+.epigraf span {
+  display: block;
+  font: normal normal 0.83em/1.3em "Berkeley";
+}
+.epigraf cite {
+  display: block;
+  text-align: right;
+  font: normal normal 0.83em/1.3em "Berkeley";
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+blockquote > p:first-child {
+  text-indent: 0;
+}
+blockquote p {
+  text-indent: 1.5em;
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  text-align: justify;
+}
+blockquote span {
+font: normal normal 0.85em "GillSansMTPro-Book";
+display:block;
+  margin-left: 2em;
+  text-indent: 0;
+  font-size: 0.85em;
+}
+.poem {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3em;
+  text-align: justify;
+}
+.poem p {
+  text-indent: -2em;
+  font: normal normal 0.85em "Berkeley";
+}
+.poem .poemindent {
+  text-indent: -1.5em;
+}
+table {
+  margin: 1em auto;
+  border-collapse: collapse;
+  font-family: "GillSansMTPro-Book";
+  font-size: 0.85em;
+}
+td {
+  vertical-align: top;
+  padding: 4px 8px;
+}
+/******FOOTNOTE******/
+.footnotes {
+  margin-top: 4em;
+  margin-bottom: 0;
+}
+.footnotes p {
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-bottom: 0.25em;
+  text-align: justify;
+  text-indent: 0;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/-webkit-text-fill-color: #000;
+  color: #000;
+  font-size: 1.1em;
+}
+.noteref {
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/font-size: 0.8em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+/*****FONT*****/
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/BerkeleyBoldE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyItaE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyMediumE.ttf);
+  }
+@font-face {
+  font-family: "Interstate";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/Interstate-RegularCondensed.ttf);
+  }
+@font-face {
+  font-family: "GillSansMTPro-Book";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/GillSansMTPro-Book.ttf);
+  }

@@ -1,0 +1,92 @@
+hr {
+  display: none;
+}
+/*IMAGES*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+/*----H----*/
+.part {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+h1, h2 {
+  text-align: center;
+}
+h2 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+/*YAZAR*/
+.aut {
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.aut p {
+  text-indent: 0;
+  text-align: justify;
+}
+/*----Künye----*/
+.copyright > p:last-child {
+  margin-bottom: 0;
+}
+.copyright p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-indent: 0;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: right;
+}
+.seri {
+  margin: 1em auto 0.2em auto;
+}
+.author {
+  margin: 0.5em auto 0.2em auto;
+}
+.title {
+  margin: 0;
+}
+.trans {
+  margin-top: 1.5em;
+}
+.trans span {
+  display: block;
+}
+.logo {
+  margin: 6em auto 0 auto;
+}
+/*Önsöz*/
+/*----Block----*/
+.poem, .block {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3.1em;
+}
+.poem p {
+  text-indent: -2em;
+  text-align: justify;
+}
+.poem .indent {
+  margin-left: 1em;
+}
+/*----P----*/
+p {
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.nonindent {
+  text-indent: 0;
+}
+.extract {
+  margin-top: 1em;
+}
+.center {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}

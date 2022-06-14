@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:cd65e103-7969-41c5-9daa-32de483f1fd7" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Kitap Hırsızı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖLÜM VE ÇİKOLATA</text>
+      </navLabel>
+      <content src="Text/KH001.html#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>RAYLARIN YANINDA</text>
+      </navLabel>
+      <content src="Text/KH002.html#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>GÜNEŞ TUTULMASI</text>
+      </navLabel>
+      <content src="Text/KH003.html#sigil_toc_id_25" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>BAYRAK</text>
+      </navLabel>
+      <content src="Text/KH004.html#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>BİRİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/KH005.html#sigil_toc_id_28" />
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>MEZAR KAZICININ ELKİTABI</text>
+        </navLabel>
+        <content src="Text/KH005.html#sigil_toc_id_38" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>HIMMEL SOKAĞI’NA VARIŞ</text>
+        </navLabel>
+        <content src="Text/KH006.html#sigil_toc_id_40" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>BİR DOMUZCUĞU BÜYÜTMEK</text>
+        </navLabel>
+        <content src="Text/KH007.html" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>DEMİR YUMRUKLU KADIN</text>
+        </navLabel>
+        <content src="Text/KH008.html" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>ÖPÜCÜK</text>
+        </navLabel>
+        <content src="Text/KH009.html" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>JESSE OWENS OLAYI</text>
+        </navLabel>
+        <content src="Text/KH010.html#sigil_toc_id_3" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>ZIMPARA KÂĞIDININ ARKA YÜZÜ</text>
+        </navLabel>
+        <content src="Text/KH011.html" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>DOSTLUĞUN KOKUSU</text>
+        </navLabel>
+        <content src="Text/KH012.html#sigil_toc_id_4" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>OKUL BAHÇESİNDEKİ AĞIRSİKLET</text>
+        </navLabel>
+        <content src="Text/KH013.html#sigil_toc_id_5" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>ŞAMPİYONU</text>
+        </navLabel>
+        <content src="Text/KH013.html#sigil_toc_id_46" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>İKİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/KH014.html#sigil_toc_id_55" />
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>OMUZ SİLKİŞ</text>
+        </navLabel>
+        <content src="Text/KH014.html#sigil_toc_id_7" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>KARANLIKTAN YARATILMIŞ BİR KIZ</text>
+        </navLabel>
+        <content src="Text/KH015.html#sigil_toc_id_8" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>SİGARALARDAKİ MUTLULUK</text>
+        </navLabel>
+        <content src="Text/KH016.html" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>KASABA GEZGİNİ</text>
+        </navLabel>
+        <content src="Text/KH017.html#sigil_toc_id_9" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>YERİNE ULAŞMAYAN MEKTUPLAR</text>
+        </navLabel>
+        <content src="Text/KH018.html#sigil_toc_id_10" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>HİTLERİN DOĞUM GÜNÜ, 1940</text>
+        </navLabel>
+        <content src="Text/KH019.html#sigil_toc_id_11" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>YÜZDE YÜZ ALMAN TERİ</text>
+        </navLabel>
+        <content src="Text/KH020.html#sigil_toc_id_12" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>HIRSIZLIĞIN KAPILARI</text>
+        </navLabel>
+        <content src="Text/KH021.html#sigil_toc_id_13" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>ATEŞ KİTABI</text>
+        </navLabel>
+        <content src="Text/KH022.html#sigil_toc_id_14" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>ÜÇÜNCÜ KISIM</text>
+      </navLabel>
+      <content src="Text/KH023.html#sigil_toc_id_65" />
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>KAVGAM</text>
+        </navLabel>
+        <content src="Text/KH023.html#sigil_toc_id_15" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>EVE DÖNÜŞ</text>
+        </navLabel>
+        <content src="Text/KH024.html#sigil_toc_id_16" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>VALİNİN KÜTÜPHANESİ</text>
+        </navLabel>
+        <content src="Text/KH025.html#sigil_toc_id_17" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>GİR, KAVGACI</text>
+        </navLabel>
+        <content src="Text/KH026.html#sigil_toc_id_18" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>YAZIN GETİRDİKLERİ</text>
+        </navLabel>
+        <content src="Text/KH027.html#sigil_toc_id_19" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>ARYAN DÜKKÂNCI</text>
+        </navLabel>
+        <content src="Text/KH028.html#sigil_toc_id_20" />
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>KAVGACI, DEVAM EDİYOR</text>
+        </navLabel>
+        <content src="Text/KH029.html#sigil_toc_id_21" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>DOLANDIRICILAR</text>
+        </navLabel>
+        <content src="Text/KH030.html#sigil_toc_id_22" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>KAVGACI, SONUÇ</text>
+        </navLabel>
+        <content src="Text/KH031.html#sigil_toc_id_23" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>DÖRDÜNCÜ KISIM</text>
+      </navLabel>
+      <content src="Text/KH032.html#sigil_toc_id_24" />
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>HARAÇÇI ADAM</text>
+        </navLabel>
+        <content src="Text/KH032.html#sigil_toc_id_26" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>AKORDEONCU</text>
+        </navLabel>
+        <content src="Text/KH033.html#sigil_toc_id_27" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>İYİ BİR KIZ</text>
+        </navLabel>
+        <content src="Text/KH034.html#sigil_toc_id_29" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>YAHUDİ BOKSÖRÜN KISA BİR GEÇMİŞİ</text>
+        </navLabel>
+        <content src="Text/KH035.html#sigil_toc_id_30" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>ROSA’NIN GAZABI</text>
+        </navLabel>
+        <content src="Text/KH036.html#sigil_toc_id_31" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>LIESEL’İN NUTKU</text>
+        </navLabel>
+        <content src="Text/KH037.html#sigil_toc_id_32" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>UYKUCU</text>
+        </navLabel>
+        <content src="Text/KH038.html#sigil_toc_id_33" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>PAYLAŞILAN KÂBUSLAR</text>
+        </navLabel>
+        <content src="Text/KH039.html" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>BODRUMDAN GELEN SAYFALAR</text>
+        </navLabel>
+        <content src="Text/KH040.html#sigil_toc_id_34" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>BEŞİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/KH041.html#sigil_toc_id_35" />
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>ISLIKÇI</text>
+        </navLabel>
+        <content src="Text/KH041.html#sigil_toc_id_36" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>YÜZEN KİTAP</text>
+        </navLabel>
+        <content src="Text/KH042.html#sigil_toc_id_37" />
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>KUMARBAZLAR</text>
+        </navLabel>
+        <content src="Text/KH043.html#sigil_toc_id_39" />
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>RUDY’NİN GENÇLİĞİ</text>
+        </navLabel>
+        <content src="Text/KH044.html#sigil_toc_id_41" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>KAYBEDENLER</text>
+        </navLabel>
+        <content src="Text/KH045.html#sigil_toc_id_42" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>ISLIKÇI VE AYAKKABILAR</text>
+        </navLabel>
+        <content src="Text/KH047.html" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>RUDY STEINER’İN ÜÇ APTALCA HAREKETİ</text>
+        </navLabel>
+        <content src="Text/KH048.html#sigil_toc_id_44" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>YÜZEN KİTAP</text>
+        </navLabel>
+        <content src="Text/KH049.html#sigil_toc_id_45" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>ALTINCI KISIM</text>
+      </navLabel>
+      <content src="Text/KH050.html#sigil_toc_id_76" />
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>RÜYA TAŞIYICISI</text>
+        </navLabel>
+        <content src="Text/KH050.html#sigil_toc_id_47" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>ÖLÜMÜN GÜNLÜĞÜ: 1942</text>
+        </navLabel>
+        <content src="Text/KH051.html#sigil_toc_id_48" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>KARDANADAM</text>
+        </navLabel>
+        <content src="Text/KH052.html#sigil_toc_id_49" />
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>ON ÜÇ HEDİYE</text>
+        </navLabel>
+        <content src="Text/KH052_0001.html#sigil_toc_id_50" />
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>ZİYARETÇİ</text>
+        </navLabel>
+        <content src="Text/KH055.html#sigil_toc_id_51" />
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>GÜLÜMSEYEN</text>
+        </navLabel>
+        <content src="Text/KH056.html#sigil_toc_id_52" />
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>ÖLÜMÜN GÜNLÜĞÜ: PARİSLİLER</text>
+        </navLabel>
+        <content src="Text/KH057.html#sigil_toc_id_53" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>YEDİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/KH058.html#sigil_toc_id_54" />
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>TAM BİR DUDEN SÖZLÜĞÜ VE KAVRAMLAR DİZİNİ</text>
+        </navLabel>
+        <content src="Text/KH058.html#sigil_toc_id_56" />
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>ŞAMPANYA VE AKORDEONLAR</text>
+        </navLabel>
+        <content src="Text/KH059.html#sigil_toc_id_57" />
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>ÜÇLEME</text>
+        </navLabel>
+        <content src="Text/KH060.html#sigil_toc_id_95" />
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>SİREN SESLERİ</text>
+        </navLabel>
+        <content src="Text/KH061.html#sigil_toc_id_58" />
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>GÖKYÜZÜ HIRSIZI</text>
+        </navLabel>
+        <content src="Text/KH062.html#sigil_toc_id_59" />
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>BAYAN HOLTZAPFEL'IN TEKLİFİ</text>
+        </navLabel>
+        <content src="Text/KH063.html#sigil_toc_id_60" />
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>DACHAU’YA UZUN YÜRÜYÜŞ</text>
+        </navLabel>
+        <content src="Text/KH064.html#sigil_toc_id_61" />
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>HUZUR</text>
+        </navLabel>
+        <content src="Text/KH065.html#sigil_toc_id_62" />
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>APTAL VE PARDÖSÜLÜ ADAMLAR</text>
+        </navLabel>
+        <content src="Text/KH066.html#sigil_toc_id_63" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>SEKİZİNCİ KISIM</text>
+      </navLabel>
+      <content src="Text/KH067.html#sigil_toc_id_64" />
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>KELİME SİLKELEYİCİ</text>
+        </navLabel>
+        <content src="Text/KH067.html#sigil_toc_id_66" />
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>DOMİNOLAR VE KARANLIK</text>
+        </navLabel>
+        <content src="Text/KH068.html#sigil_toc_id_67" />
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>RUDY’NİN ÇIPLAKLIĞI</text>
+        </navLabel>
+        <content src="Text/KH069.html#sigil_toc_id_68" />
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>CEZA</text>
+        </navLabel>
+        <content src="Text/KH070.html#sigil_toc_id_69" />
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>SÖZÜNÜ TUTANIN KARISI</text>
+        </navLabel>
+        <content src="Text/KH071.html#sigil_toc_id_70" />
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>TOPLAYICI</text>
+        </navLabel>
+        <content src="Text/KH072.html#sigil_toc_id_71" />
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>EKMEK YİYENLER</text>
+        </navLabel>
+        <content src="Text/KH073.html#sigil_toc_id_72" />
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>GİZLİ BİR RESİM DEFTERİ</text>
+        </navLabel>
+        <content src="Text/KH074.html#sigil_toc_id_73" />
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>ANARŞİSTİN TAKIM ELBİSE KOLEKSİYONU</text>
+        </navLabel>
+        <content src="Text/KH075.html#sigil_toc_id_74" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>DOKUZUNCU KISIM</text>
+      </navLabel>
+      <content src="Text/KH076.html#sigil_toc_id_75" />
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>SON İNSAN YABANCI</text>
+        </navLabel>
+        <content src="Text/KH076.html#sigil_toc_id_77" />
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>SIRADAKİ KIŞKIRTMA</text>
+        </navLabel>
+        <content src="Text/KH077.html#sigil_toc_id_78" />
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>KÂĞIT OYUNCUSU</text>
+        </navLabel>
+        <content src="Text/KH078.html#sigil_toc_id_79" />
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>STALİNGRAD'IN KARLARI</text>
+        </navLabel>
+        <content src="Text/KH079.html#sigil_toc_id_80" />
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>YAŞLANMAYAN KARDEŞ</text>
+        </navLabel>
+        <content src="Text/KH080.html#sigil_toc_id_81" />
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>KAZA</text>
+        </navLabel>
+        <content src="Text/KH081.html#sigil_toc_id_82" />
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>SORULARIN BURUK TADI</text>
+        </navLabel>
+        <content src="Text/KH082.html#sigil_toc_id_83" />
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>BİR ALET KUTUSU, BİR KANAMA, BİR AYI</text>
+        </navLabel>
+        <content src="Text/KH083.html#sigil_toc_id_84" />
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>EVE DÖNÜŞ</text>
+        </navLabel>
+        <content src="Text/KH084.html#sigil_toc_id_85" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>ONUNCU KISIM</text>
+      </navLabel>
+      <content src="Text/KH085.html" />
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>KİTAP HIRSIZI</text>
+        </navLabel>
+        <content src="Text/KH085.html#sigil_toc_id_86" />
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>DÜNYANIN SONU</text>
+        </navLabel>
+        <content src="Text/KH086.html#sigil_toc_id_87" />
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>DOKSAN SEKİZİNCİ GÜN</text>
+        </navLabel>
+        <content src="Text/KH087.html#sigil_toc_id_88" />
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>SAVAŞ YARATICISI</text>
+        </navLabel>
+        <content src="Text/KH088.html#sigil_toc_id_89" />
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>KELİMELERİN YOLU</text>
+        </navLabel>
+        <content src="Text/KH089.html#sigil_toc_id_90" />
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>İTİRAFLAR</text>
+        </navLabel>
+        <content src="Text/KH090.html#sigil_toc_id_91" />
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>ILSA HERMANN’IN KÜÇÜK SİYAH KİTABI</text>
+        </navLabel>
+        <content src="Text/KH091.html#sigil_toc_id_92" />
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>KAFES GİBİ UÇAKLAR</text>
+        </navLabel>
+        <content src="Text/KH092.html#sigil_toc_id_93" />
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>DÜNYANIN SONU</text>
+        </navLabel>
+        <content src="Text/KH093.html#sigil_toc_id_94" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-103" playOrder="103">
+      <navLabel>
+        <text>SON SÖZ</text>
+      </navLabel>
+      <content src="Text/KH094.html" />
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>SON RENK</text>
+        </navLabel>
+        <content src="Text/KH094.html#sigil_toc_id_97" />
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>ÖLÜM VE LİESEL</text>
+        </navLabel>
+        <content src="Text/KH095.html" />
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>ÖĞLEDEN SONRAKİ TAHTA</text>
+        </navLabel>
+        <content src="Text/KH096.html#sigil_toc_id_98" />
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>MAX</text>
+        </navLabel>
+        <content src="Text/KH097.html#sigil_toc_id_99" />
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>HARAÇÇI ADAM</text>
+        </navLabel>
+        <content src="Text/KH098.html#sigil_toc_id_100" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

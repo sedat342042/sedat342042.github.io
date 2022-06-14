@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{3B223C85-51C5-4F96-8537-D3C212F6D37F}" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>İnatçı Keraban 1. Cilt</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Jules Verne</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml" />
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/01.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>VAN MİTTEN VE UŞAĞI BRUNO, ETRAFTA NE OLUP BİTTİĞİNİ ANLAMADAN DOLAŞIRLAR, BAKINIRLAR VE SOHBET EDERLER</text>
+        </navLabel>
+        <content src="Text/01.xhtml#sigil_toc_id_1" />
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/02.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>SCARPANTE KÂHYA VE KAPTAN YARHUD BİLİNMESİNİN İYİ OLACAĞI BİR PROJE HAKKINDA KONUŞURLAR</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_2" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/03.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>KERABAN AĞA DOSTU VAN MİTTEN İLE KARŞILAŞINCA ÇOK ŞAŞIRIR</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_3" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/04.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>HİÇ OLMADIĞI KADAR İNATÇILIĞI TUTAN KERABAN AĞA OSMANLI YETKİLİLERİNE KAFA TUTAR</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_4" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/05.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>KERABAN AĞA SEYAHATİ, KENDİ BİLDİĞİ GİBİ TARTIŞIR VE İSTANBUL'U TERK EDER</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_5" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/06.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>YOLCULAR ÖZELİKLE TUNA DELTASINDA BAZI ZORLUKLARLA KARŞILAŞMAYA BAŞLAR</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_6" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/07.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>ATLAR, ARABACININ KIRBACIYLA YAPMADIKLARINI KORKUDAN YAPARLAR</text>
+        </navLabel>
+        <content src="Text/07.xhtml#sigil_toc_id_7" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/08.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>OKUYUCU GÜZEL AMASYA VE NİŞANLISI AHMET İLE TANIŞIR</text>
+        </navLabel>
+        <content src="Text/08.xhtml#sigil_toc_id_8" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="Text/09.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>KAPTAN YARHUD'UN PLANININ BAŞARISIZLIĞA UĞRAMASINA RAMAK KALIR</text>
+        </navLabel>
+        <content src="Text/09.xhtml#sigil_toc_id_9" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>10</text>
+        </navLabel>
+        <content src="Text/10.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>AHMET, ZATEN ŞARTLARIN DAYATTIĞI ÖNEMLİ BİR KARAR ALIR</text>
+        </navLabel>
+        <content src="Text/10.xhtml#sigil_toc_id_10" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>11</text>
+        </navLabel>
+        <content src="Text/11.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>BU KEYİFLİ YOLCULUK HİKÂYESİNE BİRAZ DRAM KARIŞIR</text>
+        </navLabel>
+        <content src="Text/11.xhtml#sigil_toc_id_11" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>12</text>
+        </navLabel>
+        <content src="Text/12.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>VAN MİTTEN OKUYUCUYU BELKİ DE İLGİLENDİREBİLECEK OLAN BİR LALE HİKÂYESİ ANLATIR</text>
+        </navLabel>
+        <content src="Text/12.xhtml#sigil_toc_id_12" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>13</text>
+        </navLabel>
+        <content src="Text/13.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>ESKİ TAVRİDA BİR UÇTAN BİR UCA GEÇİLİR VE ORADAN ACABA HANGİ KOŞULLA ÇIKILIR</text>
+        </navLabel>
+        <content src="Text/13.xhtml#sigil_toc_id_13" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>14</text>
+        </navLabel>
+        <content src="Text/14.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>KERABAN AĞA COĞRAFYASININ YEĞENİ AHMET'İN ZANNETTİĞİNDEN DAHA KUVVETLİ OLDUĞUNU GÖSTERİR</text>
+        </navLabel>
+        <content src="Text/14.xhtml#sigil_toc_id_14" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>15</text>
+        </navLabel>
+        <content src="Text/15.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>KERABAN AĞA, AHMET, VAN MİTTEN VE UŞAKLARI SEMENDER ROLÜNDELER</text>
+        </navLabel>
+        <content src="Text/15.xhtml#sigil_toc_id_15" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>16</text>
+        </navLabel>
+        <content src="Text/16.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>İRAN VE KÜÇÜK ASYA TÜTÜNLERİNİN MÜKEMMELİYETİ MESELESİ</text>
+        </navLabel>
+        <content src="Text/16.xhtml#sigil_toc_id_16" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>17</text>
+        </navLabel>
+        <content src="Text/17.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>BU HİKÂYENİN BİRİNCİ BÖLÜMÜNÜ SONA ERDİRECEK OLAN ÇOK ÖNEMLİ BİR MACERA YAŞANIR</text>
+        </navLabel>
+        <content src="Text/17.xhtml#sigil_toc_id_17" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

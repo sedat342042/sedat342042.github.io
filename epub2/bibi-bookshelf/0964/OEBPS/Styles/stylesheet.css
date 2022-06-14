@@ -1,0 +1,512 @@
+.list {
+    display: block;
+    line-height: 1.2;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.list1 {
+    display: block;
+    line-height: 1.2;
+    list-style-type: upper-roman;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.list2 {
+    display: block;
+    line-height: 1.2;
+    list-style-type: upper-alpha;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.table {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.td {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 178pt;
+    padding: 0.5ex 0.5pt;
+    border-top: black solid 1pt;
+    border-left: black solid 1pt
+    }
+.td1 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 38pt;
+    padding: 0.5ex 0.5pt;
+    border-top: black solid 1pt;
+    border-right: black solid 1pt
+    }
+.td2 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 178pt;
+    padding: 0.5ex 0.5pt;
+    border-left: black solid 1pt
+    }
+.td3 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 38pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt
+    }
+.td4 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 38pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt
+    }
+.td5 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 178pt;
+    padding: 0.5ex 0.5pt;
+    border-left: black solid 1pt
+    }
+.td6 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 178pt;
+    padding: 0.5ex 0.5pt
+    }
+.td7 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 216pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt
+    }
+.td8 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 107pt;
+    padding: 0.5ex 0.5pt;
+    border-top: black solid 1pt;
+    border-left: black solid 1pt
+    }
+.td9 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 50.1pt;
+    padding: 0.5ex 0.5pt;
+    border-top: black solid 1pt;
+    border-right: black solid 1pt
+    }
+.td10 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 107pt;
+    padding: 0.5ex 0.5pt;
+    border-left: black solid 1pt
+    }
+.td11 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 50.1pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt
+    }
+.td12 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 107pt;
+    padding: 0.5ex 0.5pt;
+    border-left: black solid 1pt
+    }
+.td13 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 50.1pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt
+    }
+.td14 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 107pt;
+    padding: 0.5ex 0.5pt;
+    border-bottom: black solid 1pt;
+    border-left: black solid 1pt
+    }
+.td15 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 50.1pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt
+    }
+.td16 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 159pt;
+    padding: 0.5ex 0.5pt;
+    border-top: black solid 1pt;
+    border-right: black solid 1pt;
+    border-left: black solid 1pt
+    }
+.td17 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 52.8pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt
+    }
+.td18 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 52.8pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt
+    }
+.td19 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 52.8pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt
+    }
+.td20 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 153pt;
+    padding: 0.5ex 0.5pt;
+    border-top: black solid 1pt;
+    border-right: black solid 1pt;
+    border-left: black solid 1pt
+    }
+.td21 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 8.65pt;
+    padding: 0.5ex 0.5pt;
+    border-left: black solid 1pt
+    }
+.td22 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 96.7pt;
+    padding: 0.5ex 0.5pt
+    }
+.td23 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 48pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt
+    }
+.td24 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 8.65pt;
+    padding: 0.5ex 0.5pt;
+    border-left: black solid 1pt
+    }
+.td25 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 48pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt
+    }
+.td26 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 8.65pt;
+    padding: 0.5ex 0.5pt;
+    border-bottom: black solid 1pt;
+    border-left: black solid 1pt
+    }
+.td27 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 96.7pt;
+    padding: 0.5ex 0.5pt;
+    border-bottom: black solid 1pt
+    }
+.td28 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 48pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt
+    }
+.td29 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 169pt;
+    padding: 0.5ex 0.5pt;
+    border-top: black solid 1pt;
+    border-right: black solid 1pt;
+    border-left: black solid 1pt
+    }
+.td30 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 131pt;
+    padding: 0.5ex 0.5pt;
+    border-left: black solid 1pt
+    }
+.td31 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: bottom;
+    width: 37.4pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt
+    }
+.td32 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 131pt;
+    padding: 0.5ex 0.5pt;
+    border-left: black solid 1pt
+    }
+.td33 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 37.4pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt
+    }
+.td34 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 131pt;
+    padding: 0.5ex 0.5pt;
+    border-bottom: black solid 1pt;
+    border-left: black solid 1pt
+    }
+.td35 {
+    background-color: #FFF;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 37.4pt;
+    padding: 0.5ex 0.5pt;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt
+    }
+.text2 {
+    font-family: "Bookman Old Style", serif;
+    font-size: 1.33333em;
+    font-weight: bold;
+    letter-spacing: 4pt;
+    text-decoration: underline
+    }
+.text3 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    font-style: italic;
+    letter-spacing: 4pt;
+    text-decoration: underline
+    }
+.text5 {
+    color: #00F;
+    text-decoration: underline
+    }
+.text6 {
+    color: #00F;
+    font-weight: bold;
+    text-decoration: underline
+    }
+.text7 {
+    color: black;
+    font-weight: bold;
+    text-decoration: underline
+    }
+.text9 {
+    font-size: 2.93333em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.text10 {
+    font-family: "Calibri", sans-serif;
+    font-size: 1em
+    }
+.text11 {
+    color: #00F;
+    font-family: "Bookman Old Style", serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: underline
+    }
+.text12 {
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text13 {
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.text14 {
+    color: #00F;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.text15 {
+    font-style: italic;
+    font-weight: bold
+    }
+h1
+{
+margin-top:3em;
+margin-bottom:3em;
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}
+.yildiz {
+Font-size:2em;
+margin-top:1em;
+margin-bottom:1em;
+text-align:center;
+
+}
+
+  .baslik{
+text-align:center;
+  font-weight:bold;
+  font-size:2em;
+  margin-top:2em;
+  margin-bottom:2em;
+  }

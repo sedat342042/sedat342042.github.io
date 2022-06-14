@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Daftary, Farhad">Farhad Daftary</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">83641a2e-f230-4629-b91e-04b9ec9c2e50</dc:identifier>
+    <dc:date>2008-03-30T21:00:00+00:00</dc:date>
+    <meta content="Alamut Efsâneleri" name="calibre:title_sort"/>
+    <meta content="2016-05-27T20:59:59.652000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:publisher>Yurt Kitap Yayın</dc:publisher>
+    <meta name="calibre:rating" content="10.0"/>
+    <dc:description>&lt;p&gt;Dağın Yaşlı Adamı'nı ve fedailerini Sünni kaynaklar ve 
+
+Batıdan gelen gezginler mi abartarak kötü göstermişti... 
+
+Fedailer gerçekten de haşhaş bağımlısı suikastçılar mıydı? 
+
+“Cennet Bahçesi” için mi kendilerini feda ediyorlardı? 
+
+Yoksa Hasan Sabbah ve fedaileri gerçekten birer efsane miydi? 
+
+Nizari İsmailileri, Ortaçağ Avrupa'sında “Haşaşiler” ismiyle nam salmışlardır. Haşhaş kelimesinden türetilen bu yanlış isim, XII. yüzyılın başlarında Ortadoğu'da varlık gösteren bu gizemli tarikatın üyeleriyle ilk olarak temasa geçen Haçlılar ve yanlarında gelen batılı yazarlar sayesinde geniş kitlelere yayılmıştır. Ortaçağ Avrupa halkları da Haşaşilerin gizli faaliyetleri ve onların gizemli liderleri Dağın Yaşlı Adamı Hasan Sabbah ile ilgili bir dizi hikâyeyi kulaktan kulağa aktarmışlardır. Zaman içinde, Marco Polo'nun kalemiyle zirveye ulaşan Haşaşi efsaneleri hiçbir temele dayanmadan oraya buraya çekilmişler ve Haşaşi'nin karşılığı olan “assasin” kelimesi, ihmalkâr bir etimoloji ile Avrupa dillerine “katil, suikastçı” anlamına gelen bir kavram olarak girmiştir. 
+
+Elinizdeki kitap, Önderleri Hasan Sabbah'ın kandırmacalarıyla, haşhaş içerek kendilerini ölüme atan şuursuz bir topluluk gibi gösterilmeye çalışılan İsmaili topluluğunun, gerçekte kim olduklarını anlamamızı sağlayacaktır...
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:author_link_map" content="{&quot;Farhad Daftary&quot;: &quot;&quot;}"/>
+    <dc:title>Alamut Efsâneleri</dc:title>
+    <dc:subject>Tarih</dc:subject>
+    <dc:subject>Araştırma</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fd8c4944-fbb9-4cf4-a888-cfbc8f2bc647</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789759025571</dc:identifier>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_000.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_001.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_002.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_003.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_004.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_005.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_006.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_007.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_008.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_009.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_010.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Farhad Daftary - Alamut Efsaneleri_split_011.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Images/image003.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="../jacket.xhtml" id="jacket" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="jacket"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

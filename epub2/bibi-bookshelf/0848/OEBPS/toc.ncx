@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="6fc8b4b3-de32-4f33-a08d-233b45728e89" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Karanlığın Sol Eli</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Karanlığın Sol Eli - Ursula K. Le Guin</text>
+            </navLabel>
+            <content src="Text/Section1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>İçindekiler</text>
+            </navLabel>
+            <content src="Text/Section5.html"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Önsöz</text>
+            </navLabel>
+            <content src="Text/Section6.html#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>1 - Erhenrang'da Bir Geçit Alayı</text>
+            </navLabel>
+            <content src="Text/Section7.html"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>2 - Tipinin İçindeki Yer</text>
+            </navLabel>
+            <content src="Text/Section8.html"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>3 - Deli Kral</text>
+            </navLabel>
+            <content src="Text/Section9.html"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>4 - On Dokuzuncu Gün</text>
+            </navLabel>
+            <content src="Text/Section10.html"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>5 - Önsezilerin Eğitilmesi</text>
+            </navLabel>
+            <content src="Text/Section11.html"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>6 - Orgoreyn’e Bir Yol</text>
+            </navLabel>
+            <content src="Text/Section12.html"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>7 - Cinsiyet Sorunu</text>
+            </navLabel>
+            <content src="Text/Section13.html"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>8 - Orgoreyn'e Başka Bir Yol</text>
+            </navLabel>
+            <content src="Text/Section14.html"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>9 - Hain Estraven</text>
+            </navLabel>
+            <content src="Text/Section15.html"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>10 - Mişnori'de Konuşmalar</text>
+            </navLabel>
+            <content src="Text/Section16.html"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>11 - Mişnori’de Kendi Kendine Konuşmalar</text>
+            </navLabel>
+            <content src="Text/Section17.html"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>12 - Zamana ve Karanlığa Dair</text>
+            </navLabel>
+            <content src="Text/Section18.html"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>13 - Çiftlikte</text>
+            </navLabel>
+            <content src="Text/Section19.html"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>15 - Buz'a Doğru</text>
+            </navLabel>
+            <content src="Text/Section21.html"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>16 - Drummer ile Dremegole Arasında</text>
+            </navLabel>
+            <content src="Text/Section22.html"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>17 - Bir Orgota Yaratılış Mitosu</text>
+            </navLabel>
+            <content src="Text/Section23.html"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>18 - Buz’un Üzerinde</text>
+            </navLabel>
+            <content src="Text/Section24.html"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>19 - Eve Dönüş</text>
+            </navLabel>
+            <content src="Text/Section25.html"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>20 - Boş Bir Çaba</text>
+            </navLabel>
+            <content src="Text/Section26.html"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>Gethen Takvimi ve Saati</text>
+            </navLabel>
+            <content src="Text/Section27.html"/>
+        </navPoint>
+    </navMap>
+</ncx>

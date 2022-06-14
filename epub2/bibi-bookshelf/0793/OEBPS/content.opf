@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid_id" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:timestamp" content="2017-12-10T21:05:34.332678+00:00" />
+    <meta name="cover" content="cover" />
+    <meta name="calibre:title_sort" content="Güneşi Uyandıralım" />
+    <dc:creator opf:role="aut" opf:file-as="Vasconcelos, Jose Mauro de">Jose Mauro de Vasconcelos</dc:creator>
+    <meta name="calibre:series" content="Zeze" />
+    <meta name="calibre:series_index" content="2" />
+    <dc:description>&lt;p&gt;Şeker Portakalı'nın sevimli, küçük kahramanı Zézé, işte yine karşınızda. Gözlerinin içi yine ışıl ışıl, yüreği yine sevgi dolu. Ama hüzünleri, biraz daha büyümüş bir çocuğun hüzünleri. Küçüklüğündeki küçük Şeker Portakalı yok, ama bu kez de yüreğinde sevgili kurbağa'sı var. Zengin ve aşırı alıngan bir aile tarafından evlât edinilmiş. Ama Zézé, yeni babasının iyi niyetine karşılık vermiyor. Evdeki biricik dostu, aşçı Dadada. Bir de düşlerindeki, yeri doldurulamayan, yüreğine kadar sokulup yerleşen kurbağa ve bir filmde görerek gerçek babasının yerine koyduğu ünlü Fransız şarkıcısı Maurice Chevalier. Çok parlak bir öğrenci olan Zézé, sırılsıklam âşık oluyor. O güne kadar herkesi kızdıran, kimi de tehlikeli şeytanlıklar yapan bir çocuk. Çocukluğunun sonu, yeniyetmeliğin ilk adımları, verilmesi gereken yalnızlık sınavı... Zézé'nin, dostlarını hayâl kırıklığına uğratması olanaksız. Onun her yaştan pek çok dostu olduğunu da iyi biliyoruz. Şeker Portakalı'nın devamı olan Güneşi Uyandıralım'ı da çok seveceğinize inanıyoruz. Dizinin üçüncü kitabı olan Delifişek'te bu kez, Zézé'yi delikanlılık yaşında bulacaksınız.&lt;/p&gt;</dc:description>
+    <dc:title>Güneşi Uyandıralım</dc:title>
+    <meta name="calibre:rating" content="8.00" />
+    <dc:identifier opf:scheme="ISBN">9789755100142</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">9755100148</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">6361588</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">097bcfe9-ebfb-4a9a-9c78-5fa5c982ae22</dc:identifier>
+    <dc:identifier opf:scheme="calibre">097bcfe9-ebfb-4a9a-9c78-5fa5c982ae22</dc:identifier>
+    <dc:publisher>Can Yayinlari</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:subject>Childrens</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:subject>To-Read</dc:subject>
+    <dc:date>1973-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.11.1) [https://calibre-ebook.com]</dc:contributor>
+    <meta name="Sigil version" content="0.9.8" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2017-12-11</dc:date>
+  </metadata>
+  <manifest>
+    <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="Section0017.xhtml" href="Text/Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="Text/main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0008.xhtml" href="Text/Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0013.xhtml" href="Text/Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0014.xhtml" href="Text/Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0016.xhtml" href="Text/Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="titlepage" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main.xhtml" href="Text/main.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0015.xhtml" href="Text/Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0007.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0011.xhtml" href="Text/Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0012.xhtml" href="Text/Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-5.xhtml" href="Text/main-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-1.xhtml" href="Text/main-1.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="id2"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="main-5.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/titlepage.xhtml"/>
+  </guide>
+</package>

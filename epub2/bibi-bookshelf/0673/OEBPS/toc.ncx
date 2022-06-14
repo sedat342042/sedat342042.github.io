@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="5e92abb6-ac4a-4283-a494-bea5dfb92c0d" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yüzüncü Ad(georgia)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>İÇİNDEKİLER</text>
+      </navLabel>
+      <content src="Text/index_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>DEFTER I</text>
+      </navLabel>
+      <content src="Text/index_split_005.html"/>
+      <navPoint class="chapter" id="num_3" playOrder="3">
+        <navLabel>
+          <text>Yüzüncü Ad</text>
+        </navLabel>
+        <content src="Text/index_split_006.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>DEFTER II</text>
+      </navLabel>
+      <content src="Text/index_split_008.html"/>
+      <navPoint class="chapter" id="num_5" playOrder="5">
+        <navLabel>
+          <text>Sabetay′ın Sesi</text>
+        </navLabel>
+        <content src="Text/index_split_009.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>DEFTER III</text>
+      </navLabel>
+      <content src="Text/index_split_010.html"/>
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>Yıldızsız Bir Gök</text>
+        </navLabel>
+        <content src="Text/index_split_011.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>DEFTER IV</text>
+      </navLabel>
+      <content src="Text/index_split_013.html"/>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>Cenova′nın Ayartması</text>
+        </navLabel>
+        <content src="Text/index_split_014.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

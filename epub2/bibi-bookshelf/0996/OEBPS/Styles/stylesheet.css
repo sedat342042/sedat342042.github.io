@@ -1,0 +1,184 @@
+.block {
+    display: block;
+    font-size: 1.16667em;
+    text-align: center;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    display: block;
+    text-align: justify;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.block11 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block12 {
+    display: block;
+    text-align: center;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    display: block;
+    text-align: center;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block3 {
+    display: block;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block4 {
+    display: block;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block5 {
+    display: block;
+    text-align: justify;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    color: #000;
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block7 {
+    color: #000;
+    display: block;
+    text-align: center;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    color: #000;
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    color: #000;
+    display: block;
+    text-align: center;
+    text-indent: 7.1pt;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-size: 1 em; 
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 3pt
+    }
+.calibre1 {
+    white-space: pre-wrap
+    }
+.calibre2 {
+    height: 238pt;
+    width: 250pt
+    }
+.calibre3 {
+    font-style: italic
+    }
+.softbreak {
+    display: block;
+    page-break-before: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0.5em 0 0
+    }
+.text {
+    color: #06C;
+    text-decoration: underline
+    }
+.text1 {
+    color: #000;
+    text-transform: uppercase
+    }
+.text2 {
+    color: black
+    }
+.whitespace {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 9.5em 0 0
+    }
+.whitespace1 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 14em 0 0
+    }
+.whitespace2 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.whitespace3 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 21.5em 0 0
+    }
+.whitespace4 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 23em 0 0
+    }
+.whitespace5 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 5em 0 0
+    }
+.whitespace6 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 6.5em 0 0
+    }
+.whitespace7 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 3.5em 0 0
+    }

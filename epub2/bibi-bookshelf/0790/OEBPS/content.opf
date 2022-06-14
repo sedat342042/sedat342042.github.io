@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Borges, Jorge Luis">Jorge Luis Borges</dc:creator>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">bcae6fd8-b409-4aa1-baf3-ac9dc0272969</dc:identifier>
+    <dc:date>1976-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:date opf:event="modification">2015-01-25</dc:date>
+    <dc:description>&lt;p&gt;Borges, edebiyat alanındaki başka birçok kimliğinin yanısıra, konuşmacı olarak da ün yapmıştır. 1946'da, Arjantin Ulusal Kütüphanesi'nin müdürlüğünden uzaklaştırıldığında, çeşitli toplantılarda yaptığı edebi konuşmalar Borges'in başlıca geçim kaynaklarından biri olmuştu. Gözleri ferini yitirdiği için konuşmalarını annesinin yardımıyla hazırlamak, sonra ezberlemek zorundaydı. Bu kitapta yer alan yedi konuşmayı belirli aralıklarla 1977 yılının Haziran ve Ağustos ayları arasında Buenos Aires'teki Teatro Coliseo'da yaptı. '70'li ve '80'li yıllarda Borges'in konuşmaları gazetelerin edebiyat eklerinde kesilip biçilerek yayımlanıyor, banda alınıyor, hatta plak yapılıp piyasaya sürülüyordu. Yedi Gece'nin ilk baskısı, konuşmalarının üstünden üç yıl geçtikten sonra 1980'de yayımlandı. Borges'in bellek kitaplığından gerçek edebiyat okurlarına eşsiz bir armağan olan bu kitap, İlahi Komedya'dan Binbir Gece Masalları'na, Şiir'den Kabala'ya, düşlerin, düşüncelerin, söylencelerin atlasında bizleri keyifli bir yolculuğa çıkarıyor.&lt;/p&gt;</dc:description>
+    <meta name="cover" content="cover"/>
+    <meta content="Yedi Gece" name="calibre:title_sort"/>
+    <meta content="2015-01-24T15:35:25.238000+00:00" name="calibre:timestamp"/>
+    <meta content="{&quot;Jorge Luis Borges&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  <dc:title>Yedi Gece</dc:title>
+<dc:subject>Makale</dc:subject>
+<dc:subject>Gerçek</dc:subject>
+<dc:subject>Şiir</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">24ab36bf-1368-4a7c-84be-0d81b545b839</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754703825</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">18754205</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Fonts/Book-Antiqua-Bold-Italic.ttf" id="font3" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Book-Antiqua-Bold.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Book-Antiqua-Italic.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Book-Antiqua.ttf" id="font" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

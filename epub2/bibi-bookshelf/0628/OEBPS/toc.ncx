@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="5450d3e8-87bf-4d74-a22f-0a801319c2eb" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ninattanın Bileziği</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Birinci Tablet</text>
+      </navLabel>
+      <content src="Text/Section0002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ikinci tablet</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>üçüncü tablet</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>dördüncü tablet</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>beşinci tablet</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>altıncı tablet</text>
+      </navLabel>
+      <content src="Text/Section0003.html#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>yedinci tablet</text>
+      </navLabel>
+      <content src="Text/Section0003.html#calibre_pb_2"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>sekizinci tablet</text>
+      </navLabel>
+      <content src="Text/Section0003.html#calibre_pb_3"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>dokuzuncu tablet</text>
+      </navLabel>
+      <content src="Text/Section0003.html#calibre_pb_4"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>onuncu tablet</text>
+      </navLabel>
+      <content src="Text/Section0003.html#calibre_pb_8"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>on birinci tablet</text>
+      </navLabel>
+      <content src="Text/Section0003.html#calibre_pb_9"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>on ikinci tablet</text>
+      </navLabel>
+      <content src="Text/Section0003.html#calibre_pb_10"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,91 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Moon, Elizabeth">Elizabeth Moon</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:ab6d6361-df71-410d-bc22-64009ecd5170</dc:identifier>
+    <dc:date>2014-08-31T21:00:00+00:00</dc:date>
+    <dc:description>Gözlerin çoğu birden fazla renktedir; ancak genellikle benzer renklerdir bunlar. Mavi gözlerde iki mavi ton olur, mavi ve gri; ya da mavi ve yeşil ya da bir iki tane kahverengi noktası olur. İnsanların çoğu bunu fark etmez. Eyalet kimliğimi almaya gittiğimde, formda göz rengim soruluyordu. Gözlerimdeki bütün renkleri yazmaya çalıştım ancak boşluk yeterince büyük değildi. Bana sadece "kahverengi" yazmam söylendi. Ben de "kahverengi" yazdım ancak gözlerimdeki tek renk bu değil. Bu sadece insanların gördüğü renk çünkü onlar diğerlerinin gözlerine iyice bakmıyorlar.</dc:description>
+    <dc:publisher>Nemesis Kitap</dc:publisher>
+    <dc:contributor opf:role="trl">Gamze Tokgöz</dc:contributor>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <meta content="0.8.4" name="Sigil version"/>
+    <meta name="cover" content="x23294995.jpg"/>
+    <dc:date opf:event="modification">2015-07-05</dc:date>
+  <meta name="calibre:title_sort" content="Karanlığın Hızı"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:contributor opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Elizabeth Moon&quot;: &quot;&quot;}"/>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:title>Karanlığın Hızı</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Bilim Kurgu</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">cd407c5e-1d13-4b54-ba87-c87a4003be92</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786059961356</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:ab6d6361-df71-410d-bc22-64009ecd5170</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;datatype&quot;: &quot;comments&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;is_multiple&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/pub.html" id="pub.html" media-type="application/xhtml+xml"/>
+    <item href="Text/dedi.html" id="dedi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/01.html" id="x01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/02.html" id="x02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/03.html" id="x03.html" media-type="application/xhtml+xml"/>
+    <item href="Text/04.html" id="x04.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/eldv0.1.css" id="eldv0.1.css" media-type="text/css"/>
+    <item href="Text/05.html" id="x05.html" media-type="application/xhtml+xml"/>
+    <item href="Text/06.html" id="x06.html" media-type="application/xhtml+xml"/>
+    <item href="Text/10.html" id="x10.html" media-type="application/xhtml+xml"/>
+    <item href="Text/07.html" id="x07.html" media-type="application/xhtml+xml"/>
+    <item href="Text/08.html" id="x08.html" media-type="application/xhtml+xml"/>
+    <item href="Text/09.html" id="x09.html" media-type="application/xhtml+xml"/>
+    <item href="Text/11.html" id="x11.html" media-type="application/xhtml+xml"/>
+    <item href="Text/12.html" id="x12.html" media-type="application/xhtml+xml"/>
+    <item href="Text/13.html" id="x13.html" media-type="application/xhtml+xml"/>
+    <item href="Text/14.html" id="x14.html" media-type="application/xhtml+xml"/>
+    <item href="Text/15.html" id="x15.html" media-type="application/xhtml+xml"/>
+    <item href="Text/16.html" id="x16.html" media-type="application/xhtml+xml"/>
+    <item href="Text/17.html" id="x17.html" media-type="application/xhtml+xml"/>
+    <item href="Text/18.html" id="x18.html" media-type="application/xhtml+xml"/>
+    <item href="Text/19.html" id="x19.html" media-type="application/xhtml+xml"/>
+    <item href="Text/20.html" id="x20.html" media-type="application/xhtml+xml"/>
+    <item href="Text/21.html" id="x21.html" media-type="application/xhtml+xml"/>
+    <item href="Text/SON.html" id="SON.html" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.html" id="giris.html" media-type="application/xhtml+xml"/>
+    <item href="Images/Asiz.png" id="Asiz.png" media-type="image/png"/>
+    <item href="Images/23294995.jpg" id="x23294995.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="pub.html"/>
+    <itemref idref="dedi.html"/>
+    <itemref idref="giris.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="x05.html"/>
+    <itemref idref="x06.html"/>
+    <itemref idref="x07.html"/>
+    <itemref idref="x08.html"/>
+    <itemref idref="x09.html"/>
+    <itemref idref="x10.html"/>
+    <itemref idref="x11.html"/>
+    <itemref idref="x12.html"/>
+    <itemref idref="x13.html"/>
+    <itemref idref="x14.html"/>
+    <itemref idref="x15.html"/>
+    <itemref idref="x16.html"/>
+    <itemref idref="x17.html"/>
+    <itemref idref="x18.html"/>
+    <itemref idref="x19.html"/>
+    <itemref idref="x20.html"/>
+    <itemref idref="x21.html"/>
+    <itemref idref="SON.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

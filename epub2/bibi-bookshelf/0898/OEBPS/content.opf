@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Korku</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>Rahat ve korunaklı bir yaşam süren saygın bir kadın, sekiz yıllık evliliğinden sıkılmış, burjuva dünyasının kozasından çıkarak kendini genç bir piyanistin kollarına atmıştır. Ancak bu gizli ilişkiden haberdar olan bir şantajcının ansızın zuhur etmesiyle, hayatında yeni farkına vardığı bütün güzellikleri yitirme tehlikesiyle karşı karşıya kalır ve kahredici bir korkunun pençesine düşer.
+Korku insanı bilinçdışına itilmiş utanç verici deneyimlerden, bastırılmış pişmanlıklardan özgürleştirebilecek güçte bir yapıt.</dc:description>
+    <dc:date>2017-03-24T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{5BEC8D00-28EB-4115-A247-84936A17ADA7}</dc:identifier>
+    <dc:date opf:event="modification">2017-05-27</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (2.85.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">9f002d01-c30f-4479-bc30-12cd91bc091c</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-605-332-501-7</dc:identifier>
+    <meta name="Sigil version" content="0.9.8"/>
+    <meta name="calibre:title_sort" content="Korku"/>
+    <meta name="calibre:author_link_map" content="{&quot;Stefan Zweig&quot;: &quot;&quot;}"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:timestamp" content="2017-05-27T11:08:08.708000+00:00"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id4" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="SELCOEPUB_BARCOD_1.png" href="Images/SELCOEPUB BARCOD 1.png" media-type="image/png"/>
+    <item id="Bookerly-Bold.ttf" href="Fonts/Bookerly-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="Bookerly-BoldItalic.ttf" href="Fonts/Bookerly-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="Bookerly-Regular.ttf" href="Fonts/Bookerly-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="Bookerly-RegularItalic.ttf" href="Fonts/Bookerly-RegularItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="../jacket.xhtml" id="jacket" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="titlepage"/>
+    <itemref idref="jacket"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

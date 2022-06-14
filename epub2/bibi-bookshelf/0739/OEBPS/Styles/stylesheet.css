@@ -1,0 +1,198 @@
+.after-bq {
+    display: block;
+    text-align: justify;
+    text-indent: 1.9em;
+    margin: 1em 0 0
+    }
+.aut {
+    display: block;
+    font-family: "Goudy";
+    font-size: 1.66667em;
+    line-height: 1.2;
+    margin-bottom: 0
+    }
+.books {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.by {
+    display: block;
+    text-align: right;
+    text-indent: 1.9em;
+    margin: 0
+    }
+.calibre {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }
+.calibre1 {
+    display: block;
+    font-family: "Gill";
+    font-size: 0.58333em;
+    text-align: center
+    }
+.calibre2 {
+    font-style: italic
+    }
+.calibre3 {
+    color: #7A7A7A;
+    text-decoration: none
+    }
+.calibre4 {
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.calibre5 {
+    font-size: 1.5em
+    }
+.calibre6 {
+    height: auto;
+    width: auto
+    }
+.calibre7 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre8 {
+    display: list-item;
+    list-style-type: none
+    }
+.calibre9 {
+    display: block;
+    font-family: "Gill";
+    font-size: 0.75em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre10 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 3em 0 1.5em
+    }
+.calibre11 {
+    display: block;
+    text-align: justify;
+    text-indent: 1.9em;
+    margin: 0
+    }
+.calibre12 {
+    display: block;
+    text-align: justify;
+    text-indent: 0
+    }
+.calibre13 {
+    display: block;
+    text-indent: 1.9em;
+    margin: 0
+    }
+.calibre14 {
+    display: block;
+    max-width: 17.5em;
+    margin: 1em 1em 1em 0
+    }
+.calibre15 {
+    display: block;
+    text-align: justify;
+    text-indent: 1.9em
+    }
+.copy {
+    display: block
+    }
+.cover-container {
+    display: block;
+    max-width: 500px;
+    page-break-inside: avoid;
+    margin: 0 auto
+    }
+.epub-typecover {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.indented {
+    display: block;
+    max-width: 17.5em;
+    margin: 1em 1em 1em 2.5em
+    }
+.isbn {
+    display: block;
+    font-family: "Gill";
+    font-size: 0.58333em;
+    margin-top: 1.2em;
+    text-align: center
+    }
+.letter {
+    display: block;
+    margin: 1em 0 0
+    }
+.logo {
+    display: block;
+    margin: 3em auto 0
+    }
+.press {
+    display: block;
+    margin-top: 0.8em
+    }
+.publisher {
+    display: block;
+    margin-top: 2em
+    }
+.seri {
+    display: block;
+    font-family: "Gill";
+    font-size: 1em;
+    margin-top: 3.5em
+    }
+.si-footnote {
+    display: block;
+    font-family: Gill;
+    font-size: 0.75em;
+    margin-bottom: 0.25em;
+    text-align: justify
+    }
+.si-footnotes {
+    display: block;
+    margin: 4em 0 1em
+    }
+.si-noteref {
+    color: #7A7A7A;
+    font-size: 0.75em;
+    padding-left: 0.1em;
+    text-decoration: none;
+    vertical-align: super
+    }
+.title {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    margin: 0 5pt
+    }
+.trans {
+    display: block;
+    font-family: "Gill";
+    font-size: 0.75em;
+    line-height: 1.5em;
+    margin-top: 1.5em
+    }
+.work {
+    display: block;
+    font-family: "Goudy";
+    font-size: 2em;
+    line-height: 1.2;
+    margin-top: 0.3em
+    }

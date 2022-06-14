@@ -1,0 +1,64 @@
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:normal;src:url(../Fonts/ALEGREYA-REGULAR.OTF)}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:bold;src:url(../Fonts/ALEGREYA-BOLD.OTF)}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:bold;src:url(../Fonts/ALEGREYA-BOLDITALIC.OTF)}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:normal;src:url(../Fonts/ALEGREYA-ITALIC.OTF)}
+@font-face{font-family:"Caslon Antique";font-style:normal;font-weight:normal;src:url(../Fonts/CASLONANTIQUE_0.TTF)}
+@font-face{font-family:"Caslon Antique";font-style:normal;font-weight:bold;src:url(../Fonts/CASLONANTIQUE-BOLD_0.TTF)}
+@font-face{font-family:"Caslon Antique";font-style:italic;font-weight:normal;src:url(../Fonts/CASLONANTIQUE-ITALIC.TTF)}
+@font-face{font-family:"Caflisch Script Pro Regular";font-style:normal;font-weight:normal;src:url(../Fonts/CAFLISCHSCRIPTPRO-REGULAR-81180.OTF)}
+@font-face{font-family:"TRViner Hand ITC";font-style:normal;font-weight:normal;src:url(../Fonts/TRVINER HAND ITC.TTF)}
+@font-face{font-family:"TRdearJoe 2";font-style:normal;font-weight:normal;src:url(../Fonts/TRDEARJOE 2.TTF)}
+
+
+
+@page{margin-left:0.2cm;margin-right:0.2cm;margin-top:0.2cm;margin-bottom:0.2cm}
+body{margin:0}
+
+
+
+p{text-indent:1.1em;line-height:110%;margin-left:0;margin-right:0;margin-top:.5em;margin-bottom:.5em;text-align:justify;font-family:Alegreya,monospace;orphans: 2;widows: 2;font-size:100%}
+
+.p0{text-indent:1.4em;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:1.4em;text-align:center;margin-bottom:0}
+.p2{text-indent:1.4em;line-height:100%;text-align:center;margin-bottom:0}
+.p3{text-indent:1.4em;text-align:center}
+.p4{text-indent:1.4em;margin-left:3.5em;line-height:100%;margin-bottom:0}
+.p5{text-indent:1.4em;margin-left:3.5em;line-height:100%;margin-top:0;margin-bottom:0}
+.p6{text-indent:1.4em;line-height:100%;margin-top:0;margin-bottom:0}
+.p7{text-indent:1.4em;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p8{text-indent:0;margin-left:9.5em;line-height:100%;margin-top:0;margin-bottom:0}
+.p9{text-indent:0;margin-left:9.5em;margin-bottom:0}
+.p10{text-indent:0;margin-left:0;text-align:center}
+.p12{text-indent:1.4em;text-align:center;margin-bottom:1em}
+.p13{text-indent:0;margin-left:0;text-align:right}
+.p14{text-indent:0;margin-left:0;line-height:200%;text-align:right}
+.p15{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p16{text-indent:0}
+h1{text-indent:0;margin-left:0;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.75em;margin-bottom:.38em;font-family:"Caslon Antique";font-size:145%;font-weight:normal}
+.h11{text-indent:0}
+.t2{vertical-align:.75em}
+.t3{font-family:"Caslon Antique";font-size:3.8em;line-height:110%;vertical-align:.2em}
+.t4{font-family:"Caslon Antique";font-size:3.8em;line-height:110%;vertical-align:.28em}
+.t5{font-family:"Caslon Antique";font-size:4em;line-height:110%;vertical-align:.19em}
+.t6{font-family:"Caslon Antique";font-size:2.2em;line-height:100%;font-weight:bold;letter-spacing:.15em}
+.t7{font-family:"Caslon Antique";font-size:1.5em;line-height:110%}
+.t8{font-family:"Caslon Antique"}
+.t9{font-size:.75em;line-height:100%}
+.t11{font-size:.83em;line-height:100%}
+.t12{font-size:.83em;line-height:110%}
+.t13{font-size:.83em;line-height:100%;font-weight:bold}
+.t14{font-size:1.5em;line-height:110%;font-weight:bold}
+.t15{font-family:"Caslon Antique"}
+.t16{font-family:"Caslon Antique";font-weight:bold}
+.t17{font-family:"Caslon Antique";font-size:1.2em;line-height:110%}
+.t18{font-size:.65em;line-height:110%;vertical-align:super}
+.t19{font-style:italic}
+.t20{font-family:"Caflisch Script Pro Regular",sans-serif;font-size:1.3em;line-height:110%}
+.t21{font-family:"TRViner Hand ITC",cursive;font-size:1.2em;line-height:110%}
+.t22{font-family:"TRdearJoe 2";font-size:1.2em;line-height:110%}
+.t23{font-family:"TRdearJoe 2";font-size:1.2em;line-height:100%}
+.t24{font-family:"TRdearJoe 2";font-size:1.2em;line-height:200%}
+.t25{font-weight:bold;font-style:italic;font-size:1.3em}
+.t26{font-weight:bold;font-style:italic}
+.t27{font-family:"Caslon Antique";font-size:.98em;line-height:110%;vertical-align:super}
+.t28{font-size:.54em;line-height:100%;vertical-align:super}

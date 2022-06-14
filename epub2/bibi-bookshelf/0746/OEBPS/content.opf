@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Aslan Asker Şvayk</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Hasek, Jaroslav">Jaroslav Hasek</dc:creator>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750723803</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor id="translator">Celâl Üster</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2016-11-04</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">4b346a2f-d7d9-4d85-a4e8-5218e4f747cf</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789750723803</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface1.xhtml" id="preface1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/prologue.xhtml" id="prologuexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface2.xhtml" id="preface2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part1.xhtml" id="part1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="chapter8xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="chapter9xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="chapter10xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="chapter11xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="chapter12xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter13.xhtml" id="chapter13xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter14.xhtml" id="chapter14xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter15.xhtml" id="chapter15xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/conclusion.xhtml" id="conclusionxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part2.xhtml" id="part2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter16.xhtml" id="chapter16xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter17.xhtml" id="chapter17xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter18.xhtml" id="chapter18xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter19.xhtml" id="chapter19xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter20.xhtml" id="chapter20xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part3.xhtml" id="part3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter21.xhtml" id="chapter21xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter22.xhtml" id="chapter22xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter23.xhtml" id="chapter23xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter24.xhtml" id="chapter24xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part4.xhtml" id="part4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter25.xhtml" id="chapter25xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter26.xhtml" id="chapter26xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter27.xhtml" id="chapter27xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notice.xhtml" id="noticexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Images/aslan1.jpg" id="image__aslan1jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan2.jpg" id="image__aslan2jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan3.jpg" id="image__aslan3jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan4.jpg" id="image__aslan4jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan5.jpg" id="image__aslan5jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan6.jpg" id="image__aslan6jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan7.jpg" id="image__aslan7jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan8.jpg" id="image__aslan8jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan9.jpg" id="image__aslan9jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan10.jpg" id="image__aslan10jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan11.jpg" id="image__aslan11jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan12.jpg" id="image__aslan12jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan13.jpg" id="image__aslan13jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan14.jpg" id="image__aslan14jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan15.jpg" id="image__aslan15jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan16.jpg" id="image__aslan16jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan17.jpg" id="image__aslan17jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan18.jpg" id="image__aslan18jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan19.jpg" id="image__aslan19jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan20.jpg" id="image__aslan20jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan21.jpg" id="image__aslan21jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan22.jpg" id="image__aslan22jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan23.jpg" id="image__aslan23jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan24.jpg" id="image__aslan24jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan25.jpg" id="image__aslan25jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan26.jpg" id="image__aslan26jpg" media-type="image/jpeg"/>
+    <item href="Images/aslan27.jpg" id="image__aslan27jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/GillSansStd-Light.ttf" id="font__GillSansStd-Lightttf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/GillSansStd-LightItalic.ttf" id="font__GillSansStd-LightItalicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage_u1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="preface1xhtml"/>
+    <itemref idref="prologuexhtml"/>
+    <itemref idref="preface2xhtml"/>
+    <itemref idref="part1xhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+    <itemref idref="chapter8xhtml"/>
+    <itemref idref="chapter9xhtml"/>
+    <itemref idref="chapter10xhtml"/>
+    <itemref idref="chapter11xhtml"/>
+    <itemref idref="chapter12xhtml"/>
+    <itemref idref="chapter13xhtml"/>
+    <itemref idref="chapter14xhtml"/>
+    <itemref idref="chapter15xhtml"/>
+    <itemref idref="conclusionxhtml"/>
+    <itemref idref="part2xhtml"/>
+    <itemref idref="chapter16xhtml"/>
+    <itemref idref="chapter17xhtml"/>
+    <itemref idref="chapter18xhtml"/>
+    <itemref idref="chapter19xhtml"/>
+    <itemref idref="chapter20xhtml"/>
+    <itemref idref="part3xhtml"/>
+    <itemref idref="chapter21xhtml"/>
+    <itemref idref="chapter22xhtml"/>
+    <itemref idref="chapter23xhtml"/>
+    <itemref idref="chapter24xhtml"/>
+    <itemref idref="part4xhtml"/>
+    <itemref idref="chapter25xhtml"/>
+    <itemref idref="chapter26xhtml"/>
+    <itemref idref="chapter27xhtml"/>
+    <itemref idref="noticexhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage_u1.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

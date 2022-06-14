@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Palatino Linotype";
+    panose-1: 2 4 5 2 5 5 5 3 3 4;
+    src: url(../Fonts/Palatino-Linotype.ttf)
+    }
+@font-face {
+    font-style: italic;
+    font-family: "Palatino Linotype";
+    panose-1: 2 4 5 2 5 3 5 10 3 4;
+    src: url(../Fonts/Palatino-Linotype-Italic.ttf)
+    }
+@font-face {
+    font-weight: bold;
+    font-family: "Palatino Linotype";
+    panose-1: 2 4 7 2 6 3 5 10 2 4;
+    src: url(../Fonts/Palatino-Linotype-Bold.ttf)
+    }
+@font-face {
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Palatino Linotype";
+    panose-1: 2 4 7 2 6 3 5 10 2 4;
+    src: url(../Fonts/Palatino-Linotype-Bold-Italic.ttf)
+    }

@@ -1,0 +1,399 @@
+p {
+  text-indent: 0.61em;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.61em;
+  font-family: "Times New Roman", serif;
+  font-size: 127%;
+}
+.p0 {
+  text-indent: 0.61em;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.61em;
+  font-family: "Times New Roman", serif;
+  font-size: "40";
+}
+.p1 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-bottom: 0;
+}
+.p2 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+}
+.p3 {
+  text-indent: 0.61em;
+  margin-left: 1.6em;
+  margin-right: 1.6em;
+  margin-top: 4.1em;
+}
+.p4 {
+  text-indent: 0.61em;
+  margin-left: 1.6em;
+  margin-right: 1.6em;
+  text-align: center;
+  margin-top: 4.1em;
+}
+.p5 {
+  text-indent: 0.61em;
+  margin-left: 1.6em;
+  margin-right: 1.6em;
+  text-align: center;
+  margin-bottom: 1em;
+}
+.p6 {
+  text-indent: 0.61em;
+  margin-left: 1.6em;
+  margin-right: 1.6em;
+  text-align: center;
+  margin-bottom: 7.1em;
+}
+.p7 {
+  text-indent: 0.61em;
+  margin-left: 1.6em;
+  margin-right: 1.6em;
+  text-align: center;
+}
+.p8 {
+  text-indent: 0.61em;
+  margin-left: 1.6em;
+  margin-right: 1.6em;
+  text-align: center;
+  margin-bottom: 9.1em;
+}
+.p9 {
+  text-indent: 0.61em;
+  margin-left: 1.6em;
+  margin-right: 1.6em;
+  text-align: center;
+  margin-bottom: 0;
+}
+.p10 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  page-break-after: avoid;
+  margin-top: 4.1em;
+  margin-bottom: 2em;
+}
+.p11 {
+  text-indent: 0.61em;
+  margin-left: 1.6em;
+  margin-right: 1.6em;
+}
+.p13 {
+  text-indent: 0.61em;
+  margin-bottom: 1em;
+}
+.p14 {
+  text-indent: 0.61em;
+  text-align: right;
+}
+.p15 {
+  text-indent: 0.61em;
+  text-align: center;
+  margin-top: 10em;
+}
+.p16 {
+  text-indent: 0.61em;
+  text-align: center;
+}
+.p17 {
+  text-indent: 0;
+  margin-top: 2.4em;
+}
+.p18 {
+  text-indent: 0.61em;
+  margin-bottom: 2em;
+}
+.p19 {
+  text-indent: 0;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 0.2em;
+}
+.p20 {
+  text-indent: 0;
+  margin-left: 3em;
+  margin-right: 2em;
+  margin-bottom: 0.2em;
+}
+.p21 {
+  text-indent: 0;
+  margin-left: 3em;
+  margin-right: 2em;
+  margin-bottom: 1em;
+}
+.p22 {
+  text-indent: 0;
+  margin-left: 3em;
+  margin-right: 2em;
+  margin-bottom: 2em;
+}
+.p23 {
+  text-indent: 0.61em;
+  text-align: center;
+  margin-bottom: 0.2em;
+}
+.p24 {
+  text-indent: 0;
+  margin-left: 0;
+}
+.p25 {
+  text-indent: 0;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 2em;
+}
+.p26 {
+  text-indent: 0;
+  margin-left: 2em;
+  margin-right: 2em;
+  page-break-after: avoid;
+  margin-bottom: 0.2em;
+}
+.p27 {
+  text-indent: 0.61em;
+  margin-bottom: 3em;
+}
+.p28 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-bottom: 0.2em;
+}
+.p29 {
+  text-indent: 0.61em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.p30 {
+  text-indent: 0.61em;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 2em;
+}
+.p31 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: left;
+  page-break-after: avoid;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.p32 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: left;
+  page-break-after: avoid;
+  margin-top: 1.4em;
+  margin-bottom: 1.4em;
+}
+.p33 {
+  text-indent: -1.2em;
+  margin-left: 1.2em;
+  margin-bottom: 0.4em;
+}
+.p34 {
+  text-indent: -1.2em;
+  margin-left: 1.2em;
+  text-align: left;
+  margin-bottom: 0.4em;
+}
+.p35 {
+  text-indent: 0;
+  margin-left: 1.2em;
+  margin-bottom: 0.4em;
+}
+.p36 {
+  text-indent: 0;
+  margin-left: 1.2em;
+  margin-bottom: 0;
+}
+.p37 {
+  text-indent: 0;
+}
+.t1 {
+  font-size: 0.86em;
+  line-height: 100%;
+}
+.t2 {
+  font-size: 0.79em;
+  line-height: 100%;
+}
+.t3 {
+  font-size: 0.79em;
+  line-height: 100%;
+  font-weight: bold;
+}
+.t5 {
+  font-style: italic;
+  font-family: "Times New Roman", serif;
+  font-size: "40";
+}
+.t6 {
+  font-size: 1.3em;
+  line-height: 100%;
+}
+.t7 {
+  font-size: 1.1em;
+  line-height: 100%;
+}
+.t8 {
+  font-size: 0.86em;
+  line-height: 100%;
+  font-weight: bold;
+  font-style: italic;
+}
+.t9 {
+  font-size: 1.4em;
+  line-height: 100%;
+  font-weight: bold;
+  font-style: italic;
+}
+.t10 {
+  font-size: 0.65em;
+  line-height: 100%;
+  vertical-align: super;
+}
+.t11 {
+  font-weight: bold;
+}
+.t12 {
+  font-size: 1.3em;
+  line-height: 100%;
+  font-weight: bold;
+}
+.t13 {
+  font-size: 0.93em;
+  line-height: 100%;
+  font-style: italic;
+}
+.t14 {
+  font-size: 0.65em;
+  line-height: 100%;
+  font-style: italic;
+  vertical-align: super;
+}
+.t15 {
+  font-style: italic;
+  color: blue;
+  text-decoration: underline;
+}
+.t16 {
+  color: blue;
+  text-decoration: underline;
+}
+.t17 {
+  font-size: 1.4em;
+  line-height: 100%;
+  font-weight: bold;
+  font-style: italic;
+  color: blue;
+}
+.t18 {
+  font-size: 0.46em;
+  line-height: 100%;
+  vertical-align: super;
+}
+.t19 {
+  font-size: 0.71em;
+  line-height: 100%;
+}
+.t20 {
+  font-size: 0.71em;
+  line-height: 100%;
+  font-style: italic;
+}
+.t21 {
+  font-size: 0.71em;
+  line-height: 100%;
+  font-style: italic;
+  color: blue;
+  text-decoration: underline;
+}
+.t22 {
+  font-size: 0.71em;
+  line-height: 100%;
+  text-decoration: underline;
+}
+h1.header1 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  page-break-after: avoid;
+  margin-top: 4.1em;
+  margin-bottom: 2em;
+  font-family: "Times New Roman";
+  font-size: 180%;
+  line-height: 100%;
+  font-weight: bold;
+  font-style: italic;
+  page-break-before: always;
+}
+h1.header1b {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: left;
+  page-break-after: avoid;
+  margin-top: 2.05em;
+  margin-bottom: 2em;
+  font-family: "Times New Roman";
+  font-size: 180%;
+  line-height: 100%;
+  font-weight: bold;
+  font-style: italic;
+  page-break-before: always;
+}
+/* Ilk Harfi Buyuk Olan Paragraflar Icin */
+.p_first_capital {
+  text-indent: 0;
+  margin-top: 2.4em;
+}
+span.first_capital {
+  font-size: 328%;
+  font-weight: regular;
+  float: left;
+  margin-top: -10px;
+  margin-bottom: -30px;
+  margin-left: 10px;
+  margin-right: 2px;
+}
+/* Alttan Kuyruklu Harfler Icin */
+span.first_capital_tail {
+  font-size: 328%;
+  font-weight: regular;
+  float: left;
+  margin-top: -10px;
+  margin-bottom: -10px;
+  margin-left: 10px;
+  margin-right: 2px;
+}
+/* I Harfi Icin */
+span.first_capital_thin {
+  font-size: 328%;
+  font-weight: regular;
+  float: left;
+  margin-top: -10px;
+  margin-bottom: -20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+/* G Harfi Icin */
+span.first_capital_thin {
+  font-size: 328%;
+  font-weight: regular;
+  float: left;
+  margin-top: -15px;
+  margin-bottom: -20px;
+  margin-left: 10px;
+  margin-right: 5px;
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Calvino, Italo">Italo Calvino</dc:creator>
+<dc:identifier id="EPB-UUID" opf:scheme="uuid">xxxx-xxxxx-xxxxx-xxxxxxxxx</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.4" name="Sigil version"/>
+    <dc:date>2008-06-22T21:00:00+00:00</dc:date>
+  <meta name="calibre:title_sort" content="San Giovanni Yolu"/>
+<dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Birbirimizle konuşmamız güçtü. Gerçi ikimiz de mizaç olarak konuşkandık, sular seller gibi konuşurduk, ama bir aradayken susar, San Giovanni Yolu boyunca sessizce yan yana yürürdük. Sözler, babam için, şeyleri doğrulama ve mülkiyet göstergesi işlevini görmeliydi; benim içinse, belli belirsiz gördüğümüz, sahip olmadığımız, varsaydığımız şeylere ilişkin öngörülerden ibaretti.&lt;/span&gt;&lt;p style="margin: 0px 0px 10px; padding: 0px;"&gt;İlk kez Türkçeye çevrilen San Giovanni Yolu, Italo Calvino'nun kelimelerle kurduğu benzersiz ilişkiyi, yazının lezzetini okura yine son derece güçlü bir biçimde sunduğu beş çarpıcı metni bir araya getiriyor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Italo Calvino&quot;: &quot;&quot;}"/>
+<dc:title>San Giovanni Yolu</dc:title>
+<dc:subject>Deneme</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">383dcae6-7c92-438b-ad2b-ee6eeaa09371</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750814471</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;comments&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/CoverDesign.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/CoverPage.html" id="CoverPage_html" media-type="application/xhtml+xml"/>
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0005.html" id="section-0005_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0006.html" id="section-0006_html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0008.html" id="section-0008_html" media-type="application/xhtml+xml"/>
+    <item href="Images/image0.jpg" id="image0_jpg" media-type="image/jpeg"/>
+    <item href="Images/Ads_z1.jpg" id="Ads_z1_jpg" media-type="image/jpeg"/>
+    <item href="Images/image2.jpg" id="image2_jpg" media-type="image/jpeg"/>
+    <item href="Images/image3.jpg" id="image3_jpg" media-type="image/jpeg"/>
+    <item href="Images/image4.jpg" id="image4_jpg" media-type="image/jpeg"/>
+    <item href="Text/section-0007.html" id="section-0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverPage_html"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+    <itemref idref="section-0004_html"/>
+    <itemref idref="section-0005_html"/>
+    <itemref idref="section-0006_html"/>
+    <itemref idref="section-0007.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="Section0005.html"/>
+    <itemref idref="section-0008_html"/>
+  </spine>
+  <guide>
+    <reference href="Text/CoverPage.html" title="Cover Page" type="cover"/>
+  </guide>
+</package>

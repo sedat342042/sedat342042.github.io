@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Camus, Albert">Albert Camus</dc:creator>
+<dc:publisher>Can Yayınları</dc:publisher>
+    <meta name="calibre:title_sort" content="Veba"/>
+    <meta name="calibre:timestamp" content="2014-04-18T09:19:11.515000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2000-01-24T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b3557fc4-59d8-40f9-89c3-88835c6e380f</dc:identifier>
+    <dc:title>Veba</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:description>&lt;p&gt;Camus adı çoğu okur için Yabancı romanıyla özdeşleşir. Ancak yazarın en önemli yapıtı aslında "Veba"dır. Keskin bir gözlem gücünün desteklediği arı bir bilinçle Veba, yalnızca çağımızın değil, tüm insanlık tarihinin ortak bir sorununa değinir: Felaketin yazgıya dönüşmesi. Camus'nün hiçbir yapıtında böyle acı bir yazgı, böylesine şiirsel bir dille ele alınmamıştır. "Veba", insanın ve ışığın şiiridir. Bu şiirde renkler alabildiğine koyu, ancak yazarın sesi o denli umut doludur. Beklenmedik bir boyuta ulaşan veba salgını tüm Oranlıları ilkin umutsuzluğa boğar, ardından Doktor Rieux, Tarron ve Grand'ın gösterdikleri dayanışma örneği, başta yetkililer olmak üzere herkese bir güç ve umut kaynağı olur.&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Albert Camus&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">83a9a697-8287-482c-a7ff-ff385fc6be61</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755107677</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

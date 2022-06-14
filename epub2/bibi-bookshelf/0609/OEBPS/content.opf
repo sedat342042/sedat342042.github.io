@@ -1,0 +1,137 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Tanpınar, Ahmet Hamdi">Ahmet Hamdi Tanpınar</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:date>1999-08-31T21:00:00+00:00</dc:date>
+    <dc:publisher>Dergah Yayınları</dc:publisher>
+    <meta content="0.5.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Huzur"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ahmet Hamdi Tanpınar&quot;: &quot;&quot;}"/>
+  <dc:title>Huzur</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Türk Edebiyatı</dc:subject>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Tanpınar, kültürümüzü bir "iç âlem medeniyeti"nin tezahürü olarak görür. Bu medeniyeti, belirli bir ahlâkı taşıyan "mânevi vazifelerine inanmış, muayyen bir ruh nizamından geçmiş, nefislerini terbiye etmiş" insanlar meydana getirmiştir. Huzur'un kahramanlarından Mümtaz, roman boyunca kendisini "huzur"a kavuşturacak bir "iç nizam"ı aramaktadır. Eserde hastalık, ölüm, tabiat, kozmik unsurlar, medeniyet, sosyal meseleler, çeşitli ruh halleri ve estetik fikirler iç içe verilir. Ancak bütün bunların üzerinde romana hâkim olan Mümtaz'la Nuran'ın aşklarıdır. İstanbul, bu aşkın yaşandığı çevre olmaktan çıkarak, âdeta bir roman kahramanı gibi ele alınır. Huzur için, belli bir dünya görüşüne, bir hayat nizamına kavuşamamış Cumhuriyet aydınlarının "huzursuzlukları"nı dile getiriyor denebilir.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.24.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">ebf0c878-78c5-4281-9ba4-41d1d2727d62</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789759952471</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/telif.xhtml" id="telif.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dikkat.xhtml" id="dikkat.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal1.xhtml" id="nakkal1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic11.xhtml" id="ic11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic12.xhtml" id="ic12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic13.xhtml" id="ic13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic14.xhtml" id="ic14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic15.xhtml" id="ic15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic16.xhtml" id="ic16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic17.xhtml" id="ic17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal2.xhtml" id="nakkal2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic21.xhtml" id="ic21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic22.xhtml" id="ic22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic23.xhtml" id="ic23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic24.xhtml" id="ic24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic25.xhtml" id="ic25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic26.xhtml" id="ic26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic27.xhtml" id="ic27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic28.xhtml" id="ic28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic29.xhtml" id="ic29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic210.xhtml" id="ic210.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic211.xhtml" id="ic211.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic212.xhtml" id="ic212.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic213.xhtml" id="ic213.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal3.xhtml" id="nakkal3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic31.xhtml" id="ic31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic32.xhtml" id="ic32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic33.xhtml" id="ic33.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic34.xhtml" id="ic34.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic35.xhtml" id="ic35.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic36.xhtml" id="ic36.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic37.xhtml" id="ic37.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic38.xhtml" id="ic38.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic39.xhtml" id="ic39.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic310.xhtml" id="ic310.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic311.xhtml" id="ic311.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic312.xhtml" id="ic312.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic313.xhtml" id="ic313.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal4.xhtml" id="nakkal4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic41.xhtml" id="ic41.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic42.xhtml" id="ic42.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic43.xhtml" id="ic43.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic44.xhtml" id="ic44.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic45.xhtml" id="ic45.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic46.xhtml" id="ic46.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Images/Art_Pcommon.jpg" id="Art_Pcommon.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/Nakkal Siyah.png" id="Nakkal_Siyah.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="telif.xhtml"/>
+    <itemref idref="dikkat.xhtml"/>
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="nakkal1.xhtml"/>
+    <itemref idref="ic11.xhtml"/>
+    <itemref idref="ic12.xhtml"/>
+    <itemref idref="ic13.xhtml"/>
+    <itemref idref="ic14.xhtml"/>
+    <itemref idref="ic15.xhtml"/>
+    <itemref idref="ic16.xhtml"/>
+    <itemref idref="ic17.xhtml"/>
+    <itemref idref="nakkal2.xhtml"/>
+    <itemref idref="ic21.xhtml"/>
+    <itemref idref="ic22.xhtml"/>
+    <itemref idref="ic23.xhtml"/>
+    <itemref idref="ic24.xhtml"/>
+    <itemref idref="ic25.xhtml"/>
+    <itemref idref="ic26.xhtml"/>
+    <itemref idref="ic27.xhtml"/>
+    <itemref idref="ic28.xhtml"/>
+    <itemref idref="ic29.xhtml"/>
+    <itemref idref="ic210.xhtml"/>
+    <itemref idref="ic211.xhtml"/>
+    <itemref idref="ic212.xhtml"/>
+    <itemref idref="ic213.xhtml"/>
+    <itemref idref="nakkal3.xhtml"/>
+    <itemref idref="ic31.xhtml"/>
+    <itemref idref="ic32.xhtml"/>
+    <itemref idref="ic33.xhtml"/>
+    <itemref idref="ic34.xhtml"/>
+    <itemref idref="ic35.xhtml"/>
+    <itemref idref="ic36.xhtml"/>
+    <itemref idref="ic37.xhtml"/>
+    <itemref idref="ic38.xhtml"/>
+    <itemref idref="ic39.xhtml"/>
+    <itemref idref="ic310.xhtml"/>
+    <itemref idref="ic311.xhtml"/>
+    <itemref idref="ic312.xhtml"/>
+    <itemref idref="ic313.xhtml"/>
+    <itemref idref="nakkal4.xhtml"/>
+    <itemref idref="ic41.xhtml"/>
+    <itemref idref="ic42.xhtml"/>
+    <itemref idref="ic43.xhtml"/>
+    <itemref idref="ic44.xhtml"/>
+    <itemref idref="ic45.xhtml"/>
+    <itemref idref="ic46.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover"/>
+    <reference href="Text/toc.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/rica.html" title="Text" type="text"/>
+    <reference href="Text/dikkat.xhtml" title="Text" type="text"/>
+    <reference href="Text/nakkal1.xhtml" title="Text" type="text"/>
+    <reference href="Text/nakkal2.xhtml" title="Text" type="text"/>
+    <reference href="Text/nakkal3.xhtml" title="Text" type="text"/>
+    <reference href="Text/nakkal4.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

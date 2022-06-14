@@ -1,0 +1,122 @@
+hr {
+  display: none;
+}
+/*IMAGES*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+/*----H----*/
+h1 {
+  margin-bottom: 2em;
+  margin-top: 2em;
+  text-align: center;
+}
+h1 span {
+  display: block;
+  margin-top: 1em;
+}
+/*YAZAR*/
+.aut {
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.aut p {
+  text-indent: 0;
+  text-align: justify;
+}
+/*----Künye----*/
+.copyright > p:last-child {
+  margin-bottom: 0;
+}
+.copyright p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-indent: 0;
+  text-align: center;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: right;
+}
+.seri {
+  margin: 1em auto 0.2em auto;
+}
+.author {
+  margin: 0.5em auto 0.2em auto;
+}
+.title {
+  margin: 0;
+}
+.trans {
+  margin-top: 1.5em;
+}
+.trans span {
+  display: block;
+}
+.logo {
+  margin: 6em auto 0 auto;
+}
+/*Önsöz*/
+/*----Block----*/
+.clear {
+  clear: both;
+}
+.epigraf {
+  max-width: 20em;
+  float: right;
+  text-align: justify;
+  margin-bottom: 1.5em;
+}
+.epigraf span {
+  display: block;
+}
+.center {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+  text-indent: 0;
+}
+/*----P----*/
+p {
+  font-size: 0.93em;
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+/******FOOTNOTE******/
+.footnote {
+  font-size: 0.851em;
+  margin-bottom: 0.25em;
+  margin-left: 1em;
+  text-align: justify;
+  text-indent: 0;
+}
+.footnotelabel {
+  width: 1.5em;
+  float: left;
+  font-size: 0.8em;
+  line-height: 165%;
+}
+.footnoteref, .footnotetarget {
+  text-decoration: none;
+  color: black;
+  border: 1px solid #999;
+  font-size: 80%;
+  padding: 1px;
+  padding-top: 3px;
+  font-style: normal;
+  font-weight: normal;
+}
+.footnotecontent {
+  padding-left: 1.8em;
+  margin-bottom: 10px;
+}
+.footnotecontent p {
+  text-indent: 0;
+  margin-left: 15px;
+  vertical-align: middle;
+  page-break-before: avoid;
+  margin-top: 1px;
+}

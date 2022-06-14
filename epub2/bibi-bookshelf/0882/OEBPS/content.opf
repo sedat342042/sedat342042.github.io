@@ -1,0 +1,40 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">İslam'ın Siyasallaşması</dc:title>
+    <dc:creator id="id-1">Kemal H. Karpat</dc:creator>
+    <dc:identifier>calibre:654</dc:identifier>
+    <dc:identifier>uuid:4f04cd45-fbb2-41b9-968d-4b6e4a7b3b18</dc:identifier>
+    <dc:identifier id="bookid">urn:uuid:7ef5cbb5-fd35-4571-9559-5375188ed07d</dc:identifier>
+    <dc:language>en-GB</dc:language>
+    <dc:contributor id="id-2">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">İslam'ın Siyasallaşması</meta>
+    <meta content="Adobe InDesign 10.0" name="generator"/>
+    <meta name="cover" content="islaminsiyasallasmasi-kapak.jpg"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2016-11-10T08:55:38Z</meta>
+    <meta property="role" refines="#id-2" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id-1">Karpat, Kemal H.</meta>
+    <meta property="calibre:author_link_map">{"Kemal H. Karpat": ""}</meta>
+  </metadata>
+  <manifest>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="islaminsiyasallasmasi-epub.xhtml" id="islaminsiyasallasmasi-epub" media-type="application/xhtml+xml"/>
+    <item href="islaminsiyasallasmasi-epub-1.xhtml" id="islaminsiyasallasmasi-epub-1" media-type="application/xhtml+xml"/>
+    <item href="islaminsiyasallasmasi-epub-2.xhtml" id="islaminsiyasallasmasi-epub-2" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/214.png" id="x214.png" media-type="image/png"/>
+    <item href="image/islaminsiyasallasmasi-kapak.jpg" id="islaminsiyasallasmasi-kapak.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="image/timaslogo.jpg" id="timaslogo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="islaminsiyasallasmasi-epub"/>
+    <itemref idref="islaminsiyasallasmasi-epub-1"/>
+    <itemref idref="islaminsiyasallasmasi-epub-2"/>
+  </spine>
+</package>

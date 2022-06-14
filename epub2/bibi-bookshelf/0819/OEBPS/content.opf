@@ -1,0 +1,119 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">ac23f136-e5d1-492a-9389-f7739e7d5db5</dc:identifier>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:description>Gedeon Spilett, Nab, Pencroff ve Harbert Brown , General Ulysse Grant’ın birlikleri tarafından kuşatılmış olan Richmond’da esir düşmüşlerdir. Bu korkunç iç savaşta esir olarak kalmayı içlerine sindiremeyen bu beş cesur adam, Jonathan Forster’ın, kuşatma birliklerini havadan aşarak ayrılıkçıların kampına ulaşabilmek için kullanmayı düşündüğü balonla hapsoldukları şehirden kaçarlar. Ortalığı cehenneme çeviren kasırga onları Richmond’ın yedi bin mil ötesindeki, ıssız bir adaya sürükler. Kaçışa beş adam ve bir köpekle başlayan tutsaklar, adaya sadece dört kişi olarak inebilmişlerdir. Silahsız, yiyeceksiz, giyeceksiz ve barınaksız durumda, ıssız bir adaya düşen tutsakların sahip olduğu tek şey birbirlerine olan güvenleri ve dayanışmadır. Esrarlı Ada’nın ilk cildinde Jules Verne, en zor şartlarda bile bir ümidin daima varolduğunu sürükleyici bir kurgu içinde anlatıyor.</dc:description>
+    <meta content="Esrarlı Ada 1. Cilt" name="calibre:title_sort"/>
+    <meta content="2014-07-07T06:33:17.191000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_kapak.jpeg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2005-08-29T21:00:00+00:00</dc:date>
+  <dc:title>Esrarlı Ada 1. Cilt</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Gizem</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d64f405f-2587-42dc-b803-bb7733d539ce</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758607754</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Text/S11.html" id="S11.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S15.html" id="S15.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S22.html" id="S22.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S29.html" id="S29.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S34.html" id="S34.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Harita.html" id="Harita.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css"/>
+    <item href="Text/S01.html" id="S01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S02.html" id="S02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S03.html" id="S03.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S04.html" id="S04.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S06.html" id="S06.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S07.html" id="S07.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S08.html" id="S08.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S09.html" id="S09.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S10.html" id="S10.html" media-type="application/xhtml+xml"/>
+    <item href="Text/DiPNOTLAR.xhtml" id="DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S12.html" id="S12.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S13.html" id="S13.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S14.html" id="S14.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S16.html" id="S16.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S17.html" id="S17.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S18.html" id="S18.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S19.html" id="S19.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S20.html" id="S20.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S21.html" id="S21.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S23.html" id="S23.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S24.html" id="S24.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S25.html" id="S25.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S26.html" id="S26.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S28.html" id="S28.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S30.html" id="S30.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S31.html" id="S31.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S32.html" id="S32.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S33.html" id="S33.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S36.html" id="S36.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S35.html" id="S35.html" media-type="application/xhtml+xml"/>
+    <item href="Images/Ithaki.jpg" id="Ithaki.jpg" media-type="image/jpeg"/>
+    <item href="Images/499294334_8639763b88_o.jpg" id="x499294334_8639763b88_o.jpg" media-type="image/jpeg"/>
+    <item href="Text/S05.html" id="S05.html" media-type="application/xhtml+xml"/>
+    <item href="Text/S27.html" id="S27.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="S01.html"/>
+    <itemref idref="S02.html"/>
+    <itemref idref="S03.html"/>
+    <itemref idref="S04.html"/>
+    <itemref idref="S05.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="S06.html"/>
+    <itemref idref="S07.html"/>
+    <itemref idref="S08.html"/>
+    <itemref idref="S09.html"/>
+    <itemref idref="S10.html"/>
+    <itemref idref="S11.html"/>
+    <itemref idref="S12.html"/>
+    <itemref idref="S13.html"/>
+    <itemref idref="S14.html"/>
+    <itemref idref="S15.html"/>
+    <itemref idref="S16.html"/>
+    <itemref idref="S17.html"/>
+    <itemref idref="S18.html"/>
+    <itemref idref="S19.html"/>
+    <itemref idref="S20.html"/>
+    <itemref idref="S21.html"/>
+    <itemref idref="S22.html"/>
+    <itemref idref="S23.html"/>
+    <itemref idref="S24.html"/>
+    <itemref idref="S25.html"/>
+    <itemref idref="S26.html"/>
+    <itemref idref="S27.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="S28.html"/>
+    <itemref idref="S29.html"/>
+    <itemref idref="S30.html"/>
+    <itemref idref="S31.html"/>
+    <itemref idref="S32.html"/>
+    <itemref idref="S33.html"/>
+    <itemref idref="S34.html"/>
+    <itemref idref="S35.html"/>
+    <itemref idref="S36.html"/>
+    <itemref idref="Harita.html"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:series" content="Wardstone Günlükleri"/>
+    <dc:language>tr</dc:language>
+    <dc:title>HAYALETİN SIRRI</dc:title>
+    <meta name="calibre:timestamp" content="2015-09-27T20:02:37+00:00"/>
+    <dc:contributor opf:role="bkp">calibre (2.39.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Tudem Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:creator opf:file-as="Delaney, Joseph" opf:role="aut">Joseph Delaney</dc:creator>
+    <meta name="cover" content="cover"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">563ae5b9-559f-4356-8471-e1ea93cc1d3a</dc:identifier>
+    <dc:identifier opf:scheme="calibre">563ae5b9-559f-4356-8471-e1ea93cc1d3a</dc:identifier>
+    <meta name="calibre:series_index" content="3"/>
+    <meta name="calibre:title_sort" content="HAYALETİN SIRRI"/>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/image1.jpeg" id="id3" media-type="image/jpeg"/>
+    <item href="images/image2.png" id="id4" media-type="image/png"/>
+    <item href="images/image3.png" id="id5" media-type="image/png"/>
+    <item href="images/image4.png" id="id6" media-type="image/png"/>
+    <item href="images/image5.png" id="id7" media-type="image/png"/>
+    <item href="index_split_000.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

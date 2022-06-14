@@ -1,0 +1,181 @@
+p{text-indent:0;margin-left:0;margin-right:0;text-align:justify;widows:2;orphans:2;margin-top:0;margin-bottom:.61em;font-family:"Times New Roman",serif;font-size:100%;line-height:1.3}
+.p0{text-indent:0;text-align:center;widows:1;orphans:1;margin-bottom:0}
+.p1{text-indent:0;text-align:center;widows:1;orphans:1;margin-top:6.1em;margin-bottom:4.1em}
+.p2{text-indent:0;text-align:center;widows:1;orphans:1;margin-bottom:4.1em}
+.p3{text-indent:0;text-align:center;widows:1;orphans:1;margin-bottom:6.1em}
+.p4{text-indent:0;text-align:center;widows:1;orphans:1}
+.p5{text-indent:0;text-align:center;widows:1;orphans:1;margin-top:0em;margin-bottom:.2em}
+.p6{text-indent:0;text-align:center;widows:1;orphans:1;margin-top:2em;margin-bottom:2em}
+.p7{text-indent:0;text-align:center;widows:1;orphans:1;margin-bottom:2em}
+.p8{text-indent:0;text-align:center;widows:1;orphans:1;margin-bottom:.2em}
+.p9{text-indent:0;text-align:center;widows:1;orphans:1;margin-bottom:3em}
+.p10{text-indent:0;text-align:left;widows:1;orphans:1;margin-top:1.6em;margin-bottom:1em}
+.p11{text-indent:0;widows:1;orphans:1;margin-bottom:.51em}
+.p12{text-indent:0;widows:1;orphans:1}
+.p13{text-indent:0;margin-left:2em;margin-right:2em;text-align:center;widows:1;orphans:1;margin-top:2em}
+.p14{text-indent:0;margin-left:2em;margin-right:2em;text-align:center;widows:1;orphans:1;margin-bottom:2em}
+.p16{text-indent:0;margin-bottom:1.2em}
+.p17{text-indent:0;text-align:center;margin-bottom:.81em}
+.p18{text-indent:0;margin-bottom:1.6em}
+.p19{text-indent:0;margin-left:2em;margin-right:2em;margin-bottom:.4em}
+.p20{text-indent:0;margin-left:2em;margin-right:2em;margin-bottom:1.6em}
+.p21{text-indent:0;margin-bottom:2em}
+.p22{text-indent:0;margin-left:2em;margin-right:2em;margin-bottom:2em}
+.p23{text-indent:0;margin-right:2em}
+.p24{text-indent:0;text-align:center}
+.p25{text-indent:0;margin-left:2em;margin-right:2em;text-align:left}
+.p26{text-indent:0;margin-left:2em;margin-right:2em;text-align:left;margin-bottom:2em}
+.p27{text-indent:0;text-align:center;margin-bottom:1.6em}
+.p28{text-indent:0;text-align:center;margin-bottom:2em}
+.p29{text-indent:-1.2em;margin-left:1.2em;text-align:left;widows:1;orphans:1;margin-bottom:.2em}
+.p30{text-indent:-1.2em;margin-left:1.2em;widows:1;orphans:1;margin-bottom:.2em}
+.p31{text-indent:0}
+
+.t1{font-size:.86em}
+.t3{font-size:1.7em;font-weight:bold;letter-spacing:.083em}
+.t4{font-size:1.3em}
+.t5{font-size:.79em;font-style:italic;text-decoration:underline}
+.t6{font-size:.79em}
+.t7{font-size:1.1em;font-weight:bold}
+.t8{font-size:1.1em}
+.t10{font-size:.86em;font-style:italic}
+.t11{font-size:.86em;font-weight:bold}
+
+.t12{font-family:"Control Freak Upset TR";font-size:.86em;font-weight: normal}
+.t13{font-family:"Control Freak Upset TR";font-size:1.7em;font-weight: normal}
+
+.t14{font-style:italic}
+.t15{font-family:"Courier New",monospace}
+
+.t16{font-family:"Metal Lord";font-size:3.9em;margin-right:0.08em;float:left;margin-bottom:-0.4em}
+
+.t16_k{font-family:"Metal Lord";font-size:3.9em;margin-right:0.08em;float:left;margin-bottom:0em}
+
+.t17{font-size:.65em;vertical-align:super}
+.t18{text-decoration:underline}
+.t19{font-size:.56em;vertical-align:super}
+
+
+
+.image_left{float:left;padding-right:8px}
+.image_right{float:right;padding-left:8px}
+
+
+hr
+{
+  border:            0;
+  width:             100%;
+  color:             #000000;
+  background-color:  #000000;
+  height:            1px;
+  margin-bottom:     25px;
+}
+hr.baslik
+{
+  width: 80%;
+}
+.pHR{text-indent:0;text-align:left;margin-bottom:0px}
+
+
+a{color:#000000}
+a:link {text-decoration: none; color:#000000}
+a:visited {text-decoration: none; color:#000000}
+a:hover {text-decoration: underline; color:#000000}
+a:active {text-decoration: underline; color:#000000}
+
+
+/* Times New Roman --> DejaVu */
+@font-face {
+    font-family: 'Times New Roman';
+    font-weight: normal;
+	font-style:  normal;
+    src: url('../Fonts/DejaVuSerif_Light.ttf');
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    font-weight: normal;
+	font-style:  italic;
+    src: url('../Fonts/DejaVuSerif-Italic_Light.ttf');
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    font-weight: normal;
+	font-style:  oblique;
+    src: url('../Fonts/DejaVuSerif-Italic_Light.ttf');
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    font-weight: bold;
+	font-style:  normal;
+    src: url('../Fonts/DejaVuSerif-Bold_Light.ttf');
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    font-weight: bold;
+	font-style:  italic;
+    src: url('../Fonts/DejaVuSerif-BoldItalic_Light.ttf');
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    font-weight: bold;
+	font-style:  oblique;
+    src: url('../Fonts/DejaVuSerif-BoldItalic_Light.ttf');
+}
+
+
+/* Control Freak Upset TR (Basliklar) */
+@font-face {
+    font-family: 'Control Freak Upset TR';
+    font-weight: normal;
+	font-style:  normal;
+    src: url('../Fonts/Control_Freak_Upset_TR.ttf');
+}
+
+@font-face {
+    font-family: 'Control Freak Upset TR';
+    font-weight: normal;
+	font-style:  italic;
+    src: url('../Fonts/Control_Freak_Upset_TR.ttf');
+}
+
+@font-face {
+    font-family: 'Control Freak Upset TR';
+    font-weight: normal;
+	font-style:  oblique;
+    src: url('../Fonts/Control_Freak_Upset_TR.ttf');
+}
+
+@font-face {
+    font-family: 'Control Freak Upset TR';
+    font-weight: bold;
+	font-style:  normal;
+    src: url('../Fonts/Control_Freak_Upset_TR.ttf');
+}
+
+@font-face {
+    font-family: 'Control Freak Upset TR';
+    font-weight: bold;
+	font-style:  italic;
+    src: url('../Fonts/Control_Freak_Upset_TR.ttf');
+}
+
+@font-face {
+    font-family: 'Control Freak Upset TR';
+    font-weight: bold;
+	font-style:  oblique;
+    src: url('../Fonts/Control_Freak_Upset_TR.ttf');
+}
+
+
+/* Metal Lord (Suslu Harfler) */
+@font-face {
+    font-family: 'Metal Lord';
+    font-weight: normal;
+	font-style:  normal;
+    src: url('../Fonts/Metal_Lord.ttf');
+}

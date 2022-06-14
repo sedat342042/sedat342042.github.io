@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{DF3981B4-B6A4-48D9-91B9-07A9FFFBF1D9}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>On Beş Yaşında Bir Kaptan I</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1. YELKENLİ GEMİ “PİLGRİM”</text>
+      </navLabel>
+      <content src="Text/bolum1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>2. DICK SAND</text>
+      </navLabel>
+      <content src="Text/bolum2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>3. ENKAZ</text>
+      </navLabel>
+      <content src="Text/bolum3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>4. WALDECK’TEN HAYATTA KALANLAR</text>
+      </navLabel>
+      <content src="Text/bolum4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>5. S. V.</text>
+      </navLabel>
+      <content src="Text/bolum5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>6. GÖRÜNEN BİR BALİNA</text>
+      </navLabel>
+      <content src="Text/bolum6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>7. HAZIRLIKLAR</text>
+      </navLabel>
+      <content src="Text/bolum7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>8. LA JUBARTE</text>
+      </navLabel>
+      <content src="Text/bolum8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>9. KAPTAN SAND</text>
+      </navLabel>
+      <content src="Text/bolum9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>10. SONRAKİ DÖRT GÜN</text>
+      </navLabel>
+      <content src="Text/bolum10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>11. FIRTINA</text>
+      </navLabel>
+      <content src="Text/bolum11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>12. UFUKTA</text>
+      </navLabel>
+      <content src="Text/bolum12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>13. KARA! KARA!</text>
+      </navLabel>
+      <content src="Text/bolum13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>14. YAPILMASI GEREKEN</text>
+      </navLabel>
+      <content src="Text/bolum14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>15. HARRIS</text>
+      </navLabel>
+      <content src="Text/bolum15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>16. YOLDA</text>
+      </navLabel>
+      <content src="Text/bolum16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>17. ON GÜNDE YÜZ ELLİ KİLOMETRE</text>
+      </navLabel>
+      <content src="Text/bolum17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>18. DEHŞET VERİCİ!</text>
+      </navLabel>
+      <content src="Text/bolum18.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

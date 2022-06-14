@@ -1,0 +1,325 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 10pt;
+  margin-right: 10pt;
+  margin-top: 0;
+  page-break-before: always;
+}
+.calibre1 {
+  display: block;
+  page-break-after: always;
+}
+.calibre10 {
+  height: 528px;
+  width: 366px;
+}
+.calibre11 {
+  height: 620px;
+  width: 444px;
+}
+.calibre12 {
+  height: 615px;
+  width: 446px;
+}
+.calibre13 {
+  height: 278px;
+  width: 365px;
+}
+.calibre14 {
+  height: 277px;
+  width: 364px;
+}
+.calibre15 {
+  height: 272px;
+  width: 360px;
+}
+.calibre16 {
+  height: 274px;
+  width: 359px;
+}
+.calibre17 {
+  height: 443px;
+  width: 386px;
+}
+.calibre18 {
+  height: 453px;
+  width: 384px;
+}
+.calibre19 {
+  height: 443px;
+  width: 371px;
+}
+.calibre2 {
+  height: 95px;
+  width: 130px;
+}
+.calibre20 {
+  height: 464px;
+  width: 378px;
+}
+.calibre21 {
+  height: 448px;
+  width: 377px;
+}
+.calibre22 {
+  height: 459px;
+  width: 385px;
+}
+.calibre23 {
+  height: 530px;
+  width: 428px;
+}
+.calibre24 {
+  height: 525px;
+  width: 437px;
+}
+.calibre25 {
+  height: 390px;
+  width: 626px;
+}
+.calibre26 {
+  height: 339px;
+  width: 598px;
+}
+.calibre27 {
+  height: 369px;
+  width: 629px;
+}
+.calibre28 {
+  height: 580px;
+  width: 426px;
+}
+.calibre29 {
+  height: 378px;
+  width: 478px;
+}
+.calibre3 {
+  height: 584px;
+  width: 436px;
+}
+.calibre30 {
+  height: 333px;
+  width: 462px;
+}
+.calibre31 {
+  height: 392px;
+  width: 461px;
+}
+.calibre32 {
+  height: 358px;
+  width: 462px;
+}
+.calibre33 {
+  height: 422px;
+  width: 496px;
+}
+.calibre34 {
+  height: 346px;
+  width: 497px;
+}
+.calibre35 {
+  height: 582px;
+  width: 422px;
+}
+.calibre36 {
+  height: 408px;
+  width: 376px;
+}
+.calibre37 {
+  height: 528px;
+  width: 378px;
+}
+.calibre38 {
+  height: 481px;
+  width: 346px;
+}
+.calibre39 {
+  height: 461px;
+  width: 301px;
+}
+.calibre4 {
+  height: 619px;
+  width: 462px;
+}
+.calibre40 {
+  height: 589px;
+  width: 423px;
+}
+.calibre41 {
+  height: 613px;
+  width: 344px;
+}
+.calibre42 {
+  height: 456px;
+  width: 333px;
+}
+.calibre43 {
+  height: 297px;
+  width: 280px;
+}
+.calibre44 {
+  height: 253px;
+  width: 422px;
+}
+.calibre45 {
+  height: 248px;
+  width: 424px;
+}
+.calibre46 {
+  height: 310px;
+  width: 426px;
+}
+.calibre47 {
+  height: 576px;
+  width: 501px;
+}
+.calibre48 {
+  height: 534px;
+  width: 489px;
+}
+.calibre5 {
+  height: 581px;
+  width: 429px;
+}
+.calibre6 {
+  height: 552px;
+  width: 379px;
+}
+.calibre7 {
+  height: 563px;
+  width: 391px;
+}
+.calibre8 {
+  height: 568px;
+  width: 391px;
+}
+.calibre9 {
+  height: 513px;
+  width: 357px;
+}
+.chapter {
+  display: block;
+}
+.h1baslik {
+  display: block;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.67em;
+  page-break-before: always;
+  text-align: center;
+}
+.idebold {
+  font-weight: bold;
+}
+.indentmetin {
+  display: block;
+  font-size: 1em;
+  margin-bottom: 0.25em;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.kapakmetin {
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: center;
+}
+.kunye {
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 0;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: left;
+}
+.normal {
+  display: block;
+  font-size: 1em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.normal1 {
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  page-break-before: always;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.normal2 {
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.ortayazi {
+  display: block;
+  font-style: normal;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.resim {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.resimalti {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  margin-bottom: 5px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 5px;
+  text-align: center;
+}
+.sagnormal {
+  display: block;
+  font-style: normal;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: right;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+  cursor: default;
+}
+a[href] {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}

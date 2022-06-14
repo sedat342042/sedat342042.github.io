@@ -1,0 +1,88 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Borges, Jorge Luis">Jorge Luis Borges</dc:creator>
+<dc:date>2013-07-17T21:00:00+00:00</dc:date>
+    <dc:identifier id="BookId">AWP-B6830F60-6471-44EE-9EDD-8F1D29D7E8BC</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="Kum Kitabı" name="calibre:title_sort"/>
+    <dc:publisher>İletişim Yayıncılık</dc:publisher>
+    <meta content="Çağdaş Dünya Edebiyatı Dizisi" name="calibre:series"/>
+    <meta content="5.0" name="calibre:series_index"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;Arjantinli yazar Jorge Luis Borges'in belki de en şaşırtıcı yanı, bu kadar kolay okunan bir yazar olması. Oysa işlediği konular tarih boyunca üzerinde düşünülmüş en çetrefil sorular. Kader ve insanın özgürlüğü, her şeyin bir düşten ibaret olduğu kuşkusu, zamanın gerçekliği, sonsuzluğun tabiatı gibi... Başarısı, bu tür sorularla ilgili açmazların en sıradan gündelik hayatlar içerisinde insanın karşısına nasıl çıkabileceğini göstermesinden kaynaklanıyor.
+Kendisine post-modern, modern-ötesi diye adlandırılan günümüzün yazarı denmesi de bundan. Her şeyin mümkün olduğu ve bunun hiç bir anlama gelmediği bir dünyayı anlatıyor. Borges'in dünyası, geçmişte söylenmiş herhangi bir sözü, görülmüş herhangi bir düşü içerebilir. Ama bu dünya tarafından içerilmek, sözkonusu düşleri, sözleri, hayalleri tatmin etmez. Her şey eskisi gibi devam eder.
+Kitap adını bundan alıyor. Birinci ve sonuncu sayfası olmayan sayfa numaraları her açılışta, herhangi bir kurala bağlı olmaksızın, anlamsızca değişen bir kitap. Başı sonu olmayan, hiçbir yere varılmayan, kavuşulmayan bir dünya.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Jorge Luis Borges&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-04-25</dc:date>
+  <dc:title>Kum Kitabı</dc:title>
+<dc:subject>Öykü</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">bc3e43f5-5e19-49e7-915b-8b74031cdcef</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="id018" media-type="application/xhtml+xml"/>
+    <item href="Text/019.html" id="id019" media-type="application/xhtml+xml"/>
+    <item href="Text/020.html" id="id020" media-type="application/xhtml+xml"/>
+    <item href="Text/021.html" id="id021" media-type="application/xhtml+xml"/>
+    <item href="Text/022.html" id="id022" media-type="application/xhtml+xml"/>
+    <item href="Text/023.html" id="id023" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="id021"/>
+    <itemref idref="id022"/>
+    <itemref idref="id023"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/004.html#a2" title="Table of Contents" type="toc"/>
+    <reference href="Text/005.html#a35" title="Beginning" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,67 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="calibre: https://calibre-ebook.com ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">Bir Ömrün İnsanları</dc:title>
+    <dc:creator id="id-1">Kemal H. Karpat</dc:creator>
+    <dc:identifier>calibre:748</dc:identifier>
+    <dc:identifier>uuid:c95f6f7f-0e75-4fcc-8039-6e8653ef0ac0</dc:identifier>
+    <dc:identifier id="bookid">urn:uuid:e36c8e12-5e8d-454b-99fc-c9c1df2fd9cc</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:contributor id="id-2">calibre (3.17.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Bir Ömrün İnsanları</meta>
+    <meta content="Adobe InDesign 10.0" name="generator"/>
+    <meta name="cover" content="biromruninsanlari-kapak.jpg"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2016-10-31T11:50:34Z</meta>
+    <meta property="role" refines="#id-2" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id-1">Karpat, Kemal H.</meta>
+    <meta property="calibre:author_link_map">{"Kemal H. Karpat": ""}</meta>
+  </metadata>
+  <manifest>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="biromruninsanlari-epub.xhtml" id="biromruninsanlari-epub" media-type="application/xhtml+xml"/>
+    <item href="biromruninsanlari-epub-1.xhtml" id="biromruninsanlari-epub-1" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/10.jpg" id="x10.jpg" media-type="image/jpeg"/>
+    <item href="image/11.jpg" id="x11.jpg" media-type="image/jpeg"/>
+    <item href="image/11A.jpg" id="x11A.jpg" media-type="image/jpeg"/>
+    <item href="image/12.jpg" id="x12.jpg" media-type="image/jpeg"/>
+    <item href="image/13.jpg" id="x13.jpg" media-type="image/jpeg"/>
+    <item href="image/13A.jpg" id="x13A.jpg" media-type="image/jpeg"/>
+    <item href="image/14.jpg" id="x14.jpg" media-type="image/jpeg"/>
+    <item href="image/15.jpg" id="x15.jpg" media-type="image/jpeg"/>
+    <item href="image/15a.jpg" id="x15a.jpg" media-type="image/jpeg"/>
+    <item href="image/15b.jpg" id="x15b.jpg" media-type="image/jpeg"/>
+    <item href="image/15c.jpg" id="x15c.jpg" media-type="image/jpeg"/>
+    <item href="image/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+    <item href="image/3.jpg" id="x3.jpg" media-type="image/jpeg"/>
+    <item href="image/4.jpg" id="x4.jpg" media-type="image/jpeg"/>
+    <item href="image/4a.jpg" id="x4a.jpg" media-type="image/jpeg"/>
+    <item href="image/5.jpg" id="x5.jpg" media-type="image/jpeg"/>
+    <item href="image/5a.jpg" id="x5a.jpg" media-type="image/jpeg"/>
+    <item href="image/5b.jpg" id="x5b.jpg" media-type="image/jpeg"/>
+    <item href="image/5c.jpg" id="x5c.jpg" media-type="image/jpeg"/>
+    <item href="image/5d.jpg" id="x5d.jpg" media-type="image/jpeg"/>
+    <item href="image/5e.jpg" id="x5e.jpg" media-type="image/jpeg"/>
+    <item href="image/5f.jpg" id="x5f.jpg" media-type="image/jpeg"/>
+    <item href="image/5g.jpg" id="x5g.jpg" media-type="image/jpeg"/>
+    <item href="image/6.jpg" id="x6.jpg" media-type="image/jpeg"/>
+    <item href="image/6a.jpg" id="x6a.jpg" media-type="image/jpeg"/>
+    <item href="image/6b.jpg" id="x6b.jpg" media-type="image/jpeg"/>
+    <item href="image/7.jpg" id="x7.jpg" media-type="image/jpeg"/>
+    <item href="image/7a.jpg" id="x7a.jpg" media-type="image/jpeg"/>
+    <item href="image/7b.jpg" id="x7b.jpg" media-type="image/jpeg"/>
+    <item href="image/8.jpg" id="x8.jpg" media-type="image/jpeg"/>
+    <item href="image/biromruninsanlari-kapak.jpg" id="biromruninsanlari-kapak.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="image/timaslogo.jpg" id="timaslogo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="biromruninsanlari-epub"/>
+    <itemref idref="biromruninsanlari-epub-1"/>
+  </spine>
+</package>

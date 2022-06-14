@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Avrupa'da Osmanlı Damgası - Budin Destanı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Schulhof, Izsak">Izsak Schulhof</dc:creator>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <dc:date>2006-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">978-975-263-664-4</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">c95acebc-42b4-4bd3-ae26-ae24a6d0a75a</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="avrupadaosmanlidamgasi-epub.html" id="avrupadaosmanlidamgasi-epub" media-type="application/xhtml+xml"/>
+    <item href="avrupadaosmanlidamgasi-epub-1.html" id="avrupadaosmanlidamgasi-epub-1" media-type="application/xhtml+xml"/>
+    <item href="avrupadaosmanlidamgasi-epub-2.html" id="avrupadaosmanlidamgasi-epub-2" media-type="application/xhtml+xml"/>
+    <item href="avrupadaosmanlidamgasi-epub-3.html" id="avrupadaosmanlidamgasi-epub-3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/127158.jpg" id="x127158.jpg" media-type="image/jpeg"/>
+    <item href="images/budindestani-dis.jpg" id="budindestani-dis.jpg" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-truetype"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="avrupadaosmanlidamgasi-epub"/>
+    <itemref idref="avrupadaosmanlidamgasi-epub-1"/>
+    <itemref idref="avrupadaosmanlidamgasi-epub-2"/>
+    <itemref idref="avrupadaosmanlidamgasi-epub-3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

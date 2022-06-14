@@ -1,0 +1,258 @@
+/*****FONT*****/
+@font-face {
+  font-family: "Caecilia LT Std Roman";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/CaeciliaLTStd-Italic.otf);
+  }
+@font-face {
+  font-family: "Caecilia LT Std Roman";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/CaeciliaLTStd-Roman.otf);
+  }
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/GillSansStd.ttf);
+  }
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/GillSansStd-Italic.ttf);
+  }
+@font-face {
+  font-family: "Impact";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/impact.ttf) format("truetype");
+  }
+
+.acknowledgments {
+  font-family: "Gill Sans Std";
+  font-size: 0.83em;
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-align: justify;
+}
+h1 {
+  text-align: center;
+  font: normal normal 1em/1.2em "Caecilia LT Std Roman";
+  margin-bottom: 2em;
+  margin-top: 10em;
+}
+h2 {
+  font: normal normal 0.85em/1.2em "Caecilia LT Std Roman";
+  text-align: center;
+  margin-top: 2em;
+}
+h3 {
+  font: normal normal 1em/1.2em "Gill Sans Std";
+  margin-bottom: 1em;
+  margin-top: 2em;
+  text-align: center;
+}
+/*P*/
+p {
+  font: normal 0.75em/1.3em "Caecilia LT Std Roman";
+  margin: 0;
+  text-indent: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+
+p.nonindent {
+  text-indent: 0;
+}
+.tablo {
+  margin-top: 1em;
+}
+.right {
+  text-align: right;
+  margin-right: 8em;
+}
+p.extract {
+  font: normal normal 0.75em "Caecilia LT Std Roman";
+  margin-bottom: 0;
+  margin-top: 1em;
+  text-align: justify;
+  text-indent: 0;
+}
+div.block {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.poem {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3.5em;
+}
+.poem p {
+  text-indent: -2em;
+}
+.poem p.extract {
+  margin-top: 1em;
+}
+p.hanging {
+  text-indent: -2em;
+  text-align: justify;
+}
+div.hanging {
+  margin-left: 2em;
+}
+div.copyright {
+  font: normal normal 0.751em "Gill Sans Std";
+  margin-top: 0;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-indent: 0;
+}
+/*titlepage*/
+.center {
+  text-align: center;
+}
+.ithaf {
+  margin-top: 8em;
+  font: normal normal 0.75em/1.3em "Caecilia LT Std Roman";
+  text-align: center;
+}
+.aut {
+  font: normal normal 1.69em/1.2em "Impact";
+  text-align: center;
+}
+.part {
+  margin-top: 4em;
+  font: normal normal 1.69em/1.2em "Impact";
+  margin-bottom: 3em;
+  text-align: center;
+}
+.work {
+  font: normal normal 1.6em "Impact";
+  margin-top: 1em;
+}
+.work .big {
+  font: normal normal 4em "Impact";
+}
+.work1 {
+  font: normal normal 1em/1.2em "Gill Sans Std";
+  margin-top: 1em;
+}
+.trans {
+  font-family: "Gill Sans Std";
+  font-size: 0.83em;
+  margin-top: 4em;
+}
+.trans span {
+  font-size: 1.2em;
+  line-height: 2.5em;
+  display: block;
+}
+.logo {
+  margin: 3em auto 0 auto;
+  font: normal normal 1.35em/1.2em "Impact";
+}
+/******FOOTNOTE******/
+.footnotes > p.footnote:last-child {
+  margin-bottom: 0;
+}
+.footnotes {
+  margin: 4em 0 1em;
+  text-align: justify;
+}
+.footnote {
+  font-family: "Caecilia LT Std Roman";
+  font-size: 0.66em;
+  margin-bottom: 0.25em;
+  text-indent: 0;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.1em;
+}
+.noteref {
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: 0.75em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+
+/*IMAGES*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+.picture {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  margin-left: 1.5em;
+  max-width: 700px;
+  page-break-inside: avoid;
+}
+.caption {
+  font: normal normal 0.75em "Gill Sans Std";
+  text-align: justify;
+  margin-top: 10px;
+  text-indent: 0;
+}
+/* ---- Tables ---- */
+table {
+  border-collapse: collapse;
+  margin-left: 1.5em;
+  font-family: "Gill Sans Std";
+  font-weight: normal;
+  font-size: 0.75em;
+}
+td {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+td.border {
+  border-bottom: 1px solid black;
+}
+/*LİSTE*/
+ol li, ul li {
+  font: normal normal 0.75em/1.3em "Caecilia LT Std Roman";
+  text-align: justify;
+  text-indent: 0;
+  margin: 0;
+  padding: 1px;
+}
+.listlabel {
+  font: normal normal 0.66em "Caecilia LT Std Roman";
+  width: 5em;
+  float: left;
+}
+.listcontent {
+  padding-left: 2em;
+  margin-bottom: 5px;
+}
+.listcontent p {
+font: normal normal 0.66em "Caecilia LT Std Roman";
+  margin-left: 45px;
+  text-align: justify;
+  text-indent: 0;
+}
+/*OTHER*/
+a {
+  text-decoration: none;
+}
+sup {
+  vertical-align: top;
+}

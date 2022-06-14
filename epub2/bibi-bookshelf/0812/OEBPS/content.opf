@@ -1,0 +1,121 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+<dc:identifier id="uuid">{360B6326-F411-4CBA-9D89-213868436945}</dc:identifier>
+    <dc:date>2007-08-29T21:00:00+00:00</dc:date>
+    <dc:type>Fantastik</dc:type>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Yolculuk serüvenlerinin en usta yazarlarından Jules Verne, Altın Volkanı'nda, biri maceracı ve hırslı, diğeri rahatına düşkün iki kuzenin başından geçen heyecan dolu olayları anlatıyor.
+
+İki kuzen amcalarından miras kalan altın madenini görmeye Klondike'a gider. Burada altın çıkarmaya çalışırlarken, bir deprem sonucunda arazilerinin sular altında kalmasıyla planları altüst olur. Kışı geçirmek zorunda kaldıkları Dawson-City'de, ölmek üzere olan bir Fransız onlara kuzeydeki bir altın volkanının yerini açıklar. Oraya giderler ancak volkan faaliyete geçmek üzere olduğundan kratere inmek mümkün değildir. Kuzenler volkanı patlatıp, etrafa püskürecek altınları toplamak üzere planlar yaparken beklenmedik olaylarla karşılaşırlar...
+
+Verne romanlarının karakteristik özellikleri bu kitapta kendisini baştan sona hissettiriyor: Bir amaç uğruna her şeyin göze alınması ve amansız bir mücadele...&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x1.jpg"/>
+  <dc:title>Altın Volkanı</dc:title>
+<meta name="calibre:title_sort" content="Altın Volkanı"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e7565437-55cd-4d01-a4ba-41b247efa7be</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758609949</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/S04.xhtml" id="S04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S09.xhtml" id="S09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S14.xhtml" id="S14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S19.xhtml" id="S19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S24.xhtml" id="S24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S28.xhtml" id="S28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S30.xhtml" id="S30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/K1.xhtml" id="K1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/K0.xhtml" id="K0.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/K3.xhtml" id="K3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/K4.xhtml" id="K4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/K5.xhtml" id="K5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S01.xhtml" id="S01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S02.xhtml" id="S02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S03.xhtml" id="S03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S05.xhtml" id="S05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S06.xhtml" id="S06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S07.xhtml" id="S07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S08.xhtml" id="S08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S10.xhtml" id="S10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S11.xhtml" id="S11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S12.xhtml" id="S12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S13.xhtml" id="S13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S15.xhtml" id="S15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S17.xhtml" id="S17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S18.xhtml" id="S18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S20.xhtml" id="S20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S21.xhtml" id="S21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S22.xhtml" id="S22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S23.xhtml" id="S23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S25.xhtml" id="S25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S26.xhtml" id="S26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S27.xhtml" id="S27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S29.xhtml" id="S29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/K2.xhtml" id="K2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Yenikitaplarim.jpg" id="Yenikitaplarim.jpg" media-type="image/jpeg"/>
+    <item href="Text/S00.xhtml" id="S00.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S16.xhtml" id="S16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Ithaki.jpg" id="Ithaki.jpg" media-type="image/jpeg"/>
+    <item href="Text/DiPNOTLAR.xhtml" id="DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="K0.xhtml"/>
+    <itemref idref="K1.xhtml"/>
+    <itemref idref="K2.xhtml"/>
+    <itemref idref="K3.xhtml"/>
+    <itemref idref="K4.xhtml"/>
+    <itemref idref="K5.xhtml"/>
+    <itemref idref="S00.xhtml"/>
+    <itemref idref="S01.xhtml"/>
+    <itemref idref="S02.xhtml"/>
+    <itemref idref="S03.xhtml"/>
+    <itemref idref="S04.xhtml"/>
+    <itemref idref="S05.xhtml"/>
+    <itemref idref="S06.xhtml"/>
+    <itemref idref="S07.xhtml"/>
+    <itemref idref="S08.xhtml"/>
+    <itemref idref="S09.xhtml"/>
+    <itemref idref="S10.xhtml"/>
+    <itemref idref="S11.xhtml"/>
+    <itemref idref="S12.xhtml"/>
+    <itemref idref="S13.xhtml"/>
+    <itemref idref="S14.xhtml"/>
+    <itemref idref="S15.xhtml"/>
+    <itemref idref="S16.xhtml"/>
+    <itemref idref="S17.xhtml"/>
+    <itemref idref="S18.xhtml"/>
+    <itemref idref="S19.xhtml"/>
+    <itemref idref="S20.xhtml"/>
+    <itemref idref="S21.xhtml"/>
+    <itemref idref="S22.xhtml"/>
+    <itemref idref="S23.xhtml"/>
+    <itemref idref="S24.xhtml"/>
+    <itemref idref="S25.xhtml"/>
+    <itemref idref="S26.xhtml"/>
+    <itemref idref="S27.xhtml"/>
+    <itemref idref="S28.xhtml"/>
+    <itemref idref="S29.xhtml"/>
+    <itemref idref="S30.xhtml"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="İçindekiler" type="toc"/>
+  </guide>
+</package>

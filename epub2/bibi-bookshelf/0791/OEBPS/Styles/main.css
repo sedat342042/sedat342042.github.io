@@ -1,0 +1,19 @@
+body {font-family:Palatino, Georgia, serif;margin:4em 0; }
+p { margin: 0px; text-align:justify; text-indent:25px;line-height:1.4em;}
+h3 { margin: 2em 0; text-align: center; text-indent: 0; font-weight: normal; }
+sub, sup { 
+	font-size: 75%;
+	line-height: 0; 
+	position: relative; 
+	vertical-align: baseline; 
+}
+sup { 
+	top: -0.5em; 
+}
+sub { 
+	bottom: -0.25em; 
+}
+.baslik {margin: 1em 0em .5em 0em;font-size:2em;}
+.baslik2 {margin: 0 0 3em 0;color: #c1a13c;font-size:1em;}
+.yazar {font-size:1.5em;margin: 2em 0px;}
+.dipnot p {text-indent:0;margin:1em 3em}

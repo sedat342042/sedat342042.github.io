@@ -1,0 +1,175 @@
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/GillSansStd.ttf);
+  }
+@font-face {
+  font-family: "Berling LT Std Roman";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerlingLTStd-Roman.ttf);
+  }
+@font-face {
+  font-family: "Berling LT Std Roman";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerlingLTStd-Italic.ttf);
+  }
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/GillSansStd.ttf);
+  }
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/GillSansStd-Italic.ttf);
+  }
+@font-face {
+  font-family: "Goudy Oldstyle Std";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/GoudyStd.ttf);
+  }
+a {
+  text-decoration: none;
+  color: #7A7A7A;
+}
+/*
+ *chapter
+ */
+p {
+  font: normal 0.875em/1.3em "Berling LT Std Roman";
+  margin: 0;
+  text-indent: 1.9em;
+}
+h1 {
+  font: normal normal 1.25em/1.2em "Berling LT Std Roman";
+  text-align: center;
+  margin: 3em 0 1.5em 0;
+}
+h1.part-title {
+  font-size: 1.416em;
+  margin-top: 6em;
+}
+.si-noteref {
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: 0.75em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+.si-footnotes {
+  margin: 4em 0 1em;
+}
+.si-backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+.si-footnote {
+  font-family: "Gill Sans Std";
+  font-size: 0.8em;
+  margin-bottom: 0.25em;
+}
+.after-bq, .margin-top {
+  margin-top: 1em;
+}
+.letter {
+  margin: 1em 0 0 0;
+}
+.letter p {
+  font-family: "Gill Sans Std";
+}
+.by {
+  text-align: right;
+  margin-top: 0;
+}
+.dedication {
+  text-align: right;
+  font: normal normal 1em/1.3em "Berling LT Std Roman";
+  max-width: 500px;
+  margin: 5em auto 0 auto;
+}
+.books .books {
+  font: normal normal 0.75em/1.3em "Gill Sans Std";
+  text-indent: 0;
+}
+.books ul {
+  padding-left: 0;
+}
+.books ul li {
+  font: normal normal 0.75em/1.5em "Gill Sans Std";
+  list-style-type: none;
+}
+.kunye, .margin, .press {
+  margin-top: 0.8em;
+}
+.isbn {
+  margin-top: 1.2em;
+}
+.kunye .publisher {
+  margin-top: 2em;
+}
+.kunye span {
+  font-family: "Gill Sans Std";
+  font-size: 0.667em;
+  display: block;
+}
+.title {
+  text-align: center;
+}
+.aut {
+  font-family: "Goudy Oldstyle Std";
+  font-size: 1.7em;
+  margin-bottom: 0;
+}
+.aut span {
+  font-size: 1.15em;
+}
+.work {
+  font-family: "Goudy Oldstyle Std";
+  font-size: 2.6em;
+  margin-top: 0.3em;
+}
+.work span {
+  font-size: 0.333em;
+  display: block;
+}
+.seri {
+  font-family: "Gill Sans Std";
+  font-size: 1em;
+  margin-top: 3.5em;
+}
+.trans {
+  font-family: "Gill Sans Std";
+  font-size: 0.9em;
+  margin-top: 1.5em;
+  line-height: 1.5em;
+}
+.trans span {
+  font-size: 1.2em;
+}
+.logo {
+  margin: 3em auto 0 auto;
+}
+.cover-container img {
+  max-width: 100%;
+}
+.cover-container {
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+#biography p {
+  font-family: "Gill Sans Std";
+  font-size: 0.75em;
+  text-indent: 0;
+}
+#biography .translator {
+  margin-top: 2em;
+}

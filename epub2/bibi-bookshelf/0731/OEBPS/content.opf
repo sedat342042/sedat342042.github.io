@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Uçurum İnsanları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Uçurum İnsanları üzerinde güneş batmayan ülke olarak bilinen İngiliz İmparatorluğu'nun karanlık yüzüne dair birinci elden bir tanıklık...&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Jack London 1902 yılında, birkaç aylığına şehrin yoksul semtlerinden Doğu Yakası'nda yaşamak üzere Londra'ya gelir ve halktan biri gibi zaman geçirir. Burada, işçi hareketinin büyük bedeller pahasına kazandığı hakların hiçe sayıldığı bir ortamla, insan onuruna yakışmayan büyük bir fakirlik ve sefaletle karşılaşır. Karnını doyurmak için kaldırımda bulduğu meyve çöplerini yiyen aç insanlar, hastalıkların ve pisliğin kol gezdiği sokaklarda uyuyan evsizler, başıboş bırakılmış bitkin ve sahipsiz çocuklar, hepsi dehşet verici bir çukurun içine düşmüş gibidir. İlk sayfasından itibaren okuru içine çeken Uçurum İnsanları, zenginlik ve refahın gerisindeki yoksulluğu doğrudan ve çarpıcı gözlemlerle anlatıyor. "Başka hiçbir kitabım için yoksulların ekonomik açıdan aşağılanmasını inceleyen Uçurum İnsanları kadar kalp ağrısı çekip gözyaşı dökmedim."&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Jack London&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:date opf:event="modification">2017-03-22</dc:date>
+    <dc:identifier id="uuid">{C89B1A3B-52E7-4BCB-B9AF-E4DA14DC48D7}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">bb79e584-1415-42c6-af84-66d070fadf18</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750514418</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15.xhtml" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16.xhtml" href="Text/16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17.xhtml" href="Text/17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18.xhtml" href="Text/18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19.xhtml" href="Text/19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20.xhtml" href="Text/20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x21.xhtml" href="Text/21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x22.xhtml" href="Text/22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x23.xhtml" href="Text/23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x24.xhtml" href="Text/24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x25.xhtml" href="Text/25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x26.xhtml" href="Text/26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x27.xhtml" href="Text/27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="son.xhtml" href="Text/son.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id29" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id28" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo_iletisim.svg" href="Images/logo_iletisim.svg" media-type="image/svg+xml"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-ttf"/>
+    <item id="Interstate-RegularCondensed.ttf" href="Fonts/Interstate-RegularCondensed.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id29">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="x21.xhtml"/>
+    <itemref idref="x22.xhtml"/>
+    <itemref idref="x23.xhtml"/>
+    <itemref idref="x24.xhtml"/>
+    <itemref idref="x25.xhtml"/>
+    <itemref idref="x26.xhtml"/>
+    <itemref idref="x27.xhtml"/>
+    <itemref idref="son.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

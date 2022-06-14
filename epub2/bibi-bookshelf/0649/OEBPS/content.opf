@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Manguel, Alberto">Alberto Manguel</dc:creator>
+<dc:description>&lt;p&gt;"Ölümünden birkaç ay önce, Arjantinli zengin bir toprak sahibi Borges'i estancia'sına davet etti ve bir sürpriz sözü verdi. Yaşlı adamı bahçedeki bir banka oturttu ve yalnız bıraktı; birden Borges yanıbaşında iri ve sıcak bir beden hissetti, ardından da omuzlarına dayanmış iri patiler. Estanciero'nun evcil kaplanı, onu düşleyen adama saygılarını sunuyordu. Hiç korkmadı Borges. Yalnızca çiğ et kokan sıcak nefesinden rahatsız oldu. 'Kaplanların etobur olduğunu unutmuşum.' "
+
+Arjantinli deneme ustası Manguel'den, Borges'e kitap okuduğu yıllarda onunla yaşadıklarını aktaran, ayna ve labirent ustasının dünyasından bilinmeyen kesitleri gün ışığına çıkaran bir metin. Arjantinli fotoğraf ustası Sara Facio'nun, yine o yıllarda Borges'in evinde çektiği özel fotoğraflarla. 
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">bf2eaf21-1157-400f-9a90-fc8e4c796ae4</dc:identifier>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2013-01-04T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-01-31</dc:date>
+    <meta name="cover" content="cover"/>
+    <meta content="Borges'in Evinde" name="calibre:title_sort"/>
+    <meta content="2015-01-28T13:53:42.675000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Alberto Manguel&quot;: &quot;&quot;}"/>
+  <dc:title>Borges'in Evinde</dc:title>
+<dc:subject>Anlatı</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">6f62d904-f6b1-499e-89d5-d7b4bdd887ef</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750826658</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-10.png" id="id10" media-type="image/png"/>
+    <item href="Images/main-11.png" id="id11" media-type="image/png"/>
+    <item href="Images/main-12.png" id="id12" media-type="image/png"/>
+    <item href="Images/main-13.png" id="id13" media-type="image/png"/>
+    <item href="Images/main-14.png" id="id14" media-type="image/png"/>
+    <item href="Images/main-15.png" id="id15" media-type="image/png"/>
+    <item href="Images/main-16.png" id="id16" media-type="image/png"/>
+    <item href="Images/main-17.png" id="id17" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Images/main-4.png" id="id4" media-type="image/png"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/main-8.png" id="id8" media-type="image/png"/>
+    <item href="Images/main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

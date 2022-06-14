@@ -1,0 +1,913 @@
+@font-face {
+	font-family:"Adobe Caslon Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/ACaslonPro-Regular.otf");
+}
+@font-face {
+	font-family:"Big Caslon";
+	font-style:normal;
+	font-weight:500;
+	src : url("../Fonts/BigCaslon-Medium.ttf");
+}
+@font-face {
+	font-family:"Garamond Premr Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/GaramondPremrPro.otf");
+}
+@font-face {
+	font-family:"Garamond Premr Pro";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/GaramondPremrPro-Bd.otf");
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/MinionPro-Regular.otf");
+}
+@font-face {
+	font-family:"Sabon LT Pro";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/SabonLTPro-Bold.otf");
+}
+@font-face {
+	font-family:"Sabon LT Pro";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/SabonLTPro-Italic.otf");
+}
+@font-face {
+	font-family:"Sabon LT Pro";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../Fonts/SabonLTPro-Italic.otf");
+}
+@font-face {
+	font-family:"Sabon LT Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/SabonLTPro-Roman.otf");
+}
+@font-face {
+	font-family:"Trade Gothic LT Std";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/TradeGothicLTStd.otf");
+}
+@font-face {
+	font-family:"Trade Gothic LT Std Bold";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/TradeGothicLTStd-Bold.otf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+h2 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.958em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	letter-spacing:2px;
+	line-height:1.217;
+	margin-bottom:8px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+h3 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.958em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	letter-spacing:1px;
+	line-height:1.217;
+	margin-bottom:5px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+table.Tablo-Stili-Yok {
+	border-collapse:collapse;
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	margin-bottom:-4px;
+	margin-top:4px;
+}
+td.Tablo-Stili-Yok {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+tr.Tablo-Stili-Yok {
+	page-break-after:auto;
+	page-break-before:auto;
+}
+p.BolumBaslik {
+	color:#000000;
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.111;
+	margin-bottom:60px;
+	margin-left:17px;
+	margin-right:0;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:-17px;
+	text-transform:none;
+	widows:1;
+}
+p.Temel-Paragraf {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Notlar {
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.708em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.294;
+	margin-bottom:2px;
+	margin-left:17px;
+	margin-right:0;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-17px;
+	text-transform:none;
+	widows:1;
+}
+p.Sayfayi_bol {
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:5px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:5px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.alinti {
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.792em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.474;
+	margin-bottom:2px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.anaalinti {
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.792em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.158;
+	margin-bottom:2px;
+	margin-left:26px;
+	margin-right:26px;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.anayazigiris {
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.273;
+	margin-bottom:1px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:1px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:14px;
+	text-transform:none;
+	widows:1;
+}
+p.arabaslik {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:0.958em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.217;
+	margin-bottom:8px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.dipnot_9pt {
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:5px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:5px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.resim_ortali_alt {
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:15px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:15px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.girisimza {
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.556;
+	margin-bottom:2px;
+	margin-left:14px;
+	margin-right:28px;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.yenianayazi {
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:2px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:14px;
+	text-transform:none;
+	widows:1;
+}
+p.yildiz {
+	color:#000000;
+	font-family:"Sabon LT Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.273;
+	margin-bottom:2px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.A0 {
+	color:#000000;
+	font-size:0.917em;
+}
+span.A1 {
+	color:#000000;
+	font-size:0.833em;
+}
+span.Italic {
+	font-style:italic;
+	font-weight:normal;
+}
+table.TableOverride-1 {
+	border-collapse:collapse;
+	border-width:1px;
+	margin-left:auto;
+	margin-right:auto;
+}
+td.CellOverride-1 {
+	border-left-width:1px;
+	border-top-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-2 {
+	border-top-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-3 {
+	border-right-width:1px;
+	border-top-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-4 {
+	border-left-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-5 {
+	vertical-align:middle;
+}
+td.CellOverride-6 {
+	border-right-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-7 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-8 {
+	border-bottom-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-9 {
+	border-bottom-width:1px;
+	border-right-width:1px;
+	vertical-align:middle;
+}
+p.ParaOverride-1 {
+	text-align:center;
+}
+p.ParaOverride-2 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+}
+p.ParaOverride-3 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	margin-left:9px;
+	margin-right:9px;
+	text-align:center;
+}
+p.ParaOverride-4 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	margin-left:9px;
+	margin-right:60px;
+}
+p.ParaOverride-5 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	margin-left:9px;
+	margin-right:9px;
+}
+p.ParaOverride-6 {
+	text-indent:0px;
+}
+p.ParaOverride-7 {
+	margin-left:35px;
+	margin-right:35px;
+}
+p.ParaOverride-8 {
+	margin-bottom:0px;
+	margin-top:12px;
+}
+p.ParaOverride-9 {
+	margin-left:35px;
+	margin-right:35px;
+	margin-top:6px;
+	text-align:justify;
+}
+p.ParaOverride-10 {
+	margin-bottom:0px;
+}
+p.ParaOverride-11 {
+	margin-left:35px;
+	margin-right:35px;
+	margin-top:4px;
+	text-align:justify;
+}
+p.ParaOverride-12 {
+	text-align:left;
+}
+p.ParaOverride-13 {
+	text-align:right;
+}
+p.ParaOverride-14 {
+	margin-bottom:2px;
+	margin-top:14px;
+}
+p.ParaOverride-15 {
+	margin-left:35px;
+	margin-right:35px;
+	margin-top:0px;
+	text-align:justify;
+}
+p.ParaOverride-16 {
+	margin-bottom:5px;
+}
+p.ParaOverride-17 {
+	margin-left:35px;
+	margin-right:35px;
+	margin-top:0px;
+	text-align:left;
+}
+p.ParaOverride-18 {
+	margin-left:45px;
+}
+p.ParaOverride-19 {
+	margin-right:35px;
+	text-align:right;
+}
+p.ParaOverride-20 {
+	margin-left:35px;
+}
+p.ParaOverride-21 {
+	text-align:center;
+	text-indent:0px;
+}
+p.ParaOverride-22 {
+	margin-right:50px;
+	text-align:right;
+}
+p.ParaOverride-23 {
+	margin-left:102px;
+	margin-right:105px;
+	text-align:left;
+}
+p.ParaOverride-24 {
+	margin-right:45px;
+	text-align:right;
+}
+p.ParaOverride-25 {
+	margin-left:35px;
+	margin-right:35px;
+	text-indent:15px;
+}
+p.ParaOverride-26 {
+	margin-left:35px;
+	margin-right:35px;
+	text-align:left;
+}
+p.ParaOverride-27 {
+	margin-left:13px;
+	margin-right:13px;
+	text-align:right;
+}
+p.ParaOverride-28 {
+	margin-left:35px;
+	margin-right:35px;
+	text-align:justify;
+}
+p.ParaOverride-29 {
+	text-align:justify;
+}
+p.ParaOverride-30 {
+	margin-left:13px;
+	margin-right:35px;
+	text-align:right;
+}
+p.ParaOverride-31 {
+	margin-left:37px;
+	margin-right:37px;
+	text-align:justify;
+}
+p.ParaOverride-32 {
+	margin-left:37px;
+	margin-right:37px;
+	text-align:right;
+}
+p.ParaOverride-33 {
+	text-align:left;
+	text-indent:-5px;
+}
+p.ParaOverride-34 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	text-align:left;
+}
+span.CharOverride-1 {
+	font-family:"Trade Gothic LT Std Bold", sans-serif;
+	font-size:3.333em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-2 {
+	font-size:1.295em;
+}
+span.CharOverride-3 {
+	font-family:"Sabon LT Pro";
+	font-size:1.295em;
+}
+span.CharOverride-4 {
+	font-family:"Trade Gothic LT Std Bold", sans-serif;
+	font-size:4.567em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-5 {
+	font-family:"Trade Gothic LT Std Bold", sans-serif;
+	font-size:1.507em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-6 {
+	color:#999999;
+	font-family:"Trade Gothic LT Std Bold", sans-serif;
+	font-size:2.825em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-7 {
+	font-family:"Trade Gothic LT Std";
+	font-size:1.320em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-8 {
+	font-family:"Garamond Premr Pro";
+	font-size:0.833em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	font-family:"Adobe Caslon Pro";
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-10 {
+	font-family:"Garamond Premr Pro";
+	font-size:0.75em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-11 {
+	font-family:"Adobe Caslon Pro";
+	font-size:0.75em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-12 {
+	font-family:"Garamond Premr Pro";
+	font-size:0.667em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-13 {
+	font-family:"Garamond Premr Pro", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-14 {
+	font-size:1.222em;
+}
+span.CharOverride-15 {
+	font-family:Sabon, serif;
+	font-size:1.222em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-16 {
+	font-family:"Sabon LT Pro";
+	font-size:1.222em;
+}
+span.CharOverride-17 {
+	font-family:"Big Caslon", serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-weight:500;
+}
+span.CharOverride-18 {
+	font-size:58%;
+	vertical-align:super;
+}
+span.CharOverride-19 {
+	font-family:"Sabon LT Pro";
+}
+span.CharOverride-20 {
+	font-family:"Sabon LT Pro";
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-21 {
+	font-size:0.689em;
+	vertical-align:super;
+}
+span.CharOverride-22 {
+	font-size:0.659em;
+	vertical-align:super;
+}
+span.CharOverride-23 {
+	font-size:0.889em;
+}
+span.CharOverride-24 {
+	font-size:0.472em;
+}
+span.CharOverride-25 {
+	font-size:1.052em;
+}
+span.CharOverride-26 {
+	font-family:"Sabon LT Pro";
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-27 {
+	font-family:"Minion Pro";
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-28 {
+	font-family:"Sabon LT Pro";
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-29 {
+	font-size:2.119em;
+}
+span.CharOverride-30 {
+	font-family:"Sabon LT Pro";
+	font-size:0.667em;
+}
+span._idGenCharOverride-1 {
+	font-family:"Sabon LT Pro";
+}
+img._idGenPageitem-1 {
+	height:20px;
+	width:83px;
+}
+img._idGenPageitem-2 {
+	height:16px;
+	width:66px;
+}
+img._idGenPageitem-3 {
+	height:187px;
+	width:387px;
+}
+img._idGenPageitem-4 {
+	height:176px;
+	width:177px;
+}
+img._idGenPageitem-5 {
+	height:100%;
+	width:100%;
+}
+div._idGenPageitem-6 {
+	height:189px;
+	width:68px;
+}
+img._idGenPageitem-7 {
+	height:227px;
+	width:273px;
+}
+img._idGenPageitem-8 {
+	height:189px;
+	width:271px;
+}
+div._idGenPageitem-9 {
+	height:101px;
+	width:152px;
+}
+img._idGenPageitem-10 {
+	height:489px;
+	width:353px;
+}
+div._idGenPageitem-11 {
+	height:98px;
+	width:120px;
+}
+img._idGenPageitem-12 {
+	height:201px;
+	width:247px;
+}
+img._idGenPageitem-13 {
+	height:175px;
+	width:353px;
+}
+div._idGenPageitem-14 {
+	height:118px;
+	width:149px;
+}
+img._idGenPageitem-15 {
+	height:177px;
+	width:368px;
+}
+img._idGenPageitem-16 {
+	height:172px;
+	width:378px;
+}
+img._idGenPageitem-17 {
+	height:166px;
+	width:345px;
+}
+img._idGenPageitem-18 {
+	height:31px;
+	width:423px;
+}
+img._idGenPageitem-19 {
+	height:56px;
+	width:442px;
+}
+img._idGenPageitem-20 {
+	height:214px;
+	width:233px;
+}
+img._idGenPageitem-21 {
+	height:222px;
+	width:244px;
+}
+img._idGenPageitem-22 {
+	height:128px;
+	width:398px;
+}
+img._idGenPageitem-23 {
+	height:132px;
+	width:398px;
+}
+img._idGenPageitem-24 {
+	height:183px;
+	width:350px;
+}
+img._idGenPageitem-25 {
+	height:260px;
+	width:340px;
+}
+img._idGenPageitem-26 {
+	height:242px;
+	width:378px;
+}
+img._idGenPageitem-27 {
+	height:222px;
+	width:395px;
+}
+img._idGenPageitem-28 {
+	height:394px;
+	width:499px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenClearFloat {
+	clear:both;
+}
+div._idGenObjectLayout-1 {
+	float:right;
+	margin:3px 3px 3px 3px;
+}
+div._idGenObjectLayout-2 {
+	float:right;
+}

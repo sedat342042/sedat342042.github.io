@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+	<metadata>
+		<meta name="generator" content="Adobe InDesign"/>
+		<meta name="cover" content="budindestani-dis.jpg"/>
+		<dc:title>AVRUPADA OSMANLI DAMGASI</dc:title>
+		<dc:creator>ISZAK SCHULHOF</dc:creator>
+		<dc:subject></dc:subject>
+		<dc:description></dc:description>
+		<dc:publisher>Timaş Yayınları</dc:publisher>
+		<dc:date>2011-11-02</dc:date>
+		<dc:source></dc:source>
+		<dc:relation></dc:relation>
+		<dc:coverage></dc:coverage>
+		<dc:rights></dc:rights>
+		<dc:language>tr-TR</dc:language>
+		<dc:identifier id="bookid">978-975-263-664-4</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="template.css" media-type="text/css"/>
+		<item id="avrupadaosmanlidamgasi-kapak" href="avrupadaosmanlidamgasi-kapak.html" media-type="application/xhtml+xml"/>
+		<item id="avrupadaosmanlidamgasi-epub" href="avrupadaosmanlidamgasi-epub.html" media-type="application/xhtml+xml"/>
+		<item id="avrupadaosmanlidamgasi-epub-1" href="avrupadaosmanlidamgasi-epub-1.html" media-type="application/xhtml+xml"/>
+		<item id="avrupadaosmanlidamgasi-epub-2" href="avrupadaosmanlidamgasi-epub-2.html" media-type="application/xhtml+xml"/>
+		<item id="avrupadaosmanlidamgasi-epub-3" href="avrupadaosmanlidamgasi-epub-3.html" media-type="application/xhtml+xml"/>
+		<item id="x127158.jpg" href="images/127158.jpg" media-type="image/jpeg"/>
+		<item id="budindestani-dis.jpg" href="images/budindestani-dis.jpg" media-type="image/jpeg"/>
+		<item id="budindestani-ic_fmt.jpeg" href="images/budindestani-ic_fmt.jpeg" media-type="image/jpeg"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="avrupadaosmanlidamgasi-kapak"/>
+		<itemref idref="avrupadaosmanlidamgasi-epub"/>
+		<itemref idref="avrupadaosmanlidamgasi-epub-1"/>
+		<itemref idref="avrupadaosmanlidamgasi-epub-2"/>
+		<itemref idref="avrupadaosmanlidamgasi-epub-3"/>
+	</spine>
+</package>

@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Illich, Ivan">Ivan Illich</dc:creator>
+<dc:identifier id="uuid">{64E7522F-82DA-4E8B-AD3F-E4B0C0AA2C06}</dc:identifier>
+    <dc:date>2005-09-30T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>Okulsuz Toplum</dc:title>
+<meta name="calibre:title_sort" content="Okulsuz Toplum"/>
+<dc:publisher>Şule Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Eğitim</dc:subject>
+<dc:description>&lt;p&gt;"Okullaştırma, eğitimle aynı anlama mı gelmektedir? Kesinlikle hayır. Herkes gün be gün bir şeyler öğrenmektedir. Dürüst olmak gerekirse, çoğumuz, yaşamımızda okullaşmanın direk ve derin bir etkiden son derece yoksun olduğunu görürüz. Bu durumda iki soru ortaya çıkmaktadır: Her toplumda okullaşmaya bu derece büyük bir önem ve prestij kazandıran nedir? Eğitimin işlevi bir şüphe içeriyorsa, okullaşma gerçekte ne anlama gelmektedir?Ivan Illich, bu eserinde okulun, statükonun korunmasına vesile olan araçlardan biri olduğundan dolayı bu prestije sahip olduğu yolundaki tezini kanıtlamaya çalışmaktadır. Ona göre günümüzdeki okullar eğitimi açısından etkisiz olduğu kadar, bölücü bir nitelik de taşımaktadırBasındanOkullaşmaya karşı eleştirilerini Okulsuz Toplum adıyla kitap haline getirmesi ve Celebration of Awareness'in yayımlanması ile Illich'in görüşleri çok daha geniş bir çevrede tanınmaya başlamıştı. CIDOC 1970'li yıllarda entelektüel düzeyde uluslararası saygınlığı olan bir odak oldu. Ancak Illich'in çalışmalarını eğitim dışındaki konulara kaydırmaya başlaması ve Latin Amerika'ya eskisi gibi misyonerlerin gitmemesi nedeniyle CIDOC'un etkinliği inişe geçti.1980'lerden sonra Illich Meksika, ABD ve Almanya'da çalışmalarını sürdürdü. ABD'de Penn State Üniversitesi'nin Felsefe ve Bilim, Teknoloji ve Toplum bölümlerinde konuk öğretim üyesi olarak ve Almanya'da Bremen Üniversitesi'nde Illich'in fikirleri çevresinde bir araya gelen “Oranlılık Üzerine Araştırmalar Döngüsü” adlı bir grupla birlikte çalıştı. Son yıllarda Oakland'da yaşıyordu ve çalışmalarını ‘oranlılık' kavramı üzerine yoğunlaştırmıştı. Illich, en başta toplumsal cinsiyet üzerinden bölünmüş bir toplumsal yapıda oran duygusunun kaybolduğunu savunuyordu.- Çevre İçin Hekimler Derneği Resmi Web Sitesinden ...&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ivan Illich&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8a8651ec-8dfb-486e-9b41-32282574accf</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789757796664</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/2.xhtml" id="x2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="x6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7.xhtml" id="x7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/sunus.xhtml" id="sunus.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ivanillich.xhtml" id="ivanillich.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="x1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="x5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ivanillich.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="sunus.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="x1.xhtml"/>
+    <itemref idref="x2.xhtml"/>
+    <itemref idref="x3.xhtml"/>
+    <itemref idref="x4.xhtml"/>
+    <itemref idref="x5.xhtml"/>
+    <itemref idref="x6.xhtml"/>
+    <itemref idref="x7.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

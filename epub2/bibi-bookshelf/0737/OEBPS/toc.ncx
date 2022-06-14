@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="7af84632-0b73-4f83-9923-5453b34bb323" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Aşk ve Tutku</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/Ask_ve_Tutku_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ KİTAP</text>
+      </navLabel>
+      <content src="Text/Ask_ve_Tutku_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>İKİNCİ KİTAP</text>
+      </navLabel>
+      <content src="Text/Ask_ve_Tutku_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>ÜÇÜNCÜ KİTAP</text>
+      </navLabel>
+      <content src="Text/Ask_ve_Tutku_split_009.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

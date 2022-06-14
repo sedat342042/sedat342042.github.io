@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Değişen Dünyada Bir Sanatçı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ishiguro, Kazuo">Kazuo Ishiguro</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:42384ea6-9cff-4478-87e4-55c647321eb8</dc:identifier>
+    <dc:date>2014-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>Dünyaya bir ressamın gözünden bakmak, ayrıntılarda gizlenenleri keşfetmemizi sağlar. Masuji Ono, İkinci Dünya Savaşı'nda harabeye dönmüş şehrini ve artık sonuna geldiği yaşamını betimlerken, her bir cümlesi öyküsüne yeni boyutlar katıyor. ----- Anıların değişken aynasında kâh büyüyüp kâh küçülen, sürekli biçim değiştiren imgesinde Japon toplumunun geçirdiği değişimi özetleyen Ono, bu süreçte üstlendiği rolü günahıyla sevabıyla paylaşırken, gelenekle yeniliğin sonsuz bir çevrim içinde birbirini doğurup yok edişini müthiş bir incelikle resmediyor. ----- Geçmişten kopmak için verdiği savaşın hemen ardından bizzat aşılması gereken bir engele dönüşen insan, savaşın, ölümlerin, inançların ve değişimlerin akışına, hatta kendi öyküsüne ne denli hâkimdir? ----- "Değişen Dünyada Bir Sanatçı", zaman nehrine kapılıp giden ömürlerimizin muhasebesi, her insanın taşıdığı kaygılarla umutların buluştuğu o ıssız yerden hayatın karmaşasına bir bakış.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a555fc86-51d9-4dee-b1cd-f7029805f308</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

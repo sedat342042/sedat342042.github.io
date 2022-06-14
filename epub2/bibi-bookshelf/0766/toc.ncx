@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="83c03f0d-de38-4db8-9671-eafb1b7e36bf" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Genç Werther'in Acıları</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="a00925b8-d79d-45bc-9bd4-94bbf913ebe4" playOrder="1">
+      <navLabel>
+        <text>Birinci Kitap</text>
+      </navLabel>
+      <content src="werther_split_004.html"/>
+    </navPoint>
+    <navPoint id="59a835d2-f837-4fbf-a7af-830a3157d52f" playOrder="2">
+      <navLabel>
+        <text>İkinci Kitap</text>
+      </navLabel>
+      <content src="werther_split_005.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

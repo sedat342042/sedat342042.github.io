@@ -1,0 +1,68 @@
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:normal;src:url(../Fonts/ALEGREYA-REGULAR.OTF)}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:bold;src:url(../Fonts/ALEGREYA-BOLD.OTF)}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:bold;src:url(../Fonts/ALEGREYA-BOLDITALIC.OTF)}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:normal;src:url(../Fonts/ALEGREYA-ITALIC.OTF)}
+@font-face{font-family:"Caslon Antique";font-style:normal;font-weight:normal;src:url(../Fonts/CASLONANTIQUE_0.TTF)}
+@font-face{font-family:"Caslon Antique";font-style:normal;font-weight:bold;src:url(../Fonts/CASLONANTIQUE-BOLD_0.TTF)}
+@font-face{font-family:"Caslon Antique";font-style:italic;font-weight:normal;src:url(../Fonts/CASLONANTIQUE-ITALIC.TTF)}
+@font-face{font-family:"TR El001";font-style:normal;font-weight:normal;src:url(../Fonts/TR EL-001.TTF)}
+@font-face{font-family:"TRCroach";font-style:normal;font-weight:normal;src:url(../Fonts/TRCROACH.TTF)}
+@font-face{font-family:"TRKindergarten";font-style:normal;font-weight:normal;src:url(../Fonts/TRKINDERGARTEN.TTF)}
+
+
+@page{margin-left:0.2cm;margin-right:0.2cm;margin-top:0.2cm;margin-bottom:0.2cm}
+body{margin:0}
+
+
+
+p{text-indent:1.1em;line-height:110%;margin-left:0;margin-right:0;margin-top:.5em;margin-bottom:.5em;text-align:justify;font-family:Alegreya,monospace;orphans: 2;widows: 2;font-size:100%}
+
+
+.p0{text-indent:1.4em;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:1.4em;text-align:center;margin-bottom:0}
+.p2{text-indent:1.4em;line-height:100%;text-align:center;margin-bottom:0}
+.p3{text-indent:1.4em;text-align:center}
+.p4{text-indent:1.4em;margin-left:3.5em;line-height:100%;margin-bottom:0}
+.p5{text-indent:1.4em;margin-left:3.5em;line-height:100%;margin-top:0;margin-bottom:0}
+.p6{text-indent:1.4em;line-height:100%;margin-top:0;margin-bottom:0}
+.p7{text-indent:1.4em;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p8{text-indent:0;margin-left:9.5em;line-height:100%;margin-top:0;margin-bottom:0}
+.p9{text-indent:0;margin-left:9.5em;margin-bottom:0}
+.p10{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p11{text-indent:0;margin-left:0;text-align:center;margin-bottom:0}
+.p13{text-indent:0;margin-left:0;text-align:center}
+.p14{text-indent:0;margin-left:4.7em;line-height:100%;margin-top:0;margin-bottom:0}
+.p15{text-indent:0;margin-left:7.1em;line-height:100%;margin-top:0;margin-bottom:0}
+.p16{text-indent:0;margin-left:0}
+.p17{text-indent:1.4em;margin-top:0;margin-bottom:0}
+.p18{text-indent:0;margin-left:0;line-height:100%;margin-top:0;margin-bottom:0}
+.p19{text-indent:1.4em;margin-left:7.1em;line-height:100%;margin-top:0;margin-bottom:0}
+.p20{text-indent:0}
+
+h1{text-indent:0;margin-left:0;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.75em;margin-bottom:.38em;font-family:"Caslon Antique";font-size:145%;font-weight:normal}
+.h11{text-indent:0}
+
+.t2{font-family:"Caslon Antique";font-size:3.8em;line-height:110%;vertical-align:.2em}
+.t3{font-family:"Caslon Antique";font-size:3.8em;line-height:110%;vertical-align:.28em}
+.t4{font-family:"Caslon Antique";font-size:4em;line-height:110%;vertical-align:.19em}
+.t5{font-family:"Caslon Antique";font-size:2.2em;line-height:100%;font-weight:bold;letter-spacing:.15em}
+.t6{font-family:"Caslon Antique";font-size:1.5em;line-height:110%}
+.t7{font-family:"Caslon Antique"}
+.t8{font-size:.75em;line-height:100%}
+.t10{font-size:.83em;line-height:100%}
+.t11{font-size:.83em;line-height:110%}
+.t12{font-size:.83em;line-height:100%;font-weight:bold}
+.t13{font-size:1.5em;line-height:110%;font-weight:bold}
+.t14{font-family:TRCroach;font-size:1.8em;line-height:110%}
+.t15{font-family:TRCroach;font-size:1.3em;line-height:110%}
+.t16{font-family:TRCroach;font-size:1.3em;line-height:100%}
+.t17{font-family:"Caslon Antique"}
+.t18{font-family:"Caslon Antique";font-weight:bold}
+.t19{font-style:italic}
+.t20{font-size:.65em;line-height:110%;color:blue;vertical-align:super}
+.t21{font-size:.83em;line-height:110%;font-weight:bold}
+.t22{font-family:TRKindergarten;font-size:1.3em;line-height:110%}
+.t23{font-family:"TR El001",cursive;font-size:1.3em;line-height:100%}
+.t24{font-style:italic}
+.t25{font-family:"Caslon Antique";font-size:4em;line-height:110%;vertical-align:.33em}
+.t26{font-family:"Caslon Antique";font-size:2.3em;line-height:100%}

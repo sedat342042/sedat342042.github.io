@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Savaş ve Barış (Cilt 2)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tolstoy, Lev Nikolayeviç">Lev Nikolayeviç Tolstoy</dc:creator>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;Cilt 2&lt;/p&gt;
+&lt;p&gt;Dünya edebiyatının en büyük on eserinden biri olarak kabul edilen Savaş ve Barış, savaş ve tahakküm sorunsalına, savaşların sonucu olan insanlık durumlarına derinlikli bir bakış sunuyor. Napolyon'un Moskova'yı işgali sonucu Fransız ve Rus askerlerini karşı karşıya getiren Borodino Napolyon'un Savaşı, toplumda büyük bir kargaşaya sebep olur. Kazananın belirsiz olduğu bu muharebede iki ordu da büyük kayıplar verir. Edebiyat tarihinde benzersiz bir yer biçilen savaş sahneleriyle akıllarda yer eden Savaş ve Barış, aynı zamanda bu büyük savaşın günlüğü olarak da okunabilir. Büyük bir karakter zenginliği içinde, savaş altındaki Rus toplumunun sosyal ve ekonomik koşullarını ele alan roman, aşk, hırs, düşmanlık, ölüm gibi temaları tartışıyor.&lt;/p&gt;
+&lt;p&gt;(Tanıtım Bülteninden)&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{D1A004A8-45A4-45E1-AA39-BE1B2D1DA381}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a795b85a-6f86-478d-92f6-c35423a1289d</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="id24" href="Text/kunye1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id31" href="Text/kunye2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id25" href="Text/tolstoy.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id27" href="Text/kisim3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id33" href="Text/3_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id34" href="Text/3_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id1" href="Text/3_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id28" href="Text/kisim4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="Text/4_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="Text/4_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="Text/4_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="Text/4_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id29" href="Text/sonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="Text/s_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="Text/s_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="Text/georg_son.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id9" href="Text/dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id23" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="FrutigerLightItalicTr.ttf" href="Fonts/FrutigerLightItalicTr.ttf" media-type="application/x-font-truetype"/>
+    <item id="FrutigerLightNrTr.ttf" href="Fonts/FrutigerLightNrTr.ttf" media-type="application/x-font-truetype"/>
+    <item id="FrutigerNormalTr.ttf" href="Fonts/FrutigerNormalTr.ttf" media-type="application/x-font-truetype"/>
+    <item id="TradeGothicTR.otf" href="Fonts/TradeGothicTR.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id23">
+    <itemref idref="titlepage"/>
+    <itemref idref="id24"/>
+    <itemref idref="id31"/>
+    <itemref idref="id25"/>
+    <itemref idref="id27"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id1"/>
+    <itemref idref="id28"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id29"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

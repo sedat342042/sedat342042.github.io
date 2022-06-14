@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:ED4FFFE5-A69B-4AAB-86B8-689851AD727F"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle>
+		<text>biromruninsanlari</text>
+	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>BİRİNCİ BÖLÜM / SİYASET, DEVLET, FİNANS VE DİN ADAMLARI</text>
+			</navLabel>
+			<content src="biromruninsanlari-epub-1.xhtml#_idParaDest-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>İKİNCİ BÖLÜM / İLİM ADAMLARI</text>
+			</navLabel>
+			<content src="biromruninsanlari-epub-1.xhtml#_idParaDest-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>ÜÇÜNCÜ BÖLÜM / SANATKÂRLAR VE YAZARLAR</text>
+			</navLabel>
+			<content src="biromruninsanlari-epub-1.xhtml#_idParaDest-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>DÖRDÜNCÜ BÖLÜM / VE BAŞKALARI...</text>
+			</navLabel>
+			<content src="biromruninsanlari-epub-1.xhtml#_idParaDest-4"/>
+		</navPoint>
+	</navMap>
+</ncx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{EACA57DA-D17B-4DEF-99B9-D700C133D0E8}" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Dün</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Agota Kristof</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Kaçış</text>
+      </navLabel>
+      <content src="Text/P-001.xhtml#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Yalan</text>
+      </navLabel>
+      <content src="Text/P-002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Düşünüyorum</text>
+      </navLabel>
+      <content src="Text/P-003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Ölü Kuş</text>
+      </navLabel>
+      <content src="Text/P-004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Onlar</text>
+      </navLabel>
+      <content src="Text/P-005.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Yağmur</text>
+      </navLabel>
+      <content src="Text/P-006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Gemi Yolcuları</text>
+      </navLabel>
+      <content src="Text/P-007.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

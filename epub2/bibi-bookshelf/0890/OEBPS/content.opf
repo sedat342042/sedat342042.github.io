@@ -1,0 +1,89 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Kalecikli, Kenan">Kenan Kalecikli</dc:creator>
+<dc:identifier id="bookid">urn:uuid:6EACCD69-C12A-47C8-BE24-C18E696CE927</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf">2012-10-07T21:00:00+00:00</dc:date>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-08</dc:date>
+  <dc:title>Sevgi Günlüğü</dc:title>
+<meta name="calibre:title_sort" content="Sevgi Günlüğü"/>
+<dc:publisher>Ephesus Yayınları</dc:publisher>
+<meta name="calibre:series" content="Günce Dizisi"/>
+<meta name="calibre:series_index" content="1.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Aşk</dc:subject>
+<dc:subject>Romantik</dc:subject>
+<dc:description>&lt;p&gt;Vapurdan iniyorum.
+Evlerine çok yakın bir yerdeyim.
+Yürüyorum.
+Sokak lambaları, karanlık ağaçların hışırtısı ve uğultu.
+Ona yaklaşıyorum.
+Hayali, gözlerimde belli belirsiz. Bütün evlerde o var.
+Binlerce kişiye çoğalmış sanki beni çağırıyor.
+Yürüyorum.
+Evlerine iyice yaklaşıyorum. Titriyorum.
+Penceresi.
+Perde.
+Ve sızan sarı ışık.
+Bir tapınağa bakar gibi saygıyla bakıyorum. Bu evde bir sözüyle bana yeniden yaşama sevinci verecek
+Bir varlığın bulunduğunu bilecek kadar duyumsuyorum yaşamı. O var. Çıldıracak gibiyim. Kendimi çok
+Özledim. Yani onu.
+Yürüyorum.
+Zamanın bittiği yerdeyim ve zamanın başladığı.
+Saatlerce dolaşıyorum.
+Üşüyorum.
+&lt;/p&gt;</dc:description>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Kenan Kalecikli&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">a6ab19e5-6131-440c-aeaf-6945d75ad92e</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9786055358167</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/sevgi_gunlugu_yeni.xhtml" id="sevgi_gunlugu_yeni" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-1.xhtml" id="sevgi_gunlugu_yeni-1" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-2.xhtml" id="sevgi_gunlugu_yeni-2" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-3.xhtml" id="sevgi_gunlugu_yeni-3" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-4.xhtml" id="sevgi_gunlugu_yeni-4" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-5.xhtml" id="sevgi_gunlugu_yeni-5" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-6.xhtml" id="sevgi_gunlugu_yeni-6" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-7.xhtml" id="sevgi_gunlugu_yeni-7" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-8.xhtml" id="sevgi_gunlugu_yeni-8" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-9.xhtml" id="sevgi_gunlugu_yeni-9" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-10.xhtml" id="sevgi_gunlugu_yeni-10" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-11.xhtml" id="sevgi_gunlugu_yeni-11" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-12.xhtml" id="sevgi_gunlugu_yeni-12" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-13.xhtml" id="sevgi_gunlugu_yeni-13" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgi_gunlugu_yeni-14.xhtml" id="sevgi_gunlugu_yeni-14" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sevgi_gunl_idstyles.css" id="sevgi_gunl_idstyles.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo_fmt.png" id="logo_fmt.png" media-type="image/png"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="sevgi_gunlugu_yeni"/>
+    <itemref idref="sevgi_gunlugu_yeni-1"/>
+    <itemref idref="sevgi_gunlugu_yeni-2"/>
+    <itemref idref="sevgi_gunlugu_yeni-3"/>
+    <itemref idref="sevgi_gunlugu_yeni-4"/>
+    <itemref idref="sevgi_gunlugu_yeni-5"/>
+    <itemref idref="sevgi_gunlugu_yeni-6"/>
+    <itemref idref="sevgi_gunlugu_yeni-7"/>
+    <itemref idref="sevgi_gunlugu_yeni-8"/>
+    <itemref idref="sevgi_gunlugu_yeni-9"/>
+    <itemref idref="sevgi_gunlugu_yeni-10"/>
+    <itemref idref="sevgi_gunlugu_yeni-11"/>
+    <itemref idref="sevgi_gunlugu_yeni-12"/>
+    <itemref idref="sevgi_gunlugu_yeni-13"/>
+    <itemref idref="sevgi_gunlugu_yeni-14"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

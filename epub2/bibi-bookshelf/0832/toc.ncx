@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="8b588f9e-b8f5-4b28-babc-c6e576e105c9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.8)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tabletteki Sır</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="f98edab4-4502-4bcf-8a71-67dbc8682004" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

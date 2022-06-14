@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dünyaya Neden Batı Hükmediyor (Şimdilik)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Morris, Ian">Ian Morris</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:5c655453-245e-4362-91f7-5cce3e826a54</dc:identifier>
+    <dc:publisher>Alfa Yayınları</dc:publisher>
+    <dc:date>2014-02-11T23:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;"...son 10 bin yılda, bilinen tüm halkların başına gelmiş her türden önemli olayın heyecan dolu sıra dışı bir anlatısı; üstüne bir de gelecekte neler olabileceğine dair bilgi ve deneyimine dayanan bir öngörü. Okuyan, öğrenin ve tadını çıkarın!"
+Jared Diamond, Tüfek, Mikrop ve Çelik'in yazarı
+
+"Hepimizin öğrenmek isteyeceği gibi, bütün yaklaşımları birleştiren bir tarih kuramına en çok yaklaşan çalışma, lan Morris, tarihsel soruların en büyüğünü ele almak amacıyla, antikçağ tarihinin yeni yaklaşımlarını ve anlayışlarını ince bir zekâ ve bilgelikle kullanıyor: Batı nasıl oldu da diğerlerine boyun eğdirdi? Çok beğendim."
+Niall Ferguson, Uygarlık: Batı ve Ötekilerin yazarı
+
+"lan Morris bir klasik çağ arkeologu, bir antikçağ tarihçisi ve nefes kesici vizyonu ve ufkuyla, Jared Diamond ve David Landes gibi isimlerle birlikte anılmayı hak eden bir yazar... MÖ 10.800 kadar MS 2010'u da pırıl pırıl aydınlatan başyapıtı çok kapsamlı bir çalışma olmakla kalmıyor, aynı zamanda bir yetenek gösterisi sunuyor."
+r Paul Cartledge, Cambridge Üniversitesi'nde Antik Yunan Tarihi profesörü
+
+"...Doğu-Batı ilişkilerine taptaze, keskin bir bakış açısı sağlamak üzere bir araya getirilmiş harika bir malzemeler ve otoriteler yelpazesini sunan muhteşem bir sentez ve argüman..."
+Andrew Marr, BBC, Modern Britanya Tarihi Belgeseli'nin yazarı
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2aff88a4-95f3-4345-b689-01879e64e5c7</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051066318</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:5c655453-245e-4362-91f7-5cce3e826a54</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.htm" id="yazar.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.htm" id="kunye.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/title.htm" id="title.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.htm" id="ithaf.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/list.htm" id="list.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/tesekkur.htm" id="tesekkur.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.htm" id="giris.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part1.htm" id="part1.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/01.htm" id="x01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/02.htm" id="x02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/03.htm" id="x03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part2.htm" id="part2.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/04.htm" id="x04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/05.htm" id="x05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/06.htm" id="x06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/07.htm" id="x07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/08.htm" id="x08.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/09.htm" id="x09.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/10.htm" id="x10.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part3.htm" id="part3.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/11.htm" id="x11.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/12.htm" id="x12.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ek.htm" id="ek.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/okumaoneri.htm" id="okumaoneri.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/kaynakca.htm" id="kaynakca.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0101.htm" id="h0101.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0102.htm" id="h0102.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0103.htm" id="h0103.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0104.htm" id="h0104.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0201.htm" id="h0201.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0202.htm" id="h0202.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0203.htm" id="h0203.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0204.htm" id="h0204.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0205.htm" id="h0205.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0206.htm" id="h0206.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0207.htm" id="h0207.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0301.htm" id="h0301.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0401.htm" id="h0401.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0402.htm" id="h0402.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0403.htm" id="h0403.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0501.htm" id="h0501.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0502.htm" id="h0502.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0503.htm" id="h0503.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0504.htm" id="h0504.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0505.htm" id="h0505.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0506.htm" id="h0506.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0507.htm" id="h0507.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0601.htm" id="h0601.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0602.htm" id="h0602.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0603.htm" id="h0603.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0604.htm" id="h0604.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0605.htm" id="h0605.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0701.htm" id="h0701.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0702.htm" id="h0702.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0703.htm" id="h0703.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0704.htm" id="h0704.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0705.htm" id="h0705.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0706.htm" id="h0706.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0801.htm" id="h0801.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0802.htm" id="h0802.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0803.htm" id="h0803.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0804.htm" id="h0804.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0805.htm" id="h0805.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0806.htm" id="h0806.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0807.htm" id="h0807.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0808.htm" id="h0808.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0901.htm" id="h0901.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0902.htm" id="h0902.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0903.htm" id="h0903.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0904.htm" id="h0904.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h0905.htm" id="h0905.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h1001.htm" id="h1001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h1002.htm" id="h1002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h1003.htm" id="h1003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/h1201.htm" id="h1201.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/tabloa4.xhtml" id="tabloa4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Images/AyrimII-1.jpg" id="AyrimII-1.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-2.jpg" id="AyrimII-2.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-3.jpg" id="AyrimII-3.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-4.jpg" id="AyrimII-4.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-5.jpg" id="AyrimII-5.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-6.jpg" id="AyrimII-6.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-7.jpg" id="AyrimII-7.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-8.jpg" id="AyrimII-8.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-9.jpg" id="AyrimII-9.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-10.jpg" id="AyrimII-10.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-11.jpg" id="AyrimII-11.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-12.jpg" id="AyrimII-12.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-13.jpg" id="AyrimII-13.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-14.jpg" id="AyrimII-14.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-15.jpg" id="AyrimII-15.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-16.jpg" id="AyrimII-16.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-17.jpg" id="AyrimII-17.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-18.jpg" id="AyrimII-18.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-19.jpg" id="AyrimII-19.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-20.jpg" id="AyrimII-20.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-21.jpg" id="AyrimII-21.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-22.jpg" id="AyrimII-22.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-23.jpg" id="AyrimII-23.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-24.jpg" id="AyrimII-24.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-25.jpg" id="AyrimII-25.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-26.jpg" id="AyrimII-26.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-27.jpg" id="AyrimII-27.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-28.jpg" id="AyrimII-28.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-29.jpg" id="AyrimII-29.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-30.jpg" id="AyrimII-30.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-31.jpg" id="AyrimII-31.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-32.jpg" id="AyrimII-32.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-33.jpg" id="AyrimII-33.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-34.jpg" id="AyrimII-34.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-35.jpg" id="AyrimII-35.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-36.jpg" id="AyrimII-36.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-37.jpg" id="AyrimII-37.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-38.jpg" id="AyrimII-38.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-39.jpg" id="AyrimII-39.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-40.jpg" id="AyrimII-40.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-41.jpg" id="AyrimII-41.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-42.jpg" id="AyrimII-42.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-43.jpg" id="AyrimII-43.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-44.jpg" id="AyrimII-44.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-45.jpg" id="AyrimII-45.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-46.jpg" id="AyrimII-46.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-47.jpg" id="AyrimII-47.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-48.jpg" id="AyrimII-48.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-49.jpg" id="AyrimII-49.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-50.jpg" id="AyrimII-50.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-51.jpg" id="AyrimII-51.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-52.jpg" id="AyrimII-52.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-53.jpg" id="AyrimII-53.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-54.jpg" id="AyrimII-54.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-55.jpg" id="AyrimII-55.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-56.jpg" id="AyrimII-56.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-57.jpg" id="AyrimII-57.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-58.jpg" id="AyrimII-58.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-59.jpg" id="AyrimII-59.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-60.jpg" id="AyrimII-60.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-61.jpg" id="AyrimII-61.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimII-62.jpg" id="AyrimII-62.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimIII-1.jpg" id="AyrimIII-1.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimIII-2.jpg" id="AyrimIII-2.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimIII-3.jpg" id="AyrimIII-3.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimIII-4.jpg" id="AyrimIII-4.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimIII-5.jpg" id="AyrimIII-5.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimIII-6.jpg" id="AyrimIII-6.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimIII-7.jpg" id="AyrimIII-7.jpg" media-type="image/jpeg"/>
+    <item href="Images/AyrimIII-8.jpg" id="AyrimIII-8.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-1.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-1.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-2.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-2.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-3.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-3.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-4.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-4.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-5.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-5.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-6.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-6.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-7.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-7.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-8.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-8.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-9.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-9.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-10.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-10.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-11.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-11.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-12.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-12.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-13.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-13.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-14.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-14.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-15.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-15.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-16.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-16.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-17.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-17.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-18.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-18.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-19.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-19.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-20.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-20.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-21.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-21.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-22.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-22.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-23.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-23.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-24.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-24.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-25.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-25.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-26.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-26.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-27.jpg" id="Ian_Morris_Dunyaya_Neden_Bati_Hukmediyor-27.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Images/r.png" id="r.png" media-type="image/png"/>
+    <item href="Images/Tablo4a.jpg" id="Tablo4a.jpg" media-type="image/jpeg"/>
+    <item href="Images/Tablo4b.jpg" id="Tablo4b.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/CaeciliaLTStd-Italic.otf" id="CaeciliaLTStd-Italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/CaeciliaLTStd-Roman.otf" id="CaeciliaLTStd-Roman.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/GillSansStd-Italic.ttf" id="GillSansStd-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/GillSansStd.ttf" id="GillSansStd.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/impact.ttf" id="impact.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="yazar.htm"/>
+    <itemref idref="kunye.htm"/>
+    <itemref idref="title.htm"/>
+    <itemref idref="ithaf.htm"/>
+    <itemref idref="list.htm"/>
+    <itemref idref="tesekkur.htm"/>
+    <itemref idref="giris.htm"/>
+    <itemref idref="part1.htm"/>
+    <itemref idref="x01.htm"/>
+    <itemref idref="x02.htm"/>
+    <itemref idref="x03.htm"/>
+    <itemref idref="part2.htm"/>
+    <itemref idref="x04.htm"/>
+    <itemref idref="x05.htm"/>
+    <itemref idref="x06.htm"/>
+    <itemref idref="x07.htm"/>
+    <itemref idref="x08.htm"/>
+    <itemref idref="x09.htm"/>
+    <itemref idref="x10.htm"/>
+    <itemref idref="part3.htm"/>
+    <itemref idref="x11.htm"/>
+    <itemref idref="x12.htm"/>
+    <itemref idref="ek.htm"/>
+    <itemref idref="okumaoneri.htm"/>
+    <itemref idref="kaynakca.htm"/>
+    <itemref idref="h0101.htm"/>
+    <itemref idref="h0102.htm"/>
+    <itemref idref="h0103.htm"/>
+    <itemref idref="h0104.htm"/>
+    <itemref idref="h0201.htm"/>
+    <itemref idref="h0202.htm"/>
+    <itemref idref="h0203.htm"/>
+    <itemref idref="h0204.htm"/>
+    <itemref idref="h0205.htm"/>
+    <itemref idref="h0206.htm"/>
+    <itemref idref="h0207.htm"/>
+    <itemref idref="h0301.htm"/>
+    <itemref idref="h0401.htm"/>
+    <itemref idref="h0402.htm"/>
+    <itemref idref="h0403.htm"/>
+    <itemref idref="h0501.htm"/>
+    <itemref idref="h0502.htm"/>
+    <itemref idref="h0503.htm"/>
+    <itemref idref="h0504.htm"/>
+    <itemref idref="h0505.htm"/>
+    <itemref idref="h0506.htm"/>
+    <itemref idref="h0507.htm"/>
+    <itemref idref="h0601.htm"/>
+    <itemref idref="h0602.htm"/>
+    <itemref idref="h0603.htm"/>
+    <itemref idref="h0604.htm"/>
+    <itemref idref="h0605.htm"/>
+    <itemref idref="h0701.htm"/>
+    <itemref idref="h0702.htm"/>
+    <itemref idref="h0703.htm"/>
+    <itemref idref="h0704.htm"/>
+    <itemref idref="h0705.htm"/>
+    <itemref idref="h0706.htm"/>
+    <itemref idref="h0801.htm"/>
+    <itemref idref="h0802.htm"/>
+    <itemref idref="h0803.htm"/>
+    <itemref idref="h0804.htm"/>
+    <itemref idref="h0805.htm"/>
+    <itemref idref="h0806.htm"/>
+    <itemref idref="h0807.htm"/>
+    <itemref idref="h0808.htm"/>
+    <itemref idref="h0901.htm"/>
+    <itemref idref="h0902.htm"/>
+    <itemref idref="h0903.htm"/>
+    <itemref idref="h0904.htm"/>
+    <itemref idref="h0905.htm"/>
+    <itemref idref="h1001.htm"/>
+    <itemref idref="h1002.htm"/>
+    <itemref idref="h1003.htm"/>
+    <itemref idref="h1201.htm"/>
+    <itemref idref="tabloa4.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

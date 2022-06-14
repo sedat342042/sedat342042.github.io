@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Noktürnler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ishiguro, Kazuo">Kazuo Ishiguro</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7973a8b1-e772-439c-ac0e-4a7c099a92d0</dc:identifier>
+    <dc:date>2015-10-28T21:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>"Noktürnler"de bir araya gelen beş öykünün hepsi müzisyenleri ya da müziği yaşamının merkezine koymuş kişileri konu alıyor. Akşam saatlerinin alacalı ışığında kaygılar ile umutlar, düş kırıklıkları ile baştan başlama dürtüsü, pişmanlık ile inanç arasında döne döne ilerliyoruz. ----- Sona ermiş bir ilişkinin ilham veren finalini, unutulmuş bir yakınlığı dirilten geçmişten bir ezgiyi, kendi sesini bulmak için insanlardan kaçan genç bestecinin belki de gelecekteki haliyle yüzleşmesini, müziğini kitlelere ulaştırmak için akla gelmedik sıkıntıları göze alan saksafoncuyu ve ömrü boyunca müziğini içinde saklı tuttuğuna inanan gizemli kadını anlatan öyküler, Ishiguro'nun imzasını taşıyan bütün eserler gibi insanı sonsuz karmaşası içinde resmediyor. ----- Çağımızın en önemli romancılarından Kazuo Ishiguro'nun ilk öykü derlemesi olan "Noktürnler", müziğe, müzisyenlere ve günbatımına dair incelikli bir beste.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">13ee097b-e287-41bc-81dc-666f53afd478</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

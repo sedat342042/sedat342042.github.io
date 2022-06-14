@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Argol Şatosu'nda</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gracq, Julien">Julien Gracq</dc:creator>
+    <dc:identifier id="uuid">{EDF7271A-6DB1-48A4-9AF9-BFE95A7DA007}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.73.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">1aadec33-f8c4-4417-9499-78fdc53265b8</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="ArgolCov.jpg"/>
+    <meta name="calibre:title_sort" content="Argol Şatosu'nda"/>
+    <meta name="calibre:author_link_map" content="{&quot;Julien Gracq&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar.xhtml" id="Yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/IcKapak.xhtml" id="IcKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OkuraUyari.xhtml" id="OkuraUyari.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section01.xhtml" id="Section01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section02.xhtml" id="Section02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section03.xhtml" id="Section03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section04.xhtml" id="Section04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section05.xhtml" id="Section05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section06.xhtml" id="Section06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section07.xhtml" id="Section07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section08.xhtml" id="Section08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section09.xhtml" id="Section09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section10.xhtml" id="Section10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="ArgolCov.jpg" media-type="image/jpeg"/>
+    <item href="Images/YKY_Logo.jpg" id="YKY_Logo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Yazar.xhtml"/>
+    <itemref idref="IcKapak.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="OkuraUyari.xhtml"/>
+    <itemref idref="Section01.xhtml"/>
+    <itemref idref="Section02.xhtml"/>
+    <itemref idref="Section03.xhtml"/>
+    <itemref idref="Section04.xhtml"/>
+    <itemref idref="Section05.xhtml"/>
+    <itemref idref="Section06.xhtml"/>
+    <itemref idref="Section07.xhtml"/>
+    <itemref idref="Section08.xhtml"/>
+    <itemref idref="Section09.xhtml"/>
+    <itemref idref="Section10.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,15 @@
+ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+ .font0 { font-size:small;}
+ .font1 { font-size:medium;}
+ .font2 { font-size:large;}
+ .font3 { font-size:x-large;}
+ .font4 { font-size:xx-large;}
+ .font5 { font-size:small;}
+ .font6 { font-size:medium;}
+ .font7 { font-size:medium;}
+ .font8 { font-size:xx-large;}

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>tr</dc:language>
+    <dc:title>SON AV</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Jean-Christophe Grangé</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.30.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>DOĞAN KİTAP</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9786050970777</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">19ad1831-748d-41ca-a399-eff27ed7b99c</dc:identifier>
+    <dc:date>2020-04-22T13:44:17+00:00</dc:date>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş.</dc:rights>
+    <meta name="calibre:timestamp" content="2021-11-12T11:45:52.158769+00:00" />
+    <meta name="cover" content="cover" />
+  </metadata>
+  <manifest>
+    <item id="cover" href="OEBPS/image/sonav_on.jpg" media-type="image/jpeg" />
+    <item id="Kapak.xhtml" href="OEBPS/Kapak.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1" href="OEBPS/1.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-1" href="OEBPS/1-1.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-2" href="OEBPS/1-2.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-3" href="OEBPS/1-3.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-4" href="OEBPS/1-4.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-5" href="OEBPS/1-5.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-6" href="OEBPS/1-6.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-7" href="OEBPS/1-7.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-8" href="OEBPS/1-8.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-9" href="OEBPS/1-9.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-10" href="OEBPS/1-10.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-11" href="OEBPS/1-11.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-12" href="OEBPS/1-12.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-13" href="OEBPS/1-13.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-14" href="OEBPS/1-14.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-15" href="OEBPS/1-15.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-16" href="OEBPS/1-16.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-17" href="OEBPS/1-17.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-18" href="OEBPS/1-18.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-19" href="OEBPS/1-19.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-20" href="OEBPS/1-20.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-21" href="OEBPS/1-21.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-22" href="OEBPS/1-22.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-23" href="OEBPS/1-23.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-24" href="OEBPS/1-24.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-25" href="OEBPS/1-25.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-26" href="OEBPS/1-26.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-27" href="OEBPS/1-27.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-28" href="OEBPS/1-28.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-29" href="OEBPS/1-29.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-30" href="OEBPS/1-30.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-31" href="OEBPS/1-31.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-32" href="OEBPS/1-32.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-33" href="OEBPS/1-33.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-34" href="OEBPS/1-34.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-35" href="OEBPS/1-35.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-36" href="OEBPS/1-36.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-37" href="OEBPS/1-37.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-38" href="OEBPS/1-38.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-39" href="OEBPS/1-39.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-40" href="OEBPS/1-40.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-41" href="OEBPS/1-41.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-42" href="OEBPS/1-42.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-43" href="OEBPS/1-43.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-44" href="OEBPS/1-44.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-45" href="OEBPS/1-45.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-46" href="OEBPS/1-46.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-47" href="OEBPS/1-47.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-48" href="OEBPS/1-48.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-49" href="OEBPS/1-49.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-50" href="OEBPS/1-50.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-51" href="OEBPS/1-51.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-52" href="OEBPS/1-52.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-53" href="OEBPS/1-53.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-54" href="OEBPS/1-54.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-55" href="OEBPS/1-55.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-56" href="OEBPS/1-56.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-57" href="OEBPS/1-57.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-58" href="OEBPS/1-58.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-59" href="OEBPS/1-59.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-60" href="OEBPS/1-60.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-61" href="OEBPS/1-61.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-62" href="OEBPS/1-62.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-63" href="OEBPS/1-63.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-64" href="OEBPS/1-64.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-65" href="OEBPS/1-65.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-66" href="OEBPS/1-66.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-67" href="OEBPS/1-67.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-68" href="OEBPS/1-68.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-69" href="OEBPS/1-69.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-70" href="OEBPS/1-70.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-71" href="OEBPS/1-71.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-72" href="OEBPS/1-72.xhtml" media-type="application/xhtml+xml" />
+    <item id="x1-73" href="OEBPS/1-73.xhtml" media-type="application/xhtml+xml" />
+    <item id="ArkaKapak.xhtml" href="OEBPS/ArkaKapak.xhtml" media-type="application/xhtml+xml" />
+    <item id="sonav_arka.jpg" href="OEBPS/image/sonav_arka.jpg" media-type="image/jpeg" />
+    <item id="DK_20.y_llogo.png" href="OEBPS/image/DK_20.y_llogo.png" media-type="image/png" />
+    <item id="Line.png" href="OEBPS/image/Line.png" media-type="image/png" />
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+  <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json" /></manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml" />
+    <itemref idref="x1" />
+    <itemref idref="x1-1" />
+    <itemref idref="x1-2" />
+    <itemref idref="x1-3" />
+    <itemref idref="x1-4" />
+    <itemref idref="x1-5" />
+    <itemref idref="x1-6" />
+    <itemref idref="x1-7" />
+    <itemref idref="x1-8" />
+    <itemref idref="x1-9" />
+    <itemref idref="x1-10" />
+    <itemref idref="x1-11" />
+    <itemref idref="x1-12" />
+    <itemref idref="x1-13" />
+    <itemref idref="x1-14" />
+    <itemref idref="x1-15" />
+    <itemref idref="x1-16" />
+    <itemref idref="x1-17" />
+    <itemref idref="x1-18" />
+    <itemref idref="x1-19" />
+    <itemref idref="x1-20" />
+    <itemref idref="x1-21" />
+    <itemref idref="x1-22" />
+    <itemref idref="x1-23" />
+    <itemref idref="x1-24" />
+    <itemref idref="x1-25" />
+    <itemref idref="x1-26" />
+    <itemref idref="x1-27" />
+    <itemref idref="x1-28" />
+    <itemref idref="x1-29" />
+    <itemref idref="x1-30" />
+    <itemref idref="x1-31" />
+    <itemref idref="x1-32" />
+    <itemref idref="x1-33" />
+    <itemref idref="x1-34" />
+    <itemref idref="x1-35" />
+    <itemref idref="x1-36" />
+    <itemref idref="x1-37" />
+    <itemref idref="x1-38" />
+    <itemref idref="x1-39" />
+    <itemref idref="x1-40" />
+    <itemref idref="x1-41" />
+    <itemref idref="x1-42" />
+    <itemref idref="x1-43" />
+    <itemref idref="x1-44" />
+    <itemref idref="x1-45" />
+    <itemref idref="x1-46" />
+    <itemref idref="x1-47" />
+    <itemref idref="x1-48" />
+    <itemref idref="x1-49" />
+    <itemref idref="x1-50" />
+    <itemref idref="x1-51" />
+    <itemref idref="x1-52" />
+    <itemref idref="x1-53" />
+    <itemref idref="x1-54" />
+    <itemref idref="x1-55" />
+    <itemref idref="x1-56" />
+    <itemref idref="x1-57" />
+    <itemref idref="x1-58" />
+    <itemref idref="x1-59" />
+    <itemref idref="x1-60" />
+    <itemref idref="x1-61" />
+    <itemref idref="x1-62" />
+    <itemref idref="x1-63" />
+    <itemref idref="x1-64" />
+    <itemref idref="x1-65" />
+    <itemref idref="x1-66" />
+    <itemref idref="x1-67" />
+    <itemref idref="x1-68" />
+    <itemref idref="x1-69" />
+    <itemref idref="x1-70" />
+    <itemref idref="x1-71" />
+    <itemref idref="x1-72" />
+    <itemref idref="x1-73" />
+    <itemref idref="ArkaKapak.xhtml" />
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/Kapak.xhtml" title="Cover" />
+    <reference type="other.titlepage" href="OEBPS/Kapak.xhtml" title="Title page" />
+  </guide>
+</package>

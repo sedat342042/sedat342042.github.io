@@ -1,0 +1,492 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Erasmus, Desiderius">Desiderius Erasmus</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f4a9ba77-309a-4839-a887-a90ea6a6109a</dc:identifier>
+    <dc:date>1997-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Kabalcı Yayınevi</dc:publisher>
+    <dc:description>&lt;p&gt;Erasmus tüm metin süresince insanın kendi kendisiyle alay edebilmesinin en güzel örneklerini sunmaktadır. Erasmus bu eserde insancılığın en büyük temsilcisi olduğunu kanıtlamıştır. Eser günceliğini zamanımıza kadar korumuştur. 
+
+Erasmus: İnsanoğlunun tüm zincirlerinden kurtulmasını ve salt özgürlüğe kavuşmasını sağlayacak konumun delilik olduğunu örnekleriyle vurgulamaktadır.
+
+Gülmece türündeki yapıta egemen olan iki temel görüş vardır. Bunlardan birine göre gerçek bilgelik, deliliktir. Öteki görüşe göre ise kendini bilge sanmak, gerçek deliliktir. İnsana yeryüzünde yaşama gücü kazandıran şey, gerçek bilgelik olma niteliğiyle doğrudan doğruya deliliğin kendisidir. Kitapta delilik (stultitia), kendi kendisine övgüler düzer; bu arada çocuklukta ve yaşlılıkta, aşkta, evlilikte ve dostlukta, politikada ve savaşta, yazında ve bilimde deliliğin nasıl her zaman egemen olduğu gösterilir. Tüm uğraş alanları, bu arada özellikle din kurumu ve din adamları bu panorama çerçevesinde sergilenir. Deliliği konuşturma kisvesi altında Erasmus, çağının kilisesine ve o kilisenin mensuplarına en acımasız eleştirileri yöneltir. Bu niteliğiyle "Deliliğe Övgü" çağlar boyunca bağnazlığa karşı kaleme alınmış en yetkin düzeydeki başyapıtlardan biri olmuştur. Yapıtın yazılışını izleyen sonraki yüzyıllarda -haklı olarak- düşünce düzeyindeki bağnazlığın her türlüsüne yönelen bir eleştiri diye yorumlanması, belki de bugüne değin koruduğu kalıcılığın baş nedenidir.
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Deliliğe Övgü"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Desiderius Erasmus&quot;: &quot;&quot;}"/>
+  <dc:title>Deliliğe Övgü</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Gerçek</dc:subject>
+<dc:subject>Din</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Makale</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">455fc223-7950-44bd-bd75-006de82915ae</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9757942294</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">13478991</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arkakapak.xhtml" id="arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yaz.xhtml" id="yaz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak2.xhtml" id="ickapak2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak3.xhtml" id="ickapak3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/erasmus.xhtml" id="erasmus.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ahmet.xhtml" id="ahmet.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli001.xhtml" id="deli001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli002.xhtml" id="deli002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli003.xhtml" id="deli003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli004.xhtml" id="deli004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli005.xhtml" id="deli005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli006.xhtml" id="deli006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli007.xhtml" id="deli007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli008.xhtml" id="deli008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli009.xhtml" id="deli009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli010.xhtml" id="deli010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli011.xhtml" id="deli011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli012.xhtml" id="deli012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli013.xhtml" id="deli013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli014.xhtml" id="deli014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli015.xhtml" id="deli015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli016.xhtml" id="deli016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli017.xhtml" id="deli017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli018.xhtml" id="deli018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli019.xhtml" id="deli019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli020.xhtml" id="deli020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli021.xhtml" id="deli021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli022.xhtml" id="deli022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli023.xhtml" id="deli023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli024.xhtml" id="deli024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli025.xhtml" id="deli025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli026.xhtml" id="deli026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli027.xhtml" id="deli027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli028.xhtml" id="deli028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli029.xhtml" id="deli029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli030.xhtml" id="deli030.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli031.xhtml" id="deli031.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli032.xhtml" id="deli032.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli033.xhtml" id="deli033.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli034.xhtml" id="deli034.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli035.xhtml" id="deli035.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli036.xhtml" id="deli036.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli037.xhtml" id="deli037.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli038.xhtml" id="deli038.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli039.xhtml" id="deli039.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli040.xhtml" id="deli040.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli041.xhtml" id="deli041.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli042.xhtml" id="deli042.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli043.xhtml" id="deli043.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli044.xhtml" id="deli044.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli045.xhtml" id="deli045.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli046.xhtml" id="deli046.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli047.xhtml" id="deli047.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli048.xhtml" id="deli048.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli049.xhtml" id="deli049.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli050.xhtml" id="deli050.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli051.xhtml" id="deli051.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli052.xhtml" id="deli052.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli053.xhtml" id="deli053.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli054.xhtml" id="deli054.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli055.xhtml" id="deli055.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli056.xhtml" id="deli056.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli057.xhtml" id="deli057.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli058.xhtml" id="deli058.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli059.xhtml" id="deli059.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli060.xhtml" id="deli060.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli061.xhtml" id="deli061.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli062.xhtml" id="deli062.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli063.xhtml" id="deli063.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli064.xhtml" id="deli064.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli065.xhtml" id="deli065.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli066.xhtml" id="deli066.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli067.xhtml" id="deli067.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli068.xhtml" id="deli068.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli069.xhtml" id="deli069.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli070.xhtml" id="deli070.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli071.xhtml" id="deli071.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli072.xhtml" id="deli072.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli073.xhtml" id="deli073.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli074.xhtml" id="deli074.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli075.xhtml" id="deli075.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli076.xhtml" id="deli076.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli077.xhtml" id="deli077.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli078.xhtml" id="deli078.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli079.xhtml" id="deli079.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli080.xhtml" id="deli080.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli081.xhtml" id="deli081.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli082.xhtml" id="deli082.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli083.xhtml" id="deli083.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli084.xhtml" id="deli084.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli085.xhtml" id="deli085.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli086.xhtml" id="deli086.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli087.xhtml" id="deli087.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli088.xhtml" id="deli088.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli089.xhtml" id="deli089.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli090.xhtml" id="deli090.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli091.xhtml" id="deli091.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli092.xhtml" id="deli092.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli093.xhtml" id="deli093.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli094.xhtml" id="deli094.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli095.xhtml" id="deli095.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli096.xhtml" id="deli096.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli097.xhtml" id="deli097.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli098.xhtml" id="deli098.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli099.xhtml" id="deli099.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli100.xhtml" id="deli100.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli101.xhtml" id="deli101.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli102.xhtml" id="deli102.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli103.xhtml" id="deli103.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli104.xhtml" id="deli104.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli105.xhtml" id="deli105.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli106.xhtml" id="deli106.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli107.xhtml" id="deli107.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli108.xhtml" id="deli108.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli109.xhtml" id="deli109.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli110.xhtml" id="deli110.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli111.xhtml" id="deli111.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli112.xhtml" id="deli112.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli113.xhtml" id="deli113.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli114.xhtml" id="deli114.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli115.xhtml" id="deli115.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli116.xhtml" id="deli116.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli117.xhtml" id="deli117.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli118.xhtml" id="deli118.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli119.xhtml" id="deli119.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli120.xhtml" id="deli120.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli121.xhtml" id="deli121.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli122.xhtml" id="deli122.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli123.xhtml" id="deli123.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli124.xhtml" id="deli124.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli125.xhtml" id="deli125.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli126.xhtml" id="deli126.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli127.xhtml" id="deli127.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli128.xhtml" id="deli128.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli129.xhtml" id="deli129.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli130.xhtml" id="deli130.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli131.xhtml" id="deli131.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli132.xhtml" id="deli132.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli133.xhtml" id="deli133.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli134.xhtml" id="deli134.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli135.xhtml" id="deli135.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli136.xhtml" id="deli136.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli137.xhtml" id="deli137.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli138.xhtml" id="deli138.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli139.xhtml" id="deli139.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli140.xhtml" id="deli140.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli141.xhtml" id="deli141.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli142.xhtml" id="deli142.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli143.xhtml" id="deli143.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli144.xhtml" id="deli144.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli145.xhtml" id="deli145.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli146.xhtml" id="deli146.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli147.xhtml" id="deli147.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli148.xhtml" id="deli148.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli149.xhtml" id="deli149.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli150.xhtml" id="deli150.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli151.xhtml" id="deli151.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli152.xhtml" id="deli152.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli153.xhtml" id="deli153.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli154.xhtml" id="deli154.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli155.xhtml" id="deli155.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli156.xhtml" id="deli156.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli157.xhtml" id="deli157.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli158.xhtml" id="deli158.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli159.xhtml" id="deli159.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli160.xhtml" id="deli160.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli161.xhtml" id="deli161.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli162.xhtml" id="deli162.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli163.xhtml" id="deli163.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli164.xhtml" id="deli164.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli165.xhtml" id="deli165.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli166.xhtml" id="deli166.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli167.xhtml" id="deli167.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli168.xhtml" id="deli168.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli169.xhtml" id="deli169.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli170.xhtml" id="deli170.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli171.xhtml" id="deli171.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli172.xhtml" id="deli172.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli173.xhtml" id="deli173.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli174.xhtml" id="deli174.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli175.xhtml" id="deli175.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli176.xhtml" id="deli176.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli177.xhtml" id="deli177.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli178.xhtml" id="deli178.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli179.xhtml" id="deli179.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli180.xhtml" id="deli180.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli181.xhtml" id="deli181.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deli182.xhtml" id="deli182.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/001.jpg" id="x001.jpg" media-type="image/jpeg"/>
+    <item href="Images/002.jpg" id="x002.jpg" media-type="image/jpeg"/>
+    <item href="Images/003.jpg" id="x003.jpg" media-type="image/jpeg"/>
+    <item href="Images/004.jpg" id="x004.jpg" media-type="image/jpeg"/>
+    <item href="Images/005.jpg" id="x005.jpg" media-type="image/jpeg"/>
+    <item href="Images/006.jpg" id="x006.jpg" media-type="image/jpeg"/>
+    <item href="Images/007.jpg" id="x007.jpg" media-type="image/jpeg"/>
+    <item href="Images/008.jpg" id="x008.jpg" media-type="image/jpeg"/>
+    <item href="Images/009.jpg" id="x009.jpg" media-type="image/jpeg"/>
+    <item href="Images/010.jpg" id="x010.jpg" media-type="image/jpeg"/>
+    <item href="Images/011.jpg" id="x011.jpg" media-type="image/jpeg"/>
+    <item href="Images/012.jpg" id="x012.jpg" media-type="image/jpeg"/>
+    <item href="Images/013.jpg" id="x013.jpg" media-type="image/jpeg"/>
+    <item href="Images/014.jpg" id="x014.jpg" media-type="image/jpeg"/>
+    <item href="Images/015.jpg" id="x015.jpg" media-type="image/jpeg"/>
+    <item href="Images/016.jpg" id="x016.jpg" media-type="image/jpeg"/>
+    <item href="Images/017.jpg" id="x017.jpg" media-type="image/jpeg"/>
+    <item href="Images/018.jpg" id="x018.jpg" media-type="image/jpeg"/>
+    <item href="Images/019.jpg" id="x019.jpg" media-type="image/jpeg"/>
+    <item href="Images/020.jpg" id="x020.jpg" media-type="image/jpeg"/>
+    <item href="Images/021.jpg" id="x021.jpg" media-type="image/jpeg"/>
+    <item href="Images/022.jpg" id="x022.jpg" media-type="image/jpeg"/>
+    <item href="Images/023.jpg" id="x023.jpg" media-type="image/jpeg"/>
+    <item href="Images/024.jpg" id="x024.jpg" media-type="image/jpeg"/>
+    <item href="Images/025.jpg" id="x025.jpg" media-type="image/jpeg"/>
+    <item href="Images/026.jpg" id="x026.jpg" media-type="image/jpeg"/>
+    <item href="Images/027.jpg" id="x027.jpg" media-type="image/jpeg"/>
+    <item href="Images/028.jpg" id="x028.jpg" media-type="image/jpeg"/>
+    <item href="Images/029.jpg" id="x029.jpg" media-type="image/jpeg"/>
+    <item href="Images/030.jpg" id="x030.jpg" media-type="image/jpeg"/>
+    <item href="Images/031.jpg" id="x031.jpg" media-type="image/jpeg"/>
+    <item href="Images/032.jpg" id="x032.jpg" media-type="image/jpeg"/>
+    <item href="Images/033.jpg" id="x033.jpg" media-type="image/jpeg"/>
+    <item href="Images/034.jpg" id="x034.jpg" media-type="image/jpeg"/>
+    <item href="Images/035.jpg" id="x035.jpg" media-type="image/jpeg"/>
+    <item href="Images/036.jpg" id="x036.jpg" media-type="image/jpeg"/>
+    <item href="Images/037.jpg" id="x037.jpg" media-type="image/jpeg"/>
+    <item href="Images/038.jpg" id="x038.jpg" media-type="image/jpeg"/>
+    <item href="Images/039.jpg" id="x039.jpg" media-type="image/jpeg"/>
+    <item href="Images/040.jpg" id="x040.jpg" media-type="image/jpeg"/>
+    <item href="Images/041.jpg" id="x041.jpg" media-type="image/jpeg"/>
+    <item href="Images/042.jpg" id="x042.jpg" media-type="image/jpeg"/>
+    <item href="Images/043.jpg" id="x043.jpg" media-type="image/jpeg"/>
+    <item href="Images/044.jpg" id="x044.jpg" media-type="image/jpeg"/>
+    <item href="Images/045.jpg" id="x045.jpg" media-type="image/jpeg"/>
+    <item href="Images/046.jpg" id="x046.jpg" media-type="image/jpeg"/>
+    <item href="Images/047.jpg" id="x047.jpg" media-type="image/jpeg"/>
+    <item href="Images/048.jpg" id="x048.jpg" media-type="image/jpeg"/>
+    <item href="Images/049.jpg" id="x049.jpg" media-type="image/jpeg"/>
+    <item href="Images/050.jpg" id="x050.jpg" media-type="image/jpeg"/>
+    <item href="Images/051.jpg" id="x051.jpg" media-type="image/jpeg"/>
+    <item href="Images/052.jpg" id="x052.jpg" media-type="image/jpeg"/>
+    <item href="Images/053.jpg" id="x053.jpg" media-type="image/jpeg"/>
+    <item href="Images/054.jpg" id="x054.jpg" media-type="image/jpeg"/>
+    <item href="Images/055.jpg" id="x055.jpg" media-type="image/jpeg"/>
+    <item href="Images/056.jpg" id="x056.jpg" media-type="image/jpeg"/>
+    <item href="Images/057.jpg" id="x057.jpg" media-type="image/jpeg"/>
+    <item href="Images/058.jpg" id="x058.jpg" media-type="image/jpeg"/>
+    <item href="Images/059.jpg" id="x059.jpg" media-type="image/jpeg"/>
+    <item href="Images/060.jpg" id="x060.jpg" media-type="image/jpeg"/>
+    <item href="Images/061.jpg" id="x061.jpg" media-type="image/jpeg"/>
+    <item href="Images/062.jpg" id="x062.jpg" media-type="image/jpeg"/>
+    <item href="Images/063.jpg" id="x063.jpg" media-type="image/jpeg"/>
+    <item href="Images/064.jpg" id="x064.jpg" media-type="image/jpeg"/>
+    <item href="Images/065.jpg" id="x065.jpg" media-type="image/jpeg"/>
+    <item href="Images/066.jpg" id="x066.jpg" media-type="image/jpeg"/>
+    <item href="Images/erasmus.jpg" id="erasmus.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="arkakapak.xhtml"/>
+    <itemref idref="yaz.xhtml"/>
+    <itemref idref="ickapak2.xhtml"/>
+    <itemref idref="ickapak3.xhtml"/>
+    <itemref idref="erasmus.xhtml"/>
+    <itemref idref="ahmet.xhtml"/>
+    <itemref idref="deli001.xhtml"/>
+    <itemref idref="deli002.xhtml"/>
+    <itemref idref="deli003.xhtml"/>
+    <itemref idref="deli004.xhtml"/>
+    <itemref idref="deli005.xhtml"/>
+    <itemref idref="deli006.xhtml"/>
+    <itemref idref="deli007.xhtml"/>
+    <itemref idref="deli008.xhtml"/>
+    <itemref idref="deli009.xhtml"/>
+    <itemref idref="deli010.xhtml"/>
+    <itemref idref="deli011.xhtml"/>
+    <itemref idref="deli012.xhtml"/>
+    <itemref idref="deli013.xhtml"/>
+    <itemref idref="deli014.xhtml"/>
+    <itemref idref="deli015.xhtml"/>
+    <itemref idref="deli016.xhtml"/>
+    <itemref idref="deli017.xhtml"/>
+    <itemref idref="deli018.xhtml"/>
+    <itemref idref="deli019.xhtml"/>
+    <itemref idref="deli020.xhtml"/>
+    <itemref idref="deli021.xhtml"/>
+    <itemref idref="deli022.xhtml"/>
+    <itemref idref="deli023.xhtml"/>
+    <itemref idref="deli024.xhtml"/>
+    <itemref idref="deli025.xhtml"/>
+    <itemref idref="deli026.xhtml"/>
+    <itemref idref="deli027.xhtml"/>
+    <itemref idref="deli028.xhtml"/>
+    <itemref idref="deli029.xhtml"/>
+    <itemref idref="deli030.xhtml"/>
+    <itemref idref="deli031.xhtml"/>
+    <itemref idref="deli032.xhtml"/>
+    <itemref idref="deli033.xhtml"/>
+    <itemref idref="deli034.xhtml"/>
+    <itemref idref="deli035.xhtml"/>
+    <itemref idref="deli036.xhtml"/>
+    <itemref idref="deli037.xhtml"/>
+    <itemref idref="deli038.xhtml"/>
+    <itemref idref="deli039.xhtml"/>
+    <itemref idref="deli040.xhtml"/>
+    <itemref idref="deli041.xhtml"/>
+    <itemref idref="deli042.xhtml"/>
+    <itemref idref="deli043.xhtml"/>
+    <itemref idref="deli044.xhtml"/>
+    <itemref idref="deli045.xhtml"/>
+    <itemref idref="deli046.xhtml"/>
+    <itemref idref="deli047.xhtml"/>
+    <itemref idref="deli048.xhtml"/>
+    <itemref idref="deli049.xhtml"/>
+    <itemref idref="deli050.xhtml"/>
+    <itemref idref="deli051.xhtml"/>
+    <itemref idref="deli052.xhtml"/>
+    <itemref idref="deli053.xhtml"/>
+    <itemref idref="deli054.xhtml"/>
+    <itemref idref="deli055.xhtml"/>
+    <itemref idref="deli056.xhtml"/>
+    <itemref idref="deli057.xhtml"/>
+    <itemref idref="deli058.xhtml"/>
+    <itemref idref="deli059.xhtml"/>
+    <itemref idref="deli060.xhtml"/>
+    <itemref idref="deli061.xhtml"/>
+    <itemref idref="deli062.xhtml"/>
+    <itemref idref="deli063.xhtml"/>
+    <itemref idref="deli064.xhtml"/>
+    <itemref idref="deli065.xhtml"/>
+    <itemref idref="deli066.xhtml"/>
+    <itemref idref="deli067.xhtml"/>
+    <itemref idref="deli068.xhtml"/>
+    <itemref idref="deli069.xhtml"/>
+    <itemref idref="deli070.xhtml"/>
+    <itemref idref="deli071.xhtml"/>
+    <itemref idref="deli072.xhtml"/>
+    <itemref idref="deli073.xhtml"/>
+    <itemref idref="deli074.xhtml"/>
+    <itemref idref="deli075.xhtml"/>
+    <itemref idref="deli076.xhtml"/>
+    <itemref idref="deli077.xhtml"/>
+    <itemref idref="deli078.xhtml"/>
+    <itemref idref="deli079.xhtml"/>
+    <itemref idref="deli080.xhtml"/>
+    <itemref idref="deli081.xhtml"/>
+    <itemref idref="deli082.xhtml"/>
+    <itemref idref="deli083.xhtml"/>
+    <itemref idref="deli084.xhtml"/>
+    <itemref idref="deli085.xhtml"/>
+    <itemref idref="deli086.xhtml"/>
+    <itemref idref="deli087.xhtml"/>
+    <itemref idref="deli088.xhtml"/>
+    <itemref idref="deli089.xhtml"/>
+    <itemref idref="deli090.xhtml"/>
+    <itemref idref="deli091.xhtml"/>
+    <itemref idref="deli092.xhtml"/>
+    <itemref idref="deli093.xhtml"/>
+    <itemref idref="deli094.xhtml"/>
+    <itemref idref="deli095.xhtml"/>
+    <itemref idref="deli096.xhtml"/>
+    <itemref idref="deli097.xhtml"/>
+    <itemref idref="deli098.xhtml"/>
+    <itemref idref="deli099.xhtml"/>
+    <itemref idref="deli100.xhtml"/>
+    <itemref idref="deli101.xhtml"/>
+    <itemref idref="deli102.xhtml"/>
+    <itemref idref="deli103.xhtml"/>
+    <itemref idref="deli104.xhtml"/>
+    <itemref idref="deli105.xhtml"/>
+    <itemref idref="deli106.xhtml"/>
+    <itemref idref="deli107.xhtml"/>
+    <itemref idref="deli108.xhtml"/>
+    <itemref idref="deli109.xhtml"/>
+    <itemref idref="deli110.xhtml"/>
+    <itemref idref="deli111.xhtml"/>
+    <itemref idref="deli112.xhtml"/>
+    <itemref idref="deli113.xhtml"/>
+    <itemref idref="deli114.xhtml"/>
+    <itemref idref="deli115.xhtml"/>
+    <itemref idref="deli116.xhtml"/>
+    <itemref idref="deli117.xhtml"/>
+    <itemref idref="deli118.xhtml"/>
+    <itemref idref="deli119.xhtml"/>
+    <itemref idref="deli120.xhtml"/>
+    <itemref idref="deli121.xhtml"/>
+    <itemref idref="deli122.xhtml"/>
+    <itemref idref="deli123.xhtml"/>
+    <itemref idref="deli124.xhtml"/>
+    <itemref idref="deli125.xhtml"/>
+    <itemref idref="deli126.xhtml"/>
+    <itemref idref="deli127.xhtml"/>
+    <itemref idref="deli128.xhtml"/>
+    <itemref idref="deli129.xhtml"/>
+    <itemref idref="deli130.xhtml"/>
+    <itemref idref="deli131.xhtml"/>
+    <itemref idref="deli132.xhtml"/>
+    <itemref idref="deli133.xhtml"/>
+    <itemref idref="deli134.xhtml"/>
+    <itemref idref="deli135.xhtml"/>
+    <itemref idref="deli136.xhtml"/>
+    <itemref idref="deli137.xhtml"/>
+    <itemref idref="deli138.xhtml"/>
+    <itemref idref="deli139.xhtml"/>
+    <itemref idref="deli140.xhtml"/>
+    <itemref idref="deli141.xhtml"/>
+    <itemref idref="deli142.xhtml"/>
+    <itemref idref="deli143.xhtml"/>
+    <itemref idref="deli144.xhtml"/>
+    <itemref idref="deli145.xhtml"/>
+    <itemref idref="deli146.xhtml"/>
+    <itemref idref="deli147.xhtml"/>
+    <itemref idref="deli148.xhtml"/>
+    <itemref idref="deli149.xhtml"/>
+    <itemref idref="deli150.xhtml"/>
+    <itemref idref="deli151.xhtml"/>
+    <itemref idref="deli152.xhtml"/>
+    <itemref idref="deli153.xhtml"/>
+    <itemref idref="deli154.xhtml"/>
+    <itemref idref="deli155.xhtml"/>
+    <itemref idref="deli156.xhtml"/>
+    <itemref idref="deli157.xhtml"/>
+    <itemref idref="deli158.xhtml"/>
+    <itemref idref="deli159.xhtml"/>
+    <itemref idref="deli160.xhtml"/>
+    <itemref idref="deli161.xhtml"/>
+    <itemref idref="deli162.xhtml"/>
+    <itemref idref="deli163.xhtml"/>
+    <itemref idref="deli164.xhtml"/>
+    <itemref idref="deli165.xhtml"/>
+    <itemref idref="deli166.xhtml"/>
+    <itemref idref="deli167.xhtml"/>
+    <itemref idref="deli168.xhtml"/>
+    <itemref idref="deli169.xhtml"/>
+    <itemref idref="deli170.xhtml"/>
+    <itemref idref="deli171.xhtml"/>
+    <itemref idref="deli172.xhtml"/>
+    <itemref idref="deli173.xhtml"/>
+    <itemref idref="deli174.xhtml"/>
+    <itemref idref="deli175.xhtml"/>
+    <itemref idref="deli176.xhtml"/>
+    <itemref idref="deli177.xhtml"/>
+    <itemref idref="deli178.xhtml"/>
+    <itemref idref="deli179.xhtml"/>
+    <itemref idref="deli180.xhtml"/>
+    <itemref idref="deli181.xhtml"/>
+    <itemref idref="deli182.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

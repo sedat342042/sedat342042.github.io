@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="bfab1014-3942-4683-82d1-797b66dcb6b2" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.45.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İngiltere İngiltere'ye Karşı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u0d22bd8a-bbd8-40a9-9f08-69129b17118c" playOrder="1">
+      <navLabel>
+        <text>JULIAN BARNES</text>
+      </navLabel>
+      <content src="Text/index_split_000.html"/>
+    </navPoint>
+    <navPoint id="ufcf8a12f-ab47-4225-bda7-146ef61780a1" playOrder="2">
+      <navLabel>
+        <text>I İNGİLTERE</text>
+      </navLabel>
+      <content src="Text/index_split_004.html"/>
+    </navPoint>
+    <navPoint id="u7c219479-b4da-43f6-9659-6ef93a3b56a0" playOrder="3">
+      <navLabel>
+        <text>II İNGİLTERE, İNGİLTERE</text>
+      </navLabel>
+      <content src="Text/index_split_006.html"/>
+      <navPoint id="u8fd9d465-4de8-4ff7-80b9-923fda869027" playOrder="4">
+        <navLabel>
+          <text>Bir</text>
+        </navLabel>
+        <content src="Text/index_split_007.html"/>
+      </navPoint>
+      <navPoint id="u7186d070-e66a-4bcf-b22f-da388607d9f9" playOrder="5">
+        <navLabel>
+          <text>İki</text>
+        </navLabel>
+        <content src="Text/index_split_008.html"/>
+      </navPoint>
+      <navPoint id="uc4117761-74af-431f-839c-056880ac2d84" playOrder="6">
+        <navLabel>
+          <text>Üç</text>
+        </navLabel>
+        <content src="Text/index_split_009.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u5aebe4d8-8c4b-47e3-afed-95ed02fd977f" playOrder="7">
+      <navLabel>
+        <text>III ANGLIA</text>
+      </navLabel>
+      <content src="Text/index_split_010.html"/>
+    </navPoint>
+    <navPoint id="u6f262150-5576-4c59-803d-61f795656932" playOrder="8">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/index_split_012.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Rousseau, Jean Jacques" opf:role="aut">Jean Jacques Rousseau</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID" />
+    <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+    <dc:date>2012-06-15T21:00:00+00:00</dc:date>
+    <dc:publisher>Bordo-Siyah</dc:publisher>
+    <meta content="0.7.2" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+    <dc:title>Yalnız Gezenin Düşleri</dc:title>
+    <meta content="Yalnız Gezenin Düşleri" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Biyografi</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Fransız Aydınlanması'nın 'aykırı' sesi Rousseau, edebiyatın geleneksel türleri içinde kendisine kolayca bir yer bulamayan bu 'anı' ile 'roman' arası metinde, hayatı ile bir son hesaplaşma çabasına girişiyor. Bu hesaplaşma en başta düşünürün iç dünyasına, geçmişine yaptığı bir yolculuk anlamına gelmektedir. Yalnızca Aydınlanma'nın değil, tarihin en büyük ve en önemli devrimlerinden birini gerçekleştirmek üzere olan burjuvazinin, tarihe kendi 'aklı' ile yön verme hedefinin içinden yükselen uygarlık eleştirisi ve buna bağlı 'doğaya&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;dönüş' çağrısıyla Romantik akıma öncülük etmiş, halk iradesinin monarşiye karşı üstünlüğünü savunan bu 'eleştirel ses', Rousseau'nun hayatının son yıllarında içine sürüklendiği yalnızlığın, tecrit edilmişliğin kalın duvarlarını ören sestir de.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.24.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Jean Jacques Rousseau&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2c1e6843-521c-4ab0-9c14-1894ebf01bab</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054439362</dc:identifier>
+    <dc:date opf:event="modification">2014-02-21</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css" />
+    <item href="Images/Nakkal%20Siyah.png" id="Nakkal_Siyah.png" media-type="image/png" />
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml" />
+    <item href="Text/dikkat.xhtml" id="dikkat.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css" />
+    <item href="Text/telif.xhtml" id="telif.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum10.xhtml" id="bolum10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum6.xhtml" id="bolum6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum7.xhtml" id="bolum7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum8.xhtml" id="bolum8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum9.xhtml" id="bolum9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml" />
+    <item href="Misc/Yalnız Gezenin Düşleri - Jean Jacques Rousseau.epub" id="Yalnız_Gezenin_Düşleri_-_Jean_Jacques_Rousseau.epub" media-type="text/plain" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html" />
+    <itemref idref="telif.xhtml" />
+    <itemref idref="dikkat.xhtml" />
+    <itemref idref="toc.xhtml" />
+    <itemref idref="giris.xhtml" />
+    <itemref idref="bolum1.xhtml" />
+    <itemref idref="bolum2.xhtml" />
+    <itemref idref="bolum3.xhtml" />
+    <itemref idref="bolum4.xhtml" />
+    <itemref idref="bolum5.xhtml" />
+    <itemref idref="bolum6.xhtml" />
+    <itemref idref="bolum7.xhtml" />
+    <itemref idref="bolum8.xhtml" />
+    <itemref idref="bolum9.xhtml" />
+    <itemref idref="bolum10.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover" />
+    <reference href="Text/toc.xhtml" title="Table Of Contents" type="toc" />
+    <reference href="Text/rica.html" title="Text" type="text" />
+    <reference href="Text/dikkat.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum5.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum6.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum7.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum8.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum9.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum10.xhtml" title="Text" type="text" />
+    <reference href="Text/giris.xhtml" title="Foreword" type="foreword" />
+  </guide>
+</package>

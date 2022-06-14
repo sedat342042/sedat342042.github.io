@@ -1,0 +1,393 @@
+@font-face {
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/BerlingLTStd-Roman.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: italic;
+	src:url("../Fonts/BerlingLTStd-Italic.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "Berling";
+	font-weight: bold;
+	font-style: normal;
+	src:url("../Fonts/BerlingLTStd-Medium.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "Berling";
+	font-weight: bold;
+	font-style: italic;
+	src:url("../Fonts/BerlingLTStd-MedItalic.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/GillSansStd.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: italic;
+	src:url("../Fonts/GillSansStd-Italic.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "GoudyCat";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/GoudyCatTReg.ttf") format("truetype"); 
+}
+
+/*cover*/
+
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+
+.cover-container img {
+	width: 100%;
+}
+
+/*copyright-page*/
+
+
+.press {
+	margin-bottom: 1em;
+}
+
+.copyright-page .copy{
+	margin-top: 1em;
+}
+.copyright-page .publisher{
+	margin-top: 2em;
+}
+
+.copyright-page span{
+	font-family: "Gill Sans";
+	font-size:0.75em;
+	display: block;
+}
+
+.copyright-page .pull {
+	padding-left: .51em;
+}
+
+.copyright-page a{
+	color:#777;
+	text-decoration: none;
+	
+}
+
+/*titlepage*/
+
+.title{
+	text-align: center;
+}
+
+.aut{
+	margin-top: 2em;
+	font:normal normal 1.69em/1.2em "GoudyCat";
+	text-align: center;
+}
+
+.aut .bfl {
+	font-size: 1.14em;
+}
+
+.work{
+	font:normal normal 2.35em/1.2em "GoudyCat";
+	margin-top: .5em;
+}
+
+
+.trans {
+	font-family: "Gill Sans";
+	font-size: .83em;
+	margin-top: 4em;
+}
+
+.trans span{
+	font-size: 1.2em;
+	line-height: 2.5em;
+	display: block;
+}
+
+.logo{
+	margin: 3em auto 0 auto;
+}
+
+/*biography*/
+
+.biography p{
+	font-family: "Gill Sans";
+	font-size: .75em;
+	line-height: 1.4em;
+	text-indent: 0;
+}
+
+.biography .trl {
+	margin-top: 2em;
+}
+
+/*works*/
+
+.works p{
+	margin-top: 4em;
+	font-family: "Gill Sans";
+	font-size: .83em;
+	text-indent: 0;
+}
+
+.works ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.works ul li {
+	font-family: "Gill Sans";
+	font-size: .83em;
+	padding-bottom: .3em;
+}
+/*introduction*/
+
+.introduction .container,
+.notice .container
+{
+	margin-top: 4em;
+}
+
+.intro-header,
+.note-header
+ {
+	font:normal normal 1.16em/1.3em "Berling";
+	text-align: center;
+	margin-bottom: 1.5em;
+}
+
+.introsub-header
+ {
+	font:normal bold .83em/1.3em "Berling";
+	text-align:left;
+	padding-left: 2em;
+	margin-bottom: 1em;
+	margin-top: 1.2em;
+}
+
+.introduction p,
+.notice p {
+	font:normal normal .8em/1.3em "Berling";
+	margin: 0 auto;
+	text-indent: 2em;
+}
+
+.introduction blockquote {
+	margin: 1em 1.2em;
+}
+
+.introduction blockquote p {
+	font:normal normal .8em/1.3em "Gill Sans";
+	text-indent: 1.3em
+}
+
+.introduction cite,
+.notice cite
+ {
+	display: block;
+	text-align: right;
+	margin-top: 1em;
+	font:normal normal .8em/1.3em "Berling";
+}
+
+/*part*/
+
+.part1 .container
+ {
+	margin-top: 6em;
+}
+
+.part2 .container {
+	margin-top: 6em;
+	max-width: 20em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.part1 .part-header {
+	font:normal normal 1.42em/1.3em "Berling";
+	text-align: center;
+}
+
+.part2 .part-header {
+	font:normal normal 1.25em/1.3em "Berling";
+	text-align: center;
+}
+
+/*title-image*/
+
+.title-image .img-container {
+	max-width: 450px;
+	margin: auto auto;
+	page-break-inside: avoid;
+}
+
+.title-image .img-container img {
+	width:100%;
+}
+
+.title-image .fg-cap {
+	text-align: right;
+	font:normal normal .75em/1.3em "Gill Sans";
+	padding-top: 1.5em;
+}
+
+/*chapter*/
+
+.chapter .container {
+	margin-top: 4em;
+}
+
+.chapter-header {
+	font:normal normal 1.25em/1.3em "Berling";
+	text-align: center;
+	margin-bottom: 1.5em;
+}
+
+.sub-header {
+	font:normal bold 1em/1.3em "Berling";
+	text-align: center;
+	margin-bottom: 1em;
+	margin-top: 1.2em;
+}
+
+.text-header {
+	font:normal bold .875em/1.3em "Berling";
+	margin-bottom: 1em;
+}
+
+.chapter-header span {
+	display: block;
+	padding-bottom: .5em;
+}
+
+.chapter p {
+	font:normal normal .875em/1.3em "Berling";
+	margin: 0 auto;
+	text-indent: 2em;
+}
+
+.chapter ol {
+	margin:0;
+	padding-left: 0;
+	list-style-position: inside;
+}
+
+.chapter ol li {
+	font:normal normal .875em/1.3em "Berling";
+	text-indent: 2em;
+}
+
+.chapter .epigraph {
+	text-align: center;
+	margin-top: 1em;
+}
+
+.chapter .epigraph span {
+	font:normal normal .875em/1.3em "Berling";
+}
+
+/*preface*/
+
+.preface .container
+ {
+	margin-top: 4em;
+}
+
+.pre-header {
+	font:normal normal 1.16em/1.3em "Berling";
+	text-align: center;
+	margin-bottom: 1.5em;
+}
+
+.preface p {
+	font:normal normal .8em/1.3em "Berling";
+	margin: 0 auto;
+	text-indent: 2em;
+}
+
+.preface cite {
+	font:normal normal .8em/1.3em "Berling";
+	text-align: right;
+	display: block;
+	margin-top: 1em;
+}
+
+.preface blockquote {
+	margin:1em 1.3em;
+
+}
+
+.preface blockquote p {
+	font: normal normal .8em/1.3em "Gill Sans";
+	text-indent: 1.5em;
+}
+
+.preface blockquote cite {
+	font: normal normal .8em/1.3em "Gill Sans";
+	text-align: right;
+	display: block;
+	margin-top: 1em;
+}
+
+/*common*/
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+
+h1 .si-noteref {
+	font-size: .6em;
+}
+
+.si-footnotes{
+	margin:4em 0 1em;
+}
+
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+	font-size: 1.1em;
+}
+
+.si-footnote{
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	font-size: .75em;
+	margin-bottom: .25em;
+}
+
+.si-footnote p {
+	font-size: 1em;
+	font-family: "Gill Sans";
+	margin-top: .5em;
+	text-indent: 0;
+}

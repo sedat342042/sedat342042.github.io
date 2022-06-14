@@ -1,0 +1,93 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Çanakkale'nin Bilinmezleri</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Yazıcı, Fazıl">Fazıl Yazıcı</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Yitik Hazine Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-12-06</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">5d796d29-a477-453b-aea9-672fcabd1ce2</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="0.9.1" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Çanakkale'nin Bilinmezleri"/>
+    <meta name="calibre:author_link_map" content="{&quot;Fazıl Yazıcı&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="../cover.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub.html" id="canakkalenin_bilinmezleri_epub" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-1.html" id="canakkalenin_bilinmezleri_epub-1" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-2.html" id="canakkalenin_bilinmezleri_epub-2" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-3.html" id="canakkalenin_bilinmezleri_epub-3" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-4.html" id="canakkalenin_bilinmezleri_epub-4" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-5.html" id="canakkalenin_bilinmezleri_epub-5" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-6.html" id="canakkalenin_bilinmezleri_epub-6" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-7.html" id="canakkalenin_bilinmezleri_epub-7" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-8.html" id="canakkalenin_bilinmezleri_epub-8" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-9.html" id="canakkalenin_bilinmezleri_epub-9" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-10.html" id="canakkalenin_bilinmezleri_epub-10" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-11.html" id="canakkalenin_bilinmezleri_epub-11" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-12.html" id="canakkalenin_bilinmezleri_epub-12" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-13.html" id="canakkalenin_bilinmezleri_epub-13" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkalenin_bilinmezleri_epub-14.html" id="canakkalenin_bilinmezleri_epub-14" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/Ashabi Bedir_1_fmt.png" id="Ashabi-20Bedir_1_fmt.png" media-type="image/png"/>
+    <item href="Images/Ashabi Bedir_2_fmt.png" id="Ashabi-20Bedir_2_fmt.png" media-type="image/png"/>
+    <item href="Images/ayasofya15_fmt.png" id="ayasofya15_fmt.png" media-type="image/png"/>
+    <item href="Images/Bogazda itilaf Donanma_fmt.jpeg" id="Bogazda-20itilaf-20Donanma_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/bOUVET BATisi_fmt.png" id="bOUVET-20BATisi_fmt.png" media-type="image/png"/>
+    <item href="Images/Canakkale Donanmamizi _fmt.jpeg" id="Canakkale-20Donanmamizi-20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Canakkale gazilerindenI_fmt.png" id="Canakkale-20gazilerindenI_fmt.png" media-type="image/png"/>
+    <item href="Images/Canakkale gravuru_fmt.jpeg" id="Canakkale-20gravuru_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Canakkale muharebesi k_fmt.jpeg" id="Canakkale-20muharebesi-20k_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Canakkale siperde peri_fmt.jpeg" id="Canakkale-20siperde-20peri_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Canakkale Turkuaz denia_fmt.png" id="Canakkale-20Turkuaz-20denia_fmt.png" media-type="image/png"/>
+    <item href="Images/Canakkalede atlarina su_fmt.png" id="Canakkalede-20atlarina-20su_fmt.png" media-type="image/png"/>
+    <item href="Images/Canakkalede Bowet zirhl_fmt.png" id="Canakkalede-20Bowet-20zirhl_fmt.png" media-type="image/png"/>
+    <item href="Images/Cannakkele Bombardimani_fmt.png" id="Cannakkele-20Bombardimani_fmt.png" media-type="image/png"/>
+    <item href="Images/Cimenlik Kalesi_fmt.jpeg" id="Cimenlik-20Kalesi_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/harita 1_fmt.png" id="harita-201_fmt.png" media-type="image/png"/>
+    <item href="Images/harita 3_fmt.jpeg" id="harita-203_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/harita 4_fmt.png" id="harita-204_fmt.png" media-type="image/png"/>
+    <item href="Images/inflexible 2 copy_fmt.jpeg" id="inflexible-202-20copy_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Kilitbahir kalesi_fmt.jpeg" id="Kilitbahir-20kalesi_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kilitbahir_fmt.jpeg" id="kilitbahir_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Kilitbahir_kalesi_fmt.png" id="Kilitbahir_kalesi_fmt.png" media-type="image/png"/>
+    <item href="Images/Kirectepe Yarbay Musta_fmt.jpeg" id="Kirectepe-20Yarbay-20Musta_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Limnide ingiliz yemekha_fmt.png" id="Limnide-20ingiliz-20yemekha_fmt.png" media-type="image/png"/>
+    <item href="Images/Mehmed Resadin Cenazes_fmt.jpeg" id="Mehmed-20Resadin-20Cenazes_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Mesudiye Firkateyni Mu_fmt.jpeg" id="Mesudiye-20Firkateyni-20Mu_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Nakliye kollari_fmt.jpeg" id="Nakliye-20kollari_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Nusret mayin gemisi_fmt.png" id="Nusret-20mayin-20gemisi_fmt.png" media-type="image/png"/>
+    <item href="Images/Satyrische Europa_fmt.jpeg" id="Satyrische-20Europa_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Seddul Bahir_fmt.jpeg" id="Seddul-20Bahir_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Suleyman Pasa mescidi_fmt.jpeg" id="Suleyman-20Pasa-20mescidi_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/yavuz_fmt.png" id="yavuz_fmt.png" media-type="image/png"/>
+    <item href="Images/yenikapi mevlevihanesi_fmt.png" id="yenikapi-20mevlevihanesi_fmt.png" media-type="image/png"/>
+    <item href="Images/yitikhazine_logo_fmt.jpeg" id="yitikhazine_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Zirhli osmanli firkatey_fmt.png" id="Zirhli-20osmanli-20firkatey_fmt.png" media-type="image/png"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-1"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-2"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-3"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-4"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-5"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-6"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-7"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-8"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-9"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-10"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-11"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-12"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-13"/>
+    <itemref idref="canakkalenin_bilinmezleri_epub-14"/>
+  </spine>
+</package>

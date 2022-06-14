@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750722905" name="dtb:uid"/>
+      <meta content="1" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>MOZART</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İÇİNDEKİLER</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Genişletilmiş üçüncü baskıya önsöz</text>
+         </navLabel>
+         <content src="Text/preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>1756-1782</text>
+         </navLabel>
+         <content src="Text/part1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>1756-1763: Bir dâhinin babası: Leopold Mozart</text>
+         </navLabel>
+         <content src="Text/chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>1763-1766: Büyük Avrupa gezisi</text>
+         </navLabel>
+         <content src="Text/chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>1767-1769: İtalya öncesi olgunlaşma</text>
+         </navLabel>
+         <content src="Text/chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>1769-1773: Müziğin anavatanında</text>
+         </navLabel>
+         <content src="Text/chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>1774-1776: Salzburg - Münih</text>
+         </navLabel>
+         <content src="Text/chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>1777-1779: Yeniden Paris - İlk büyük aşk - İlk hayal kırıklığı</text>
+         </navLabel>
+         <content src="Text/chapter6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>1779-1781: Salzburg’da Başpiskopos’un emrinde, Münih’te Idomeneo</text>
+         </navLabel>
+         <content src="Text/chapter7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>1781-1782: Salzburg’dan kopuş - Saraydan Kız Kaçırma - Constanze</text>
+         </navLabel>
+         <content src="Text/chapter8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>1782-1791</text>
+         </navLabel>
+         <content src="Text/chapter9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="11">
+         <navLabel>
+            <text>1782-1785: Evliliğin ilk ayları - Salzburg gezisi - Viyana’da konserler</text>
+         </navLabel>
+         <content src="Text/chapter9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="12">
+         <navLabel>
+            <text>1785-1790: Üç başyapıt: Figaro’nun Düğünü, Don Giovanni, Cosi fan tutte</text>
+         </navLabel>
+         <content src="Text/chapter10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="13">
+         <navLabel>
+            <text>1790-1791: Son perde</text>
+         </navLabel>
+         <content src="Text/chapter11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="14">
+         <navLabel>
+            <text>1791’den sonrası</text>
+         </navLabel>
+         <content src="Text/part3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="15">
+         <navLabel>
+            <text>Mozart ve çağı</text>
+         </navLabel>
+         <content src="Text/cronology.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="16">
+         <navLabel>
+            <text>Kaynakça</text>
+         </navLabel>
+         <content src="Text/bibliography.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="17">
+         <navLabel>
+            <text>Dizin</text>
+         </navLabel>
+         <content src="Text/index.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

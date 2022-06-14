@@ -1,0 +1,301 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Zusak, Markus">Markus Zusak</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:cd65e103-7969-41c5-9daa-32de483f1fd7</dc:identifier>
+    <dc:date opf:event="eldkaan">2014-05-04</dc:date>
+    <dc:contributor opf:role="trl">Selim Yeniçeri</dc:contributor>
+    <dc:publisher>Martı Yayınları</dc:publisher>
+    <dc:date>2012-02-29T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-05-08</dc:date>
+    <dc:description>&lt;p&gt;Hiç Kimse Sıradan Değildir'in yazarı Markus Zusak'tan
+Tüm dünyada büyük yankı uyandıran sıra dışı bir roman
+
+"Yılın en çok beklenen kitabı. Olağanüstü... gerçekten muhteşem!"
+Publishers Weekly
+
+"Merak uyandıran, hayat dolu ve son derece ustalıkla yazılmış, nefes kesen bir roman; aynı zamanda harikulade ve sürükleyici."
+The Guardian
+
+
+Ödüllü yazar Markus Zusak'ın akıllara kazınacak kadar etkileyici ve şiirsel bir dille yazdığı bu roman, okuyucuya sunulan benzersiz bir hediye gibi...
+
+"Hayatınızı böylesine derinden etkileyen başka bir kitaba daha rastlamamışsınızdır. Muhteşem!"
+GoodReads
+
+"Bu unutulmaz hikâye kalbinizi çalacak!"
+The New York Times
+
+"Güzel, felsefi bir yanı da bulunan sürükleyici bir roman...
+Herkes okumalı!"
+Kirkus Reviews
+
+"Markus Zusak, zorlu bir konuyu ustalıkla anlatarak gerçek bir başarı yakalamış. Olağanüstü... tek kelimeyle harika bir kitap."
+The Wall Street Journal&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.png"/>
+    <meta name="calibre:title_sort" content="Kitap Hırsızı"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Markus Zusak&quot;: &quot;&quot;}"/>
+  <dc:title>Kitap Hırsızı</dc:title>
+<dc:subject>Tarihi Roman</dc:subject>
+<dc:subject>Savaş</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">710b4292-9bdc-4478-9b9f-27980fcc2970</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053480600</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KH001.html" id="KH001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH002.html" id="KH002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH003.html" id="KH003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH004.html" id="KH004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH005.html" id="KH005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH006.html" id="KH006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH007.html" id="KH007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH008.html" id="KH008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH009.html" id="KH009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH010.html" id="KH010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH011.html" id="KH011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH012.html" id="KH012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH013.html" id="KH013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH014.html" id="KH014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH015.html" id="KH015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH016.html" id="KH016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH017.html" id="KH017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH018.html" id="KH018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH019.html" id="KH019.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH020.html" id="KH020.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH021.html" id="KH021.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH022.html" id="KH022.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH023.html" id="KH023.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH024.html" id="KH024.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH025.html" id="KH025.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH026.html" id="KH026.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH027.html" id="KH027.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH028.html" id="KH028.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH029.html" id="KH029.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH030.html" id="KH030.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH031.html" id="KH031.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH032.html" id="KH032.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH033.html" id="KH033.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH034.html" id="KH034.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH035.html" id="KH035.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH036.html" id="KH036.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH037.html" id="KH037.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH038.html" id="KH038.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH039.html" id="KH039.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH040.html" id="KH040.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH041.html" id="KH041.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH042.html" id="KH042.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH043.html" id="KH043.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH044.html" id="KH044.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH045.html" id="KH045.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH046.html" id="KH046.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH047.html" id="KH047.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH048.html" id="KH048.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH049.html" id="KH049.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH050.html" id="KH050.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH051.html" id="KH051.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH052.html" id="KH052.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH052_0001.html" id="KH052_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH053.html" id="KH053.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH054.html" id="KH054.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH055.html" id="KH055.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH056.html" id="KH056.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH057.html" id="KH057.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH058.html" id="KH058.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH059.html" id="KH059.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH060.html" id="KH060.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH061.html" id="KH061.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH062.html" id="KH062.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH063.html" id="KH063.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH064.html" id="KH064.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH065.html" id="KH065.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH066.html" id="KH066.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH067.html" id="KH067.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH068.html" id="KH068.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH069.html" id="KH069.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH070.html" id="KH070.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH071.html" id="KH071.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH072.html" id="KH072.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH073.html" id="KH073.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH074.html" id="KH074.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH075.html" id="KH075.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH076.html" id="KH076.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH077.html" id="KH077.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH078.html" id="KH078.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH079.html" id="KH079.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH080.html" id="KH080.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH081.html" id="KH081.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH082.html" id="KH082.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH083.html" id="KH083.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH084.html" id="KH084.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH085.html" id="KH085.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH086.html" id="KH086.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH087.html" id="KH087.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH088.html" id="KH088.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH089.html" id="KH089.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH090.html" id="KH090.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH091.html" id="KH091.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH092.html" id="KH092.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH093.html" id="KH093.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH094.html" id="KH094.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH095.html" id="KH095.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH096.html" id="KH096.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH097.html" id="KH097.html" media-type="application/xhtml+xml"/>
+    <item href="Text/KH098.html" id="KH098.html" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ogz.css" id="ogz.css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/_kapak.png" id="_kapak.png" media-type="image/png"/>
+    <item href="Images/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+    <item href="Images/10.jpg" id="x10.jpg" media-type="image/jpeg"/>
+    <item href="Images/11.jpg" id="x11.jpg" media-type="image/jpeg"/>
+    <item href="Images/12.jpg" id="x12.jpg" media-type="image/jpeg"/>
+    <item href="Images/13.jpg" id="x13.jpg" media-type="image/jpeg"/>
+    <item href="Images/14.jpg" id="x14.jpg" media-type="image/jpeg"/>
+    <item href="Images/15.jpg" id="x15.jpg" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+    <item href="Images/3.jpg" id="x3.jpg" media-type="image/jpeg"/>
+    <item href="Images/4.jpg" id="x4.jpg" media-type="image/jpeg"/>
+    <item href="Images/5.jpg" id="x5.jpg" media-type="image/jpeg"/>
+    <item href="Images/6.jpg" id="x6.jpg" media-type="image/jpeg"/>
+    <item href="Images/7.jpg" id="x7.jpg" media-type="image/jpeg"/>
+    <item href="Images/8.jpg" id="x8.jpg" media-type="image/jpeg"/>
+    <item href="Images/9.jpg" id="x9.jpg" media-type="image/jpeg"/>
+    <item href="Images/beyaz.bmp" id="beyaz.bmp" media-type="image/x-ms-bmp"/>
+    <item href="Images/d1.png" id="d1.png" media-type="image/png"/>
+    <item href="Images/d2.png" id="d2.png" media-type="image/png"/>
+    <item href="Images/d3.png" id="d3.png" media-type="image/png"/>
+    <item href="Images/d4.png" id="d4.png" media-type="image/png"/>
+    <item href="Images/d5.png" id="d5.png" media-type="image/png"/>
+    <item href="Images/d6.png" id="d6.png" media-type="image/png"/>
+    <item href="Images/d7.png" id="d7.png" media-type="image/png"/>
+    <item href="Images/image002.jpg" id="image002.jpg" media-type="image/jpeg"/>
+    <item href="Images/image006.jpg" id="image006.jpg" media-type="image/jpeg"/>
+    <item href="Images/image013.jpg" id="image013.jpg" media-type="image/jpeg"/>
+    <item href="Images/image044.jpg" id="image044.jpg" media-type="image/jpeg"/>
+    <item href="Images/image045.jpg" id="image045.jpg" media-type="image/jpeg"/>
+    <item href="Images/image046.jpg" id="image046.jpg" media-type="image/jpeg"/>
+    <item href="Images/image047.jpg" id="image047.jpg" media-type="image/jpeg"/>
+    <item href="Images/image048.jpg" id="image048.jpg" media-type="image/jpeg"/>
+    <item href="Images/image049.jpg" id="image049.jpg" media-type="image/jpeg"/>
+    <item href="Images/image050.jpg" id="image050.jpg" media-type="image/jpeg"/>
+    <item href="Images/image051.jpg" id="image051.jpg" media-type="image/jpeg"/>
+    <item href="Images/image052.jpg" id="image052.jpg" media-type="image/jpeg"/>
+    <item href="Images/image053.jpg" id="image053.jpg" media-type="image/jpeg"/>
+    <item href="Images/image054.jpg" id="image054.jpg" media-type="image/jpeg"/>
+    <item href="Images/siyah.jpg" id="siyah.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="KH001.html"/>
+    <itemref idref="KH002.html"/>
+    <itemref idref="KH003.html"/>
+    <itemref idref="KH004.html"/>
+    <itemref idref="KH005.html"/>
+    <itemref idref="KH006.html"/>
+    <itemref idref="KH007.html"/>
+    <itemref idref="KH008.html"/>
+    <itemref idref="KH009.html"/>
+    <itemref idref="KH010.html"/>
+    <itemref idref="KH011.html"/>
+    <itemref idref="KH012.html"/>
+    <itemref idref="KH013.html"/>
+    <itemref idref="KH014.html"/>
+    <itemref idref="KH015.html"/>
+    <itemref idref="KH016.html"/>
+    <itemref idref="KH017.html"/>
+    <itemref idref="KH018.html"/>
+    <itemref idref="KH019.html"/>
+    <itemref idref="KH020.html"/>
+    <itemref idref="KH021.html"/>
+    <itemref idref="KH022.html"/>
+    <itemref idref="KH023.html"/>
+    <itemref idref="KH024.html"/>
+    <itemref idref="KH025.html"/>
+    <itemref idref="KH026.html"/>
+    <itemref idref="KH027.html"/>
+    <itemref idref="KH028.html"/>
+    <itemref idref="KH029.html"/>
+    <itemref idref="KH030.html"/>
+    <itemref idref="KH031.html"/>
+    <itemref idref="KH032.html"/>
+    <itemref idref="KH033.html"/>
+    <itemref idref="KH034.html"/>
+    <itemref idref="KH035.html"/>
+    <itemref idref="KH036.html"/>
+    <itemref idref="KH037.html"/>
+    <itemref idref="KH038.html"/>
+    <itemref idref="KH039.html"/>
+    <itemref idref="KH040.html"/>
+    <itemref idref="KH041.html"/>
+    <itemref idref="KH042.html"/>
+    <itemref idref="KH043.html"/>
+    <itemref idref="KH044.html"/>
+    <itemref idref="KH045.html"/>
+    <itemref idref="KH046.html"/>
+    <itemref idref="KH047.html"/>
+    <itemref idref="KH048.html"/>
+    <itemref idref="KH049.html"/>
+    <itemref idref="KH050.html"/>
+    <itemref idref="KH051.html"/>
+    <itemref idref="KH052.html"/>
+    <itemref idref="KH052_0001.html"/>
+    <itemref idref="KH053.html"/>
+    <itemref idref="KH054.html"/>
+    <itemref idref="KH055.html"/>
+    <itemref idref="KH056.html"/>
+    <itemref idref="KH057.html"/>
+    <itemref idref="KH058.html"/>
+    <itemref idref="KH059.html"/>
+    <itemref idref="KH060.html"/>
+    <itemref idref="KH061.html"/>
+    <itemref idref="KH062.html"/>
+    <itemref idref="KH063.html"/>
+    <itemref idref="KH064.html"/>
+    <itemref idref="KH065.html"/>
+    <itemref idref="KH066.html"/>
+    <itemref idref="KH067.html"/>
+    <itemref idref="KH068.html"/>
+    <itemref idref="KH069.html"/>
+    <itemref idref="KH070.html"/>
+    <itemref idref="KH071.html"/>
+    <itemref idref="KH072.html"/>
+    <itemref idref="KH073.html"/>
+    <itemref idref="KH074.html"/>
+    <itemref idref="KH075.html"/>
+    <itemref idref="KH076.html"/>
+    <itemref idref="KH077.html"/>
+    <itemref idref="KH078.html"/>
+    <itemref idref="KH079.html"/>
+    <itemref idref="KH080.html"/>
+    <itemref idref="KH081.html"/>
+    <itemref idref="KH082.html"/>
+    <itemref idref="KH083.html"/>
+    <itemref idref="KH084.html"/>
+    <itemref idref="KH085.html"/>
+    <itemref idref="KH086.html"/>
+    <itemref idref="KH087.html"/>
+    <itemref idref="KH088.html"/>
+    <itemref idref="KH089.html"/>
+    <itemref idref="KH090.html"/>
+    <itemref idref="KH091.html"/>
+    <itemref idref="KH092.html"/>
+    <itemref idref="KH093.html"/>
+    <itemref idref="KH094.html"/>
+    <itemref idref="KH095.html"/>
+    <itemref idref="KH096.html"/>
+    <itemref idref="KH097.html"/>
+    <itemref idref="KH098.html"/>
+    <itemref idref="TOC.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

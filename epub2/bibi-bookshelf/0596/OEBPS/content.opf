@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Hitler, Adolf" opf:role="aut">Adolf Hitler</dc:creator>
+    <dc:date>2011-03-25T15:16:34+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">474dda1a-6770-4d88-ba83-fbc3d1299ee3</dc:identifier>
+    <dc:date opf:event="modification">2014-02-13</dc:date>
+    <dc:publisher>Bilinmeyen</dc:publisher>
+    <dc:description>&lt;p&gt;Dünyanın gelmiş geçmiş en kanlı ve en sert diktatörlerinden Adolf Hitler. Liderliğiyle peşinden binlerce Alman'ı sürükleyen karizmatik bir siyasetçi. Ancak hayatına kendi elleriyle son vermek zorunda kalan İkinci Dünya Savaşı mağlubu bir önder. Çok şeyler yapmak istediği hayatında hızla yükseklere tırmanan bir Nasyonel Sosyalist. Ancak tüm dünyayı karşısına aldığı için hızla gerileyen Nazilerin fikir önderi Hayatına yön vereceği ideallerini, politikalarını ve hatıralarını kaleme alarak yazdığı tek kitabı ile milyonlar tarafından okunan bir yazar aynı zamanda. Şubat 1924'te beş yıl hapis cezasına çarptırılan Hitler, Aralık ayında şartlı tahliye edildi. Ama Landsberg Kalesi'nde geçirdiği bu "zorunlu" boş zamanlarını değerlendirerek Kavgam'ı (Mein Kampf) yazdı. Ona göre sadece en kuvvetli insan "ırkları" (bunların başında Hitler'e göre Ariler gelir), yani Kuzey Avrupa'nın beyaz halkları bu acımasız ölüm-kalım mücadelesini kazanarak hayatta kalabileceklerdi.&lt;/p&gt;</dc:description>
+    <meta content="Kavgam" name="calibre:title_sort" />
+    <meta content="2011-11-25T21:54:22+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <meta content="{&quot;Adolf Hitler&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="6.0" name="calibre:rating" />
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:title>Kavgam</dc:title>
+    <dc:subject>tarih</dc:subject>
+    <dc:subject>Anı</dc:subject>
+    <dc:subject>Otobiyografi</dc:subject>
+    <dc:subject>Siyaset</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2e383088-ba32-464f-a759-87ab4d8847fb</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9799758496630</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kavgam_split_000.html" id="id18" media-type="application/xhtml+xml" />
+    <item href="Text/Kavgam_split_001.html" id="id17" media-type="application/xhtml+xml" />
+    <item href="Text/Kavgam_split_002.html" id="id16" media-type="application/xhtml+xml" />
+    <item href="Text/Kavgam_split_003.html" id="id15" media-type="application/xhtml+xml" />
+    <item href="Text/Kavgam_split_004.html" id="id14" media-type="application/xhtml+xml" />
+    <item href="Text/Kavgam_split_005.html" id="id13" media-type="application/xhtml+xml" />
+    <item href="Text/Kavgam_split_006.html" id="id12" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="id18" />
+    <itemref idref="id17" />
+    <itemref idref="id16" />
+    <itemref idref="id15" />
+    <itemref idref="id14" />
+    <itemref idref="id13" />
+    <itemref idref="id12" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

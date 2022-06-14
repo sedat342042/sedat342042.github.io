@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Bilinmeyen yazar</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>B4CBC080BAFECF2CD8D4133BD08F5A01</string>
+		<key>cover-image-path</key>
+		<string>cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>A6261AF876863C9D010E78E7F570B4CE</string>
+		<key>publisher-unique-id</key>
+		<string>{31975392-71B8-461F-A0B1-587C00D4A6F1}</string>
+		<key>unique-id</key>
+		<integer>1109191979253182124</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Ahmet Umit-Istanbul Hatırası</string>
+	<key>playlistName</key>
+	<string>Ahmet Umit-Istanbul Hatırası</string>
+</dict>
+</plist>

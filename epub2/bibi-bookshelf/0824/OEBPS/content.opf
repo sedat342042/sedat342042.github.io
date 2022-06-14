@@ -1,0 +1,109 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7e9c200d-7946-4917-be4c-6aa3f8a485cf</dc:identifier>
+    <dc:date>2014-08-29T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x0.jpg"/>
+  <dc:title>Mişel Strogof</dc:title>
+<meta name="calibre:title_sort" content="Mişel Strogof"/>
+<dc:publisher>İthaki Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:description>&lt;p&gt;1800′lerin ikinci yarısında Rus Çarlığı. Bir yanda istilacı Tatar birliklerinin başındaki zalim Feofar Han, bir yanda Tatarların işbirlikçisi eski Rus subayı hain İvan Ogaref, diğer yanda ise Sibirya’nın zorlu yollarında ilerlemeye çalışan bir genç kız, istilayı izlemeye gelen iki Avrupalı gazeteci, Sibirya’nın uzak bir köşesinde mahsur kalmış grandük ve çar tarafından görevlendirilen, bütün ülkenin kaderinin bağlı olduğu bir ulak: Mişel Strogof. Mişel Strogof bütün iletişim imkanlarının kesintiye uğradığı bir ortamda Sibirya’yı baştanbaşa geçerek Moskova’dan İrkutsk’a hayati bir haber taşımakla görevlidir. Bir yandan doğanın yarattığı engellerle diğer yandan istilacı düşmanlarla başa çıkmak zorundadır. Jules Verne, çarın ulağının başından geçenleri anlatırken hem bir kahramanlık destanı, hem bir yol hikayesi, hem de bir tarihi roman sunuyor bizlere; okuyucuyu Sibirya coğrafyasında gezdirirken Avrupalı gazetecilerin ağzından Rus Çarlığı’nın yerel halklarla ilişkilerine dair fikirlerini aktarıyor, kahramanın görev bilinciyle duygusal dünyası arasındaki çelişkilerin analizini yapmayı da ihmal etmiyor.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">edd29bec-deda-4220-8408-6b91511b3d8e</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section35.xhtml" id="Section35.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section1.xhtml" id="Section1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section2.xhtml" id="Section2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section3.xhtml" id="Section3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section4.xhtml" id="Section4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section5.xhtml" id="Section5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section6.xhtml" id="Section6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section7.xhtml" id="Section7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section8.xhtml" id="Section8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section9.xhtml" id="Section9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section10.xhtml" id="Section10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section11.xhtml" id="Section11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section12.xhtml" id="Section12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section13.xhtml" id="Section13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section14.xhtml" id="Section14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section15.xhtml" id="Section15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section16.xhtml" id="Section16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section17.xhtml" id="Section17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section18.xhtml" id="Section18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section19.xhtml" id="Section19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section20.xhtml" id="Section20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section21.xhtml" id="Section21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section22.xhtml" id="Section22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section23.xhtml" id="Section23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section24.xhtml" id="Section24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section25.xhtml" id="Section25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section26.xhtml" id="Section26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section27.xhtml" id="Section27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section28.xhtml" id="Section28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section29.xhtml" id="Section29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section30.xhtml" id="Section30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section31.xhtml" id="Section31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section32.xhtml" id="Section32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section33.xhtml" id="Section33.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section34.xhtml" id="Section34.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css"/>
+    <item href="Images/ithaki.jpg" id="ithaki.jpg" media-type="image/jpeg"/>
+    <item href="Images/0.jpg" id="x0.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0.xhtml" id="Section0.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DiPNOTLAR.xhtml" id="DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0.xhtml"/>
+    <itemref idref="Section1.xhtml"/>
+    <itemref idref="Section2.xhtml"/>
+    <itemref idref="Section3.xhtml"/>
+    <itemref idref="Section4.xhtml"/>
+    <itemref idref="Section5.xhtml"/>
+    <itemref idref="Section6.xhtml"/>
+    <itemref idref="Section7.xhtml"/>
+    <itemref idref="Section8.xhtml"/>
+    <itemref idref="Section9.xhtml"/>
+    <itemref idref="Section10.xhtml"/>
+    <itemref idref="Section11.xhtml"/>
+    <itemref idref="Section12.xhtml"/>
+    <itemref idref="Section13.xhtml"/>
+    <itemref idref="Section14.xhtml"/>
+    <itemref idref="Section15.xhtml"/>
+    <itemref idref="Section16.xhtml"/>
+    <itemref idref="Section17.xhtml"/>
+    <itemref idref="Section18.xhtml"/>
+    <itemref idref="Section19.xhtml"/>
+    <itemref idref="Section20.xhtml"/>
+    <itemref idref="Section21.xhtml"/>
+    <itemref idref="Section22.xhtml"/>
+    <itemref idref="Section23.xhtml"/>
+    <itemref idref="Section24.xhtml"/>
+    <itemref idref="Section25.xhtml"/>
+    <itemref idref="Section26.xhtml"/>
+    <itemref idref="Section27.xhtml"/>
+    <itemref idref="Section28.xhtml"/>
+    <itemref idref="Section29.xhtml"/>
+    <itemref idref="Section30.xhtml"/>
+    <itemref idref="Section31.xhtml"/>
+    <itemref idref="Section32.xhtml"/>
+    <itemref idref="Section33.xhtml"/>
+    <itemref idref="Section34.xhtml"/>
+    <itemref idref="Section35.xhtml"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

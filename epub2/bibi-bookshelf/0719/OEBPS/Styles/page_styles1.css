@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    src: url(../Fonts/Georgia1.ttf);
+    panose-1: 2 4 5 2 5 4 5 2 3 3;
+    font-family: "Georgia"
+    }
+@font-face {
+    src: url(../Fonts/Georgia-Bold1.ttf);
+    panose-1: 2 4 8 2 5 4 5 2 2 3;
+    font-family: "Georgia";
+    font-weight: bold
+    }
+@font-face {
+    src: url(../Fonts/Georgia-Italic1.ttf);
+    panose-1: 2 4 5 2 5 4 5 9 3 3;
+    font-family: "Georgia";
+    font-style: italic
+    }
+@font-face {
+    src: url(../Fonts/Georgia-Bold-Italic1.ttf);
+    panose-1: 2 4 8 2 5 4 5 9 2 3;
+    font-family: "Georgia";
+    font-weight: bold;
+    font-style: italic
+    }

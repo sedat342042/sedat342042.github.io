@@ -1,0 +1,111 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+<dc:identifier id="uuid">{6FFB9FF5-BAC0-4F94-BF64-B4CCAA43ED05}</dc:identifier>
+    <dc:date>2000-09-02T21:00:00+00:00</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="A9R3BE.jpg"/>
+  <dc:title>Esrarlı Ada 2. Cilt</dc:title>
+<meta name="calibre:title_sort" content="Esrarlı Ada 2. Cilt"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:description>&lt;p&gt;Talihin kendilerini sürüklediği ıssız adayı küçük bir cennet haline getiren beş dost, bu küçük kara parçasında ülkelerinden ve türdeşlerinden uzak olmanın hüznüyle yaşamlarına devam etmektedirler. Zekaları, becerileri ve cesaretleri bir yandan hayatlarını kolaylaştırmakta, diğer yandan da kaderlerine boyun eğmeyecek kadar özgürlüklerine düşkün bu beş adamı, uçsuz bucaksız denizlerde keşif gezilerine çıkmaya zorlamaktadır. Ancak, bir şişenin içinde adalarının kıyısına vuran pusula tüm planlarını altüst eder.
+
+Ada sakinleri bu gizemin peşine takılıp yeni ve bilinmedik maceralara atılmışlardır bile. Gittikleri yeni adacıkta onları neler beklemektedir? Karşılaştıkları esrarlı olayların açıklanaması nedir? Issız denizin ortasında zannettikleri kadar yalnız mıdırlar? Yoksa bu ıssız adanın beklenmedik konukları vardır?
+&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">cfab10f0-2b4a-45f9-9598-e4675cba4e1a</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758607761</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/S-006.xhtml" id="S-006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-013.xhtml" id="S-013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-020.xhtml" id="S-020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-027.xhtml" id="S-027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-031.xhtml" id="S-031.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/I-001.xhtml" id="I-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-002.xhtml" id="I-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-003.xhtml" id="I-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-001.xhtml" id="S-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-002.xhtml" id="S-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-003.xhtml" id="S-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-004.xhtml" id="S-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-005.xhtml" id="S-005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-007.xhtml" id="S-007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-008.xhtml" id="S-008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-009.xhtml" id="S-009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-010.xhtml" id="S-010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-011.xhtml" id="S-011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-012.xhtml" id="S-012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-014.xhtml" id="S-014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-015.xhtml" id="S-015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-016.xhtml" id="S-016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-017.xhtml" id="S-017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-018.xhtml" id="S-018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-019.xhtml" id="S-019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-021.xhtml" id="S-021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-022.xhtml" id="S-022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-023.xhtml" id="S-023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-024.xhtml" id="S-024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-025.xhtml" id="S-025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-026.xhtml" id="S-026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-028.xhtml" id="S-028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-029.xhtml" id="S-029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-030.xhtml" id="S-030.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DiPNOTLAR.xhtml" id="DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/rica.xhtml" id="rica.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css"/>
+    <item href="Images/Ithaki.jpg" id="Ithaki.jpg" media-type="image/jpeg"/>
+    <item href="Images/A9R3BE.jpg" id="A9R3BE.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="rica.xhtml"/>
+    <itemref idref="I-001.xhtml"/>
+    <itemref idref="I-002.xhtml"/>
+    <itemref idref="I-003.xhtml"/>
+    <itemref idref="S-001.xhtml"/>
+    <itemref idref="S-002.xhtml"/>
+    <itemref idref="S-003.xhtml"/>
+    <itemref idref="S-004.xhtml"/>
+    <itemref idref="S-005.xhtml"/>
+    <itemref idref="S-006.xhtml"/>
+    <itemref idref="S-007.xhtml"/>
+    <itemref idref="S-008.xhtml"/>
+    <itemref idref="S-009.xhtml"/>
+    <itemref idref="S-010.xhtml"/>
+    <itemref idref="S-011.xhtml"/>
+    <itemref idref="S-012.xhtml"/>
+    <itemref idref="S-013.xhtml"/>
+    <itemref idref="S-014.xhtml"/>
+    <itemref idref="S-015.xhtml"/>
+    <itemref idref="S-016.xhtml"/>
+    <itemref idref="S-017.xhtml"/>
+    <itemref idref="S-018.xhtml"/>
+    <itemref idref="S-019.xhtml"/>
+    <itemref idref="S-020.xhtml"/>
+    <itemref idref="S-021.xhtml"/>
+    <itemref idref="S-022.xhtml"/>
+    <itemref idref="S-023.xhtml"/>
+    <itemref idref="S-024.xhtml"/>
+    <itemref idref="S-025.xhtml"/>
+    <itemref idref="S-026.xhtml"/>
+    <itemref idref="S-027.xhtml"/>
+    <itemref idref="S-028.xhtml"/>
+    <itemref idref="S-029.xhtml"/>
+    <itemref idref="S-030.xhtml"/>
+    <itemref idref="S-031.xhtml"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

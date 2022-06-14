@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Quinn, Julia">Julia Quinn</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:9667084b-d35a-4b9a-8f46-b461df53229a</dc:identifier>
+    <dc:date opf:event="modification">2014-03-28</dc:date>
+    <dc:description>&lt;p class="description"&gt;Bayan Miranda Cheever, henüz on yaşındayken, muhteşem güzelliği dair hiçbir iz taşımıyordu. Taaki, yakışıklı ve gösterişli Vikont Turner, onun bir gün büyüyüp çok güzel bir kadın olacağını söyleyene dek..İşte o zaman Miranda, bu adamı sonsuza dek seveceğini biliyordu..Oysa ilerleyen yıllar Miranda için ne kadar kolay olduysa, Turner için de o kadar acımasız olmuş, önemli bir kaybın altında ezilmiş, yalnız ve acı çeken bir adama dönüşmüştü.Fakat Miranda yıllar önce günlüğünün ilk sayfasına geçirdiği bu gerçeği asla unutmadı..Kaderi olan bu aşkın, parmaklarının arasından kayıp gitmesine izin vermeyecekti.. ...&lt;/p&gt;</dc:description>
+    <dc:date>2008-03-27T22:00:00+00:00</dc:date>
+    <dc:publisher>Epsilon Yayınları</dc:publisher>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>Şahane Bir Kadının Gizli Günlüğü</dc:title>
+<meta name="calibre:title_sort" content="Şahane Bir Kadının Gizli Günlüğü"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Aşk</dc:subject>
+<dc:subject>Romantik</dc:subject>
+<dc:subject>Tarihi Roman</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Julia Quinn&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2f66f009-57ac-485f-a68c-7c4382a726f4</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789944820981</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

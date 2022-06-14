@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Baudrillard, Jean">Jean Baudrillard</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:6e6ec98f-6fe4-4647-828d-0cc4e5f623a5</dc:identifier>
+    <dc:date>2003-01-09T22:00:00+00:00</dc:date>
+    <dc:publisher>Doğu Batı Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Disneyland bütün simülakr düzenlerinin iç içe geçmiş olduğu kusursuz bir modeldir. Disneyland her şeyden önce: Korsanlar, Geleceğin Dünyası, vb şeylerden oluşan bir illüzyon ve fantazm oyunudur. Bu düşsel evren kendine düşen görevi başarıyla yerine getirmektedir. Aslında kalabalıkları buraya çeken şey çelişkileri ve güzellikleriyle gerçek Amerika'nın minyatürleştirilmiş toplumsal bir mikrokosmosuna benziyor olması ve alınan kolektif (dinî denilebilecek türden) keyiftir. Aracınızı otoparka bıraktıktan sonra içerde kuyruğa giriyor ve sonunda dışarıya yapayalnız ve kendi hâlinize terk edilmiş bir şekilde çıkıyorsunuz. Bu düşsel evrendeki tek olağanüstü şey içerdeki kalabalıktan yayılan sıcaklık ve sevecenliğin yanı sıra insana pek çok değişik duygu yaşatan bol miktardaki oyun ve oyuncağın varlığıdır. Bir konsantrasyon kampına benzeyen otoparka içerdeki kalabalık arasında tam bir tezatlık vardır. Bir başka deyişle içerdeki binbir çeşit oyuncak insanları bir nehir misali oradan oraya sürüklerken, dışarı çıkan insan yalnızlığa (oyuncağına) arabasına doğru ilerlemek zorunda kalmaktadır...
+...
+Disneyland'daki düşsellik ne gerçektir ne de sahte. Burası gerçeğe özgü bir düşselliği, gerçeğe simetrik bir şekilde yeniden dönüştürebilmek amacıyla tasarlanmış bir caydırma (ikna) makinesidir. Bu çocuksu düşselliğe özgü sefalet ve yozlaşmışlığın nedeni de zaten budur. Bu evrene çocuksu bir görünüm verilmek istenmesinin nedeni, yetişkinlere özgü "gerçek" ve başka bir evren bulunduğu düşüncesini onaylatma arzusudur. Disneyland bir çocuksuluğun gerçek anlamda her yere hâkim olduğunu gizleyebilmek için yetişkinlerin de buraya gelerek çocuklaşmalarına olanak tanımak ve gerçekte çocuk olmadıklarına inandırma amacıyla kurulmuş bir evrendir.
+&lt;/p&gt;</dc:description>
+    <meta name="cover" content="x120917.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Simülakrlar ve Simülasyon"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jean Baudrillard&quot;: &quot;&quot;}"/>
+  <dc:title>Simülakrlar ve Simülasyon</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Gerçek</dc:subject>
+<dc:subject>Sosyoloji</dc:subject>
+<dc:subject>Sanat</dc:subject>
+<dc:subject>Makale</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">67235df0-0442-4222-a62f-8f55eda61df2</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758717019</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="main-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="main-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="main-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="main-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="main-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="main-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="main-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="main-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-11.xhtml" id="main-11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-12.xhtml" id="main-12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Images/120917.jpg" id="x120917.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="main-2.xhtml"/>
+    <itemref idref="main-3.xhtml"/>
+    <itemref idref="main-4.xhtml"/>
+    <itemref idref="main-5.xhtml"/>
+    <itemref idref="main-6.xhtml"/>
+    <itemref idref="main-7.xhtml"/>
+    <itemref idref="main-8.xhtml"/>
+    <itemref idref="main-9.xhtml"/>
+    <itemref idref="main-10.xhtml"/>
+    <itemref idref="main-11.xhtml"/>
+    <itemref idref="main-12.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/main.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+<dc:identifier id="uuid">{E936D2E9-7DCD-4A86-96BB-84BC6E94D91E}</dc:identifier>
+    <dc:date>2004-08-29T21:00:00+00:00</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+  <dc:title>Begümün 500 Milyonu</dc:title>
+<meta name="calibre:title_sort" content="Begümün 500 Milyonu"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:description>&lt;p&gt;500 milyonluk, göz kamaştırıcı bir miras ve zıt karakterde iki varis: Fransız doktor Sarrasin ve Alman profesör Schultze. Bu olağanüstü mirasın varislerinden Sarrasin kendi payıyla, insanların en sağlıklı koşullarda yaşayabilecekleri, France-Ville adında bir örnek kent kurarken, Schultze, savaş makineleri üreten Çelik-Kent'i inşa eder. Birinin amacı insanların yaşam koşullarını iyileştirip ömürlerini uzatmak, diğerininkiyse ölümün kısa gölgesini her yere yaymaktır. Dr. Sarrasin'in genç dostu Marcel, Profesör Schultze'un planlarını öğrenmek için hayatını ortaya koyarak Çelik-Kent'e sızar. Marcel'in ortaya çıkardığı gerçekler dehşet vericidir. Profesör Schultze'un ölümcül planlarını bozmak için harekete geçen Marcel ve France-Ville sakinleri artık zamanla yarışmaktadır. Bilimsel öngörülerine alışık olduğumuz Jules Verne, bu kez, insan yıkıcılığının sınır tanımazlığını da çok önceden öngördüğünü gösteriyor bizlere.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">39768105-994a-4bfc-833d-730aae54553a</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758725908</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/I-03.xhtml" id="I-03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-001.xhtml" id="S-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-002.xhtml" id="S-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-003.xhtml" id="S-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-004.xhtml" id="S-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-005.xhtml" id="S-005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-006.xhtml" id="S-006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-007.xhtml" id="S-007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-008.xhtml" id="S-008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-009.xhtml" id="S-009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-010.xhtml" id="S-010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-011.xhtml" id="S-011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-012.xhtml" id="S-012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-013.xhtml" id="S-013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-014.xhtml" id="S-014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-015.xhtml" id="S-015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-016.xhtml" id="S-016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-017.xhtml" id="S-017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-018.xhtml" id="S-018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-019.xhtml" id="S-019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S-020.xhtml" id="S-020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id22" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css"/>
+    <item href="Text/I-02.xhtml" id="I-02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-04.xhtml" id="I-04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-01.xhtml" id="I-01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/ithaki.jpg" id="ithaki.jpg" media-type="image/jpeg"/>
+    <item href="Text/DiPNOTLAR.xhtml" id="DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id22">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="I-01.xhtml"/>
+    <itemref idref="I-02.xhtml"/>
+    <itemref idref="I-03.xhtml"/>
+    <itemref idref="I-04.xhtml"/>
+    <itemref idref="S-001.xhtml"/>
+    <itemref idref="S-002.xhtml"/>
+    <itemref idref="S-003.xhtml"/>
+    <itemref idref="S-004.xhtml"/>
+    <itemref idref="S-005.xhtml"/>
+    <itemref idref="S-006.xhtml"/>
+    <itemref idref="S-007.xhtml"/>
+    <itemref idref="S-008.xhtml"/>
+    <itemref idref="S-009.xhtml"/>
+    <itemref idref="S-010.xhtml"/>
+    <itemref idref="S-011.xhtml"/>
+    <itemref idref="S-012.xhtml"/>
+    <itemref idref="S-013.xhtml"/>
+    <itemref idref="S-014.xhtml"/>
+    <itemref idref="S-015.xhtml"/>
+    <itemref idref="S-016.xhtml"/>
+    <itemref idref="S-017.xhtml"/>
+    <itemref idref="S-018.xhtml"/>
+    <itemref idref="S-019.xhtml"/>
+    <itemref idref="S-020.xhtml"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

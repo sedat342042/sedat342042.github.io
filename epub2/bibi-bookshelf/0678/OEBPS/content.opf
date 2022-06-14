@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Pessoa, Fernando">Fernando Pessoa</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:273207ce-55a2-4e58-b239-a67a16725761</dc:identifier>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">2013-05-28T21:00:00+00:00</dc:date>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Anarşist Banker - Şeytanın Saati"/>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <meta name="calibre:rating" content="10.0"/>
+    <dc:description>&lt;p&gt;XX. yüzyıl edebiyatının kült kişiliklerinden Fernando Pessoa, ölümünden bir yıl sonra keşfedilmiş zengin düş dünyasıyla ün kazanmıştı. Kendi adının yanı sıra, yarattığı hayali şairlerle de anılan Pessoa'nın daha önce ayrı ayrı yayınladığımız iki kısa anlatısını bu kez bir arada sunuyoruz.
+
+Anarşist Banker, Pessoa'nın, sağlığında yayınlanan tek anlatısı. Öykü, iki arkadaşın bir yemek sırasında gerçekleştirdiği sohbete odaklanır. Kahramanlardan biri, bankerliğin, gerçekleştirilebilecek tek anarşist eylem olduğunu savunur. Anlatı, burjuva toplumunun ikiyüzlülüğünü ortaya koyar.
+
+Şeytanın Saati ise yazarın ardında bıraktığı sandıktan çıkan metinlerden biri. Yine bir diyalog-metin. Anlatıcı ile Şeytan arasında kurgulanan alaycı, mistik bir konuşma. Kuşkucu Pessoa'nın, kişiliğine de en uygun yazılarından biri.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:author_link_map" content="{&quot;Fernando Pessoa&quot;: &quot;&quot;}"/>
+    <dc:title>Anarşist Banker - Şeytanın Saati</dc:title>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Portekiz Edebyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">368c0232-1aca-4f3a-b65a-215e5d160cd8</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:273207ce-55a2-4e58-b239-a67a16725761</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750720185</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-05-27T20:58:22.934000+00:00"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/afterword.xhtml" id="afterwordxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/appendix1.xhtml" id="appendix1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Text/notice1.xhtml" id="notice1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notice2.xhtml" id="notice2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notice3.xhtml" id="notice3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part1.xhtml" id="part1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part2.xhtml" id="part2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface.xhtml" id="prefacexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface2.xhtml" id="preface2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/resources.xhtml" id="resourcesxhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/titlepage_1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="../jacket.xhtml" id="jacket" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="jacket"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="part1xhtml"/>
+    <itemref idref="prefacexhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="appendix1xhtml"/>
+    <itemref idref="notice1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="notice2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="part2xhtml"/>
+    <itemref idref="preface2xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="notice3xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="afterwordxhtml"/>
+    <itemref idref="resourcesxhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage_1.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

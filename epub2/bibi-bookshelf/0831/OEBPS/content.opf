@@ -1,0 +1,84 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+<dc:identifier id="uuid">{8554E2A6-BE80-4380-BE12-82CD29BFBE37}</dc:identifier>
+    <dc:date>2010-08-29T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>Çin'de Bir Çinli'nin Başına Gelenler</dc:title>
+<meta name="calibre:title_sort" content="Çin'de Bir Çinli'nin Başına Gelenler"/>
+<dc:publisher>İthaki Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:description>&lt;p&gt;Genç ve zengin Kin-Fo hayata karşı kayıtsızdır. Tüm servetine rağmen mutluluğu tatmamıştır. Günün birinde, bankadan gelen ani bir haberle, tüm parasını kaybettiğini öğrenir. Evlenmek üzere olduğundan ve müstakbel eşine sefil bir yaşam sürdürmeyi kendine yediremediğinden, intihar etmeye karar verir. Ama kararını uygulayamaz. Kendini ölümün kollarına bırakmaya hazırlandığı anda, içinde hiçbir duygu olmadığını fark eder ve bu hayatın heyecanlarını hiç değilse bir kez olsun tatmadan ölüme gidemeyeceğini anlar. Bunun üzerine, ustası ve arkadaşı filozof Wang'dan, belirli bir süre içinde kendisini öldürmesini ister. Böylece ölüm korkusu duyacak ve hayata veda etmeden bunun heyecanını yaşayacaktır. Wang öğrencisinin isteğini kabul eder ve birkaç gün içinde ortadan kaybolur. Onu bulmak imkânsızdır. Oysa talih, Kin-Fo'ya ikinci sürprizini hazırlamaktadır: Gelen ikinci haberle Kin-Fo, servetinin kurtulduğunu, hatta ikiye katlandığını öğrenir. Bu kadar heyecan Kin-Fo'ya yetmiştir. Artık tek amacı dolu dolu yaşamak ve nişanlısı Le-u'yla bir an önce evlenmektir. Fakat bunun için filozof Wang'ı bulması ve yaşamak istediğini ona anlatması gerekmektedir. İşte Kin-Fo ve arkadaşlarının, filozof Wang'ın peşinde Çin'i baştan başa katettikleri serüven böyle başlar. Sonunda Kin-Fo hayatın değerini anlamış ve onu korumak için büyük bir maceraya atılmıştır. Jules Verne'in kendine has stiliyle kaleme aldığı bu sürükleyici hikaye, 60'lı yılların sonunda sinemaya uyarlanmış ve "Çin Macerası" adıyla ülkemizde de gösterime girmiştir.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">26e6d50b-d895-487d-83eb-50e048643999</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053750758</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="x13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/14.xhtml" id="x14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/15.xhtml" id="x15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/16.xhtml" id="x16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/17.xhtml" id="x17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/18.xhtml" id="x18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/20.xhtml" id="x20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/21.xhtml" id="x21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/22.xhtml" id="x22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id19" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Text/19.xhtml" id="x19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/ithaki.jpg" id="ithaki.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id19">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="x21.xhtml"/>
+    <itemref idref="x22.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,124 @@
+hr {
+  margin-top: 0.5em;
+  margin-right: 0;
+  border: 1px solid #A1845A;
+  max-width: 20em;
+}
+hr.sep {
+  margin: 1em auto;
+  border: none;
+  text-align: center;
+}
+hr.sep:after {
+  content: url(../Images/sep.jpg);
+}
+/*IMAGES*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+/*----H----*/
+h1, h2 {
+  margin-bottom: 2em;
+  margin-top: 2em;
+  text-align: center;
+}
+/*YAZAR*/
+.aut {
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.aut p {
+  text-indent: 0;
+  text-align: justify;
+}
+/*----Künye----*/
+.copyright > p:last-child {
+  margin-bottom: 0;
+}
+.copyright p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-indent: 0;
+  text-align: center;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: right;
+}
+.seri {
+  margin: 1em auto 0.2em auto;
+}
+.author {
+  margin: 0.5em auto 0.2em auto;
+}
+.title {
+  margin: 0;
+}
+.trans {
+  margin-top: 1.5em;
+}
+.trans span {
+  display: block;
+}
+.logo, .ithaf {
+  margin: 6em auto 0 auto;
+}
+/*----Block----*/
+.poem {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3.1em;
+}
+.poem p {
+  text-indent: -2em;
+  text-align: justify;
+}
+.poem .poemindent {
+  margin-left: 1em;
+}
+/*----P----*/
+p {
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.right {
+  text-align: right;
+  margin-top: 1em;
+}
+/******FOOTNOTE******/
+.footnote {
+  margin-bottom: .6em;
+  margin-left: 1em;
+  text-align: justify;
+  text-indent: 0;
+}
+.footnotelabel {
+  width: 1.5em;
+  float: left;
+  font-size: 0.8em;
+  line-height: 165%;
+}
+.footnoteref, .footnotetarget {
+  text-decoration: none;
+  color: black;
+  border: 1px solid #999;
+  font-size: 80%;
+  padding: 1px;
+  padding-top: 3px;
+  font-style: normal;
+  font-weight: normal;
+}
+.footnotecontent {
+  padding-left: 1.8em;
+  margin-bottom: 10px;
+}
+.footnotecontent p {
+  text-indent: 0;
+  margin-left: 15px;
+  vertical-align: middle;
+  page-break-before: avoid;
+  margin-top: 1px;
+}

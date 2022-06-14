@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="36db3d54-701f-427d-95e4-3a7f2ca1c9d4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>El-Cevap</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I.Bölüm EMPERYALİZM, TARİHLE YÜZLEŞMEK ve AKP</text>
+      </navLabel>
+      <content src="Text/7.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Amerikan Çıkarlarına Uygun Tarih Yazımı…</text>
+        </navLabel>
+        <content src="Text/7.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Yeşil Kuşak Projesi’ne Uygun Yeşil Tarih Projesi</text>
+        </navLabel>
+        <content src="Text/7.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Emperyalizmin Atatürk Düşmanlığı</text>
+        </navLabel>
+        <content src="Text/7.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Huntington: “Atatürk’ün Mirasını Reddedin.”</text>
+        </navLabel>
+        <content src="Text/7.html#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Bir ABD ve AB Projesi: Resmi Tarihle Yüzleşip Atatürk’ten Kurtulmak</text>
+        </navLabel>
+        <content src="Text/7.html#sigil_toc_id_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>II.Bölüm</text>
+      </navLabel>
+      <content src="Text/index_split_010.html#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>BAŞBAKAN R. TAYYİP ERDOĞAN’IN “TARİH TEZLERİ”NE CEVAP</text>
+      </navLabel>
+      <content src="Text/index_split_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>KANYAKÇA</text>
+      </navLabel>
+      <content src="Text/index_split_019.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

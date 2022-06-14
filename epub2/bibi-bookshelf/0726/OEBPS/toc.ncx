@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{64E7522F-82DA-4E8B-AD3F-E4B0C0AA2C06}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Okulsuz Toplum</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Ivan D. Illich</text>
+      </navLabel>
+      <content src="Text/ivanillich.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="Text/sunus.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>1- OKULU NEDEN DEVLET KURUMU OLMAKTAN ÇIKARMALIYIZ?</text>
+      </navLabel>
+      <content src="Text/1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>2- OKUL OLGUSU</text>
+      </navLabel>
+      <content src="Text/2.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Yaş</text>
+        </navLabel>
+        <content src="Text/2.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Öğretmenler ve Öğrenciler</text>
+        </navLabel>
+        <content src="Text/2.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Tam Gün Devam</text>
+        </navLabel>
+        <content src="Text/2.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>3. SÜRECİN RİTÜELLEŞTİRİLMESİ</text>
+      </navLabel>
+      <content src="Text/3.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Kurumsallaştırılmış Değerler Miti</text>
+        </navLabel>
+        <content src="Text/3.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Değerlerin Ölçülmesi Miti</text>
+        </navLabel>
+        <content src="Text/3.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Paketlenmiş Değerler Miti</text>
+        </navLabel>
+        <content src="Text/3.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Kendi Kendine Devam Eden İlerleme Miti</text>
+        </navLabel>
+        <content src="Text/3.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Ritüeller ve Yeni Dünya Dini</text>
+        </navLabel>
+        <content src="Text/3.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Ufuktaki Krallık: Beklentilerin Evrenselleşmesi</text>
+        </navLabel>
+        <content src="Text/3.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Yeni Yabancılaşma</text>
+        </navLabel>
+        <content src="Text/3.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Okulsuzlaştırmanın Devrimci Potansiyeli</text>
+        </navLabel>
+        <content src="Text/3.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>4. TOPLUMSAL KURUMLARIN GÖRÜNÜMÜ</text>
+      </navLabel>
+      <content src="Text/4.xhtml"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Yanlış Kullanılan Kamu Hizmetleri</text>
+        </navLabel>
+        <content src="Text/4.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Okul: Yanlış Kullanılan Bir Kamu Hizmeti</text>
+        </navLabel>
+        <content src="Text/4.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>5. SAĞDUYUYA DAYANMAYAN TUTARLILIK</text>
+      </navLabel>
+      <content src="Text/5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>6. ÖĞRENME AĞLARI</text>
+      </navLabel>
+      <content src="Text/6.xhtml"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Hedefi Olmayan Yapılar Kime Hizmet Eder?</text>
+        </navLabel>
+        <content src="Text/6.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Yeni Formel Eğitim Kurumlarının Genel Karakteristikleri</text>
+        </navLabel>
+        <content src="Text/6.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Birbirinden Bağımsız Dört Çalışma Ağı</text>
+        </navLabel>
+        <content src="Text/6.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Eğitim Amaçlarına Yönelik Referans Hizmetleri</text>
+        </navLabel>
+        <content src="Text/6.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Yetenek Değişimleri</text>
+        </navLabel>
+        <content src="Text/6.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Partner Uygulaması</text>
+        </navLabel>
+        <content src="Text/6.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Profesyonel Eğitimciler</text>
+        </navLabel>
+        <content src="Text/6.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>7- EPİMETHOUSCU İNSANIN TEKRAR DOĞUŞU</text>
+      </navLabel>
+      <content src="Text/7.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

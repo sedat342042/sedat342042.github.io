@@ -1,0 +1,96 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ormanda Bir Balkon</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gracq, Julien">Julien Gracq</dc:creator>
+    <dc:identifier id="uuid">{C9D3F570-62D7-499F-BF6E-856AF22DE212}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.73.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">04945389-ae58-4d91-b29c-db131bb99917</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="BalkonCv.jpg"/>
+    <meta name="calibre:title_sort" content="Ormanda Bir Balkon"/>
+    <meta name="calibre:author_link_map" content="{&quot;Julien Gracq&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar.xhtml" id="Yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/IcKapak.xhtml" id="IcKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/AraKapak.xhtml" id="AraKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section01.xhtml" id="Section01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section02.xhtml" id="Section02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section03.xhtml" id="Section03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section04.xhtml" id="Section04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section05.xhtml" id="Section05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section06.xhtml" id="Section06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section07.xhtml" id="Section07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section08.xhtml" id="Section08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section09.xhtml" id="Section09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section10.xhtml" id="Section10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section11.xhtml" id="Section11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section12.xhtml" id="Section12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section13.xhtml" id="Section13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section14.xhtml" id="Section14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section15.xhtml" id="Section15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section16.xhtml" id="Section16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section17.xhtml" id="Section17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section18.xhtml" id="Section18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section19.xhtml" id="Section19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section20.xhtml" id="Section20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section21.xhtml" id="Section21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section22.xhtml" id="Section22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section23.xhtml" id="Section23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section24.xhtml" id="Section24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section25.xhtml" id="Section25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section26.xhtml" id="Section26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section27.xhtml" id="Section27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section28.xhtml" id="Section28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section29.xhtml" id="Section29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="BalkonCv.jpg" media-type="image/jpeg"/>
+    <item href="Images/YKY_Logo.jpg" id="YKY_Logo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Yazar.xhtml"/>
+    <itemref idref="IcKapak.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="AraKapak.xhtml"/>
+    <itemref idref="Section01.xhtml"/>
+    <itemref idref="Section02.xhtml"/>
+    <itemref idref="Section03.xhtml"/>
+    <itemref idref="Section04.xhtml"/>
+    <itemref idref="Section05.xhtml"/>
+    <itemref idref="Section06.xhtml"/>
+    <itemref idref="Section07.xhtml"/>
+    <itemref idref="Section08.xhtml"/>
+    <itemref idref="Section09.xhtml"/>
+    <itemref idref="Section10.xhtml"/>
+    <itemref idref="Section11.xhtml"/>
+    <itemref idref="Section12.xhtml"/>
+    <itemref idref="Section13.xhtml"/>
+    <itemref idref="Section14.xhtml"/>
+    <itemref idref="Section15.xhtml"/>
+    <itemref idref="Section16.xhtml"/>
+    <itemref idref="Section17.xhtml"/>
+    <itemref idref="Section18.xhtml"/>
+    <itemref idref="Section19.xhtml"/>
+    <itemref idref="Section20.xhtml"/>
+    <itemref idref="Section21.xhtml"/>
+    <itemref idref="Section22.xhtml"/>
+    <itemref idref="Section23.xhtml"/>
+    <itemref idref="Section24.xhtml"/>
+    <itemref idref="Section25.xhtml"/>
+    <itemref idref="Section26.xhtml"/>
+    <itemref idref="Section27.xhtml"/>
+    <itemref idref="Section28.xhtml"/>
+    <itemref idref="Section29.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

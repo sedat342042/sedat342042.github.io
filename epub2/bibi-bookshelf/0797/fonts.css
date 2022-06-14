@@ -1,0 +1,16 @@
+@font-face {
+	src: url(fonts/Calibri.ttf);
+	font-family: "Calibri"
+}
+
+@font-face {
+	src: url(fonts/Calibri-Bold.ttf);
+	font-family: "Calibri";
+	font-weight: bold
+}
+
+@font-face {
+	src: url(fonts/Calibri-Italic.ttf);
+	font-family: "Calibri";
+	font-style: italic
+}

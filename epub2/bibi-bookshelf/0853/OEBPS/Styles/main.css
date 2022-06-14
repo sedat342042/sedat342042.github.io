@@ -1,0 +1,57 @@
+
+body {color:#000000;}
+body {
+   font-family: "Times New Roman",serif;
+   font-size: 1em;
+   color: #000000;
+  
+}
+
+img {
+max-width: 100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h1
+{
+margin-top:3em;
+margin-bottom:3em;
+text-align:center;
+Font-size:2.5em;
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}
+.yildiz {
+   font-family: "Times New Roman",serif;
+   font-size: 3em;
+   font-style: italic;
+   color: red;
+   background-color: #66CDAA;
+margin-top:1em;
+margin-bottom:1em;
+text-align:center;
+
+}
+
+.baslik{
+text-align:center;
+font-weight:bold;
+font-size:3em;
+margin-top:2em;
+margin-bottom:2em;
+} 
+
+h6{
+   font-family: "Times New Roman",serif;
+   font-size: 0.5em;
+   font-style: italic;
+   color: blue;
+   background-color: #66CDAA;
+margin-top:1em;
+margin-bottom:1em;
+text-align:center;

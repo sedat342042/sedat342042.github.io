@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="1.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Puşkin, Aleksandr">Aleksandr Puşkin</dc:creator>
+<dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2013-03-15T08:39:01.778000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2013-03-15T08:39:01+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">077d3b2d-3fd3-44ca-acbc-2376e0612d37</dc:identifier>
+    <meta content="0.8.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-04-24</dc:date>
+  <meta name="calibre:title_sort" content="Boris Godunov"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Aleksandr Puşkin (1799-1837): Otuz sekiz yıl süren kısa hayatı, komploya çok benzeyen bir düelloyla son bulduğunda Puşkin şiirleri, romanları, öyküleri ve oyunlarıyla çoktan 19. yüzyılın ve Rus Edebiyatının öncü yazarlarından biri olmuştu. Puşkin Shakespeare'in tarihi oyunlarından etkilenerek yazdığı Boris Godunov tragedyasında insanın iktidarla ilişkisini gayet yalın, gerçekçi bir şiir diliyle aktarmaktadır. Puşkin'in 1825 yılında sürgündeyken yazdığı oyun, sansür dolayısıyla ve sahnelenmesinin güç olduğu düşünüldüğünden ancak ölümünden sonra 1865'te sahnelenebilmiştir. Daha sonra pek çok kez başarıyla sahnelenen oyun, Musorgski'nin aynı adlı operasına da esin kaynağı olmuştur.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; widows: 1; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+<meta name="calibre:author_link_map" content="{&quot;Aleksandr Puşkin&quot;: &quot;&quot;}"/>
+<dc:title>Boris Godunov</dc:title>
+<dc:subject>Oyun</dc:subject>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2bdd70fe-6c18-4ad5-8c4c-1d3a1c23602d</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053605843</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;datatype&quot;: &quot;comments&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;is_multiple&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/isbank-logo.jpg" id="added" media-type="image/jpeg"/>
+    <item href="Text/kitap_split_000.html" id="html31" media-type="application/xhtml+xml"/>
+    <item href="Text/kitap_split_001.html" id="html30" media-type="application/xhtml+xml"/>
+    <item href="Text/kitap_split_002.html" id="html29" media-type="application/xhtml+xml"/>
+    <item href="Text/kitap_split_003.html" id="html28" media-type="application/xhtml+xml"/>
+    <item href="Text/kitap_split_004.html" id="html27" media-type="application/xhtml+xml"/>
+    <item href="Text/kitap_split_005.html" id="html26" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html31"/>
+    <itemref idref="html30"/>
+    <itemref idref="html29"/>
+    <itemref idref="html28"/>
+    <itemref idref="html27"/>
+    <itemref idref="html26"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

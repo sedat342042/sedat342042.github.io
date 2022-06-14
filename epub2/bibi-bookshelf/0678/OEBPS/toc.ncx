@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750720185" name="dtb:uid"/>
+ 
+   </head>
+   <docTitle>
+      <text>Anarşist Banker - Şeytanın Saati</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Anarşist Banker</text>
+         </navLabel>
+         <content src="Text/part1.xhtml"/>
+         <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+               <text>Önsöz</text>
+            </navLabel>
+            <content src="Text/preface.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+               <text>Anarşist Banker</text>
+            </navLabel>
+            <content src="Text/chapter1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+               <text>Ek</text>
+            </navLabel>
+            <content src="Text/appendix1.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Şeytanın Saati</text>
+         </navLabel>
+         <content src="Text/part2.xhtml"/>
+         <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+               <text>Sözü olmayan ülkesi</text>
+            </navLabel>
+            <content src="Text/preface2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>Çoğul Şair Fernando Pessoa</text>
+            </navLabel>
+            <content src="Text/afterword.xhtml"/>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

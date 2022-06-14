@@ -1,0 +1,287 @@
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.govde-metin {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.364;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:3px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:20px;
+}
+p.jenerik {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.kitap-adi {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:85px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.buyuk-kitap-adi {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:2.083em;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1.16;
+	margin-bottom:48px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.bolum-basi {
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.25;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:14px;
+	margin-top:198px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.yazar-basliklari {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1.083em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.077;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:14px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:20px;
+}
+p.baslik-2 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.333;
+	margin-bottom:3px;
+	margin-left:20px;
+	margin-right:0px;
+	margin-top:14px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.baslik-3 {
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.455;
+	margin-bottom:0px;
+	margin-left:20px;
+	margin-right:0px;
+	margin-top:9px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.kesme {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.75em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.bolum-kesme {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.75em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:71px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.sozler {
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.167;
+	margin-bottom:0px;
+	margin-left:20px;
+	margin-right:14px;
+	margin-top:227px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.unvan {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:113px;
+	margin-top:6px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:9px;
+}
+span.bold {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.bold-italik {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-style:italic;
+	font-weight:bold;
+}
+p.para-style-override-1 {
+	break-after:column;
+}
+p.para-style-override-2 {
+	margin-top:11px;
+}
+p.para-style-override-3 {
+	break-after:column;
+	margin-top:11px;
+}
+p.para-style-override-4 {
+	break-after:column;
+	margin-top:28px;
+}
+span.char-style-override-1 {
+	font-family:"Adobe Garamond Pro";
+	font-size:0.75em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-2 {
+	font-style:normal;
+	font-weight:normal;
+}
+img.frame-1 {
+	height:39px;
+	width:60px;
+}
+div.frame-2 {
+	margin:0px auto 0px auto;
+	text-align:center;
+}

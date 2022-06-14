@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uuid">{DCA72670-7DD2-43F1-A014-BC348738C2AD}</dc:identifier>
+    <dc:title>Beklenmedik Bir Anda</dc:title>
+    <dc:creator opf:role="aut">Abigail Strom</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <meta name="cover" content="x0000000681156-1.jpg" />
+    <meta content="0.8.7" name="Sigil version" />
+    <dc:date opf:event="modification">2016-03-02</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml" />
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml" />
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml" />
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml" />
+    <item href="Styles/main.css" id="id4" media-type="text/css" />
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml" />
+    <item href="Images/0000000681156-1.jpg" id="x0000000681156-1.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="id0" />
+    <itemref idref="id1" />
+    <itemref idref="id2" />
+    <itemref idref="id3" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

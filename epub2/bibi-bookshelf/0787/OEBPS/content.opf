@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Borges, Jorge Luis" opf:role="aut">Jorge Luis Borges</dc:creator>
+    <dc:identifier id="uuid">{5894D547-C52E-4950-81E0-249017032E2D}</dc:identifier>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:date>2016-04-01T21:00:00+00:00</dc:date>
+    <meta content="0.8.7" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+    <meta content="Alef" name="calibre:title_sort" />
+    <meta content="{&quot;Jorge Luis Borges&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:title>Alef</dc:title>
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>İspanyol Edebiyatı</dc:subject>
+    <dc:subject>Öykü</dc:subject>
+    <dc:subject>Logolu</dc:subject>
+    <dc:description>&lt;div&gt;&lt;p&gt;Borges Alef’te düş ile gerçek, eski ile yeni, Batı ile Doğu arasındaki ikiliklerde gidip gelen bir zenginliğin anlatısını sunuyor.&lt;/p&gt;&lt;p&gt;Borges’in en verimli döneminde yazdığı hikâyeleri bir araya getiren Alef, İbrani alfabesinin ilk harfi olan “alef”i merkezine alarak, bizi evrenin kökenine ve sonsuzluk düşüncesine götürüyor. Alef uzay boşluğundaki tüm noktaları kapsayan bir noktadır; bu noktadan içeri bakan kişi evreni görür ve onu kucaklar. Burası, sonsuzluğun hem başladığı hem bittiği yerdir. Zaman, kimlik ve ölümsüzlük temaları çevresinde kurulan Alef, farklı gerçeklik ve anlam katmanları vaat eden bir metin.&lt;/p&gt;&lt;p&gt;Üstelik Borges’in bu kitapta okuruna bir de sürprizi var: Modern edebiyatın zaman ve uzam sihirbazı, kitapta sadece anlatıcı olarak yer almıyor, karşımıza hikâye kahramanı olarak da çıkıyor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f52baa75-a653-41fb-9bf6-3a97bf9407c8</dc:identifier>
+    <dc:date opf:event="modification">2016-04-03</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/kronolojji.xhtml" id="kronolojji.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/13.xhtml" id="x13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/14.xhtml" id="x14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/15.xhtml" id="x15.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/16.xhtml" id="x16.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/17.xhtml" id="x17.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/18.xhtml" id="x18.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/main.css" id="id5" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+    <item href="Images/logo.jpg" id="logo.jpg" media-type="image/jpeg" />
+    <item href="Fonts/BerkeleyBlackE.ttf" id="BerkeleyBlackE.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/BerkeleyBoldE.ttf" id="BerkeleyBoldE.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/BerkeleyItaE.ttf" id="BerkeleyItaE.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/BerkeleyMediumE.ttf" id="BerkeleyMediumE.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/FrutigerLightItalicTr.ttf" id="FrutigerLightItalicTr.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/FrutigerLightNrTr.ttf" id="FrutigerLightNrTr.ttf" media-type="application/x-font-truetype" />
+    <item href="Fonts/FrutigerNormalTr.ttf" id="FrutigerNormalTr.ttf" media-type="application/x-font-truetype" />
+    <item href="Text/ekdg-logo.xhtml" id="ekdg-logo.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png" />
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="ekdg-logo.xhtml" />
+    <itemref idref="kunye.xhtml" />
+    <itemref idref="title.xhtml" />
+    <itemref idref="yazar.xhtml" />
+    <itemref idref="kronolojji.xhtml" />
+    <itemref idref="onsoz.xhtml" />
+    <itemref idref="x01.xhtml" />
+    <itemref idref="x02.xhtml" />
+    <itemref idref="x03.xhtml" />
+    <itemref idref="x04.xhtml" />
+    <itemref idref="x05.xhtml" />
+    <itemref idref="x06.xhtml" />
+    <itemref idref="x07.xhtml" />
+    <itemref idref="x08.xhtml" />
+    <itemref idref="x09.xhtml" />
+    <itemref idref="x10.xhtml" />
+    <itemref idref="x11.xhtml" />
+    <itemref idref="x12.xhtml" />
+    <itemref idref="x13.xhtml" />
+    <itemref idref="x14.xhtml" />
+    <itemref idref="x15.xhtml" />
+    <itemref idref="x16.xhtml" />
+    <itemref idref="x17.xhtml" />
+    <itemref idref="x18.xhtml" />
+    <itemref idref="notlar.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

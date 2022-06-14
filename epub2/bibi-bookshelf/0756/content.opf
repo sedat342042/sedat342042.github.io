@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>OMERZEN</dc:publisher>
+    <meta name="calibre:title_sort" content="Bulantı"/>
+    <dc:language>tr</dc:language>
+    <dc:title>Bulantı</dc:title>
+    <meta name="calibre:timestamp" content="2014-05-03T01:18:46.689000+00:00"/>
+    <dc:creator opf:file-as="Sartre, Jean Paul" opf:role="aut">Jean Paul Sartre</dc:creator>
+    <meta name="cover" content="cover"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.31.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">dcc09027-af85-472b-8cc1-6da41dbf5943</dc:identifier>
+    <dc:identifier opf:scheme="calibre">dcc09027-af85-472b-8cc1-6da41dbf5943</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/1.html" id="1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/10.html" id="10" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/100.html" id="100" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/101.html" id="101" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/102.html" id="102" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/103.html" id="103" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/104.html" id="104" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/105.html" id="105" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/106.html" id="106" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/107.html" id="107" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/108.html" id="108" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/109.html" id="109" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/11.html" id="11" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/110.html" id="110" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/111.html" id="111" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/112.html" id="112" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/113.html" id="113" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/114.html" id="114" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/115.html" id="115" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/116.html" id="116" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/117.html" id="117" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/118.html" id="118" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/119.html" id="119" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/12.html" id="12" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/120.html" id="120" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/121.html" id="121" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/122.html" id="122" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/13.html" id="13" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/14.html" id="14" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/15.html" id="15" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/16.html" id="16" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/17.html" id="17" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/18.html" id="18" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/19.html" id="19" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/2.html" id="2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/20.html" id="20" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/21.html" id="21" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/22.html" id="22" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/23.html" id="23" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/24.html" id="24" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/25.html" id="25" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/26.html" id="26" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/27.html" id="27" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/28.html" id="28" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/29.html" id="29" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/3.html" id="3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/30.html" id="30" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/31.html" id="31" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/32.html" id="32" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/33.html" id="33" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/34.html" id="34" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/35.html" id="35" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/36.html" id="36" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/37.html" id="37" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/38.html" id="38" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/39.html" id="39" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/4.html" id="4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/40.html" id="40" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/41.html" id="41" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/42.html" id="42" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/43.html" id="43" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/44.html" id="44" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/45.html" id="45" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/46.html" id="46" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/47.html" id="47" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/48.html" id="48" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/49.html" id="49" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/5.html" id="5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/50.html" id="50" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/51.html" id="51" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/52.html" id="52" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/53.html" id="53" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/54.html" id="54" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/55.html" id="55" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/56.html" id="56" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/57.html" id="57" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/58.html" id="58" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/59.html" id="59" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/6.html" id="6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/60.html" id="60" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/61.html" id="61" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/62.html" id="62" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/63.html" id="63" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/64.html" id="64" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/65.html" id="65" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/66.html" id="66" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/67.html" id="67" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/68.html" id="68" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/69.html" id="69" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/7.html" id="7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/70.html" id="70" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/71.html" id="71" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/72.html" id="72" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/73.html" id="73" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/74.html" id="74" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/75.html" id="75" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/76.html" id="76" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/77.html" id="77" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/78.html" id="78" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/79.html" id="79" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/8.html" id="8" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/80.html" id="80" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/81.html" id="81" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/82.html" id="82" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/83.html" id="83" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/84.html" id="84" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/85.html" id="85" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/86.html" id="86" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/87.html" id="87" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/88.html" id="88" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/89.html" id="89" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/9.html" id="9" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/90.html" id="90" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/91.html" id="91" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/92.html" id="92" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/93.html" id="93" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/94.html" id="94" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/95.html" id="95" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/96.html" id="96" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/97.html" id="97" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/98.html" id="98" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/99.html" id="99" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="1"/>
+    <itemref idref="2"/>
+    <itemref idref="3"/>
+    <itemref idref="4"/>
+    <itemref idref="5"/>
+    <itemref idref="6"/>
+    <itemref idref="7"/>
+    <itemref idref="8"/>
+    <itemref idref="9"/>
+    <itemref idref="10"/>
+    <itemref idref="11"/>
+    <itemref idref="12"/>
+    <itemref idref="13"/>
+    <itemref idref="14"/>
+    <itemref idref="15"/>
+    <itemref idref="16"/>
+    <itemref idref="17"/>
+    <itemref idref="18"/>
+    <itemref idref="19"/>
+    <itemref idref="20"/>
+    <itemref idref="21"/>
+    <itemref idref="22"/>
+    <itemref idref="23"/>
+    <itemref idref="24"/>
+    <itemref idref="25"/>
+    <itemref idref="26"/>
+    <itemref idref="27"/>
+    <itemref idref="28"/>
+    <itemref idref="29"/>
+    <itemref idref="30"/>
+    <itemref idref="31"/>
+    <itemref idref="32"/>
+    <itemref idref="33"/>
+    <itemref idref="34"/>
+    <itemref idref="35"/>
+    <itemref idref="36"/>
+    <itemref idref="37"/>
+    <itemref idref="38"/>
+    <itemref idref="39"/>
+    <itemref idref="40"/>
+    <itemref idref="41"/>
+    <itemref idref="42"/>
+    <itemref idref="43"/>
+    <itemref idref="44"/>
+    <itemref idref="45"/>
+    <itemref idref="46"/>
+    <itemref idref="47"/>
+    <itemref idref="48"/>
+    <itemref idref="49"/>
+    <itemref idref="50"/>
+    <itemref idref="51"/>
+    <itemref idref="52"/>
+    <itemref idref="53"/>
+    <itemref idref="54"/>
+    <itemref idref="55"/>
+    <itemref idref="56"/>
+    <itemref idref="57"/>
+    <itemref idref="58"/>
+    <itemref idref="59"/>
+    <itemref idref="60"/>
+    <itemref idref="61"/>
+    <itemref idref="62"/>
+    <itemref idref="63"/>
+    <itemref idref="64"/>
+    <itemref idref="65"/>
+    <itemref idref="66"/>
+    <itemref idref="67"/>
+    <itemref idref="68"/>
+    <itemref idref="69"/>
+    <itemref idref="70"/>
+    <itemref idref="71"/>
+    <itemref idref="72"/>
+    <itemref idref="73"/>
+    <itemref idref="74"/>
+    <itemref idref="75"/>
+    <itemref idref="76"/>
+    <itemref idref="77"/>
+    <itemref idref="78"/>
+    <itemref idref="79"/>
+    <itemref idref="80"/>
+    <itemref idref="81"/>
+    <itemref idref="82"/>
+    <itemref idref="83"/>
+    <itemref idref="84"/>
+    <itemref idref="85"/>
+    <itemref idref="86"/>
+    <itemref idref="87"/>
+    <itemref idref="88"/>
+    <itemref idref="89"/>
+    <itemref idref="90"/>
+    <itemref idref="91"/>
+    <itemref idref="92"/>
+    <itemref idref="93"/>
+    <itemref idref="94"/>
+    <itemref idref="95"/>
+    <itemref idref="96"/>
+    <itemref idref="97"/>
+    <itemref idref="98"/>
+    <itemref idref="99"/>
+    <itemref idref="100"/>
+    <itemref idref="101"/>
+    <itemref idref="102"/>
+    <itemref idref="103"/>
+    <itemref idref="104"/>
+    <itemref idref="105"/>
+    <itemref idref="106"/>
+    <itemref idref="107"/>
+    <itemref idref="108"/>
+    <itemref idref="109"/>
+    <itemref idref="110"/>
+    <itemref idref="111"/>
+    <itemref idref="112"/>
+    <itemref idref="113"/>
+    <itemref idref="114"/>
+    <itemref idref="115"/>
+    <itemref idref="116"/>
+    <itemref idref="117"/>
+    <itemref idref="118"/>
+    <itemref idref="119"/>
+    <itemref idref="120"/>
+    <itemref idref="121"/>
+    <itemref idref="122"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

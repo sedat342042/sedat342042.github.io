@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{03866215-D3C7-4B26-8645-47AFE9A76036}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>00119.Jules Verne - Aya Yolculuk(SB)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak I</text>
+      </navLabel>
+      <content src="Text/ic%20kapak%201.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İç Kapak II</text>
+      </navLabel>
+      <content src="Text/ic%20kapak%202.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/B-001.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>GUN-CLUB (SİLAH KULÜBÜ)</text>
+        </navLabel>
+        <content src="Text/B-001.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/B-002.xhtml"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>BAŞKAN BARBICANE’İN BİLDİRİSİ</text>
+        </navLabel>
+        <content src="Text/B-002.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/B-003.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>BARBICANE’İN BİLDİRİSİNİN ETKİLERİ</text>
+        </navLabel>
+        <content src="Text/B-003.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/B-004.xhtml"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>CAMBRIDGE GÖZLEMEVİ’NİN VERDİĞİ KARŞILIK</text>
+        </navLabel>
+        <content src="Text/B-004.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/B-005.xhtml"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>AY’IN ÖYKÜSÜ</text>
+        </navLabel>
+        <content src="Text/B-005.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="Text/B-006.xhtml"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>BİRLEŞİK DEVLETLER’DE HİÇ KİMSENİN BİLMEMEZLİK EDEMEYECEĞİ ŞEY İLE İNANMASINA İZİN VERİLEMEYECEK ŞEY</text>
+        </navLabel>
+        <content src="Text/B-006.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/B-007.xhtml"/>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>MERMİYE ÖVGÜ</text>
+        </navLabel>
+        <content src="Text/B-007.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="Text/B-008.xhtml"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>TOPUN ÖYKÜSÜ</text>
+        </navLabel>
+        <content src="Text/B-008.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="Text/B-009.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>BARUT SORUNU</text>
+        </navLabel>
+        <content src="Text/B-009.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>X</text>
+      </navLabel>
+      <content src="Text/B-010.xhtml"/>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>YİRMİ BEŞ MİLYON DOSTA KARŞILIK BİR DÜŞMAN</text>
+        </navLabel>
+        <content src="Text/B-010.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>XI</text>
+      </navLabel>
+      <content src="Text/B-011.xhtml"/>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>FLORIDA VE TEXAS</text>
+        </navLabel>
+        <content src="Text/B-011.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>XII</text>
+      </navLabel>
+      <content src="Text/B-012.xhtml"/>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>URBI ET ORBI (KENTTEN EVRENE)</text>
+        </navLabel>
+        <content src="Text/B-012.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>XIII</text>
+      </navLabel>
+      <content src="Text/B-013.xhtml"/>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>STONE’S-HILL</text>
+        </navLabel>
+        <content src="Text/B-013.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>XIV</text>
+      </navLabel>
+      <content src="Text/B-014.xhtml"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>KAZMA VE MALA</text>
+        </navLabel>
+        <content src="Text/B-014.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>XV</text>
+      </navLabel>
+      <content src="Text/B-015.xhtml"/>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>DÖKÜM BAYRAMI</text>
+        </navLabel>
+        <content src="Text/B-015.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>XVI</text>
+      </navLabel>
+      <content src="Text/B-016.xhtml"/>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>COLUMBIAD</text>
+        </navLabel>
+        <content src="Text/B-016.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>XVII</text>
+      </navLabel>
+      <content src="Text/B-017.xhtml"/>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>BİR TELGRAF</text>
+        </navLabel>
+        <content src="Text/B-017.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>XVIII</text>
+      </navLabel>
+      <content src="Text/B-018.xhtml"/>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>“ATLANTA”DAKİ YOLCU</text>
+        </navLabel>
+        <content src="Text/B-018.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>XIX</text>
+      </navLabel>
+      <content src="Text/B-019.xhtml"/>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>BİR AÇIKHAVA TOPLANTISI</text>
+        </navLabel>
+        <content src="Text/B-019.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>XX</text>
+      </navLabel>
+      <content src="Text/B-020.xhtml"/>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>SALDIRI VE KARŞI SALDIRI</text>
+        </navLabel>
+        <content src="Text/B-020.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>XXI</text>
+      </navLabel>
+      <content src="Text/B-021.xhtml"/>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>BİR FRANSIZ BİR İŞİ NASIL AYARLIYOR</text>
+        </navLabel>
+        <content src="Text/B-021.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>XXII</text>
+      </navLabel>
+      <content src="Text/B-022.xhtml"/>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>BİRLEŞİK DEVLETLER’İN YENİ YURTTAŞI</text>
+        </navLabel>
+        <content src="Text/B-022.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>XXIII</text>
+      </navLabel>
+      <content src="Text/B-023.xhtml"/>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>VAGON-MERMİ</text>
+        </navLabel>
+        <content src="Text/B-023.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>XXIV</text>
+      </navLabel>
+      <content src="Text/B-024.xhtml"/>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>ROCKY DAĞLARI’NDAKİ GÖK DÜRBÜNÜ</text>
+        </navLabel>
+        <content src="Text/B-024.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>XXV</text>
+      </navLabel>
+      <content src="Text/B-025.xhtml"/>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>SON AYRINTILAR</text>
+        </navLabel>
+        <content src="Text/B-025.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>XXVI</text>
+      </navLabel>
+      <content src="Text/B-026.xhtml"/>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>ATEŞ!</text>
+        </navLabel>
+        <content src="Text/B-026.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>XXVII</text>
+      </navLabel>
+      <content src="Text/B-027.xhtml"/>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>KAPALI HAVA</text>
+        </navLabel>
+        <content src="Text/B-027.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>XXVIII</text>
+      </navLabel>
+      <content src="Text/B-028.xhtml"/>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>YENİ BİR YILDIZ</text>
+        </navLabel>
+        <content src="Text/B-028.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Jules Verne</text>
+      </navLabel>
+      <content src="Text/jules%20verne.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>SERİNİN DİĞER KİTAPLARI</text>
+      </navLabel>
+      <content src="Text/serinin%20diger%20kitaplari.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>İŞ KÜLTÜR YAYINLARI</text>
+      </navLabel>
+      <content src="Text/iky-jules%20verne%20kutuphanesi.xhtml"/>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Jules Verne Kütüphanesi</text>
+        </navLabel>
+        <content src="Text/iky-jules%20verne%20kutuphanesi.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>İŞ KÜLTÜR YAYINLARI - BİLİM DİZİSİ</text>
+      </navLabel>
+      <content src="Text/iky-bilim%20dizisi.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Gonçarov, Ivan">Ivan Gonçarov</dc:creator>
+<dc:identifier id="uuid">{39DAEFE5-2C91-4F3C-8DB1-BC40DFC545E3}</dc:identifier>
+    <dc:publisher>İletişim Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;İvan Aleksandroviç Gonçarov, Oblomov'u otuz iki-otuz üç yaşlarında, orta boylu, hoş görünümlü, koyu gri gözlü ama yüz hatlarında herhangi bir fikir, herhangi bir yoğunluk görünmeyen, odacığında oturan silik bir kahraman olarak yarattığında, aslında roman tarihinin en ünlü kişilerinden birine can veriyordu. 19. yüzyıl başlarında, çalışkan modern insan idealinden önce, Rusya'nın köle sahibi kırsal soylu sınıfı tarafından aylaklık hâlâ makul ve değerli bir amaç olarak görülürken Oblomov vardı. Miskin, dikkatsiz, meraksız, düş kurma ve oyalanmaya düşkün Oblomov... Yine de ona hayran olmamak imkânsız. Hayatın hep dışında ve uzağında kalan Oblomov, okurların gözünden asla kaçmayacak, gitgide insana dair belli bir durumu tanımlamanın adı haline gelecek, hatta Lenin, Bolşevik devriminden sonra 'hâlâ içimizde yaşayan Oblomovlar'dan yakınacaktı...
+
+Oblomov sadece sosyal satir değil, aynı zamanda 19. yüzyıl Rus toplumunun keskin bir eleştirisidir. Klasik olmayı fazlasıyla hak etmiş, dünyanın pek çok diline yeni bir kavram kazandırmış İvan Gonçarov'un bu başyapıtını Ergin Altay'ın özgün çevirisiyle sunuyoruz.
+
+Gonçarov'un Oblomov'u 'lüzumsuz adam'ın en dehşetli örneklerinden biridir.
+Murat Belge&lt;/p&gt;</dc:description>
+    <dc:date>2012-05-22T21:00:00+00:00</dc:date>
+    <meta content="0.8.6" name="Sigil version"/>
+    <meta name="cover" content="main-1.jpg"/>
+  <dc:title>Oblomov(İletişim)</dc:title>
+<meta name="calibre:title_sort" content="Oblomov(İletişim)"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ivan Gonçarov&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">3311b806-cc72-4de6-aa8c-7dbfb754a21d</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750509827</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/bolum01.xhtml" id="bolum01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum02.xhtml" id="bolum02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum03.xhtml" id="bolum03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum04.xhtml" id="bolum04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id25" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/I-001.xhtml" id="I-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-002.xhtml" id="I-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/main-1.jpg" id="main-1.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/SM.css" id="SM.css" media-type="text/css"/>
+    <item href="Images/iletisim-291x300.jpg" id="iletisim-291x300.jpg" media-type="image/jpeg"/>
+    <item href="Text/sonsoz.xhtml" id="sonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id25">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="I-001.xhtml"/>
+    <itemref idref="I-002.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="bolum01.xhtml"/>
+    <itemref idref="bolum02.xhtml"/>
+    <itemref idref="bolum03.xhtml"/>
+    <itemref idref="bolum04.xhtml"/>
+    <itemref idref="sonsoz.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

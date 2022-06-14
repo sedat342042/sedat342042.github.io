@@ -1,0 +1,31 @@
+body {font-family: serif;}
+
+p {font-size: 1.3em; text-indent: 1.3em; margin-top: 0.0em; margin-bottom: 0.0em;}
+
+.kapak_resmi {text-align: center; margin: 0; padding: 0;}
+
+.logo {text-align: center; margin: 5em 0 1em;}
+
+.ic_kapak, .ithaf, .ana_baslik {margin: 5em 0 1em;}
+
+.yazar {font-size: 1em;}
+
+.kitap_adi {font-size: 2em; text-align: center; margin-top: 2em; margin bottom: 3em; font-weight: bold, italic;}
+
+.yazar_adi {font-size: 2.5em; text-align: center; margin-top: 2em; margin bottom: 3em; font-weight: bold, italic;}
+
+
+.kunye {text-align:center; text-indent:0em; margin-top:0em; margin-left:1em; margin-bottom:0em; font-size: 0.8em;}
+
+.ithaf p {text-align: right; text-indent: 0; margin: 0; font-size: 1.5em;}
+
+p.bolum_arasi {text-align: center;}
+
+p.mektup {text-indent: 0em; text-align:justify; padding-left: 3em; padding-right: 2em; }
+
+h1 {margin-top: 2em; margin bottom: 3em; text-align: center; font-size: 1.5em; font-weight: bold;}
+
+h2 {margin-top: 2em; margin bottom: 2em; text-align: center; font-size: 1.5em; font-weight: bold;}
+
+p.dipnot {text-indent: 1.5em; font-size: 1em}
+

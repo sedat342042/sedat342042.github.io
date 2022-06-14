@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-style: italic;
+    font-family: "HelveticaNeue", Helvetica, sans-serif;
+    font-weight: normal;
+    src: url(res:///system/fonts/HelveticaNeue-Italic.ttf)
+    }
+@font-face {
+    font-style: normal;
+    font-family: "HelveticaNeue", Helvetica, sans-serif;
+    font-weight: normal;
+    src: url(res:///system/fonts/HelveticaNeue.ttf)
+    }
+@font-face {
+    font-style: italic;
+    font-family: "HelveticaNeue", Helvetica, sans-serif;
+    font-weight: bold;
+    src: url(res:///system/fonts/HelveticaNeue-BoldItalic.ttf)
+    }
+@font-face {
+    font-style: normal;
+    font-family: "HelveticaNeue", Helvetica, sans-serif;
+    font-weight: bold;
+    src: url(res:///system/fonts/HelveticaNeue-Bold.ttf)
+    }

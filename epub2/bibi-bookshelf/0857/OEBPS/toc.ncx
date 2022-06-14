@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:EEF03436-5174-4EE7-8BDA-0C26E517C8DD" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Swastika Geceleri</text>
+	</docTitle>
+	<docAuthor>
+		<text>Katharine Burdekin</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>BÖLÜM BİR</text>
+			</navLabel>
+			<content src="Text/7.xhtml#_idParaDest-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>BÖLÜM İKİ</text>
+			</navLabel>
+			<content src="Text/7-1.xhtml#_idParaDest-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>BÖLÜM ÜÇ</text>
+			</navLabel>
+			<content src="Text/7-2.xhtml#_idParaDest-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>BÖLÜM DÖRT</text>
+			</navLabel>
+			<content src="Text/7-3.xhtml#_idParaDest-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>BÖLÜM BEŞ</text>
+			</navLabel>
+			<content src="Text/7-4.xhtml#_idParaDest-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>BÖLÜM ALTI</text>
+			</navLabel>
+			<content src="Text/7-5.xhtml#_idParaDest-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>BÖLÜM YEDİ</text>
+			</navLabel>
+			<content src="Text/7-6.xhtml#_idParaDest-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>BÖLÜM SEKİZ</text>
+			</navLabel>
+			<content src="Text/7-7.xhtml#_idParaDest-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>BÖLÜM DOKUZ</text>
+			</navLabel>
+			<content src="Text/7-8.xhtml#_idParaDest-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>BÖLÜM ON</text>
+			</navLabel>
+			<content src="Text/7-9.xhtml#_idParaDest-10"/>
+		</navPoint>
+	</navMap>
+</ncx>

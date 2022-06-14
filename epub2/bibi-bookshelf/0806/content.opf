@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Bilinmiyor">Joseph Charles Mardrus</dc:creator>
+<dc:creator opf:role="aut">Alim Şerif Onaran</dc:creator>
+<dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:language>tr</dc:language>
+    <meta name="calibre:timestamp" content="2011-01-07T16:17:05.582054+00:00"/>
+    <dc:title>Binbir gece masalları</dc:title>
+    <meta name="cover" content="cover1"/>
+    <dc:date>2001-07-14T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.37) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9789750803185</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">92f5d919-34dd-4e96-b00b-891126486ecb</dc:identifier>
+    <opf:meta name="calibre:title_sort" content="Binbir gece masalları"/>
+<opf:meta name="calibre:user_categories" content="{}"/>
+<dc:subject>Arabic literature</dc:subject>
+</metadata>
+  <manifest>
+    <item href="cover1.jpeg" id="cover1" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

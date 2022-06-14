@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Barnes, Julian">Julian Barnes</dc:creator>
+<dc:identifier id="uuid"/>
+    <dc:date>2013-07-18T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="bir-son-duygusu1.jpg"/>
+  <dc:title>Bir Son Duygusu</dc:title>
+<meta name="calibre:title_sort" content="Son Duygusu, Bir"/>
+<dc:publisher>Ayrıntı Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Çağdaş Edebiyat</dc:subject>
+<dc:description>&lt;p&gt;Julian Barnes'ın son romanı Bir Son Duygusu, yazarın önceki birkaç yapıtında da görüldüğü üzere, Barnes'ın yazarlığının gitgide başat öğesi haline gelmiş olan "anımsama yoluyla hayatı irdeleme" izleğinin çarpıcı bir açılımıyla başlıyor. Hikâyenin ana kahramanı Tony Webster, kırk yıl önce yaşadığı bazı olayları anımsar ve onları zihninde gelişigüzel bir sıraya dizer. Ne var ki, başlangıçta sıradan bir şeymiş gibi görünen bu anımsama edimi, Tony Webster'in kendisine bir günce bırakıldığını öğrenmesiyle birlikte, kahramanın hayatını durmadan sorguladığı ve sonunda kendi kişiliğine ilişkin son derece karamsar sonuçlara varacağı acımasız bir kimlik arayışına dönüşecektir.
+
+Emekli bir tarihçi olan ve şimdi pek etliye sütlüye karışmadan, hayatını tek başına sürdüren Tony Webster, geçmişinde bir kez evlenip boşanmıştır; Susie adında, iyi anlaştığını söylediği yetişkin bir kızı vardır. Günün birinde, bir avukattan aldığı bir e-postayla, kırk yıl önceki kız arkadaşı Veronica Ford'un annesinin ona vasiyetinde bir günce bırakmış olduğunu öğrenir ve çok şaşırır. Güncenin gerçek sahibiyse kırk yıl önce birlikte aynı okula gittiği, birçok yaşantıyı ve fikri paylaştığı ama ne yazık ki sonunda, kız arkadaşı Veronica'yı elinden alıp sonra da beklenmedik bir şekilde "sahneden çekilmiş" olan Adrian Finn'dir. Aralarında geçen olumsuzluklara karşın, zekâsına ve hayatı derinlemesine kavrayışına büyük hayranlık duyduğunu söylediği ve evet, artık "sahnede olmayan" Adrian Finn…Tony Webster, kendisine ait olduğunu ileri sürdüğü bu günceyi, Veronica'nın kendisinden ister ancak Veronica, onun bu isteğini yerine getirmeye yanaşmaz. Birkaç kez buluşurlar ve her buluşmalarında, Veronica'nın keskin sözlerinin yüzünde patladığını hisseder: "Anlamıyorsun işte. Hiçbir zaman anlamadın ve asla da anlamayacaksın!"…Tony Webster'ın bir türlü anlayamadığı şey nedir? Tony'nin hayatla ne alıp veremediği vardır? Yoksa, hikâyesinin sonunda acı bir şekilde düşündüğü gibi, her yerde "kargaşa" mı vardır?
+
+Julian Barnes'a Anglosakson dünyasının Nobel'i sayılan The Man Booker 2011 Ödülü'nü kazandırmış olan ve artık çok iyi tanıdığımız ironi anlayışının damgasını taşıyan Bir Son Duygusu, belleğin sonsuz değişkenliği, geçmişi yeniden inşa etmek denilen o devasa insanî tutku ve her şeyden önce de, hayatın anlamı üzerine "kaleme" alınmış incelikli, sorgulayıcı bir ustalık romanı.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Julian Barnes&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e9b80128-01a7-45f5-a8c5-8ae0c1144468</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755397214</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/dipnot.xhtml" id="dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/yazarbilgi.xhtml" id="yazarbilgi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/baslik.xhtml" id="baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/metin1.xhtml" id="metin1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/metin2.xhtml" id="metin2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/bir-son-duygusu1.jpg" id="bir-son-duygusu1.jpg" media-type="image/jpeg"/>
+    <item href="Images/ayrinti-logo-135.png" id="ayrinti-logo-135.png" media-type="image/png"/>
+    <item href="Styles/main1.css" id="main1.css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazarbilgi.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="baslik.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="metin1.xhtml"/>
+    <itemref idref="metin2.xhtml"/>
+    <itemref idref="dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

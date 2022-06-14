@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="3" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Tarih Dersleri - I: Tarih Nedir?*</text>
+			</navLabel>
+			<content src="Text/3.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Tarih Dersleri - II: Tarih Yazıcılığı*  (Yunan ve Roma Geleneği)</text>
+			</navLabel>
+			<content src="Text/3-1.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Tarih Dersleri - III: Hellenistik Devirde  Tarihçilik*</text>
+			</navLabel>
+			<content src="Text/3-2.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Türkoloji ve Var Olmayan Bir Dal: Oksidentalistik*</text>
+			</navLabel>
+			<content src="Text/3-3.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Resmî Tarihçilik Sorunu Üzerine*</text>
+			</navLabel>
+			<content src="Text/3-4.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Jean Deny ve Türkoloji*</text>
+			</navLabel>
+			<content src="Text/3-5.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>16. Yüzyıl Alman Seyahatnamelerinde Türkiye*</text>
+			</navLabel>
+			<content src="Text/3-6.html#toc_marker-7"/>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>Hans Dernschwam’ın Günlüğü</text>
+				</navLabel>
+				<content src="Text/3-6.html#toc_marker-7-1"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>16. Yüzyılda Ankara</text>
+				</navLabel>
+				<content src="Text/3-6.html#toc_marker-7-2"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>Sof İmalâtı</text>
+				</navLabel>
+				<content src="Text/3-6.html#toc_marker-7-3"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>Anadolu’da Köy Hayatı</text>
+				</navLabel>
+				<content src="Text/3-6.html#toc_marker-7-4"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>Köylünün Yetersiz Beslenmesi</text>
+				</navLabel>
+				<content src="Text/3-6.html#toc_marker-7-5"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>Salomon Schweigger’in İstanbul İzlenimleri</text>
+				</navLabel>
+				<content src="Text/3-6.html#toc_marker-7-6"/>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>“Çok Karılı Evliliğe Pek Az Rastladım”</text>
+				</navLabel>
+				<content src="Text/3-6.html#toc_marker-7-7"/>
+			</navPoint>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>İstanbul’da Konutlar</text>
+				</navLabel>
+				<content src="Text/3-6.html#toc_marker-7-8"/>
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>Kamu Binaları</text>
+				</navLabel>
+				<content src="Text/3-6.html#toc_marker-7-9"/>
+			</navPoint>
+			<navPoint id="navpoint17" playOrder="17">
+				<navLabel>
+					<text>Hem Ev Hem İşyeri</text>
+				</navLabel>
+				<content src="Text/3-6.html#toc_marker-7-10"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>19. Asırdan Zamanımıza Hindistan Üzerine Türk Seyahatnameleri*</text>
+			</navLabel>
+			<content src="Text/3-7.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>Avrupalı Seyahatnamelerinde Türkiye ve Türkler*</text>
+			</navLabel>
+			<content src="Text/3-8.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>18. Yüzyılda Akdeniz Dünyası ve Genel Çizgileriyle Türkiye*</text>
+			</navLabel>
+			<content src="Text/3-9.html#toc_marker-10"/>
+			<navPoint id="navpoint21" playOrder="21">
+				<navLabel>
+					<text>18. Yüzyılda Avusturya İmparatorluğu</text>
+				</navLabel>
+				<content src="Text/3-9.html#toc_marker-10-1"/>
+			</navPoint>
+			<navPoint id="navpoint22" playOrder="22">
+				<navLabel>
+					<text>18. Yüzyılda Rusya-Osmanlı Ticareti</text>
+				</navLabel>
+				<content src="Text/3-9.html#toc_marker-10-2"/>
+			</navPoint>
+			<navPoint id="navpoint23" playOrder="23">
+				<navLabel>
+					<text>18. Yüzyıl Türkiye’sinde Sosyo-Ekonomik Değişme</text>
+				</navLabel>
+				<content src="Text/3-9.html#toc_marker-10-3"/>
+			</navPoint>
+			<navPoint id="navpoint24" playOrder="24">
+				<navLabel>
+					<text>Sonuç</text>
+				</navLabel>
+				<content src="Text/3-9.html#toc_marker-10-4"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>Osmanlı’da 18. Yüzyıl Düşünce Dünyasına Dair Notlar*</text>
+			</navLabel>
+			<content src="Text/3-10.html#toc_marker-11"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>Osmanlı Seçkinleri*</text>
+			</navLabel>
+			<content src="Text/3-11.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>Tanzimat Adamı ve Tanzimat Toplumu*</text>
+			</navLabel>
+			<content src="Text/3-12.html#toc_marker-13"/>
+			<navPoint id="navpoint28" playOrder="28">
+				<navLabel>
+					<text>Yeni Aydınlar</text>
+				</navLabel>
+				<content src="Text/3-12.html#toc_marker-13-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>Osmanlı Devletinde Laiklik Hareketleri Üzerine*</text>
+			</navLabel>
+			<content src="Text/3-13.html#toc_marker-14"/>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>Tanzimat’tan Sonra Kurumlarda Laikleşme Başlangıcı</text>
+				</navLabel>
+				<content src="Text/3-13.html#toc_marker-14-1"/>
+			</navPoint>
+			<navPoint id="navpoint31" playOrder="31">
+				<navLabel>
+					<text>Düalist Bir Hukukî Yapı</text>
+				</navLabel>
+				<content src="Text/3-13.html#toc_marker-14-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint32" playOrder="32">
+			<navLabel>
+				<text>Osmanlı İmparatorluğu’nda Millet*</text>
+			</navLabel>
+			<content src="Text/3-14.html#toc_marker-15"/>
+			<navPoint id="navpoint33" playOrder="33">
+				<navLabel>
+					<text>Rum-Ortodokslar</text>
+				</navLabel>
+				<content src="Text/3-14.html#toc_marker-15-1"/>
+			</navPoint>
+			<navPoint id="navpoint34" playOrder="34">
+				<navLabel>
+					<text>Ermeniler</text>
+				</navLabel>
+				<content src="Text/3-14.html#toc_marker-15-2"/>
+			</navPoint>
+			<navPoint id="navpoint35" playOrder="35">
+				<navLabel>
+					<text>Musevîler</text>
+				</navLabel>
+				<content src="Text/3-14.html#toc_marker-15-3"/>
+			</navPoint>
+			<navPoint id="navpoint36" playOrder="36">
+				<navLabel>
+					<text>Esas Unsur</text>
+				</navLabel>
+				<content src="Text/3-14.html#toc_marker-15-4"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint37" playOrder="37">
+			<navLabel>
+				<text>18.-19. Yüzyıllarda Galata*</text>
+			</navLabel>
+			<content src="Text/3-15.html#toc_marker-16"/>
+		</navPoint>
+		<navPoint id="navpoint38" playOrder="38">
+			<navLabel>
+				<text>Galata’daki Yabancı Misyonların Günlük Yaşamı*</text>
+			</navLabel>
+			<content src="Text/3-16.html#toc_marker-17"/>
+			<navPoint id="navpoint39" playOrder="39">
+				<navLabel>
+					<text>NOT-LAR</text>
+				</navLabel>
+				<content src="Text/3-16.html#toc_marker-17-1"/>
+				<navPoint id="navpoint40" playOrder="40">
+					<navLabel>
+						<text>TARİH DERSLERİ - II: TARİH YAZICILIĞI (YUNAN VE ROMA GELENEĞİ)</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint41" playOrder="41">
+					<navLabel>
+						<text>TARİH DERSLERİ - III: HELLENİSTİK DEVİRDE TARİHÇİLİK</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint42" playOrder="42">
+					<navLabel>
+						<text>RESMÎ TARİHÇİLİK SORUNU ÜZERİNE</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint43" playOrder="43">
+					<navLabel>
+						<text>16. YÜZYIL ALMAN SEYAHATNAMELERİNDE TÜRKİYE</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-4"/>
+				</navPoint>
+				<navPoint id="navpoint44" playOrder="44">
+					<navLabel>
+						<text>19. ASIRDAN ZAMANIMIZA HİNDİSTAN ÜZERİNE TÜRK  SEYAHATNAMELERİ</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-5"/>
+				</navPoint>
+				<navPoint id="navpoint45" playOrder="45">
+					<navLabel>
+						<text>AVRUPALI SEYAHATNAMELERİNDE TÜRKİYE VE TÜRKLER</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-6"/>
+				</navPoint>
+				<navPoint id="navpoint46" playOrder="46">
+					<navLabel>
+						<text>18. YÜZYILDA AKDENİZ DÜNYASI VE GENEL ÇİZGİLERİYLE TÜRKİYE</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-7"/>
+				</navPoint>
+				<navPoint id="navpoint47" playOrder="47">
+					<navLabel>
+						<text>OSMANLI’DA 18. YÜZYIL DÜŞÜNCE DÜNYASINA DAİR  NOTLAR</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-8"/>
+				</navPoint>
+				<navPoint id="navpoint48" playOrder="48">
+					<navLabel>
+						<text>OSMANLI SEÇKİNLERİ</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-9"/>
+				</navPoint>
+				<navPoint id="navpoint49" playOrder="49">
+					<navLabel>
+						<text>TANZİMAT ADAMI VE TANZİMAT TOPLUMU</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-10"/>
+				</navPoint>
+				<navPoint id="navpoint50" playOrder="50">
+					<navLabel>
+						<text>OSMANLI DEVLETİNDE LAİKLİK HAREKETLERİ ÜZERİNE</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-11"/>
+				</navPoint>
+				<navPoint id="navpoint51" playOrder="51">
+					<navLabel>
+						<text>18.-19. YÜZYILLARDA GALATA</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-12"/>
+				</navPoint>
+				<navPoint id="navpoint52" playOrder="52">
+					<navLabel>
+						<text>GALATA’DAKİ YABANCI MİSYONLARIN GÜNLÜK YAŞAMI</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-13"/>
+				</navPoint>
+				<navPoint id="navpoint53" playOrder="53">
+					<navLabel>
+						<text>*</text>
+					</navLabel>
+					<content src="Text/3-16.html#toc_marker-17-1-14"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

@@ -1,0 +1,93 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Marx, Karl &amp; Engels, Friedrich">Karl Marx</dc:creator>
+<dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">Friedrich Engels</dc:creator>
+<dc:date>2008-01-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750717109</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor id="translator1">Celâl Üster</dc:contributor>
+    <dc:contributor id="translator2">Nur Deriş</dc:contributor>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-05-31</dc:date>
+  <dc:title>Komünist Manifesto</dc:title>
+<meta name="calibre:title_sort" content="Komünist Manifesto"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Politik</dc:subject>
+<dc:subject>Sosyoloji</dc:subject>
+<dc:description>&lt;p&gt;Karl Marx ve Friedrich Engels´in, Komünistler Birliği´nin programı olarak kaleme aldıkları Komünist Manifesto, 1848 Şubat´ında, tüm Avrupa´nın devrimci ayaklanmalarla çalkalandığı bir dönemde, Londra´nın gösterişsiz bir basımevinde basıldı. Bilimsel sosyalizmin kitlesel siyaset sahnesine çıkışının ilk ciddi işareti olan Manifesto, yayınlandığı günden bu yana en çok okunan ve en çok tartışılan toplumsal ve siyasal metinlerden biri olmakla kalmadı, daha sonraki sosyalist ve komünist partilerin programlarının temelini oluşturdu, dünyanın değişmesinde ve milyonlarca insanın yaşamında belirleyici bir rol oynadı. Modern çağda başka hiçbir siyasal hareket, döneminin toplumsal, ekonomik ve sınıfsal koşullarını kavrayışındaki derinlik, çözümleyişindeki gözüpeklik ve üslubunun gücü bakımından, Manifesto´yla kıyaslanabilecek bir metin ortaya çıkaramadı.
+
+Bugün Marxçı hareketin temel belgesi ve devrimci bir klasik sayılan Komünist Manifesto´yu, Marx ve Engels´in daha sonraki basımlara yazdıkları önsözler eşliğinde, Celâl Üster ve Nur Deriş´in 1978´de yaptıkları çevirinin gözden geçirilmiş basımıyla ve Manifesto´nun Türkiye ve Türkçedeki serüvenine ışık tutan bir önsözle sunuyoruz ...
+&lt;/p&gt;</dc:description>
+<dc:contributor xmlns:ns3="http://www.idpf.org/2007/opf" ns3:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Karl Marx&quot;: &quot;&quot;, &quot;Friedrich Engels&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="calibre">f6de3642-9fe4-4b5c-8472-b255a91c4b68</dc:identifier>
+<dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="ISBN">9789750717109</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/biography-author1.xhtml" id="biography-author1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography-author2.xhtml" id="biography-author2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraph.xhtml" id="epigraphxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/introduction.xhtml" id="introductionxhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Text/notice.xhtml" id="noticexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part1.xhtml" id="part1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part2.xhtml" id="part2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface1.xhtml" id="preface1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface2.xhtml" id="preface2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface3.xhtml" id="preface3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface4.xhtml" id="preface4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface5.xhtml" id="preface5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface6.xhtml" id="preface6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface7.xhtml" id="preface7xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title-image.xhtml" id="title-imagexhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BerlingLTStd-MedItalic.ttf" id="font__BerlingLTStd-MedItalicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BerlingLTStd-Medium.ttf" id="font__BerlingLTStd-Mediumttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/x-font-ttf"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="Images/image01.jpg" id="image__image01jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="biography-author1xhtml"/>
+    <itemref idref="biography-author2xhtml"/>
+    <itemref idref="introductionxhtml"/>
+    <itemref idref="noticexhtml"/>
+    <itemref idref="part1xhtml"/>
+    <itemref idref="title-imagexhtml"/>
+    <itemref idref="epigraphxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="part2xhtml"/>
+    <itemref idref="preface1xhtml"/>
+    <itemref idref="preface2xhtml"/>
+    <itemref idref="preface3xhtml"/>
+    <itemref idref="preface4xhtml"/>
+    <itemref idref="preface5xhtml"/>
+    <itemref idref="preface6xhtml"/>
+    <itemref idref="preface7xhtml"/>
+  </spine>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="78db1f2e-5b81-410a-a17d-64ffc76109e7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.6)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tapınak</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="23db81f1-e027-4fb4-91e7-9d0b88e55e6c" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

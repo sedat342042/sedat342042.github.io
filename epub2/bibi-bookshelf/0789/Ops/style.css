@@ -1,0 +1,15 @@
+body{margin-left:2%;margin-right:2%;margin-top:2%;margin-bottom:2%}
+.nomargin{margin:0}
+p{text-indent:0.2in;margin-left:0;line-height:115%;margin-right:0;margin-top:0;margin-bottom:0;font-family:Calibri,sans-serif;font-size:109%}
+.p0{text-align:center}
+.p1{text-align:justify}
+.p3{text-indent:0.2in;margin-left:0.5in}
+.p4{line-height:100%;text-align:center;margin-top:6pt}
+.p5{line-height:100%}
+.p6{text-align:right}
+.p7{line-height:100%;margin-top:12pt;margin-bottom:6pt}
+.p8{text-indent:0.2in;margin-left:0.5in;text-align:right}
+.t1{font-size:.92em}
+.t2{font-size:2.5em}
+.t3{font-size:1.33em}
+.t4{font-size:1.17em}

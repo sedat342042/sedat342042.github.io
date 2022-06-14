@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+	<metadata>
+		<dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Alice &amp; Askew, Claude">Alice</dc:creator>
+<dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">Claude Askew</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+		<meta name="cover" content="x186.png"/>
+		<dc:description>&lt;p&gt;Alymer Vance'in ağzından anlatılan hayalet öyküleri Sherlock Holmes öykülerini çağrıştırmaktadır. Alymer Vance ve Dexter'in dostluğu Sherlock Holmes ve Watson arasındaki dostluktan farklı değildir. Bu iki araştırmacı doğaüstü dünyaya aynı korkusuz ve sorgulamacı bakış açısı ile bakmaktadır. Onlar suç olaylarına Conan Doyle'un kahramanları gibi yaklaşırlar. Ancak paralellik çok belirgin değildir. Doğaüstü güçlere sahip olan Dexter, Watson ile karşılaştırıldığında asıl kahramana daha fazla yardımcı olmaktadır. Watson, tüm çözümleri Holmes'a bıraktığı halde Dexter'da bu tavrı görmeyiz. Birbiriyle çok az bağlantılı öyküler dizisi içinde aslında hayaletler dünyasının hiç de düşünüldüğü gibi kötü olmadığı düşüncesine yönlendiriliriz. Üstelik onların hayalet oldukları her zaman açık olarak ortaya konmamıştır ve bazen onlar yaşayanlardan bile daha iyi olabilmektedir.&lt;/p&gt;</dc:description>
+		<dc:publisher>Mitra Yayınları</dc:publisher>
+		<dc:date>2010-10-03T21:00:00+00:00</dc:date>
+		<dc:source/>
+		<dc:relation/>
+		<dc:coverage/>
+		<dc:rights/>
+		<dc:identifier id="bookid"/>
+		<dc:identifier>urn:uuid:14D4D640-F854-49C2-9DD3-3D340748C891</dc:identifier>
+	<dc:title>Hayalet Öyküleri</dc:title>
+<meta name="calibre:title_sort" content="Hayalet Öyküleri"/>
+<meta name="calibre:series" content="Klasik Süpernaturel Korku Dizisi"/>
+<meta name="calibre:series_index" content="1.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Korku</dc:subject>
+<dc:subject>Öykü</dc:subject>
+<dc:subject>Orjinal</dc:subject>
+<dc:contributor xmlns:ns3="http://www.idpf.org/2007/opf" ns3:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Claude Askew&quot;: &quot;&quot;, &quot;Alice&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="calibre">1fbf1718-337a-46c9-a1bf-cc08ebc21c56</dc:identifier>
+<dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="ISBN">9786055752095</dc:identifier>
+</metadata>
+	<manifest>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="template.css" id="css" media-type="text/css"/>
+		<item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+		<item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+		<item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+		<item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+		<item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+		<item href="images/186.png" id="x186.png" media-type="image/png"/>
+		<item href="images/kapak_fmt.png" id="kapak_fmt.png" media-type="image/png"/>
+		<item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+		<item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+		<item href="fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+		<item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+		<item href="fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="kapak"/>
+		<itemref idref="x1"/>
+		<itemref idref="x2"/>
+		<itemref idref="x3"/>
+		<itemref idref="x4"/>
+	</spine>
+</package>

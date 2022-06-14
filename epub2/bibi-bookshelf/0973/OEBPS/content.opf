@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier id="EPB-UUID" opf:scheme="uuid">xxxx-xxxxx-xxxxx-xxxxxxxxx</dc:identifier>
+    <dc:title>Yıkıntılar I</dc:title>
+    <dc:creator opf:role="aut">Volney</dc:creator>
+    <dc:language>tr</dc:language>
+    <meta name="cover" content="cover" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2015-03-30</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Images/CoverDesign.jpg" id="cover" media-type="image/jpeg" />
+    <item href="Text/CoverPage.html" id="CoverPage_html" media-type="application/xhtml+xml" />
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css" />
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml" />
+    <item href="Text/section-0005.html" id="section-0005_html" media-type="application/xhtml+xml" />
+    <item href="Images/Yirmialt%C4%B1_Adam_ve_Bir_K%C4%B1z.jpg" id="Yirmialt_Adam_ve_Bir_Kz_jpg" media-type="image/jpeg" />
+    <item href="Images/Ekran_Resmi_2015-03-03_20.27.15.jpg" id="Ekran_Resmi_2015-03-03_20_27_15_jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverPage_html" />
+    <itemref idref="section-0001_html" />
+    <itemref idref="section-0002_html" />
+    <itemref idref="section-0003_html" />
+    <itemref idref="section-0004_html" />
+    <itemref idref="section-0005_html" />
+  </spine>
+  <guide>
+    <reference href="Text/CoverPage.html" title="Cover Page" type="cover" />
+  </guide>
+</package>

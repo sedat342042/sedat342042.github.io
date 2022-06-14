@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="AWP-B669BBEC-8D1B-4846-B307-DE558FC55CE4" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Henri Charriere</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>ÖNSÖZ</text>
+</navLabel>
+<content src="Text/002.html"/>
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>BİRİNCİ DEFTER: İNSANI BOZULMAYA İTEN YOLLAR</text>
+</navLabel>
+<content src="Text/004.html"/>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>Ağırceza Mahkemesi...</text>
+</navLabel>
+<content src="Text/004.html#ncx17"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>Conciergerie Cezaevi</text>
+</navLabel>
+<content src="Text/004.html#ncx54"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>Cean Cezaevi</text>
+</navLabel>
+<content src="Text/006.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>İKİNCİ DEFTER: GÜYAN’A DOĞRU</text>
+</navLabel>
+<content src="Text/008.html"/>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>Güyan'a Hareket</text>
+</navLabel>
+<content src="Text/008.html#ncx402"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>Saint - Laurent - Du - Maroni</text>
+</navLabel>
+<content src="Text/008.html#ncx459"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>ÜÇÜNCÜ DEFTER: İLK KAÇIŞ</text>
+</navLabel>
+<content src="Text/010.html"/>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>Hastaneden Tüyüyoruz</text>
+</navLabel>
+<content src="Text/010.html#ncx530"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>Güvercinler Adası</text>
+</navLabel>
+<content src="Text/010.html#ncx605"/>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>Büyük Yolculuk Başlıyor</text>
+</navLabel>
+<content src="Text/010.html#ncx786"/>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>Trinidad</text>
+</navLabel>
+<content src="Text/010.html#ncx887"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>DÖRDÜNCÜ DEFTER: İLK KAÇIŞ (DEVAM)</text>
+</navLabel>
+<content src="Text/012.html"/>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>Trinidad</text>
+</navLabel>
+<content src="Text/012.html#ncx959"/>
+</navPoint>
+<navPoint id="navpoint-17" playOrder="17">
+<navLabel>
+<text>Yeni Bir Yolculuk</text>
+</navLabel>
+<content src="Text/012.html#ncx1064"/>
+</navPoint>
+<navPoint id="navpoint-18" playOrder="18">
+<navLabel>
+<text>Curaçao</text>
+</navLabel>
+<content src="Text/012.html#ncx1113"/>
+</navPoint>
+<navPoint id="navpoint-19" playOrder="19">
+<navLabel>
+<text>Rio Hacha Cezaevi</text>
+</navLabel>
+<content src="Text/012.html#ncx1223"/>
+</navPoint>
+<navPoint id="navpoint-20" playOrder="20">
+<navLabel>
+<text>Rio Hacha'dan Kaçış</text>
+</navLabel>
+<content src="Text/012.html#ncx1283"/>
+</navPoint>
+<navPoint id="navpoint-21" playOrder="21">
+<navLabel>
+<text>Kızılderililer</text>
+</navLabel>
+<content src="Text/012.html#ncx1311"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-22" playOrder="22">
+<navLabel>
+<text>BEŞİNCİ DEFTER: UYGARLIĞA DÖNÜŞ</text>
+</navLabel>
+<content src="Text/013.html"/>
+<navPoint id="navpoint-23" playOrder="23">
+<navLabel>
+<text>Santa Marta Cezaevi</text>
+</navLabel>
+<content src="Text/013.html#ncx1414"/>
+</navPoint>
+<navPoint id="navpoint-24" playOrder="24">
+<navLabel>
+<text>Santa Marta'dan Kaçış</text>
+</navLabel>
+<content src="Text/013.html#ncx1622"/>
+</navPoint>
+<navPoint id="navpoint-25" playOrder="25">
+<navLabel>
+<text>Baranquilla’dan Kaçma Çabaları</text>
+</navLabel>
+<content src="Text/013.html#ncx1821"/>
+</navPoint>
+<navPoint id="navpoint-26" playOrder="26">
+<navLabel>
+<text>Küreğe Dönüş</text>
+</navLabel>
+<content src="Text/013.html#ncx1986"/>
+</navPoint>
+<navPoint id="navpoint-27" playOrder="27">
+<navLabel>
+<text>16 Kasım 1934</text>
+</navLabel>
+<content src="Text/013.html#ncx1996"/>
+</navPoint>
+<navPoint id="navpoint-28" playOrder="28">
+<navLabel>
+<text>Karıncalara Atılan Bir Arap</text>
+</navLabel>
+<content src="Text/013.html#ncx2025"/>
+</navPoint>
+<navPoint id="navpoint-29" playOrder="29">
+<navLabel>
+<text>Yamyamların Kaçışı</text>
+</navLabel>
+<content src="Text/013.html#ncx2065"/>
+</navPoint>
+<navPoint id="navpoint-30" playOrder="30">
+<navLabel>
+<text>Mahkeme</text>
+</navLabel>
+<content src="Text/013.html#ncx2104"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-31" playOrder="31">
+<navLabel>
+<text>ALTINCI DEFTER SALUT ADALARI</text>
+</navLabel>
+<content src="Text/014.html"/>
+<navPoint id="navpoint-32" playOrder="32">
+<navLabel>
+<text>Adalara Gelişimiz</text>
+</navLabel>
+<content src="Text/014.html#ncx2127"/>
+</navPoint>
+<navPoint id="navpoint-33" playOrder="33">
+<navLabel>
+<text>Hücrede</text>
+</navLabel>
+<content src="Text/014.html#ncx2224"/>
+</navPoint>
+<navPoint id="navpoint-34" playOrder="34">
+<navLabel>
+<text>Royale'de Hayat</text>
+</navLabel>
+<content src="Text/014.html#ncx2405"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-35" playOrder="35">
+<navLabel>
+<text>YEDİNCİ DEFTER SALUT ADALARI</text>
+</navLabel>
+<content src="Text/016.html"/>
+<navPoint id="navpoint-36" playOrder="36">
+<navLabel>
+<text>Mezarlıkta Bir Olay</text>
+</navLabel>
+<content src="Text/016.html#ncx2713"/>
+</navPoint>
+<navPoint id="navpoint-37" playOrder="37">
+<navLabel>
+<text>İkinci Kere Hücredeyim</text>
+</navLabel>
+<content src="Text/016.html#ncx3031"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-38" playOrder="38">
+<navLabel>
+<text>SEKİZİNCİ DEFTER ROYAL'E DÖNÜŞ</text>
+</navLabel>
+<content src="Text/017.html"/>
+<navPoint id="navpoint-39" playOrder="39">
+<navLabel>
+<text>Mandalar</text>
+</navLabel>
+<content src="Text/017.html#ncx3164"/>
+</navPoint>
+<navPoint id="navpoint-40" playOrder="40">
+<navLabel>
+<text>Saint - Joseph’de isyan</text>
+</navLabel>
+<content src="Text/017.html#ncx3256"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-41" playOrder="41">
+<navLabel>
+<text>DOKUZUNCU DEFTER SAINT JOSEPH</text>
+</navLabel>
+<content src="Text/019.html"/>
+<navPoint id="navpoint-42" playOrder="42">
+<navLabel>
+<text>Carbonieri'nin Ölümü</text>
+</navLabel>
+<content src="Text/019.html#ncx3559"/>
+</navPoint>
+<navPoint id="navpoint-43" playOrder="43">
+<navLabel>
+<text>Çılgınca Bir Kaçış</text>
+</navLabel>
+<content src="Text/019.html#ncx3693"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-44" playOrder="44">
+<navLabel>
+<text>ONUNCU DEFTER ŞEYTAN ADASI</text>
+</navLabel>
+<content src="Text/020.html"/>
+<navPoint id="navpoint-45" playOrder="45">
+<navLabel>
+<text>Dreyfüs'ün Sırası</text>
+</navLabel>
+<content src="Text/020.html#ncx3889"/>
+</navPoint>
+<navPoint id="navpoint-46" playOrder="46">
+<navLabel>
+<text>Şeytan Adasından Kaçış</text>
+</navLabel>
+<content src="Text/020.html#ncx3991"/>
+</navPoint>
+<navPoint id="navpoint-47" playOrder="47">
+<navLabel>
+<text>Ormanda</text>
+</navLabel>
+<content src="Text/020.html#ncx4047"/>
+</navPoint>
+<navPoint id="navpoint-48" playOrder="48">
+<navLabel>
+<text>Cik-Cik</text>
+</navLabel>
+<content src="Text/020.html#ncx4194"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-49" playOrder="49">
+<navLabel>
+<text>ON BİRİNCİ DEFTER KÜREĞE VEDA</text>
+</navLabel>
+<content src="Text/022.html"/>
+<navPoint id="navpoint-50" playOrder="50">
+<navLabel>
+<text>Çinlilerle Birlikte Kaçış</text>
+</navLabel>
+<content src="Text/022.html#ncx4384"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-51" playOrder="51">
+<navLabel>
+<text>ON İKİNCİ DEFTER GEORGETOWN</text>
+</navLabel>
+<content src="Text/024.html"/>
+<navPoint id="navpoint-52" playOrder="52">
+<navLabel>
+<text>Georgetown'da Hayat</text>
+</navLabel>
+<content src="Text/024.html#ncx4453"/>
+</navPoint>
+<navPoint id="navpoint-53" playOrder="53">
+<navLabel>
+<text>Hintli Ailem</text>
+</navLabel>
+<content src="Text/024.html#ncx4627"/>
+</navPoint>
+<navPoint id="navpoint-54" playOrder="54">
+<navLabel>
+<text>Lokanta ve Kelebekler</text>
+</navLabel>
+<content src="Text/024.html#ncx4652"/>
+</navPoint>
+<navPoint id="navpoint-55" playOrder="55">
+<navLabel>
+<text>Bambu Kulübe</text>
+</navLabel>
+<content src="Text/024.html#ncx4701"/>
+</navPoint>
+<navPoint id="navpoint-56" playOrder="56">
+<navLabel>
+<text>Georgetown'dan Kaçış</text>
+</navLabel>
+<content src="Text/024.html#ncx4739"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-57" playOrder="57">
+<navLabel>
+<text>ON ÜÇÜNCÜ DEFTER VENEZÜELLA</text>
+</navLabel>
+<content src="Text/026.html"/>
+<navPoint id="navpoint-58" playOrder="58">
+<navLabel>
+<text>İrapa'nın Balıkçıları</text>
+</navLabel>
+<content src="Text/026.html#ncx4802"/>
+</navPoint>
+<navPoint id="navpoint-59" playOrder="59">
+<navLabel>
+<text>El Dorado Cezaevi</text>
+</navLabel>
+<content src="Text/026.html#ncx4849"/>
+</navPoint>
+<navPoint id="navpoint-60" playOrder="60">
+<navLabel>
+<text>Kurtuluş</text>
+</navLabel>
+<content src="Text/026.html#ncx4974"/>
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="3" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Gelibolu Cehennemi</text>
+			</navLabel>
+			<content src="Text/gelibolu_cehennemi_epub.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>YAYINCININ NOTU</text>
+				</navLabel>
+				<content src="Text/gelibolu_cehennemi_epub-1.html#toc_marker-1-1"/>
+				<navPoint id="navpoint3" playOrder="3">
+					<navLabel>
+						<text>Bu Eser Neden Basıldı? </text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-1.html#toc_marker-1-1-1"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>GİRİŞ</text>
+				</navLabel>
+				<content src="Text/gelibolu_cehennemi_epub-2.html#toc_marker-1-2"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>ONLAR GELİYOR</text>
+				</navLabel>
+				<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3"/>
+				<navPoint id="navpoint6" playOrder="6">
+					<navLabel>
+						<text>Mesudiye’den Gelen Siren Uğultusu</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint7" playOrder="7">
+					<navLabel>
+						<text>Torpido İsabeti! Denizaltı!</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint8" playOrder="8">
+					<navLabel>
+						<text>19 Şubat </text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-3"/>
+				</navPoint>
+				<navPoint id="navpoint9" playOrder="9">
+					<navLabel>
+						<text>Torpido Botları! Toplara!</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-4"/>
+				</navPoint>
+				<navPoint id="navpoint10" playOrder="10">
+					<navLabel>
+						<text>Mayınlar Gitmek Zorunda</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-5"/>
+				</navPoint>
+				<navPoint id="navpoint11" playOrder="11">
+					<navLabel>
+						<text>Mesafe 3.000 metre. Ateş!</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-6"/>
+				</navPoint>
+				<navPoint id="navpoint12" playOrder="12">
+					<navLabel>
+						<text>Düşman Ateşi Devam Ediyor</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-7"/>
+				</navPoint>
+				<navPoint id="navpoint13" playOrder="13">
+					<navLabel>
+						<text>Timurhisar Seferi</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-8"/>
+				</navPoint>
+				<navPoint id="navpoint14" playOrder="14">
+					<navLabel>
+						<text>“Haydi Torpido!”</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-9"/>
+				</navPoint>
+				<navPoint id="navpoint15" playOrder="15">
+					<navLabel>
+						<text>Kasırga Kopuyor</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-10"/>
+				</navPoint>
+				<navPoint id="navpoint16" playOrder="16">
+					<navLabel>
+						<text>Mayınların Döşenmesi Tanrı’nın Bir Lütfu Gibidir</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-11"/>
+				</navPoint>
+				<navPoint id="navpoint17" playOrder="17">
+					<navLabel>
+						<text>Onlar Geliyor! Onlar Geliyor!</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-12"/>
+				</navPoint>
+				<navPoint id="navpoint18" playOrder="18">
+					<navLabel>
+						<text>Sükûnet! Sükûneti Koruyun! Ateşe devam!</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-13"/>
+				</navPoint>
+				<navPoint id="navpoint19" playOrder="19">
+					<navLabel>
+						<text>Hurra! Ateş! Ateş! Bu zaferdir!</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-14"/>
+				</navPoint>
+				<navPoint id="navpoint20" playOrder="20">
+					<navLabel>
+						<text>Zafer! Zafer! </text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-15"/>
+				</navPoint>
+				<navPoint id="navpoint21" playOrder="21">
+					<navLabel>
+						<text>Karadaki Top</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-16"/>
+				</navPoint>
+				<navPoint id="navpoint22" playOrder="22">
+					<navLabel>
+						<text>Liman von Sanders</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-17"/>
+				</navPoint>
+				<navPoint id="navpoint23" playOrder="23">
+					<navLabel>
+						<text>Ve Sonrası</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-18"/>
+				</navPoint>
+				<navPoint id="navpoint24" playOrder="24">
+					<navLabel>
+						<text>Düşman Gelirse Orduyu Hazır Bulacak</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-19"/>
+				</navPoint>
+				<navPoint id="navpoint25" playOrder="25">
+					<navLabel>
+						<text>Alarm</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-20"/>
+				</navPoint>
+				<navPoint id="navpoint26" playOrder="26">
+					<navLabel>
+						<text>Göğüs Göğse Harp</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-21"/>
+				</navPoint>
+				<navPoint id="navpoint27" playOrder="27">
+					<navLabel>
+						<text>Savaş Çığlığı</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-22"/>
+				</navPoint>
+				<navPoint id="navpoint28" playOrder="28">
+					<navLabel>
+						<text>Kumkale fethedildi!</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-23"/>
+				</navPoint>
+				<navPoint id="navpoint29" playOrder="29">
+					<navLabel>
+						<text>Geri! </text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-3.html#toc_marker-1-3-24"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>GÜNEY UCUNDA</text>
+				</navLabel>
+				<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4"/>
+				<navPoint id="navpoint31" playOrder="31">
+					<navLabel>
+						<text>“River Elnde”</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint32" playOrder="32">
+					<navLabel>
+						<text>Zığındere</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint33" playOrder="33">
+					<navLabel>
+						<text>İskoçlar</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint34" playOrder="34">
+					<navLabel>
+						<text>Morto Körfezi</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-4"/>
+				</navPoint>
+				<navPoint id="navpoint35" playOrder="35">
+					<navLabel>
+						<text>Kabatepe – Arıburnu</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-5"/>
+				</navPoint>
+				<navPoint id="navpoint36" playOrder="36">
+					<navLabel>
+						<text>Bir Denizaltı</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-6"/>
+				</navPoint>
+				<navPoint id="navpoint37" playOrder="37">
+					<navLabel>
+						<text>Son Dakika Yardımı</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-7"/>
+				</navPoint>
+				<navPoint id="navpoint38" playOrder="38">
+					<navLabel>
+						<text>Kuşatma</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-8"/>
+				</navPoint>
+				<navPoint id="navpoint39" playOrder="39">
+					<navLabel>
+						<text>Alçıtepe Civarındaki Vuruşmalar</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-9"/>
+				</navPoint>
+				<navPoint id="navpoint40" playOrder="40">
+					<navLabel>
+						<text>Denizaltı Tehlikesi</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-10"/>
+				</navPoint>
+				<navPoint id="navpoint41" playOrder="41">
+					<navLabel>
+						<text>Alman Bahriyeler</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-11"/>
+				</navPoint>
+				<navPoint id="navpoint42" playOrder="42">
+					<navLabel>
+						<text>Cephe Savaşının Amacı</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-12"/>
+				</navPoint>
+				<navPoint id="navpoint43" playOrder="43">
+					<navLabel>
+						<text>Bu Mevzi Savaşıdır</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-4.html#toc_marker-1-4-13"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text>GOBEN UYANIYOR</text>
+				</navLabel>
+				<content src="Text/gelibolu_cehennemi_epub-5.html#toc_marker-1-5"/>
+				<navPoint id="navpoint45" playOrder="45">
+					<navLabel>
+						<text>Fedakârlık yürüyüşü</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-5.html#toc_marker-1-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint46" playOrder="46">
+					<navLabel>
+						<text>Su Hattında Demirli Bulunan İki Hat Gemisi! </text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-5.html#toc_marker-1-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint47" playOrder="47">
+					<navLabel>
+						<text>Sancak Alabanda! Haricî Güçler Öne! </text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-5.html#toc_marker-1-5-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint48" playOrder="48">
+				<navLabel>
+					<text>İKİ ORDU</text>
+				</navLabel>
+				<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6"/>
+				<navPoint id="navpoint49" playOrder="49">
+					<navLabel>
+						<text>Beyaz Bayrak</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint50" playOrder="50">
+					<navLabel>
+						<text> Dakikalar akıp gitmekte </text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint51" playOrder="51">
+					<navLabel>
+						<text>Kaptan Hersing   </text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-3"/>
+				</navPoint>
+				<navPoint id="navpoint52" playOrder="52">
+					<navLabel>
+						<text>“Çabuk dalınız!”</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-4"/>
+				</navPoint>
+				<navPoint id="navpoint53" playOrder="53">
+					<navLabel>
+						<text>“Pruva Torpidoları Atılsın”</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-5"/>
+				</navPoint>
+				<navPoint id="navpoint54" playOrder="54">
+					<navLabel>
+						<text>İnsafsız Küçük Savaş</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-6"/>
+				</navPoint>
+				<navPoint id="navpoint55" playOrder="55">
+					<navLabel>
+						<text>Mevzi Savaşı Devam Etmekteydi</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-7"/>
+				</navPoint>
+				<navPoint id="navpoint56" playOrder="56">
+					<navLabel>
+						<text>Gelibolu’da Mevzi Savaşı!</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-8"/>
+				</navPoint>
+				<navPoint id="navpoint57" playOrder="57">
+					<navLabel>
+						<text>Mânia (Engel)</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-9"/>
+				</navPoint>
+				<navPoint id="navpoint58" playOrder="58">
+					<navLabel>
+						<text>Bunaltıcı Sıcak</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-10"/>
+				</navPoint>
+				<navPoint id="navpoint59" playOrder="59">
+					<navLabel>
+						<text>Bıçak Sırtında</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-11"/>
+				</navPoint>
+				<navPoint id="navpoint60" playOrder="60">
+					<navLabel>
+						<text>Sadece İleri, İleri!</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-12"/>
+				</navPoint>
+				<navPoint id="navpoint61" playOrder="61">
+					<navLabel>
+						<text>Mustafa Kemal</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-13"/>
+				</navPoint>
+				<navPoint id="navpoint62" playOrder="62">
+					<navLabel>
+						<text>Son Büyük Düello</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-14"/>
+				</navPoint>
+				<navPoint id="navpoint63" playOrder="63">
+					<navLabel>
+						<text>Toprağın Altında</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-15"/>
+				</navPoint>
+				<navPoint id="navpoint64" playOrder="64">
+					<navLabel>
+						<text>Gelibolu’nun Tahliyesi mi?</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-16"/>
+				</navPoint>
+				<navPoint id="navpoint65" playOrder="65">
+					<navLabel>
+						<text>Düşman Çekiliyor</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-17"/>
+				</navPoint>
+				<navPoint id="navpoint66" playOrder="66">
+					<navLabel>
+						<text>İngiltere Teslim Oldu! Hürriyet, Nihayet hürriyet!</text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-18"/>
+				</navPoint>
+				<navPoint id="navpoint67" playOrder="67">
+					<navLabel>
+						<text>Gelibolu Cehennemi Söndü Zafer! Zafer! </text>
+					</navLabel>
+					<content src="Text/gelibolu_cehennemi_epub-6.html#toc_marker-1-6-19"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

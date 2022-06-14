@@ -1,0 +1,480 @@
+.block {
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1.29167em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block3 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block4 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block5 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1.66667em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block7 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    color: #00B0F0;
+    display: block;
+    font-family: "Arial Black", sans-serif;
+    font-size: 0.625em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    color: #C0504D;
+    display: block;
+    font-family: "Arial Black", sans-serif;
+    font-size: 0.625em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    color: #FFC000;
+    display: block;
+    font-family: "Arial Black", sans-serif;
+    font-size: 0.625em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block11 {
+    color: #92D050;
+    display: block;
+    font-family: "Arial Black", sans-serif;
+    font-size: 0.625em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block12 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block13 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 0.625em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block14 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 0.625em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block15 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 0.625em;
+    font-style: italic;
+    text-align: right;
+    padding: 0;
+    margin: 0
+    }
+.block16 {
+    display: block;
+    font-size: 0.625em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block17 {
+    display: block;
+    font-size: 0.625em;
+    padding: 0;
+    margin: 0
+    }
+.block18 {
+    display: block;
+    font-size: 0.625em;
+    line-height: 1.5;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block19 {
+    display: block;
+    font-size: 0.625em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block20 {
+    display: block;
+    font-size: 0.625em;
+    text-align: justify;
+    text-indent: -18pt;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.block21 {
+    font-size: 1em
+    }
+.block22 {
+    color: black;
+    display: block;
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 24pt 0 0
+    }
+.block23 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 0
+    }
+.block24 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.block25 {
+    color: black;
+    display: block;
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 2em;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block26 {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 0
+    }
+.block27 {
+    display: block;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 0
+    }
+.block28 {
+    display: block;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 0
+    }
+.block29 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block30 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    text-align: justify;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 0
+    }
+.block31 {
+    display: block;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 0
+    }
+.block32 {
+    display: block;
+    font-size: 0.625em;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.block33 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.625em;
+    text-align: justify;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Bookman Old Style", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre2 {
+    height: 54.9pt;
+    line-height: 1.2;
+    width: 301pt
+    }
+.calibre3 {
+    height: 26.9pt;
+    line-height: 1.2;
+    width: 75.7pt
+    }
+.calibre4 {
+    height: 154pt;
+    width: 336pt
+    }
+.calibre5 {
+    height: 63.5pt;
+    width: 80.5pt
+    }
+.calibre6 {
+    font-size: 1em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre7 {
+    font-style: italic
+    }
+.calibre8 {
+    font-size: 0.83333em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre9 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre10 {
+    line-height: 1.2
+    }
+.calibre11 {
+    height: 85.4pt;
+    line-height: 1.2;
+    width: 196pt
+    }
+.calibre12 {
+    display: block;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.calibre13 {
+    height: 52.5pt;
+    line-height: 1.2;
+    width: 114pt
+    }
+.calibre14 {
+    height: 95.2pt;
+    line-height: 1.2;
+    width: 155pt
+    }
+.calibre15 {
+    height: 100pt;
+    line-height: 1.2;
+    width: 135pt
+    }
+.calibre16 {
+    height: 118pt;
+    line-height: 1.2;
+    width: 111pt
+    }
+.calibre17 {
+    height: 100pt;
+    line-height: 1.2;
+    width: 101pt
+    }
+.calibre18 {
+    height: 98.8pt;
+    line-height: 1.2;
+    width: 192pt
+    }
+.calibre19 {
+    height: 95.2pt;
+    line-height: 1.2;
+    width: 154pt
+    }
+.calibre20 {
+    height: 102pt;
+    line-height: 1.2;
+    width: 156pt
+    }
+.calibre21 {
+    font-size: 0.83333em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre22 {
+    height: 110pt;
+    line-height: 1.2;
+    width: 167pt
+    }
+.calibre23 {
+    height: 107pt;
+    line-height: 1.2;
+    width: 133pt
+    }
+.calibre24 {
+    height: 98.8pt;
+    line-height: 1.2;
+    width: 164pt
+    }
+.calibre25 {
+    height: 120pt;
+    line-height: 1.2;
+    width: 154pt
+    }
+.calibre26 {
+    height: 134pt;
+    line-height: 1.2;
+    width: 199pt
+    }
+.calibre27 {
+    height: 120pt;
+    line-height: 1.2;
+    width: 203pt
+    }
+.calibre28 {
+    height: 127pt;
+    line-height: 1.2;
+    width: 212pt
+    }
+.calibre29 {
+    height: 101pt;
+    line-height: 1.2;
+    width: 164pt
+    }
+.calibre30 {
+    height: 109pt;
+    line-height: 1.2;
+    width: 160pt
+    }
+.calibre31 {
+    height: 98.8pt;
+    line-height: 1.2;
+    width: 101pt
+    }
+.calibre32 {
+    height: 135pt;
+    line-height: 1.2;
+    width: 107pt
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.tab1 {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.text2 {
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.text3 {
+    font-size: 0.83333em;
+    font-style: italic;
+    line-height: normal;
+    vertical-align: super
+    }
+.text4 {
+    color: #000;
+    font-family: "Bookman Old Style", serif;
+    font-style: italic
+    }
+.text5 {
+    color: #000;
+    font-family: "Arial Unicode MS", sans-serif;
+    font-style: italic;
+    text-decoration: none
+    }

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>OMERZEN</dc:publisher>
+    <meta name="calibre:title_sort" content="Aşk, Bir Kere"/>
+    <dc:language>tr</dc:language>
+    <dc:title>Aşk, Bir Kere</dc:title>
+    <meta name="calibre:timestamp" content="2014-04-23T18:48:48.701000+00:00"/>
+    <dc:creator opf:file-as="Binchy, Maeve" opf:role="aut">Maeve Binchy</dc:creator>
+    <meta name="cover" content="cover"/>
+    <dc:date>2014-04-22T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.31.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="UUID">urn:uuid:1f15bd5c-e3a8-4fcf-a1bd-09a26e982461</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:1f15bd5c-e3a8-4fcf-a1bd-09a26e982461</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a60d8cd7-a2a0-44c0-af9f-061b3ead034a</dc:identifier>
+    <dc:identifier opf:scheme="calibre">a60d8cd7-a2a0-44c0-af9f-061b3ead034a</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/Text/Section0001_split_000.xhtml" id="Section0001.xhtml4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_001.xhtml" id="Section0001.xhtml3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_002.xhtml" id="Section0001.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_003.xhtml" id="Section0001.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml4"/>
+    <itemref idref="Section0001.xhtml3"/>
+    <itemref idref="Section0001.xhtml2"/>
+    <itemref idref="Section0001.xhtml1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

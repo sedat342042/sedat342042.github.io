@@ -1,0 +1,130 @@
+.block {
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block2 {
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 32.1pt;
+    margin-top: 0;
+    text-align: center;
+    padding: 0
+    }
+.block3 {
+    display: block;
+    line-height: 13pt;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block4 {
+    display: block;
+    font-family: serif;
+    line-height: 13pt;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block5 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block6 {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block9 {
+    display: block;
+    line-height: 13pt;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: justify;
+    padding: 0
+    }
+.block10 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block11 {
+    display: block;
+    line-height: 13pt;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    padding: 0
+    }
+.block12 {
+    display: block;
+    font-family: serif;
+    line-height: 13pt;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: justify;
+    padding: 0
+    }
+.block14 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block15 {
+    display: block;
+    font-style: italic;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: justify;
+    padding: 0
+    }
+.block16 {
+    display: block;
+    font-size: 1.83333em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    white-space: pre-wrap
+    }

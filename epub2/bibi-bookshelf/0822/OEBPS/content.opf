@@ -1,0 +1,89 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:a31298a4-c7b6-42bf-94e2-d57f3784dc63</dc:identifier>
+    <dc:type>Fantastik</dc:type>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:date>2000-08-28T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+  <dc:title>Karpatlar Şatosu</dc:title>
+<meta name="calibre:title_sort" content="Karpatlar Şatosu"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Korku</dc:subject>
+<dc:description>&lt;p&gt;Transilvanya'daki Werst Köyü'nde, terk edilmiş bir şatoda endişe verici olaylar yaşandığına dair söylentiler dolaşmaktadır. Kont Franz de Telek opera sanatçısı nişanlısı La Stilla'nın ölümünü unutabilmek için yolculuk etmektedir. Kont, Werst'e gelir. Şato'nun, La Stilla ölürken kendisini lanetleyen Rodolphe de Gortz'a ait olduğunu öğrenir. Telek uzun uğraşlar sonunda bu korkunç şatonun esrarını keşfeder. Ancak bu keşfin bedeli ağır olacaktır.
+
+Jules Verne'in en sevilen romanlarından Karpatlar Şatosu, vampirlerin diyarı Karpatlar'da geçen bir serüveni anlatıyor. Batıl inançlar ile teknolojinin, iyi ile kötünün, yaşam ile ölümün karşı karşıya geldiği bu serüvende hazin bir aşk öyküsü de var. Kimilerine göre daha ondokuzuncu yüzyılda televizyonu haber veren, kimilerine göre Orpheus mitosunun bir yorumu olan Karpatlar Şatosu, Jules Verne'in şaşırtıcı düşgücüyle, fantastik öykücü kimliğini birleştirdiği bir roman.
+(Arka Kapak)
+&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">76ce83fe-943b-46c8-85b0-2abb035c9173</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:a31298a4-c7b6-42bf-94e2-d57f3784dc63</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/S022.xhtml" id="S022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S001.xhtml" id="S001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S002.xhtml" id="S002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S003.xhtml" id="S003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S004.xhtml" id="S004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/it.jpg" id="it.jpg" media-type="image/jpeg"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S005.xhtml" id="S005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S006.xhtml" id="S006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S007.xhtml" id="S007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S008.xhtml" id="S008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S009.xhtml" id="S009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S010.xhtml" id="S010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S011.xhtml" id="S011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S012.xhtml" id="S012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S013.xhtml" id="S013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S014.xhtml" id="S014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S015.xhtml" id="S015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S016.xhtml" id="S016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S017.xhtml" id="S017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S018.xhtml" id="S018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S019.xhtml" id="S019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S020.xhtml" id="S020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/S021.xhtml" id="S021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/yeni.jpg" id="yeni.jpg" media-type="image/jpeg"/>
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css"/>
+    <item href="Text/DiPNOTLAR.xhtml" id="DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="S001.xhtml"/>
+    <itemref idref="S002.xhtml"/>
+    <itemref idref="S003.xhtml"/>
+    <itemref idref="S004.xhtml"/>
+    <itemref idref="S005.xhtml"/>
+    <itemref idref="S006.xhtml"/>
+    <itemref idref="S007.xhtml"/>
+    <itemref idref="S008.xhtml"/>
+    <itemref idref="S009.xhtml"/>
+    <itemref idref="S010.xhtml"/>
+    <itemref idref="S011.xhtml"/>
+    <itemref idref="S012.xhtml"/>
+    <itemref idref="S013.xhtml"/>
+    <itemref idref="S014.xhtml"/>
+    <itemref idref="S015.xhtml"/>
+    <itemref idref="S016.xhtml"/>
+    <itemref idref="S017.xhtml"/>
+    <itemref idref="S018.xhtml"/>
+    <itemref idref="S019.xhtml"/>
+    <itemref idref="S020.xhtml"/>
+    <itemref idref="S021.xhtml"/>
+    <itemref idref="S022.xhtml"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

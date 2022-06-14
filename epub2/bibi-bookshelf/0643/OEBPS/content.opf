@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Camus, Albert">Albert Camus</dc:creator>
+<dc:date>1988-01-26T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750720383</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor id="translator">Tahsin Yücel</dc:contributor>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="Tersi ve Yüzü" name="calibre:title_sort"/>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Albert Camus&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-05-31</dc:date>
+  <dc:title>Tersi ve Yüzü</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:description>&lt;p&gt;"Brice Parain, sık sık, yazdıklarımın en iyisini bu küçük kitabın içerdiğini ileri sürer... Hayır, aldanıyor, çünkü deha bir yana bırakılırsa, insan yirmi iki yaşında yazı yazmasını pek bilemez. Ama Parain'in söylemek istediğini anlıyorum.Bu acemice sayfalarda, sonradan yazdıklarımdakilerden daha çok gerçek aşk bulunduğunu söylemek istiyor, haksız da değil... Bu sayfaların yazıldığı zamandan beri, yaşlandım, çok şeyler görüp geçirdim. Sınırlarımı, sonra hemen hemen bütün zayıflıklarımı tanıyarak kendi hakkımda bilgi edindim... Herkes gibi ben de düşlerim bazı bazı. Ama iki sakin melek onun eşiğinden hiçbir zaman geçirmediler beni; biri dostum yüzünü gösterir, öbürü düşmanın suratını. Evet, bütün bunları biliyorum, aşkın neye patladığını da öğrendim ya da aşağı yukarı. Ama yaşamın kendisi hakkında, "Tersi ve Yüzü"nde acemice söylenenden daha fazlasını bilmiyorum."&lt;/p&gt;</dc:description>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">44f97dc5-5cbd-4b76-8c0a-b62143d18b44</dc:identifier>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789750720383</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/introduction.xhtml" id="introductionxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface.xhtml" id="prefacexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="Fonts/BerlingLTStd-Bold.ttf" id="font__BerlingLTStd-Boldttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BerlingLTStd-BoldItalic.ttf" id="font__BerlingLTStd-BoldItalicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/x-font-ttf"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="introductionxhtml"/>
+    <itemref idref="prefacexhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+  </spine>
+</package>

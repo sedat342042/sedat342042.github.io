@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="AWP-B6830F60-6471-44EE-9EDD-8F1D29D7E8BC" name="dtb:uid"/>
+<meta content="1" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Kum Kitabı</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>Çevirenin Notu</text>
+</navLabel>
+<content src="Text/005.html#ncx28"/>
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>Yazarın Notu</text>
+</navLabel>
+<content src="Text/007.html"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>ÖTEKİ</text>
+</navLabel>
+<content src="Text/010.html"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>ULRIKE</text>
+</navLabel>
+<content src="Text/011.html#ncx136"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>KONGRE</text>
+</navLabel>
+<content src="Text/012.html#ncx193"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>BAŞKA ŞEYLER DAHA VAR</text>
+</navLabel>
+<content src="Text/013.html#ncx285"/>
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>OTUZLAR MEZHEBİ</text>
+</navLabel>
+<content src="Text/014.html#ncx319"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>ARMAĞANLAR GECESİ</text>
+</navLabel>
+<content src="Text/015.html#ncx335"/>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>AYNA VE MASKE</text>
+</navLabel>
+<content src="Text/016.html#ncx374"/>
+</navPoint>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>UNDR</text>
+</navLabel>
+<content src="Text/017.html#ncx410"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>YORGUN BİR ADAMIN  DÜŞÜLKESİ</text>
+</navLabel>
+<content src="Text/018.html#ncx448"/>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>DÜZEN</text>
+</navLabel>
+<content src="Text/019.html#ncx522"/>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>AVELINO ARREDONDO</text>
+</navLabel>
+<content src="Text/020.html#ncx549"/>
+</navPoint>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>DİSK</text>
+</navLabel>
+<content src="Text/021.html#ncx585"/>
+</navPoint>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>KUM KİTABI</text>
+</navLabel>
+<content src="Text/022.html#ncx615"/>
+</navPoint>
+<navPoint id="navpoint-17" playOrder="17">
+<navLabel>
+<text>SONDEYIŞ</text>
+</navLabel>
+<content src="Text/023.html#ncx668"/>
+</navPoint>
+</navMap>
+</ncx>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{360B6326-F411-4CBA-9D89-213868436945}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Jules Verne - Altın Volkanı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Jules Verne</text>
+      </navLabel>
+      <content src="Text/K1.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Jules Verne Kitaplığı’ndan yayımlanan kitaplarımız:</text>
+        </navLabel>
+        <content src="Text/K4.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/S00.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>DAYININ VASİYETİ</text>
+        </navLabel>
+        <content src="Text/S01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>İKİ KUZEN</text>
+        </navLabel>
+        <content src="Text/S02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>MONTREAL’DEN VANCOUVER’A</text>
+        </navLabel>
+        <content src="Text/S03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>VANCOUVER</text>
+        </navLabel>
+        <content src="Text/S04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>FOOT-BALL'IN GÜVERTESİNDE</text>
+        </navLabel>
+        <content src="Text/S05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>SKAGWAY</text>
+        </navLabel>
+        <content src="Text/S06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>CHİLKOOT</text>
+        </navLabel>
+        <content src="Text/S07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>LÎNDEMAN GÖLÜ’NDE</text>
+        </navLabel>
+        <content src="Text/S08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>BENETT GÖLÜ’NDEN DAWSON-CÎTY’YE KADAR</text>
+        </navLabel>
+        <content src="Text/S09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>KLONDÎKE</text>
+        </navLabel>
+        <content src="Text/S10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>DAWSON-CİTY’DE</text>
+        </navLabel>
+        <content src="Text/S11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>DAWSON-CÎTY’DEN SINIRA</text>
+        </navLabel>
+        <content src="Text/S12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>129 NUMARALI MADEN</text>
+        </navLabel>
+        <content src="Text/S13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>MADENÎN İŞLETİLMESİ</text>
+        </navLabel>
+        <content src="Text/S14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>5 AĞUSTOS’U 6 AĞUSTOS’A BAĞLAYAN GECE</text>
+        </navLabel>
+        <content src="Text/S15.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/S16.xhtml"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>KLONDİKE’TA BİR KIŞ</text>
+        </navLabel>
+        <content src="Text/S17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>CAN ÇEKİŞEN ADAMIN HİKÂYESİ</text>
+        </navLabel>
+        <content src="Text/S18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>AÇIKLAMANIN SONUÇLARI</text>
+        </navLabel>
+        <content src="Text/S19.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>CİRCLE-CÎTY</text>
+        </navLabel>
+        <content src="Text/S20.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>KEŞİF</text>
+        </navLabel>
+        <content src="Text/S21.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>FORT MACPHERSON</text>
+        </navLabel>
+        <content src="Text/S22.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>GOLDEN MOUNT</text>
+        </navLabel>
+        <content src="Text/S23.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>MÜHENDİSİN CESUR FİKRİ</text>
+        </navLabel>
+        <content src="Text/S24.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>KANADA GEYİĞİ AVI</text>
+        </navLabel>
+        <content src="Text/S25.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>ÖLÜMCÜL ENDÎŞELER</text>
+        </navLabel>
+        <content src="Text/S26.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>SAVUNMA</text>
+        </navLabel>
+        <content src="Text/S27.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>SALDIRI VE SAVUNMA</text>
+        </navLabel>
+        <content src="Text/S28.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>PÜSKÜRME</text>
+        </navLabel>
+        <content src="Text/S29.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>DAWSON-CÎTY’DEN MONTREAL’E</text>
+        </navLabel>
+        <content src="Text/S30.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

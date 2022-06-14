@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="a409c06c-d49f-42da-82d1-d612b8d27f69" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Gulliver'in Gezileri</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e7ac2e50-ddc6-4cc3-9dfa-d23c8bf9611d" playOrder="1">
+      <navLabel>
+        <text>Birinci Bölüm Lilliput’a Gezi</text>
+      </navLabel>
+      <content src="Text/GuliverKitap_split_004.html"/>
+    </navPoint>
+    <navPoint id="c25b6d12-55da-47f1-83a1-edfcdcecfab7" playOrder="2">
+      <navLabel>
+        <text>İkinci Bölüm Brobdingnag’a Gezi</text>
+      </navLabel>
+      <content src="Text/GuliverKitap_split_012.html"/>
+    </navPoint>
+    <navPoint id="e3c1a519-84b6-4233-85c9-b559ca7b89b8" playOrder="3">
+      <navLabel>
+        <text>Üçüncü Bölüm Laputa, Balnibarbi, Glubbdubdrib, Luggnagg ve Japonya’ya Gezi</text>
+      </navLabel>
+      <content src="Text/GuliverKitap_split_020.html"/>
+    </navPoint>
+    <navPoint id="c8ed8b4e-bba3-4b2f-bff7-eb1e9c72b284" playOrder="4">
+      <navLabel>
+        <text>Dördüncü Bölüm Houyhnhnm’lar Ülkesine Gezi</text>
+      </navLabel>
+      <content src="Text/GuliverKitap_split_032.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

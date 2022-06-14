@@ -1,0 +1,127 @@
+a {
+    text-decoration: none;
+    color: #7A7A7A
+    }
+/*
+ *chapter
+ */
+p {
+    font: normal normal 0.875em/1.3em "Berling";
+    margin: 0;
+    text-indent: 1.5em
+    }
+h1 {
+    font: normal normal 1.25em/1.3em "Berling";
+    text-align: center;
+    margin-top: 3em
+    }
+.part {
+    font-size: 1.2em;
+    margin-top: 5em;
+    margin-bottom: 0
+    }
+.part-subtitle {
+    font-size: 1.2em;
+    margin-top: 1.2em;
+    padding: 0
+    }
+blockquote {
+    margin: 0.9em 1em 0 1em
+    }
+.letter {
+    margin: 1.1em 0 0 0
+    }
+.si-noteref {
+    text-decoration: none;
+    color: #7A7A7A;
+    font-size: 0.75em;
+    vertical-align: super;
+    padding-left: 0.1em
+    }
+.si-footnotes {
+    margin: 4em 0 1em
+    }
+.si-backref {
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #000
+    }
+.si-footnote {
+    font-family: GillSans;
+    font-size: 0.8em;
+    margin-bottom: 0.25em
+    }
+.dot {
+    text-align: right;
+    margin-top: -2.5em;
+    margin-bottom: 1em
+    }
+.margin {
+    margin-top: 1.1em
+    }
+.margin-double {
+    margin-top: 2.2em
+    }
+.chapter-begin {
+    margin-top: 6em
+    }
+.by {
+    margin-top: 1.5em;
+    text-align: right
+    }
+img {
+    max-width: 100%
+    }
+hr {
+    border: 0;
+    max-width: 3em;
+    margin: 1em auto 0.6em auto
+    }
+hr:before {
+    content: "* * *";
+    font: normal 1em/1.2em "Berling-Medium"
+    }
+.books .books {
+    font: normal normal 0.75em/1.3em "Gill";
+    text-indent: 0
+    }
+/*		epigraph 		*/
+.epigraph {
+    text-align: left;
+    max-width: 16em;
+    margin: 5em 0 2em auto
+    }
+.epigraph-right {
+    text-align: right;
+    max-width: 14em;
+    margin: 0 0 2em auto
+    }
+.title {
+    text-align: center
+    }
+.aut {
+    font-family: "Goudy";
+    font-size: 1.812em;
+    margin-bottom: 0
+    }
+.work {
+    font-family: "Goudy";
+    font-size: 1.75em;
+    margin-top: 0.5em
+    }
+.seri {
+    font-family: "Gill";
+    font-size: 1em;
+    margin-top: 3.5em
+    }
+.logo {
+    margin: 3em auto 0 auto;
+    width: 60px
+    }
+img {
+    width: 100%
+    }
+.biography .translator {
+    margin-top: 2em
+    }

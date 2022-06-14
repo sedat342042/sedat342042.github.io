@@ -1,0 +1,9 @@
+@page{margin:.2cm}
+p{text-indent:.8em;text-align:justify;orphans:2;widows:2;hyphens:auto;font-size:100%;margin:.35em 0}
+body {padding: 1em;}
+a:link{color:inherit;text-decoration:inherit;cursor:default}
+a[href]{color:blue;text-decoration:underline;cursor:pointer}
+h1{text-indent:0;text-align:justify;page-break-after:avoid;font-size:200%;font-weight:400;margin:.75em 0}
+h2{margin-top:.75em;margin-bottom:1.8em;font-size: 1.3em;}
+.kunye{text-indent:.8em;margin-left:1em;text-align:center;text-indent:0;margin-top:.1em;margin-bottom:.1em;font-size:.9em}
+.araver{margin-top:1.5em}

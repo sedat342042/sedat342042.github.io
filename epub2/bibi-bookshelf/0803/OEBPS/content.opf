@@ -1,0 +1,95 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Doğu Mitolojisi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Campbell, Joseph">Joseph Campbell</dc:creator>
+    <dc:identifier id="BookId">AWP-09CDF201-7318-48CE-BD40-19E4EC87B947</dc:identifier>
+    <dc:date>2015-11-14T22:00:00+00:00</dc:date>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>İmge Kitabevi</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">a0c507d2-4474-4f91-9734-3e37ca865475</dc:identifier>
+    <meta content="0.8.901" name="Sigil version"/>
+    <meta name="cover" content="Joseph_Campell_-_Tanrının_Maskeleri_-_Doğu_Mitolojisi_Sayfa_001.jpg"/>
+    <meta content="Doğu Mitolojisi" name="calibre:title_sort"/>
+    <meta content="{&quot;Joseph Campbell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Kapak.xhtml" id="Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/I. Kisim.html" id="I._Kisim.html" media-type="application/xhtml+xml"/>
+    <item href="Text/I. Bolum.html" id="I._Bolum.html" media-type="application/xhtml+xml"/>
+    <item href="Text/II. Bolum.html" id="II._Bolum.html" media-type="application/xhtml+xml"/>
+    <item href="Text/III. Bolum.html" id="III._Bolum.html" media-type="application/xhtml+xml"/>
+    <item href="Text/II. Kisim.html" id="II._Kisim.html" media-type="application/xhtml+xml"/>
+    <item href="Text/IV. Bolum.html" id="IV._Bolum.html" media-type="application/xhtml+xml"/>
+    <item href="Text/V. Bolum.html" id="V._Bolum.html" media-type="application/xhtml+xml"/>
+    <item href="Text/VI. Bolum.html" id="VI._Bolum.html" media-type="application/xhtml+xml"/>
+    <item href="Text/III. Kisim.html" id="III._Kisim.html" media-type="application/xhtml+xml"/>
+    <item href="Text/VII. Bolum.html" id="VII._Bolum.html" media-type="application/xhtml+xml"/>
+    <item href="Text/VIII. Bolum.html" id="VIII._Bolum.html" media-type="application/xhtml+xml"/>
+    <item href="Text/IX. Bolum.html" id="IX._Bolum.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Dipnotlar.html" id="Dipnotlar.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="../fonts.css" id="font_embed" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/1.JPG" id="x1.JPG" media-type="image/jpeg"/>
+    <item href="Images/2.JPG" id="x2.JPG" media-type="image/jpeg"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+    <item href="Images/img10.jpg" id="img10" media-type="image/jpeg"/>
+    <item href="Images/img11.jpg" id="img11" media-type="image/jpeg"/>
+    <item href="Images/img12.jpg" id="img12.jpg" media-type="image/jpeg"/>
+    <item href="Images/img13.jpg" id="img13" media-type="image/jpeg"/>
+    <item href="Images/img14.jpg" id="img14" media-type="image/jpeg"/>
+    <item href="Images/img15.jpg" id="img15" media-type="image/jpeg"/>
+    <item href="Images/img16.jpg" id="img16" media-type="image/jpeg"/>
+    <item href="Images/img17.png" id="img17" media-type="image/png"/>
+    <item href="Images/img18.jpg" id="img18" media-type="image/jpeg"/>
+    <item href="Images/img19.jpg" id="img19.jpg" media-type="image/jpeg"/>
+    <item href="Images/img2.png" id="img2" media-type="image/png"/>
+    <item href="Images/img20.jpg" id="img20" media-type="image/jpeg"/>
+    <item href="Images/img21.jpg" id="img21" media-type="image/jpeg"/>
+    <item href="Images/img22.jpg" id="img22" media-type="image/jpeg"/>
+    <item href="Images/img23.jpg" id="img23" media-type="image/jpeg"/>
+    <item href="Images/img24.jpg" id="img24" media-type="image/jpeg"/>
+    <item href="Images/img25.jpg" id="img25" media-type="image/jpeg"/>
+    <item href="Images/img26.jpg" id="img26" media-type="image/jpeg"/>
+    <item href="Images/img27.png" id="img27" media-type="image/png"/>
+    <item href="Images/img28.jpg" id="img28" media-type="image/jpeg"/>
+    <item href="Images/img29.jpg" id="img29" media-type="image/jpeg"/>
+    <item href="Images/img3.jpg" id="img3" media-type="image/jpeg"/>
+    <item href="Images/img30.jpg" id="img30" media-type="image/jpeg"/>
+    <item href="Images/img31.png" id="img31" media-type="image/png"/>
+    <item href="Images/img4.jpg" id="img4" media-type="image/jpeg"/>
+    <item href="Images/img5.png" id="img5" media-type="image/png"/>
+    <item href="Images/img6.jpg" id="img6" media-type="image/jpeg"/>
+    <item href="Images/img7.jpg" id="img7" media-type="image/jpeg"/>
+    <item href="Images/img8.jpg" id="img8" media-type="image/jpeg"/>
+    <item href="Images/img9.jpg" id="img9" media-type="image/jpeg"/>
+    <item href="Images/Joseph Campell - Tanrının Maskeleri - Doğu Mitolojisi_Sayfa_001.jpg" id="Joseph_Campell_-_Tanrının_Maskeleri_-_Doğu_Mitolojisi_Sayfa_001.jpg" media-type="image/jpeg"/>
+    <item href="../fonts/Arial.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Century751-SeBd-BT-Semi-Bold-Italic.ttf" id="font" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Century751-SeBd-BT-Semi-Bold.ttf" id="font1" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="I._Kisim.html"/>
+    <itemref idref="I._Bolum.html"/>
+    <itemref idref="II._Bolum.html"/>
+    <itemref idref="III._Bolum.html"/>
+    <itemref idref="II._Kisim.html"/>
+    <itemref idref="IV._Bolum.html"/>
+    <itemref idref="V._Bolum.html"/>
+    <itemref idref="VI._Bolum.html"/>
+    <itemref idref="III._Kisim.html"/>
+    <itemref idref="VII._Bolum.html"/>
+    <itemref idref="VIII._Bolum.html"/>
+    <itemref idref="IX._Bolum.html"/>
+    <itemref idref="Dipnotlar.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/Kapak.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
