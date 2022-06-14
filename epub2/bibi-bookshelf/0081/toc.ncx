@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="e3ea417b-55dc-4dc5-a3a5-e397766fb434" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.54)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yaşamda Bir Başlangıç</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Ops/001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Yaşamda Bir Başlangıç - Honore De Balzac</text>
+      </navLabel>
+      <content src="Ops/002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>SUNUŞ</text>
+      </navLabel>
+      <content src="Ops/003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>LAURE İÇİN</text>
+      </navLabel>
+      <content src="Ops/004.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

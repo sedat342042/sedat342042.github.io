@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="b153459d-3bfb-44e8-96a4-a7ab5e4b8cca" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Arsenik</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik1_0001.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik1_0002.html#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Dördüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik1_0003.html#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Beşinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik1_0004.html#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Altıncı Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik2.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Yedinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik2_0001.html#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Sekizinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik2_0002.html#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Dokuzuncu Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik2_0003.html#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Onuncu Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik3.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>On Birinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik3_0001.html#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>On İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik3_0002.html#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>On Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik3_0003.html#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>On Dördüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik3_0004.html#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>On Beşinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Arsenik3_0005.html#sigil_toc_id_12"/>
+    </navPoint>
+  </navMap>
+</ncx>

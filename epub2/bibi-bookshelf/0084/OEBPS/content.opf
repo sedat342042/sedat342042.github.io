@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e2839067-c42e-4c31-9c5b-0816b44dd944</dc:identifier>
+    <dc:language>en-GB</dc:language>
+    <dc:creator opf:role="aut">z</dc:creator>
+    <dc:title>Microsoft Word - George Bernard Shaw - Sezar Ve Kleopatra.txt</dc:title>
+    <dc:contributor opf:role="bkp">calibre (0.7.45) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="2011-03-22T13:18:14.129812+00:00" name="calibre:timestamp" />
+    <meta content="0.7.1" name="Sigil version" />
+    <dc:date opf:event="modification">2013-12-08</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/index_split_000.html" id="id13" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_001.html" id="id12" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_002.html" id="id11" media-type="application/xhtml+xml" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml" />
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.html" />
+    <itemref idref="id13" />
+    <itemref idref="id12" />
+    <itemref idref="id11" />
+  </spine>
+  <guide />
+</package>

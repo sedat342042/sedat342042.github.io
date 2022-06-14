@@ -1,0 +1,70 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Altan, Ahmet">Ahmet Altan</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:d5f43410-783c-4cbd-95c7-d04047edc606</dc:identifier>
+    <dc:date>2002-11-07T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Biraz önce konuştuğu adamın şımarık aldırmazlığından, hayatla alay eden kibirli boşvermişliğinden sonra kocasının bir mevki peşinde koşuşunda kendisini hem utandıran hem de öfkelendiren zavallı bir sıradanlık, daha kötüsü rahatsız edici bir başarısızlık görüyordu.
+
+Kocasının bir başka erkekle kıyaslandığında böylesine güçsüz ve önemsiz görünmesinden içi acıyordu; Haluk o sıradan ihtirası ve tekdüze yakınmalarıyla onu sıkıyor, hiç tanımadığı bir başka erkeği neredeyse hastalıklı bir şekilde özlemesine neden oluyordu. Bir başka erkeği özlemesine neden olduğu için kocasını hiç affetmeyecekti ve affetmedi. Haluk'un belki bir daha hiç hatırlamadığı o kısa ve önemsiz konuşma, aralarındaki ilişkiyi onarılması çok zor biçimde sarsıyor, yıllar içinde inşa edilmiş birçok duygusal bağı koparmasa da önemli ölçüde zedeliyordu. Bu duygularının arasında bir yandan da kocasına nasıl haksızlık yaptığını fark ediyor, utancına bir haksızlık yaptığını düşünmenin huzursuzluğu ekleniyordu. Kocası belki de Cem'in asla sahip olamayacağı olağanüstü bir yeteneğe sahipti, hayatın içinde, çalışarak, dövüşe dövüşe yükselmişti; hiç kimseye kötülük etmezdi, karısını kıracak bir hareketi bilerek hiçbir zaman yapmamış, her zaman onu hoş tutmaya uğramıştı. Şimdi kendi kazanmadığı zenginliğine güvenen, bu güvenle şımaran, hiçbir şeyi kaybetmekten korkmayan küstah ve kibirli bir adamın hercai serseriliğinin hayali karşısında eziliyor, karısının gözünde değersizleşiyordu.&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Aldatmak"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ahmet Altan&quot;: &quot;&quot;}"/>
+  <dc:title>Aldatmak</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">b437df5b-9fe4-4bb3-87b4-da5e39e60e2e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750702174</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0001.xhtml" id="Section0003_0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0002.xhtml" id="Section0003_0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0003.xhtml" id="Section0003_0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0004.xhtml" id="Section0003_0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0005.xhtml" id="Section0003_0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0006.xhtml" id="Section0003_0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0007.xhtml" id="Section0003_0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0008.xhtml" id="Section0003_0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0009.xhtml" id="Section0003_0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0010.xhtml" id="Section0003_0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0011.xhtml" id="Section0003_0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0012.xhtml" id="Section0003_0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0013.xhtml" id="Section0003_0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003_0014.xhtml" id="Section0003_0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0003_0001.xhtml"/>
+    <itemref idref="Section0003_0002.xhtml"/>
+    <itemref idref="Section0003_0003.xhtml"/>
+    <itemref idref="Section0003_0004.xhtml"/>
+    <itemref idref="Section0003_0005.xhtml"/>
+    <itemref idref="Section0003_0006.xhtml"/>
+    <itemref idref="Section0003_0007.xhtml"/>
+    <itemref idref="Section0003_0008.xhtml"/>
+    <itemref idref="Section0003_0009.xhtml"/>
+    <itemref idref="Section0003_0010.xhtml"/>
+    <itemref idref="Section0003_0011.xhtml"/>
+    <itemref idref="Section0003_0012.xhtml"/>
+    <itemref idref="Section0003_0013.xhtml"/>
+    <itemref idref="Section0003_0014.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

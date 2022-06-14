@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="16063386-d51a-4328-bb06-6d4aa5eb7101" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Doğu Ekspresinde Cinayet</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Doğu Ekspresindekiler</text>
+      </navLabel>
+      <content src="Text/doguEkspresindekiler.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Poirot'nun Elinde Şu İpuçlari Vardı</text>
+      </navLabel>
+      <content src="Text/Section0001.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Poirot’nun Şu Soruları Yanıtlaması Gerekiyordu</text>
+      </navLabel>
+      <content src="Text/Section0002.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Toros Ekspresinde Önemli Bir Yolcu</text>
+      </navLabel>
+      <content src="Text/Section0003.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Tokatlıyan Oteli</text>
+      </navLabel>
+      <content src="Text/Section0004.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Poirot Bir Müşteriyi Reddediyor</text>
+      </navLabel>
+      <content src="Text/Section0005.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Karanlıkta Bir Çığlık</text>
+      </navLabel>
+      <content src="Text/Section0006.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Cinayet</text>
+      </navLabel>
+      <content src="Text/Section0007.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Bir Kadın</text>
+      </navLabel>
+      <content src="Text/Section0008.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Ceset</text>
+      </navLabel>
+      <content src="Text/Section0009.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Armstrong Olayı</text>
+      </navLabel>
+      <content src="Text/Section0010.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Kondüktör</text>
+      </navLabel>
+      <content src="Text/Section0011.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Sekreter</text>
+      </navLabel>
+      <content src="Text/Section0012.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Uşak Masterman</text>
+      </navLabel>
+      <content src="Text/Section0013.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Amerikalı Kadın</text>
+      </navLabel>
+      <content src="Text/Section0014.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>İsveçli Kadın</text>
+      </navLabel>
+      <content src="Text/Section0015.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Rus Prensesi</text>
+      </navLabel>
+      <content src="Text/Section0016.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Kont ve Kontes Andrenyi</text>
+      </navLabel>
+      <content src="Text/Section0017.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Albay Arbuthnot</text>
+      </navLabel>
+      <content src="Text/dogu%20ekspresinde%20cinayet_split_001.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Bay Hardman</text>
+      </navLabel>
+      <content src="Text/Section0018.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>İtalyan</text>
+      </navLabel>
+      <content src="Text/Section0019.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Miss Debenham</text>
+      </navLabel>
+      <content src="Text/Section0020.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Alman Oda Hizmetçisi</text>
+      </navLabel>
+      <content src="Text/Section0021.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>İhtimaller</text>
+      </navLabel>
+      <content src="Text/Section0022.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Silah</text>
+      </navLabel>
+      <content src="Text/Section0023.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Yolcuların Eşyaları</text>
+      </navLabel>
+      <content src="Text/Section0024.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>İçlerinden Hangisi?</text>
+      </navLabel>
+      <content src="Text/Section0025.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>On Soru</text>
+      </navLabel>
+      <content src="Text/Section0026.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Bazı Önemli Noktalar</text>
+      </navLabel>
+      <content src="Text/Section0027.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Pasaporttaki Yağ Lekesi</text>
+      </navLabel>
+      <content src="Text/Section0028.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Prenses Dragomiroff'un Küçük Adı</text>
+      </navLabel>
+      <content src="Text/Section0029.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Albay Arbuthnot'la Yapılan İkinci Konuşma</text>
+      </navLabel>
+      <content src="Text/Section0030.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Mary Debenham'ın Kimliği</text>
+      </navLabel>
+      <content src="Text/Section0031.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Yine Şaşırtıcı Açıklamalar</text>
+      </navLabel>
+      <content src="Text/Section0032.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Poirot İki Çözüm Yolunu Açıklıyor</text>
+      </navLabel>
+      <content src="Text/Section0033.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

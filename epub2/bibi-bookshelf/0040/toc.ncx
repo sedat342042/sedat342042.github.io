@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="39541fa5-846b-4806-a969-e2405da4844e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.3.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Mutlu Ölüm</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint-2" playOrder="1">
+      <navLabel>
+        <text>‘MUTLU ÖLÜM’ÜN OLUŞUMU</text>
+      </navLabel>
+      <content src="Ops/003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-3" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Ops/004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-4" playOrder="3">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Ops/005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-5" playOrder="4">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Ops/006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-6" playOrder="5">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Ops/007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-7" playOrder="6">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Ops/008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-8" playOrder="7">
+      <navLabel>
+        <text>İkinci Anabölüm</text>
+      </navLabel>
+      <content src="Ops/009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-9" playOrder="8">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Ops/010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-10" playOrder="9">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Ops/011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-11" playOrder="10">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Ops/012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-12" playOrder="11">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Ops/013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-13" playOrder="12">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Ops/014.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

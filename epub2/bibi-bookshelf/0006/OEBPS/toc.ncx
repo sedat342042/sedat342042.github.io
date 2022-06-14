@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="AWP-A257AA19-98C4-433D-891C-278890DDE154" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Bir Kadeh Şampanya</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>ROSEMARY</text>
+</navLabel>
+<content src="Text/005.html"/>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>1 Iris Marle</text>
+</navLabel>
+<content src="Text/005.html#ncx45"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>2 Ruth Lessing</text>
+</navLabel>
+<content src="Text/008.html"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>3 Anthony Browne</text>
+</navLabel>
+<content src="Text/009.html"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>4 Stephen Farraday</text>
+</navLabel>
+<content src="Text/010.html"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>5 Alexandra Farraday</text>
+</navLabel>
+<content src="Text/011.html"/>
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>6 George Barton</text>
+</navLabel>
+<content src="Text/012.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>AZİZLER YORTUSU</text>
+</navLabel>
+<content src="Text/013.html"/>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>1</text>
+</navLabel>
+<content src="Text/013.html#ncx976"/>
+</navPoint>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>2</text>
+</navLabel>
+<content src="Text/014.html"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>3</text>
+</navLabel>
+<content src="Text/015.html"/>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>4</text>
+</navLabel>
+<content src="Text/016.html"/>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>5</text>
+</navLabel>
+<content src="Text/017.html"/>
+</navPoint>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>6</text>
+</navLabel>
+<content src="Text/018.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>IRIS</text>
+</navLabel>
+<content src="Text/019.html"/>
+</navPoint>
+</navMap>
+</ncx>

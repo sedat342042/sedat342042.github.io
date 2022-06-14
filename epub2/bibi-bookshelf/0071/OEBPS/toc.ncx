@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="12f0019b-bb48-4c6f-b0bb-ce7cafcd2ca7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Fernando Pessoa''nın Son Üç Günü</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/b_1.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>29 Kasım 1935</text>
+      </navLabel>
+      <content src="Text/b_2.htm"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/b_2.htm#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/b_2.htm#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>28 Kasım 1935</text>
+      </navLabel>
+      <content src="Text/b_3.htm"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/b_3.htm#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/b_3.htm#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/b_3.htm#sigil_toc_id_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>30 Kasım 1935</text>
+      </navLabel>
+      <content src="Text/b_4.htm"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/b_4.htm#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Kitapta Ortaya Çıkan Kişiler</text>
+      </navLabel>
+      <content src="Text/b_5.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.22.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bu Hesapta Yoktu</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u5cd51f81-bb09-4525-bfb9-47ed857dbb03" playOrder="1">
+      <navLabel>
+        <text>Küçük Tiyatronun Büyük Yazarı: Aleksandr Ostrovski</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml"/>
+    </navPoint>
+    <navPoint id="u5cdee316-385e-4e77-8ae8-aea321628cc1" playOrder="2">
+      <navLabel>
+        <text>Bu Hesapta Yoktu - Kişiler</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="u57e26afa-6f4f-41b9-87a7-0590e7072bd5" playOrder="3">
+      <navLabel>
+        <text>Birinci Perde</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+    </navPoint>
+    <navPoint id="u301a4275-33d8-40e9-988a-35da37279d14" playOrder="4">
+      <navLabel>
+        <text>İkinci Perde</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+    </navPoint>
+    <navPoint id="u08988e44-e9bb-4e3d-b3b4-74b18141bf00" playOrder="5">
+      <navLabel>
+        <text>Üçüncü Perde</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

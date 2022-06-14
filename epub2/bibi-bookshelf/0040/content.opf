@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Camus, Albert">Albert Camus</dc:creator>
+<dc:publisher>Can Yayınları</dc:publisher>
+    <meta name="calibre:timestamp" content="2013-09-17T20:40:11.966000+00:00"/>
+    <meta name="calibre:title_sort" content="Mutlu Ölüm"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>1970-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">39541fa5-846b-4806-a969-e2405da4844e</dc:identifier>
+    <dc:title>Mutlu Ölüm</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:description>&lt;p&gt;"Mutlu Ölüm", 1930'ların sonuna doğru yazılan, ama ancak 1971 yılında yayımlanan bir roman. Albert Camus (1913-1960) için daha sevimli görünen "Yabancı", daha önce yazdığı "Mutlu Ölüm"ün yayımlanmasını erteletmiş olabilir. Çünkü roman sanatı, 40'lı, 50'li yıllarda daha çok romanın yapısal özelliklerine ağırlık veriyordu. Bir sanat yapıtının yaratıldığı dönemde kusur sayılabilecek kimi özellikleri, daha sonra erdeme dönüşebiliyor. Albert Camus'nün ölümünden on bir yıl sonra günışığına çıkan bu romanını günümüzde öne çıkaran en önemli özellik, onun "romansı" oluşudur. "Mutlu Ölüm", yaratıcısı Albert Camus'ye otuz yıl sonra başkaldırmış ve özgürlüğüne kavuşmuştur. Bu roman, hem çağdaş bir yapıt, hem yazar-yapıt-okur ilişkisinin göz kamaştırıcı bir tanığıdır.&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Albert Camus&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">47ae8a28-0c5d-4d1c-bc2c-9eabd9d2052b</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755103709</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">11168609</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Ops/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Ops/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Ops/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Ops/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Ops/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Ops/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Ops/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Ops/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Ops/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Ops/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Ops/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Ops/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Ops/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Ops/images/img2.jpg" id="img2" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Agatha Christie</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>0C775E5B88F1BA416FD812E32555DBDB</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>3202C268D2CA8B0728C6ED01AD3CAB25</string>
+		<key>publisher-unique-id</key>
+		<string>f385f77d-1425-4537-91f6-e25360b0acd9</string>
+		<key>unique-id</key>
+		<integer>6755918923800012668</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Filler De Hatırlar</string>
+	<key>playlistName</key>
+	<string>Filler De Hatırlar</string>
+	<key>releaseDate</key>
+	<string>2011-10-16T10:01:58+00:00</string>
+	<key>sort-artist</key>
+	<string>Christie, Agatha</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

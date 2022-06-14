@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Ümit, Ahmet">Ahmet Ümit</dc:creator>
+<meta content="Kar Kokusu" name="calibre:title_sort"/>
+    <meta content="2011-07-21T18:41:25+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2007-07-21T18:41:25+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">32992730-5880-48f3-9058-666605185406</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-03-13</dc:date>
+  <dc:title>Kar Kokusu</dc:title>
+<dc:publisher>Everest Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Politik Roman</dc:subject>
+<dc:description>&lt;p&gt;Moskova’daki parti okuluna sadece TKP değil, ülkelerinde yasaklı olsun olmasın, başka komünist partilerden de üyeler vardır. Aynı örgüte mensup partililerin kendi aralarında yaşadıkları çatışmalar, dönemin Sovyetler Birliği Komünist Partisi yöneticileri ve Sovyet Gizli Servisi’nin öğrencilere yaklaşımı türünden ideallerle gerçekliğin yarattığı çelişkinin gerilimi de "Kar Kokusu"nun temposunu belirler. Mekân, karakterler, Moskova ve parti okulu atmosferinin canlı, gerçekçi tasvirleriyle usta işi bir romandır "Kar Kokusu".&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ahmet Ümit&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">331fa876-5c73-466d-8b80-d0ceee79253e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789759915568</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/index_split_000.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id15"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Tabucchi, Antonio">Antonio Tabucchi</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">12f0019b-bb48-4c6f-b0bb-ce7cafcd2ca7</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Gittikçe Geç Olmakta, Hint Gece Müziği, Ufuk Çizgisi gibi kitaplarıyla tanıdığmız İtalyan yazar Antonio Tabucchi, avantgarde Portekiz edebiyatının ustası Fernando Pessoa'nın tutkulu bir okuru ve çevirmenidir. Fermando Pessoa'nın Son Üç Günü'nde, yaşamı boyunca kullandığı takma adlar ve büründüğü gizemli kimlikleri Pessoa'yı ölüm döşeğinde ziyaret ederler. Tabucchi bu küçük başyapıtında, ustasını uğurlarken, 20.yüzyılın büyük yazarlarından birinin düşsel yaşam öyküsünü dile getirir.&lt;/p&gt;</dc:description>
+    <dc:date>2005-05-20T21:00:00+00:00</dc:date>
+    <meta content="Fernando Pessoa'nın Son Üç Günü" name="calibre:title_sort"/>
+    <meta content="2015-05-12T08:28:50.895000+00:00" name="calibre:timestamp"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Antonio Tabucchi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:rating" content="10.0"/>
+  <dc:title>Fernando Pessoa'nın Son Üç Günü</dc:title>
+<dc:subject>İtalya</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Kurgu</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">7b755728-64ce-4672-a27e-e868eb7f9410</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750704871</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.htm" id="ickapak.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/b_1.htm" id="b_1.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/b_2.htm" id="b_2.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/b_3.htm" id="b_3.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/b_4.htm" id="b_4.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/b_5.htm" id="b_5.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.htm"/>
+    <itemref idref="b_1.htm"/>
+    <itemref idref="b_2.htm"/>
+    <itemref idref="b_3.htm"/>
+    <itemref idref="b_4.htm"/>
+    <itemref idref="b_5.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

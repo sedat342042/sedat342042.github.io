@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Besleme</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>43CD1C19C6210FCC27120A438B0F95D2</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>11ABF6CBAEC9C8B6EDD38911C3B5EAF1</string>
+		<key>publisher-unique-id</key>
+		<string>a9379b5b-4b4c-4942-b919-1b30dc253537</string>
+		<key>unique-id</key>
+		<integer>241516034183462293</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Anton Çehov</string>
+	<key>playlistName</key>
+	<string>Anton Çehov</string>
+	<key>releaseDate</key>
+	<string>2012-01-11T19:03:56+00:00</string>
+	<key>sort-artist</key>
+	<string>Besleme</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

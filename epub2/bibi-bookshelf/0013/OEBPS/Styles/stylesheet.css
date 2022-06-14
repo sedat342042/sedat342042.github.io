@@ -1,0 +1,84 @@
+.calibre {
+    display: block;
+    font-size: 0.83333em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre2 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.55em;
+    line-height: 130%
+    }
+.calibre3 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.2em;
+    line-height: 130%
+    }
+.calibre4 {
+    font-family: Symbol;
+    font-size: 1.2em;
+    line-height: 115%
+    }
+.calibre5 {
+    font-family: "Times New Roman";
+    font-size: 0.625em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.MsoListParagraphCxSpFirst {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 1em;
+    line-height: 115%;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0 0 0 50.2pt
+    }
+.MsoNormal {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 1em;
+    line-height: 130%;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.MsoNormal1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 1em;
+    line-height: 115%;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 14.2pt;
+    margin: 0
+    }
+.WordSection {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    page: WordSection1;
+    text-indent: 1.5em
+    }

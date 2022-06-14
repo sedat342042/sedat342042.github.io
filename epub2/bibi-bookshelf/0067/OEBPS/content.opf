@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Çehov, Anton">Anton Çehov</dc:creator>
+<dc:publisher>Cumhuriyet Dünya Klasikleri</dc:publisher>
+    <meta content="Martı ve Vişne Bahçesi" name="calibre:title_sort"/>
+    <meta content="2014-06-16T15:25:59.179000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>1998-06-09T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0bbd11ac-eb39-49b0-8d13-8bd395c859b1</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-06-17</dc:date>
+  <dc:title>Martı ve Vişne Bahçesi</dc:title>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Oyun</dc:subject>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:description>&lt;p&gt;Öyle oyunlar vardır ki, okunduğunda da insanda sahnedekine yakın bir etki yaratacak kadar yüce bir evrensel dile sahiptir. Vişne Bahçesi’ni okurken yaşadığımız çağın ve gerçeklerin, içinde bulunduğumuz, içinde büyümekte zorlandığımız, büyümekten anladığımız şeyin gittikçe törpülenmek ve yitmeye zorlanmak olduğunu algıladığımız kavramlarla ve  evrensel gerçekler açısından ne denli örtüşen simgelerle oyunun donatıldığını bir kez daha alt metinler olarak elimde tuttuğumu gördüm.
+
+Birilerinin Vişne Bahçesi’ne dönüşen hayatlarından yola çıkıp, bir sürü şeyi gözden geçirme şansım oldu tekrar...
+
+Çehov oyunları Rusya’nın 1800’lü yıllarının sonuna denk gelen yıllarını işleyen, toplumsal çarpıklıkların ve eşitsizliklerin izlendiği bir dönemi kapsıyordu. Çehov oyunlarında, insanın varlık nedenini, aydın yozlaşmasını, emeğin ve çalışmanın erdemini anımsatacak çok önemli durumlar ve sözler çıkarır karşımıza. Yazar, kendi toplumunun herhangi bir dönemini ele alırken, evrensel kalemiyle,  başka bir toplumun çok daha farklı bir dönemine denk düşecek kadar ileri görüşlü bir cümleyi de söyleyivermektedir.&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Anton Çehov&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">4e95e613-525a-478f-97e0-dbf11c5f9dd9</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Anton Cehov - Marti &amp; Visne Bahcesi_split_000.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/Anton Cehov - Marti &amp; Visne Bahcesi_split_001.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Anton Cehov - Marti &amp; Visne Bahcesi_split_002.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Anton Cehov - Marti &amp; Visne Bahcesi_split_003.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Anton Cehov - Marti &amp; Visne Bahcesi_split_004.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Anton Cehov - Marti &amp; Visne Bahcesi_split_005.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Anton Cehov - Marti &amp; Visne Bahcesi_split_006.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Ostrovki, Aleksandr Nikolayeviç" opf:role="aut">Aleksandr Nikolayeviç Ostrovki</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID" />
+    <dc:date>1999-12-31T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-02-10</dc:date>
+    <dc:publisher>Cumhuriyet Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: 17px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; direction: ltr; background-color: transparent; "&gt;Moskova’daki “Maly Theatre” (Küçük Tiyatro) “Ostrovski’nin Evi” diye bilinir. Aleksandr Nikolayeviç Ostrovki (1823-1886) on dokuzuncu yüzyılın ortalarında Rus tiyatrosuna damgasını vuran adamdır. Bugün hâlâ ülkesindeki tiyatroların dağarında yer almakla kalmaz; sınırları çoktan asan oyunları tiyatro dünyasının&lt;/p&gt;&lt;p style="box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: 17px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; direction: ltr; background-color: transparent; "&gt;baskentlerinde tekrar tekrar oynanır. İlk önemli oyunu “İflas Bayrağı”nı yazıncaya kadar mahkemelerde dolanıp durdu. Gel gelelim avukatlık yılları daha çok oyunları için malzeme toplamasına yaradı. Daha sonra “Aile İçinde Kalsın” adıyla da bilinen bu oyun dalavereci tüccar sınıfının yasamını realist çizgilerle çiziyordu.&lt;/p&gt;&lt;p style="box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: 17px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; direction: ltr; background-color: transparent; "&gt;Sansürün hısmına uğradığı için tam on üç yıl sahnelenmesi yasaklandı. Ama daha sahnelenmeden yazarına ün getirmisti. Daha sonra yazdığı “Fakirlik Ayıp Değil” adlı komedi bir hayli basarı kazandı. Bunu “Kozma Minin” ve “Vasilisa Melenteva” gibi tarihi piyesler izledi. “Karların Kızı” adlı fantezisini Rimsky-Korsakov bir opera yaptı. Yine de en basarılı yapıtları Rusya’daki orta sınıf, tüccarlar ve küçük toprak sahipleri üstüne yazdığı oyunlar ve komedyalardır. En önemli rollerinden birini “Çeyizsiz Gelin”de oynayan Stanislavski, yazardan çok etkilendiğini söyler: “Volga’daki küçük kentlerden birinde Avrupa limanlarına gidip sık giyinmesini, hava basmasını öğrenen tüccarlar yüreklerinde hâlâ hayvanoğlu hayvandırlar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.22.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="Bu Hesapta Yoktu" name="calibre:title_sort" />
+    <meta content="{&quot;Aleksandr Nikolayeviç Ostrovki&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="8.0" name="calibre:rating" />
+    <meta content="0101-01-01T00:00:00+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <dc:title>Bu Hesapta Yoktu</dc:title>
+    <dc:subject>Rus Edebiyatı</dc:subject>
+    <dc:subject>Tiyatro</dc:subject>
+    <dc:subject>Drama</dc:subject>
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">23a22448-ff3a-42fd-ba2b-c16bc48b04b0</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">17332865</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/style.css" id="style.css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="Section0003.xhtml" />
+    <itemref idref="Section0004.xhtml" />
+    <itemref idref="Section0005.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/Section0003.xhtml" title="Text" type="text" />
+    <reference href="Text/Section0004.xhtml" title="Text" type="text" />
+    <reference href="Text/Section0005.xhtml" title="Text" type="text" />
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

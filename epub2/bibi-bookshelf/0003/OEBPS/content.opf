@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Christie, Agatha">Agatha Christie</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">b153459d-3bfb-44e8-96a4-a7ab5e4b8cca</dc:identifier>
+    <meta content="2013-12-07T10:15:06.421000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>1978-01-14T22:00:00+00:00</dc:date>
+    <meta content="Arsenik" name="calibre:title_sort"/>
+    <dc:publisher>Başak Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Geçirdiği bir kazadan sonra doktor tarafından istirahat etmesi önerilen Jerry, kızkardeşi Joanna ile yerleştiği ufak bir kasabada, önce birçok kişiye yollanan imzasız mektuplar, ardından da cinayete varan olayların içinde bulur kendisini.&lt;/span&gt;&lt;br style="text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="color: rgb(62, 62, 62); font-family: Tahoma, Calibri, Verdana, Geneva, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 17.219999313354492px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; "&gt;&lt;font class="Apple-style-span" color="#3e3e3e" face="Tahoma, Calibri, Verdana, Geneva, sans-serif" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; "&gt;&lt;span class="Apple-style-span" style="font-size: 14px; line-height: 17px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-01-22</dc:date>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:title>Arsenik</dc:title>
+<dc:subject>Polisiye</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">645a1a9a-0865-4857-a818-4b73169133ab</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">7PKVGwAACAAJ</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Arsenik3.html" id="Arsenik3.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/Arsenik1.html" id="Arsenik1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik2.html" id="Arsenik2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik1_0004.html" id="Arsenik1_0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik1_0003.html" id="Arsenik1_0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik1_0001.html" id="Arsenik1_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik1_0002.html" id="Arsenik1_0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik2_0001.html" id="Arsenik2_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik2_0003.html" id="Arsenik2_0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik2_0002.html" id="Arsenik2_0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik3_0002.html" id="Arsenik3_0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik3_0001.html" id="Arsenik3_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik3_0004.html" id="Arsenik3_0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik3_0005.html" id="Arsenik3_0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Arsenik3_0003.html" id="Arsenik3_0003.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Arsenik1.html"/>
+    <itemref idref="Arsenik1_0001.html"/>
+    <itemref idref="Arsenik1_0002.html"/>
+    <itemref idref="Arsenik1_0003.html"/>
+    <itemref idref="Arsenik1_0004.html"/>
+    <itemref idref="Arsenik2.html"/>
+    <itemref idref="Arsenik2_0001.html"/>
+    <itemref idref="Arsenik2_0002.html"/>
+    <itemref idref="Arsenik2_0003.html"/>
+    <itemref idref="Arsenik3.html"/>
+    <itemref idref="Arsenik3_0001.html"/>
+    <itemref idref="Arsenik3_0002.html"/>
+    <itemref idref="Arsenik3_0003.html"/>
+    <itemref idref="Arsenik3_0004.html"/>
+    <itemref idref="Arsenik3_0005.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

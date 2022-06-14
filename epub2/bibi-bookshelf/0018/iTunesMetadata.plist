@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Agatha Christie</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>841024F7C11CE3A2206BFB6B5D180D3B</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>939AE115DBA86067ABA3709328435838</string>
+		<key>publisher-unique-id</key>
+		<string>2e6b7b41-027f-4c07-a4a4-58d9151d1968</string>
+		<key>unique-id</key>
+		<integer>2075054904867847400</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Üç Perdelik Cinayet</string>
+	<key>playlistName</key>
+	<string>Üç Perdelik Cinayet</string>
+	<key>releaseDate</key>
+	<string>2011-10-16T10:02:40+00:00</string>
+	<key>sort-artist</key>
+	<string>Christie, Agatha</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

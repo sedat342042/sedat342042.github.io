@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="1f0dd2b5-4a8d-461c-b7dd-8728a0cbc044" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (1.45.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bakır Atlı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u43bb2fe3-302f-4638-a2c2-36432642a30e" playOrder="1">
+      <navLabel>
+        <text>PUŞKİN VE EPİK ŞİİRİ</text>
+      </navLabel>
+      <content src="Text/index_split_002.html"/>
+      <navPoint id="uc2cef598-91ce-45ec-90af-b186df30e246" playOrder="2">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#toc_id_2"/>
+      </navPoint>
+      <navPoint id="u1c9e51b7-4777-4ca3-99a7-3a48342f90bf" playOrder="3">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#toc_id_3"/>
+      </navPoint>
+      <navPoint id="u01d37796-f5a7-4d4b-8311-3fe05ce8e221" playOrder="4">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ue3e579f7-1df9-4e38-a1c8-d518809afdcf" playOrder="5">
+      <navLabel>
+        <text>BAKIR ATLI</text>
+      </navLabel>
+      <content src="Text/index_split_003.html"/>
+      <navPoint id="ub2ce87b8-d323-4c47-98fe-35c73ff1a481" playOrder="6">
+        <navLabel>
+          <text>Bahçesaray Çeşmesi</text>
+        </navLabel>
+        <content src="Text/index_split_004.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u6bb96d4c-d802-463e-be84-f7a49f6e918c" playOrder="7">
+      <navLabel>
+        <text>Çingeneler</text>
+      </navLabel>
+      <content src="Text/index_split_006.html"/>
+      <navPoint id="u06c80d23-2551-4b47-bf14-ddf92174ab32" playOrder="8">
+        <navLabel>
+          <text>Sonsöz</text>
+        </navLabel>
+        <content src="Text/index_split_008.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uc4538604-aabd-4d26-8a7d-aff4440b78a9" playOrder="9">
+      <navLabel>
+        <text>Bakır Atlı</text>
+      </navLabel>
+      <content src="Text/index_split_009.html"/>
+      <navPoint id="ua41cee06-7f6f-4a4c-bb14-f65d83f15a15" playOrder="10">
+        <navLabel>
+          <text>Petersburg Öyküsü</text>
+        </navLabel>
+        <content src="Text/index_split_010.html"/>
+        <navPoint id="u42c86734-68df-47dc-b309-dd2e4c5c5389" playOrder="11">
+          <navLabel>
+            <text>Önsöz</text>
+          </navLabel>
+          <content src="Text/index_split_011.html"/>
+        </navPoint>
+        <navPoint id="uba51c409-e1ea-4d6f-896b-657024b9ff94" playOrder="12">
+          <navLabel>
+            <text>Giriş</text>
+          </navLabel>
+          <content src="Text/index_split_012.html"/>
+        </navPoint>
+        <navPoint id="u74ae4367-568f-413e-ba19-e9353e10a8ce" playOrder="13">
+          <navLabel>
+            <text>Birinci bölüm</text>
+          </navLabel>
+          <content src="Text/index_split_013.html"/>
+        </navPoint>
+        <navPoint id="u518e82eb-0307-4d5a-b389-123fe0a8faa3" playOrder="14">
+          <navLabel>
+            <text>İkinci bölüm</text>
+          </navLabel>
+          <content src="Text/index_split_014.html"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ud0b343be-ab94-495d-85a9-334a373dc98a" playOrder="15">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/index_split_016.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

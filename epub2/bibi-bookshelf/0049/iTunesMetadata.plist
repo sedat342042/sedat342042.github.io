@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Aleksandr Puşkin</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>EF4EEBB5DEA3CECE899C52B19767F2D5</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>97C8BD9BD045EFD8D9FE4AE437AFCA32</string>
+		<key>publisher-unique-id</key>
+		<string>13f23a6d-19ef-4d0a-9d70-703042e65bd1</string>
+		<key>unique-id</key>
+		<integer>8759800354196677823</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Dubrovski</string>
+	<key>playlistName</key>
+	<string>Dubrovski</string>
+	<key>releaseDate</key>
+	<string>2010-11-03T23:03:03.575169+00:00</string>
+	<key>sort-artist</key>
+	<string>Puşkin, Aleksandr</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>
