@@ -1,0 +1,177 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+
+@font-face {
+	font-family: "Palatino";
+	font-style: normal;
+	font-weight: normal;
+	src: url("font/Palatino-Turk.ttf");
+}
+
+@font-face {
+	font-family: "Palatino";
+	font-style: normal;
+	font-weight: bold;
+	src: url("font/Palatino-Bold.ttf");
+}
+
+@font-face {
+	font-family: "Palatino";
+	font-style: italic;
+	font-weight: normal;
+	src: url("font/Palatino-ItalicOsF.ttf");
+}
+
+/*cover*/
+.cover-container {
+	max-width: 500px;
+	page-break-inside: avoid;
+	margin: auto;
+}
+
+.cover-container img {
+	width: 100%;
+}
+
+#biography header {
+	text-align: center;
+	margin: 1em auto 2em auto;
+} 
+
+#biography h1 {
+	text-align: center;
+	margin: 0 auto;
+	font: normal normal .92em/1.2em "Palatino YKY";
+}
+
+#biography header span {
+	font: normal normal .83em/1.2em "Palatino";
+	display: block;
+	text-align: center;
+	
+	}
+
+#biography p {
+	font: normal normal .7em/1.35em "Palatino YKY";
+	text-indent: 0;
+	margin-bottom: .5em;
+}
+
+/*titlepage*/
+
+.titlepage section{
+	text-align: center;
+	font-family: "Palatino";
+}
+.work{
+	margin-top:2em;
+	font-size: 2em;
+	font-weight: bold;
+}
+.aut{
+	margin-top:2em;
+	font-size: 1.66em;
+}
+.sub-title{
+	font-size: 1em;
+	line-height: 1.2em;
+	font-style: italic;
+}
+
+.seri {
+	text-align: center;
+	font: 1em;
+	margin-top: 3em;
+}
+
+.logo{
+	width: 100px;
+	margin: auto;
+	page-break-inside: avoid;
+	margin-top: 4em;
+}
+
+.logo img {
+	width:100%;
+}
+
+/*copyright-page*/
+
+.copyright-page section{
+	margin-top: 1em;
+	text-align: center;
+	font: normal normal .8em/1.2em "Palatino";
+}
+
+.copyright-page span {
+	display: block;
+	text-align: center;
+}
+
+.copyright-page a {
+	text-decoration: none;
+	color: #777;
+}
+
+/*title-image*/
+
+.title-image {
+	max-width: 450px;
+	margin: 1em auto 0;
+	page-break-inside: avoid; 
+}
+
+.title-image img {
+	width: 100%;
+}
+
+/*part*/
+
+.part section {
+	margin-top: 6em;
+	text-align: center;
+}
+
+.part-header {
+	text-align: center;
+	font:normal bold 1.5em/1.2em "Palatino";
+}
+
+/*chapter*/
+
+section > p:first-child {
+	margin-top: 6em;
+}
+
+p {
+	font: normal normal .875em/1.23em "Palatino";
+	text-indent: 2em;
+	margin: 0 auto;
+}
+
+blockquote {
+	margin: 1em auto 1em 1.8em;
+}
+
+blockquote p {
+	text-indent: 0;
+}
+
+hr {
+	border: none;
+	text-align: center;
+	margin: 1em auto; 
+}
+
+hr:after {
+	content: "*";
+	font: normal normal .875em/1.2em "Palatino";
+}
+
+
+.no-indent {
+	text-indent: 0;
+}
+
+.margin-top {
+	margin-top: 1em;
+}

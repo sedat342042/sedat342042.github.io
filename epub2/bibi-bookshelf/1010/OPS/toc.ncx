@@ -1,0 +1,31 @@
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+  <head>
+    <meta content="urn:isbn:9789750828201" name="dtb:uid"/>
+  </head>
+  <docTitle>
+     <text>Üç Anadolu Efsanesi</text>
+  </docTitle>
+  <docAuthor>
+   <text>Yaşar Kemal</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="part1" playOrder="1">
+       <navLabel>
+          <text>KÖROĞLUNUN MEYDANA ÇIKIŞI</text>
+       </navLabel>
+       <content src="part1.xhtml"/>
+    </navPoint>
+    <navPoint id="part2" playOrder="2">
+       <navLabel>
+          <text>KARACAOĞLAN</text>
+       </navLabel>
+       <content src="part2.xhtml"/>
+    </navPoint>
+    <navPoint id="part3" playOrder="3">
+       <navLabel>
+          <text>ALAGEYİK</text>
+       </navLabel>
+       <content src="part3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Kemal, Yaşar">Yaşar Kemal</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">74c86f76-9f07-4a77-8160-106d8cac03a8</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2007-05-14T21:00:00+00:00</dc:date>
+    <meta content="Ada Hikayesi 1 - Fırat suyu kan akıyor baksana, Bir" name="calibre:title_sort"/>
+    <meta content="2014-05-29T21:40:32.296000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_kapak.jpeg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Bir Ada Hikayesi dörtlüsü, savaşlardan, kırımlardan, sürgünlerden arta kalan insanların, Yunanistan'a gönderilen Rumların boşalttığı bir adada yeni bir yaşam kurma çabalarını konu alır. Umut romanın baş kahramanıdır. 
+
+Lozan'da alınan mübadele kararıyla, Rumlar Yunanistan'a gönderilmiş ve savaşlarda yerini yurdunu yitirmiş insanların Ege'deki bu adaya yerleştirilmelerine karar verilmiştir. Adanın kaderi Poyraz Musa'nın gelişiyle değişir. Adaya sığınan çeşitli kökenlerden insanlar, Poyraz Musa'nın desteğiyle yaşadıkları bütün acılara karşın mutlu ayakta tutarak yeni bir yaşamın filizlerini yeşertirler. 
+
+'Yaşar Kemal çağdaş dünyanın en büyük anlatıcılarından biridir. Onu okumak yaşamın kendisini anlamaktır. O, korkusuz bir kahraman gibi yazıyor.'
+-John Berger-
+
+'Yaşar Kemal Homeros'tan bu yana gelen en eski gleneksel anlatıcıdır. Başka bir sesi olmayan bir halkın sesidir.'
+-Elia Kazan-
+
+'Yitirdiğimiz anlatım geleneğini ne mutlu ki Yaşar Kemal bumuş. Tarihi ve politikayı altüst ederek yirmibeş - otuz yüzyıl sonra Yunanlı ozan (Homeros) susmuş ve söz sırası Troyalı ozana (Yaşar Kemal) geçmiştir.'&lt;/p&gt;</dc:description>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Yaşar Kemal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-05-30</dc:date>
+  <dc:title>Bir Ada Hikayesi 1 - Fırat suyu kan akıyor baksana</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Türk Edebiyatı</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">9c6ff27f-5369-4345-bbd9-96a8d266a33c</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">A1sIAQAAMAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750807060</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/split_000.html" id="split_000.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="split_000.html"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

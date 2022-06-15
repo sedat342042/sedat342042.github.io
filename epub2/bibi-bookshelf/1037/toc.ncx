@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="cea96d35-348e-467a-9a6a-671a8af9170a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.13.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Balıkçı ve Oğlu</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>(Adsız)</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="1">
+      <navLabel>
+        <text>(Adsız)</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="1">
+      <navLabel>
+        <text>(Adsız)</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="1">
+      <navLabel>
+        <text>BALIKÇI VE OĞLU</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="2">
+      <navLabel>
+        <text>BALIKÇI VE OĞLU</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="fa3c718b-ebc8-41e7-a12d-12191fd34239" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>NUHUN GEMİSİ- Bu Diyar Baştanbaşa 1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="09a78145-f9bf-4d71-b2d4-e0860627fd36" playOrder="1">
+      <navLabel>
+        <text>Diyarbakır</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_004.html"/>
+    </navPoint>
+    <navPoint id="117b8a85-6c53-4fb8-ba61-d8433930415c" playOrder="2">
+      <navLabel>
+        <text>Dünyada Van</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_011.html"/>
+    </navPoint>
+    <navPoint id="03036191-2ca1-4e53-ad49-b9416d5d5265" playOrder="3">
+      <navLabel>
+        <text>Kaçakçılar Arasında 25 Gün</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_021.html"/>
+    </navPoint>
+    <navPoint id="d6618b56-ae73-42f5-b5e9-7d3828e1c8f2" playOrder="4">
+      <navLabel>
+        <text>Erzurum Dağları Kar ile Boran</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_034.html"/>
+    </navPoint>
+    <navPoint id="308962fc-2f65-412d-9c15-bf36fe34a0f7" playOrder="5">
+      <navLabel>
+        <text>Üçüncü Mevki Yolcuları</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_041.html"/>
+    </navPoint>
+    <navPoint id="2c8d0e40-b519-40a0-8c60-2e0ead676436" playOrder="6">
+      <navLabel>
+        <text>Otobüsle Anadolu</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_042.html"/>
+    </navPoint>
+    <navPoint id="24c99ed7-aaec-4313-9356-1d3e5e474061" playOrder="7">
+      <navLabel>
+        <text>Amasya Sular Altında</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_049.html"/>
+    </navPoint>
+    <navPoint id="e411d1f0-5bbb-48ef-b50f-7125ff9db103" playOrder="8">
+      <navLabel>
+        <text>Görülmemiş Lüfer Akını</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_051.html"/>
+    </navPoint>
+    <navPoint id="82842e9b-ad20-48c6-aa8b-5c586fee24e8" playOrder="9">
+      <navLabel>
+        <text>Ambar Yolcuları ile Seyahat</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_052.html"/>
+    </navPoint>
+    <navPoint id="48d70366-51b0-40a5-8b03-6fcac5c0d1e2" playOrder="10">
+      <navLabel>
+        <text>Nuhun Gemisi Peşinde</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_057.html"/>
+    </navPoint>
+    <navPoint id="1ec97d96-f02e-48a2-870f-af68c5d55aec" playOrder="11">
+      <navLabel>
+        <text>Sait Faikle Görüşme</text>
+      </navLabel>
+      <content src="Text/NuhunGemisi2_split_065.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

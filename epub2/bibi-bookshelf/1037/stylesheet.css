@@ -1,0 +1,160 @@
+.block_ {
+    display: block;
+    font-family: serif;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_1 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_2 {
+    display: block;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_3 {
+    display: block;
+    font-family: serif;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_4 {
+    display: block;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_5 {
+    display: block;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_6 {
+    display: block;
+    font-family: serif;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_7 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_8 {
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_9 {
+    display: block;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 0;
+    padding: 0
+    }
+.block_10 {
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 0;
+    padding: 0
+    }
+.block_11 {
+    display: block;
+    font-family: serif;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 0;
+    padding: 0
+    }
+.block_12 {
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 0;
+    padding: 0
+    }
+.block_13 {
+    display: block;
+    font-family: serif;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_14 {
+    display: block;
+    font-style: italic;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_15 {
+    display: block;
+    font-family: serif;
+    text-align: right;
+    text-indent: 14.2pt;
+    margin: 0;
+    padding: 0
+    }
+.block_16 {
+    display: block;
+    text-align: right;
+    text-indent: 14.2pt;
+    margin: 0;
+    padding: 0
+    }
+.block_17 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 0;
+    padding: 0
+    }
+.block_18 {
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 0;
+    padding: 0
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Palatino Linotype", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-style: italic
+    }
+.calibre2 {
+    font-weight: bold
+    }
+.text_ {
+    font-style: italic;
+    font-weight: bold
+    }

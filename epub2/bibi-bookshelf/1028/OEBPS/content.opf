@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Atılgan, Yusuf">Yusuf Atılgan</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:fcb4a5ce-85e0-4f57-90f8-2c7e0ac0ce9c</dc:identifier>
+    <dc:date>2001-11-21T22:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta name="cover" content="yky-anayurt-oteli.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Anayurt Oteli"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yusuf Atılgan&quot;: &quot;&quot;}"/>
+  <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:title>Anayurt Oteli</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Türk Edebiyatı</dc:subject>
+<dc:subject>Yaşam</dc:subject>
+<dc:description>&lt;p&gt;"Ne ölü, ne sağ" bir yaşamın kahramanı Zebercet. Gözünü ilk açtığı ve yaşadığı Anayurt Oteli'yle aynı kaderi paylaşıyor: Birbirine benzeyen geçici ilişkilerle geçen günler, yalnız ve tek başına sürüklenen bir hayat.
+
+Gecikmeli Ankara treniyle gelen -adını bile bilmediğimiz- kadın otelde bir gece kalır ve 
+Zebercet'in de, Anayurt Oteli'nin de sessiz akıp giden günlerinin içeriği değişir.
+
+Küçük ayrıntıların tekdüze şaşmazlığında nerdeyse takıntılarla sürüklenen bir yaşamın öfkesi de, çaresizliği de büyük oluyor.
+
+Türk edebiyatının unutulmaz bir tipi ve unutulmaz bir mekanı.&lt;/p&gt;</dc:description>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2d596c2a-58f0-4963-8960-bbe8a43b75de</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750800665</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/yky-anayurt-oteli.jpg" id="yky-anayurt-oteli.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0001.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

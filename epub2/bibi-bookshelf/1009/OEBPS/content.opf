@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Kemal, Yaşar">Yaşar Kemal</dc:creator>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">96a76048-2924-4ee4-8974-df4e544be845</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;p class="description"&gt;Bir Ada Hikayesi dörtlüsü, savaşlardan, kırımlardan, sürgünlerden arta kalan insanların, Yunanistan'a gönderilen Rumların boşalttığı bir adada yeni bir yaşam kurma çabalarını konu alır. &lt;/p&gt;
+&lt;p class="description"&gt;Dörtlünün son kitabı Çıplak Deniz Çıplak Ada'da, geçmişin yaraları kapanmaya yüz tutmuştur ama tam olarak değil. Lena Ana'nın hasretle yolunu beklediği kayıp oğulları geri dönmüştür ama bütün balıkçıların reisi Hıristo'nun başına beklenmedik bir olay gelir.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2012-10-04T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2015-03-07</dc:date>
+    <meta name="cover" content="cover"/>
+    <meta content="2015-02-08T08:07:16.997000+00:00" name="calibre:timestamp"/>
+    <meta content="Çıplak Deniz Çıplak Ada" name="calibre:title_sort"/>
+    <meta content="{&quot;Yaşar Kemal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:series" content="Bir Ada Hikayesi"/>
+    <meta name="calibre:series_index" content="4.0"/>
+    <meta name="calibre:rating" content="8.0"/>
+  <dc:title>Çıplak Deniz Çıplak Ada</dc:title>
+<dc:subject>Roman</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e8388db4-1546-4092-9d28-f76441edc9d8</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750823596</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">16068549</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Text/Section0005_split1.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005_split2.xhtml" id="id3" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="id"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

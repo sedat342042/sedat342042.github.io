@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">Üç Anadolu Efsanesi</dc:title>
+    <dc:creator id="id-1">Yaşar Kemal</dc:creator>
+    <dc:identifier>isbn:9789750828201</dc:identifier>
+    <dc:identifier>calibre:eab43887-6021-490a-abd2-d3610c1e5cc2</dc:identifier>
+    <dc:identifier>uuid:eab43887-6021-490a-abd2-d3610c1e5cc2</dc:identifier>
+    <dc:identifier id="pub-id">urn:isbn:9789750828201</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="title-image.xhtml" id="title-imagexhtml" media-type="application/xhtml+xml"/>
+    <item href="part1.xhtml" id="part1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="part2.xhtml" id="part2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="part3.xhtml" id="part3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="maincss" media-type="text/css"/>
+    <item href="image/cover.jpg" id="image__coverjpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="image/title.jpg" id="image__titlejpg" media-type="image/jpeg"/>
+    <item href="image/ykylogo.png" id="image__ykylogopng" media-type="image/png"/>
+    <item href="font/Palatino-Bold.ttf" id="font__Palatino-Boldttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/Palatino-ItalicOsF.ttf" id="font__Palatino-ItalicOsFttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/Palatino-Turk.ttf" id="font__Palatino-Turkttf" media-type="application/vnd.ms-opentype"/>
+    <item href="titlepage_u1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="title-imagexhtml"/>
+    <itemref idref="part1xhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="part2xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="part3xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="biographyxhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage_u1.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

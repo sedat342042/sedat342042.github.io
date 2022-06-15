@@ -1,0 +1,42 @@
+.calibre {
+    display: block;
+    font-family: "LiberationSerif", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    height: 525pt;
+    width: 331pt
+    }
+.calibre3 {
+    height: 234pt;
+    width: 325pt
+    }
+.calibre4 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre5 {
+    font-weight: bold
+    }
+.calibre6 {
+    height: 497pt;
+    width: 323pt
+    }
+.calibre7 {
+    font-style: italic
+    }
+.calibre8 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre9 {
+    height: 11pt;
+    width: 53pt
+    }
